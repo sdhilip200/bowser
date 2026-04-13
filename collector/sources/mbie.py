@@ -52,7 +52,15 @@ def _iso_week_ending(date_str: str) -> str:
 
 
 def _download() -> pd.DataFrame:
-    r = httpx.get(URL, timeout=60.0, follow_redirects=True)
+    headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/120.0.0.0 Safari/537.36"
+        ),
+        "Accept": "text/csv,application/vnd.ms-excel,*/*",
+    }
+    r = httpx.get(URL, timeout=60.0, follow_redirects=True, headers=headers)
     r.raise_for_status()
     return pd.read_csv(io.BytesIO(r.content))
 
