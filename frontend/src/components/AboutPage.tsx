@@ -162,17 +162,87 @@ export function AboutPage({ onBack }: Props) {
         >
           <h2>Tech stack</h2>
           <p>
-            <em>
-              Placeholder — I'll expand this section with architecture
-              decisions and trade-offs soon.
-            </em>
+            The entire app — every line of Python, every D3 chart, every
+            CSS token, this About page itself — was built with{" "}
+            <a
+              href="https://claude.com/claude-code"
+              target="_blank"
+              rel="noreferrer"
+              className="about-link"
+            >
+              Claude Code
+            </a>
+            . I directed the design and made the calls; Claude wrote the
+            code, ran the collectors, and iterated until each piece felt
+            right. Building in public, with AI as the pair.
           </p>
-          <p className="about-stack">
-            Python 3.13 · uv · httpx · feedparser · pandas · pydantic ·
-            APScheduler · React 18 · TypeScript · Vite · D3 v7 · Framer
-            Motion · Fontsource (Fraunces, Inter Tight, JetBrains Mono). No
-            database, no API server, no login — just a static snapshot file
-            and a client that renders it.
+          <ul className="about-list">
+            <li>
+              <strong>Visualization</strong> —{" "}
+              <a
+                href="https://d3js.org"
+                target="_blank"
+                rel="noreferrer"
+                className="about-link"
+              >
+                D3 v7
+              </a>
+              . Every chart on this site — the crude line, the pump
+              sparklines, the ten-year retail trend, the waterfall, the
+              fuel supply stacked bars — is hand-coded in D3. No
+              Recharts, no Chart.js, no Nivo
+            </li>
+            <li>
+              <strong>Frontend</strong> — React 18 · TypeScript · Vite ·
+              Framer Motion · Fontsource (Fraunces, Inter Tight,
+              JetBrains Mono)
+            </li>
+            <li>
+              <strong>Collector</strong> — Python 3.13 · uv · httpx ·
+              feedparser · pandas · pydantic
+            </li>
+            <li>
+              <strong>Hosting</strong> —{" "}
+              <a
+                href="https://vercel.com"
+                target="_blank"
+                rel="noreferrer"
+                className="about-link"
+              >
+                Vercel
+              </a>{" "}
+              (static frontend + edge CDN + analytics, free tier)
+            </li>
+            <li>
+              <strong>Scheduling</strong> —{" "}
+              <a
+                href="https://github.com/features/actions"
+                target="_blank"
+                rel="noreferrer"
+                className="about-link"
+              >
+                GitHub Actions
+              </a>{" "}
+              cron jobs run the collector daily and refresh news hourly,
+              committing the snapshot back to the repo to trigger a
+              redeploy
+            </li>
+            <li>
+              <strong>Source</strong> —{" "}
+              <a
+                href="https://github.com/sdhilip200/bowser"
+                target="_blank"
+                rel="noreferrer"
+                className="about-link"
+              >
+                github.com/sdhilip200/bowser
+              </a>
+              , public
+            </li>
+          </ul>
+          <p>
+            No database, no API server, no login — just a single JSON
+            snapshot file and a client that renders it.
           </p>
         </motion.section>
 
