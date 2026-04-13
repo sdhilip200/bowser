@@ -219,38 +219,10 @@ export function AboutPage({ onBack }: Props) {
               feedparser · pandas · pydantic
             </li>
             <li>
-              <strong>Hosting</strong> —{" "}
-              <a
-                href="https://vercel.com"
-                target="_blank"
-                rel="noreferrer"
-                className="about-link"
-              >
-                Vercel
-              </a>
+              <strong>Hosting</strong> — Vercel
             </li>
             <li>
-              <strong>Scheduling</strong> —{" "}
-              <a
-                href="https://github.com/features/actions"
-                target="_blank"
-                rel="noreferrer"
-                className="about-link"
-              >
-                GitHub Actions
-              </a>
-            </li>
-            <li>
-              <strong>Source</strong> —{" "}
-              <a
-                href="https://github.com/sdhilip200/bowser"
-                target="_blank"
-                rel="noreferrer"
-                className="about-link"
-              >
-                github.com/sdhilip200/bowser
-              </a>
-              , public
+              <strong>Scheduling</strong> — GitHub Actions
             </li>
           </ul>
         </motion.section>
