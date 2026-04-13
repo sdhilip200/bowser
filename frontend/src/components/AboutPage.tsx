@@ -61,6 +61,30 @@ export function AboutPage({ onBack }: Props) {
             It's also me building in public and having fun with the craft.
           </p>
           <p>
+            Credit where it's due: the spark for Bowser came from stumbling
+            across{" "}
+            <a
+              href="https://nzoilwatch.com"
+              target="_blank"
+              rel="noreferrer"
+              className="about-link"
+            >
+              nzoilwatch.com
+            </a>
+            , which is a beautiful piece of work. Bowser is my much smaller
+            take on the idea, deliberately stripped back to a handful of
+            features. The real experiment for me was the background craft —
+            how fast I could ship something honest end-to-end with vibe
+            coding as the workflow.
+          </p>
+          <p>
+            One thing that isn't here yet: flight data. The original plan
+            was to connect fuel prices to flight prices and cancellations,
+            but a clean public source for flight data has been hard to pin
+            down. I'm still working on it and will fold it in once I find
+            something I trust.
+          </p>
+          <p>
             Find me on{" "}
             <a
               href="https://x.com/sdhilip"
@@ -99,10 +123,6 @@ export function AboutPage({ onBack }: Props) {
             <li>
               <strong>Yahoo Finance</strong> — Brent (BZ=F) and WTI (CL=F)
               front-month futures, daily close
-            </li>
-            <li>
-              <strong>CardLink PriceWatch</strong> — NZ retail fuel prices
-              from fuel-card transactions across 19 regions
             </li>
             <li>
               <strong>MBIE Weekly Fuel Price Monitoring</strong> — official

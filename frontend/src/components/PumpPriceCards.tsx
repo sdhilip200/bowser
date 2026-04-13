@@ -106,14 +106,7 @@ export function PumpPriceCards({ retail, history }: Props) {
       <div className="pump-columns-header">
         <p className="caption pump-col-caption">
           today{retail.as_of ? ` · as at ${formatAsOf(retail.as_of)}` : ""}
-          {" · source: "}
-          <a
-            href="https://www.pricewatch.co.nz"
-            target="_blank"
-            rel="noreferrer"
-          >
-            cardlink pricewatch
-          </a>
+          {" · source: cardlink"}
         </p>
         <p className="caption pump-col-caption">
           last 12 weeks
