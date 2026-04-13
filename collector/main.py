@@ -15,7 +15,12 @@ from pathlib import Path
 
 from dotenv import load_dotenv
 
-from schema import Snapshot
+from schema import (
+    FuelStocks,
+    HistoricalRetail,
+    MBIEWaterfall,
+    Snapshot,
+)
 from sources import cardlink, crude, fx, mbie, mbie_stocks, news
 
 DEFAULT_OUT = "../frontend/public/data/snapshot.json"
@@ -97,15 +102,54 @@ def _archive(snapshot: Snapshot, target: str) -> None:
     print(f"[archive] ok {path}", file=sys.stderr)
 
 
-def build_snapshot() -> Snapshot:
+def _load_prior(target: str) -> dict | None:
+    """Load the existing snapshot from disk (used as a fallback when MBIE
+    blocks GitHub Actions runners — Imperva WAF returns 403 to non-NZ IPs).
+    GCS targets aren't supported here; cron only ever runs against a local
+    path inside the GitHub Actions checkout."""
+    if target.startswith("gs://"):
+        return None
+    path = Path(target)
+    if not path.exists():
+        return None
+    try:
+        return json.loads(path.read_text(encoding="utf-8"))
+    except Exception:  # noqa: BLE001
+        return None
+
+
+def build_snapshot(prior: dict | None = None) -> Snapshot:
     fx_result = _run("fx", fx.fetch)
     crude_result = _run("crude", crude.fetch)
     nz_retail = _run("cardlink", cardlink.fetch)
-    # Share a single MBIE CSV download between waterfall + historical parsers
-    mbie_df = mbie._download()
-    waterfall = _run("mbie", lambda: mbie.fetch(df=mbie_df))
-    historical = _run("mbie_hist", lambda: mbie.fetch_historical(df=mbie_df, years=10))
-    stocks = _run("mbie_stocks", mbie_stocks.fetch)
+
+    # MBIE is fail-soft: Imperva blocks GitHub Actions IPs with 403. When
+    # we can't pull fresh CSV, fall back to the values already in
+    # snapshot.json so the rest of the dashboard still refreshes.
+    waterfall: MBIEWaterfall
+    historical: HistoricalRetail
+    try:
+        mbie_df = mbie._download()
+        waterfall = _run("mbie", lambda: mbie.fetch(df=mbie_df))
+        historical = _run("mbie_hist", lambda: mbie.fetch_historical(df=mbie_df, years=10))
+    except Exception as exc:  # noqa: BLE001
+        print(f"[mbie] FAIL — using prior snapshot values: {exc}", file=sys.stderr)
+        if not prior or "mbie_waterfall" not in prior or "historical_retail" not in prior:
+            raise
+        waterfall = MBIEWaterfall.model_validate(prior["mbie_waterfall"])
+        historical = HistoricalRetail.model_validate(prior["historical_retail"])
+        print("[mbie] ok (stale, from prior snapshot)", file=sys.stderr)
+
+    try:
+        stocks = _run("mbie_stocks", mbie_stocks.fetch)
+    except Exception as exc:  # noqa: BLE001
+        print(f"[mbie_stocks] FAIL — using prior snapshot values: {exc}", file=sys.stderr)
+        stocks = (
+            FuelStocks.model_validate(prior["fuel_stocks"])
+            if prior and prior.get("fuel_stocks")
+            else None
+        )
+
     news_result = _run("news", news.fetch)
     return Snapshot(
         generated_at=datetime.now(timezone.utc).isoformat(timespec="seconds"),
@@ -154,7 +198,7 @@ def main() -> int:
     load_dotenv(".env")  # fallback
     target = os.environ.get("SNAPSHOT_OUT", DEFAULT_OUT)
     try:
-        snapshot = build_snapshot()
+        snapshot = build_snapshot(prior=_load_prior(target))
         _write(snapshot, target)
         _archive(snapshot, target)
     except Exception as exc:  # noqa: BLE001
