@@ -1,0 +1,41 @@
+name: daily-collector
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Install deps
+        working-directory: collector
+        run: uv sync
+
+      - name: Run collector
+        working-directory: collector
+        env:
+          SNAPSHOT_OUT: ../frontend/public/data/snapshot.json
+        run: uv run python main.py
+
+      - name: Commit refreshed snapshot
+        run: |
+          git config user.name "bowser-bot"
+          git config user.email "bowser-bot@users.noreply.github.com"
+          git add frontend/public/data/snapshot.json
+          if git diff --staged --quiet; then
+            echo "no changes"
+          else
+            git commit -m "data: daily refresh $(date -u +%Y-%m-%d)"
+            git push
+          fi

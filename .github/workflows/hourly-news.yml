@@ -1,0 +1,41 @@
+name: hourly-news
+
+on:
+  schedule:
+    - cron: "5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Install deps
+        working-directory: collector
+        run: uv sync
+
+      - name: Refresh news only
+        working-directory: collector
+        env:
+          SNAPSHOT_OUT: ../frontend/public/data/snapshot.json
+        run: uv run python main.py --news-only
+
+      - name: Commit refreshed news
+        run: |
+          git config user.name "bowser-bot"
+          git config user.email "bowser-bot@users.noreply.github.com"
+          git add frontend/public/data/snapshot.json
+          if git diff --staged --quiet; then
+            echo "no news changes"
+          else
+            git commit -m "data: hourly news refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
