@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-04-13T17:16:31+00:00",
+  "generated_at": "2026-04-13T19:14:41+00:00",
   "fx": {
     "nzd_per_usd": 1.720452,
     "as_of": "Mon, 13 Apr 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 102.05,
+      "latest": 98.01,
       "latest_date": "2026-04-13",
-      "delta_1d_pct": 7.2,
-      "delta_30d_pct": 40.8,
+      "delta_1d_pct": 2.95,
+      "delta_30d_pct": 35.22,
       "series": [
         {
           "date": "2025-04-14",
@@ -1013,15 +1013,15 @@
         },
         {
           "date": "2026-04-13",
-          "usd": 102.05
+          "usd": 98.01
         }
       ]
     },
     "wti": {
-      "latest": 103.91,
+      "latest": 97.38,
       "latest_date": "2026-04-13",
-      "delta_1d_pct": 7.6,
-      "delta_30d_pct": 55.04,
+      "delta_1d_pct": 0.84,
+      "delta_30d_pct": 45.3,
       "series": [
         {
           "date": "2025-04-14",
@@ -2025,7 +2025,7 @@
         },
         {
           "date": "2026-04-13",
-          "usd": 103.91
+          "usd": 97.38
         }
       ]
     }
@@ -2033,28 +2033,28 @@
   "nz_retail": {
     "as_of": "2026-04-13",
     "regular_91": {
-      "avg": 3.484,
+      "avg": 3.475,
       "min": 3.301,
       "max": 3.779,
-      "count": 94
+      "count": 56
     },
     "premium_95": {
-      "avg": 3.675,
+      "avg": 3.623,
       "min": 3.37,
       "max": 3.849,
-      "count": 61
+      "count": 22
     },
     "premium_98": {
-      "avg": 3.8,
+      "avg": 3.783,
       "min": 3.579,
       "max": 3.869,
-      "count": 13
+      "count": 5
     },
     "diesel": {
-      "avg": 3.887,
+      "avg": 3.897,
       "min": 3.699,
       "max": 4.329,
-      "count": 96
+      "count": 75
     },
     "lpg": {
       "avg": 0.0,
@@ -2062,8 +2062,8 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 256,
-    "observations_yesterday": 0,
+    "observations_today": 63,
+    "observations_yesterday": 87,
     "observations_older": 8
   },
   "mbie_waterfall": {
@@ -8576,16 +8576,40 @@
     ],
     "global": [
       {
+        "title": "Oil Prices Today: Crude Falls Below $100 as Two Ships Turn Back From U.S. Blockade in Hormuz Strait - Barron's",
+        "source": "Barron's",
+        "published": "Mon, 13 Apr 2026 19:03:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNd2djbmtQY3RWY093MEdNbFQxdFdSa2lBcmxXbWNFRXRyb1Uxa2RzWnRNMjRXRDIzaEdQMmJNb1ltX2ZPOWZWeEFDbmw4S2tsQl9ZVk82cmliR2xSbmxkYWZoZnVRNmFxQ1V4aXVLVE1NTEhhWjdEUmNTcW9QZw?oc=5"
+      },
+      {
+        "title": "Oil Climbs Above $100 as War in Middle East Drives Supply Fears - Morocco World News",
+        "source": "Morocco World News",
+        "published": "Mon, 13 Apr 2026 17:48:12 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRWZUNlNWS2E2d2RsckpBSTZscjRzN1JTdzRqQWh0aVZINk1pSWtLZzFGUlVVSUZmSHI5VUl3UlNOLU8zUVg5a1luMmVFaTFwQ281ZWxmV0IwNEZ0YjA2UlEyV19FZ1lYX1JmYTFfMVgtdldDNUNINWpNX21qc2pUMEM4OTZRLU0waV8yZmJwc3lpVEU0dE1QY244Wjdpdm8yd1M0bTJkWjZ3eTFLcDFUNw?oc=5"
+      },
+      {
+        "title": "Oil prices rise above $100, North American stock market holds steady as U.S.-Iran tensions continue - CBC",
+        "source": "CBC",
+        "published": "Mon, 13 Apr 2026 16:20:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ETWFDMzF4Z0hTdUxxS3o0THR2bWVWRXVvQjE1NlFxNWtUNEdKbkc5WVRXZVNnYkpOY09Za0Z1TURfaEVVQVllaEtLUDFUMWU0UTgxVXJINDY2REM0LXpPRkJ3dVFCN3FxU1dr?oc=5"
+      },
+      {
+        "title": "Oil Prices Surge Above $100 After Peace Talks Fail and Trump Threatens Blockade - The New York Times",
+        "source": "The New York Times",
+        "published": "Mon, 13 Apr 2026 16:02:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGVfemVsYnMzNHNGNTJBSHo2aENIbUR1akU4alFDNHJRZmdnWUdxYmwtTHlBYWV5Ukt1TmxyMVpRbF96czdrRjBQdEEzblZWd1JoeVp4ejl1dmt2eVJjWWJBN1dhMVJSb20wT2VLWlF1czFWOTNhQTdIT2EtRWF5RGdlNVBibEJKbXpValV6R2lUWnVyMGFCWjhFQV9LNnVpNDBaa1hOMXZ6Q2l3YVg1dnRmWV9wSzRwaWY2V2xnVWxpbVpLSXc?oc=5"
+      },
+      {
+        "title": "Oil prices rise after discouraging weekend for Iran war - National News Desk",
+        "source": "National News Desk",
+        "published": "Mon, 13 Apr 2026 16:01:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWDg3NlJMOXZTalF4aGRmMXdTZ28tQkcybkYwWEJRVmdvSGcyRWkyOWoyYkpIaktFU09BNm5aUTkzV1FoTTZ5c3NjSERoQU9MZ3VKNEZFdXN3UnhETGpFcDh5OEZzcTlEYTFNcXZoQXlDTzczbkZQdVhOUmpoUzk2Z2dTejVuU3FvWmZ6MlRaUWlYWmxuX1FiOVBpTmdJQ3k0RmJSNF9iZVd4UWxjLWRtLUhFM3VNVjh4SE5ZR2wzUXpWWVFN?oc=5"
+      },
+      {
         "title": "Oil spikes and stocks swing as the US begins its blockade of the Strait of Hormuz - Business Insider",
         "source": "Business Insider",
         "published": "Mon, 13 Apr 2026 15:44:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNelBYODdibmNyMklBNElES0haNllQcjVtaHBHWmxNb1hhMHduUmpvaHV1bnJjdEMySENod012Q0FjMENIbDMxZWlodzdNSHJvWGk0ZnRrSHY2SGxzSThtc1RPNjJFNDhUaW12MVhhMXdvRVJHV1dvSFVvZ2pCemd6clhPVHJoLThiR1RKY2tySmt1QlYzZUhRdmRiTU9oTEk?oc=5"
-      },
-      {
-        "title": "Oil Prices Above $100. Trump Says Ships That Approach Blockade ‘Will Be Immediately Eliminated.’ - Barron's",
-        "source": "Barron's",
-        "published": "Mon, 13 Apr 2026 15:36:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNd2djbmtQY3RWY093MEdNbFQxdFdSa2lBcmxXbWNFRXRyb1Uxa2RzWnRNMjRXRDIzaEdQMmJNb1ltX2ZPOWZWeEFDbmw4S2tsQl9ZVk82cmliR2xSbmxkYWZoZnVRNmFxQ1V4aXVLVE1NTEhhWjdEUmNTcW9QZw?oc=5"
       },
       {
         "title": "Trump Administration’s Temporary Reprieve on Russian Oil Expires - The New York Times",
@@ -8598,30 +8622,6 @@
         "source": "Petroleum Economist",
         "published": "Mon, 13 Apr 2026 15:04:55 GMT",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWkF3MTR0Z2FhaVgtM3NlblBDdzUzLU84bDd2cDNwb0JxSFBhd2xUWFNLazBLZHoyd2JicGVCbktKNHFqM3NYT0VpRm54dXUyY1NjU20zdHdnSU1TMXRoYzh5ZXMzbW1tcEIxRkk0OWlaWUFULVlEVHhVdUxQRkM5OG91a0hwdGoyd3R6bThtSFZXcU81MGVzYmQ2RUZaLXNtWGxhVjhYbEk2NVdnVEZ2WVZkeTBQbFprbHc?oc=5"
-      },
-      {
-        "title": "Oil prices rise, global markets decline as U.S.-Iran tensions continue - CBC",
-        "source": "CBC",
-        "published": "Mon, 13 Apr 2026 14:57:59 GMT",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ETWFDMzF4Z0hTdUxxS3o0THR2bWVWRXVvQjE1NlFxNWtUNEdKbkc5WVRXZVNnYkpOY09Za0Z1TURfaEVVQVllaEtLUDFUMWU0UTgxVXJINDY2REM0LXpPRkJ3dVFCN3FxU1dr?oc=5"
-      },
-      {
-        "title": "Physical oil hits fresh record high near $150 a barrel as Hormuz crisis worsens - Reuters",
-        "source": "Reuters",
-        "published": "Mon, 13 Apr 2026 14:38:16 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN3dzcVNuSUx3RDE5NGJyZUhvV2dhMmZaMHFrenExLVlaR1lWYmNxb1BrNlp1RHZhRUQ5dTBzME5pUWp0OEw5eUJSOURGZWM1MU1nNHBhcXZNTzhPVWk3emJCLTdYdlFwVDZFSzBIN0VHSHozeHhaa1R5S3FPZEEwOTVqWVQ5VjlTUnJUQ0k1alhROG0zWkJCUlNObjFQbGdsczFhYU90T2RpZ0kzdEpfd21uT0IxM1hVWEpJZV9XaUtGaFNa?oc=5"
-      },
-      {
-        "title": "Oil back above $100 as US to blockade Iran's ports after peace talks fail - BBC",
-        "source": "BBC",
-        "published": "Mon, 13 Apr 2026 13:56:20 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EYlhRdTlzeWl3YWp6ZEo2eUJtdUJNeUI5YndBOThfRThxUUxOTGJKWTU5ZjQwT3l2SVpWRnVaZ3BBU3F0SFBkUkE3OFZtWHJJRk5yR2lDWkNiZw?oc=5"
-      },
-      {
-        "title": "US stocks climb to their best day since the Iran war began after oil prices ease - AOL.com",
-        "source": "AOL.com",
-        "published": "Mon, 13 Apr 2026 13:53:48 GMT",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80N2NWZGMtRFVMaWhhU0NwTEZNV3dYelo4bUJYNTlwRnJuRjFHQ0tTa3NqOGhtdnYtREtJLTUyYktWUHVURGF6RnlsQmtjNjdxRy0za0V0REdKaHNqOTJRRFY5TFhMMHAxekt5Wm1hTGhVclRqcmlYTXdOVQ?oc=5"
       }
     ]
   }
