@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T11:10:02+00:00",
+  "generated_at": "2026-04-13T11:36:42+00:00",
   "fx": {
     "nzd_per_usd": 1.720452,
     "as_of": "Mon, 13 Apr 2026 00:02:31 +0000"
@@ -8526,16 +8526,16 @@
   "news": {
     "nz": [
       {
+        "title": "Latest official fuel stocks info – how much does NZ have? - 1News",
+        "source": "1News",
+        "published": "Mon, 13 Apr 2026 10:52:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb3pwMWxlbFowS2p4WlVNOVp6eWFURDFBRW9KekFmM216dWYxbklEM2t6NW8zRlliR1N6N2NIc3VheGxzLTVObEpYN2djZFhFcEVBQkdQWWhvNVF2LXphaVViUnFnVGN5LUJaZkItbFBBOXRUeEM0MzJXbjVfTlFPcXNfdVBIaUp2eEo2di1IQW9TV1hT?oc=5"
+      },
+      {
         "title": "PM confident NZers 'are assured' on fuel security plans - 1News",
         "source": "1News",
         "published": "Mon, 13 Apr 2026 04:56:11 GMT",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWE9tTEhvQ0REWC01QTV2eGk2LVMxdVF0bmZMOUVCck1Sbk55QldIQmtESXJSaFhMMHhqRFIxaWU1Q3pQRGlEYlNrV1JKd1FOZU5FNGRrQXhydnhfeEZrNm5GQjFMYnNjUmh5Zm5rU0xfcGpqcjNpX0dLejZNOUwxNEdKQ052d2JvUTJTbTk2YnBWU3RMZFBRNEdvUTQtZw?oc=5"
-      },
-      {
-        "title": "Latest official fuel stocks info – how much does NZ have? - 1News",
-        "source": "1News",
-        "published": "Mon, 13 Apr 2026 04:45:48 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb3pwMWxlbFowS2p4WlVNOVp6eWFURDFBRW9KekFmM216dWYxbklEM2t6NW8zRlliR1N6N2NIc3VheGxzLTVObEpYN2djZFhFcEVBQkdQWWhvNVF2LXphaVViUnFnVGN5LUJaZkItbFBBOXRUeEM0MzJXbjVfTlFPcXNfdVBIaUp2eEo2di1IQW9TV1hT?oc=5"
       },
       {
         "title": "Iran war: Christopher Luxon promises news on commercial fuel deals within a week - The Post",
@@ -8575,12 +8575,6 @@
       }
     ],
     "global": [
-      {
-        "title": "WTI Crude Oil Futures Surge 8.1% to $104.39 Pre-Bell; Brent Futures Soar 7.5% to $102.31 - marketscreener.com",
-        "source": "marketscreener.com",
-        "published": "Mon, 13 Apr 2026 10:50:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSkppU3g5dnJpSXNBNkRMdGR6cnhFTmpyeGZUTVQxVmY3QkZObnU0bjBhQTBKLXpGZXJBWXVGU3N3djctRHR0a2JOVHFtSS04bkNYUjQ3eWZQYVVtdWZ2cmxudkRDRjNqM3VLbnFzdVdiU0hFY2tWaUdtZnZHaHdjdkwwV044X0ZDS0pMTEdnTkpHTGVLT21ZSlR3cXdweE9Dem5jMXFEb3pKZDhrb2Q5LUVZTjh1RC1tUFl3ZlpfdG1xNlVBM1hEdWdQSzQ0SFY3NHc?oc=5"
-      },
       {
         "title": "Stock Markets Dip and Oil Climbs After US-Iran Talks Fail to Reach Agreement - Morningstar",
         "source": "Morningstar",
@@ -8622,6 +8616,12 @@
         "source": "The New York Times",
         "published": "Mon, 13 Apr 2026 09:02:15 GMT",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS25kZi1BU2dPMmpZM0J6NTdRN1RyNXJ5OXdxQUNpMzlXVE5mYmVma2pLVy1NMDg4VUNtM29lbThuR2lDbDdvRTNsb2FRS0s2aE9zM0tNZzVjUlpaM1JnMTJfWXlua0U3SERTN0czODJQRUJRQ2dxc2tzR19wTm9iWUtoODljMkZBNkJV?oc=5"
+      },
+      {
+        "title": "Oil back above $100 as US to blockade Iran's ports after peace talks fail - BBC",
+        "source": "BBC",
+        "published": "Mon, 13 Apr 2026 09:00:54 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EYlhRdTlzeWl3YWp6ZEo2eUJtdUJNeUI5YndBOThfRThxUUxOTGJKWTU5ZjQwT3l2SVpWRnVaZ3BBU3F0SFBkUkE3OFZtWHJJRk5yR2lDWkNiZw?oc=5"
       }
     ]
   }
