@@ -35,7 +35,15 @@ jobs:
           git add frontend/public/data/snapshot.json
           if git diff --staged --quiet; then
             echo "no news changes"
-          else
-            git commit -m "data: hourly news refresh $(date -u +%Y-%m-%dT%H:%MZ)"
-            git push
+            exit 0
           fi
+          git commit -m "data: hourly news refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3 4 5; do
+            if git push; then
+              exit 0
+            fi
+            echo "push rejected, rebasing (attempt $i)"
+            git pull --rebase origin main
+          done
+          echo "push failed after 5 attempts" >&2
+          exit 1
