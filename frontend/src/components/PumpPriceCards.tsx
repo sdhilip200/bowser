@@ -158,20 +158,6 @@ export function PumpPriceCards({ retail, history }: Props) {
           );
         })}
       </div>
-      <p className="caption pumpcards-footnote">
-        prices shown are fuel-card transaction averages from cardlink
-        pricewatch, aggregated daily from {retail.observations_today +
-          retail.observations_yesterday +
-          retail.observations_older}{" "}
-        brand × region observations across 19 nz regions. the row charts
-        are mbie weekly retail prices over the last 12 weeks — each fuel
-        on its own y-axis so its movement reads cleanly.
-        {" for live station-level prices, visit "}
-        <a href="https://gaspy.nz" target="_blank" rel="noreferrer">
-          gaspy.nz
-        </a>
-        {" — independent cross-checks between cardlink and gaspy typically agree within 1¢."}
-      </p>
     </section>
   );
 }
