@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-04-13T11:00:24+00:00",
+  "generated_at": "2026-04-13T11:10:02+00:00",
   "fx": {
     "nzd_per_usd": 1.720452,
     "as_of": "Mon, 13 Apr 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 102.19,
+      "latest": 102.05,
       "latest_date": "2026-04-13",
-      "delta_1d_pct": 7.34,
-      "delta_30d_pct": 40.99,
+      "delta_1d_pct": 7.2,
+      "delta_30d_pct": 40.8,
       "series": [
         {
           "date": "2025-04-14",
@@ -1013,15 +1013,15 @@
         },
         {
           "date": "2026-04-13",
-          "usd": 102.19
+          "usd": 102.05
         }
       ]
     },
     "wti": {
-      "latest": 104.74,
+      "latest": 103.91,
       "latest_date": "2026-04-13",
-      "delta_1d_pct": 8.46,
-      "delta_30d_pct": 56.28,
+      "delta_1d_pct": 7.6,
+      "delta_30d_pct": 55.04,
       "series": [
         {
           "date": "2025-04-14",
@@ -2025,7 +2025,7 @@
         },
         {
           "date": "2026-04-13",
-          "usd": 104.74
+          "usd": 103.91
         }
       ]
     }
@@ -2033,16 +2033,16 @@
   "nz_retail": {
     "as_of": "2026-04-13",
     "regular_91": {
-      "avg": 3.485,
+      "avg": 3.484,
       "min": 3.301,
       "max": 3.779,
       "count": 94
     },
     "premium_95": {
-      "avg": 3.684,
-      "min": 3.379,
+      "avg": 3.675,
+      "min": 3.37,
       "max": 3.849,
-      "count": 58
+      "count": 61
     },
     "premium_98": {
       "avg": 3.8,
@@ -2051,7 +2051,7 @@
       "count": 13
     },
     "diesel": {
-      "avg": 3.891,
+      "avg": 3.887,
       "min": 3.699,
       "max": 4.329,
       "count": 96
@@ -2062,9 +2062,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 228,
+    "observations_today": 256,
     "observations_yesterday": 0,
-    "observations_older": 33
+    "observations_older": 8
   },
   "mbie_waterfall": {
     "week_ending": "2026-04-03",
@@ -8522,30 +8522,7 @@
       }
     ]
   },
-  "fuel_stocks": {
-    "as_of": "2026-04-08",
-    "published": "2026-04-13",
-    "petrol_days": 59.7,
-    "diesel_days": 49.1,
-    "jet_days": 50.7,
-    "petrol_breakdown": {
-      "in_country": 25.6,
-      "eez_water": 13.6,
-      "outside_eez": 20.5
-    },
-    "diesel_breakdown": {
-      "in_country": 21.7,
-      "eez_water": 9.0,
-      "outside_eez": 18.4
-    },
-    "jet_breakdown": {
-      "in_country": 25.1,
-      "eez_water": 0.4,
-      "outside_eez": 25.2
-    },
-    "ships_in_eez": 5,
-    "ships_outside_eez": 9
-  },
+  "fuel_stocks": null,
   "news": {
     "nz": [
       {
