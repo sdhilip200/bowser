@@ -162,8 +162,7 @@ export function AboutPage({ onBack }: Props) {
         >
           <h2>Tech stack</h2>
           <p>
-            The entire app — every line of Python, every D3 chart, every
-            CSS token, this About page itself — was built with{" "}
+            Built this app with{" "}
             <a
               href="https://claude.com/claude-code"
               target="_blank"
@@ -171,10 +170,8 @@ export function AboutPage({ onBack }: Props) {
               className="about-link"
             >
               Claude Code
-            </a>
-            . I directed the design and made the calls; Claude wrote the
-            code, ran the collectors, and iterated until each piece felt
-            right. Building in public, with AI as the pair.
+            </a>{" "}
+            and vibe coding. Built in public, with AI as the pair.
           </p>
           <ul className="about-list">
             <li>
@@ -210,8 +207,7 @@ export function AboutPage({ onBack }: Props) {
                 className="about-link"
               >
                 Vercel
-              </a>{" "}
-              (static frontend + edge CDN + analytics, free tier)
+              </a>
             </li>
             <li>
               <strong>Scheduling</strong> —{" "}
@@ -222,10 +218,7 @@ export function AboutPage({ onBack }: Props) {
                 className="about-link"
               >
                 GitHub Actions
-              </a>{" "}
-              cron jobs run the collector daily and refresh news hourly,
-              committing the snapshot back to the repo to trigger a
-              redeploy
+              </a>
             </li>
             <li>
               <strong>Source</strong> —{" "}
@@ -240,10 +233,6 @@ export function AboutPage({ onBack }: Props) {
               , public
             </li>
           </ul>
-          <p>
-            No database, no API server, no login — just a single JSON
-            snapshot file and a client that renders it.
-          </p>
         </motion.section>
 
         <motion.section
