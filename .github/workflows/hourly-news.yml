@@ -2,7 +2,7 @@ name: hourly-news
 
 on:
   schedule:
-    - cron: "5 * * * *"
+    - cron: "5,25,45 * * * *"
   workflow_dispatch:
 
 permissions:
