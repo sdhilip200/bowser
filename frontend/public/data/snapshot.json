@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T04:51:54+00:00",
+  "generated_at": "2026-04-14T06:57:33+00:00",
   "fx": {
     "nzd_per_usd": 1.720452,
     "as_of": "Mon, 13 Apr 2026 00:02:31 +0000"
@@ -8526,6 +8526,18 @@
   "news": {
     "nz": [
       {
+        "title": "Iran war: Qantas follows Air New Zealand in slashing domestic seat capacity - The Post",
+        "source": "The Post",
+        "published": "Tue, 14 Apr 2026 05:06:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdHpWTmVrR1lYLW5aYW9rMHUwWFNXRkZZUk1GY0cwdWF3elktLUhJQllLT1AtVzF1SG01SF85bTRzR01sVWFYdmdnRlhKeXpKRjVlWXlqb0txaGc3THRqdlB0NmdYUlhIQmZlUzZhcXF1OTNGVXlOclFoLUcyZEJ3c3IyVVZSODhPVjRfdjZzTkFDazVCWl9yU01neVBPLXFPZWJ6N2d2RkFVVUhvdm9zdWZuTjlhZnM?oc=5"
+      },
+      {
+        "title": "Qantas cuts domestic flight capacity and raises fares as fuel costs could blow out to AU$3.3b - RNZ",
+        "source": "RNZ",
+        "published": "Tue, 14 Apr 2026 04:57:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTk9qaGN0ZjRUdnBHSTBHUUhVZ0tNaU9HMGZqZjlPN1FadFRmQk9RMEVja0xidFozbXUwa19QdkhPOGxsMlhvWmFldENLMEM3allLbG9ydFhreGZuaWxwZTkzNnpGaXpkazI4WVJWZFFVeG1PRUNCUG5vbHE3YmNnNzR6aTRzM3Z0WVRoTjc2MlZLVXlnYkw1SzRwZmJhS0pmeEI0d2Z2NF85MXJDSmNvOHZKMWJFUVF4b3FPbWo3VDFWNnM3R0dDWUNoNWJZQklKYzJmWmtYN2JqZw?oc=5"
+      },
+      {
         "title": "Extra fuel ship due in New Zealand by end of month - The Post",
         "source": "The Post",
         "published": "Tue, 14 Apr 2026 02:48:46 GMT",
@@ -8550,12 +8562,6 @@
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb3pwMWxlbFowS2p4WlVNOVp6eWFURDFBRW9KekFmM216dWYxbklEM2t6NW8zRlliR1N6N2NIc3VheGxzLTVObEpYN2djZFhFcEVBQkdQWWhvNVF2LXphaVViUnFnVGN5LUJaZkItbFBBOXRUeEM0MzJXbjVfTlFPcXNfdVBIaUp2eEo2di1IQW9TV1hT?oc=5"
       },
       {
-        "title": "New Zealand’s fuel stock level falls - franklintimes.co.nz",
-        "source": "franklintimes.co.nz",
-        "published": "Mon, 13 Apr 2026 02:25:08 GMT",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZU01BTFVyUTRtQjJicmZoaklZcDQySkR5RlVGenNKYXhLTjQyLWk2UzdDc2VSOUpTUUhmeXRnZzhsMDMzU2RqNFQ5eUhOaHNWczR3Z2VsVVR0aG94Zi1Ea0tJNUh0MmF3d0tzMjhqMGZKZw?oc=5"
-      },
-      {
         "title": "Fuel stock update: About three weeks of diesel in country as total supply dips - NZ Herald",
         "source": "NZ Herald",
         "published": "Mon, 13 Apr 2026 01:45:58 GMT",
@@ -8566,15 +8572,21 @@
         "source": "Stuff",
         "published": "Mon, 13 Apr 2026 01:16:55 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcDVoaUY3SFJVbk5EbWZfWkdiaElnOGVrTkVjNDl3WllPT2NTQXNTTk04SmVFYU8xMUpOOENLaXFaQllsVFJReUQxWVBjVklKWmV5TklsYjZxUkZKMW9NUDlsMHdZMjZsNW9SazhfSmRZMVhhTTFDeXhQVlRHOVRfOWVqOHdvQmo1bVhtZzB4RU1oeURrN1hxOU5Gak1rclV2WUE?oc=5"
-      },
-      {
-        "title": "New Zealand's fuel stocks stable, latest update shows - RNZ",
-        "source": "RNZ",
-        "published": "Mon, 13 Apr 2026 01:11:14 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGJwZzBMSWlLUVpTbGNaVHBXcmFkTzRjS1ZKM2RnY2xlcURZT0NIVEJQbWk2VHFZbXlTSTRMY2pXdXA3b3QzYTc1dno5MnMwaXBlNmphRkhfYXdWR05sMWlsUUxrY1NQQnJOM2dNcGgxQUl2elBoLWx3b1Y1SG9haFkyRUJsd0pIcV9lcDROdXpSNWdJMzB3ZzVZUUM?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "How China is plugging energy supply gaps left by US-Iran conflict - Reuters",
+        "source": "Reuters",
+        "published": "Tue, 14 Apr 2026 06:14:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNby1sSWpyZmtybGMyOVRha19wNEJVUTMtNHFrVHRQbzJVcWVBUVhoaHUzNnozMlRibk1MMGg5TGRTYnpRcXZKcUp2c25TZE9Rb1VtMWVYMlRmTGw5dE9GSzlqU0M0T3c1T3I4c21fMHhjd3NlaWRsYXkwZGtnazBEX0NRdGFZNjNGWV9rN0pjS2dVdk9qamhOWG0yUmZSQkhzVlFaRjNXdk5VMFZrMTAtNHlmSUdfVWFlX3RXeWVB?oc=5"
+      },
+      {
+        "title": "Oil Price Forecast: Will Hormuz Supply Shock Push WTI and Brent Toward $150? - FXEmpire",
+        "source": "FXEmpire",
+        "published": "Tue, 14 Apr 2026 05:15:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNkRpWDNHWjQySnBRX2lXZXg4b2ZTQzl3Qmk5el8wTy1DemlVZFRLdWhNRlRreFluS0U1RVZKZVVBMTl4MFdjXzdDVEppajFYWlpuc3kteEhhRF9zeGxDcE9HX0pGSWNNX3c5WDVkc3ljYnVhb3dFOTVaNVJlTjJiOE1wOGdlTkpIQkQwYUIzMng1UFY2anppRVdPQXpXSnVoNmhucXg4YnJMa3FIUldQWXRER3F5c2hMWHIwd255YVQ1UQ?oc=5"
+      },
       {
         "title": "Oil Dynamics And Intraday Analysis: WTI Drops Back Below $100 After US-Iran Talks Set To Resume - Seeking Alpha",
         "source": "Seeking Alpha",
@@ -8588,7 +8600,7 @@
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFhoMDRaMTFyTy1BejgxRXhBYS1ZTDE3WUtwenNnQmZQN0o1NkpIYnZKNnNGN1Ewa1U1R3J5ZFotV04yV2hXS1JmaFdVOUVLYndKY0JEQTZabXkwLVdOeW1ZaVMtVFlzMUFjOWt3QWNrNkEtUWUybGFRVmZ6My1DVEdhT24?oc=5"
       },
       {
-        "title": "Brent Spot $190 Warning. WTI Price Higher Than Brent for First Time in Four Years as Geopolitical Risk Premium Rises Further. - TradingKey",
+        "title": "Brent Spot $190 Warning: WTI Flips Global Benchmark in Rare Price Inversion as Geopolitical Tensions Flare - TradingKey",
         "source": "TradingKey",
         "published": "Tue, 14 Apr 2026 03:29:04 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcFozRE1YSGNCS2NJYm9uRkIzQ09HV2FfZ2E2YXNyMHp5ZThoTWZMblk0OGFsWE5FcnNBV1FyTldhOFdjaFd3X1FTVzVZOUFvaUpyS0ZsSjNwa1o3bElDNVFTbjlIdFJrZWxwa1B0X2Jyby1GaWlJZEFNRW5tSkhuc3MwWUMxWE5BZEs0b0hDTUVDVWNlUDhsVm42SzlseEVxS0I5WGdiamVjZw?oc=5"
@@ -8600,28 +8612,16 @@
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONWFvdXg2VWhNVG9KVUY4cWswaGIzc2xMUklTa0VEWkZqYWxrdEVXbkRwSVBYLVdTRFlXdXRXWG5KemhBMV90eW1GU1laSXB6RFlTZnkxaVFiUjZMUEp2dFBvVGZtNXNyaG5aVjMwam1pYU00MHFReml5Z20zVXl2eUw1RzJuTFRTWVZVZnlxNGR0dGvSAZgBQVVfeXFMTTRJNzZEejdHbmlrZWJ4TmRNMTV2dWtaWVI5VktqZmVWdmN3ZGhSU3h6MzB2SVNRVGgtdVJRdGFDdmxWaHVIb3RiN2xocm9sOFdIU3ZvMHZHbGVUaHg1U0k5SkUyNl9qQXZTS181YVRiWnJEelpoQWJnWUQwVGM3SWFnTXNOR1V6Nk1KRjVBRWIyRXZXM0tsM1Q?oc=5"
       },
       {
-        "title": "ANZ raises oil price forecasts on Middle East supply losses - Reuters",
-        "source": "Reuters",
-        "published": "Mon, 13 Apr 2026 23:30:36 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdmlKYXlUdnY3MTgxbFlzNkcwSGU3dGk2bDl6UG9lTWpnQUY3QTNVV0NIR2l6bXJaTHFGOGwwTWRSUXBlQ0FfeW1yRFJnU1FaQnRGdlNUS0Rub2QtNDkzWThVTjRvSjEzU01JQU9yWGJ3LUU3M1JlMndxRnFEeGZfRXctSk5MOHhrTG12MU9KSWxhbEJFaDNfSlQ5aExrTnRMLVJvUjBKTVlxSWxS?oc=5"
+        "title": "Brent Oil Futures Chart - Investing.com",
+        "source": "Investing.com",
+        "published": "Tue, 14 Apr 2026 01:02:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04ME5vXzJRcUdUX25xMzFhblR1LVBDc0RrY1JWNFhJUVdBSlZNbUNXMXRxTEdyeHA5aU96OFJURmlvX3lEWmRnLWo1MEtSWmxFWTBjbEdEMU5INjRteDU3Z2owV2dCQ0hTdjNEdDQyaUg?oc=5"
       },
       {
         "title": "China Has Turned To Central Asia To Mitigate Middle East Oil Supply Risk - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Mon, 13 Apr 2026 23:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUGNPNHJPMUtHNl9SRjMxZFhVa2dtM19LSUZNVXIybGpnUk51OEVHVWw1WWozMjJnOXAzWFNmWXYxUFllQ1NTbDRmYzFSekRFaS1kZkswV1l1Um5leW94X2lKV1gzVThIZ0NjUFF4WU9ERl9iclB4U1VGd1RXcUg5VTFnZ04xWlJRQ2tEcS0wYmdNRE9pT3NZVUNaMk54azZBd3NNMmRxMTBabTR6cFBIZWxmdnRTUdIBuwFBVV95cUxNck1sWHhzeDdnN3NJSUlSTFZiamRmVDJMUFljRmpGcGRucFVYVUFqZThrY0pHRzJMMVZfSThCNkNYR2tBUmtad0REdTV5eXRhX0hfdmZQa0gwNGRpUmxfREtVOXpjbkFKZFVkb0ZIMHhmX3lGblRjVHo4TlJmSXZ5VG9rWEdvZzl2UXBlUGloN05yMFUzaWU3UDJpNWduSFBvWThHRG1tMmN5QlZseHd2ZmZRdTd6Uy1ibllj?oc=5"
-      },
-      {
-        "title": "Energy prices rise despite Jones Act suspension by Trump - Al Jazeera",
-        "source": "Al Jazeera",
-        "published": "Mon, 13 Apr 2026 22:20:14 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdmRneTgwa1JKWWp6MUpyRmViY3F6bEZ4eGh0T3ZtTDB0ZGNUeEpRLXBvaUNLbHhXeDlWQUdxbEVMU29QYkRmQ013WHJ1c3JqMk82U3J5OWtkSEJ1V1NlVEMwOHdrWF9faXZyMkJsaWRSWXA0NUl6U0Rfa2ZfdGV1STN5aEswbzh3OU9BZTBidTZiMGcxd1B2ZG9wdzNCekpWV3fSAacBQVVfeXFMTUJNb3BaOWk0OC1iaXAtc0VqVU0xU2FtNF9jRGFZcDBsdXVQRWxadVJXYW03aGdjRlhCb3JxUWNqb0JnOWoyaC1QS0M2UjQ0RndzXy1NbTBUaFZaY2RHT2w3NFBLTWRCaGctM2s2N0poMUxwZnZpN1JudUQzNnlSSGY2elhvX21rVzZqSGNxTnVhUWN6eFhJUy1PZGZmcy14UXM2TnllYlU?oc=5"
-      },
-      {
-        "title": "Stock market makes gains despite ongoing U.S.-Iran tensions, reversing losses from war - CBC",
-        "source": "CBC",
-        "published": "Mon, 13 Apr 2026 21:34:07 GMT",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ETWFDMzF4Z0hTdUxxS3o0THR2bWVWRXVvQjE1NlFxNWtUNEdKbkc5WVRXZVNnYkpOY09Za0Z1TURfaEVVQVllaEtLUDFUMWU0UTgxVXJINDY2REM0LXpPRkJ3dVFCN3FxU1dr?oc=5"
       }
     ]
   }
