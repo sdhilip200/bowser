@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-04-15T18:13:35+00:00",
+  "generated_at": "2026-04-15T19:19:04+00:00",
   "fx": {
-    "nzd_per_usd": 1.707815,
-    "as_of": "Tue, 14 Apr 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.693939,
+    "as_of": "Wed, 15 Apr 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 95.0,
-      "latest_date": "2026-04-14",
-      "delta_1d_pct": -4.39,
-      "delta_30d_pct": 22.2,
+      "latest": 94.62,
+      "latest_date": "2026-04-15",
+      "delta_1d_pct": -0.18,
+      "delta_30d_pct": 16.24,
       "series": [
-        {
-          "date": "2025-04-14",
-          "usd": 64.88
-        },
         {
           "date": "2025-04-15",
           "usd": 64.67
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-04-14",
-          "usd": 95.0
+          "usd": 94.79
+        },
+        {
+          "date": "2026-04-15",
+          "usd": 94.62
         }
       ]
     },
     "wti": {
-      "latest": 91.68,
-      "latest_date": "2026-04-14",
-      "delta_1d_pct": -7.47,
-      "delta_30d_pct": 28.71,
+      "latest": 90.85,
+      "latest_date": "2026-04-15",
+      "delta_1d_pct": -0.47,
+      "delta_30d_pct": 21.85,
       "series": [
-        {
-          "date": "2025-04-14",
-          "usd": 61.53
-        },
         {
           "date": "2025-04-15",
           "usd": 61.33
@@ -2033,36 +2029,40 @@
         },
         {
           "date": "2026-04-14",
-          "usd": 91.68
+          "usd": 91.28
+        },
+        {
+          "date": "2026-04-15",
+          "usd": 90.85
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-04-14",
+    "as_of": "2026-04-15",
     "regular_91": {
-      "avg": 3.461,
-      "min": 3.301,
-      "max": 3.779,
-      "count": 57
+      "avg": 3.468,
+      "min": 3.31,
+      "max": 3.8,
+      "count": 61
     },
     "premium_95": {
-      "avg": 3.674,
+      "avg": 3.635,
       "min": 3.379,
-      "max": 3.949,
-      "count": 33
+      "max": 3.769,
+      "count": 24
     },
     "premium_98": {
-      "avg": 3.762,
-      "min": 3.657,
-      "max": 3.869,
-      "count": 3
+      "avg": 3.774,
+      "min": 3.579,
+      "max": 3.889,
+      "count": 4
     },
     "diesel": {
-      "avg": 3.89,
+      "avg": 3.868,
       "min": 3.699,
-      "max": 4.129,
-      "count": 71
+      "max": 4.279,
+      "count": 73
     },
     "lpg": {
       "avg": 0.0,
@@ -2070,9 +2070,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 62,
-    "observations_yesterday": 94,
-    "observations_older": 8
+    "observations_today": 69,
+    "observations_yesterday": 84,
+    "observations_older": 9
   },
   "mbie_waterfall": {
     "week_ending": "2026-04-03",
@@ -8534,6 +8534,12 @@
   "news": {
     "nz": [
       {
+        "title": "Should New Zealand follow Australia's lead on the fuel crisis? - RNZ",
+        "source": "RNZ",
+        "published": "Wed, 15 Apr 2026 18:55:52 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSUZWVzlMRGYxNHhPbWEwSFVjRXc2bGJpSWlTLWU0XzU0Mnc3cnltRFdLMk5lWlRib1hZbnFfQ3A0QXE2RmROREJiSEFJSGZENnNvQ2lLNm9aMENlaHV1dWJhd1pDelI1N2hMdWdDdFp3cXYxSVNjemV0Q3pLeEVqNmRGMFNFU1hyTTdWYXdRdGlINl9xbm1DTGRBUkpKam01MFhvOXlSVDc?oc=5"
+      },
+      {
         "title": "‘No concerns’ over fuel stocks - Autofile",
         "source": "Autofile",
         "published": "Wed, 15 Apr 2026 17:01:46 GMT",
@@ -8564,25 +8570,55 @@
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOENsQm5lWUxBaFl0VHNjWnUwZ3U4Vk1QdzRRUHFyNDkxdXJXZ0hJYnpiUXBGdVZJWXBjOTFyb3FIc0NQNDZEZUFuMTFjOXV5QVRrZ0JyM2o3d1JZS3hhZFVkdTJydnlxY1FEd3RIaTFNTnhkOFBaQllpUkExYmdmUmpieFRIQ2piaERrYWd3SVVfUEpKYzhsdHROVURIRzdHUzdRdHJzNS02YTBRZi04MFBNTkRkQ2t0?oc=5"
       },
       {
+        "title": "'Increased materially': Analysts reveal how much Air NZ has raised its fares - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Wed, 15 Apr 2026 04:02:03 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNejlKSUt2N2RtN0d5b0RzSEZoRWd4dDZmQ0ExaVVzaXNqeVZ6RlZtTTRmNV9Kbm83NmlMSEZ6Ui1nQnAzempjT0stTUlNSW1KVVdNVi1YVXdFV3E0MUdmWGlNbE91WDhra2Ywbl9JYXNvbUF6bFZ2LVh2R053bWdFVUR6eWdpbUlSd05FSWxjekY1UjNfY2taY19lMmMtSHhYcXB2eWhlOGdaRzFCOU9RT0pHY0pQV0NLVVNtTkRGaGJSeF9kUmxXTnRKMmsyVExHVXgyWXdnaGRQN0FGS0FZalhzMmt4VHlMYWVJZDZn?oc=5"
+      },
+      {
         "title": "Air New Zealand pushes through fare rises as fuel crisis bites - BusinessDesk | NZ",
         "source": "BusinessDesk | NZ",
         "published": "Wed, 15 Apr 2026 03:41:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ290UDI5aWdOanBjdmx2RGRfWThaWFpEc1FsYjlpSTl5dU1DaGVDU0llSEo0ajhjVU9YYTJ4cHVUOF9aTmczd3NfRUVreXhDaFFaejhCSGtkbDA3bGUzV2JwWVRUaVgwV0JoODdoMkh2T29wRzY3cy1TeHlsX3J6VnlkM2lpTGFGTlpISGFGeFlBWTd3UVB0WVY0MXdMN1k4dGNIU2VtTHA?oc=5"
-      },
-      {
-        "title": "New Zealand’s national fuel stocks decrease again - Times.co.nz",
-        "source": "Times.co.nz",
-        "published": "Wed, 15 Apr 2026 03:11:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOG9lRXN3b2E5YUlsTnBoQ1h2NkZfeTlrdS1lSVo3S2dLVk9tMUpUcXNicmp6ZXBIUUtfVHcyV3JDLWVWZDQ3RDJxSWVDNGFKUllKR3FTdlJrWWxuR3hfLUtLSDE3TmNweFRZajhFXzNERWN6cDFIZDZ5NlNSMUpyQUZaUVdNNnhWWEE?oc=5"
-      },
-      {
-        "title": "Luxon reassures Kiwis not to be concerned by fuel shipment departure delay - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Wed, 15 Apr 2026 03:07:37 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTjgwb3VIMllnd3VncUU5dFduSndiZmhrZVk4c0Y0YXBmMmdSbGJJaGk3OWlaZ1AwMG9pUWxFeUhDc1pFMW92T0tNVmR0YmtkOVFVcW1SQVNPNlBLS2p3R0l6U1JfaW9iOVhkNmZ1OWpuMXY3c0hYbnl4LTE1YU5ZNlNSR2lLUFBKR0xGLVQ4ZVhWU0ZDWnc2WVNMZzNFcXYzaUFfQTYzYnJseDlyRTB2SG15d1lCVmlhMUJ1MUpQV3ppNFRpb1V4WFBmRlBsd3p2bUJZ?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "US Targets Iran's Oil Transportation Infrastructure With Sanctions - GV Wire",
+        "source": "GV Wire",
+        "published": "Wed, 15 Apr 2026 19:17:56 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaXMxMUZ4eWlIUGRiQUZOVVNhZkhHa0VvWnZic2xVOVduem5hY09vWWEzUWFvUkxoRUc5a2NDX1BtT2s5NDcta2p1UjZqWTZpa3I2THFCanlDUUR0bTRXMUNWWjlrVDhSZFg0WGVNSGxpNTZUbzlOTU8zV01Na1dsX0dpMS1zbVFmcThNUHp3UnA5MDROUGhDUkpRbEo?oc=5"
+      },
+      {
+        "title": "US will not extend Russian oil sanctions waiver - Bessent - Українські Національні Новини (УНН)",
+        "source": "Українські Національні Новини (УНН)",
+        "published": "Wed, 15 Apr 2026 18:41:24 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSWFyYmlxa2ZzWjZFOHJHX1ZKR1NsZ180Q2dUSmZtTDhnZXA3bFhid3lJV1Q4eEFocWs5blplME1iSHJjVGR0aWxVYWZIMVlXV0pOeGdnMGVOQzdWM2J6WDRScS1uS0ZxbVM4WVIxbUdBcDVUaGZWSkxzcnZNNU9VbVBLZ1rSAYMBQVVfeXFMTjlwdmhaNml4VUx5VmU0b09VUVoyOG9ucER5emhsamJTMEtmbWZSbmZvLV9IRUJ6RzZGTVFHb08ycFEwdFlVMmZTZno4VGo4cURUdXExaElGNW1ZblF6dDZoTDJXMjRNUlVXODdWbnFRUmJ4MHR0eHRHZmlNaEZLX3hoQ1E?oc=5"
+      },
+      {
+        "title": "May WTI Crude Oil Contract Closes Up US$0.01; Settles at US$91.29 per Barrel - marketscreener.com",
+        "source": "marketscreener.com",
+        "published": "Wed, 15 Apr 2026 18:34:13 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVWpZZC1Scy1DM1ZSRU1YZkdqd245cWVabmY4LURvOFI2aWpVa1FGa3dWczFNQVYtT2xCNnpiMjFXVDA5dDhpS0xpQmM5MXRCejRFR1pTenhCS19MQ1REclNHb2JfdFFPNkdGR1dYOXE5N0hmVGo0Z3JmbzhPQ2tabVFuNWdZZnk5WE5nNEdZVnZiNkpGcERBaW11N3BxazdGMTlQVFlxaDAxNnlDSHlqX3NYaExPUGJSemVvWkxRdU1SSjllM1JZ?oc=5"
+      },
+      {
+        "title": "Trump's Waiver Of Jones Act Fails To Cool Oil Prices - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Wed, 15 Apr 2026 18:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZWRwT0EyM1NWUHFkUG9SVHV5VUNuQzkxanZ6eXQwczQwVnZXcGxadTZpY1QxN1JOcXRRaWJ5Z0dmQVRfcjU0a3BTeDk0NkRzNmhvOExKWXFYMDFBdHYzVFRGRjhUTklUa0M5a19nSlBhUG1QRXd4QTJDUTRwNXhFUTRqSGJ4ZGpvZDlzV2t2ZFNVRFNOTm5NRVZ30gGfAUFVX3lxTE5sNVRIZE9EbXdqWE9ZZjc2YWt6UUlZRnh2Y0xuWE5sR2FhVzJfeTNKYkR0T2VmUVhLT2dpM2RSX2xjR0hrRHFyUTAyS0JFUzlWdHNYemhHM19uUk91bVlqeVVGZzhpUk9mZGRCSE5ta1ZkeURCLVZKeVdGckdYbHlvZzlWWFRmcTZYbDVOa0NXUEpyRy1zdVlrZ3A5XzhBUQ?oc=5"
+      },
+      {
+        "title": "Japan Pledges $10 Billion to Help Countries Cope With Oil Prices - The New York Times",
+        "source": "The New York Times",
+        "published": "Wed, 15 Apr 2026 18:17:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hQ0llUVk2cGxtRElJcXJhak94QzF1aGlWYlpPa00xYklOcThGNTNraDlpZE5tYnpZWUNQTjd4S09HWE9WNzZ2bkgySXRpQWJheUJrb0hodnl3aDF5TzY4SEtPN0JLN2wxOXdibEhpc2dxVkY4T1E?oc=5"
+      },
+      {
+        "title": "US may impose secondary sanctions on Iran oil purchases - Reuters",
+        "source": "Reuters",
+        "published": "Wed, 15 Apr 2026 17:55:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUkFpb05jTnFxcFdfV0ktRlVTTS01SHdnSE81VnN0OWxBbXBKYzZHcjVFSVVIcGZPNmlnc0xySTM2S2NNNEV2V2pVWWUxYkxDcU5TdnlEdVlWMmJ3aDBkemlfa0x5akRyMkFZVXdkQXE0TkNWSGJOSWpRRnJGZ2JyTFJEVnpNcmQwUno2NHN1WThRSkd5NTNoUkEzbWJfTWlkZjV4X01JRQ?oc=5"
+      },
       {
         "title": "Crude Oil Analysis: WTI remains weak below the $90 level - FOREX.com",
         "source": "FOREX.com",
@@ -8594,42 +8630,6 @@
         "source": "Financial Times",
         "published": "Wed, 15 Apr 2026 16:37:49 GMT",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkSi1VM3ZSNjNBT0UtalFibGJrQUx3SkxvbzZ0NFhhSjVNSEVVMktQWXQtb2Yza0pDWlhkMExSM2pldUY4Z3lPQ3dfMFVFa1lxWFRhRnNkSkF5Rlp5S3k4dEJ6aE5COWpTNmxWMXhvMUM?oc=5"
-      },
-      {
-        "title": "Iran war triggered 'most severe oil supply shock in history,' the International Energy Agency says - abcnews.com",
-        "source": "abcnews.com",
-        "published": "Wed, 15 Apr 2026 16:36:46 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdzQ4a3kyR1VHYXBtQlNXTFVtRUd6MERFbnM3U2ljQS1fMUdjNWZLT1Z2RnpnY1NETWtRUWVEZmtRNGlHYVZyWkZiai14bnQwNG8ydGpzSmhLNk0xQXNQSlBvVzFONEx3QllJbnZBVjF5VnNjTHd2MlFLWkJpWk1pZ1RaTFpFWjdVcFJHNnFOSlFtdlNkNnBjZzRpUDY0azDSAaQBQVVfeXFMUHpQNDczekRZZVQ5UzZzNUxQRjRVd1BTQ0FUMjNpbzBkNGlwczVRTjJaclUwMnNVYnY1LTdLTkFLLURhaXcyNVlWMzVaTFYyeWhrLWFIb1hubnI2RHhwazBIcDdVeEFaQkpiRkdSS0g2S0Y3dm1ZWlZlbE00WG1VcWlxclNlenlyM2psMmNFRHNMV1BsbDFyajJnbEcyNGhvUDExVFU?oc=5"
-      },
-      {
-        "title": "WTI Oil holds steady as US troop buildup, Iran talks keep prices in balance - FXStreet",
-        "source": "FXStreet",
-        "published": "Wed, 15 Apr 2026 16:28:38 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVUhvMHVnLXlfUE9xM3pjYy1qbE9Qc2thdWdLblJLXzFoVTY2MWN4RWxBeHVnNmVhNHNZclhGemZBWFhBY0hDdnFHaEVqU1gzMXIyTmQ2dHZoLUFtVzF2dEJyWTluWk1Kc1YwUWc4SlRxZER1S3VyLUpyeHRnSm82TnBHcFhZbVVicU1qZnh1NUlEMXJDRG9ZZl9BSDduY01haHFJYmpIY0lQSnJsSTRlY19UWm9CUkp6?oc=5"
-      },
-      {
-        "title": "Path Trading Partners’ Bob Iaccino Discusses ICE Brent Crude Oil below $100 - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "published": "Wed, 15 Apr 2026 15:41:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRjZsbzRkN1lBVlhFTmF3Um1YNlJpQ085OXNIdGhBaWFCMEYxU1BxWTNWbG9wMnAzcDI1Y0QyREJ6S0dINndPcUJDb3Bra2Rycm45UWVpR0xmNmtSUFJ3Z0FJYmlKYzlTRzFQWVBkM2FYQjlPMmo4OWF4QkI2bzYzS092TnhVS3c?oc=5"
-      },
-      {
-        "title": "Crude Prices Gain on Tighter Global Oil Supplies - Barchart.com",
-        "source": "Barchart.com",
-        "published": "Wed, 15 Apr 2026 15:40:35 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR0ZqT0Y3ZjRzeTRCUEhOVk1nSG9PRnVCemdpc0k5bGx6c1Rhd1NYbnBuUlRjNEFSUjZNc1FOUFVQWURBVEY4aGg0SGJLSDN1LWJuSDZtSlpjc1pUMmtwaHREcDhCMUVsTEg1SUlRVVlNSERUSDFuZnpPLUNVbkU3dkhrdy1hdDgyZ2FQSHBUREtDb2FSRFRz?oc=5"
-      },
-      {
-        "title": "Answering all your questions about oil - marketplace.org",
-        "source": "marketplace.org",
-        "published": "Wed, 15 Apr 2026 15:21:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUGltTGd5WkQ2WElkM0pPQ3JkYmVCMWV2OG5YYmU5YWRzdm1UTTI4M0dxY1lyQWxKTURSTVZKMzB4ZFlzcEtOZEZBWlZVc1RRVmJiNkVFWk9JRlFSa3hDZnh5REVKOXVBOEVkRWNIczIxajBMcGU4cXR1MmNWN0VweGxieE1SUTV2SnVQdjcxM24tWUtybHdXX0o5Q1A0c05yTzJPa2dB?oc=5"
-      },
-      {
-        "title": "US Crude Oil, Gasoline Inventories Fall As Supply Crunch Fears Intensify - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Wed, 15 Apr 2026 14:38:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVm5GaGJoejR0dU44cUJ3dTV2WjlCNlJWYzR0V1V4UU96UWNlc09ZWFZoVFc2M2VqUXFSYTZIVDkyVEl3TmhZTThwVUlzYzFzdk5EWlh1Q0FCTy1zN2xaUTJFTjBlSmxEQ0R2bElKNEFHVERjYV91aG05UGNmU0NvUEN1U1cwNWg3N3BBLVQwYlRMcE5NMFJISnhFWl9YRlpha1ZTeEt5V0NSRTJwMDQ1OGZveXXSAboBQVVfeXFMT2pOVWYxVVloRjBMOTc2cTYtNkpnNHhEQy1FbkZXYjN6RHVnZHNNQV9CSW1PQnlnQ2pXNkw0dnNhTm0yWU1wd2NsWHVMNWh4UGk3TDVHbE9NWjE0VWFkMy05SzNHVXZRbW5iV0JfOG1fT1RWT0NYZUctUzhtckgxV3FLYkpUeFBRYlZoVjlhOEViMlFQUUNQbXp6T09wM0dKM1pJRnZhMWFRTjdzMXpRbU1KejZnYXlsRV9n?oc=5"
       }
     ]
   }
