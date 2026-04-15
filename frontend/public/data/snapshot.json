@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T19:47:47+00:00",
+  "generated_at": "2026-04-15T21:03:08+00:00",
   "fx": {
     "nzd_per_usd": 1.693939,
     "as_of": "Wed, 15 Apr 2026 00:02:31 +0000"
@@ -8534,6 +8534,12 @@
   "news": {
     "nz": [
       {
+        "title": "Fuel crisis 'no longer a short-term situation' for airlines - RNZ",
+        "source": "RNZ",
+        "published": "Wed, 15 Apr 2026 20:59:34 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQXzBMdVZHX2gzbnVJMFZETC13VWtQWG5vWEltS04wbXJTck5XWFEtWkVzbmJ0QzRlU29keUNLNFFXR1RSeU5hZWwzLUw2Uy01cHBNSGpZWmZCNWd3MTVkT2VGaUxWZ0czOUhNdVNLMTZLdmhjUDRfd2tHNnA5bVlaUTkzYnVoX0xUVGJfMnR3X1pOUDQ1ZWJkbjRfd2ZUZGlWSGc?oc=5"
+      },
+      {
         "title": "Fuel stocks fall again, one shipment delayed but 'no risk' says PM - 1News",
         "source": "1News",
         "published": "Wed, 15 Apr 2026 19:28:58 GMT",
@@ -8574,15 +8580,15 @@
         "source": "NZ Herald",
         "published": "Wed, 15 Apr 2026 04:02:03 GMT",
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNejlKSUt2N2RtN0d5b0RzSEZoRWd4dDZmQ0ExaVVzaXNqeVZ6RlZtTTRmNV9Kbm83NmlMSEZ6Ui1nQnAzempjT0stTUlNSW1KVVdNVi1YVXdFV3E0MUdmWGlNbE91WDhra2Ywbl9JYXNvbUF6bFZ2LVh2R053bWdFVUR6eWdpbUlSd05FSWxjekY1UjNfY2taY19lMmMtSHhYcXB2eWhlOGdaRzFCOU9RT0pHY0pQV0NLVVNtTkRGaGJSeF9kUmxXTnRKMmsyVExHVXgyWXdnaGRQN0FGS0FZalhzMmt4VHlMYWVJZDZn?oc=5"
-      },
-      {
-        "title": "Air New Zealand pushes through fare rises as fuel crisis bites - BusinessDesk | NZ",
-        "source": "BusinessDesk | NZ",
-        "published": "Wed, 15 Apr 2026 03:41:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ290UDI5aWdOanBjdmx2RGRfWThaWFpEc1FsYjlpSTl5dU1DaGVDU0llSEo0ajhjVU9YYTJ4cHVUOF9aTmczd3NfRUVreXhDaFFaejhCSGtkbDA3bGUzV2JwWVRUaVgwV0JoODdoMkh2T29wRzY3cy1TeHlsX3J6VnlkM2lpTGFGTlpISGFGeFlBWTd3UVB0WVY0MXdMN1k4dGNIU2VtTHA?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "US imposes fresh sanctions on Iranian oil network - Anadolu Ajansı",
+        "source": "Anadolu Ajansı",
+        "published": "Wed, 15 Apr 2026 20:24:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONG9FTFFDVWt1MG5ySEJLWUJMNGcwQnVHWEFKMkFva2lDbzdHTm13R2MwTnRtYnJWb3ZUSVdMNUJvdm9WekE2RG5fcVJCeXZiNVV4T3lteGpuN0tpNTNBdXlWcUEtNVRDa19MdnVVclNXSjlDYnlvb19SY3FZanFhOU0taEE2czZSb3RoZklSMEJYSktNcGJmUGxEWnAtSWt4M0NJ?oc=5"
+      },
       {
         "title": "U.S. will not renew sanctions waivers on Russian, Iranian oil, Bessent says - Global News",
         "source": "Global News",
@@ -8596,22 +8602,22 @@
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSEhtQTNmWXhiV3oyM3JqSHAyMG41TU92ekxfYWotRU0yVzN5OW1PQjBOcGZaMlltc0xHM0w3aWw5R3hqV3JpeVhvN1RXRHN2M1lWNDd1NFB2Zm91UEhXMXN5dlJTQmlGalI5VkpOckRqWkNXMEozZVNrU1Z4YjcyMlp5TkJEVTg0MFNpV091TWFYelhhTm9EOFZheF9TLVNnZlNWTktRZWJPTHVMY3hraQ?oc=5"
       },
       {
-        "title": "US targets Iran’s oil transportation infrastructure with sanctions By Reuters - Investing.com",
-        "source": "Investing.com",
-        "published": "Wed, 15 Apr 2026 19:21:58 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOVJPYkVIZm02aTFGUk9lWlJDd2N2NzRNRDlMWVZxNFRObUQ0VG5vVVJPbUFxbEtrZzFTbkpsLWhDV212TFZadHI3M01CZ0d2Yk55RkpTdHMyaUR6ekJSZ1R5RFhfNnVjOVdCVVBSWmtUV1lEd21ReHZJck1rN3dDU21ESlZiUVlhNTY0VXRhZXhzZTVjcFJMZk1hQmZoVXlVZHpQVlNuVlNDaFo1aDV1Ql9OZHljTGcxVjlQb1dR?oc=5"
-      },
-      {
         "title": "US targets Iran's oil transportation infrastructure with sanctions - Reuters",
         "source": "Reuters",
-        "published": "Wed, 15 Apr 2026 19:04:59 GMT",
+        "published": "Wed, 15 Apr 2026 19:13:37 GMT",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdkVLU2x6LWQ5V3NfVmpCN0lVYmhqWjNJMUxKZ1l1YWNUTy15bnRIcVdXM1hKUVdiUDl2RFVXeU81MnJHREdlWnRPS3Z2YTQxOTdlQ2VyYUtuT2l2Y1lfcWVjTWNXTGFFa3g4SkIzRmdRS0xzallnOXVSMjhWMEx0N2tsbEx3TFRHWUJWNlRISlJVU1RvckR0eUJUVGVTUnJkX0U5MUpwemhRQVhGYmpKUlhjeWFTVGs?oc=5"
       },
       {
-        "title": "US will not extend Russian oil sanctions waiver - Bessent - Українські Національні Новини (УНН)",
-        "source": "Українські Національні Новини (УНН)",
-        "published": "Wed, 15 Apr 2026 18:41:24 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSWFyYmlxa2ZzWjZFOHJHX1ZKR1NsZ180Q2dUSmZtTDhnZXA3bFhid3lJV1Q4eEFocWs5blplME1iSHJjVGR0aWxVYWZIMVlXV0pOeGdnMGVOQzdWM2J6WDRScS1uS0ZxbVM4WVIxbUdBcDVUaGZWSkxzcnZNNU9VbVBLZ1rSAYMBQVVfeXFMTjlwdmhaNml4VUx5VmU0b09VUVoyOG9ucER5emhsamJTMEtmbWZSbmZvLV9IRUJ6RzZGTVFHb08ycFEwdFlVMmZTZno4VGo4cURUdXExaElGNW1ZblF6dDZoTDJXMjRNUlVXODdWbnFRUmJ4MHR0eHRHZmlNaEZLX3hoQ1E?oc=5"
+        "title": "US Targets Iran's Oil Transportation Infrastructure With Sanctions - U.S. News & World Report",
+        "source": "U.S. News & World Report",
+        "published": "Wed, 15 Apr 2026 19:04:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONF82cmNTeDRXbF9xOFhvaU5xRGlnYl9ZejFlNGJ0cmNOQ3N0MTB4d1ZLUjhpSGNpZkZBbmsxbHU1VXVwOVFrWHBvaks1S3MyQzF5eEpZS09vbGhVQ1ZYU1VoMHlKV3VhNjBsZGRSbnZYOWtnME5jMkxDeG9SYVQxY00yMEdFem5Lc0JNQXVnTW13bXpJZGVnYUNVMUNTa1hVajNNZzMxcGxJNm5rcDdHcy1iWXNHOFkyb3c4?oc=5"
+      },
+      {
+        "title": "Iran war triggered 'most severe oil supply shock in history,' the International Energy Agency says - abcnews.com",
+        "source": "abcnews.com",
+        "published": "Wed, 15 Apr 2026 18:57:49 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdzQ4a3kyR1VHYXBtQlNXTFVtRUd6MERFbnM3U2ljQS1fMUdjNWZLT1Z2RnpnY1NETWtRUWVEZmtRNGlHYVZyWkZiai14bnQwNG8ydGpzSmhLNk0xQXNQSlBvVzFONEx3QllJbnZBVjF5VnNjTHd2MlFLWkJpWk1pZ1RaTFpFWjdVcFJHNnFOSlFtdlNkNnBjZzRpUDY0azDSAaQBQVVfeXFMUHpQNDczekRZZVQ5UzZzNUxQRjRVd1BTQ0FUMjNpbzBkNGlwczVRTjJaclUwMnNVYnY1LTdLTkFLLURhaXcyNVlWMzVaTFYyeWhrLWFIb1hubnI2RHhwazBIcDdVeEFaQkpiRkdSS0g2S0Y3dm1ZWlZlbE00WG1VcWlxclNlenlyM2psMmNFRHNMV1BsbDFyajJnbEcyNGhvUDExVFU?oc=5"
       },
       {
         "title": "May WTI Crude Oil Contract Closes Up US$0.01; Settles at US$91.29 per Barrel - marketscreener.com",
@@ -8624,12 +8630,6 @@
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Wed, 15 Apr 2026 18:30:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZWRwT0EyM1NWUHFkUG9SVHV5VUNuQzkxanZ6eXQwczQwVnZXcGxadTZpY1QxN1JOcXRRaWJ5Z0dmQVRfcjU0a3BTeDk0NkRzNmhvOExKWXFYMDFBdHYzVFRGRjhUTklUa0M5a19nSlBhUG1QRXd4QTJDUTRwNXhFUTRqSGJ4ZGpvZDlzV2t2ZFNVRFNOTm5NRVZ30gGfAUFVX3lxTE5sNVRIZE9EbXdqWE9ZZjc2YWt6UUlZRnh2Y0xuWE5sR2FhVzJfeTNKYkR0T2VmUVhLT2dpM2RSX2xjR0hrRHFyUTAyS0JFUzlWdHNYemhHM19uUk91bVlqeVVGZzhpUk9mZGRCSE5ta1ZkeURCLVZKeVdGckdYbHlvZzlWWFRmcTZYbDVOa0NXUEpyRy1zdVlrZ3A5XzhBUQ?oc=5"
-      },
-      {
-        "title": "Japan Pledges $10 Billion to Help Countries Cope With Oil Prices - The New York Times",
-        "source": "The New York Times",
-        "published": "Wed, 15 Apr 2026 18:17:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hQ0llUVk2cGxtRElJcXJhak94QzF1aGlWYlpPa00xYklOcThGNTNraDlpZE5tYnpZWUNQTjd4S09HWE9WNzZ2bkgySXRpQWJheUJrb0hodnl3aDF5TzY4SEtPN0JLN2wxOXdibEhpc2dxVkY4T1E?oc=5"
       }
     ]
   }
