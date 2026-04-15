@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T23:08:46+00:00",
+  "generated_at": "2026-04-15T00:04:48+00:00",
   "fx": {
     "nzd_per_usd": 1.707815,
     "as_of": "Tue, 14 Apr 2026 00:02:31 +0000"
@@ -8536,14 +8536,8 @@
       {
         "title": "Five Big Things That Happened Today: Monday, April 13 - 1News",
         "source": "1News",
-        "published": "Tue, 14 Apr 2026 20:37:41 GMT",
+        "published": "Tue, 14 Apr 2026 23:38:39 GMT",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcUszZGI5S3lSMExPOTF0bWtCd1dsWGotSnVYYmtXRDhFTmhpdkQ0WmgyNGd3X2FJMWhKU2t1ZmI2dHVLRDh6OEthaHBvWVlBWGo5dnN5Z0d3ZkJwRENQSHREc0VwdDdWRzlhMVBYUUVpLS1mQmJBZGlJalV2NWhEX0xHenZJS0J4OU83ekRycXY?oc=5"
-      },
-      {
-        "title": "Latest official fuel stocks info – how much does NZ have? - 1News",
-        "source": "1News",
-        "published": "Tue, 14 Apr 2026 20:35:40 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb3pwMWxlbFowS2p4WlVNOVp6eWFURDFBRW9KekFmM216dWYxbklEM2t6NW8zRlliR1N6N2NIc3VheGxzLTVObEpYN2djZFhFcEVBQkdQWWhvNVF2LXphaVViUnFnVGN5LUJaZkItbFBBOXRUeEM0MzJXbjVfTlFPcXNfdVBIaUp2eEo2di1IQW9TV1hT?oc=5"
       },
       {
         "title": "New Zealand’s fuel stock level falls - franklintimes.co.nz",
@@ -8558,22 +8552,28 @@
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQnNHVE9wTE1KNndrNGlUOC1lYWJQMmFOZ1ZFdi1FTnJWU2k5QjVxV3ducVRVdWJsQTV3ZThRdFpEYTA4VWZUN3lCZ1d2N015X0FDSnU1T0xja0JjLVB6TVNNS0R4eGlVYWdtUUZSQWxWUEZEQUJRSUttSnhPbzhEUlIwdWprS0xYNDVWM01uNlc5c3BhT1o4b09CR0h1dl9kZzFB?oc=5"
       },
       {
-        "title": "Extra fuel ship due in New Zealand by end of month - The Post",
-        "source": "The Post",
-        "published": "Tue, 14 Apr 2026 02:48:46 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdkJ4RTFxQmNxdGpGY0lWVWVHd19hNlNaTTJaT1FzOWRqMWhQeWpFajVGdWwtWmVyTksxY01wNVkzTWxyNFlrcHRocVVmRGxIUkZFYTNHa0VTamdPTnJuaHJWTFJ1aUdGX1pGc3pRLVV3Mm5ITG02clNzOGhzbEpVSXhCT3pBdnZpM1ZpZGhmUQ?oc=5"
-      },
-      {
         "title": "PM confident NZers 'are assured' on fuel security plans - 1News",
         "source": "1News",
         "published": "Mon, 13 Apr 2026 04:56:11 GMT",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWE9tTEhvQ0REWC01QTV2eGk2LVMxdVF0bmZMOUVCck1Sbk55QldIQmtESXJSaFhMMHhqRFIxaWU1Q3pQRGlEYlNrV1JKd1FOZU5FNGRrQXhydnhfeEZrNm5GQjFMYnNjUmh5Zm5rU0xfcGpqcjNpX0dLejZNOUwxNEdKQ052d2JvUTJTbTk2YnBWU3RMZFBRNEdvUTQtZw?oc=5"
       },
       {
+        "title": "Latest official fuel stocks info – how much does NZ have? - 1News",
+        "source": "1News",
+        "published": "Mon, 13 Apr 2026 04:45:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb3pwMWxlbFowS2p4WlVNOVp6eWFURDFBRW9KekFmM216dWYxbklEM2t6NW8zRlliR1N6N2NIc3VheGxzLTVObEpYN2djZFhFcEVBQkdQWWhvNVF2LXphaVViUnFnVGN5LUJaZkItbFBBOXRUeEM0MzJXbjVfTlFPcXNfdVBIaUp2eEo2di1IQW9TV1hT?oc=5"
+      },
+      {
         "title": "Fuel stock update: About three weeks of diesel in country as total supply dips - NZ Herald",
         "source": "NZ Herald",
         "published": "Mon, 13 Apr 2026 01:45:58 GMT",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVXJJVldGVXpiQ0NfVU9PQ2c5Zk54YTNUYjZjb0NiR1hUMXlranhiRUVIRC0yM0F6aVlIVFh1VFNPbS1mSFFNZFBqZnBwRmZpYkxZMC1WNHQ5ZVVoS0R4elphS2huV281ZU1TZTZkdmtlbU5jSlBzOTZRTjM0elR5c1F2eWlpTU9qNUxzUnBDdHJmNzlBNnREWU1FbGRreHZ3SVFCS3dpYUNvMVVYbTB6SW9uY2s0R1dWdUtxTGpkd2puZ3k0TlZrU1B4UUhGVVRLX1EwcWxkcWxyVkQ0OVVKWg?oc=5"
+      },
+      {
+        "title": "NZ fuel stocks tick down, as tensions over Hormuz ratchet up - The Post",
+        "source": "The Post",
+        "published": "Mon, 13 Apr 2026 01:24:51 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVDE3WDMzWFdlN3Q2NFNjX1JtX0hleXRaNVpkM0g0WmltdTNzZ1B5RTd1VWVPNmdDRGdHbkREd0c2NUZOcTMyb3BNbjVtQmxfdkg0d0FXOV9JT1g3WVlhOUE5a2xYaXRfRmRJaHBHdHFwZGxnM0lTRXljZVJhVFhPLUJxT0doWUNtbDdOQzF1S09RT3ZLZjdDTVE3T2ljR2M?oc=5"
       },
       {
         "title": "New Zealand's fuel stocks stable, latest update shows - RNZ",
@@ -8583,6 +8583,24 @@
       }
     ],
     "global": [
+      {
+        "title": "US Treasury refuses extension of Iran oil sanctions waiver - MSN",
+        "source": "MSN",
+        "published": "Tue, 14 Apr 2026 23:56:35 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbDhaTW51ZW5UWUZGOUdmVzl0Q1dUZHEwdlNCWi1iV2E2OFhBZFBfdm5VV1ltVnRYTHRRd0dzMktER3RGUlI0SEZxVTNmZHNhLThRamo4ZldqalhvS1NGU19EU25OX05zZFhRa3BnTndiRzVqUXducFlwMHFsWEFCMHBuMTFFUWduUU4xdl9rczE3UnJhS0FLb2JCTGEwM1ZTSkkxWlU5azBYS1A5enc2WEhvUmlGcGRSR25wdjlMeEZnODNsNGRoeldkMTQ0dw?oc=5"
+      },
+      {
+        "title": "US to Restore Sanctions on Russian Oil as Iran Waiver Also Set to Expire - Kyiv Post",
+        "source": "Kyiv Post",
+        "published": "Tue, 14 Apr 2026 23:31:36 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OeGI4RnhiVHBEY2NxdnBWYWlGRFpPUFR1NjNpMjZQVG5OYzlLZHR2RkJpdXhHb2JLMnhUNWkwRFZaYlkwXzFta29DTQ?oc=5"
+      },
+      {
+        "title": "US Treasury not renewing temporary Iran oil sanction easing - Inquirer.net",
+        "source": "Inquirer.net",
+        "published": "Tue, 14 Apr 2026 23:23:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTk5ic3BYZmg5SVlBejgtZTZzNG5HRXFXcW4wdmdzSkY3d2pnRnBheC0wS3NzaW02V3VhRUFFNXFpU3BnOThJZGotREcwMUJ0ZUNLczI0RzFtanVqYXVqOXNWTXM4RmE1MEs1WmZXSVQ1OWk0MVV1VXViVVRFRVNLcHZqeS01X3J0Y3lxeFZQZDhjU01RejV4QXlQU2_SAaIBQVVfeXFMUDNrMmpVbTZnVmpxVUFNQUdQd056dzc3SmhUR1JocVlWM240emRsODVOaDJHby1HcUN2LWlNTmdmdlNvdm5mWm52akd6OG5yUFpUWDFLcGxJbFNQQnVHc1JGN1FkdGpTVVJUbUQ3RXBjZ1NtTmoyR0VsU2ZlNGxTekVOU21uTVlBM0JIbW02eXVGT2hlbklqT0pNVERUTEtQc0l3?oc=5"
+      },
       {
         "title": "Russia’s oil export revenue jumped 94% in first month of Iran war - Straight Arrow News - SAN",
         "source": "Straight Arrow News - SAN",
@@ -8612,24 +8630,6 @@
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Tue, 14 Apr 2026 20:59:23 GMT",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcEQzZ1VoelE5MkI1YTZlQVFMTFZHVDE0Z2FRU2VZVkRoWGdRdHpDNW9mSXlqUFMyTWhOVDZ4alJWcUt4NmlBUS1QeDJsMGp6aFRMZzdrejE2T3RYZW16a3p0QkY2cmlZOWRFOWJXRGVQdTNURlJnVmx2RmRobGxhWFExYlJCX1MwQjR6VnVYb0VwS2xXb1pCODlLZXg0eTlQVE8wNVJQWmE2eW04enZtVmIzTzBjc05aMjJ6bXRVQ3JaUdIBxwFBVV95cUxOdEhDcks0Q0N6Y3JsN01LaUxmVjE2aG9naGdtZXdSUm1YUTIxM0VjeU5wTUJHT2FIQTNwQTE4NHR3bDBXY1VobjVsX2J3ZVdZNXVQWGVsNXlON0J4MHlva2xUMVlvUURzTEIxQXRLREw3U2xodElGcnZFdVlteUJScTZobEstMWlMY1Rfc1NGRHBBRlZNTF9JWmVUNWVjQmluUDlHeXU1dGtINmFISVdhVjF0VTZkVkpZdFBORlhwLUQxMll5ODc0?oc=5"
-      },
-      {
-        "title": "US says it won’t renew temporary ease on Iran oil sanctions that expires Sunday - The Times of Israel",
-        "source": "The Times of Israel",
-        "published": "Tue, 14 Apr 2026 20:56:22 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMDJtQlBCWFVGRFJ2a0NrU245aXZENU1ZNXMza0lGRGNZanNaSko4dC1RUFdyeDJTNzdiNFhrVjFyQ21rSEh1NUx3VUR0WmVrb01sUVU2a2t3X0IyZjlQWEdfNUNqNl91QkJxTWU3WkdxeGlnSm5hVE5OTkloaVo0eWt2R3dINFBZVUx1NHRfR21YYUw2SF96d3JEZ0dfdTduTXBROXM2ekx0akJ3dWfSAbMBQVVfeXFMUEdUUnp3d0RGNi1xZjU4R0U2SmlaalpLRVVfM3dNSk5FMEtIZU1RQU85QjlXTnVpUGNZa2lmSFBxTmFDYVdmOW05RFV2QTBpQ3ktajMzSjRNa0JFWmU2ZVMyUGZub1p5OWlFQnNRbUFkOUQxVExYcHlzVVMtQ1lKYmVQUk13c09ZendKTTFDQ29CMjBvV01BUVlYSWpyWlhXVXBKeV8xQWdLdE5ZRm53aG1PMGc?oc=5"
-      },
-      {
-        "title": "U.S. sanctions on Russian oil snap back into place - The New Voice of Ukraine",
-        "source": "The New Voice of Ukraine",
-        "published": "Tue, 14 Apr 2026 20:44:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcWlkU0dTMnRXbGowNzZzcG9kYWpnRWxxV3VISm9RbmFqbFhXT0VCSGtEN3R0U3hBaGljV1lpc3FLQjFuMXBYTUhkRG5ZWDZFejlMVk9EendLbEFNdENUdG9BVWU0NF85WG15N2h5aHZ4MjN3aDMzSGdJRnlkQVVwM08yeWpfT0d6dkFpOXM4TVAwUWpzcTd30gGTAUFVX3lxTE9NS090dXo5Ry1lMXpDSGcwREQ5Z3Nta0k1WlpGZzJsMEpxYzg2ZEFTTG1jRHBIcUVlM1VUZnJMckc4WWhidHhZTW5TTTBCdmdPaVRyamJSdmN4cl9aeHJ4U3dlaDNMYVo1UWFmcU4zRG1vYlJ6R0VTcS1ERlJFWUNCV2hrTnE1clkwVFhWbmF2VE9WUQ?oc=5"
-      },
-      {
-        "title": "US Treasury says not renewing temporary easing of sanctions on Iran oil - The Times of Israel",
-        "source": "The Times of Israel",
-        "published": "Tue, 14 Apr 2026 20:16:22 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdnZCbzBzREpRb0RoRDczY2JKUzI0NURNNVNLcVhKS0plTzI0Yl9MRV9sd2FjWWlxR3RZcl9vcjNRUWpiTWRlaFdCOHdkaE95U2VyMzZNNGUxSzgwVUFSdk1VSk5GXzFhdEdLM1JkUFVYSEtEdGUxa2s4Q3BzdGdncXI4cmQ5aFhRM094QWJPbFJMblFieTZsTnJ3NEYxcFVKdVVtTXJRVUp6UFcxd1h1OEtVeElGZmY0?oc=5"
       }
     ]
   }
