@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T00:04:48+00:00",
+  "generated_at": "2026-04-15T03:37:32+00:00",
   "fx": {
     "nzd_per_usd": 1.707815,
     "as_of": "Tue, 14 Apr 2026 00:02:31 +0000"
@@ -8534,55 +8534,85 @@
   "news": {
     "nz": [
       {
-        "title": "Five Big Things That Happened Today: Monday, April 13 - 1News",
-        "source": "1News",
-        "published": "Tue, 14 Apr 2026 23:38:39 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcUszZGI5S3lSMExPOTF0bWtCd1dsWGotSnVYYmtXRDhFTmhpdkQ0WmgyNGd3X2FJMWhKU2t1ZmI2dHVLRDh6OEthaHBvWVlBWGo5dnN5Z0d3ZkJwRENQSHREc0VwdDdWRzlhMVBYUUVpLS1mQmJBZGlJalV2NWhEX0xHenZJS0J4OU83ekRycXY?oc=5"
+        "title": "New Zealand’s national fuel stocks decrease again - Times.co.nz",
+        "source": "Times.co.nz",
+        "published": "Wed, 15 Apr 2026 03:14:49 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOG9lRXN3b2E5YUlsTnBoQ1h2NkZfeTlrdS1lSVo3S2dLVk9tMUpUcXNicmp6ZXBIUUtfVHcyV3JDLWVWZDQ3RDJxSWVDNGFKUllKR3FTdlJrWWxuR3hfLUtLSDE3TmNweFRZajhFXzNERWN6cDFIZDZ5NlNSMUpyQUZaUVdNNnhWWEE?oc=5"
       },
       {
-        "title": "New Zealand’s fuel stock level falls - franklintimes.co.nz",
-        "source": "franklintimes.co.nz",
-        "published": "Tue, 14 Apr 2026 17:47:38 GMT",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZU01BTFVyUTRtQjJicmZoaklZcDQySkR5RlVGenNKYXhLTjQyLWk2UzdDc2VSOUpTUUhmeXRnZzhsMDMzU2RqNFQ5eUhOaHNWczR3Z2VsVVR0aG94Zi1Ea0tJNUh0MmF3d0tzMjhqMGZKZw?oc=5"
-      },
-      {
-        "title": "Should we be throwing the kitchen sink at the fuel crisis like Australia? - The Post",
-        "source": "The Post",
-        "published": "Tue, 14 Apr 2026 16:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQnNHVE9wTE1KNndrNGlUOC1lYWJQMmFOZ1ZFdi1FTnJWU2k5QjVxV3ducVRVdWJsQTV3ZThRdFpEYTA4VWZUN3lCZ1d2N015X0FDSnU1T0xja0JjLVB6TVNNS0R4eGlVYWdtUUZSQWxWUEZEQUJRSUttSnhPbzhEUlIwdWprS0xYNDVWM01uNlc5c3BhT1o4b09CR0h1dl9kZzFB?oc=5"
-      },
-      {
-        "title": "PM confident NZers 'are assured' on fuel security plans - 1News",
-        "source": "1News",
-        "published": "Mon, 13 Apr 2026 04:56:11 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWE9tTEhvQ0REWC01QTV2eGk2LVMxdVF0bmZMOUVCck1Sbk55QldIQmtESXJSaFhMMHhqRFIxaWU1Q3pQRGlEYlNrV1JKd1FOZU5FNGRrQXhydnhfeEZrNm5GQjFMYnNjUmh5Zm5rU0xfcGpqcjNpX0dLejZNOUwxNEdKQ052d2JvUTJTbTk2YnBWU3RMZFBRNEdvUTQtZw?oc=5"
-      },
-      {
-        "title": "Latest official fuel stocks info – how much does NZ have? - 1News",
-        "source": "1News",
-        "published": "Mon, 13 Apr 2026 04:45:48 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb3pwMWxlbFowS2p4WlVNOVp6eWFURDFBRW9KekFmM216dWYxbklEM2t6NW8zRlliR1N6N2NIc3VheGxzLTVObEpYN2djZFhFcEVBQkdQWWhvNVF2LXphaVViUnFnVGN5LUJaZkItbFBBOXRUeEM0MzJXbjVfTlFPcXNfdVBIaUp2eEo2di1IQW9TV1hT?oc=5"
-      },
-      {
-        "title": "Fuel stock update: About three weeks of diesel in country as total supply dips - NZ Herald",
+        "title": "Watch: Luxon gives update on NZ's fuel supply after stocks suffer second consecutive drop - NZ Herald",
         "source": "NZ Herald",
-        "published": "Mon, 13 Apr 2026 01:45:58 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVXJJVldGVXpiQ0NfVU9PQ2c5Zk54YTNUYjZjb0NiR1hUMXlranhiRUVIRC0yM0F6aVlIVFh1VFNPbS1mSFFNZFBqZnBwRmZpYkxZMC1WNHQ5ZVVoS0R4elphS2huV281ZU1TZTZkdmtlbU5jSlBzOTZRTjM0elR5c1F2eWlpTU9qNUxzUnBDdHJmNzlBNnREWU1FbGRreHZ3SVFCS3dpYUNvMVVYbTB6SW9uY2s0R1dWdUtxTGpkd2puZ3k0TlZrU1B4UUhGVVRLX1EwcWxkcWxyVkQ0OVVKWg?oc=5"
+        "published": "Wed, 15 Apr 2026 03:07:37 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTjgwb3VIMllnd3VncUU5dFduSndiZmhrZVk4c0Y0YXBmMmdSbGJJaGk3OWlaZ1AwMG9pUWxFeUhDc1pFMW92T0tNVmR0YmtkOVFVcW1SQVNPNlBLS2p3R0l6U1JfaW9iOVhkNmZ1OWpuMXY3c0hYbnl4LTE1YU5ZNlNSR2lLUFBKR0xGLVQ4ZVhWU0ZDWnc2WVNMZzNFcXYzaUFfQTYzYnJseDlyRTB2SG15d1lCVmlhMUJ1MUpQV3ppNFRpb1V4WFBmRlBsd3p2bUJZ?oc=5"
       },
       {
-        "title": "NZ fuel stocks tick down, as tensions over Hormuz ratchet up - The Post",
+        "title": "NZ fuel stocks drop again as one shipment held up in Singapore - 1News",
+        "source": "1News",
+        "published": "Wed, 15 Apr 2026 02:52:05 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaTJ5cEVWTXRnVU9uNFlwNkdNZDcxR1VCQU92R1NQQ05XWURZVDJ6UFhJSUU3cXNMVlpJdUQ3bG1YZlBoTWljYjM2SmZGUEVqQWhTT1l6VWdYSk9fVE4tYXpvQXQ1OUlMR1lodHJ0MEJfWjh5NHZDcmt4RTF5MDBpbThkRmU3QmZTN3dhbnJlY0xkV05fMTJfZDdJb3pXMmM?oc=5"
+      },
+      {
+        "title": "New Zealand’s fuel stocks drop but remain stable - farmersweekly.co.nz",
+        "source": "farmersweekly.co.nz",
+        "published": "Wed, 15 Apr 2026 02:48:05 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS2FTdzUzRWZFYVc4S19iRjZvWGJwTUszQTUxekJRVEM3NENfTm9CZUdBekwzUFUtTk1LbUFEOFpzYmlFb1pJeGMtNjBMcjE1Zk5ia1k1R05KUFU4eE1IR2ZhMDcxanRpZjJuTlBMRlFkRE9pLUEwM2M5M2l2RFZZdEdKaVhxcjU0ZE9aLWNUOExGbEk?oc=5"
+      },
+      {
+        "title": "Updated Fuel Stock And Fuel Shipping Data Is Available On The MBIE Website - Scoop - New Zealand News",
+        "source": "Scoop - New Zealand News",
+        "published": "Wed, 15 Apr 2026 02:48:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQnU4ekZvYm0zMjI3RWpPcFF4VUxTbnBncUhOZzhPMHFaQXBISmh5dXQ1X0szWHVOVkpRQ253T0s5N2ZMeGVhT1BrUUZOSDZMVU9Dckw2ZVcxcGJBdnJqWkRJNnF1Z1Ntd0lMY3B6U0xtMEZWdXlPQVV0NW5PZVllc242ZzJ0M3JwLVh5NlU0OXh4VzFjMXpOQzdmZ1N4cjh6WHl4N2VpVDVGN1hDeDdYNVp3YzIxWGo1WXFZXzZ1R2ZGZw?oc=5"
+      },
+      {
+        "title": "Watch live: Fuel stocks down, one ship delayed - and more delays likely - in fuel stock update - The Post",
         "source": "The Post",
-        "published": "Mon, 13 Apr 2026 01:24:51 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVDE3WDMzWFdlN3Q2NFNjX1JtX0hleXRaNVpkM0g0WmltdTNzZ1B5RTd1VWVPNmdDRGdHbkREd0c2NUZOcTMyb3BNbjVtQmxfdkg0d0FXOV9JT1g3WVlhOUE5a2xYaXRfRmRJaHBHdHFwZGxnM0lTRXljZVJhVFhPLUJxT0doWUNtbDdOQzF1S09RT3ZLZjdDTVE3T2ljR2M?oc=5"
+        "published": "Wed, 15 Apr 2026 02:30:26 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOME1FU3dFRXlmc19mMG1zcGhhWWpqOUdZREItbWV3Tlp2czZmNkpJcWdzb1loU25pa1BoZ25XenpCOFhfRWV1bjEtRjN1amZ3bVlZRzQxYkpfRnRNU0RwV25UV2RuUVBvTGdyM0d4RG16bldHb0Job3V6QWUxR3RVSFZjNEhpelVBRjNDN1NkSEE3UHY1N25LRnBlWnRzdXRpZi0tdlFuUjBlbm9PVTl4YzFfUXNRcW1DUnNlZVEycTBFV3FLUjVBMFVR?oc=5"
       },
       {
-        "title": "New Zealand's fuel stocks stable, latest update shows - RNZ",
+        "title": "Fuel supply drops by three days, but situation ‘stable’, Government says - Stuff",
+        "source": "Stuff",
+        "published": "Wed, 15 Apr 2026 02:21:28 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVEtzcU9wSHUyd1RZTmZwTm1MWTJMN0gxcUV3d3d5bXRxa2l5anFpb3VTVEtZNnhLOFlOZjFKLVJLUkpNU2JLck05bE55X3YxTnlEbHdKS2dhR3VMZng5NDc5VzRZMG1DaDFLaUhKcWxBTHZ6VEJsWTZTQWg2LTBtYUJtM1VKWDFrMldJLTR5UThqdUhQZUs3dlpfX3c4R0FkRXBNQktUVQ?oc=5"
+      },
+      {
+        "title": "New Zealand's fuel stocks drop but remain stable - RNZ",
         "source": "RNZ",
-        "published": "Mon, 13 Apr 2026 01:11:14 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMGJwZzBMSWlLUVpTbGNaVHBXcmFkTzRjS1ZKM2RnY2xlcURZT0NIVEJQbWk2VHFZbXlTSTRMY2pXdXA3b3QzYTc1dno5MnMwaXBlNmphRkhfYXdWR05sMWlsUUxrY1NQQnJOM2dNcGgxQUl2elBoLWx3b1Y1SG9haFkyRUJsd0pIcV9lcDROdXpSNWdJMzB3ZzVZUUM?oc=5"
+        "published": "Wed, 15 Apr 2026 02:15:12 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQzJZdDVac1o4aWtSN1dlYnhWdzh4Y0p0SFNfeE8wNFZKMk9fc295VFp3TldheXhsWTZqWWMzdE9hX294a193VDNFelpCQ2RGYXFSMTBWQ2h6Y1pKRTVaT1JNdV9VelJCRHd2Y2NGc0xuQXZ0YzdobG9UUDRGYkZuNTFIWmlCbHF0dGZhMS13OWFURDdMZzlr?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Video | Iran Latest News | Oil Pressure Returns: US Lets Iran Sanctions Relief Expire - NDTV",
+        "source": "NDTV",
+        "published": "Wed, 15 Apr 2026 03:25:07 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRkdTUHNhVzhYdXljeWtfU1N1bFB4QkxRaHdqY3ozX2hLbmN4R2xfNDdhWHZJX3laZW1BbkNfUzUzVVczSk5JSnZ6eVRjcWNoRHhfb0VTS3oyM0lPWFliNk1Qd0l0clZCWjVzVklkd2lHakFBejhUV0VpZWJzeTFROENzVUQ0aW1pYUMyaHVZbU1YdEtVZjQ5Zms4SHVHLWJYbWtRdjdYZE1fMmxMN0E?oc=5"
+      },
+      {
+        "title": "WTI Oil Drops Below $90, $80 Next If US-Iran Talks Deliver ‘Bridge Deal’ - Action Forex",
+        "source": "Action Forex",
+        "published": "Wed, 15 Apr 2026 03:21:10 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTW4tOGRGSHRjanBGNU0tUENDUWtLTlloUTJxMWdnR3g0Qm5HTTk5VjB6dGRpSTlDRWlkRTB0ampsemlSeG9JVWVIUk5jTGw1ZHk0VXBReTBpc2QtM29PUnpTUXQtMVRpQi1lcDBrMC1udU1HbEtXZjZPVURRb2pSMXJyRzFEY2otMWY4Vl9ndUNkQkVzWUZVaHlJbXVHdjFlZmVqOUk1VmgwOHNoY2RsZDdTM05MTUY3?oc=5"
+      },
+      {
+        "title": "Oil Prices Plunge as US-Iran Peace Talks Advance - Gotrade",
+        "source": "Gotrade",
+        "published": "Wed, 15 Apr 2026 02:19:03 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYVF1SnN3NnBZekpDb0dxeEQ4ZE8ya19felRBWnFkUmhsaExGNk54bEVUY3JMUi1oT09BYlBUVjVlajdkOVktSWNHUXRiWVRKU2t0X25PU2tkbmp2cEg2MnNLUnp2RHRZQTdTUERQRWVWaHhEZ1MtSy12UHV5cDZwSHUwNUxYQQ?oc=5"
+      },
+      {
+        "title": "Brent Crude Stabilises Near $94 As US-Iran Dialogue Gains Momentum Again - NDTV Profit",
+        "source": "NDTV Profit",
+        "published": "Wed, 15 Apr 2026 01:07:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMU12aWRtMjdGMmlBWlVhbE52RF81RVNFeTd3SUMxWGhwYVRyZGdhMzBuSjVoa0lodkoyZ3dmNk1XUjFpazNoTlotU3lRQXZsQjZkel9FcjRPa2Y5b043TVpCNUlBSXRuNDhnNVQxTmI4dmZZN3phY2ZJeGJ3WjBhYTVoTjZ5WkhuU19fM2hCUVpwaEZkeXZoZXJNU0RKVzhwdFdFME1Tamk0eEdyOUM4amF4V29WZDBhcGZpV192UFJSbjA3RkQ1SkN5VHNpRk9YWFI5alpobFHSAeABQVVfeXFMTzB2bGFIQmxvZkNyS0p3MEtidHNxc2s4Nm4tbGFkbmYwTzhhUW1DaTVyWmdiM2pOYl90bVBEM3ozMDhnZU4yRkI2RDZvS1UwbnhvbVVOTjZoZEdrSFNHQ19jdnQ3cllGamxQWEZydW5YMjRoMHdoZkFjVUZOV2ZmVHN6X3U4dzZLZU5odTJKUEJqcWJ1QlFBVUQ4Nm5yTndJME45YXZnb0VJZ1NZRDhwbDQ3bEhrd01LSHUzQ1RUMjlWTXJPM3BjMy1nZGdjbWU5c2Qwc1hfT1oxNm9fX1Fienc?oc=5"
+      },
+      {
+        "title": "Oil prices fall for a second day on expectations US-Iran talks may resume - Reuters",
+        "source": "Reuters",
+        "published": "Wed, 15 Apr 2026 01:01:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMTkyUVg1WDZSc3pKOWN3QUhwR3lHcjVrNlM0WC13Wmd6M1NLTmVQMUt4LUtrdFlwcEhnR0hQRkNLRElZVm5qWXlrQUs5SlBhc21SUjRPc1ltN2lpb2p6VVBRY2lIRFhCRXBYS3RGMEViZEpGYVJqVTZhUzVfZFVqMk56ZGVIREtYMms2dFZ1VGhmUVJyRG16bGpHNXdEaEZPVzVFb1dZWERGMS16T2tLUmVpeWF1c3c?oc=5"
+      },
       {
         "title": "US Treasury refuses extension of Iran oil sanctions waiver - MSN",
         "source": "MSN",
@@ -8600,36 +8630,6 @@
         "source": "Inquirer.net",
         "published": "Tue, 14 Apr 2026 23:23:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTk5ic3BYZmg5SVlBejgtZTZzNG5HRXFXcW4wdmdzSkY3d2pnRnBheC0wS3NzaW02V3VhRUFFNXFpU3BnOThJZGotREcwMUJ0ZUNLczI0RzFtanVqYXVqOXNWTXM4RmE1MEs1WmZXSVQ1OWk0MVV1VXViVVRFRVNLcHZqeS01X3J0Y3lxeFZQZDhjU01RejV4QXlQU2_SAaIBQVVfeXFMUDNrMmpVbTZnVmpxVUFNQUdQd056dzc3SmhUR1JocVlWM240emRsODVOaDJHby1HcUN2LWlNTmdmdlNvdm5mWm52akd6OG5yUFpUWDFLcGxJbFNQQnVHc1JGN1FkdGpTVVJUbUQ3RXBjZ1NtTmoyR0VsU2ZlNGxTekVOU21uTVlBM0JIbW02eXVGT2hlbklqT0pNVERUTEtQc0l3?oc=5"
-      },
-      {
-        "title": "Russia’s oil export revenue jumped 94% in first month of Iran war - Straight Arrow News - SAN",
-        "source": "Straight Arrow News - SAN",
-        "published": "Tue, 14 Apr 2026 22:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU3hYT0k2SV9iczF5eUpnV3E4RFNhaFJWX29kZWhoeHhKNDlQRWdNTXVGUDBKdktlWHR6dTRuRVliNXl5NjRwZjUxLXEyS1UtY0dUbjkyaFZ0MWNZUVN2NE9iUVIzVGFWTDZNSWFqME95WFFPdFRuSldfOGlfSmFkZWZ6TURmNnVRQnVZ?oc=5"
-      },
-      {
-        "title": "Oil Prices Plunge on Hopes for Renewed US-Iran Talks; WTI Falls 7.9% - bloomingbit",
-        "source": "bloomingbit",
-        "published": "Tue, 14 Apr 2026 21:28:20 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FMUFVVW5xWlFUclBYZmtIZHVyTTIzazZHWnNMUVc3d0E0aUhyZUxMN3FxeHNZd2dGY1k2a2M1MkwxVzU1Q0thbl9Edkg2UkpSYkpZRA?oc=5"
-      },
-      {
-        "title": "Iran war triggered 'most severe oil supply shock in history,' the International Energy Agency says - abcnews.com",
-        "source": "abcnews.com",
-        "published": "Tue, 14 Apr 2026 21:22:12 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdzQ4a3kyR1VHYXBtQlNXTFVtRUd6MERFbnM3U2ljQS1fMUdjNWZLT1Z2RnpnY1NETWtRUWVEZmtRNGlHYVZyWkZiai14bnQwNG8ydGpzSmhLNk0xQXNQSlBvVzFONEx3QllJbnZBVjF5VnNjTHd2MlFLWkJpWk1pZ1RaTFpFWjdVcFJHNnFOSlFtdlNkNnBjZzRpUDY0azDSAaQBQVVfeXFMUHpQNDczekRZZVQ5UzZzNUxQRjRVd1BTQ0FUMjNpbzBkNGlwczVRTjJaclUwMnNVYnY1LTdLTkFLLURhaXcyNVlWMzVaTFYyeWhrLWFIb1hubnI2RHhwazBIcDdVeEFaQkpiRkdSS0g2S0Y3dm1ZWlZlbE00WG1VcWlxclNlenlyM2psMmNFRHNMV1BsbDFyajJnbEcyNGhvUDExVFU?oc=5"
-      },
-      {
-        "title": "Why WTI is stronger in sales compared to Brent crude - Oklahoma Energy Today",
-        "source": "Oklahoma Energy Today",
-        "published": "Tue, 14 Apr 2026 21:16:22 GMT",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Uc3JnSkp5U3htRnI2SUNrWnZDMjZfTXB3Zm05N0FiMTBmWkZnV3Y2ZHZCTjdUOHB2Q21PTUhJTXBHUmpDYnltVll4dF9icTI4blNqaWxkN0dCZ2tJVmpLeC1ieTZNeVR4UDkzNjdHdWhPWmd2bUE?oc=5"
-      },
-      {
-        "title": "US Crude Oil Inventories Still Booming Despite Global Shortage Fears - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Tue, 14 Apr 2026 20:59:23 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcEQzZ1VoelE5MkI1YTZlQVFMTFZHVDE0Z2FRU2VZVkRoWGdRdHpDNW9mSXlqUFMyTWhOVDZ4alJWcUt4NmlBUS1QeDJsMGp6aFRMZzdrejE2T3RYZW16a3p0QkY2cmlZOWRFOWJXRGVQdTNURlJnVmx2RmRobGxhWFExYlJCX1MwQjR6VnVYb0VwS2xXb1pCODlLZXg0eTlQVE8wNVJQWmE2eW04enZtVmIzTzBjc05aMjJ6bXRVQ3JaUdIBxwFBVV95cUxOdEhDcks0Q0N6Y3JsN01LaUxmVjE2aG9naGdtZXdSUm1YUTIxM0VjeU5wTUJHT2FIQTNwQTE4NHR3bDBXY1VobjVsX2J3ZVdZNXVQWGVsNXlON0J4MHlva2xUMVlvUURzTEIxQXRLREw3U2xodElGcnZFdVlteUJScTZobEstMWlMY1Rfc1NGRHBBRlZNTF9JWmVUNWVjQmluUDlHeXU1dGtINmFISVdhVjF0VTZkVkpZdFBORlhwLUQxMll5ODc0?oc=5"
       }
     ]
   }
