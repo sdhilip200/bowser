@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T19:19:04+00:00",
+  "generated_at": "2026-04-15T19:47:47+00:00",
   "fx": {
     "nzd_per_usd": 1.693939,
     "as_of": "Wed, 15 Apr 2026 00:02:31 +0000"
@@ -8534,6 +8534,12 @@
   "news": {
     "nz": [
       {
+        "title": "Fuel stocks fall again, one shipment delayed but 'no risk' says PM - 1News",
+        "source": "1News",
+        "published": "Wed, 15 Apr 2026 19:28:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYjZRNXJJWE9pU3NUSmZKTHlITmFxbENJZzZxalB6U1ZTdUxxdmtlNm1HY0JHaFRYMkZ2blpQMmg3cFpLUkhoZ2JIdWMyLTJHU0MxSFZxajZPOUd1Qm82NlZnZ3JpSHNob3NGS1hOWG9SaDA5NTRhR2xhbWNHUVVGTGZhbk1OaHdIN2p2azFEZnNHZzRpMThCdVhfSl9kRldy?oc=5"
+      },
+      {
         "title": "Should New Zealand follow Australia's lead on the fuel crisis? - RNZ",
         "source": "RNZ",
         "published": "Wed, 15 Apr 2026 18:55:52 GMT",
@@ -8544,12 +8550,6 @@
         "source": "Autofile",
         "published": "Wed, 15 Apr 2026 17:01:46 GMT",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KRVRGQkQ3bE94WFdXeUV2VlRkUE9najF5WE9sa3BkZ2ZsbVdoSGdaeXdkZlgtVDZVMld2QWxFU0VNZFRVeFdhd2pUaEdZN1NLckIxSnp5WVR6UzAtV3BMRDhB?oc=5"
-      },
-      {
-        "title": "Fuel stocks fall again, one shipment delayed but 'no risk' says PM - 1News",
-        "source": "1News",
-        "published": "Wed, 15 Apr 2026 16:26:36 GMT",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYjZRNXJJWE9pU3NUSmZKTHlITmFxbENJZzZxalB6U1ZTdUxxdmtlNm1HY0JHaFRYMkZ2blpQMmg3cFpLUkhoZ2JIdWMyLTJHU0MxSFZxajZPOUd1Qm82NlZnZ3JpSHNob3NGS1hOWG9SaDA5NTRhR2xhbWNHUVVGTGZhbk1OaHdIN2p2azFEZnNHZzRpMThCdVhfSl9kRldy?oc=5"
       },
       {
         "title": "New Zealand’s fuel stocks drop but remain stable - farmersweekly.co.nz",
@@ -8584,10 +8584,28 @@
     ],
     "global": [
       {
-        "title": "US Targets Iran's Oil Transportation Infrastructure With Sanctions - GV Wire",
-        "source": "GV Wire",
-        "published": "Wed, 15 Apr 2026 19:17:56 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaXMxMUZ4eWlIUGRiQUZOVVNhZkhHa0VvWnZic2xVOVduem5hY09vWWEzUWFvUkxoRUc5a2NDX1BtT2s5NDcta2p1UjZqWTZpa3I2THFCanlDUUR0bTRXMUNWWjlrVDhSZFg0WGVNSGxpNTZUbzlOTU8zV01Na1dsX0dpMS1zbVFmcThNUHp3UnA5MDROUGhDUkpRbEo?oc=5"
+        "title": "U.S. will not renew sanctions waivers on Russian, Iranian oil, Bessent says - Global News",
+        "source": "Global News",
+        "published": "Wed, 15 Apr 2026 19:38:36 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdWhYMUJFTW5tZk5XS3ozYXVCdUxuQ3ZORDFneVN0R2E5WGxhX3dvTm9iU050N3VabFpBNWllYzBQaGVPT0YxOFJrS3RINUEyYW8wUG1PUFNqdnBJTmZBeVo0WEtRb0ZWMUhpY25QQ01mUmMxZGN1S0hyWGNxMmZTZlJHcHA?oc=5"
+      },
+      {
+        "title": "NEWS: US targets Iran’s oil transportation infrastructure with sanctions - AML Intelligence",
+        "source": "AML Intelligence",
+        "published": "Wed, 15 Apr 2026 19:35:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSEhtQTNmWXhiV3oyM3JqSHAyMG41TU92ekxfYWotRU0yVzN5OW1PQjBOcGZaMlltc0xHM0w3aWw5R3hqV3JpeVhvN1RXRHN2M1lWNDd1NFB2Zm91UEhXMXN5dlJTQmlGalI5VkpOckRqWkNXMEozZVNrU1Z4YjcyMlp5TkJEVTg0MFNpV091TWFYelhhTm9EOFZheF9TLVNnZlNWTktRZWJPTHVMY3hraQ?oc=5"
+      },
+      {
+        "title": "US targets Iran’s oil transportation infrastructure with sanctions By Reuters - Investing.com",
+        "source": "Investing.com",
+        "published": "Wed, 15 Apr 2026 19:21:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOVJPYkVIZm02aTFGUk9lWlJDd2N2NzRNRDlMWVZxNFRObUQ0VG5vVVJPbUFxbEtrZzFTbkpsLWhDV212TFZadHI3M01CZ0d2Yk55RkpTdHMyaUR6ekJSZ1R5RFhfNnVjOVdCVVBSWmtUV1lEd21ReHZJck1rN3dDU21ESlZiUVlhNTY0VXRhZXhzZTVjcFJMZk1hQmZoVXlVZHpQVlNuVlNDaFo1aDV1Ql9OZHljTGcxVjlQb1dR?oc=5"
+      },
+      {
+        "title": "US targets Iran's oil transportation infrastructure with sanctions - Reuters",
+        "source": "Reuters",
+        "published": "Wed, 15 Apr 2026 19:04:59 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdkVLU2x6LWQ5V3NfVmpCN0lVYmhqWjNJMUxKZ1l1YWNUTy15bnRIcVdXM1hKUVdiUDl2RFVXeU81MnJHREdlWnRPS3Z2YTQxOTdlQ2VyYUtuT2l2Y1lfcWVjTWNXTGFFa3g4SkIzRmdRS0xzallnOXVSMjhWMEx0N2tsbEx3TFRHWUJWNlRISlJVU1RvckR0eUJUVGVTUnJkX0U5MUpwemhRQVhGYmpKUlhjeWFTVGs?oc=5"
       },
       {
         "title": "US will not extend Russian oil sanctions waiver - Bessent - Українські Національні Новини (УНН)",
@@ -8612,24 +8630,6 @@
         "source": "The New York Times",
         "published": "Wed, 15 Apr 2026 18:17:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hQ0llUVk2cGxtRElJcXJhak94QzF1aGlWYlpPa00xYklOcThGNTNraDlpZE5tYnpZWUNQTjd4S09HWE9WNzZ2bkgySXRpQWJheUJrb0hodnl3aDF5TzY4SEtPN0JLN2wxOXdibEhpc2dxVkY4T1E?oc=5"
-      },
-      {
-        "title": "US may impose secondary sanctions on Iran oil purchases - Reuters",
-        "source": "Reuters",
-        "published": "Wed, 15 Apr 2026 17:55:22 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUkFpb05jTnFxcFdfV0ktRlVTTS01SHdnSE81VnN0OWxBbXBKYzZHcjVFSVVIcGZPNmlnc0xySTM2S2NNNEV2V2pVWWUxYkxDcU5TdnlEdVlWMmJ3aDBkemlfa0x5akRyMkFZVXdkQXE0TkNWSGJOSWpRRnJGZ2JyTFJEVnpNcmQwUno2NHN1WThRSkd5NTNoUkEzbWJfTWlkZjV4X01JRQ?oc=5"
-      },
-      {
-        "title": "Crude Oil Analysis: WTI remains weak below the $90 level - FOREX.com",
-        "source": "FOREX.com",
-        "published": "Wed, 15 Apr 2026 16:48:29 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObDVUVDU0amQ3d1U1RDhlTjROQXlPeXpvSjdEdk16YWNvWDZjTmJGT1pBTXkzbGpvbFFoTWlfLVRDclJkMUkyOFFBVWpEYTdZR29JU1BMQnh0MjNTTmpvRW50UXl2elZaTk5mLW1MSE5fdlg1XzdGLVRSWUxDczN4SER3VU83dVdqWXMyVDNfZEQ5ZW96aEluYUFXTFN4aW_SAasBQVVfeXFMUF9KVlVlcEh1NjNMWGhpOWhrWWNrRk50amY0dlF4dFdHMHl3WGp4d3ltOE9iU3ZZX1NVdFNwVE1sVDNJbTlCLV9XZFJ4NmtJVjZEa01yMVNwQUI5em5uandvem5sOVdyaXQ4eHljQnYtLV9xdTlycW8wbGREaGh5S1NVcC1NVWlSdGY4Z3RkN3JkQXNXU2RnWjBhMEt2YUtXYnhUTEZwLTNmQVR3?oc=5"
-      },
-      {
-        "title": "US crude exports hit record as Iran war disrupts Middle East supplies - Financial Times",
-        "source": "Financial Times",
-        "published": "Wed, 15 Apr 2026 16:37:49 GMT",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkSi1VM3ZSNjNBT0UtalFibGJrQUx3SkxvbzZ0NFhhSjVNSEVVMktQWXQtb2Yza0pDWlhkMExSM2pldUY4Z3lPQ3dfMFVFa1lxWFRhRnNkSkF5Rlp5S3k4dEJ6aE5COWpTNmxWMXhvMUM?oc=5"
       }
     ]
   }
