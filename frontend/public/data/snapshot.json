@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-04-16T18:49:32+00:00",
+  "generated_at": "2026-04-16T19:15:55+00:00",
   "fx": {
-    "nzd_per_usd": 1.693939,
-    "as_of": "Wed, 15 Apr 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.691998,
+    "as_of": "Thu, 16 Apr 2026 00:02:32 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 94.7,
-      "latest_date": "2026-04-15",
-      "delta_1d_pct": -0.09,
-      "delta_30d_pct": 16.34,
+      "latest": 98.74,
+      "latest_date": "2026-04-16",
+      "delta_1d_pct": 4.01,
+      "delta_30d_pct": 21.3,
       "series": [
-        {
-          "date": "2025-04-15",
-          "usd": 64.67
-        },
         {
           "date": "2025-04-16",
           "usd": 65.85
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-04-15",
-          "usd": 94.7
+          "usd": 94.93
+        },
+        {
+          "date": "2026-04-16",
+          "usd": 98.74
         }
       ]
     },
     "wti": {
-      "latest": 90.95,
-      "latest_date": "2026-04-15",
-      "delta_1d_pct": -0.36,
-      "delta_30d_pct": 21.98,
+      "latest": 90.51,
+      "latest_date": "2026-04-16",
+      "delta_1d_pct": -0.85,
+      "delta_30d_pct": 21.23,
       "series": [
-        {
-          "date": "2025-04-15",
-          "usd": 61.33
-        },
         {
           "date": "2025-04-16",
           "usd": 62.47
@@ -2033,36 +2029,40 @@
         },
         {
           "date": "2026-04-15",
-          "usd": 90.95
+          "usd": 91.29
+        },
+        {
+          "date": "2026-04-16",
+          "usd": 90.51
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-04-15",
+    "as_of": "2026-04-16",
     "regular_91": {
-      "avg": 3.458,
-      "min": 3.31,
+      "avg": 3.443,
+      "min": 3.298,
       "max": 3.8,
-      "count": 78
+      "count": 64
     },
     "premium_95": {
-      "avg": 3.649,
-      "min": 3.379,
-      "max": 3.769,
-      "count": 37
+      "avg": 3.625,
+      "min": 3.299,
+      "max": 3.849,
+      "count": 31
     },
     "premium_98": {
-      "avg": 3.783,
-      "min": 3.579,
-      "max": 3.909,
-      "count": 9
+      "avg": 3.766,
+      "min": 3.749,
+      "max": 3.789,
+      "count": 3
     },
     "diesel": {
-      "avg": 3.846,
-      "min": 3.739,
+      "avg": 3.825,
+      "min": 3.698,
       "max": 4.279,
-      "count": 82
+      "count": 80
     },
     "lpg": {
       "avg": 0.0,
@@ -2070,8 +2070,8 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 170,
-    "observations_yesterday": 27,
+    "observations_today": 81,
+    "observations_yesterday": 88,
     "observations_older": 9
   },
   "mbie_waterfall": {
@@ -8570,19 +8570,25 @@
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNalp1bkp1QnltYTk0eVpTWXdQMUYwa1BrQmZ5Nk5UT2NTUHRXN185Q2stSDhtRC1ndUJNNnFYcEQ3Ulk1czFzdkd4dzdicTdvaU40NEJDeW1Cc014VFZEVG44VlhxbjFCbFhxNkhKTzg0V2U1ZTZqbEdpelZzblFzempRbkE5cnl0LVFvLVhucjFrMWh1QUowbW9WU2Fwd3dv?oc=5"
       },
       {
-        "title": "New Zealand’s fuel stocks drop but remain stable - farmersweekly.co.nz",
-        "source": "farmersweekly.co.nz",
-        "published": "Wed, 15 Apr 2026 07:35:27 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS2FTdzUzRWZFYVc4S19iRjZvWGJwTUszQTUxekJRVEM3NENfTm9CZUdBekwzUFUtTk1LbUFEOFpzYmlFb1pJeGMtNjBMcjE1Zk5ia1k1R05KUFU4eE1IR2ZhMDcxanRpZjJuTlBMRlFkRE9pLUEwM2M5M2l2RFZZdEdKaVhxcjU0ZE9aLWNUOExGbEk?oc=5"
-      },
-      {
         "title": "New Zealand’s national fuel stocks decrease again - Times.co.nz",
         "source": "Times.co.nz",
         "published": "Wed, 15 Apr 2026 03:11:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOG9lRXN3b2E5YUlsTnBoQ1h2NkZfeTlrdS1lSVo3S2dLVk9tMUpUcXNicmp6ZXBIUUtfVHcyV3JDLWVWZDQ3RDJxSWVDNGFKUllKR3FTdlJrWWxuR3hfLUtLSDE3TmNweFRZajhFXzNERWN6cDFIZDZ5NlNSMUpyQUZaUVdNNnhWWEE?oc=5"
+      },
+      {
+        "title": "Luxon reassures Kiwis not to be concerned by fuel shipment departure delay - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Wed, 15 Apr 2026 03:07:37 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTjgwb3VIMllnd3VncUU5dFduSndiZmhrZVk4c0Y0YXBmMmdSbGJJaGk3OWlaZ1AwMG9pUWxFeUhDc1pFMW92T0tNVmR0YmtkOVFVcW1SQVNPNlBLS2p3R0l6U1JfaW9iOVhkNmZ1OWpuMXY3c0hYbnl4LTE1YU5ZNlNSR2lLUFBKR0xGLVQ4ZVhWU0ZDWnc2WVNMZzNFcXYzaUFfQTYzYnJseDlyRTB2SG15d1lCVmlhMUJ1MUpQV3ppNFRpb1V4WFBmRlBsd3p2bUJZ?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "What the U.S. Blockade Means for Iran’s Economy - The New York Times",
+        "source": "The New York Times",
+        "published": "Thu, 16 Apr 2026 18:08:51 GMT",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ESlZqM092MlhaRHVnVGhKS2lSZ29uYlExQVlUcU9lbC0tVU90cFRaajBMNzZIalViYW51S1NXMk1zOHdONGFYcng3aTZwaW1fZktSdHZ4QUJGWTZJLVB5blVWUnBBc2Nna2k1eWJrZ3BTU1VjcElkNlMtQzVTUnM?oc=5"
+      },
       {
         "title": "Implications of WTI Oil Futures In Backwardation Amid the Supply Crunch - CME Group",
         "source": "CME Group",
@@ -8612,12 +8618,6 @@
         "source": "Barron's",
         "published": "Thu, 16 Apr 2026 15:04:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON0ltWTE5YTJPNGQyMUR1S2NaaHMtVEdJVHplU19wODVHX2VRdndLR1ljS015N25DbGtOLUJkNGRKWkhQX1R4UHJqTm1FeU50Q1cwTm5XTFlhUmNMVUdHUkh1aFRLQm0wQ1ppSk9LVEd5cmVXMnhWY1ZfVk1UeXNpSl9BR25NQTA4?oc=5"
-      },
-      {
-        "title": "Crude Oil WTI Futures Chart - Investing.com",
-        "source": "Investing.com",
-        "published": "Thu, 16 Apr 2026 15:00:31 GMT",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QVUZmbEFLek45c2FDcW5MdnIwVUE5c2p4Q21nUVU4a0NOZzd2QTdxSGRQS3A1QTk2M1cwVFNfd0JVUFZYMnVBa01IeWJzNy1HZmR3cFJXZk1zdVNSRGJONkI3MEJ4RDQ3VjlocXhYdHc?oc=5"
       },
       {
         "title": "USA resumes sanctions on Russian and Iranian oil - Defence24.com",
