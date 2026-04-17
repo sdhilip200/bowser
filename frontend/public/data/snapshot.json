@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-04-17T18:37:01+00:00",
+  "generated_at": "2026-04-17T19:01:40+00:00",
   "fx": {
-    "nzd_per_usd": 1.691998,
-    "as_of": "Thu, 16 Apr 2026 00:02:32 +0000"
+    "nzd_per_usd": 1.697979,
+    "as_of": "Fri, 17 Apr 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 98.74,
-      "latest_date": "2026-04-16",
-      "delta_1d_pct": 4.01,
-      "delta_30d_pct": 21.3,
+      "latest": 91.06,
+      "latest_date": "2026-04-17",
+      "delta_1d_pct": -8.38,
+      "delta_30d_pct": 6.62,
       "series": [
-        {
-          "date": "2025-04-16",
-          "usd": 65.85
-        },
         {
           "date": "2025-04-17",
           "usd": 67.96
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-04-16",
-          "usd": 98.74
+          "usd": 99.39
+        },
+        {
+          "date": "2026-04-17",
+          "usd": 91.06
         }
       ]
     },
     "wti": {
-      "latest": 90.51,
-      "latest_date": "2026-04-16",
-      "delta_1d_pct": -0.85,
-      "delta_30d_pct": 21.23,
+      "latest": 83.27,
+      "latest_date": "2026-04-17",
+      "delta_1d_pct": -12.06,
+      "delta_30d_pct": 2.79,
       "series": [
-        {
-          "date": "2025-04-16",
-          "usd": 62.47
-        },
         {
           "date": "2025-04-17",
           "usd": 64.68
@@ -2033,46 +2029,50 @@
         },
         {
           "date": "2026-04-16",
-          "usd": 90.51
+          "usd": 94.69
+        },
+        {
+          "date": "2026-04-17",
+          "usd": 83.27
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-04-16",
+    "as_of": "2026-04-17",
     "regular_91": {
-      "avg": 3.443,
-      "min": 3.298,
-      "max": 3.8,
-      "count": 64
+      "avg": 3.422,
+      "min": 3.23,
+      "max": 3.679,
+      "count": 81
     },
     "premium_95": {
-      "avg": 3.625,
-      "min": 3.299,
-      "max": 3.849,
-      "count": 31
+      "avg": 3.632,
+      "min": 3.339,
+      "max": 3.949,
+      "count": 51
     },
     "premium_98": {
-      "avg": 3.766,
-      "min": 3.749,
-      "max": 3.789,
-      "count": 3
+      "avg": 3.704,
+      "min": 3.499,
+      "max": 3.869,
+      "count": 6
     },
     "diesel": {
-      "avg": 3.825,
+      "avg": 3.792,
       "min": 3.698,
-      "max": 4.279,
-      "count": 80
+      "max": 4.329,
+      "count": 86
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 2.009,
+      "min": 2.009,
+      "max": 2.009,
+      "count": 1
     },
-    "observations_today": 81,
-    "observations_yesterday": 88,
-    "observations_older": 9
+    "observations_today": 10,
+    "observations_yesterday": 207,
+    "observations_older": 8
   },
   "mbie_waterfall": {
     "week_ending": "2026-04-03",
@@ -8626,10 +8626,10 @@
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTWhpLXVKLUZVOGZGc2hKR0J1aF8wSFpZeTU4d2tRM0ljWDZycGxQTEZTQjQ5eG5LSTYxdFp1dVFvNVNwYjFiVmRsdFk4Ym5sM2hOcnJNLWp5NkVYVGIySHY1ZUpkOGF2UGttcWFUd2I0TF9OckNGU0FpS1JESURuZmJnaTRMdzBhMHJWT2xDeHAwaWl5SENxUTdEQnFBNlJkNWh1Uw?oc=5"
       },
       {
-        "title": "Brent Oil Futures Chart - Investing.com",
-        "source": "Investing.com",
-        "published": "Fri, 17 Apr 2026 15:45:10 GMT",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04ME5vXzJRcUdUX25xMzFhblR1LVBDc0RrY1JWNFhJUVdBSlZNbUNXMXRxTEdyeHA5aU96OFJURmlvX3lEWmRnLWo1MEtSWmxFWTBjbEdEMU5INjRteDU3Z2owV2dCQ0hTdjNEdDQyaUg?oc=5"
+        "title": "Crude Oil Prices Plunge on Opening of the Strait of Hormuz - Barchart.com",
+        "source": "Barchart.com",
+        "published": "Fri, 17 Apr 2026 15:39:24 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTkdXcE93cjExVHpDWENkZU80ZlM0RnFVekMxbldaU1pVbFFXUkczNHJfT1NyNXlDcnlmZnVQMFllLTZ3ajhPcThuMUZwNEN5VWQzT01FZEtSS3hFMEZhTHZ1VXJaanpocXlWbzJkOS0zSDlJNl9BcjE1NEhRRm03SnNSNi1TdUhsQXcxQ3FCSEc0cEZYQkJiM1BDdi0ta1V4Xzh0Mw?oc=5"
       }
     ]
   }
