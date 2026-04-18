@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-04-18T17:50:07+00:00",
+  "generated_at": "2026-04-18T18:53:06+00:00",
   "fx": {
-    "nzd_per_usd": 1.697979,
-    "as_of": "Fri, 17 Apr 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.697942,
+    "as_of": "Sat, 18 Apr 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 91.06,
+      "latest": 90.38,
       "latest_date": "2026-04-17",
-      "delta_1d_pct": -8.38,
-      "delta_30d_pct": 6.62,
+      "delta_1d_pct": -9.07,
+      "delta_30d_pct": 5.82,
       "series": [
-        {
-          "date": "2025-04-17",
-          "usd": 67.96
-        },
         {
           "date": "2025-04-21",
           "usd": 66.26
@@ -1017,20 +1013,16 @@
         },
         {
           "date": "2026-04-17",
-          "usd": 91.06
+          "usd": 90.38
         }
       ]
     },
     "wti": {
-      "latest": 83.27,
+      "latest": 83.85,
       "latest_date": "2026-04-17",
-      "delta_1d_pct": -12.06,
-      "delta_30d_pct": 2.79,
+      "delta_1d_pct": -11.45,
+      "delta_30d_pct": 3.51,
       "series": [
-        {
-          "date": "2025-04-17",
-          "usd": 64.68
-        },
         {
           "date": "2025-04-21",
           "usd": 63.08
@@ -2033,46 +2025,46 @@
         },
         {
           "date": "2026-04-17",
-          "usd": 83.27
+          "usd": 83.85
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-04-17",
+    "as_of": "2026-04-18",
     "regular_91": {
-      "avg": 3.422,
+      "avg": 3.393,
       "min": 3.23,
       "max": 3.679,
-      "count": 81
+      "count": 80
     },
     "premium_95": {
-      "avg": 3.632,
+      "avg": 3.606,
       "min": 3.339,
-      "max": 3.949,
+      "max": 3.747,
       "count": 51
     },
     "premium_98": {
-      "avg": 3.704,
+      "avg": 3.695,
       "min": 3.499,
-      "max": 3.869,
-      "count": 6
+      "max": 3.959,
+      "count": 14
     },
     "diesel": {
-      "avg": 3.792,
-      "min": 3.698,
-      "max": 4.329,
-      "count": 86
+      "avg": 3.758,
+      "min": 3.629,
+      "max": 4.029,
+      "count": 84
     },
     "lpg": {
-      "avg": 2.009,
-      "min": 2.009,
-      "max": 2.009,
-      "count": 1
+      "avg": 3.463,
+      "min": 3.305,
+      "max": 3.62,
+      "count": 2
     },
-    "observations_today": 10,
-    "observations_yesterday": 207,
-    "observations_older": 8
+    "observations_today": 0,
+    "observations_yesterday": 197,
+    "observations_older": 34
   },
   "mbie_waterfall": {
     "week_ending": "2026-04-03",
@@ -8534,10 +8526,10 @@
   "news": {
     "nz": [
       {
-        "title": "Fuel price pressure could mean May OCR increase, top economist says - 1News",
-        "source": "1News",
-        "published": "Sat, 18 Apr 2026 15:22:15 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYS01RkxpN1FDTzRJd29UVEpGMnJPOTh4VXpJdkR4VmhtdThQcW5OS3lpMThscWFJNzl4OU9qd2Z2bzFEbl9RMU1LNzhFQk53Y0Fhd29nT1RKRFNmTmVucGRhRnhkS1FFdE1ySzV4TmtWZDlqQ3dBZUJQUG9PaHI4SndPNTdDbHFZUHZ5VlZwTGZ5RFZYcXItMUhKZllraTlETzIzQw?oc=5"
+        "title": "Fuel price pressure could mean May OCR increase, top economist says - RNZ",
+        "source": "RNZ",
+        "published": "Fri, 17 Apr 2026 20:36:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaW9xU3hSSjdKcTVQSDRjcjY2THJWUEdDZlAyNHUxTkh1bm91emRyVzBYNkdmbTk0LVJFYkU0b0hIeUowQWRBZ2Q5cndXRTJ0M3dHX0tndEFNcTI4a3FiY3hwMXZiOTlLaUpiQ1JEYnhfNzRzNUpYNWsxWS0tTXlLWWt4eFgzOVhVUG52ckJ2N3pDaURmbEV0WUxwc255aG1iakdDVUtQQm9od1FGUEE?oc=5"
       },
       {
         "title": "Retailers taking a hit from high fuel prices - RNZ",
@@ -8608,12 +8600,6 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYUw5THZ5b3dlV2w5WXpETFlkSmRnQzhmcFJXZjMybE42Q2RJQXFVTGtIZTZtd1JEZTJtMVQxS3BBbXJEQmxVZS1mSVNNZUx1NFEwOTFKX0dJS0wwX3FZS2dRNkVBUWZ5U2xZV0JTTUFpTmVDYTVqdkl5eFFCN1lqZUlDWkh1cWs0?oc=5"
       },
       {
-        "title": "U.S. renews pause on Russian oil sanctions (CL1:COM:Commodity) - Seeking Alpha",
-        "source": "Seeking Alpha",
-        "published": "Sat, 18 Apr 2026 12:42:36 GMT",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUEc0Z0dhWmtJeGJyOVUzOFFVVHdKSEFRNXFUel9HcjhLOXZvLTBqd1paekszTU41QXIzTzE1WUJ5elV3Mlk1aGd0dEFITnpIRWwtNWxfRXNwYkRfS0VqNDRQeTZ6S21jMi1aOTV3dHo3MWU1UFNXOEdiWFRNck9mTA?oc=5"
-      },
-      {
         "title": "As oil prices plunge below $91 after weeks, a new Hormuz crisis emerges - Al Jazeera",
         "source": "Al Jazeera",
         "published": "Sat, 18 Apr 2026 10:31:21 GMT",
@@ -8630,6 +8616,12 @@
         "source": "France 24",
         "published": "Sat, 18 Apr 2026 08:21:30 GMT",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMF9KdnM5WVhtUnUxU1V0Z2JzV2ttYVBHaElVRmlLSnA1Uk5qaXdwVnc4X0FrYUxjb2ZwX0RQNEwzekZhaTczMEgyOUlNUjhwQW1fcDVycTlPQ091ZWRGUVpCUmNSUXV6SkZLMUM0QUFmWEw2RUdZR0luaDE5QUdjellZYXN0elpMejZpNEtpSmpyUGhWR1RzTXR5bzFkeXFIdWhyUmF0Z0xCWUc3WU14RWJadG0yNnJ3eVF6VmxGN2dLS05MMUNEVWw2ZlctY2pQVUlOZ3RQZi1Hdw?oc=5"
+      },
+      {
+        "title": "US issues sanctions waiver on Russian oil sales again - France 24",
+        "source": "France 24",
+        "published": "Sat, 18 Apr 2026 07:37:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTy1Kek5oMlllM2U2YzdmalpzbVlsNHRld0FHQjZXOXpDZDNzUzNXM080NWRLeWhYaDlQcVNzcm1jREMyUGtELWM1M245Q1VYalJUZkVwV1RvZkNhaG1CcU5xemk0WTlTd1VFUWRjVHUzd1dROWNqZnpoYUlrTm9LeFZVNWdVTzAxNEExOXU2VlNzRHgzYjZBY1pWSmU4Mkpr?oc=5"
       }
     ]
   }
