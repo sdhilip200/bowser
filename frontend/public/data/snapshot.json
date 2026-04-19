@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-19T17:49:59+00:00",
+  "generated_at": "2026-04-19T18:53:09+00:00",
   "fx": {
-    "nzd_per_usd": 1.697942,
-    "as_of": "Sat, 18 Apr 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.69772,
+    "as_of": "Sun, 19 Apr 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
@@ -1018,10 +1018,10 @@
       ]
     },
     "wti": {
-      "latest": 83.85,
+      "latest": 82.59,
       "latest_date": "2026-04-17",
-      "delta_1d_pct": -11.45,
-      "delta_30d_pct": 3.51,
+      "delta_1d_pct": -12.78,
+      "delta_30d_pct": 1.95,
       "series": [
         {
           "date": "2025-04-21",
@@ -2025,46 +2025,46 @@
         },
         {
           "date": "2026-04-17",
-          "usd": 83.85
+          "usd": 82.59
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-04-18",
+    "as_of": "2026-04-19",
     "regular_91": {
-      "avg": 3.393,
+      "avg": 3.384,
       "min": 3.23,
-      "max": 3.679,
-      "count": 80
+      "max": 3.559,
+      "count": 53
     },
     "premium_95": {
-      "avg": 3.606,
+      "avg": 3.568,
       "min": 3.339,
-      "max": 3.747,
-      "count": 51
+      "max": 3.767,
+      "count": 26
     },
     "premium_98": {
-      "avg": 3.695,
+      "avg": 3.694,
       "min": 3.499,
-      "max": 3.959,
-      "count": 14
+      "max": 3.819,
+      "count": 4
     },
     "diesel": {
-      "avg": 3.758,
-      "min": 3.629,
-      "max": 4.029,
-      "count": 84
+      "avg": 3.75,
+      "min": 3.399,
+      "max": 4.3,
+      "count": 63
     },
     "lpg": {
-      "avg": 3.463,
-      "min": 3.305,
-      "max": 3.62,
-      "count": 2
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 0,
-    "observations_yesterday": 197,
-    "observations_older": 34
+    "observations_today": 38,
+    "observations_yesterday": 75,
+    "observations_older": 33
   },
   "mbie_waterfall": {
     "week_ending": "2026-04-03",
@@ -8576,6 +8576,12 @@
     ],
     "global": [
       {
+        "title": "United States Shows Ambivalence to Russian Oil Sanctions - The Maritime Executive",
+        "source": "The Maritime Executive",
+        "published": "Sun, 19 Apr 2026 17:43:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWm4yQ2ZvYjF3VXNXaV9ydEo4blpQakhuZU13Z2RFd25sU25OY0hrSjVSSTgtblFpblcydElWUTl3aUpqdlhrcV9hdlVMNTg1WTQ0OWNYOGloSXoxRXV4anVxRGtTcWtRRUVQVHEwaDByaFFYTmxBWWhPTTE3elY1NzUtT1gwT1A1TG8xYjF4UFYtb3Rya2E3NFhSaXRXMWM?oc=5"
+      },
+      {
         "title": "Zelensky slams oil sanctions relief for Russia - Index-Journal",
         "source": "Index-Journal",
         "published": "Sun, 19 Apr 2026 17:16:06 GMT",
@@ -8616,12 +8622,6 @@
         "source": "Le Monde.fr",
         "published": "Sun, 19 Apr 2026 09:11:48 GMT",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNW44cE9LR2RYekdVUEtWOWZadml5bHlDcmpmMTdvRHE3UWdaanUxS1FLV1ZqaWpkS0Voa0pWT1F2UmJ2SzQ4ckI1RTVoSl9mbmIydDhYSUtfRnNLSFFrMXM4bE9XNEhha0tXdlJxSkJsRDB1cGozOFRaOEYzRGxZSFlFRVBmcFAwWDhJaWotWFRYa1ItZkV6TFUwVkwtZURWaUtGS2YySXdSYmdlU1V3MDM3OWMxX0Z3OWFDZmdidllSb3lONXZTZmd1R203Z182OEVEb0Radi1hSGc?oc=5"
-      },
-      {
-        "title": "Crude Oil Weekly Forecast - 19/04: Lower Value (Chart) - DailyForex",
-        "source": "DailyForex",
-        "published": "Sun, 19 Apr 2026 09:04:51 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ0tYQjFsNGNVUUFwMWhqOXpWU2Y5b2tId0hkQmEtM2V4ejVqdmd5ZGFLN1VwQ0t0RjJKQmVRNFk1RlcwTW1sMmdLZlFRUXZ5YUdLMVAxdUpscWVfeGQ4VjVpOVFvSHFCVjFoOVE4LWZTdU1zaE1jaG5NOEpfUkpWRi05eDZhRVpXa3FyQkdGTWZWc2Y0MjVFa0M5ZkgwSzl3SVFMOUtOZ0ZQT082ZC11UDVaOHo4Mk1jUEYtMw?oc=5"
       }
     ]
   }
