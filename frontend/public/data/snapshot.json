@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-04-20T18:13:49+00:00",
+  "generated_at": "2026-04-20T19:06:58+00:00",
   "fx": {
-    "nzd_per_usd": 1.69772,
-    "as_of": "Sun, 19 Apr 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.703971,
+    "as_of": "Mon, 20 Apr 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 90.38,
-      "latest_date": "2026-04-17",
-      "delta_1d_pct": -9.07,
-      "delta_30d_pct": 5.82,
+      "latest": 95.36,
+      "latest_date": "2026-04-20",
+      "delta_1d_pct": 5.51,
+      "delta_30d_pct": 2.88,
       "series": [
         {
           "date": "2025-04-21",
@@ -1014,14 +1014,18 @@
         {
           "date": "2026-04-17",
           "usd": 90.38
+        },
+        {
+          "date": "2026-04-20",
+          "usd": 95.36
         }
       ]
     },
     "wti": {
-      "latest": 82.59,
-      "latest_date": "2026-04-17",
-      "delta_1d_pct": -12.78,
-      "delta_30d_pct": 1.95,
+      "latest": 87.28,
+      "latest_date": "2026-04-20",
+      "delta_1d_pct": 4.09,
+      "delta_30d_pct": -3.98,
       "series": [
         {
           "date": "2025-04-21",
@@ -2025,36 +2029,40 @@
         },
         {
           "date": "2026-04-17",
-          "usd": 82.59
+          "usd": 83.85
+        },
+        {
+          "date": "2026-04-20",
+          "usd": 87.28
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-04-19",
+    "as_of": "2026-04-20",
     "regular_91": {
-      "avg": 3.384,
-      "min": 3.23,
-      "max": 3.559,
-      "count": 53
+      "avg": 3.357,
+      "min": 3.199,
+      "max": 3.569,
+      "count": 54
     },
     "premium_95": {
-      "avg": 3.568,
-      "min": 3.339,
-      "max": 3.767,
+      "avg": 3.549,
+      "min": 3.249,
+      "max": 3.799,
       "count": 26
     },
     "premium_98": {
-      "avg": 3.694,
-      "min": 3.499,
-      "max": 3.819,
-      "count": 4
+      "avg": 3.704,
+      "min": 3.689,
+      "max": 3.719,
+      "count": 2
     },
     "diesel": {
-      "avg": 3.75,
-      "min": 3.399,
-      "max": 4.3,
-      "count": 63
+      "avg": 3.693,
+      "min": 3.349,
+      "max": 4.299,
+      "count": 65
     },
     "lpg": {
       "avg": 0.0,
@@ -2062,9 +2070,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 38,
-    "observations_yesterday": 75,
-    "observations_older": 33
+    "observations_today": 55,
+    "observations_yesterday": 85,
+    "observations_older": 7
   },
   "mbie_waterfall": {
     "week_ending": "2026-04-03",
@@ -8528,8 +8536,14 @@
       {
         "title": "Small fall in diesel and petrol stocks, jet fuel up in latest update - 1News",
         "source": "1News",
-        "published": "Mon, 20 Apr 2026 01:42:33 GMT",
+        "published": "Mon, 20 Apr 2026 17:07:48 GMT",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUEhFZUF2YVJ5N2w2cllPM3d5Q19qU2NWeEZ0SVJxRm9MQ3ozWlB5b0ZLMzBwOG9Jc2RmQ0xpeTVHaENid2s4b0pkRWhSM2FuS3I0Z0NGVG91TVJLNU1wNDViTWdpU3ExblFnMFdCOFJEVkxqcEhpc2pWLU9FMmpKTzRkVWFBUklOR19OWG5CaGlOY21nTU5nejRITmJ1U3RzcHJFM05R?oc=5"
+      },
+      {
+        "title": "Petrol arrives, NZ fuel stocks steady, as Hormuz chaos continues - Stuff",
+        "source": "Stuff",
+        "published": "Mon, 20 Apr 2026 01:37:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMTdGdkp4Y3BJcDkwTlFBZjRVb2ZHbnVxc0lMaVZxMC1yRWJJWEplMmViUUdiN1BxLUNrbGJTNzdBc0xidEJTd05nQWNyaEI1bUs5a3FmcTczWFRrQnM0eW5SUFJNeVlYMUE1R2lVRFNJSlVvbVBMeEJYLUU0cmtjN2Zyci1mVURZNHFRc0tfc3dsaE1jM0pBMWRTR1RVT2NuZkdXVQ?oc=5"
       },
       {
         "title": "Petrol and diesel stocks fall slightly, jet fuel rises - RNZ",
@@ -8566,15 +8580,15 @@
         "source": "RNZ",
         "published": "Fri, 17 Apr 2026 17:12:44 GMT",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaUpGWWxNdEVfUWhSeHBCYTlRcTNWWWlPSDMyVE9OcnFzcVl6RkZqMmVGc1FoR1FPc0Jib3dXM0RxdXlGR3d5dktUZUEwWUYxWUF6NDNlTmVXNWdfTl9MUzlZeDBPZW12Y3lxRFFKSkl2Mk94WTBkdjc5Zk9NdmxiaEZhc1NzaEpOVXRQc3o3WnE?oc=5"
-      },
-      {
-        "title": "Latest spending data: What we're cutting back on – or going without - 1News",
-        "source": "1News",
-        "published": "Fri, 17 Apr 2026 07:01:06 GMT",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTnM2elkxY1duY0UtVGg1U0NYdnVoamZoQlptRzJhdFEwYnpIT04wUjIzTkpkVjlMYnAyMU9zWWNaaVc4Wm5HVHBtZEVKX2JfUFZVVkllRjE1N1NmUnllWDZPanU3V1h1aWtmQTlzQnpIOEhBOTRVT25TU1NkbEREakFrUlQ3Yl9nT3NMZUd2d2poVWRQbDRhaUxyRm5NeXNk?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "May WTI Crude Oil Contract Closes Up US$5.78; Settles at US$89.61 per Barrel - marketscreener.com",
+        "source": "marketscreener.com",
+        "published": "Mon, 20 Apr 2026 18:34:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOTQwQ2J6eWJjTlNOd0xOVEF1VTEzZUxhQTVIX3VtR1RhWXlnUnhCb3NCZmVtZUdLX2NKbGhORWd2ZHIxakZ2MkwyWTJUQjRTam54Ti1qb2JiZzV5bmRQcVlOUzBhdmhFa3huenpOUHNMbmViakFwclZfTFpBR2hDOEV1UEZFeERxWVRvbzNSQ1ZrUXliNHRBaXNvT1RoZFZzM25KbEdZRVd6WDdKai0wdDRRVDgxSGcyTlMxZUpZa01uUG5RNjlv?oc=5"
+      },
       {
         "title": "When will gas prices go down in South Carolina, US? Maybe not until 2027 - Greenville Online",
         "source": "Greenville Online",
@@ -8586,12 +8600,6 @@
         "source": "NBC News",
         "published": "Mon, 20 Apr 2026 17:27:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbGNIc09VeXBDZGhfVUNEd25aRl9tQ2RYcVhLYWJuNC00OXBwSWQteE9wWjQ2U1k3SG9rdTczUV9ibDhqMndvYk5xNGFJOU56QlJSR2V2Q1BJODRYemhLNF9OZEtxVXJ6Z1FQZDM2TDNHeXhNZkpzZTExU19TY3phLUFBWnRWcktsV1JUMm92NnEzZERnWk42QzBMV21QRTA?oc=5"
-      },
-      {
-        "title": "U.S. Extends Russian Oil Wind-Down License Despite Earlier Pledge to Let It Expire - gCaptain",
-        "source": "gCaptain",
-        "published": "Mon, 20 Apr 2026 16:44:55 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQURqaWxnbU53QWU2SVV1UlRtTU5ORzhxYUVnTXNvZWpVVWMxR0xmYlR1QWprSWdvTXRraU5ta213Qjk5ZVFZblNZRjZkZ0hUN0ExY1lqNlRpYmgzRlhoMGk4aXlGTjdKSUk3UzhaWWtHcDkxNHQxV3VwY05sM3Vhc09QQTFwTDZnc2ZDUk9GY1BFWTM4Z1V3V3F5YWhPLTRoQ0k5NE9n?oc=5"
       },
       {
         "title": "Sanctions Relief Helps Fuel Russia's War Machine as Oil Revenues Jump - Crude Oil Prices Today | OilPrice.com",
@@ -8614,7 +8622,7 @@
       {
         "title": "Why a research firm says oil is at a 'breaking point,' and prices aren't coming back down soon - Business Insider",
         "source": "Business Insider",
-        "published": "Mon, 20 Apr 2026 14:28:00 GMT",
+        "published": "Mon, 20 Apr 2026 14:28:41 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTG1jc0hZNnN3T0tyaWNBRjRoR2tqVHFsYzNfcmpXaUVuTWpOMndBbC03TXVYbVNpT0FsMVVSeGZZYkthM2pXdk85S1FpNVFkd1VpdklHdWhVMmkxMHYtMGoxdzl4V1VTYVJxbWw5cGhLLUNjb1VoVm9KRGFSYkZyNlJ1VDhTcVJWWTF2WkJWdFc0Mzg3SEVUVUJ4WFVFWmNNR29RaGR5NUw?oc=5"
       },
       {
