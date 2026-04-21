@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-04-21T18:37:16+00:00",
+  "generated_at": "2026-04-21T19:13:00+00:00",
   "fx": {
-    "nzd_per_usd": 1.703971,
-    "as_of": "Mon, 20 Apr 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.695808,
+    "as_of": "Tue, 21 Apr 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 95.36,
-      "latest_date": "2026-04-20",
-      "delta_1d_pct": 5.51,
-      "delta_30d_pct": 2.88,
+      "latest": 92.31,
+      "latest_date": "2026-04-21",
+      "delta_1d_pct": -3.32,
+      "delta_30d_pct": -6.72,
       "series": [
         {
           "date": "2025-04-21",
@@ -1017,15 +1017,19 @@
         },
         {
           "date": "2026-04-20",
-          "usd": 95.36
+          "usd": 95.48
+        },
+        {
+          "date": "2026-04-21",
+          "usd": 92.31
         }
       ]
     },
     "wti": {
-      "latest": 87.28,
-      "latest_date": "2026-04-20",
-      "delta_1d_pct": 4.09,
-      "delta_30d_pct": -3.98,
+      "latest": 88.67,
+      "latest_date": "2026-04-21",
+      "delta_1d_pct": -1.05,
+      "delta_30d_pct": -6.44,
       "series": [
         {
           "date": "2025-04-21",
@@ -2033,46 +2037,50 @@
         },
         {
           "date": "2026-04-20",
-          "usd": 87.28
+          "usd": 89.61
+        },
+        {
+          "date": "2026-04-21",
+          "usd": 88.67
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-04-20",
+    "as_of": "2026-04-21",
     "regular_91": {
-      "avg": 3.357,
+      "avg": 3.347,
       "min": 3.199,
-      "max": 3.569,
-      "count": 54
+      "max": 3.89,
+      "count": 55
     },
     "premium_95": {
-      "avg": 3.549,
-      "min": 3.249,
-      "max": 3.799,
-      "count": 26
+      "avg": 3.518,
+      "min": 3.198,
+      "max": 3.889,
+      "count": 14
     },
     "premium_98": {
-      "avg": 3.704,
-      "min": 3.689,
+      "avg": 3.596,
+      "min": 3.429,
       "max": 3.719,
-      "count": 2
+      "count": 3
     },
     "diesel": {
-      "avg": 3.693,
-      "min": 3.349,
-      "max": 4.299,
-      "count": 65
+      "avg": 3.609,
+      "min": 3.297,
+      "max": 3.999,
+      "count": 71
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 1.959,
+      "min": 1.959,
+      "max": 1.959,
+      "count": 1
     },
-    "observations_today": 55,
-    "observations_yesterday": 85,
-    "observations_older": 7
+    "observations_today": 57,
+    "observations_yesterday": 78,
+    "observations_older": 9
   },
   "mbie_waterfall": {
     "week_ending": "2026-04-03",
@@ -8584,6 +8592,12 @@
     ],
     "global": [
       {
+        "title": "Update: WTI Oil Rises Amid an Uncertain Outlook for U.S.-Iran Talks - Moomoo",
+        "source": "Moomoo",
+        "published": "Tue, 21 Apr 2026 18:46:42 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYzJ4dFR4UU4xMjZzX0tnTldpcnhBbW1ZVGRBTlNZTkZjTFFtQ1dYNWVGcDRYa2o2UE1IVm05T2JzM3JnLVhJUlN5SW1kZV9tMXBTVVNpa1dmejRLNVBPRmZTblk0LXhOVTBtXzFmcEh1NnJQaXllTTZfbzV2eFlZWlFkMXBjdzJoLUpEVEt4QUpBaHRucUtYSk5zVQ?oc=5"
+      },
+      {
         "title": "Oil Export Ban Debate: Lawmaker Advocates for Domestic Supply Amid Middle East Tensions - News and Statistics - IndexBox",
         "source": "IndexBox",
         "published": "Tue, 21 Apr 2026 18:20:00 GMT",
@@ -8614,22 +8628,16 @@
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc05IRlk3eVFwNEFVdURRcVVYSG0yZm5QYlJBYzdfOHR2QWFMMXpnWXFPQUxpM2xJZ1FKbGUwTmVNS1Y1VlNISWZUXzA0a3R3UDhaQlRTbk1zcFZHR0gxLWhjbi11ZkY2MWhuMmE3QWFWRmtVZVdneHdNeHI4VjZvN3M4X0hpUkF6RVNsd2s1NjlQdVk1bjk5OTNBMkJIVXllR0plTUp2WGd0Zm8?oc=5"
       },
       {
+        "title": "Russia Is Making Bank on Trump’s Iran War - Foreign Policy",
+        "source": "Foreign Policy",
+        "published": "Tue, 21 Apr 2026 16:34:01 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLURFRmFMOVUySWg1WFp1ZzVkMjJBRzRYbWRLRGx3ZURiem5GQUF6OWdXX1pDUlJjaTJWdWhKZm4tRUxoU2xoT0lrQWowQ01wYmNjd0FPNXVSRWZCRnhWSE95MGZZbWpFNGhQbG5SNFZQOW5TUmF0VWVYNGpWZlBLSHNn?oc=5"
+      },
+      {
         "title": "Brent Oil Stability Tested by Prolonged U.S.-Iran Standoff - stonex.com",
         "source": "stonex.com",
         "published": "Tue, 21 Apr 2026 16:22:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdm5GS05uaEo0eXNDZXBTT2oxdUgtWXR2WHczZUhadUxyN1JJOG1oSFA5bFVzSGdKRzd3c1pfalRhclJXaDBvSllUXy1FY2RWODZtaWg1N3dxM1lEUzRwcjAzT1kzd3RyaUJPWk00OUZvOFNQVkVGSEF3ekRFck9NZWtZYVYwbnR4NWZNc2hjb1RMNVdPRE5nYw?oc=5"
-      },
-      {
-        "title": "Brent Eyes $100 as Ceasefire Deadline Looms - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Tue, 21 Apr 2026 15:57:16 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONXVHZ0dETHdTMG9hNXBUbkdhaEJNRl9JbXVWR0FtNU1Vdk4xcHE1dUNaMjk5RDZpRXRoazdlV1RwMGNKTGw5QXhDQ21pSTZ3WEZZUTRienVGekVtSUFuZmZaSU9uazJCX3pXd0txUFl5YjBQdnBzS2hySmNKYWxfd1hQLWV3X3RoeHpjYUNiNUxiSDJa0gGaAUFVX3lxTE85MDM1aEZlZHZvcjBHU1VLQU14R05fWktGMlhBQ251NjBvenByd3JsU3ZVcjdERXhfbHFPVnB1blpPOGtOUXFhV205TUN0Sk1WMDRYZHRkUUdwMy05Y1NJM0ozMnFjT2p6MzZsTnNyTDFhMDlfZUxwam0xNkFzYUhMNjM1aFF1LXltbXA1b08wOG9LM2hSN0lJMEE?oc=5"
-      },
-      {
-        "title": "Brent Oil Futures Technical Analysis - Investing.com",
-        "source": "Investing.com",
-        "published": "Tue, 21 Apr 2026 15:55:09 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13U1BmakhNYUtlMlM3SFpyTVNhY2JwNzBNLWtacGY1VlFKV19Tb2JaQnJUNDhmX3NWOXJXODF2aS1nUG1RcTdDSTRUbHFOc2VDTWNEaXExakVScGZuQ3hHYmpFNzJlN09p?oc=5"
       }
     ]
   }
