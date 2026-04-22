@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T08:03:26+00:00",
+  "generated_at": "2026-04-22T09:48:55+00:00",
   "fx": {
     "nzd_per_usd": 1.695808,
     "as_of": "Tue, 21 Apr 2026 00:02:31 +0000"
@@ -8542,16 +8542,16 @@
   "news": {
     "nz": [
       {
+        "title": "Foodstuffs NZ moves to soften fuel-driven cost surge - Inside Retail New Zealand",
+        "source": "Inside Retail New Zealand",
+        "published": "Wed, 22 Apr 2026 08:39:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVkNZNW1qTWJETGl4T0pYT0RiQUI4VjNIX0VGTjVQNTFkVjZnWXdPRnBseFFyTmRubjFmUXQ1cjB5dUhMa2J1cm51N0hXWjl0aUFpaGlqSzNWNkFHSVhxQ3h2S3NUanluV0h5STVDUGV6bnhhMXVJRUJqM2xoNXBsUnZyMGJBUWFGWHVadEVLOGVyVERsU2c?oc=5"
+      },
+      {
         "title": "Fuel supplies 'stable' despite stock drops across all types - 1News",
         "source": "1News",
         "published": "Wed, 22 Apr 2026 07:36:51 GMT",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWUhIREJMa3htblNSUFo3ak9wNGc1bjRRekZxRHJBWF9ULTg3OFUwUWU2ZGFCcXhWbjU5Q09EYldkMF9Qa0FVZUVnOGZjWFZESFY3blpYQmMyRGVjWGpua0xJc3cwWENqLVI4bjRZYUJQOHdTemF2bTVCN3d5Q0djSFV5S0Uzb2d5eFg3eDQ4Q1E3OU5aa2VsXw?oc=5"
-      },
-      {
-        "title": "Latest fuel numbers: Dip in stock levels normal, says MBIE - BusinessDesk | NZ",
-        "source": "BusinessDesk | NZ",
-        "published": "Wed, 22 Apr 2026 02:28:07 GMT",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdHZ6YmhzYkxzb3dpOC01MTJldGotY2ZEWUFZaWU0TUlqQUNxVmtqY2Vzak55SnJnaHBmcHYzaHBDaFdEdkJkYVBKSkpFOEZzcXJoLWhGUkZyNFJxOGFRa0NEeFVRcGYzQUV1aVBFOFpfaVIxZ0FDb0tuUHI3TmIzdG9MVEpOM2FXc2JoQ3dobFd4emJ3NnRqeDkwQ2p6QWMw?oc=5"
       },
       {
         "title": "Fuel stock still stable despite another fall, government says - RNZ",
@@ -8592,16 +8592,34 @@
     ],
     "global": [
       {
+        "title": "Oil Prices Creep Up as Investors Weigh Cease-Fire Extension - The New York Times",
+        "source": "The New York Times",
+        "published": "Wed, 22 Apr 2026 09:39:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5MFpyZV9rQTN4bFJGalpvYkkwU2lUeklwbkZueU9kd1c3eEVDblUtZnlpbnNUdzZxX2RnMXdxWk92YmpGRGF1MWszLTZ6enA0cXpQT21ZQWZvSUU1REM1NDJieWF3eFRqQzVnOUhVY3E3QnZWSWc?oc=5"
+      },
+      {
+        "title": "Brent hits $100 as Trump extends Iran ceasefire deadline, Hormuz disruption persists - MSN",
+        "source": "MSN",
+        "published": "Wed, 22 Apr 2026 08:58:24 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQd2k5a3BrN1ljYXRpcDI0ckVGNkJRd05jMldPQm5wWUV4V0pXdV9ZN3YxRDZmRGRtVmdmZlZ5b2cyYldmdnR6Z0xGV2NRN1lJRklDZEgtWkdZeVRyS19BN19RTXJGSjNUaFRwUG9ZbmxKWEFXbTJsLVcxUTN5TFp2MFRDOEZUckU5OEIxWEhmVkFianBBMi13Tzl0SnBQWVd2ZDFrbjVHWVBFd2lXT1FvanY4RlRFdjJJOVpzdlJIbXpYS1Zrei1Pd0hwX3FSYTE4NTJWQ1V5eWhSbjd5VzY4UjNoQnFHWnRPczB3N3FHUmN5QQ?oc=5"
+      },
+      {
+        "title": "US exports surge - Oil & Gas Middle East",
+        "source": "Oil & Gas Middle East",
+        "published": "Wed, 22 Apr 2026 08:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92WEFvWF9kdTljYVNkQzdVRXZpTEk5VmR0YVRYNURjOS1XM3Fqd3VPcV9VcXduaE0tNld0Y29sLUF6THJTRUUwLUtLWFRhSEVzckgwSEJZbGlZamI3SGtzQUpCa2h2cUQ2?oc=5"
+      },
+      {
         "title": "WTI Oil eases to $87.50 amid a fragile US-Iran ceasefire - FXStreet",
         "source": "FXStreet",
         "published": "Wed, 22 Apr 2026 06:47:05 GMT",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOERPSGZtSmMzODBDaTNncEVzWWJwbndlZHhjbVRVWHZvYWM4eUlDcEdlQ045UTFtejUtc2FIcnZ6eG9GbVcxb2JoTk95SGU3WU0yWG1SS2otdTVDRHk4NWN3cTFVY1pzcDNhcTlZendYd3k3a3FaMkJ5ZGdpWlRKV2h2OXJrRVhpWDVpZndjR3ZENmJCcWgzNFdydXBsdw?oc=5"
       },
       {
-        "title": "Markets fall in early trade, dragged by IT stocks; Brent crude edges lower - MSN",
-        "source": "MSN",
-        "published": "Wed, 22 Apr 2026 05:28:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQllLaDZ1U3hBZWN1OUJlblFmSzJrdlluN3RXbEJfV0plSzFvcjgtVTROR1ltNXlseHc4dnlybnd5eEFjX2V2NGRxMnVFTnYzNGNFVk9uXzh6aUFmdWpJenpGT0UzRXdlUS1zNWU4M0VLMmtkMXdKNE1PTnktaXlnOU5kUDNtYXRhdDNhUHlmSUpsblp3QXFaZFplbEFTRjV3R2h0dllhNVI0LTBHakFScmc2NkNrOXBNdGt1aFJPWk9pdw?oc=5"
+        "title": "Why Asia Cannot Replace Gulf Crude Easily - ORF Middle East",
+        "source": "ORF Middle East",
+        "published": "Wed, 22 Apr 2026 05:46:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VcDc1MGRjdDV2aEdIbkpTSDhlMHFlOThXWVpLVXNTeTM5U1h1TGNkVXpPczJYa25aX1EzcUg4T1lqZ2dFeWpZUDZHUFQwUFFmelZ1ZWhqcTBfMlFsMVEwTlZFemJmNFVYaS1IWGdmT1RwVDNrMWlzOUxtQnZlQQ?oc=5"
       },
       {
         "title": "Asian shares are mixed and oil prices little changed as investors watch for US-Iran talks - WRAL",
@@ -8620,24 +8638,6 @@
         "source": "TradingView",
         "published": "Wed, 22 Apr 2026 03:01:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb1JPbEJ2TUl2a0NTSkl3NGU3UHNUVy1RZ2xxdElvS21uY2JJc2RGRUg2c0JWYzZ4eU1fc3dzVFZQYmNySGdsQjhiVXlBVWhvdjVHVmt5UnJWalozY0NmR3psTUxpZkpDSGJmbTg5Zk54SUh2cURvb1lfMjRHODJQdndzN05EZENtVUo3Y2V3SmZKbElKWXlQWTBYeEdjakNXSTZEQ09odFp5TWFWZW9JQzlWc3h5bDRZdUVF?oc=5"
-      },
-      {
-        "title": "Brent Crude Prices Retreat After Sharp Fluctuations Following Trump's Iran Ceasefire Extension - صوت الإمارات",
-        "source": "صوت الإمارات",
-        "published": "Wed, 22 Apr 2026 02:52:03 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNXBoSXI0N1dVa1FXRl90by1sazV5TnVaaXQ4WXNFTlhkdUFFQ29HWHBxblJYMlFFOExKeUI4UTJXLXBIbDU2OUM2MkhmcEdMd0hsUDF2YjFRZUJGVG9YUGEzcXNzb09kODVpVGp3dmhsOWJRMGRfekFVSGlIWTZGdXdpSGNQRUYyalZOLXJWQ0N6M09LT1pILXF6Yk1qRTM4bkVRcXZCbkpPakZMQ1lZSnNxQnZFYkZidFVBQUl4RW1fQ2ZoMmNTTVd6WUE5RkZxQm83WnRqd3JxWW96UGc?oc=5"
-      },
-      {
-        "title": "Oil prices dip as Trump extends Iran war ceasefire - BBC",
-        "source": "BBC",
-        "published": "Wed, 22 Apr 2026 01:18:36 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MdTk3QWl5Si1PNnNaVl9WT0swVmpkMVhac2tPaWpEOXBncUMzOFU3LVpIbWhuaTZNTnRWNjF6SDljRGlsZF9JUENJSURqYTB2TDMxRzkxbHJZdw?oc=5"
-      },
-      {
-        "title": "Oil edges lower after Trump extends ceasefire with Iran - CNBC",
-        "source": "CNBC",
-        "published": "Wed, 22 Apr 2026 00:57:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTENqdl9zMzR6dkctaTdnMFlfQXc0eGJoTkZmVkRwQzRJNjJHdXpQRGV0ZS1NRFcxblI4cHV2cUVXS2c1a2lweUNZdXEzYkduaFlCd3Z2R2xrRkt4TU5JMU9FRGhmOENFVjJYRnRJQ3RCSzdNb1QzeU9JUnp1T25uS3RNdGJJbEdIWHdEN3JfNllWTFlaTnhreHJWZWnSAaIBQVVfeXFMUGRSbWx6Z3FWSDJLb2trVGx5WHZ4TnFWblU2RlM1WWgyRnFNSE96OFRhZ0g2UGpLWkFWZzlHUWo0WW5PcmFLRktvN0Q1ZEUxbDBKYmFjRl85Vk5ONVNxUDJKNk9SelRqcUpENk9Banl4ZGNIX0tUek5qXzVTREZkSkVaNVlsTm9uaWRGdlNrMmx3ZnZlZmVJOV93T2tkeDFBdkxn?oc=5"
       }
     ]
   }
