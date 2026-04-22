@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T19:52:45+00:00",
+  "generated_at": "2026-04-22T21:07:10+00:00",
   "fx": {
     "nzd_per_usd": 1.695217,
     "as_of": "Wed, 22 Apr 2026 00:02:31 +0000"
@@ -8542,16 +8542,16 @@
   "news": {
     "nz": [
       {
+        "title": "Fuel supplies 'stable' despite stock drops across all types - 1News",
+        "source": "1News",
+        "published": "Wed, 22 Apr 2026 17:52:17 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWUhIREJMa3htblNSUFo3ak9wNGc1bjRRekZxRHJBWF9ULTg3OFUwUWU2ZGFCcXhWbjU5Q09EYldkMF9Qa0FVZUVnOGZjWFZESFY3blpYQmMyRGVjWGpua0xJc3cwWENqLVI4bjRZYUJQOHdTemF2bTVCN3d5Q0djSFV5S0Uzb2d5eFg3eDQ4Q1E3OU5aa2VsXw?oc=5"
+      },
+      {
         "title": "Foodstuffs NZ moves to soften fuel-driven cost surge - Inside Retail New Zealand",
         "source": "Inside Retail New Zealand",
         "published": "Wed, 22 Apr 2026 08:39:27 GMT",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVkNZNW1qTWJETGl4T0pYT0RiQUI4VjNIX0VGTjVQNTFkVjZnWXdPRnBseFFyTmRubjFmUXQ1cjB5dUhMa2J1cm51N0hXWjl0aUFpaGlqSzNWNkFHSVhxQ3h2S3NUanluV0h5STVDUGV6bnhhMXVJRUJqM2xoNXBsUnZyMGJBUWFGWHVadEVLOGVyVERsU2c?oc=5"
-      },
-      {
-        "title": "Fuel supplies 'stable' despite stock drops across all types - 1News",
-        "source": "1News",
-        "published": "Wed, 22 Apr 2026 04:01:24 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWUhIREJMa3htblNSUFo3ak9wNGc1bjRRekZxRHJBWF9ULTg3OFUwUWU2ZGFCcXhWbjU5Q09EYldkMF9Qa0FVZUVnOGZjWFZESFY3blpYQmMyRGVjWGpua0xJc3cwWENqLVI4bjRZYUJQOHdTemF2bTVCN3d5Q0djSFV5S0Uzb2d5eFg3eDQ4Q1E3OU5aa2VsXw?oc=5"
       },
       {
         "title": "Latest fuel numbers: Dip in stock levels normal, says MBIE - BusinessDesk | NZ",
@@ -8572,10 +8572,10 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb2dMQ3E0cVNwRDZncVBJbmVLZkljcWx1czJ3YTFmcGtNVzNzRXEzN3hrbk1SMVJCQUxRU19LQlNxVHlXZ2tVOUF0TGNwbTUxMC1EMVRYbnIwc01DZkdPS0wza0dYay02MHd2SFdiVTJDcHZDVU1Memd1YnJZZmlpcFNFdHlfWFpjXzJWM21uWmJFUlJtTElFN3FhMA?oc=5"
       },
       {
-        "title": "One of NZ’s largest companies warns of A$5m-$10m hit from fuel, materials price hikes - The Post",
+        "title": "Kuwait invokes ‘force majeure’ on its fuel, allowing it to forfeit delivery to NZ’s refined fuel suppliers - The Post",
         "source": "The Post",
-        "published": "Tue, 21 Apr 2026 22:39:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVnRrWFl1MldlWjlPRVJBalE1OGdwWXh0RVBhZXJjeUF0OERKQXk1OEFZTF9WYnUwWGN5NEJ4Uy1IMHgxVXVFd21iTFJxMjZZNlViTl8ya0EyTDFDTGRPck1vdTdZN0lsLW5LUG5YUVpPYmRBZFpzU1h4Mk85N2pScEJyclRjNHJiajN0NG5MUlYySnlmLVZFMXp5WnJZeUVxZmE5MlJCcFRFTzYwUm9RR1JOSFg?oc=5"
+        "published": "Tue, 21 Apr 2026 02:43:05 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV2VDTXlCNE5Qa3c3aVZwZUxtalN0QlNKNWxGTllhOTdOLXhNOWk2MDZFSF9xMmtFWFZfQTlBLU9tbVhTTUtjV3ByYVJkdWJtYWJpNHJtczR3WVVkUFdMZXRtOVVUR1B5bFc2VFNTa1NKOTE0akpZWk9NbmFYS1Fpcjlhc3l1d2lNVGVZangxci0tN3IzOENabHlibEZYRWo4OGNva2RJN2pxbGZOcWNOSnR0Z1o5MjNpaWtvVmVrLTlISkV6Z0thUVR6eWlnWm9tMkxlNg?oc=5"
       },
       {
         "title": "Air NZ boss wary of increasing fares but confident in jet fuel supply amid crisis - NZ Herald",
@@ -8592,10 +8592,16 @@
     ],
     "global": [
       {
-        "title": "US stocks rise toward more records while Brent oil tops $100 on uncertainty about the Iran war - AP News",
-        "source": "AP News",
-        "published": "Wed, 22 Apr 2026 19:17:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeTV1eVpUU3AwcHRuTG8zRjk2MnEzZ0dnTVdhYXhySzBaRnpDZElLNW95b0lzZTVjcXk0bjBCN0VsVm9WaGxsQThfN1B2ZldkNWRodFNNM3lPRG5nOFV4SlJnMUlTOGFnMENSQ3U1NF9qUVZLWU1uUHNzbUUybnpIVUFnYWtEM2RuYVJDTzJGNUw2dw?oc=5"
+        "title": "US stocks rise toward more records while Brent oil tops $100 on uncertainty about the Iran war - KFOR.com",
+        "source": "KFOR.com",
+        "published": "Wed, 22 Apr 2026 20:03:21 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbm5pUVg3LXhETm01TGpYYUdGSU5pWGZ0VlBQY0JybHJZcWRQbW1Ja1o0MGp3eFFNaFQ4QmlsenVzS3YzTjdWN090ZGZSVGZaamtTSWZPWEpJTHgtYlpsTVl6Y3ZmUDVBdFZLREVrUGtuOGJXWW5YX0hFaVdsN0x0b0loZWIwcFZYaGVFSnFXazNrMmxEMm1vVHE4aXhjVDZldkRzUEdKM1I3TXVFUS1IWFlPUEowUWpsNFN30gHAAUFVX3lxTE1XeFlZc1BzbjJxeEh0S3BhLUt0TERycFNLcmFwczRwQXF4WnUyUHNUTTNQd1hxWFhDR1d6ZVJUUjVhV2ptSS1XRWE4Tm5fS09sYlJQMEJFaTIwUVRxM2xWUjdXdFZ4d3VrUU5fWTk4cGdOQnZTWVVqcGNVZWN5VmdsXzJPenQtbk9UYzIzYTBSUklfYVlCQkxRbUpGNTBISzRjZ1pZTEg4Q3M4V09WWmNkVEZJNm52cElVSFp0REVyaA?oc=5"
+      },
+      {
+        "title": "US stocks rally to records, but Brent oil also tops $100 on worries about the Iran war - thegazette.com",
+        "source": "thegazette.com",
+        "published": "Wed, 22 Apr 2026 20:03:21 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQT1l5WlBBc25EaEo0SUxTU0ZOQlNuOXIxZW96RkxUcklKdmRfYV9tRXltcUtBR1Z1TEVQLURvTmZvaDR2aUZPU29CaXY0S2R3STc1azVobGtSZ3pDYVRfTHNVeXlrUlNVd1RHWmFOT0pRZnlwdGF3c1NkRFBqaGlVTE94bHZXWVlycmNJQk1ydXRuVVJJdHhVWGJaYXBocW9lTzdTcDdzWktSWFJGX1pjbXp1Z29xZmNiNVNEbmFEb2lmOUV2b04wUVNkUklRVm1RWUJjWHQ5T0tqQ2hMVFJTZ0lUZjJ0ejBJcUprU05uUDBGU29vU1E?oc=5"
       },
       {
         "title": "US Navy blockade of Strait of Hormuz spikes Brent crude to $101.9 - Crypto Briefing",
@@ -8610,10 +8616,10 @@
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOTEteDhleTFMazdOV0tsRV9rWExzRHBFckNXQnRSM1pQQ2NVUmhDVC1JdUxYZGt3XzBWcEl6Y290QlZfUm1ZZmk1SkxzVXBYeWJLU19hYnQ4RzZ6a2g4VkpUOU1fNGRDR3M4M1p0MWZvVUFCOHVCbTdQTTBIeGpzdGNXQjBILUt5bm1Xak4zQzNTVUw0dnFyVm9rekRtVE51TERQZC1SX2RJbTN3V2dFdS1XeVM3bHpFY3NsTVhObV94X1E?oc=5"
       },
       {
-        "title": "Breakbulk26: Loss of Persian Gulf oil supplies difficult to replace quickly - Journal of Commerce",
-        "source": "Journal of Commerce",
-        "published": "Wed, 22 Apr 2026 18:21:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS1czTWswRUs1a2lXX1pfeC1JV0FmeUt4NmdiS2VjdEl6czRvYzI3SGlWd201cGprMDNJTWR3b2w3OEZSQ004bElBWFZ6YzhEV21CZ1JRVHdYeWNEYVNhTUJTN1JTSnR5d2ZnaWdfZTVyNjZ1YmpIR0hVcTRCMGliSjBwamQ1NHoyT3E5blBMZDA1Z3VCRlVINHJ2VDBCTlI1TFhWWDhuOFBsLVhvVnRZ?oc=5"
+        "title": "June WTI Crude Oil Contract Closes Up US$3.29; Settles at US$92.96 per Barrel - marketscreener.com",
+        "source": "marketscreener.com",
+        "published": "Wed, 22 Apr 2026 18:35:23 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNk5HRDlmNk5EMVlJSkdhTnlCNzdKQWZyMjJ6VDRaNFhSSWhEeG10d1FsWndGYzRSZVFIUHhnVGlUdXFfUzEtZE5PQmUzTEh6eTNvSG9Pc3ZLYjhDNUpuOGtvZUd0ZVZtbF9RZ2RBSlpaQ2FianhCcGFSTWxXNzlMWDF5SjdzRWcwa2RSZTluSWNtcTU2WEhSMUV4b0xMdy0waFNDTy1Fb1ROZWdPRnVyUnhlbDZrcUt4Y2ZxQlQwR29jMUNLNXlMVA?oc=5"
       },
       {
         "title": "Oil tops $100 as Strait of Hormuz concerns linger amid Trump ceasefire - Yahoo Finance",
@@ -8632,12 +8638,6 @@
         "source": "TRT World",
         "published": "Wed, 22 Apr 2026 16:44:05 GMT",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15MVZvTEtOek5tRnl6NG10d0RsX08xdUo3VDNUNFBQMmdBS0tXMzE3WG5YVlJSNk94bXlNeTFhNTZLQlU5SHY5UzBWTEJ3bk5tU29wMks1OHA?oc=5"
-      },
-      {
-        "title": "US Treasury chief defends pivot to extend Russia oil sanctions relief - Al-Monitor",
-        "source": "Al-Monitor",
-        "published": "Wed, 22 Apr 2026 16:32:28 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTzRvYk9lM3UySm9Ib2JiamdWc29HMkM5ZTZGSHJRVWk0b3F5UVdzNk42YnJFdHFveFd6dFNGalFISUgxMERzRFd1QXd0YjhrTVViT2lhVlQwTmxZbVBuY1duZkl2MEdfWWplanhScUpNbDhhbERKSmRvbnUyOWpockVJa0VmRDFqSG9GUDVmQ1Bfb3NmLS01b0RQRG8xSTdycExuX01XaEFRVFJPc3U1dw?oc=5"
       }
     ]
   }
