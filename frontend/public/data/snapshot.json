@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T21:07:10+00:00",
+  "generated_at": "2026-04-22T22:09:08+00:00",
   "fx": {
     "nzd_per_usd": 1.695217,
     "as_of": "Wed, 22 Apr 2026 00:02:31 +0000"
@@ -8542,10 +8542,10 @@
   "news": {
     "nz": [
       {
-        "title": "Fuel supplies 'stable' despite stock drops across all types - 1News",
-        "source": "1News",
-        "published": "Wed, 22 Apr 2026 17:52:17 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWUhIREJMa3htblNSUFo3ak9wNGc1bjRRekZxRHJBWF9ULTg3OFUwUWU2ZGFCcXhWbjU5Q09EYldkMF9Qa0FVZUVnOGZjWFZESFY3blpYQmMyRGVjWGpua0xJc3cwWENqLVI4bjRZYUJQOHdTemF2bTVCN3d5Q0djSFV5S0Uzb2d5eFg3eDQ4Q1E3OU5aa2VsXw?oc=5"
+        "title": "Moody's credit rating agency downgrades outlook for New Zealand - RNZ",
+        "source": "RNZ",
+        "published": "Wed, 22 Apr 2026 18:26:46 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ1hjdjFfQnJhZWRhWDBzWUxCTkJpOGNvSnAyTUFuWjdrbERIUV9aeWt1NlZzbm1pNVZBdnJQNVBNMEZCWlZ5Q0xHTVo4NjJ5QnBtTFVTY3VvUU5pTThoR0lBdHdyQmFVd3EzaGRyODJ2THFNWFVrMVJMQWlPN0YzRzJnVXJ4eEl1by1Ea040bGhBYWpnQ2pQSElzSDh1a3Y5RU95Z1BCcWNzZw?oc=5"
       },
       {
         "title": "Foodstuffs NZ moves to soften fuel-driven cost surge - Inside Retail New Zealand",
@@ -8592,10 +8592,16 @@
     ],
     "global": [
       {
-        "title": "US stocks rise toward more records while Brent oil tops $100 on uncertainty about the Iran war - KFOR.com",
-        "source": "KFOR.com",
-        "published": "Wed, 22 Apr 2026 20:03:21 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbm5pUVg3LXhETm01TGpYYUdGSU5pWGZ0VlBQY0JybHJZcWRQbW1Ja1o0MGp3eFFNaFQ4QmlsenVzS3YzTjdWN090ZGZSVGZaamtTSWZPWEpJTHgtYlpsTVl6Y3ZmUDVBdFZLREVrUGtuOGJXWW5YX0hFaVdsN0x0b0loZWIwcFZYaGVFSnFXazNrMmxEMm1vVHE4aXhjVDZldkRzUEdKM1I3TXVFUS1IWFlPUEowUWpsNFN30gHAAUFVX3lxTE1XeFlZc1BzbjJxeEh0S3BhLUt0TERycFNLcmFwczRwQXF4WnUyUHNUTTNQd1hxWFhDR1d6ZVJUUjVhV2ptSS1XRWE4Tm5fS09sYlJQMEJFaTIwUVRxM2xWUjdXdFZ4d3VrUU5fWTk4cGdOQnZTWVVqcGNVZWN5VmdsXzJPenQtbk9UYzIzYTBSUklfYVlCQkxRbUpGNTBISzRjZ1pZTEg4Q3M4V09WWmNkVEZJNm52cElVSFp0REVyaA?oc=5"
+        "title": "Stocks rally to records even as Brent crude tops $100 - Los Angeles Times",
+        "source": "Los Angeles Times",
+        "published": "Wed, 22 Apr 2026 20:42:29 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWEJCVUhvTTFkR0F6aFRKVGpBQVZEdlNEM3JDU1Y2VE10WVdzTFFWOGhmN3VhaWlXdGZtUjV0ZFdXMTkwN1JOb3NuUkJkMTZvNkRRWEs4NEcwSENtV0ZnVk1Yd05Vb05fWGY2cUdHbXE1clBaNlBIS2o2Q1I2SWdZd2dZeHVzQ1JqbUViaTVLcWZzWEFpU0U4Wi1JNS1pcFRlWHc?oc=5"
+      },
+      {
+        "title": "Stocks Rise as Investors Weigh Cease-Fire Extension - The New York Times",
+        "source": "The New York Times",
+        "published": "Wed, 22 Apr 2026 20:18:23 GMT",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5MFpyZV9rQTN4bFJGalpvYkkwU2lUeklwbkZueU9kd1c3eEVDblUtZnlpbnNUdzZxX2RnMXdxWk92YmpGRGF1MWszLTZ6enA0cXpQT21ZQWZvSUU1REM1NDJieWF3eFRqQzVnOUhVY3E3QnZWSWc?oc=5"
       },
       {
         "title": "US stocks rally to records, but Brent oil also tops $100 on worries about the Iran war - thegazette.com",
@@ -8610,6 +8616,12 @@
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0F5YlVBbHY5ZDEwUkpKT1ZfR1NieDhlNVZSV0w4WTlyTU8xM3BKM1VDVmZNd0h5SFlYME9fZm1VZEVZWC1xaTFEcWpNUzdCeDhwUXlJNlNjZUo2c2JDY1RLaERtN1B5TE1HYXJaZEZreWxELWlqZG9jc2l3MERzNzVUMkg3QTQwWS1GTmRRRE5oODRqWWc?oc=5"
       },
       {
+        "title": "Oil Futures Rise As Strait of Hormuz Stays Closed - WSJ",
+        "source": "WSJ",
+        "published": "Wed, 22 Apr 2026 19:02:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU3NFanU4cVZFYlZfYWZwMXhaQktPRm9MVmxWNjREck1ZMU1tZ3JRMzZieG96ZmlTWU1xYTJHZjRneHdBSk9EcnBvbThZSHowcnI0UTQyTFBWRkdOcG04SW5KQ0ZnMm1SUEF1bFFTRzBJVGZPZ1dUQWNRWDhrWmZKZC10RVkya3pIYTQxYkZQRVBxeUNXNmxleEtpVURJSlk5TDloYm5LNVQ1MjgzQmNr?oc=5"
+      },
+      {
         "title": "IEA warns of largest oil supply disruption as Middle East conflict escalates - MSN",
         "source": "MSN",
         "published": "Wed, 22 Apr 2026 18:55:49 GMT",
@@ -8622,22 +8634,10 @@
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNk5HRDlmNk5EMVlJSkdhTnlCNzdKQWZyMjJ6VDRaNFhSSWhEeG10d1FsWndGYzRSZVFIUHhnVGlUdXFfUzEtZE5PQmUzTEh6eTNvSG9Pc3ZLYjhDNUpuOGtvZUd0ZVZtbF9RZ2RBSlpaQ2FianhCcGFSTWxXNzlMWDF5SjdzRWcwa2RSZTluSWNtcTU2WEhSMUV4b0xMdy0waFNDTy1Fb1ROZWdPRnVyUnhlbDZrcUt4Y2ZxQlQwR29jMUNLNXlMVA?oc=5"
       },
       {
-        "title": "Oil tops $100 as Strait of Hormuz concerns linger amid Trump ceasefire - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "published": "Wed, 22 Apr 2026 17:03:13 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSi1yV2VHRkdQekFfdjJPalo1TTM0c25tUEViRnZ6UjhUc1Nxb2E0VHA5OWd3dnVwTjd0bzJZaG5JbldhcmFmT0lkZWRkblRLMy1sSUZqVEdFaVUzdXA4eDVSNjBZZm5XTlRRcVg5dDMyRHkwMXo1dXY5ZFNBZ2w2VjBjY2hDeGNjMW9QemNyNXRPLXBfWDIyUVJqSjJTdThvX2ZTeE4tMU14elpxQUU5MWI5RXlsakxaZm03bGM2WGRXdmR3WVhDWHA0SW5feDdYM3JGQg?oc=5"
-      },
-      {
-        "title": "Graham: Iran oil blockade ‘could become global soon’ - The Hill",
-        "source": "The Hill",
-        "published": "Wed, 22 Apr 2026 17:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPckxaTE01S3hqSVZtTmxMeG16dUJTc3QzMHQ2QUpBenZ0TWpVck9TVVJiRXdwb0dUQ2x2Z3dsZ1FQMlV4LVdHQ2dCUHFWNVdQQ0E0dnk4TEFjUGhjU1pNZkktWllZQ3dSaG9LNldYU01kU2RzSE1xSXJtd1BMZldNS0RMOUVaYUpVWlU00gGQAUFVX3lxTFBoTy0zckFDaVB1SHVUa3N5R1ZuaklfM0loZHlZT096dUNwRFhzRHRScC04WlBjM1dodFBodlVCRzNKNGllaUtnMkQ5OWVlZXc0cjEtMG9DQ3VQcS1pNTZsa2dfNW5vUEl1SGxWaFNrTUpfR3RmWno4THN1eEdXbDZXdFY4X3h5dzd0eW9pc2dDZQ?oc=5"
-      },
-      {
-        "title": "US extends Iran oil waiver, says many Gulf allies requesting UAE-style currency swap lines - TRT World",
-        "source": "TRT World",
-        "published": "Wed, 22 Apr 2026 16:44:05 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15MVZvTEtOek5tRnl6NG10d0RsX08xdUo3VDNUNFBQMmdBS0tXMzE3WG5YVlJSNk94bXlNeTFhNTZLQlU5SHY5UzBWTEJ3bk5tU29wMks1OHA?oc=5"
+        "title": "Breakbulk26: Loss of Persian Gulf oil supplies difficult to replace quickly - Journal of Commerce",
+        "source": "Journal of Commerce",
+        "published": "Wed, 22 Apr 2026 18:21:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS1czTWswRUs1a2lXX1pfeC1JV0FmeUt4NmdiS2VjdEl6czRvYzI3SGlWd201cGprMDNJTWR3b2w3OEZSQ004bElBWFZ6YzhEV21CZ1JRVHdYeWNEYVNhTUJTN1JTSnR5d2ZnaWdfZTVyNjZ1YmpIR0hVcTRCMGliSjBwamQ1NHoyT3E5blBMZDA1Z3VCRlVINHJ2VDBCTlI1TFhWWDhuOFBsLVhvVnRZ?oc=5"
       }
     ]
   }
