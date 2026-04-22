@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-04-22T18:36:40+00:00",
+  "generated_at": "2026-04-22T19:14:08+00:00",
   "fx": {
-    "nzd_per_usd": 1.695808,
-    "as_of": "Tue, 21 Apr 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.695217,
+    "as_of": "Wed, 22 Apr 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 92.31,
-      "latest_date": "2026-04-21",
-      "delta_1d_pct": -3.32,
-      "delta_30d_pct": -6.72,
+      "latest": 101.99,
+      "latest_date": "2026-04-22",
+      "delta_1d_pct": 3.56,
+      "delta_30d_pct": 16.16,
       "series": [
-        {
-          "date": "2025-04-21",
-          "usd": 66.26
-        },
         {
           "date": "2025-04-22",
           "usd": 67.44
@@ -1021,20 +1017,20 @@
         },
         {
           "date": "2026-04-21",
-          "usd": 92.31
+          "usd": 98.48
+        },
+        {
+          "date": "2026-04-22",
+          "usd": 101.99
         }
       ]
     },
     "wti": {
-      "latest": 88.67,
-      "latest_date": "2026-04-21",
-      "delta_1d_pct": -1.05,
-      "delta_30d_pct": -6.44,
+      "latest": 93.0,
+      "latest_date": "2026-04-22",
+      "delta_1d_pct": 0.94,
+      "delta_30d_pct": 11.44,
       "series": [
-        {
-          "date": "2025-04-21",
-          "usd": 63.08
-        },
         {
           "date": "2025-04-22",
           "usd": 64.31
@@ -2041,46 +2037,50 @@
         },
         {
           "date": "2026-04-21",
-          "usd": 88.67
+          "usd": 92.13
+        },
+        {
+          "date": "2026-04-22",
+          "usd": 93.0
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-04-21",
+    "as_of": "2026-04-22",
     "regular_91": {
-      "avg": 3.347,
-      "min": 3.199,
-      "max": 3.89,
-      "count": 55
+      "avg": 3.316,
+      "min": 3.16,
+      "max": 3.559,
+      "count": 54
     },
     "premium_95": {
-      "avg": 3.518,
-      "min": 3.198,
-      "max": 3.889,
-      "count": 14
+      "avg": 3.468,
+      "min": 3.199,
+      "max": 3.648,
+      "count": 22
     },
     "premium_98": {
-      "avg": 3.596,
+      "avg": 3.524,
       "min": 3.429,
-      "max": 3.719,
-      "count": 3
+      "max": 3.619,
+      "count": 2
     },
     "diesel": {
-      "avg": 3.609,
-      "min": 3.297,
-      "max": 3.999,
-      "count": 71
+      "avg": 3.572,
+      "min": 3.289,
+      "max": 4.339,
+      "count": 72
     },
     "lpg": {
-      "avg": 1.959,
-      "min": 1.959,
-      "max": 1.959,
-      "count": 1
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 57,
-    "observations_yesterday": 78,
-    "observations_older": 9
+    "observations_today": 59,
+    "observations_yesterday": 84,
+    "observations_older": 7
   },
   "mbie_waterfall": {
     "week_ending": "2026-04-03",
@@ -8592,16 +8592,22 @@
     ],
     "global": [
       {
-        "title": "Breakbulk26: Loss of Persian Gulf oil supplies difficult to replace quickly - Journal of Commerce",
-        "source": "Journal of Commerce",
-        "published": "Wed, 22 Apr 2026 18:21:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS1czTWswRUs1a2lXX1pfeC1JV0FmeUt4NmdiS2VjdEl6czRvYzI3SGlWd201cGprMDNJTWR3b2w3OEZSQ004bElBWFZ6YzhEV21CZ1JRVHdYeWNEYVNhTUJTN1JTSnR5d2ZnaWdfZTVyNjZ1YmpIR0hVcTRCMGliSjBwamQ1NHoyT3E5blBMZDA1Z3VCRlVINHJ2VDBCTlI1TFhWWDhuOFBsLVhvVnRZ?oc=5"
+        "title": "US Navy blockade of Strait of Hormuz spikes Brent crude to $101.9 - Crypto Briefing",
+        "source": "Crypto Briefing",
+        "published": "Wed, 22 Apr 2026 19:07:19 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0F5YlVBbHY5ZDEwUkpKT1ZfR1NieDhlNVZSV0w4WTlyTU8xM3BKM1VDVmZNd0h5SFlYME9fZm1VZEVZWC1xaTFEcWpNUzdCeDhwUXlJNlNjZUo2c2JDY1RLaERtN1B5TE1HYXJaZEZreWxELWlqZG9jc2l3MERzNzVUMkg3QTQwWS1GTmRRRE5oODRqWWc?oc=5"
       },
       {
         "title": "US stocks rise toward more records while Brent oil tops $100 on uncertainty about the Iran war - AP News",
         "source": "AP News",
-        "published": "Wed, 22 Apr 2026 17:16:00 GMT",
+        "published": "Wed, 22 Apr 2026 18:40:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeTV1eVpUU3AwcHRuTG8zRjk2MnEzZ0dnTVdhYXhySzBaRnpDZElLNW95b0lzZTVjcXk0bjBCN0VsVm9WaGxsQThfN1B2ZldkNWRodFNNM3lPRG5nOFV4SlJnMUlTOGFnMENSQ3U1NF9qUVZLWU1uUHNzbUUybnpIVUFnYWtEM2RuYVJDTzJGNUw2dw?oc=5"
+      },
+      {
+        "title": "Breakbulk26: Loss of Persian Gulf oil supplies difficult to replace quickly - Journal of Commerce",
+        "source": "Journal of Commerce",
+        "published": "Wed, 22 Apr 2026 18:21:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS1czTWswRUs1a2lXX1pfeC1JV0FmeUt4NmdiS2VjdEl6czRvYzI3SGlWd201cGprMDNJTWR3b2w3OEZSQ004bElBWFZ6YzhEV21CZ1JRVHdYeWNEYVNhTUJTN1JTSnR5d2ZnaWdfZTVyNjZ1YmpIR0hVcTRCMGliSjBwamQ1NHoyT3E5blBMZDA1Z3VCRlVINHJ2VDBCTlI1TFhWWDhuOFBsLVhvVnRZ?oc=5"
       },
       {
         "title": "Oil tops $100 as Strait of Hormuz concerns linger amid Trump ceasefire - Yahoo Finance",
@@ -8618,8 +8624,8 @@
       {
         "title": "US extends Iran oil waiver, says many Gulf allies requesting UAE-style currency swap lines - TRT World",
         "source": "TRT World",
-        "published": "Wed, 22 Apr 2026 16:42:08 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU3p4TVFFOWV3NGRhUjAzbWRqTWsxcF9nangzVU5nRW05aDhCMHUyelJWUU93Sks3aDJfcWpXMFpOUTZTY2JwU0J1M3dzVlNTa3RZYXBHRTQ2LUFhWXFvTVhVYmt3MHJkOG9KUV9kZE9uRUQ3ZGxyTFBvNV9rcjlQSl8yOXVZT3NONUVqOTBDbkZCOGV0VENob2lpRUs4b2lPVG83WW1GR2JtQmJIY0psUVBVdmhMV0s0Vm5kWXJtS193WlZCcDdNVA?oc=5"
+        "published": "Wed, 22 Apr 2026 16:44:05 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15MVZvTEtOek5tRnl6NG10d0RsX08xdUo3VDNUNFBQMmdBS0tXMzE3WG5YVlJSNk94bXlNeTFhNTZLQlU5SHY5UzBWTEJ3bk5tU29wMks1OHA?oc=5"
       },
       {
         "title": "US Treasury chief defends pivot to extend Russia oil sanctions relief - Al-Monitor",
@@ -8632,12 +8638,6 @@
         "source": "Index-Journal",
         "published": "Wed, 22 Apr 2026 16:32:28 GMT",
         "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQd0ROQ0dXZnZFVXpCR01NMGZRN0xudnZteW5WTVM0cWJhVGlRTlFIZEdRTUdDUzNSdEhQY3hOUDczb3FTeTVBN0plcEt2Z19ZMGtoQ19ra0dkSE1JcExMdnluY0Y2TWo4WGlHR2Z4TGhHR1cxS0RjNU80VGZxbWJ6bUgzUGNHRWhORlBPMkFueUJKdWxSWDNMMXNJNGZwaXZJRWJvRjZ4VmFTRk9IVC1QQU9keU83YmRkUXh6OHBfa1dvSXFoQlJQa1p2MldHZUUyRlpyU19IU3lPWG5IZHlwTVFlYVJxdEM3MDZxY2x4UzMtN3BQ?oc=5"
-      },
-      {
-        "title": "US Treasury chief defends pivot to extend Russia oil sanctions relief - Citizen Tribune",
-        "source": "Citizen Tribune",
-        "published": "Wed, 22 Apr 2026 16:32:28 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWC1HVVdxTTJ3TV9FTWYzLUU2Mjd6M2k5Ym90YWVUVDJ6ZjVEbGVCemNuZ1BPSjk5a19fSXBVLUR1X05XMXdYN0syc1ZkYjlCbXdCZ1htMFhTY0h5QUVhZmg2Yi1Jek56b2VZZ2JQdVh1YzRlWFZPSHd4UHlpMjVCUTV0cFg3blp6bE9KYjJlVmcyNUl2Q3VuWmJwamdYcWtrSUgxTGZ0QzVCcG05Y3REUnJod1JFaXJ5Tk9kak9VRi1LMm04bzZ4TWZPT0RSVjFuc3dJa00teXAwcGZ0eGVKcG5JUDdOWFV6RGI5VXNKNFZrSFRSRW5z?oc=5"
       }
     ]
   }
