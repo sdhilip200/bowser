@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T21:32:54+00:00",
+  "generated_at": "2026-04-23T22:27:29+00:00",
   "fx": {
     "nzd_per_usd": 1.693228,
     "as_of": "Thu, 23 Apr 2026 00:02:31 +0000"
@@ -8542,9 +8542,15 @@
   "news": {
     "nz": [
       {
+        "title": "Fuel supplies 'stable' despite stock drops across all types - 1News",
+        "source": "1News",
+        "published": "Thu, 23 Apr 2026 21:56:31 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWUhIREJMa3htblNSUFo3ak9wNGc1bjRRekZxRHJBWF9ULTg3OFUwUWU2ZGFCcXhWbjU5Q09EYldkMF9Qa0FVZUVnOGZjWFZESFY3blpYQmMyRGVjWGpua0xJc3cwWENqLVI4bjRZYUJQOHdTemF2bTVCN3d5Q0djSFV5S0Uzb2d5eFg3eDQ4Q1E3OU5aa2VsXw?oc=5"
+      },
+      {
         "title": "Govt reveals worst case oil shock economic scenarios for NZ - 1News",
         "source": "1News",
-        "published": "Thu, 23 Apr 2026 18:45:44 GMT",
+        "published": "Thu, 23 Apr 2026 21:45:35 GMT",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQVRfa1BSMDJXVDczekFncnhwQXRHZ3dWcm5helhNTkJDWlJHS0dva0RsUVl4clJBZGh0bUtKYjZFMUk0b25qWXNyNTNxei1JQ2N5cFJoUlk5dXNETXNpOFpwTmQzNVEwanc1VmtlVFRob1N2V2p5VnJ6U1FSVGlxTEVfSm5KQVUyT1NNNFN4ZENrdzlTdTRrMWJ1cw?oc=5"
       },
       {
@@ -8582,15 +8588,21 @@
         "source": "1News",
         "published": "Mon, 20 Apr 2026 01:42:33 GMT",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUEhFZUF2YVJ5N2w2cllPM3d5Q19qU2NWeEZ0SVJxRm9MQ3ozWlB5b0ZLMzBwOG9Jc2RmQ0xpeTVHaENid2s4b0pkRWhSM2FuS3I0Z0NGVG91TVJLNU1wNDViTWdpU3ExblFnMFdCOFJEVkxqcEhpc2pWLU9FMmpKTzRkVWFBUklOR19OWG5CaGlOY21nTU5nejRITmJ1U3RzcHJFM05R?oc=5"
-      },
-      {
-        "title": "Petrol arrives, NZ fuel stocks steady, as Hormuz chaos continues - Stuff",
-        "source": "Stuff",
-        "published": "Mon, 20 Apr 2026 01:37:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMTdGdkp4Y3BJcDkwTlFBZjRVb2ZHbnVxc0lMaVZxMC1yRWJJWEplMmViUUdiN1BxLUNrbGJTNzdBc0xidEJTd05nQWNyaEI1bUs5a3FmcTczWFRrQnM0eW5SUFJNeVlYMUE1R2lVRFNJSlVvbVBMeEJYLUU0cmtjN2Zyci1mVURZNHFRc0tfc3dsaE1jM0pBMWRTR1RVT2NuZkdXVQ?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Russia to supply Indonesia 150M barrels of oil amid Middle East tensions - Crypto Briefing",
+        "source": "Crypto Briefing",
+        "published": "Thu, 23 Apr 2026 22:13:28 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSllPRkp2UGE1MV9zVmc0Y21VQmFja0F1MXBOZjNtN2FNRkg4dnN1bjNPWnIxc1BRemZ0SHZIZmVHakZtTjFkQXJPNnlvZWZtNkFFSFVQNHQ4d1JfWFhlTklZLXVqUlFXN0hKSTNIQzZZZndSYVlhd1lWbEFfZ190TlFzNmxVYm1TRnBnYjRxdkxnRXRrYWVHcW1mUUJocTdoWHc?oc=5"
+      },
+      {
+        "title": "U.S. stocks fall on a shaky Wall Street as Brent oil briefly barrels above $107 - Pittsburgh Post-Gazette",
+        "source": "Pittsburgh Post-Gazette",
+        "published": "Thu, 23 Apr 2026 22:13:07 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbjhaLWxpemlDZ0xPMy1SU3RpbVNnTlpTY0N6ZmJ0TlRDYTR0VF9DeWszb3BQcHZrY3BWRzRwWTFaNy12ejFfQ1cwTzhDTTYxazRqa3VRMGdzMXU5RVZ0aGZlcTVpZzZFSmNqdlRubEUxeEtibXFZZTBiZmxLVTVLdGJRdktOMk4tS3h1NXhZbUZCLVEzdmZXbldzSVFJVTZ1MXdKdGZqOE5fblpv?oc=5"
+      },
       {
         "title": "Transatlantic Action: Sanctioning Third-Country Enablers of Russia’s War Economy - Center for European Policy Analysis (CEPA)",
         "source": "Center for European Policy Analysis (CEPA)",
@@ -8602,12 +8614,6 @@
         "source": "Kyiv Post",
         "published": "Thu, 23 Apr 2026 20:53:59 GMT",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBVYWVaczAtUkxQbnhoWWljejkwbkVnSlBWcFZ4MlMtMTNJUmhYaGxfX2tDTG9xY3p2QlZXYWdfTUo4dFNCMDVvYnpNZw?oc=5"
-      },
-      {
-        "title": "U.S. stocks fall on a shaky Wall Street as Brent oil briefly barrels above $107 - Pittsburgh Post-Gazette",
-        "source": "Pittsburgh Post-Gazette",
-        "published": "Thu, 23 Apr 2026 20:37:46 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbjhaLWxpemlDZ0xPMy1SU3RpbVNnTlpTY0N6ZmJ0TlRDYTR0VF9DeWszb3BQcHZrY3BWRzRwWTFaNy12ejFfQ1cwTzhDTTYxazRqa3VRMGdzMXU5RVZ0aGZlcTVpZzZFSmNqdlRubEUxeEtibXFZZTBiZmxLVTVLdGJRdktOMk4tS3h1NXhZbUZCLVEzdmZXbldzSVFJVTZ1MXdKdGZqOE5fblpv?oc=5"
       },
       {
         "title": "Oil Prices Are Mixed After Trump Orders Navy to Shoot Boats Laying Mines in Hormuz Strait - Barron's",
@@ -8622,22 +8628,16 @@
         "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNbnhsWm1JaWlCSUlqWjBJNUFfMmdaaEpHLVZ6ZEVHV0tOSGJsUHhmdkFpdnI4Qy1manBCT3ZzdVNwSTN0LVdqa2EwSHZCRG1CUzdZV2VBUXM5cEVvaFB4eEcwOU9UU3p4T3NKRE1HMEJNR0xFNC02dzVNdjVoRnVGdkRxNHVuQndGUEJpMjRkUFNkRzVSM255Z2FucjhsQkRuSEd4N2EzN1lSbGprcWFDeC0xclRpbE9LZVN0eWVkZjRtRFBYOVhXYjYyeXF4Z09LcWU4ZlZ4ejJVWG5sMlgyU1hKaHE5RnBaX05QTDN6VjZmaDQ0a09HZ2g0T0xHNUZxRGF6QXRSdVI0c295c3RLT1NhT00zWlpVR2JLR1VrLTh5SVNXLWNCRVZLVXhMX1lKQkpuRU1QNW9hQTdoQlc2Rmt3dURPeXlwMHpkZS1R?oc=5"
       },
       {
-        "title": "What would a permanent ‘Tehran’s tollbooth’ on oil mean for the world? - The Guardian",
-        "source": "The Guardian",
-        "published": "Thu, 23 Apr 2026 19:37:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZHhpNFg5UnlnYWI5cEtYZVFOWENuX3dGbVNyc0JoRS11bTA1RWIxejBUbl9VX05Kckt0anU5aU4zc205MExJS1JKak5NZWd6U293VEI1Yk9GRF9XelVaT3B6am9nUDdkcVNydVlHYTc5dWlKeGtXT0JIMTl3STZNNFBnMFZlendUZlhCaTBLRFRBcmNlLVZEcHh2OGJ0RllyU290UHpnd1p4cTBpQ0xvalhQbXRiMXBqWjdsMHVfbmc?oc=5"
+        "title": "Brent Crude Tops $105 As Strait Of Hormuz Remains Closed, Negotiations At a Standstill - International Business Times",
+        "source": "International Business Times",
+        "published": "Thu, 23 Apr 2026 20:16:14 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ0pZTnVQZ0xqcXA0dHJzejFxZVowNUUtNWhRRi13blVGWUdKcDc4MFhydjc4ZkZGcnBSWlMyY2tsVUFaYXcxcVFGVHdVOUxDbWZpWTFjTTN3VThBYkJtZDVHNUx1WTNkX1RDN1NTQ3d1dEtwTC1IRWVZbHFfV0xUZEp2TVpwSmNQc1BHNlNCUjRVeWJ3REo1a1R4RkVpOE5pYlYxY2xOVHQ?oc=5"
       },
       {
         "title": "Thailand, Iranian oil, and the economic cost of sanctions and war - Yahoo Finance",
         "source": "Yahoo Finance",
         "published": "Thu, 23 Apr 2026 19:30:09 GMT",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVjBvN1pyNXVUOTlUeFl0T3ZfdENlTkhtTVRhLU9iNk9YbHE3RzFjeXNoVUJaamtZZl9BTEQ4MWlSOTBxYVgwWWloLUtkdmM3Szl3a3VYWjNqMmJaV3VyRXdnd2M3ejVxRWJYMEh2QmVsVlMwdldLRVJmVWhicHdGblVBbllJOFlWSzljaXhUdDYwWUJDcEVF?oc=5"
-      },
-      {
-        "title": "Crude Oil WTI Futures Chart - Investing.com",
-        "source": "Investing.com",
-        "published": "Thu, 23 Apr 2026 19:21:22 GMT",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QVUZmbEFLek45c2FDcW5MdnIwVUE5c2p4Q21nUVU4a0NOZzd2QTdxSGRQS3A1QTk2M1cwVFNfd0JVUFZYMnVBa01IeWJzNy1HZmR3cFJXZk1zdVNSRGJONkI3MEJ4RDQ3VjlocXhYdHc?oc=5"
       }
     ]
   }
