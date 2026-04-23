@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-04-23T17:52:24+00:00",
+  "generated_at": "2026-04-23T19:09:22+00:00",
   "fx": {
-    "nzd_per_usd": 1.695217,
-    "as_of": "Wed, 22 Apr 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.693228,
+    "as_of": "Thu, 23 Apr 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 101.99,
-      "latest_date": "2026-04-22",
-      "delta_1d_pct": 3.56,
-      "delta_30d_pct": 16.16,
+      "latest": 105.41,
+      "latest_date": "2026-04-23",
+      "delta_1d_pct": 3.43,
+      "delta_30d_pct": 14.6,
       "series": [
-        {
-          "date": "2025-04-22",
-          "usd": 67.44
-        },
         {
           "date": "2025-04-23",
           "usd": 66.12
@@ -1021,20 +1017,20 @@
         },
         {
           "date": "2026-04-22",
-          "usd": 101.99
+          "usd": 101.91
+        },
+        {
+          "date": "2026-04-23",
+          "usd": 105.41
         }
       ]
     },
     "wti": {
-      "latest": 93.0,
-      "latest_date": "2026-04-22",
-      "delta_1d_pct": 0.94,
-      "delta_30d_pct": 11.44,
+      "latest": 96.35,
+      "latest_date": "2026-04-23",
+      "delta_1d_pct": 3.65,
+      "delta_30d_pct": 10.43,
       "series": [
-        {
-          "date": "2025-04-22",
-          "usd": 64.31
-        },
         {
           "date": "2025-04-23",
           "usd": 62.27
@@ -2041,46 +2037,50 @@
         },
         {
           "date": "2026-04-22",
-          "usd": 93.0
+          "usd": 92.96
+        },
+        {
+          "date": "2026-04-23",
+          "usd": 96.35
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-04-22",
+    "as_of": "2026-04-23",
     "regular_91": {
-      "avg": 3.316,
-      "min": 3.16,
-      "max": 3.559,
-      "count": 54
+      "avg": 3.275,
+      "min": 2.98,
+      "max": 3.509,
+      "count": 76
     },
     "premium_95": {
-      "avg": 3.468,
-      "min": 3.199,
-      "max": 3.648,
-      "count": 22
+      "avg": 3.49,
+      "min": 3.099,
+      "max": 3.699,
+      "count": 48
     },
     "premium_98": {
-      "avg": 3.524,
-      "min": 3.429,
-      "max": 3.619,
-      "count": 2
+      "avg": 3.554,
+      "min": 3.509,
+      "max": 3.599,
+      "count": 4
     },
     "diesel": {
-      "avg": 3.572,
-      "min": 3.289,
-      "max": 4.339,
-      "count": 72
+      "avg": 3.454,
+      "min": 3.189,
+      "max": 3.999,
+      "count": 79
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 3.199,
+      "min": 1.897,
+      "max": 4.0,
+      "count": 3
     },
-    "observations_today": 59,
-    "observations_yesterday": 84,
-    "observations_older": 7
+    "observations_today": 39,
+    "observations_yesterday": 163,
+    "observations_older": 8
   },
   "mbie_waterfall": {
     "week_ending": "2026-04-03",
@@ -8542,16 +8542,22 @@
   "news": {
     "nz": [
       {
+        "title": "Govt reveals worst case oil shock economic scenarios for NZ - 1News",
+        "source": "1News",
+        "published": "Thu, 23 Apr 2026 18:45:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQVRfa1BSMDJXVDczekFncnhwQXRHZ3dWcm5helhNTkJDWlJHS0dva0RsUVl4clJBZGh0bUtKYjZFMUk0b25qWXNyNTNxei1JQ2N5cFJoUlk5dXNETXNpOFpwTmQzNVEwanc1VmtlVFRob1N2V2p5VnJ6U1FSVGlxTEVfSm5KQVUyT1NNNFN4ZENrdzlTdTRrMWJ1cw?oc=5"
+      },
+      {
         "title": "Fuel supplies 'stable' despite stock drops across all types - 1News",
         "source": "1News",
         "published": "Thu, 23 Apr 2026 13:17:58 GMT",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWUhIREJMa3htblNSUFo3ak9wNGc1bjRRekZxRHJBWF9ULTg3OFUwUWU2ZGFCcXhWbjU5Q09EYldkMF9Qa0FVZUVnOGZjWFZESFY3blpYQmMyRGVjWGpua0xJc3cwWENqLVI4bjRZYUJQOHdTemF2bTVCN3d5Q0djSFV5S0Uzb2d5eFg3eDQ4Q1E3OU5aa2VsXw?oc=5"
       },
       {
-        "title": "Govt reveals worst case oil shock economic scenarios for NZ - 1News",
-        "source": "1News",
-        "published": "Thu, 23 Apr 2026 03:18:24 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQVRfa1BSMDJXVDczekFncnhwQXRHZ3dWcm5helhNTkJDWlJHS0dva0RsUVl4clJBZGh0bUtKYjZFMUk0b25qWXNyNTNxei1JQ2N5cFJoUlk5dXNETXNpOFpwTmQzNVEwanc1VmtlVFRob1N2V2p5VnJ6U1FSVGlxTEVfSm5KQVUyT1NNNFN4ZENrdzlTdTRrMWJ1cw?oc=5"
+        "title": "Why have fuel prices fallen lately and will it last? - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Thu, 23 Apr 2026 06:04:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNkdUZERlX0VsbEx4VWszQ1BTbXRZOFc3VXp6SWw3UkpuMHRPRzVTZzhjZHp3S2VpY1J5Tl9YQkxwcTBabW5SVnpjYkR3WlNMaF8tcUM5WC05VjU5OTJOZ1hCZWJqeUlBZWQxcHlVOXZVLXA0VUpxSDR6clNvSU11Mjl2b3hmQXJ5a05QNWV4Qnl0dW05TkdQc0JqaER4SXlqVTVwVjJNRHY1aUJKTVRXaHRTTWdRUFY2cTM1TlhWQXAyaVRiWHl6UVNwbWFWVEVQQXZid3B6dXFQN1hXOGJ2UA?oc=5"
       },
       {
         "title": "Fuel stock still stable despite another fall, government says - RNZ",
@@ -8582,15 +8588,21 @@
         "source": "NZ Herald",
         "published": "Tue, 21 Apr 2026 00:36:07 GMT",
         "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbFNmS0NNY21YNkV0WXQxVjJGQUw0R3RaY2VvMC1FbFA2eWtKUFhGbGlwdmhwTm5YdUdudXpRVUljaENMMm5qa0VLbGZOZWJKRlRkcEN2TU1oWDFEMWRVRkdrVjdJdTNnZXFleUxkSWNUWExad0tRck51OG9mNHBXNnl0a09McjJ1Wl9sYTBTd1FmQUFJanhnRlI4VFdaQjNaNGpMV1RLVjNvemw5X19WMnQ4ZHRldG1NYUhDMEQ5UGtGWjFPaXZuSmhneDhSVll4WEQtMENBbE5JQlhqemZjekRJdnhtX1hZ?oc=5"
-      },
-      {
-        "title": "Small fall in diesel and petrol stocks, jet fuel up in latest update - 1News",
-        "source": "1News",
-        "published": "Mon, 20 Apr 2026 01:42:33 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUEhFZUF2YVJ5N2w2cllPM3d5Q19qU2NWeEZ0SVJxRm9MQ3ozWlB5b0ZLMzBwOG9Jc2RmQ0xpeTVHaENid2s4b0pkRWhSM2FuS3I0Z0NGVG91TVJLNU1wNDViTWdpU3ExblFnMFdCOFJEVkxqcEhpc2pWLU9FMmpKTzRkVWFBUklOR19OWG5CaGlOY21nTU5nejRITmJ1U3RzcHJFM05R?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "8 Vaca Muerta upstream projects to watch as Middle East supply uncertainty swirls - BNamericas",
+        "source": "BNamericas",
+        "published": "Thu, 23 Apr 2026 18:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc0R1WF9jVzhSQ2ZRenV4NzdJaE9HcjI5QVNXRDVtdzI1cTZlM0JoelB1ZFItTDlOLWFDQ3VNLTVWQnpkOUJrUm5jVXRJRmRUek5LRnZ4cHZOblVWR2RaQ3dMb0x3UjNoX05kYXdlOFNxNi1BQW82Sk5PSGRkaTJYeEtwSkVRN3lDdDY0YkItWE5TcEhmOHp0YWItamFsTkRLbklIVXBrQXBoMWo1VWNuVko3U2NScUFfZFM0Uw?oc=5"
+      },
+      {
+        "title": "Brent oil tops $105 on unconfirmed report Iran parliament speaker resigned from negotiating team - CNBC",
+        "source": "CNBC",
+        "published": "Thu, 23 Apr 2026 17:48:14 GMT",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9vdWMwejlaaUhEZ0VvZ1Nlc0FocXZfZFlzVTVVQ210ZEQyWUlSbTk2UzdWV0NuTXFDTjUtb0wyVmgtUGtvQng4R0ZXZGM4VFBHc3dSLWN1WXpUODUzajFfRnpMSXhwcmRWTVlxYkxZQTY4ZnZDSG9jatIBfkFVX3lxTFAySGhUd29hbkVJSEwxQ3gtRmsyeXNqdEhvbVdKMDdRanFFS2JoX2UyUVN2MXJkLXBNbnJkR0hIaGFENDlVcUYyYXdqSGt1enVDTUsxQmw2U0dibkVmdU54cHpaYkRhX1FsM043UEI1QUVneVB4VUx0VnZyVWJ0Zw?oc=5"
+      },
       {
         "title": "Brent, WTI Crude Prices, Apr. 23, 2026 - Energy Intelligence",
         "source": "Energy Intelligence",
@@ -8602,6 +8614,12 @@
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Thu, 23 Apr 2026 17:30:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbVdEZmtUb0xvdDIzQ3BVbDhyNW1YS2lDVUtUa21VUXlFeDVlVkUyR0xYT0x4elo4S2szeFVFdUJ4SjhLU0I3bnEyRzdxQjZ0QWRzQjRRRF81d1hEeUZ2ai1BN0FFdW9aMXlGejVqWUE1YTc2Q0lpSmtMLXhvX2l4SHRPMjYzb0NkSjh3dHRPU1MzNkZIR0lQSXpDSGtTcC1FOEdueUcxdmJRMFhnSTRkQmJndWlXazZyTzV0ck5NY0ZRZ9IBxwFBVV95cUxQWUcyUDNrdFY0UkZPY3hKaEM1Y2ZVZHNwMnFDWGY0RkdtOURnM3VTamQ2blhSU09adUFsSTRkQkdSVGwzaXZRMkNCY1NUQTVLSlptLTY4emh5RXMyVWhWQ2F3MVVfcU5RWVNKUUNXVklwNWFhU2s1WWJNRnc4NWZNTmJxVmxpb212WXRPcUFCQlE0VUZwX0dXLUpQVFpRTlFtY2JHMGJkLWNVTF92OFRDa3RIQ2VSb1hsazk1cGE3dEdXNng5R09z?oc=5"
+      },
+      {
+        "title": "Brent crude oil prices top $100 as US awaits Iran's response on peace talks - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "published": "Thu, 23 Apr 2026 16:59:07 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX3FvelR4X0VpbDV6T0pXTTI4bnFSNWdpbzhyQ1pQZkpucU9VMlhOSDZrcThvOUVmOGlkLWFWNWpMeEhVQWdvRkFKRzM3ZU90OXltZUduYUtzbUFEY0R3S0h0MnZ2bE9NcFNpRGx0SGkzME01ekNmUGNEMWhuRHRlWS00MnAyeEFnRDF4Z3VrZlVJTWJLeXFpTzJhY1Z3ZDRrYlRMSzZhWlRWUXJEXy0yclN6WTZnUUh5eWFCUWJFX3EyZ3dGY21XbE5n?oc=5"
       },
       {
         "title": "What would a permanent ‘Tehran’s tollbooth’ on oil mean for the world? - The Guardian",
@@ -8620,24 +8638,6 @@
         "source": "International Business Times",
         "published": "Thu, 23 Apr 2026 16:14:12 GMT",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdU5tQ2NfX2ZPN2g1Y00ydzV5dlhrSmgySmhIcFRjNHQzU0RwQmtjdkVES3JaWGxxUVRFMlI2ZzVTLWZkQ2lsVHFCR1Y2S3lXQ3BRQjZCX1VFOWhkMHBfR2JBdWNBNXZRa3BHRUZHMEZ6U2YtRnNWYnR0Uy1mSjZmU3hNUWdsWWdwYmE3bklZM3FBWWtjcDhGb3VuemMwYmVGdVlJODVlWHdmYlh3RXo4VHJoSkljYmQ0SGdoQURyaURwM1E?oc=5"
-      },
-      {
-        "title": "Crude Oil Prices Underpinned as Iran War Tightens Global Oil Supplies - Barchart.com",
-        "source": "Barchart.com",
-        "published": "Thu, 23 Apr 2026 15:30:16 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ29YVnZ4R0dEY3ZjN3Yyd2xvMWlETml1cXlvZk5mZ2VWNmt0UkZWTV9mbnlXSU91N1UyNFVWZ0NhY1RlZ0Jsc3A4VnZHRG9wTTBER0U0UUtnbDgzWVZfbENUV1NVQnRQQ0dQbmFIOHBkNHJPdXRvVktRSWZ2eVhwejBhdkhudjBDSVNlMWVkZ0FHV19RUUdlNV9hb1JyY0VBdWdOQUxOVU1PbUxua29vSlk3QQ?oc=5"
-      },
-      {
-        "title": "U.S. boards Iranian oil supertanker in Indian Ocean amid sanctions crackdown - World Oil",
-        "source": "World Oil",
-        "published": "Thu, 23 Apr 2026 15:02:59 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbUotUXVyNWJpN1ctTzJISTBRZDdUWnoyX1FYVDlFdFE1MnIxOHVMZzdMak5CdC1CMVVRMmR0bXJfanZVXzMyUFN3alFwYm9XMVJ1Ui1CeElKQUV5VDBTd2JDWHdCTXpTUk1XY0VPaWZKSV95NHpRa00yYzVLVTlwbkJvZF9oNHJRcmpTZmgtTEh4VGJQMjJVdERmdGtIeTZsdXAtMWctRWxkX2lBSmI3c0lmMXl1em8?oc=5"
-      },
-      {
-        "title": "Brent crude oil prices top $100 as US awaits Iran response on peace talks - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "published": "Thu, 23 Apr 2026 15:02:15 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVHo3UXpqOWpGWDlQU05QSW1ZclpmNVVYbW9iQzVBanhNeDIyaE5GbTlqZ2FzWEtmbEdzZmc0RnpxV0t5bUx5MzUwdzdRcm1lQVpZMGJzWlVteUs2RnhXZ0hoN21oWTJDMTlPNEN1TFI0SDExS3lKbnhkWXJwUm5RSWk2ZU9DN3F3eHVkdE0wTms0cW5qbVpMZEY3Y2E0cmMtaHJ0U1NyaU40RzdQUGhSRVdLOUM3N2RaaU1GSUhSUWRHanBBamlENQ?oc=5"
       }
     ]
   }
