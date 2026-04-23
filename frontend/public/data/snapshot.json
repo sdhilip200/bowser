@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T23:11:23+00:00",
+  "generated_at": "2026-04-23T00:06:50+00:00",
   "fx": {
     "nzd_per_usd": 1.695217,
     "as_of": "Wed, 22 Apr 2026 00:02:31 +0000"
@@ -8542,12 +8542,6 @@
   "news": {
     "nz": [
       {
-        "title": "Moody's credit rating agency downgrades outlook for New Zealand - RNZ",
-        "source": "RNZ",
-        "published": "Wed, 22 Apr 2026 18:26:46 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ1hjdjFfQnJhZWRhWDBzWUxCTkJpOGNvSnAyTUFuWjdrbERIUV9aeWt1NlZzbm1pNVZBdnJQNVBNMEZCWlZ5Q0xHTVo4NjJ5QnBtTFVTY3VvUU5pTThoR0lBdHdyQmFVd3EzaGRyODJ2THFNWFVrMVJMQWlPN0YzRzJnVXJ4eEl1by1Ea040bGhBYWpnQ2pQSElzSDh1a3Y5RU95Z1BCcWNzZw?oc=5"
-      },
-      {
         "title": "Foodstuffs NZ moves to soften fuel-driven cost surge - Inside Retail New Zealand",
         "source": "Inside Retail New Zealand",
         "published": "Wed, 22 Apr 2026 08:39:27 GMT",
@@ -8572,6 +8566,12 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb2dMQ3E0cVNwRDZncVBJbmVLZkljcWx1czJ3YTFmcGtNVzNzRXEzN3hrbk1SMVJCQUxRU19LQlNxVHlXZ2tVOUF0TGNwbTUxMC1EMVRYbnIwc01DZkdPS0wza0dYay02MHd2SFdiVTJDcHZDVU1Memd1YnJZZmlpcFNFdHlfWFpjXzJWM21uWmJFUlJtTElFN3FhMA?oc=5"
       },
       {
+        "title": "One of NZ’s largest companies warns of A$5m-$10m hit from fuel, materials price hikes - The Post",
+        "source": "The Post",
+        "published": "Tue, 21 Apr 2026 22:39:30 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVnRrWFl1MldlWjlPRVJBalE1OGdwWXh0RVBhZXJjeUF0OERKQXk1OEFZTF9WYnUwWGN5NEJ4Uy1IMHgxVXVFd21iTFJxMjZZNlViTl8ya0EyTDFDTGRPck1vdTdZN0lsLW5LUG5YUVpPYmRBZFpzU1h4Mk85N2pScEJyclRjNHJiajN0NG5MUlYySnlmLVZFMXp5WnJZeUVxZmE5MlJCcFRFTzYwUm9RR1JOSFg?oc=5"
+      },
+      {
         "title": "Kuwait invokes ‘force majeure’ on its fuel, allowing it to forfeit delivery to NZ’s refined fuel suppliers - The Post",
         "source": "The Post",
         "published": "Tue, 21 Apr 2026 02:43:05 GMT",
@@ -8591,6 +8591,18 @@
       }
     ],
     "global": [
+      {
+        "title": "StanChart $95 Per Barrel Is The New Oil Price Equilibrium - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Thu, 23 Apr 2026 00:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLWRTZzFpelA1X2FlbkNCRnNFTl9lUTNfOUpxcjBpY0xGcHZ6S09rQnNxeHdYYVREWU5fcGp0TVdfSlJsRFVYYmlTaWZpTUsxNTVDM2s2RWJlSFpNa19TMExDLXNuNTVILVJjX3FraE5wamYyY0FpTjJIWnhpV3FndlFMX1hTbzVrWDlRSE5HWXpPTTZvWS1OQkNNUk9aOVhU0gGmAUFVX3lxTE5DTGJ5VmxTYUFlemxaS09LbGdvMWtyZ3BwMFNzb00wdm16MFhDM3FnZDkxcnNJb18zREpFQ1ZzYXByYmJMelpxd3pzT1Y5NmU2ZGdSZ3QxWGszejlybTJfR29NdGdCdGpQVTVlUy1vZjlDXzRMdzdTTkxXYjJhbWlCQnpTOWxESFk0STlrY29od1FueGpfY0pyT0p3RXdkTVktdllsS2c?oc=5"
+      },
+      {
+        "title": "Brent crude tops $100 as Iran attacks three ships, U.S. crude stocks post surprise draw (USO:NYSEARCA) - Seeking Alpha",
+        "source": "Seeking Alpha",
+        "published": "Wed, 22 Apr 2026 23:47:04 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWnhKOTdNTFB6RkY1UWk2ZUptMkdFRFcyWGc2Um45QXpRN0JXbHhxQjlkWkxyWlRLdzlKV1dvQllZRUE5QnNUWUllazROV3NYTzdyZkZOTUtfNDVRUllGaW1RVTVYQjBBZ0dkbWxOcWVtTnlmM0sxeWE4M0dJMUN1ZDkybEdGV09XdnM0d0pmb2JfbVhGYlNHU3g4TVdSZFlFWUZXdk1rUnBXZko2Nm13TU1aSnVDN2V2WC13ZkJR?oc=5"
+      },
       {
         "title": "Brent Crude Tops $100 Again After Iran Seizes Ships in Strait of Hormuz - bloomingbit",
         "source": "bloomingbit",
@@ -8626,18 +8638,6 @@
         "source": "WSJ",
         "published": "Wed, 22 Apr 2026 19:02:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU3NFanU4cVZFYlZfYWZwMXhaQktPRm9MVmxWNjREck1ZMU1tZ3JRMzZieG96ZmlTWU1xYTJHZjRneHdBSk9EcnBvbThZSHowcnI0UTQyTFBWRkdOcG04SW5KQ0ZnMm1SUEF1bFFTRzBJVGZPZ1dUQWNRWDhrWmZKZC10RVkya3pIYTQxYkZQRVBxeUNXNmxleEtpVURJSlk5TDloYm5LNVQ1MjgzQmNr?oc=5"
-      },
-      {
-        "title": "IEA warns of largest oil supply disruption as Middle East conflict escalates - MSN",
-        "source": "MSN",
-        "published": "Wed, 22 Apr 2026 18:55:49 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOTEteDhleTFMazdOV0tsRV9rWExzRHBFckNXQnRSM1pQQ2NVUmhDVC1JdUxYZGt3XzBWcEl6Y290QlZfUm1ZZmk1SkxzVXBYeWJLU19hYnQ4RzZ6a2g4VkpUOU1fNGRDR3M4M1p0MWZvVUFCOHVCbTdQTTBIeGpzdGNXQjBILUt5bm1Xak4zQzNTVUw0dnFyVm9rekRtVE51TERQZC1SX2RJbTN3V2dFdS1XeVM3bHpFY3NsTVhObV94X1E?oc=5"
-      },
-      {
-        "title": "Breakbulk26: Loss of Persian Gulf oil supplies difficult to replace quickly - Journal of Commerce",
-        "source": "Journal of Commerce",
-        "published": "Wed, 22 Apr 2026 18:21:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS1czTWswRUs1a2lXX1pfeC1JV0FmeUt4NmdiS2VjdEl6czRvYzI3SGlWd201cGprMDNJTWR3b2w3OEZSQ004bElBWFZ6YzhEV21CZ1JRVHdYeWNEYVNhTUJTN1JTSnR5d2ZnaWdfZTVyNjZ1YmpIR0hVcTRCMGliSjBwamQ1NHoyT3E5blBMZDA1Z3VCRlVINHJ2VDBCTlI1TFhWWDhuOFBsLVhvVnRZ?oc=5"
       }
     ]
   }
