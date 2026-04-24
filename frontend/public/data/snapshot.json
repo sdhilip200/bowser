@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T21:34:12+00:00",
+  "generated_at": "2026-04-24T22:27:19+00:00",
   "fx": {
     "nzd_per_usd": 1.705346,
     "as_of": "Fri, 24 Apr 2026 00:02:31 +0000"
@@ -8542,6 +8542,12 @@
   "news": {
     "nz": [
       {
+        "title": "Govt reveals worst case oil shock economic scenarios for NZ - 1News",
+        "source": "1News",
+        "published": "Fri, 24 Apr 2026 22:18:54 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQVRfa1BSMDJXVDczekFncnhwQXRHZ3dWcm5helhNTkJDWlJHS0dva0RsUVl4clJBZGh0bUtKYjZFMUk0b25qWXNyNTNxei1JQ2N5cFJoUlk5dXNETXNpOFpwTmQzNVEwanc1VmtlVFRob1N2V2p5VnJ6U1FSVGlxTEVfSm5KQVUyT1NNNFN4ZENrdzlTdTRrMWJ1cw?oc=5"
+      },
+      {
         "title": "Air New Zealand ‘Can’t Recover the Full Cost of This Fuel,’ CEO Says - Skift",
         "source": "Skift",
         "published": "Fri, 24 Apr 2026 17:55:10 GMT",
@@ -8552,12 +8558,6 @@
         "source": "Stuff",
         "published": "Fri, 24 Apr 2026 16:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOWFuS0xVSFRxY0ZHblBseHpuRXZ1YXNiblNnR1E3anpha3B5ZHFlcTFnRzAxTjJsVGtWejNjN3d1aHRrTkFZS2djZ1ktLUFpSVRLNjZjREFINzRKWlFDcDh3RTNibmZ1NGo0ZzhGYzhCTWFpcFMzY0paNXJvTE9ldkJ2VjEzZmpYTGZIVW41VkQ2ZnpRRUZkNGQ2R0NmeWd2UWttUk45bVRldVcwRFNMMjFQOV9BWFREU3loSlBCRENHdw?oc=5"
-      },
-      {
-        "title": "Govt reveals worst case oil shock economic scenarios for NZ - 1News",
-        "source": "1News",
-        "published": "Fri, 24 Apr 2026 11:54:15 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQVRfa1BSMDJXVDczekFncnhwQXRHZ3dWcm5helhNTkJDWlJHS0dva0RsUVl4clJBZGh0bUtKYjZFMUk0b25qWXNyNTNxei1JQ2N5cFJoUlk5dXNETXNpOFpwTmQzNVEwanc1VmtlVFRob1N2V2p5VnJ6U1FSVGlxTEVfSm5KQVUyT1NNNFN4ZENrdzlTdTRrMWJ1cw?oc=5"
       },
       {
         "title": "Fuel supplies 'stable' despite stock drops across all types - 1News",
@@ -8592,16 +8592,40 @@
     ],
     "global": [
       {
+        "title": "U.S. targets China’s shadow trade with Iran in sweeping sanctions - The Washington Post",
+        "source": "The Washington Post",
+        "published": "Fri, 24 Apr 2026 22:09:01 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcjJ0Y2E5ZW9PX05qZEhSV1Z5S0c4SGZ5c0pjQzNwdXRYaHRYNTlKZjBvNkU0UlZ1dVdPdVFiQUZGem85OTVFRVZsRUlLcVFUUG1nWmFudU5EelI4X2ZqbE5SdnhIdnYtYWhsbEphQjdkNFlzSWRodUVQVHpWdV9ETTZsTHlURGV4NXl4M2hDbWtiMGthZHBxNDZ3?oc=5"
+      },
+      {
+        "title": "US won’t renew Iranian and Russian oil waivers, Bessent says - AP News",
+        "source": "AP News",
+        "published": "Fri, 24 Apr 2026 21:59:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbTJCWjVHbUhrVTM4eENTMlR2enpCZXZ2LVMxZjJrNXRpVGU4TmtGaFY0OWFnSnJ4TTFuZlhtM3hBV2Z2WFV1N05KMnpmM3hQUUVEaDAxSnVjOWVGb1ZxS29CakRDWEtvNGdMNEdqU0lqd3AxWkZwdFEyblU0WS1Gc29tM1lfZ3dZamg4N2RYRDVWM1duVTNqQ0k1R0R6c2NEUjRHb0RoQQ?oc=5"
+      },
+      {
+        "title": "Crude Oil Supply Crisis: Inventories Drop as Middle East Conflict Disrupts Strait of Hormuz - News and Statistics - IndexBox",
+        "source": "IndexBox",
+        "published": "Fri, 24 Apr 2026 21:50:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdFdaQTV4SjJQOWdBNFNoSVN0TmFZUVhCSHFKSVRMZ0pQSmZQNmduYVNfZVU4N0JZanh4Rm1Idk8tbmhmaC1SczVlcVYzcVBmSENtZGh1NW0zOHltWFhlYjNqUmVDWjNhV09OdDFER2xiVTRaRzNQWm53OTV3VVRwQVpuUlZ1ZUl1UU5oc3pweGhZZEZWUDk4MVIxZkM1UQ?oc=5"
+      },
+      {
+        "title": "US imposes sanctions on Chinese teapot refinery for buying Iranian oil - Reuters",
+        "source": "Reuters",
+        "published": "Fri, 24 Apr 2026 21:06:17 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNek5hSnM4QjlRSWpSdFcySk5iQ21HM1lVVVdpTEV6dkwwenNIOExENnBrTFhGNHJVT0NyR3hmMEQyMTkyWTF0RHhRdnhqRUxDOEtOdGtoVE1aTE02eWtZMFRpQnduVG5nc0RCMmZXRUhOd3Uxbk15bGVNeVZnOVY5eWNZUWFMMElWUG94Zm1PenByTGd1SlE3QTI3WWVQOFh1ZHo4ZzRoOWtTUUhQNjBPLVk3ZkRHZw?oc=5"
+      },
+      {
         "title": "U.S. Unveils More Sanctions Targeting Iran’s Shadow Fleet - The New York Times",
         "source": "The New York Times",
         "published": "Fri, 24 Apr 2026 20:52:35 GMT",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOalhrN2JHNURrbWZnZjhzV3NtUUVfWHBOQzd1Qlp0ODNNWmJOTkkteDB5RHpnSnB4YnMyVUo3U3RKZENPMmpJWmNpek5rekVHbER0X09tRF92UU5QeFNLVnoxLXVRTTNxM1Q3M0Roa21JSGxOU1BzX1RUc1ZvNmFiUERQSTFuS05ELWg1TnV4UkRGTVFGd0t4NXByeUo?oc=5"
       },
       {
-        "title": "U.S. targets China’s shadow trade with Iran in sweeping sanctions - The Washington Post",
-        "source": "The Washington Post",
-        "published": "Fri, 24 Apr 2026 20:42:48 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcjJ0Y2E5ZW9PX05qZEhSV1Z5S0c4SGZ5c0pjQzNwdXRYaHRYNTlKZjBvNkU0UlZ1dVdPdVFiQUZGem85OTVFRVZsRUlLcVFUUG1nWmFudU5EelI4X2ZqbE5SdnhIdnYtYWhsbEphQjdkNFlzSWRodUVQVHpWdV9ETTZsTHlURGV4NXl4M2hDbWtiMGthZHBxNDZ3?oc=5"
+        "title": "Brent Crude Backwardation Points to Ongoing Physical Market Tightness - Investing.com",
+        "source": "Investing.com",
+        "published": "Fri, 24 Apr 2026 20:31:21 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNDZ5MHhubVlFV1V5bHNRdGJEV2pLZV91dzVUcG9fOUdRU0lad3VTUTFhUTVtVE9lMkRKbkJKMzN4a193aHhDRF8yWE5NVXMwNlJXYzdURFB4OGliR1NTQVEyTExmWUgzS1ZiTS1qeTM4X1JmVURFVUIxdGpHMG12OXhiOEpIa0hsd2c4d3NHLWx1eDREY0dSb2x4UkZlX0hUajVmbXhPVGNRdDdzaDdKZnExbXo?oc=5"
       },
       {
         "title": "Crude Oil trades above $95 ahead of weekend risk – WTI Technical analysis - marketpulse.com",
@@ -8614,30 +8638,6 @@
         "source": "The Hill",
         "published": "Fri, 24 Apr 2026 20:18:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZll4OHBYbUlieGpqMTZ4ME9Xb3BnZ2xiakFFeDUtX1VXYkJlWVdEbjR4N0MxWV9JbWcyZGxpdTBKV1RlenN6dUlIcFVOY0tIYTdzNkxVV3M5RW5JOW92ZUdNalVjeEIyWkxDY2hNTm5JZ21Hb1B4TVRsVkpkXzdWSHlMTUNFelduam5sYk9vU3FNVk93YkHSAZsBQVVfeXFMTVB6UThKYnZ2R2VXNEdtWmdQUDlFXzZDZEgtUzgzaGtYclg1aWZac3VHemVNQWM1bFY0czFXeGhOa0ZWN2RNc1VzbGNuaElMYmtJeVJvVmVVaGY2U29xZlBOSHpzYUVGNGgwNTZaV3hIT0Nfd01CU1dBNDE2SDJ4N2dMOUM3SjUxS1dmMlBpOThYM0kyOGNfaVMxbDg?oc=5"
-      },
-      {
-        "title": "[424B3] United States Brent Oil Fund, LP Prospectus Filed Pursuant to Rule 424(b)(3) - Stock Titan",
-        "source": "Stock Titan",
-        "published": "Fri, 24 Apr 2026 20:15:22 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbkdNVm5jYkhJZjRCdjNUM0lGOUljWE4zZl82WDM2c2xRQVNobWMtRTlqS0ZwLVc5Z3V0SVB2c0dHdl9JVUFEN0plLXJET3hma2xPRzJsZXd2bmNvSTc2MXdZUFlwNWtOM1NJeUZHcTZPWDdyQXlmU1dHVmRHQVpmcGZxVkc0Y3o3SjQ1M1dzV0Z3a2F6d0RWT2I0NVJGS2o1bWk1QmU5aF96ZEhYblphQ0ZIVVVZd01Sa2psTDNWRlVidmt0VC1VbW53?oc=5"
-      },
-      {
-        "title": "US sanctions Chinese refinery over Iranian oil purchases - Middle East Eye",
-        "source": "Middle East Eye",
-        "published": "Fri, 24 Apr 2026 19:50:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdWJjT1dWVjhFMVFkQmUxZHFmQ052bjlENEFjTHZSaGctNUJIX3hrLThuMUQ2b0hxUXl6WVhEQUNxT0hXTDZ1dzZCZXdTRi04VE9KN1lyeHBCbEtTeTBLS1ltVGgxUDlsci1SMFFwY19mazVpekZRQzdUTWFsaU15RmRBeDJOTktZdmJmMmV6eHFOWll6dEQ4NXNPYnNuQVJBTXVVeVd2c28tbmVaaUpTQklhaw?oc=5"
-      },
-      {
-        "title": "US imposes sanctions targeting Iran’s oil network in China - The Hill",
-        "source": "The Hill",
-        "published": "Fri, 24 Apr 2026 19:46:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42Nmh6SldlSjgtSDFKZEZURG5lZ3RTNGRXOHJBM3FHNXJkQXNhVUlNdUQzOXJtZlRSaTEwRDMtWldIUXBJM3dUSGRrYk1tTGJyMDd0S0tPTWNQbThSWWxIX0RCNE1zTk8zSENjTFI3dFM0OGZVbmh4bjlaSzZyTmfSAYQBQVVfeXFMUDJSdGY1aVFVMFpVbUU0emU4SVllSUcwVkdsbkhSRElON3hyU3dBMXNtWkg1eHdqTWQ1WmRvNThOakZFNUExem54b1BiekxQREw3MFcybGkzRUJaVTZFcFVRU1o0aF9Rb0szc2hWMm00WUh0V2lzakVNeldKUWIwOXZaNHhs?oc=5"
-      },
-      {
-        "title": "US imposes sanctions on Chinese teapot refinery for buying Iranian oil - Reuters",
-        "source": "Reuters",
-        "published": "Fri, 24 Apr 2026 19:45:13 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNek5hSnM4QjlRSWpSdFcySk5iQ21HM1lVVVdpTEV6dkwwenNIOExENnBrTFhGNHJVT0NyR3hmMEQyMTkyWTF0RHhRdnhqRUxDOEtOdGtoVE1aTE02eWtZMFRpQnduVG5nc0RCMmZXRUhOd3Uxbk15bGVNeVZnOVY5eWNZUWFMMElWUG94Zm1PenByTGd1SlE3QTI3WWVQOFh1ZHo4ZzRoOWtTUUhQNjBPLVk3ZkRHZw?oc=5"
       }
     ]
   }
