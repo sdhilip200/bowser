@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T16:31:57+00:00",
+  "generated_at": "2026-04-24T17:38:43+00:00",
   "fx": {
     "nzd_per_usd": 1.693228,
     "as_of": "Thu, 23 Apr 2026 00:02:31 +0000"
@@ -8542,6 +8542,18 @@
   "news": {
     "nz": [
       {
+        "title": "Is NZ close to phase 2 of the fuel response? Some experts question if we should already be there - Stuff",
+        "source": "Stuff",
+        "published": "Fri, 24 Apr 2026 16:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOWFuS0xVSFRxY0ZHblBseHpuRXZ1YXNiblNnR1E3anpha3B5ZHFlcTFnRzAxTjJsVGtWejNjN3d1aHRrTkFZS2djZ1ktLUFpSVRLNjZjREFINzRKWlFDcDh3RTNibmZ1NGo0ZzhGYzhCTWFpcFMzY0paNXJvTE9ldkJ2VjEzZmpYTGZIVW41VkQ2ZnpRRUZkNGQ2R0NmeWd2UWttUk45bVRldVcwRFNMMjFQOV9BWFREU3loSlBCRENHdw?oc=5"
+      },
+      {
+        "title": "Govt reveals worst case oil shock economic scenarios for NZ - 1News",
+        "source": "1News",
+        "published": "Fri, 24 Apr 2026 11:54:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQVRfa1BSMDJXVDczekFncnhwQXRHZ3dWcm5helhNTkJDWlJHS0dva0RsUVl4clJBZGh0bUtKYjZFMUk0b25qWXNyNTNxei1JQ2N5cFJoUlk5dXNETXNpOFpwTmQzNVEwanc1VmtlVFRob1N2V2p5VnJ6U1FSVGlxTEVfSm5KQVUyT1NNNFN4ZENrdzlTdTRrMWJ1cw?oc=5"
+      },
+      {
         "title": "No diesel, no power: why the global oil shock is hitting NZ’s small Pacific neighbours hard - The Conversation",
         "source": "The Conversation",
         "published": "Fri, 24 Apr 2026 01:22:00 GMT",
@@ -8552,12 +8564,6 @@
         "source": "NZ Herald",
         "published": "Thu, 23 Apr 2026 06:05:11 GMT",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNkdUZERlX0VsbEx4VWszQ1BTbXRZOFc3VXp6SWw3UkpuMHRPRzVTZzhjZHp3S2VpY1J5Tl9YQkxwcTBabW5SVnpjYkR3WlNMaF8tcUM5WC05VjU5OTJOZ1hCZWJqeUlBZWQxcHlVOXZVLXA0VUpxSDR6clNvSU11Mjl2b3hmQXJ5a05QNWV4Qnl0dW05TkdQc0JqaER4SXlqVTVwVjJNRHY1aUJKTVRXaHRTTWdRUFY2cTM1TlhWQXAyaVRiWHl6UVNwbWFWVEVQQXZid3B6dXFQN1hXOGJ2UA?oc=5"
-      },
-      {
-        "title": "Govt reveals worst case oil shock economic scenarios for NZ - 1News",
-        "source": "1News",
-        "published": "Thu, 23 Apr 2026 03:18:24 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQVRfa1BSMDJXVDczekFncnhwQXRHZ3dWcm5helhNTkJDWlJHS0dva0RsUVl4clJBZGh0bUtKYjZFMUk0b25qWXNyNTNxei1JQ2N5cFJoUlk5dXNETXNpOFpwTmQzNVEwanc1VmtlVFRob1N2V2p5VnJ6U1FSVGlxTEVfSm5KQVUyT1NNNFN4ZENrdzlTdTRrMWJ1cw?oc=5"
       },
       {
         "title": "Fuel supplies 'stable' despite stock drops across all types - 1News",
@@ -8582,18 +8588,36 @@
         "source": "The Post",
         "published": "Tue, 21 Apr 2026 20:54:56 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZkRNc3VXQVZja2paVWQ3YjFaU2R6MnU5U1FHQ09vZTJfYUNteGxfc21VWkFQYlRsQmRrbExISUE4eEttUWl4WUdxSU1GZ09pTTE3MW9nVlg1SGQtTWRmcW91ZzRxTXFmUUpUWWFYOFd0anIwdGpZanlhdkNDbWN1cEtETi1DQ1hPNkowS2tYMkxTME5hcXp0WWFpMVd2QUFfT2VrYjZJV28?oc=5"
-      },
-      {
-        "title": "Air NZ boss wary of increasing fares but confident in jet fuel supply amid crisis - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Tue, 21 Apr 2026 00:36:07 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbFNmS0NNY21YNkV0WXQxVjJGQUw0R3RaY2VvMC1FbFA2eWtKUFhGbGlwdmhwTm5YdUdudXpRVUljaENMMm5qa0VLbGZOZWJKRlRkcEN2TU1oWDFEMWRVRkdrVjdJdTNnZXFleUxkSWNUWExad0tRck51OG9mNHBXNnl0a09McjJ1Wl9sYTBTd1FmQUFJanhnRlI4VFdaQjNaNGpMV1RLVjNvemw5X19WMnQ4ZHRldG1NYUhDMEQ5UGtGWjFPaXZuSmhneDhSVll4WEQtMENBbE5JQlhqemZjekRJdnhtX1hZ?oc=5"
       }
     ],
     "global": [
       {
-        "title": "Crude Oil Prices Slip on Hopes US-Iran Peace Talks to Resume - Barchart",
-        "source": "Barchart",
+        "title": "Navigating the Strait of Hormuz: U.S. Sanctions and Global Oil Markets - Buchanan Ingersoll & Rooney PC",
+        "source": "Buchanan Ingersoll & Rooney PC",
+        "published": "Fri, 24 Apr 2026 17:33:11 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWmVMQW9Vc1pTX1ctMm84MWJ2U1F6UDRMZ0dsUFZhQlRLLThiM0lTQ1BCaTNqU2Vkb2NsQ3BBNUotR1lyMG5vcVFnSkRveHBjWU9YMlVNbmdEZ3ZMbDBsNWVqVVlaekhwUlBPYlh2TjJEaUVJci1iOV9HaWR3VTdmSk1pVjlxbkVrQl9nVGFsWGdRamRh?oc=5"
+      },
+      {
+        "title": "US Oil Drillers Scale Back as Global Supply Crunch Continues - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Fri, 24 Apr 2026 17:11:28 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWVpNQW9EY0Fja01QdnMycGhCd3E3M1Y0Snpsc3YweE41RUFIMmE0OUFaaEV2SnVSemo0Y1dQQlVkUjNiVHoyYkZsRmkzZjExcENSeHVjZlo1cU9qYzQzbUh4dkxKOVVvNUlaWl9oZ1FCQmo1a01RbHpkRlhzSWh5MlIxb0Y2TVdmUnhyY0xUTGpOdE5wekVfaUNHV0NxVE9oNS1RREhR0gGrAUFVX3lxTE9QM3Noazd4YWx5Wl8xS3N3dzN1YWhnaWRZMHAtOEp5UlBlWDNmNnN0MHUyZ29XTDR6R3gzcVQtWGN0ZzU5UHRlVjE1TUxtYkhMSmlLeUEzMjdzWjdYQ0N4SXVVQXBsYW9Bc01uSjVMQnktMlh5U1M2MjVyNjY4UjRmMjdXSmdnTEx4VVdQWTdVeHpodkdXcW5BRl9uak92MjJwVVFEeGZEeF9Iaw?oc=5"
+      },
+      {
+        "title": "Russian oil exports slump as Ukraine hammers ports and refineries - Al Jazeera",
+        "source": "Al Jazeera",
+        "published": "Fri, 24 Apr 2026 16:56:12 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUFpRTI4WDZhekJUTm1KdGVjNzZiQ3BkR0FySWMzNHlyd1N4SnZTMGpXV2pWRjdQZnYxRUJpM0REUmZxbXFFakRFbG9ZRDJVeWVqM25LcmV3ZURPbWZlXzkxOUhEN0NnOVpwWVdNcU5vakJhazZOVmN5VG5GLVZ0WFAxQ0RXd2pwc1JTYlFOam1raV9CS25lTXQweXhYcUNjWlIzajJzQ013RjgxQS1F0gG0AUFVX3lxTE1UZmFPY2IyMnZvd0lDRmFFVk9HdDhsVnA2RmlfZW52Mkk1allGS0M4RmZ3RHRva01lQmhMZjhCdTFfdnJtNUlBekx5MUJfa09HTE56WURvdGNheDN3Y1Y5SlVVU19SUnFwUWFnYTlUNEZaVDVZQ01DUElDTENMZE9lUnZ1WkYxbFRoTUJxU3dITlFJa014a3liMnkzcFBSNWdwR1RNOFFmOXZINVQyeDM5Y1NjZQ?oc=5"
+      },
+      {
+        "title": "WTI Oil declines as fragile Iran-US talks, weakening US sentiment temper upside - FXStreet",
+        "source": "FXStreet",
+        "published": "Fri, 24 Apr 2026 16:45:42 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR1YwdG1BRmxNdldmTW5LMnlBYjNYTHRnZWRZOXhKUk11Zi03SloyeWM4bGdXREdTTnhSTFRMMnhibDcwWGk3Z0w3OW1JQmZDZGtxZXJfM3JQZU55OFI4X0I2WGtTWnNUT3NkbHJMZnRRa2pXQmVXWWtkLUhWRklyUFZCc3BzR0p4NlAxUFdBdnh5THJSLXJjUVFvajBsVTd5dWFmblVPSVBiUUJhMm0ySmkxZktreUxreWF3aDFB?oc=5"
+      },
+      {
+        "title": "Crude Oil Prices Slip on Hopes US-Iran Peace Talks to Resume - Barchart.com",
+        "source": "Barchart.com",
         "published": "Fri, 24 Apr 2026 15:30:10 GMT",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNejJ4TlF5a1J5TlU0Q05zZU1jd2UyRjlfcHMwNUNIT1FZckt5NVNzc2ZtNGYwVWh3Z2g4d0lYb05vUEFSZmpVOVlleGJwRU9Qc2dqYno0VFFNal9yZ2k5N0RjRG02ckJHYWhMd2FtMkxzaHc4dHJfVlBKRXNHZTdIaVU0MlNTYWJONkFiekJ2d1dmbE1ZcVI3YnpRTmhueWJTUlBlT2ZxVQ?oc=5"
       },
@@ -8610,34 +8634,10 @@
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGRRaHA5c25DV0xRZHgwRENDbmVOWFN4ZjNMME9qbTR4X2NOZjZ0YW0yWUludXFxU2RjMnh3MnhaSlFxb3MyWUFSZU1JdFl3UWV2VktKVWJ2RktzRExiZnhRU3VsdnVRUTc0dXlrVEx1X0RadDFwSENZUjJEX2gxXzVWazNXQ3ZWWWlqUTBkUFVkUmF4VUpDVzRhdEt6UjRJbFVYTkpWTV9LcEg3ak9J?oc=5"
       },
       {
-        "title": "Brent Oil Surges Past $105 Amid US-Iran Tensions, Focus on Exxon - GuruFocus",
-        "source": "GuruFocus",
-        "published": "Fri, 24 Apr 2026 15:19:48 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUlhFajAxYUhvNzRQanZRa0FwTzZQSEVQSzM2ZFhsbGRxSEUzdEJNQW1DRlc3MDlob3VNaDVTYXBqcDRuUU5VUjZ3TWFLYmdGdDZ3MUxqZFlaXzNoOFp1ckE1dERyalpQRjFQVS1lWDBjLWJXVU40SzFnakdDVDd5OVktMU1XQ3I2WVAxRmY5a1dhekFzVnE5WFc1SG1kOWctTEY4OFljMUg?oc=5"
-      },
-      {
         "title": "Middle East war: 6 ways countries are responding to the historic energy shock - The World Economic Forum",
         "source": "The World Economic Forum",
         "published": "Fri, 24 Apr 2026 14:05:37 GMT",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZGpoQlNNZWhKYmEybkp1VDNncXg2ekZmZmdWMGd0N21pTzdtdm5FTW9QQjR1R3JGeWZ4eTVIMl9OQzhhdEJQS2FOVXRzYTNLYmFVRGFkc09vcWdwa2RhUHZWZl9JeFY5UVFCZVgwbFJMZHZxcFVmemdvZVdEaVNqX3ZYV1BCRUxqeWhnNTZSWTdHWExUdU9JT0wxZjdYSGQ0b3BSZFhLZw?oc=5"
-      },
-      {
-        "title": "A surge for Intel sends tech stocks higher on Wall Street and crude oil prices swing some more - Union-Bulletin",
-        "source": "Union-Bulletin",
-        "published": "Fri, 24 Apr 2026 13:35:39 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOb3BOeXVfLUJsNmh3ejMtNXpHd1hRZ0NGTzVDS1hybmwybzlFTDVkTUJPaGRSTWF0WS02RXdnMFpwRHdiTHB2Z1lIeHZKU0t3T1FObnRJaVQ0VnVzaXpEc1VYMTlwTTF1QlZDMGJfandxaS1YQ21RU21fdGEtWXRWakM0MFhCakVINUNOY29tN0loRWNMU2lnZ0tMQVNibWVZdXM0OF92dWxucW1Da3RPMHdHcUpFOTZoZWtFSGlRZUlNZ2lnWTJsUFo3bFdsemZoZFB6bTQ5TVhBbUtrd1JOTl9IU0M1WU1hYzJnUVZzNDdxYWlkdTBKSjctYTNlTFE?oc=5"
-      },
-      {
-        "title": "Brent crude oil spot prices surge past futures price in April - U.S. Energy Information Administration (EIA) (.gov)",
-        "source": "U.S. Energy Information Administration (EIA) (.gov)",
-        "published": "Fri, 24 Apr 2026 13:02:32 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HSTVJZEhFT1U4Y2t2WFJRTjl0eFN5alpTQWZ6bE52MkIzVHp0VFJUTGtjejdOQjZuRE9pNlhBOXZvbEVQQVBSX3o0Z1NJMU4xNFFvelJYZ2ladEJhbC05emhMRQ?oc=5"
-      },
-      {
-        "title": "Current price of oil as of April 24, 2026 - Fortune",
-        "source": "Fortune",
-        "published": "Fri, 24 Apr 2026 12:58:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LQkZxSl9yallwbTJJOXFPNC1RbVVlbnlUUlRPWlZ6cnQ4ZjlQa1VaamRzcmtFbHJzZG81OXhqcHZnTG90TzhQdXB5LXlzZ0lNZnREOGc0cUZzQWt3aDU3UVBR?oc=5"
       }
     ]
   }
