@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-04-24T18:31:32+00:00",
+  "generated_at": "2026-04-24T18:53:48+00:00",
   "fx": {
-    "nzd_per_usd": 1.693228,
-    "as_of": "Thu, 23 Apr 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.705346,
+    "as_of": "Fri, 24 Apr 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 105.41,
-      "latest_date": "2026-04-23",
-      "delta_1d_pct": 3.43,
-      "delta_30d_pct": 14.6,
+      "latest": 99.15,
+      "latest_date": "2026-04-24",
+      "delta_1d_pct": -5.63,
+      "delta_30d_pct": -1.3,
       "series": [
-        {
-          "date": "2025-04-23",
-          "usd": 66.12
-        },
         {
           "date": "2025-04-24",
           "usd": 66.55
@@ -1021,20 +1017,20 @@
         },
         {
           "date": "2026-04-23",
-          "usd": 105.41
+          "usd": 105.07
+        },
+        {
+          "date": "2026-04-24",
+          "usd": 99.15
         }
       ]
     },
     "wti": {
-      "latest": 96.35,
-      "latest_date": "2026-04-23",
-      "delta_1d_pct": 3.65,
-      "delta_30d_pct": 10.43,
+      "latest": 94.45,
+      "latest_date": "2026-04-24",
+      "delta_1d_pct": -1.46,
+      "delta_30d_pct": -1.34,
       "series": [
-        {
-          "date": "2025-04-23",
-          "usd": 62.27
-        },
         {
           "date": "2025-04-24",
           "usd": 62.79
@@ -2041,45 +2037,49 @@
         },
         {
           "date": "2026-04-23",
-          "usd": 96.35
+          "usd": 95.85
+        },
+        {
+          "date": "2026-04-24",
+          "usd": 94.45
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-04-23",
+    "as_of": "2026-04-24",
     "regular_91": {
-      "avg": 3.275,
+      "avg": 3.288,
       "min": 2.98,
-      "max": 3.509,
-      "count": 76
+      "max": 3.559,
+      "count": 94
     },
     "premium_95": {
-      "avg": 3.49,
-      "min": 3.099,
-      "max": 3.699,
-      "count": 48
+      "avg": 3.499,
+      "min": 3.179,
+      "max": 3.779,
+      "count": 69
     },
     "premium_98": {
-      "avg": 3.554,
-      "min": 3.509,
-      "max": 3.599,
-      "count": 4
+      "avg": 3.59,
+      "min": 3.379,
+      "max": 3.719,
+      "count": 15
     },
     "diesel": {
-      "avg": 3.454,
-      "min": 3.189,
-      "max": 3.999,
-      "count": 79
+      "avg": 3.445,
+      "min": 3.209,
+      "max": 3.899,
+      "count": 99
     },
     "lpg": {
-      "avg": 3.199,
-      "min": 1.897,
-      "max": 4.0,
-      "count": 3
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 39,
-    "observations_yesterday": 163,
+    "observations_today": 0,
+    "observations_yesterday": 269,
     "observations_older": 8
   },
   "mbie_waterfall": {
@@ -8566,12 +8566,6 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUmN0TENrbDM4NFl3RXJ5MDVHYkw3VVJYS2poTmh4YVJHNmU5LXFiWE5iT296NV92d0lPRmVxYUZ1Q0U5OFlzNENlQTZLSzVTTVY2MFEyeTYtWHZOTTZmSjZ3bE5lT3NLQ3J0ZUVIOTNWNm4wVnhqSWRtb3ZIRERVWlpWdUVuUUE0eExxMlN0TlZTMmw3Z1NmVFJGN2ZkSmdjZm5KWkI3UDZqZHJGQ0NTaE9jdE1IaWFqVVdKZDF1Z2Q?oc=5"
       },
       {
-        "title": "Why have fuel prices fallen lately and will it last? - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Thu, 23 Apr 2026 06:05:11 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNkdUZERlX0VsbEx4VWszQ1BTbXRZOFc3VXp6SWw3UkpuMHRPRzVTZzhjZHp3S2VpY1J5Tl9YQkxwcTBabW5SVnpjYkR3WlNMaF8tcUM5WC05VjU5OTJOZ1hCZWJqeUlBZWQxcHlVOXZVLXA0VUpxSDR6clNvSU11Mjl2b3hmQXJ5a05QNWV4Qnl0dW05TkdQc0JqaER4SXlqVTVwVjJNRHY1aUJKTVRXaHRTTWdRUFY2cTM1TlhWQXAyaVRiWHl6UVNwbWFWVEVQQXZid3B6dXFQN1hXOGJ2UA?oc=5"
-      },
-      {
         "title": "Fuel supplies 'stable' despite stock drops across all types - 1News",
         "source": "1News",
         "published": "Wed, 22 Apr 2026 04:01:24 GMT",
@@ -8588,14 +8582,38 @@
         "source": "The Post",
         "published": "Wed, 22 Apr 2026 01:30:12 GMT",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb2dMQ3E0cVNwRDZncVBJbmVLZkljcWx1czJ3YTFmcGtNVzNzRXEzN3hrbk1SMVJCQUxRU19LQlNxVHlXZ2tVOUF0TGNwbTUxMC1EMVRYbnIwc01DZkdPS0wza0dYay02MHd2SFdiVTJDcHZDVU1Memd1YnJZZmlpcFNFdHlfWFpjXzJWM21uWmJFUlJtTElFN3FhMA?oc=5"
+      },
+      {
+        "title": "The fuel ships heading to New Zealand. Here’s when they arrive - The Post",
+        "source": "The Post",
+        "published": "Tue, 21 Apr 2026 20:54:56 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZkRNc3VXQVZja2paVWQ3YjFaU2R6MnU5U1FHQ09vZTJfYUNteGxfc21VWkFQYlRsQmRrbExISUE4eEttUWl4WUdxSU1GZ09pTTE3MW9nVlg1SGQtTWRmcW91ZzRxTXFmUUpUWWFYOFd0anIwdGpZanlhdkNDbWN1cEtETi1DQ1hPNkowS2tYMkxTME5hcXp0WWFpMVd2QUFfT2VrYjZJV28?oc=5"
       }
     ],
     "global": [
       {
-        "title": "US imposes sanctions on a China-based oil refinery and 40 shippers over Iranian oil - Toronto Star",
-        "source": "Toronto Star",
-        "published": "Fri, 24 Apr 2026 18:13:24 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNbUxtQWt2VExBNF90NTRWZlJ4d2tTVFA5WF9KQ2taV01hU1NJNnhqRDVTLTd0b0tIYmk5V3Yyd09KX0pGUUJOOHBSTFo5NFNjUlN4MDdYVVdzeXo2VEpYSm5RNlRBUGZ5UEp1ZjFZVFlQNW1CLXFuZFVYek9Ibm05ZjNwZkVoNkM4c3RwNEYxRVVNSkpJTFV1WXUwWDJOcnlwVGJPVzdUa2s1anUwcHRsRlJLbm5rNE9RYXpDS3VRbk9CMXJmWHZnaUVqUEh3b0thR05TMnlQSDdLSVRJYy1WSmZpOGFwOTFabjhPS3dobWNpdmgxcXNRdDhNUm9ORWxNd0MxRl93TE4tNlh6MmJj?oc=5"
+        "title": "Japan securing alternate crude oil supply line amid Middle East conflict - lokmattimes.com",
+        "source": "lokmattimes.com",
+        "published": "Fri, 24 Apr 2026 18:51:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRlFjM3RDOG5ZaF95ZnBQa2s1SHJIVDF1VDk1b2pIekU2bGQwYlVCZzZUb2h5RTJCRUJVT2ZkVVViM2wyR0JFZHMyVGxUUFdXTXBOMDIxMVNvNTR6c1RUd2dXajZOMkxYd0dMV2FPdWxZb3FkMXdGSlFFZ1JXM250cW5maFRIWHItdWt3T3BzNXVpX3ZzVllEck5fczgwUGE1Qzc1cGFTdTJBZUdGY3NEZEdLT1NBQdIBuwFBVV95cUxOQzNtYVFtNDl3d01mZm1PUkVwZDdpMWRkdWFlMGlMbktOb2hzdmx6bXFIckg1dHRKQ0FvRmtIeUlnWk5kclpwUGNycS0yRDRkYkJUZEJLN0N4d1hXZjdNV0QtbTBQSXFmN1hxWkpnd0x2SFlfNktGek9fTDlKSjBGR3l4NGZzZVFMRmhLa0d6MGtUVFctYjR0Vlh5ZVB4M01GbFBUYjJPZnhkclhUMEtPZEdFZUhKbksyUVlv?oc=5"
+      },
+      {
+        "title": "US sanctions Chinese refinery, 40 shipping firms for Iran oil - Latest news from Azerbaijan",
+        "source": "Latest news from Azerbaijan",
+        "published": "Fri, 24 Apr 2026 18:45:31 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUVY4M1VVNUxYTlJoUzM0MVk1YXEwV3otcVlmMFgycHU1OHhNby13UV80bVRBZGtNSmxkMUhpeGhYMkNPbzItWGJKRG1kaFRKREYtTWNNdnJmNUtuSEloSnM3LV9xMnNGdVQ2aHJ1Qnk3Rk9vYmpVOG0xdFFVd0o4V3BmVWdJYmtT?oc=5"
+      },
+      {
+        "title": "US imposes sanctions on Chinese teapot refinery for buying Iranian oil - Reuters",
+        "source": "Reuters",
+        "published": "Fri, 24 Apr 2026 18:37:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNek5hSnM4QjlRSWpSdFcySk5iQ21HM1lVVVdpTEV6dkwwenNIOExENnBrTFhGNHJVT0NyR3hmMEQyMTkyWTF0RHhRdnhqRUxDOEtOdGtoVE1aTE02eWtZMFRpQnduVG5nc0RCMmZXRUhOd3Uxbk15bGVNeVZnOVY5eWNZUWFMMElWUG94Zm1PenByTGd1SlE3QTI3WWVQOFh1ZHo4ZzRoOWtTUUhQNjBPLVk3ZkRHZw?oc=5"
+      },
+      {
+        "title": "June WTI Crude Oil Contract Closes Down US$1.45; Settles at US$94.40 per Barrel - Moomoo",
+        "source": "Moomoo",
+        "published": "Fri, 24 Apr 2026 18:33:40 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcG5yT3g4SFRKX2htOUV6LW9ET2Rpb1M1T3QxYWExVWxIVF9CdmhxS2NWdmlJTjhmSUhVUmxjSEhaRC1qb0pndzlEZFlZNm8tYU9OUm05YmJhcXR5bkVQXzNRc21hLXFudEMyTDl3Ynd4UGJ4TnduLUhNWjZCMzZwamZBTHA2ZkNoaERJRFI1aXY1SGc?oc=5"
       },
       {
         "title": "US imposes sanctions on a China-based oil refinery and 40 shippers over Iranian oil - Ottumwa Courier",
@@ -8604,10 +8622,10 @@
         "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOLVJFRnhXRFpYRTlKamVkV2ZYdzJCUmNLQ3czYk5KOVN6UjBySUVmTFBnTnh6WklCcXV4QkJDcVlSVUEtR0I0NWlaazVoeUhfaUlmRmtteGJzSWE4Ui05dFBRc0x4ckg5WjR5d2U0VURRRTlxVDRjeG5GTGo0WTdLSm03ZlZQMmF6eV9sUUtBVjFKR25QWnFMVHJNYkl4UkJRZWd0RzVqRFRyRjdFTnRBbGFYNkd5NGU2eWlldERNaEFZbkpYcTBFVDdzMmw0LVowcHd6OERPSF9hUFFxaWdTYWhrTnduVldnejlOTWE4QnBsT3FqSEJOWXk2WkZheGlpQXpWRFhFd3hTQQ?oc=5"
       },
       {
-        "title": "US imposes sanctions on a China-based oil refinery and 40 shippers over Iranian oil - WKMG",
-        "source": "WKMG",
-        "published": "Fri, 24 Apr 2026 18:12:52 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU3BqU1dPMmNUUlozSmRKVTkzaWNobzlLdFUtR1MwMm1HV0VDZGVVMF9fMGwyV2ZVSlN0QWFMaFUwQ3dHWHJMVUVuRXFwOURRV19ZUnRacVJLT0lYbEM4R2F5T2ZtZEUzQmtLaGRHMWphVDFFZDBoUHpDM3U1Rzl5dzNPR1lSNkN6ZEdvd3FjMXF1eC1ZbVNZX2V3SFVnci13NzdpSzl1azZhVHlqc2w5dW43X18zTkNLQnkzeVRNZ0VBR1V0SC1WRTdqa0NBU0M5bzJHcA?oc=5"
+        "title": "US imposes sanctions on a China-based oil refinery and 40 shippers over Iranian oil - AP News",
+        "source": "AP News",
+        "published": "Fri, 24 Apr 2026 18:12:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd1Y2QlpOSmdJS3I4ZVJ3VC1zc0NYMkpKU2RLUEZ2anVqS0l4WFNqXzQzdmhMVV9wZ1JjRDM4S3VULUxabjRqa1k4YjFFaUd5Q1lTbEx5am1adTR0YjZGdGhBUmUxLVdyUGxjMXp4UmJFQUYzNWtCdGdpc29DRzZQT1pIX2t2bVNfcG50aW9RbWhxb0NSSXk2dDB3V09fd04xLWRV?oc=5"
       },
       {
         "title": "Colombia's Oil Industry Eyes Comeback as $100 Crude Revives Investment Case - Crude Oil Prices Today | OilPrice.com",
@@ -8620,24 +8638,6 @@
         "source": "Buchanan Ingersoll & Rooney PC",
         "published": "Fri, 24 Apr 2026 17:33:11 GMT",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWmVMQW9Vc1pTX1ctMm84MWJ2U1F6UDRMZ0dsUFZhQlRLLThiM0lTQ1BCaTNqU2Vkb2NsQ3BBNUotR1lyMG5vcVFnSkRveHBjWU9YMlVNbmdEZ3ZMbDBsNWVqVVlaekhwUlBPYlh2TjJEaUVJci1iOV9HaWR3VTdmSk1pVjlxbkVrQl9nVGFsWGdRamRh?oc=5"
-      },
-      {
-        "title": "US Oil Drillers Scale Back as Global Supply Crunch Continues - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Fri, 24 Apr 2026 17:11:28 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWVpNQW9EY0Fja01QdnMycGhCd3E3M1Y0Snpsc3YweE41RUFIMmE0OUFaaEV2SnVSemo0Y1dQQlVkUjNiVHoyYkZsRmkzZjExcENSeHVjZlo1cU9qYzQzbUh4dkxKOVVvNUlaWl9oZ1FCQmo1a01RbHpkRlhzSWh5MlIxb0Y2TVdmUnhyY0xUTGpOdE5wekVfaUNHV0NxVE9oNS1RREhR0gGrAUFVX3lxTE9QM3Noazd4YWx5Wl8xS3N3dzN1YWhnaWRZMHAtOEp5UlBlWDNmNnN0MHUyZ29XTDR6R3gzcVQtWGN0ZzU5UHRlVjE1TUxtYkhMSmlLeUEzMjdzWjdYQ0N4SXVVQXBsYW9Bc01uSjVMQnktMlh5U1M2MjVyNjY4UjRmMjdXSmdnTEx4VVdQWTdVeHpodkdXcW5BRl9uak92MjJwVVFEeGZEeF9Iaw?oc=5"
-      },
-      {
-        "title": "Russian oil exports slump as Ukraine hammers ports and refineries - Al Jazeera",
-        "source": "Al Jazeera",
-        "published": "Fri, 24 Apr 2026 16:56:12 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeUFpRTI4WDZhekJUTm1KdGVjNzZiQ3BkR0FySWMzNHlyd1N4SnZTMGpXV2pWRjdQZnYxRUJpM0REUmZxbXFFakRFbG9ZRDJVeWVqM25LcmV3ZURPbWZlXzkxOUhEN0NnOVpwWVdNcU5vakJhazZOVmN5VG5GLVZ0WFAxQ0RXd2pwc1JTYlFOam1raV9CS25lTXQweXhYcUNjWlIzajJzQ013RjgxQS1F0gG0AUFVX3lxTE1UZmFPY2IyMnZvd0lDRmFFVk9HdDhsVnA2RmlfZW52Mkk1allGS0M4RmZ3RHRva01lQmhMZjhCdTFfdnJtNUlBekx5MUJfa09HTE56WURvdGNheDN3Y1Y5SlVVU19SUnFwUWFnYTlUNEZaVDVZQ01DUElDTENMZE9lUnZ1WkYxbFRoTUJxU3dITlFJa014a3liMnkzcFBSNWdwR1RNOFFmOXZINVQyeDM5Y1NjZQ?oc=5"
-      },
-      {
-        "title": "WTI Oil declines as fragile Iran-US talks, weakening US sentiment temper upside - FXStreet",
-        "source": "FXStreet",
-        "published": "Fri, 24 Apr 2026 16:45:42 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR1YwdG1BRmxNdldmTW5LMnlBYjNYTHRnZWRZOXhKUk11Zi03SloyeWM4bGdXREdTTnhSTFRMMnhibDcwWGk3Z0w3OW1JQmZDZGtxZXJfM3JQZU55OFI4X0I2WGtTWnNUT3NkbHJMZnRRa2pXQmVXWWtkLUhWRklyUFZCc3BzR0p4NlAxUFdBdnh5THJSLXJjUVFvajBsVTd5dWFmblVPSVBiUUJhMm0ySmkxZktreUxreWF3aDFB?oc=5"
       }
     ]
   }
