@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T08:53:19+00:00",
+  "generated_at": "2026-04-24T10:42:34+00:00",
   "fx": {
     "nzd_per_usd": 1.693228,
     "as_of": "Thu, 23 Apr 2026 00:02:31 +0000"
@@ -8542,6 +8542,12 @@
   "news": {
     "nz": [
       {
+        "title": "Govt reveals worst case oil shock economic scenarios for NZ - 1News",
+        "source": "1News",
+        "published": "Fri, 24 Apr 2026 09:56:11 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQVRfa1BSMDJXVDczekFncnhwQXRHZ3dWcm5helhNTkJDWlJHS0dva0RsUVl4clJBZGh0bUtKYjZFMUk0b25qWXNyNTNxei1JQ2N5cFJoUlk5dXNETXNpOFpwTmQzNVEwanc1VmtlVFRob1N2V2p5VnJ6U1FSVGlxTEVfSm5KQVUyT1NNNFN4ZENrdzlTdTRrMWJ1cw?oc=5"
+      },
+      {
         "title": "No diesel, no power: why the global oil shock is hitting NZ’s small Pacific neighbours hard - The Conversation",
         "source": "The Conversation",
         "published": "Fri, 24 Apr 2026 01:22:00 GMT",
@@ -8552,12 +8558,6 @@
         "source": "NZ Herald",
         "published": "Thu, 23 Apr 2026 06:05:11 GMT",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNkdUZERlX0VsbEx4VWszQ1BTbXRZOFc3VXp6SWw3UkpuMHRPRzVTZzhjZHp3S2VpY1J5Tl9YQkxwcTBabW5SVnpjYkR3WlNMaF8tcUM5WC05VjU5OTJOZ1hCZWJqeUlBZWQxcHlVOXZVLXA0VUpxSDR6clNvSU11Mjl2b3hmQXJ5a05QNWV4Qnl0dW05TkdQc0JqaER4SXlqVTVwVjJNRHY1aUJKTVRXaHRTTWdRUFY2cTM1TlhWQXAyaVRiWHl6UVNwbWFWVEVQQXZid3B6dXFQN1hXOGJ2UA?oc=5"
-      },
-      {
-        "title": "Govt reveals worst case oil shock economic scenarios for NZ - 1News",
-        "source": "1News",
-        "published": "Thu, 23 Apr 2026 03:18:24 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQVRfa1BSMDJXVDczekFncnhwQXRHZ3dWcm5helhNTkJDWlJHS0dva0RsUVl4clJBZGh0bUtKYjZFMUk0b25qWXNyNTNxei1JQ2N5cFJoUlk5dXNETXNpOFpwTmQzNVEwanc1VmtlVFRob1N2V2p5VnJ6U1FSVGlxTEVfSm5KQVUyT1NNNFN4ZENrdzlTdTRrMWJ1cw?oc=5"
       },
       {
         "title": "Fuel stock still stable despite another fall, government says - RNZ",
@@ -8592,22 +8592,28 @@
     ],
     "global": [
       {
+        "title": "WTI Crude Oil Futures Rise 1.6% to $97.35 Pre-Bell; Brent Futures Climb 1.9% to $107.07 - marketscreener.com",
+        "source": "marketscreener.com",
+        "published": "Fri, 24 Apr 2026 10:01:51 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORGE2Z2NkczBPQ1hKRWFDT2Rfb1Y1WUlnNjZOSzE0TV9OcUVxQzZGXzcwejZpM1hBM2gxX0pZaFozMTBNQnNiV1BRdUFOTkNDakllV0c2ZVFUb2FZdDhZYlJDSzloN19JNUg3MVN6eW9qeW94dGJDRGhwSG1QczA5ZUJZbkhVWmxLRHBuWWtoQUVna3A0azRBVUVxRzlFdExRS0NTakxlYjVQOUxQNE5raEpIemxkb1hkYVE2QkZIT0U1SnBsQ0VURmIxVEhrUThW?oc=5"
+      },
+      {
+        "title": "Hormuz standoff chokes 20% of oil supply - France 24",
+        "source": "France 24",
+        "published": "Fri, 24 Apr 2026 09:46:23 GMT",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XVGlMNFNjVHBPcmdJSHJpV1htck1ZN1htMkE1V0ZrZDlCZU40ZjNEWVFqLXBBWDNZVjRYVHNMcjhtUGpwbTZJWU5Nc203MG5rRFBjOHNtUEYySEg4STk0UzJTMEo0ZWptdEppdVhOdXlOcXJ3d1E?oc=5"
+      },
+      {
+        "title": "Pakistan Turns to Russia and Venezuela as Middle East Oil Supplies Shrink - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Fri, 24 Apr 2026 09:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX0MzZ04tZHBrT3UyS0ZxOEpRNFRXaVZpYW9VRzdkQW9ESTNNNHY2aFd5WnJOWTB0Z01pdEljWU5NbElJRnNvWE9Zd0t2SnBVSk5GemFxb1N6VnpUM0lnb2FLa1NTTC1Bc2FIVUxoemhJRzk4Njl3RmxIdWRlYkJRZk9Zb2V4aEl5VHNpSUlLLURRbjJWMzhFT0IzMGwtbUE2MVpRQTNySWJ3Q0oteEtQZGxtMlE2SjBiUFpRQUE5R1NQTHpWN2VPWtIBzgFBVV95cUxPUzdxdGR1Zy1zakdFOTFrYk5lOWpHclFTY2tRZG1WVlpCeDBVYllIRjV0SlNBLXhwaHlVOG1ucnZJc0NFc1JrcmFFNHJCWE05QnZmRUZoQ2NuLVpia3Jkc090TGRmX3oxVDhtNWpvYWd2Ri1mT2pZTlJ5WlVWbVBoRHI0ZEs5UGQ3ei1xQmF3bllObmVYck53ejEyU1l1SlV0eVhkOS1ob0ZhcU5oTEFuSWhVNk1WWE9OaHVBcWdZejZnZnFocng1TnRrTkhOQQ?oc=5"
+      },
+      {
         "title": "Brent Tops $106 as Iran Tensions Escalate - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Fri, 24 Apr 2026 08:05:02 GMT",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOckdiZ0ZJdEtrQV9UanhBZ0F5OXpadlNQZDhBYXJzU1VMSlhrZWJhTFQzX3F2bEJjWXVjUk1tcE9RN25NdG1HMVNkNXVia015ZU5hZHpsSjRIX1pXT0hBWGlaNVgzT0tOeXlxajFsckVpWTBZZElPWWxBSWhPRGtlQlBsM1VCd1N2UXl3Y2FCRURBbzhxc1BxTEowRWrSAaIBQVVfeXFMT3NWMF9LOHdrbHBwbERjb0RSbWFiNC1mTDVNeHBwY1Z4NTZKRmxjM2o1OTAyeFZPdnFKaExqejJGT1c2UWpjV25zLW9rRnZsakJZMnFXM3BTeW8wQ09yeTZLbS1GVWZXNnQyWENndlJ5U1NqbUdUYjEzSG5Gd3ZNeDQybGwzc0daSnYzV09jSE5aZkFBc2tkVkxTMmJhWmlCNmNR?oc=5"
-      },
-      {
-        "title": "WTI Oil eases to levels near $94.00, but remains close to two-week highs - FXStreet",
-        "source": "FXStreet",
-        "published": "Fri, 24 Apr 2026 07:57:39 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSVlra0pJeVBtVHQxREMxQUNDZ0QyZWZUQndxdDdFTDJzc2EyZWsyN1Ntc0RsTmkwcGJaN0s2OVh5STBua1VhVHl0MXlQTTFPa0lGVmtGUWhpa2hvUV81Rzk5eXROUnJSdVl5RllzSFdOY2k3ZGdHdUIxT1pYaHBqRUtKSFhMT05BemE0MkZtN3hTVWJCNS0wa21xZGFnVnVFQUlJRDZSZERfUUZTRDEtOU9R?oc=5"
-      },
-      {
-        "title": "Why US action in the Middle East has handed power to the regime it intended to suppress - Fuel Oil News",
-        "source": "Fuel Oil News",
-        "published": "Fri, 24 Apr 2026 07:37:51 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSlFfV1lOTUdTNmtObmhsakFIZkc4S2VEMWhkOUJHTFZ2OWoxM2NrVUxGU0pNaVRsVTUxQlREd2VqSUNrRDROWHI5d3I2eThwWEhsT1JMTWRzcjA5UmkxUWtyMVV5NWdydWZCMjJnSjNTeEpDendYZEVXZ3ZvbUN1TWZXQW5MdXFQNWdacmJ3dnZGYUpXZWhBaTFha3ZyVTJnSVRlbXBVSFpJeE5yMXhxeTQ0NlllcDFONFI3aE53VQ?oc=5"
       },
       {
         "title": "Fuel shortages from the Iran war are hitting California and the West Coast—and help is years away - Fortune",
@@ -8632,12 +8638,6 @@
         "source": "Anadolu Ajansı",
         "published": "Fri, 24 Apr 2026 06:12:46 GMT",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb3VfWUkwRjF0eThjTHlpbkk0bzg0QVIzdmo4VFdXWVFJSzhTeVpzYURvNHVfY1g1RGp6VnYycTdpX1FBal9ibVFTZ2RGOHNDUGd3SGU2NnRNRkpXWnQ3ZmYtcWg5aTAxTXNrR1dvMVVMcGthVFRGcjB0MFdONWFxTUZiOHotSGZTYl90ZlRhSHdMVmVMeVM3cjMwcF9zOGU3MWRhMXhGYUtTd1JNbkp2QTdn?oc=5"
-      },
-      {
-        "title": "Oil rises above $106 per barrel as US, Iran deadlocked in Strait of Hormuz - Al Jazeera",
-        "source": "Al Jazeera",
-        "published": "Fri, 24 Apr 2026 02:53:32 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeXluQXBPWkV5SnAzQmxhaWNmRFpqMUhFdExSSG5Eb0QtSko0VmlRTUg5NTNlYm42RXJKVFVYYVRaNkhzNmF5TXFNMkNXTzVRRlk4TlM1V3BvNjB4bGxoTVBXUFZhLVNuR2lYeTZNdHB0QXZDZTh5QnJaZ3g3ZUxQWFlyY2F3UUpPMXpxNlFRVTJpclNUSzhrU205cHUtVnNEa2VLbDNaVGhzSU5EZ2dsUDVsRGl5ZlXSAbwBQVVfeXFMTUlHak5mdG5WZ2NoT3dvZHppdVpyVFdURUd1SEFKaTBBcFNKZlhIeU5SN2xwdllOQW1KeGtTVkVia3JjamMyTHFEMmxVSlRvN1hEbXlib2xsUUZVRzRubFY3NW9KM3RYckFnM0U4d2hZcVc4SVV0b1pKT05UbnBlMnFfTTI0QkhESkFnU3J1dGt2bGtqOGpLb2s5V3l3V1UxX2ZieHVPLUZkdTMwOHNld1llc05KM1pmRnEzdnE?oc=5"
       }
     ]
   }
