@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-04-25T17:53:20+00:00",
+  "generated_at": "2026-04-25T18:54:23+00:00",
   "fx": {
-    "nzd_per_usd": 1.705346,
-    "as_of": "Fri, 24 Apr 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.701285,
+    "as_of": "Sat, 25 Apr 2026 00:02:32 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 99.15,
+      "latest": 105.33,
       "latest_date": "2026-04-24",
-      "delta_1d_pct": -5.63,
-      "delta_30d_pct": -1.3,
+      "delta_1d_pct": 0.25,
+      "delta_30d_pct": 4.85,
       "series": [
-        {
-          "date": "2025-04-24",
-          "usd": 66.55
-        },
         {
           "date": "2025-04-25",
           "usd": 66.87
@@ -1021,20 +1017,16 @@
         },
         {
           "date": "2026-04-24",
-          "usd": 99.15
+          "usd": 105.33
         }
       ]
     },
     "wti": {
-      "latest": 94.45,
+      "latest": 94.4,
       "latest_date": "2026-04-24",
-      "delta_1d_pct": -1.46,
-      "delta_30d_pct": -1.34,
+      "delta_1d_pct": -1.51,
+      "delta_30d_pct": -1.39,
       "series": [
-        {
-          "date": "2025-04-24",
-          "usd": 62.79
-        },
         {
           "date": "2025-04-25",
           "usd": 63.02
@@ -2041,36 +2033,36 @@
         },
         {
           "date": "2026-04-24",
-          "usd": 94.45
+          "usd": 94.4
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-04-24",
+    "as_of": "2026-04-25",
     "regular_91": {
-      "avg": 3.288,
+      "avg": 3.264,
       "min": 2.98,
-      "max": 3.559,
-      "count": 94
+      "max": 3.419,
+      "count": 81
     },
     "premium_95": {
-      "avg": 3.499,
+      "avg": 3.509,
       "min": 3.179,
-      "max": 3.779,
-      "count": 69
+      "max": 4.229,
+      "count": 62
     },
     "premium_98": {
-      "avg": 3.59,
+      "avg": 3.599,
       "min": 3.379,
-      "max": 3.719,
-      "count": 15
+      "max": 3.899,
+      "count": 16
     },
     "diesel": {
-      "avg": 3.445,
-      "min": 3.209,
+      "avg": 3.407,
+      "min": 3.189,
       "max": 3.899,
-      "count": 99
+      "count": 86
     },
     "lpg": {
       "avg": 0.0,
@@ -2079,8 +2071,8 @@
       "count": 0
     },
     "observations_today": 0,
-    "observations_yesterday": 269,
-    "observations_older": 8
+    "observations_yesterday": 207,
+    "observations_older": 38
   },
   "mbie_waterfall": {
     "week_ending": "2026-04-03",
@@ -8610,10 +8602,16 @@
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMF9yUlpoTzU2N0FOZHI4TnlWVng2Y18wbExIbjBmV05GUlFkaHI1NkVSQXA2Y0NwNEJnRzR6YU5xV0hEdk4yakxlcGZVNEVfajJldEdXY3k3aXNzMmJGc29pTFNyS1d2ME9saHlDWkVTUzI4MW8wbTJWUndQaVlxMllmdmUxOEREZmNEZkpOc1N1dU00a092N052T3o2amVKLWEyVW15bkw5dw?oc=5"
       },
       {
-        "title": "Iran war disrupts supply chains, raises global medicine prices - Crypto Briefing",
-        "source": "Crypto Briefing",
-        "published": "Sat, 25 Apr 2026 08:32:43 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWlB2VG9NN296SFlaaUJkT0pkdEM2Z1pUa01ra1pYcUptbU4zdVF6RzlJMnJHZmdSbkd4cEVjVkNQVVc2SGtadWNFeEV0UnJfbTgzNjhEOEdSMmZybnVCWXZxb28zN21nOG9yN0U2ZHFEYVlQZ1VZNzJ2WFRUMXRVeG9yUUV3UlJSaXNYSmR6Snk3ck0?oc=5"
+        "title": "U.S Sanctions China-Based Oil Refinery, 40 Shipping Companies & Tankers Transporting Iranian Oil - Marine Insight",
+        "source": "Marine Insight",
+        "published": "Sat, 25 Apr 2026 10:40:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb05HOGhqakxMZmloV2JkY1RsOHdoNjY3Zjh2emw5SkQyRmRodWZkYlIzRkF6Ulg0ODRkS1pReGc2Nk1UMmdwN3JSd2dOM1ZoLWY4WTBWRU5DeV9aZzRwdU03RkpLUHhYcTRXY0N0cFNXbFFzZzIyNDNQVGstOG9aN3N1Wmd6UmF3M2xQYnF5X2xXeVZobklLWEJlR0llaGQ1am9XV1AxTWRXdy03aDU3S1FJMGRhVEV2bUFCZDdzOThwUQ?oc=5"
+      },
+      {
+        "title": "US sanctions Chinese ‘teapot’ refinery over Iranian oil purchases - Türkiye Today",
+        "source": "Türkiye Today",
+        "published": "Sat, 25 Apr 2026 10:12:11 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS3g2RElOdldUXzZFZG9mYnhrTk02S3g5cjRZZktmLXU5N25fNFZ2b0JNS0FOZTQ0ZGNrV19fX3h0dFVreFltdjMwU0NXZWxWRjRfaU56TXRvdmpyYXgtelZnUFVpdTg0VTFfcUVrYUIyTWc2MUxBbG5VYThNOE9XNlNCbVVuTFAxejJIRndma1QtOTBoRmlWYlRlTloxcmVldXpBajlUNkR2QQ?oc=5"
       },
       {
         "title": "US sanctions China’s ‘teapot’ refinery for buying Iranian oil - Al Jazeera",
@@ -8632,12 +8630,6 @@
         "source": "madhyamamonline.com",
         "published": "Sat, 25 Apr 2026 05:15:06 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd2YxS3BOdEN3eENXZzBoM3JIaFZWVnpHR0JVbkw1V3NZbXNiSmJzb2tEQ2tWRFQ1Vkp0OWlPMXdfMzRiNnNlZHlGemxiWFNBOWZKQUtOOXdOZm1qQ21POUt4NERHN3Q0Rndvb3FOYmFYZVNGQzhrV04ySmMzY3p1NVNTV19JQ3RrRWxwZkZ0TURMb0h4SVhzb01BYmg3MVlXNUHSAacBQVVfeXFMT3VpMG9jblpmZGdDcWRuQ1A5RUZuUWx5R2ViTWc1N002d3lKaVBnc2ZDeUtYb29iMWxta01LNUxaMUdjQnNRQ2FaUm5VQWEtQlVWbHVyWVJ5M3BqZ1hnQlB0ZzNMRmRlYjNEWGc4MVNMZzZFNm9ZSjl0cXBIUU1OMWZnUmJnazZESURLaFhvbndKeGN5MGt4bFdtTHEyMC1xMF9iRHh0aTA?oc=5"
-      },
-      {
-        "title": "US Sanctions China Refinery, Iran Shadow Fleet Ahead of Talks - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "published": "Sat, 25 Apr 2026 04:41:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS3pnNG8wZDRxcWZqUmtFNEd4bUttc1lYdzVKY05wUmxuYks1LThvY3g3aVp4VVQ2dlRUZmt3bTRpcHFnZ29pR216a1Z0bF9ReXNWOXdDUjJraElMRkppX2dfNEU2czdaOXlxS3hhU0p6aG1pTkoxUVZaNDNWOTVEMS10czh4dkFBNTI5ckExWDJmVEpzYUhHT3RMTnNDdGo5QU9Sd0FTR2ZEb3BlS3E3aQ?oc=5"
       }
     ]
   }
