@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T18:54:23+00:00",
+  "generated_at": "2026-04-25T19:07:34+00:00",
   "fx": {
     "nzd_per_usd": 1.701285,
     "as_of": "Sat, 25 Apr 2026 00:02:32 +0000"
@@ -8534,12 +8534,6 @@
   "news": {
     "nz": [
       {
-        "title": "Is NZ close to phase 2 of the fuel response? Some experts question if we should already be there - Stuff",
-        "source": "Stuff",
-        "published": "Fri, 24 Apr 2026 16:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOWFuS0xVSFRxY0ZHblBseHpuRXZ1YXNiblNnR1E3anpha3B5ZHFlcTFnRzAxTjJsVGtWejNjN3d1aHRrTkFZS2djZ1ktLUFpSVRLNjZjREFINzRKWlFDcDh3RTNibmZ1NGo0ZzhGYzhCTWFpcFMzY0paNXJvTE9ldkJ2VjEzZmpYTGZIVW41VkQ2ZnpRRUZkNGQ2R0NmeWd2UWttUk45bVRldVcwRFNMMjFQOV9BWFREU3loSlBCRENHdw?oc=5"
-      },
-      {
         "title": "Govt reveals worst case oil shock economic scenarios for NZ - 1News",
         "source": "1News",
         "published": "Thu, 23 Apr 2026 03:18:24 GMT",
@@ -8570,16 +8564,22 @@
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZkRNc3VXQVZja2paVWQ3YjFaU2R6MnU5U1FHQ09vZTJfYUNteGxfc21VWkFQYlRsQmRrbExISUE4eEttUWl4WUdxSU1GZ09pTTE3MW9nVlg1SGQtTWRmcW91ZzRxTXFmUUpUWWFYOFd0anIwdGpZanlhdkNDbWN1cEtETi1DQ1hPNkowS2tYMkxTME5hcXp0WWFpMVd2QUFfT2VrYjZJV28?oc=5"
       },
       {
-        "title": "Air NZ boss wary of increasing fares but confident in jet fuel supply amid crisis - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Tue, 21 Apr 2026 00:36:07 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbFNmS0NNY21YNkV0WXQxVjJGQUw0R3RaY2VvMC1FbFA2eWtKUFhGbGlwdmhwTm5YdUdudXpRVUljaENMMm5qa0VLbGZOZWJKRlRkcEN2TU1oWDFEMWRVRkdrVjdJdTNnZXFleUxkSWNUWExad0tRck51OG9mNHBXNnl0a09McjJ1Wl9sYTBTd1FmQUFJanhnRlI4VFdaQjNaNGpMV1RLVjNvemw5X19WMnQ4ZHRldG1NYUhDMEQ5UGtGWjFPaXZuSmhneDhSVll4WEQtMENBbE5JQlhqemZjekRJdnhtX1hZ?oc=5"
-      },
-      {
         "title": "Small fall in diesel and petrol stocks, jet fuel up in latest update - 1News",
         "source": "1News",
         "published": "Mon, 20 Apr 2026 01:43:28 GMT",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUEhFZUF2YVJ5N2w2cllPM3d5Q19qU2NWeEZ0SVJxRm9MQ3ozWlB5b0ZLMzBwOG9Jc2RmQ0xpeTVHaENid2s4b0pkRWhSM2FuS3I0Z0NGVG91TVJLNU1wNDViTWdpU3ExblFnMFdCOFJEVkxqcEhpc2pWLU9FMmpKTzRkVWFBUklOR19OWG5CaGlOY21nTU5nejRITmJ1U3RzcHJFM05R?oc=5"
+      },
+      {
+        "title": "Petrol arrives, NZ fuel stocks steady, as Hormuz chaos continues - Stuff",
+        "source": "Stuff",
+        "published": "Mon, 20 Apr 2026 01:37:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMTdGdkp4Y3BJcDkwTlFBZjRVb2ZHbnVxc0lMaVZxMC1yRWJJWEplMmViUUdiN1BxLUNrbGJTNzdBc0xidEJTd05nQWNyaEI1bUs5a3FmcTczWFRrQnM0eW5SUFJNeVlYMUE1R2lVRFNJSlVvbVBMeEJYLUU0cmtjN2Zyci1mVURZNHFRc0tfc3dsaE1jM0pBMWRTR1RVT2NuZkdXVQ?oc=5"
+      },
+      {
+        "title": "Petrol and diesel stocks fall slightly, jet fuel rises - RNZ",
+        "source": "RNZ",
+        "published": "Mon, 20 Apr 2026 01:25:59 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdkh1OE9Fa2hQTG9QUlZiUlhHNGVITUFRYzV5VTFuek9YNENiV19uT0NWNDBtT2RkaklvdlNiYmRNemd2ZWlFYWx1OGFCc3NFUUc3cWhNaVYyNk93NmRXUmROWmt0ZXFWcVJhV2VSVGJ6T0VYTmJzdGFsWFdxQm1ON19Gd2xiMGdaRWdRQmpqTXpIN2ZPemNnM3U1QUo?oc=5"
       }
     ],
     "global": [
@@ -8608,16 +8608,10 @@
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb05HOGhqakxMZmloV2JkY1RsOHdoNjY3Zjh2emw5SkQyRmRodWZkYlIzRkF6Ulg0ODRkS1pReGc2Nk1UMmdwN3JSd2dOM1ZoLWY4WTBWRU5DeV9aZzRwdU03RkpLUHhYcTRXY0N0cFNXbFFzZzIyNDNQVGstOG9aN3N1Wmd6UmF3M2xQYnF5X2xXeVZobklLWEJlR0llaGQ1am9XV1AxTWRXdy03aDU3S1FJMGRhVEV2bUFCZDdzOThwUQ?oc=5"
       },
       {
-        "title": "US sanctions Chinese ‘teapot’ refinery over Iranian oil purchases - Türkiye Today",
-        "source": "Türkiye Today",
-        "published": "Sat, 25 Apr 2026 10:12:11 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS3g2RElOdldUXzZFZG9mYnhrTk02S3g5cjRZZktmLXU5N25fNFZ2b0JNS0FOZTQ0ZGNrV19fX3h0dFVreFltdjMwU0NXZWxWRjRfaU56TXRvdmpyYXgtelZnUFVpdTg0VTFfcUVrYUIyTWc2MUxBbG5VYThNOE9XNlNCbVVuTFAxejJIRndma1QtOTBoRmlWYlRlTloxcmVldXpBajlUNkR2QQ?oc=5"
-      },
-      {
-        "title": "US sanctions China’s ‘teapot’ refinery for buying Iranian oil - Al Jazeera",
-        "source": "Al Jazeera",
-        "published": "Sat, 25 Apr 2026 07:13:24 GMT",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ0RBNU1aTXFkVm0yQXBLWVpRZ1FZQ2NfbVZNWjZ2WEU0Sjl0V25WVEd5SEpBY1Q0RWRwTGNMZXpuTTYwTkZrX0tzQTZCd0cwaXFySjZWU0QzZ2YwNzJfRWZ6Y3RWU0JjTmltUVYxWlNKMjNaMTBqSXhfX2I2RzRycUVMMDg5cjhmWG9wUllYbExDTnlJM3k1a210d3EtMmZt0gGmAUFVX3lxTE85SWRMdjBpZWJ0WXg2M001QmJYOXRNRmtzVktxeWt5VVZCRDZia1N4ZWtBYnFULWZYdzZsbFNQWG9IZTJjVjhIcDBlckVmZnlLMkZVSWlnNTQxRjgtUFBTZFJFaEhsazFOcnZVZEpJaU9xemVSVGs2MUpmaDdqQzlGMlVRWkd1QlJLU2IxUGg0R2ZIWWNZR1dkV2ZTbDh5UjUwUEtBX3c?oc=5"
+        "title": "Iran war disrupts supply chains, raises global medicine prices - Crypto Briefing",
+        "source": "Crypto Briefing",
+        "published": "Sat, 25 Apr 2026 08:32:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWlB2VG9NN296SFlaaUJkT0pkdEM2Z1pUa01ra1pYcUptbU4zdVF6RzlJMnJHZmdSbkd4cEVjVkNQVVc2SGtadWNFeEV0UnJfbTgzNjhEOEdSMmZybnVCWXZxb28zN21nOG9yN0U2ZHFEYVlQZ1VZNzJ2WFRUMXRVeG9yUUV3UlJSaXNYSmR6Snk3ck0?oc=5"
       },
       {
         "title": "Rising diesel costs from Iran war hit Maryland fishing industry - Crypto Briefing",
@@ -8630,6 +8624,12 @@
         "source": "madhyamamonline.com",
         "published": "Sat, 25 Apr 2026 05:15:06 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd2YxS3BOdEN3eENXZzBoM3JIaFZWVnpHR0JVbkw1V3NZbXNiSmJzb2tEQ2tWRFQ1Vkp0OWlPMXdfMzRiNnNlZHlGemxiWFNBOWZKQUtOOXdOZm1qQ21POUt4NERHN3Q0Rndvb3FOYmFYZVNGQzhrV04ySmMzY3p1NVNTV19JQ3RrRWxwZkZ0TURMb0h4SVhzb01BYmg3MVlXNUHSAacBQVVfeXFMT3VpMG9jblpmZGdDcWRuQ1A5RUZuUWx5R2ViTWc1N002d3lKaVBnc2ZDeUtYb29iMWxta01LNUxaMUdjQnNRQ2FaUm5VQWEtQlVWbHVyWVJ5M3BqZ1hnQlB0ZzNMRmRlYjNEWGc4MVNMZzZFNm9ZSjl0cXBIUU1OMWZnUmJnazZESURLaFhvbndKeGN5MGt4bFdtTHEyMC1xMF9iRHh0aTA?oc=5"
+      },
+      {
+        "title": "US Sanctions China Refinery, Iran Shadow Fleet Ahead of Talks - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "published": "Sat, 25 Apr 2026 04:41:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS3pnNG8wZDRxcWZqUmtFNEd4bUttc1lYdzVKY05wUmxuYks1LThvY3g3aVp4VVQ2dlRUZmt3bTRpcHFnZ29pR216a1Z0bF9ReXNWOXdDUjJraElMRkppX2dfNEU2czdaOXlxS3hhU0p6aG1pTkoxUVZaNDNWOTVEMS10czh4dkFBNTI5ckExWDJmVEpzYUhHT3RMTnNDdGo5QU9Sd0FTR2ZEb3BlS3E3aQ?oc=5"
       }
     ]
   }
