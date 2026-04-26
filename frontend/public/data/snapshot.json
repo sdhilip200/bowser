@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T11:09:13+00:00",
+  "generated_at": "2026-04-26T12:01:11+00:00",
   "fx": {
     "nzd_per_usd": 1.701285,
     "as_of": "Sat, 25 Apr 2026 00:02:32 +0000"
@@ -8534,12 +8534,6 @@
   "news": {
     "nz": [
       {
-        "title": "Is NZ close to phase 2 of the fuel response? Some experts question if we should already be there - Stuff",
-        "source": "Stuff",
-        "published": "Fri, 24 Apr 2026 16:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOWFuS0xVSFRxY0ZHblBseHpuRXZ1YXNiblNnR1E3anpha3B5ZHFlcTFnRzAxTjJsVGtWejNjN3d1aHRrTkFZS2djZ1ktLUFpSVRLNjZjREFINzRKWlFDcDh3RTNibmZ1NGo0ZzhGYzhCTWFpcFMzY0paNXJvTE9ldkJ2VjEzZmpYTGZIVW41VkQ2ZnpRRUZkNGQ2R0NmeWd2UWttUk45bVRldVcwRFNMMjFQOV9BWFREU3loSlBCRENHdw?oc=5"
-      },
-      {
         "title": "No diesel, no power: why the global oil shock is hitting NZ’s small Pacific neighbours hard - The Conversation",
         "source": "The Conversation",
         "published": "Fri, 24 Apr 2026 01:22:00 GMT",
@@ -8580,9 +8574,33 @@
         "source": "NZ Herald",
         "published": "Wed, 22 Apr 2026 01:19:21 GMT",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUWhJdDBydk9YUmFWbDdoZ2tFRkkxSmk4YktoM2RFUERuTTVLTE53dmkxQjROSUZFdjZyUUwyTzhMbk81ek5FWTZrZ0ZZU0NLYkFxbXd4VW9NTE82YkMwWEx4Q0NlX3pFZGo5ZWhxQ1BtMlpjcWc1QURDcDN5NjJOdWxOZmNRUGhvdVAtYnp3elVUTmkybWhkS1VoWk9vb2xJRC1kbFZBUmQ5VWhKUF9Ia2NVT1NmLWhUel9mZHhQZDk?oc=5"
+      },
+      {
+        "title": "The fuel ships heading to New Zealand. Here’s when they arrive - The Post",
+        "source": "The Post",
+        "published": "Tue, 21 Apr 2026 20:54:56 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZkRNc3VXQVZja2paVWQ3YjFaU2R6MnU5U1FHQ09vZTJfYUNteGxfc21VWkFQYlRsQmRrbExISUE4eEttUWl4WUdxSU1GZ09pTTE3MW9nVlg1SGQtTWRmcW91ZzRxTXFmUUpUWWFYOFd0anIwdGpZanlhdkNDbWN1cEtETi1DQ1hPNkowS2tYMkxTME5hcXp0WWFpMVd2QUFfT2VrYjZJV28?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "China's Hengli Petrochemical denies trade with Iran in response to US sanctions - Reuters",
+        "source": "Reuters",
+        "published": "Sun, 26 Apr 2026 11:16:08 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU1p0SFVlSExOVVpncXI1SEZpUkxnQ1BHUTFfQlVnRUt3QW5SY0dLdndfamFfbzI3WDdqcEk4M1VfWjF4N2ZWN1ZxLTA0cEdONWdsYmo2aTZscjlyZE11MXBDZzFfWEloaER2S0hOMm9LODNreE9mbC1kNWNRZmJDdUxFMmx1czN4WS0tUENfU3ZXSFdHdXF3STNYRjZtR2VtSWtHV0lWQ1Z6eWUxczlCbWFuN3ZYZ3paZVB4aVhtLThYUQ?oc=5"
+      },
+      {
+        "title": "The great energy pivot: US oil and Chinese solar are the winners in Trump’s war on Iran - The Guardian",
+        "source": "The Guardian",
+        "published": "Sun, 26 Apr 2026 11:01:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU2lEUHB1ZDV6VXhJeDRRZWE3OEhhLTBTZFFxNllucDBCblNwa2FUaVItYTBuQ1h1WWdCMU9UbXNQdDJEOGVaQXltUEVIOE5XdVlEOTEwajBEdFZsaUVFd0d6OXRGajh1UHpjcUM5aWJaS3I2MTZTVGxwWmp1cUZHbkNuUUJCWGRWX2VGYWVkNnpqQXIxVTRpQm9YejJfUjNnVVBsRk9ENEE1d2owQ3NKcE9qR0o5SXNqUGJz?oc=5"
+      },
+      {
+        "title": "Crude Oil Weekly Forecast - 26/04: New Tension (Chart) - DailyForex",
+        "source": "DailyForex",
+        "published": "Sun, 26 Apr 2026 09:05:51 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVy01YkxTSHhJSjAxRVpVNTNsdVUwX1d3VEZEdk5tdEx1VHAxaWdlS2tXTnRRLVJ4alFxclZGeTQtTWM3OW1IY0dDTEh0ZEJzZ1VCbFp1U0VoZUNSb1o3U0lSRHRDWGkwbnZsZHI0YkhFNDhxbjBYemRZMmNDZk9UdVJUaWlBTjRNWldlLWV2ODFaRjNJWmtnelpqdEtmelY5bm9wS0xIa25RVlVZU2hyV3hESU9ydEFsNW5IU244blk?oc=5"
+      },
       {
         "title": "U.S. Sanctions Zigzag in New World of Economic Warfare - The New York Times",
         "source": "The New York Times",
@@ -8602,34 +8620,16 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNlpXQzVTcURpVnpad05LT3RidU9qMjdlSi1GdUdRYzdqTUF0Ni1URXVYbExjQS1PbVlhR2Z4Q0FHbFlFcENpdEdVUTV3LWRlZGh0bXkxaHo5SjRuQjIwNGN0WU5uSnFDSEo1Q3dndmRSRnliUm4tZUpKaF9kTk5TQ0ZUcTBLTWJ2bHZ6QzQ4YmtJTWp3LTdNaA?oc=5"
       },
       {
-        "title": "India plugs oil gap as Middle East supplies sink - NonStop Local Billings",
-        "source": "NonStop Local Billings",
+        "title": "India plugs oil gap as Middle East supplies sink - The Mountaineer",
+        "source": "The Mountaineer",
         "published": "Sun, 26 Apr 2026 04:48:52 GMT",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbTN2amtJN3IyVGREeU5FYVhjYUxoY3dCZHVvd1V5aWdqeDlOZ0tBSFdVR195YWl1cmRweWxoRFlMb3g1TmtHNFl4QnJQc3E4WDlpTVlHTkk5dHNHWGt0dUFNOHhVMDRhOVAyUEFLd1ExNTRHSkVITkc5STl3aTNQREQ2eWVCMDJ2cFVTWEdBQ1hVU0hNVzFmcjlzVFJ2UEtwVl8xbEl6RkNrTDh6OURROXFRZnJSdEFFdGczS2wzQW9PNzdRR09mOFR0bjRqOG8?oc=5"
-      },
-      {
-        "title": "US Imposes Sanctions on Chinese Refinery, 40 Firms Over Iranian Oil Trade - Daily Pioneer",
-        "source": "Daily Pioneer",
-        "published": "Sun, 26 Apr 2026 01:20:22 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa290N2pzbVEtZjg3Y0NpRng0ZFJpUGwxai1mSzdqUjNfR1JrcGdWSW5XR01STkFSeUNZNHBwRmFjdDRiU19rVHpxNkVUcm4tUjBjcEZHYjFRWDlpMUN1TkJXdm5oUVpaU1RSekFRQWV5c0QwM1J4cXBBX0N5R2wyaGFGa0pxTHZvc0JwYTdOWU9QMFJyT0VRbk9IUQ?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNem8wdGU3dGw2clhlN2JmMkVibm00eGFLSHpNZEhxdUFtT3BNN1JWbFdGN2EybXhlWE92UEZ3NDZneVFFUjEtN0JPam9oUDE1cEVWSWFId1FQOHJNWWE4UU52ZW5VczdOWm91dDNnODNPMXdBams4Wm5zb2x2b01vS0tjaGxTX2NjRWVRX1FQSTVZeGZ5SXBPT2NKRkc1R3p4VjNVbkVseTdVeEVOVklDeFlQYXIwbDhLMms4U2ZpaExXTGxxRFJKTUxzcTZ1QW5mY3pwZ0xFN21uZTA?oc=5"
       },
       {
         "title": "Iran tensions and oil supply issues fail to boost WTI crude price outlook - Crypto Briefing",
         "source": "Crypto Briefing",
         "published": "Sat, 25 Apr 2026 22:52:08 GMT",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb3VrcG44OE14MlZ2UjJ0Qy1SM3Z3RFBBV3JOa184N1ZtSldnREhaX0JRRWw5bUxPbjhOaXpEQ25tYmpXZk1lZzA1Q0pJMVF6Z19mTWV4NkVCQ1VRdU4xeFlFODVNVVJab1c0MkV4cGRmd0JOWGFFemRuNUNUdDFBekUzemVpSmtuSFdCTGhHVGJyNnZUZkpZd3JxT190QUc5bDZN?oc=5"
-      },
-      {
-        "title": "Empty oil tankers divert to US amid Middle East supply disruptions - Crypto Briefing",
-        "source": "Crypto Briefing",
-        "published": "Sat, 25 Apr 2026 20:40:36 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNlo1X2pnZEFIc2g1d2pObmF6alVvREdTU0JBYmFfZmNtNkRPVmh1R2dwazZ5a3VKTkRiUmoyY1BGUmhodlJSaldWR044ekI5Z29LR1BxckVpYklXZWcwaWZGYkFzWE1LMHgxREs0RFlONTlvXzVaT09kWnFKd2kzNFhqZnJIclFPVzlQclN2QXdXZnoxRk5oV1N3?oc=5"
-      },
-      {
-        "title": "U.S. imposes sanctions on Chinese 'teapot' refinery for buying Iranian oil - CNBC",
-        "source": "CNBC",
-        "published": "Sat, 25 Apr 2026 18:49:47 GMT",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE82N3VXSVhmM1AyQW83ck90WDE3MUVXSGljX2ZEUUVJQ1g4V3hhYnZJWVpPbUdKd2F1SHFhQUZYekFHaXBSdnY5WEs1bmtMdHFWXy15bjdKVXJ4V3U0QlBuUWdYZ0p4azR4ampGWE9sd3I4QdIBd0FVX3lxTE9kWnpIRzU5MWo1cVFvV2pMUy02YzlDTmM5M0N2Tkp5UUFnellKLTdOSXJxMjJDT2JJTkVqQ1MxbGUwdDRiZHBER0hHRnlOUEVaMTk4UVFNY20wcWRKVzFRZWlhSUQ4M1hxZmg0V0IySDdxekpZdWE0?oc=5"
       }
     ]
   }
