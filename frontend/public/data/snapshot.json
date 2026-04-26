@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T20:01:13+00:00",
+  "generated_at": "2026-04-26T20:54:20+00:00",
   "fx": {
     "nzd_per_usd": 1.701374,
     "as_of": "Sun, 26 Apr 2026 00:02:32 +0000"
@@ -8526,6 +8526,12 @@
   "news": {
     "nz": [
       {
+        "title": "Latest breaking news | New Zealand - Stuff",
+        "source": "Stuff",
+        "published": "Fri, 24 Apr 2026 16:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOWFuS0xVSFRxY0ZHblBseHpuRXZ1YXNiblNnR1E3anpha3B5ZHFlcTFnRzAxTjJsVGtWejNjN3d1aHRrTkFZS2djZ1ktLUFpSVRLNjZjREFINzRKWlFDcDh3RTNibmZ1NGo0ZzhGYzhCTWFpcFMzY0paNXJvTE9ldkJ2VjEzZmpYTGZIVW41VkQ2ZnpRRUZkNGQ2R0NmeWd2UWttUk45bVRldVcwRFNMMjFQOV9BWFREU3loSlBCRENHdw?oc=5"
+      },
+      {
         "title": "No diesel, no power: why the global oil shock is hitting NZ’s small Pacific neighbours hard - The Conversation",
         "source": "The Conversation",
         "published": "Fri, 24 Apr 2026 01:22:00 GMT",
@@ -8566,12 +8572,6 @@
         "source": "1News",
         "published": "Mon, 20 Apr 2026 01:43:28 GMT",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUEhFZUF2YVJ5N2w2cllPM3d5Q19qU2NWeEZ0SVJxRm9MQ3ozWlB5b0ZLMzBwOG9Jc2RmQ0xpeTVHaENid2s4b0pkRWhSM2FuS3I0Z0NGVG91TVJLNU1wNDViTWdpU3ExblFnMFdCOFJEVkxqcEhpc2pWLU9FMmpKTzRkVWFBUklOR19OWG5CaGlOY21nTU5nejRITmJ1U3RzcHJFM05R?oc=5"
-      },
-      {
-        "title": "Petrol and diesel stocks fall slightly, jet fuel rises - RNZ",
-        "source": "RNZ",
-        "published": "Mon, 20 Apr 2026 01:25:59 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUDcwaFFqQTg5ejdZVnlEN01MTnJDYTJxRDJxQnVoVjg5cFFWbWlqckpXUERYSWwxWExmNFZJLXEydUphb1ozSHBpcXBxSUdlTm1VT3g0Sk44dlV3TllfeTEzTHFuN3JyaHY0VVBDZldyUm5RRFc3Yzc0TWVfam1EUFZtdkIzbXN4YXVRV044RExtUFQ5VFFIa3R0aFQ?oc=5"
       }
     ],
     "global": [
@@ -8588,28 +8588,10 @@
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNem8wdGU3dGw2clhlN2JmMkVibm00eGFLSHpNZEhxdUFtT3BNN1JWbFdGN2EybXhlWE92UEZ3NDZneVFFUjEtN0JPam9oUDE1cEVWSWFId1FQOHJNWWE4UU52ZW5VczdOWm91dDNnODNPMXdBams4Wm5zb2x2b01vS0tjaGxTX2NjRWVRX1FQSTVZeGZ5SXBPT2NKRkc1R3p4VjNVbkVseTdVeEVOVklDeFlQYXIwbDhLMms4U2ZpaExXTGxxRFJKTUxzcTZ1QW5mY3pwZ0xFN21uZTA?oc=5"
       },
       {
-        "title": "U.S. oil sanctions swings add uncertainty for markets, global trade - Seeking Alpha",
-        "source": "Seeking Alpha",
-        "published": "Sun, 26 Apr 2026 16:31:11 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZnhZV0YyZWgxNjhuZ0VPb1BITDFTMTdHbjh4LWVYUC1GYU9hRmNCR19WSDhrODVpRTRKcGFaRFlDWWJkdnBzNHV4WTBsZWpFRTkwSldNb01qaWx2TVhqYy1Vb2ZweTFial9JekM2aGNzYnFvYlRTeTZCNHNuV1AtV2hDa2hNRUkwRG50LVQ5c0JiNEpRZWdsYnlGbXh4Rmo0ajl1NllR?oc=5"
-      },
-      {
-        "title": "China’s Hengli denies Iran oil trade after US sanctions on unit - MSN",
-        "source": "MSN",
-        "published": "Sun, 26 Apr 2026 16:28:28 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPakdwN1Bvd3d6dVJ3QlU1SHZKRUNocENFc2tkVHV0dHlzT1FIaV9DU2c1Y0kzbTdPcHlpTzRUSWhoTWZyNHdKOENYX0NNd1piZTB0b21nZEhGTXBGT0U3a2ZsNEpMU2tlV3VrUTFvMXhUZFZsbE9LSGNiYTlNbEVZcXpGUGkwWl9wZ0xiRWJPeVRPWEZPU3JXeTVQdmxzSy1HX1l4cTcyZXdFYm54cGpfZlM3ZzUzejZ3QnJPdlNlR1Q3NlotZUNJN3VhUVJ0Rk9VZjl6dlNBbU4?oc=5"
-      },
-      {
         "title": "China’s Hengli denies Iran oil trade after U.S. sanctions on unit (CL1:COM:Commodity) - Seeking Alpha",
         "source": "Seeking Alpha",
         "published": "Sun, 26 Apr 2026 16:13:34 GMT",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSjVvS3pnMmRweDNPQzJwbjBncHBJWFFyQUtzSllKZWM3RkI4VmFhMTdSM3ZnLVhNeUMwU2J5TXV4WEdCVUVwRzVHMzZhSWdzNWRCQlNqaVJsTzluVTBwQWI3bDk5Uy14clY1UHdYaUU0Q1ZPcllJUElhWWpKVHpMQTFEZ2Q1N0NrdnBwcGdpeERJWDZIQlNsRkdQdk5ESUhxWWpkaQ?oc=5"
-      },
-      {
-        "title": "China's Hengli Petrochemical denies trade with Iran in response to US sanctions - Middle East Eye",
-        "source": "Middle East Eye",
-        "published": "Sun, 26 Apr 2026 11:26:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTW0yMFI5WTBHWlVmbVpSeXZIRG10bGxubkZac2JieGtibktpMnFRSE9zYnV0WExrQUVUanJVTFdCMGRrNXNqS1pxempmMEhDSnd4QUVlSF9NNzJnajBSSlFSS1draG91UDlULWJaZjZTUUFwT3AxRmw4XzF3LTE5VFdrN1hEQkVoTjBjdXE0NXdjU0FYTW1GaXRjMEdnY2lzS3U0aFBYUUpmRnJxSUNMdFZSbXJBb0ZhcWpmSjhLR2tmQQ?oc=5"
       },
       {
         "title": "The great energy pivot: US oil and Chinese solar are the winners in Trump’s war on Iran - The Guardian",
@@ -8622,6 +8604,24 @@
         "source": "DailyForex",
         "published": "Sun, 26 Apr 2026 09:05:51 GMT",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVy01YkxTSHhJSjAxRVpVNTNsdVUwX1d3VEZEdk5tdEx1VHAxaWdlS2tXTnRRLVJ4alFxclZGeTQtTWM3OW1IY0dDTEh0ZEJzZ1VCbFp1U0VoZUNSb1o3U0lSRHRDWGkwbnZsZHI0YkhFNDhxbjBYemRZMmNDZk9UdVJUaWlBTjRNWldlLWV2ODFaRjNJWmtnelpqdEtmelY5bm9wS0xIa25RVlVZU2hyV3hESU9ydEFsNW5IU244blk?oc=5"
+      },
+      {
+        "title": "U.S. Sanctions Zigzag in New World of Economic Warfare - The New York Times",
+        "source": "The New York Times",
+        "published": "Sun, 26 Apr 2026 09:02:30 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObEVaNzVGdzFGMExjUkhOeVB6T3hrcmZDVk1DUnVGSGdmaFhJdXRWdHdYd3dWdlJxQ082UzF0SkxWdDhRRi15THExMzIxanR6RDZzT2hKUjBNY1VjTWptOE16dTNoZ2dlelJwbXJEV0hJZHB6U18zZFlDb2t6NVBaSjRnQ2VrRVFrSkFjZlpR?oc=5"
+      },
+      {
+        "title": "Iran war disrupts oil supply, crude hits $90 by June draws interest - Crypto Briefing",
+        "source": "Crypto Briefing",
+        "published": "Sun, 26 Apr 2026 06:28:36 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNlpXQzVTcURpVnpad05LT3RidU9qMjdlSi1GdUdRYzdqTUF0Ni1URXVYbExjQS1PbVlhR2Z4Q0FHbFlFcENpdEdVUTV3LWRlZGh0bXkxaHo5SjRuQjIwNGN0WU5uSnFDSEo1Q3dndmRSRnliUm4tZUpKaF9kTk5TQ0ZUcTBLTWJ2bHZ6QzQ4YmtJTWp3LTdNaA?oc=5"
+      },
+      {
+        "title": "Empty oil tankers divert to US amid Middle East supply disruptions - Crypto Briefing",
+        "source": "Crypto Briefing",
+        "published": "Sat, 25 Apr 2026 20:40:36 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNlo1X2pnZEFIc2g1d2pObmF6alVvREdTU0JBYmFfZmNtNkRPVmh1R2dwazZ5a3VKTkRiUmoyY1BGUmhodlJSaldWR044ekI5Z29LR1BxckVpYklXZWcwaWZGYkFzWE1LMHgxREs0RFlONTlvXzVaT09kWnFKd2kzNFhqZnJIclFPVzlQclN2QXdXZnoxRk5oV1N3?oc=5"
       }
     ]
   }
