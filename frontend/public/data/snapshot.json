@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T23:52:40+00:00",
+  "generated_at": "2026-04-27T03:55:26+00:00",
   "fx": {
     "nzd_per_usd": 1.701374,
     "as_of": "Sun, 26 Apr 2026 00:02:32 +0000"
@@ -8526,16 +8526,40 @@
   "news": {
     "nz": [
       {
+        "title": "Govt plans trucking rule changes to reduce fuel use, phases on watch - 1News",
+        "source": "1News",
+        "published": "Mon, 27 Apr 2026 01:55:07 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYVNrVHZuQ1JjUVJTWVVsNnlyeVFVVF9GQzZjN3FRSDJkSmFRVm9LeHlVazh4UlVzY0dwTjMxZGRQQ0tnTG5WR21MVGVMWGR0bmtzdlNjWjdJWEs3eWpwLWNzX1FMQWRmSEU5ZHRaZHFldkdTNlBneWRNeEFOU1BhX0V5bDRIcHNiRE9tcUZtT2l6dFVTdFBGcjVEQThVYzlybVBtWmh3?oc=5"
+      },
+      {
+        "title": "Petrol, diesel and jet fuel stocks dip but levels considered ‘stable’ - The Post",
+        "source": "The Post",
+        "published": "Mon, 27 Apr 2026 01:16:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMC1tT2RNWG5mS1JGX0lUSkxkQUVWSldKQllVdHhtbVRlSVN0R0pMRzRfLXRhQjNHY3lTclpOMloyUWRYV01uYWR5MDdVQlFnS1BvUWtEYjN4Vnl3UmNuSmlsbVpFVU5LcnVwaEhvNnhWYkF6b0s1T3AtaXhyNVFFQnVMS2ktemFhQUZSQUpfMGUzb0dvazhxeWcwWXhaRnlkS21IbEUwdVVOZw?oc=5"
+      },
+      {
+        "title": "Govt plans trucking rule changes to help reduce NZ fuel use - 1News",
+        "source": "1News",
+        "published": "Mon, 27 Apr 2026 01:04:33 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVE5vRmMxUm9lRnF5VWpuUTcybi0tWVZJRl8xM21fMTRwd0ppMG40Y3gyVU5WRklrSWRuRnNUV1g2ZFdwR2NoemJraTVtbVpyOTdwcjAzdl9lNWFJaU4zMEtkQzQ3alJxUGtONU9FUjVTMmRjc1dudk92STlRaWRBdnpudF9sQzVkSjlmYWtQV082cDVWdDFsM241cw?oc=5"
+      },
+      {
+        "title": "Is NZ close to phase 2 of the fuel response? Some experts question if we should already be there - Stuff",
+        "source": "Stuff",
+        "published": "Fri, 24 Apr 2026 16:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOWFuS0xVSFRxY0ZHblBseHpuRXZ1YXNiblNnR1E3anpha3B5ZHFlcTFnRzAxTjJsVGtWejNjN3d1aHRrTkFZS2djZ1ktLUFpSVRLNjZjREFINzRKWlFDcDh3RTNibmZ1NGo0ZzhGYzhCTWFpcFMzY0paNXJvTE9ldkJ2VjEzZmpYTGZIVW41VkQ2ZnpRRUZkNGQ2R0NmeWd2UWttUk45bVRldVcwRFNMMjFQOV9BWFREU3loSlBCRENHdw?oc=5"
+      },
+      {
         "title": "No diesel, no power: why the global oil shock is hitting NZ’s small Pacific neighbours hard - The Conversation",
         "source": "The Conversation",
         "published": "Fri, 24 Apr 2026 01:22:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUmN0TENrbDM4NFl3RXJ5MDVHYkw3VVJYS2poTmh4YVJHNmU5LXFiWE5iT296NV92d0lPRmVxYUZ1Q0U5OFlzNENlQTZLSzVTTVY2MFEyeTYtWHZOTTZmSjZ3bE5lT3NLQ3J0ZUVIOTNWNm4wVnhqSWRtb3ZIRERVWlpWdUVuUUE0eExxMlN0TlZTMmw3Z1NmVFJGN2ZkSmdjZm5KWkI3UDZqZHJGQ0NTaE9jdE1IaWFqVVdKZDF1Z2Q?oc=5"
       },
       {
-        "title": "Govt reveals worst case oil shock economic scenarios for NZ - 1News",
-        "source": "1News",
-        "published": "Thu, 23 Apr 2026 03:18:24 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQVRfa1BSMDJXVDczekFncnhwQXRHZ3dWcm5helhNTkJDWlJHS0dva0RsUVl4clJBZGh0bUtKYjZFMUk0b25qWXNyNTNxei1JQ2N5cFJoUlk5dXNETXNpOFpwTmQzNVEwanc1VmtlVFRob1N2V2p5VnJ6U1FSVGlxTEVfSm5KQVUyT1NNNFN4ZENrdzlTdTRrMWJ1cw?oc=5"
+        "title": "Why have fuel prices fallen lately and will it last? - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Fri, 24 Apr 2026 01:06:19 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNkdUZERlX0VsbEx4VWszQ1BTbXRZOFc3VXp6SWw3UkpuMHRPRzVTZzhjZHp3S2VpY1J5Tl9YQkxwcTBabW5SVnpjYkR3WlNMaF8tcUM5WC05VjU5OTJOZ1hCZWJqeUlBZWQxcHlVOXZVLXA0VUpxSDR6clNvSU11Mjl2b3hmQXJ5a05QNWV4Qnl0dW05TkdQc0JqaER4SXlqVTVwVjJNRHY1aUJKTVRXaHRTTWdRUFY2cTM1TlhWQXAyaVRiWHl6UVNwbWFWVEVQQXZid3B6dXFQN1hXOGJ2UA?oc=5"
       },
       {
         "title": "Fuel supplies 'stable' despite stock drops across all types - 1News",
@@ -8548,80 +8572,56 @@
         "source": "RNZ",
         "published": "Wed, 22 Apr 2026 01:44:59 GMT",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbnV3eTQ5b1ZPU3h0YXJoQlpxeUQwOGxMX3JENmc1Y05pU2pyeUoxY01GdVc5eHA1QnNDSXpLcERzelNKYTdSY2ZJMllNRkhCcUlIN05Qem9YWWxUUGduQy1hY2FhZlhiMGk4Ty04ZU1RblJJbmNxQ3lwMGRWT3N2TDBqekdYYjYzYThTdnVCU3dPbDRHNkZtalpBbERhd1lLaTBxalBR?oc=5"
-      },
-      {
-        "title": "Fuel stocks drop again - NZ told to ‘keep calm and carry on’ - The Post",
-        "source": "The Post",
-        "published": "Wed, 22 Apr 2026 01:43:26 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb2dMQ3E0cVNwRDZncVBJbmVLZkljcWx1czJ3YTFmcGtNVzNzRXEzN3hrbk1SMVJCQUxRU19LQlNxVHlXZ2tVOUF0TGNwbTUxMC1EMVRYbnIwc01DZkdPS0wza0dYay02MHd2SFdiVTJDcHZDVU1Memd1YnJZZmlpcFNFdHlfWFpjXzJWM21uWmJFUlJtTElFN3FhMA?oc=5"
-      },
-      {
-        "title": "Latest fuel numbers: Dip in stock levels normal, says MBIE - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Wed, 22 Apr 2026 01:19:21 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUWhJdDBydk9YUmFWbDdoZ2tFRkkxSmk4YktoM2RFUERuTTVLTE53dmkxQjROSUZFdjZyUUwyTzhMbk81ek5FWTZrZ0ZZU0NLYkFxbXd4VW9NTE82YkMwWEx4Q0NlX3pFZGo5ZWhxQ1BtMlpjcWc1QURDcDN5NjJOdWxOZmNRUGhvdVAtYnp3elVUTmkybWhkS1VoWk9vb2xJRC1kbFZBUmQ5VWhKUF9Ia2NVT1NmLWhUel9mZHhQZDk?oc=5"
-      },
-      {
-        "title": "The fuel ships heading to New Zealand. Here’s when they arrive - The Post",
-        "source": "The Post",
-        "published": "Tue, 21 Apr 2026 20:54:56 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZkRNc3VXQVZja2paVWQ3YjFaU2R6MnU5U1FHQ09vZTJfYUNteGxfc21VWkFQYlRsQmRrbExISUE4eEttUWl4WUdxSU1GZ09pTTE3MW9nVlg1SGQtTWRmcW91ZzRxTXFmUUpUWWFYOFd0anIwdGpZanlhdkNDbWN1cEtETi1DQ1hPNkowS2tYMkxTME5hcXp0WWFpMVd2QUFfT2VrYjZJV28?oc=5"
-      },
-      {
-        "title": "Small fall in diesel and petrol stocks, jet fuel up in latest update - 1News",
-        "source": "1News",
-        "published": "Mon, 20 Apr 2026 01:43:28 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUEhFZUF2YVJ5N2w2cllPM3d5Q19qU2NWeEZ0SVJxRm9MQ3ozWlB5b0ZLMzBwOG9Jc2RmQ0xpeTVHaENid2s4b0pkRWhSM2FuS3I0Z0NGVG91TVJLNU1wNDViTWdpU3ExblFnMFdCOFJEVkxqcEhpc2pWLU9FMmpKTzRkVWFBUklOR19OWG5CaGlOY21nTU5nejRITmJ1U3RzcHJFM05R?oc=5"
       }
     ],
     "global": [
       {
+        "title": "Hengli Petrochemical dives after US imposes Iran oil sanctions - Reuters",
+        "source": "Reuters",
+        "published": "Mon, 27 Apr 2026 03:21:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTHhXYXlLSVRQSnJMb3BvN1Zqdm9pR1B0TjkzeEJQVXNmaEowRWFMTzR0NHZLOFdOd19EUmVrMWowLXNCTm8xM1FEZjNJMVlyX3l4MDI1THF2SUdpUW4wQ29GVTdCcTVOVVBSWXR1UXFzWllscTRReU9Da3ViVWFyYVFWUWJEZmJhS0tuVzBjVW9SUi01elk3MW9TQnVnSEVnZTBiU21paUEyYmR2dndpM0JKS1c?oc=5"
+      },
+      {
+        "title": "Brent crude stays above $107 amid Strait of Hormuz tensions - Crypto Briefing",
+        "source": "Crypto Briefing",
+        "published": "Mon, 27 Apr 2026 02:58:46 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTWFvb2hmSXk0V2hnT0lIOWVzeWdQT0hYUUE5aC1xSEdWZ0drS2k5UTNvbjZIeGd2RUlWWndGRmFHREplc3lYalFJT2dsZDBibENFS0hDRXhaaC1lNFVDVGtDSWJISndjX3lybVo0ZVQxelItdXZWTk5HRE1WUDd6bnVka2c2R3g1ZlVXb1VvNA?oc=5"
+      },
+      {
+        "title": "Oil prices today: Crude jumps nearly 2% as US-Iran talks stall, Hormuz disruptions tighten supply - The Times of India",
+        "source": "The Times of India",
+        "published": "Mon, 27 Apr 2026 02:58:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPOWVPMHRvZlhyTGZHa2tTWjIxMWVucVMyVEhCelZteW5TUi1QbWxQQXJXWFBEVkFMcnRraHJjUzQ3cG9tVFBLM0FzZXZzOVBUalFmLW9BUzFkV2VlRFJOQVhTS3VhcVo3RG04WjhNX0hPYmRKUzFnZ1kxV1ZiY0ZKVmhramNhVzRFaFR1SnhabTA3R1UxdWpDWUZNcDY0UnRSaUdIRmVmTGxOVXU0ZEZqamcwM1h6YXVaTkxqa05FYlpWZTJnZmZMS2dkVzl6UXE1cGNwLVdFWTgtWmdGZkFnQ2NaMHU3TDhCYy1DYzlUQVdPQTNBbS0yQzQyNC1nQVVmY21iMDdjRnNFaVVRVWFjbWZ0SGtUOUprTTROR09Fa2I4eE1uN25zdnln0gGvAkFVX3lxTFBIY0pVbGlsS2pBN3VOcmg3aWZrcF91S21XQ3hXOU9ucGM4WlJ5eTJmazZONHlaSVgwdE13Y29QVjZUNHUyQ29sbktzcHUtc1lhWWZHMzNiS0RrbFZCWnhHdEpJTHg5QTZpM1I1Vm5UYWhEYlJ2ZHpKZnQ2NE5WMWdzZklIZF9BZmd5alBVSDJuVjE5RjB6d2ltYkdmdVduMXVhZUJNQmtuMFluLUNDaElaQWx1eWhycUt1bHJVOWVoMzUtRmtFbWxocmIxMjAzUlEwQkVOSHhqVlJSd1V2dEkxc2tjVXZOQjlQWUFBRlNZZldWWFVHQmREU1RLeDlDTHJQMXlRdTZhTkF3ZEp2MjdrbUl3NXUwUUk2QU5ReFo3b21RcDVRVXN3V1pwSVFTNA?oc=5"
+      },
+      {
+        "title": "Trump Says He Has 'All The Cards' As Iran Talks Halt: Brent Crude Jumps To $107, Dow Futures Slip 52 Points - Benzinga",
+        "source": "Benzinga",
+        "published": "Mon, 27 Apr 2026 02:55:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcG9ILXV2R2FxSU92LVp1MC1mRV83ckFnU0N5TUxDLU5SMEY2d3NjSDFCdzlYRE1LV253akw0Ym9oYlAzUkNlSkhnczhoc1NaQU5iSERqRzFiQk43emo2bDhYSzN0bmVJa215NE1TQjBfVklLMGZjTG14UklkSVZ4M2d3UFk2S2sxRWVFUFZFQnJuTWlrZ19vczlwczhqbmRqNEM5TXQyU1MtUUJaZFUzeVhBdVpQQzg?oc=5"
+      },
+      {
+        "title": "Hengli Petrochemical shares dive after US imposes Iran oil sanctions - marketscreener.com",
+        "source": "marketscreener.com",
+        "published": "Mon, 27 Apr 2026 02:43:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZk9mWFctUERfSlZoR0pIV0xzX2tOOEs3b19RREUzWjRkeEpVeEpacDJUOEh5Nl9kUXJ4N1VGaGZMemNNNEY2c2dRN2w2cDJ5TUJkLTZOYmVXM2hHV2lKT0FMVzZ4Zk5DbmUyRHNLTzZxNlRKeGFsLVVZSm5pX2FTNnhZMnlXcndubE5ELVVfYy1aSE9xQ2lNVUpaQlpFSHRjZ2p5NkEySnVGZGxFdGw0eUt4c1Nubm40dUNPUE1n?oc=5"
+      },
+      {
         "title": "Oil News: Supply Fear vs. Oil Demand Sets Up a Pivotal Week for Brent Crude - FXEmpire",
         "source": "FXEmpire",
-        "published": "Sun, 26 Apr 2026 23:13:00 GMT",
+        "published": "Mon, 27 Apr 2026 02:23:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbFZpa28wRFd6SUQ2ZU1oSkdjTmFQblJ1RUpWZHdrRHp2bXlaVm9PTjdULUl6V3MxUm9teUVMNzlJc0gzaWpoVE9DdUhlY2o4NWI3Tkh6RWRMMGZ0QXo5NjlMaGdQdjFXaUNnQ0g4Nl9ScldoTkF6NEU2XzVaOFhPXzlQQklDQlpBTWdLSWhCLVdOQm8yQTQtMmN0WTNpOFJzUFFHanVONE9oeDJ3VlNyU2E0RXZ0WmNONDRrSmh3Um5GZw?oc=5"
       },
       {
-        "title": "Europe Emerges As Key Buyer Of U.S. Strategic Petroleum Reserve Oil - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Sun, 26 Apr 2026 23:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdGhsT0lUb3JTalQ0N2g2NGtVVXMxWlBnQjdremRjMldDazRLQUhYNkV0Qm0tbHNReDV1RmM1bllFRlEzZC1SUDFTdnFDNDlEa1gtUkd2ZmExYUtpN1ZXVVN4WGN4LTQ2VFRiRmJ0X0FVcXpIMVhuWlNueXZVbGRXbjBXS3gwYjAySF9hSmtmcC1wMnZSRzNmZFY0cTFnSFRvalJIVmpScDJnc0Fp0gGyAUFVX3lxTE56b183SDNRWjdycS03Vlk5RnRhR29uTXFPSWdIVmFJanY5M2xrV2NaWUx1NU9fSjlIeVFSZGNiMjU4ZWxyM2V3NGdhVVNjNU0wRUZkWF81MUVRM1BqUEN6T0FPei02TV9DMkktZS0yTlVuVWNfSm1kdXJvVklhUVRhQWdETjRiSV8wcXU3SWNBQ2tTUHdJNVBIUHExaV9sVktKbk1xcV9hckczVllKeWhBdnc?oc=5"
+        "title": "Brent crude holds above $107 as tensions persist - Middle East Eye",
+        "source": "Middle East Eye",
+        "published": "Mon, 27 Apr 2026 02:16:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT1I0T1BSSnFrSk9tRlpsX3Y4Qjd1RUVKNzUwSDVCSnh1R1AxUU9qeldUeXRTUkZzX1NMbnBHRVNpVDRvZjFMSzFmdDY0aVUyd2ptc19fbXoxMU8wTFNPeVZoamcyNW02VVNDdVFkakdpSFZ2eS1XZ2ZXMlRtR1AwbkhwNTBMZmZGWUxxLUp4TDhTclYtWFhBZ1ZzNGtscjh6NXVB?oc=5"
       },
       {
-        "title": "Brent oil tops $107 per barrel after Iran peace talks stall - CNBC",
-        "source": "CNBC",
-        "published": "Sun, 26 Apr 2026 22:17:23 GMT",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Ca2M5SmJaY0V2MlhBZjJGLUNiblVnSHFXUi1BLXFlQmRUUFdmbTFxTFJkVXFhRUttNDlZR1p3dEJuN1dUcVE5bU1DWGd6UC1uc3gtdndSSVVjd3lNOVo2X0Z5MlNocVRmenJrcUM0VDJuNnZzN0xyWNIBfkFVX3lxTE13djJYdkRIdnFBUjM0NUJEYzFSSG0wSWk4NF9ZNC1aLVA4bTFXWDlPQ1haWVprZ08yR2plSXRoX0xoaUlydm5xeTJ2alZLUW9jajR3YTRrOFdGelNRclVyUHdwd3BSQXRsNUJsSFc1OUFfSGluY1ZyaWphRG1nQQ?oc=5"
-      },
-      {
-        "title": "Strait of Hormuz restrictions fail to move WTI Crude Oil $160 market - Crypto Briefing",
-        "source": "Crypto Briefing",
-        "published": "Sun, 26 Apr 2026 17:21:22 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHNxeW9FMWZ3NExlMlBRbjI4TVpsU1RDNlZMZWk4d2xfOXFKN2FDd3ZCQXFnY0l5NkN4aXNEREF4X0k2d1FpTDl5UHh6SFhhMVNqa1pLekZ0Smp6M09NNU9fZ0h5UHllRUhRQ19YRmhVNGluZDBYdERISV9NdE5NN0ktY0g1M0NZMmZsZFBwak11ZjFLUzRjbWR2cw?oc=5"
-      },
-      {
-        "title": "India plugs oil gap as Middle East supplies sink - The Mountaineer",
-        "source": "The Mountaineer",
-        "published": "Sun, 26 Apr 2026 17:16:12 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNem8wdGU3dGw2clhlN2JmMkVibm00eGFLSHpNZEhxdUFtT3BNN1JWbFdGN2EybXhlWE92UEZ3NDZneVFFUjEtN0JPam9oUDE1cEVWSWFId1FQOHJNWWE4UU52ZW5VczdOWm91dDNnODNPMXdBams4Wm5zb2x2b01vS0tjaGxTX2NjRWVRX1FQSTVZeGZ5SXBPT2NKRkc1R3p4VjNVbkVseTdVeEVOVklDeFlQYXIwbDhLMms4U2ZpaExXTGxxRFJKTUxzcTZ1QW5mY3pwZ0xFN21uZTA?oc=5"
-      },
-      {
-        "title": "China’s Hengli denies Iran oil trade after U.S. sanctions on unit (CL1:COM:Commodity) - Seeking Alpha",
-        "source": "Seeking Alpha",
-        "published": "Sun, 26 Apr 2026 16:13:34 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSjVvS3pnMmRweDNPQzJwbjBncHBJWFFyQUtzSllKZWM3RkI4VmFhMTdSM3ZnLVhNeUMwU2J5TXV4WEdCVUVwRzVHMzZhSWdzNWRCQlNqaVJsTzluVTBwQWI3bDk5Uy14clY1UHdYaUU0Q1ZPcllJUElhWWpKVHpMQTFEZ2Q1N0NrdnBwcGdpeERJWDZIQlNsRkdQdk5ESUhxWWpkaQ?oc=5"
-      },
-      {
-        "title": "The great energy pivot: US oil and Chinese solar are the winners in Trump’s war on Iran - The Guardian",
-        "source": "The Guardian",
-        "published": "Sun, 26 Apr 2026 11:01:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU2lEUHB1ZDV6VXhJeDRRZWE3OEhhLTBTZFFxNllucDBCblNwa2FUaVItYTBuQ1h1WWdCMU9UbXNQdDJEOGVaQXltUEVIOE5XdVlEOTEwajBEdFZsaUVFd0d6OXRGajh1UHpjcUM5aWJaS3I2MTZTVGxwWmp1cUZHbkNuUUJCWGRWX2VGYWVkNnpqQXIxVTRpQm9YejJfUjNnVVBsRk9ENEE1d2owQ3NKcE9qR0o5SXNqUGJz?oc=5"
-      },
-      {
-        "title": "U.S. Sanctions Zigzag in New World of Economic Warfare - The New York Times",
-        "source": "The New York Times",
-        "published": "Sun, 26 Apr 2026 09:02:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObEVaNzVGdzFGMExjUkhOeVB6T3hrcmZDVk1DUnVGSGdmaFhJdXRWdHdYd3dWdlJxQ082UzF0SkxWdDhRRi15THExMzIxanR6RDZzT2hKUjBNY1VjTWptOE16dTNoZ2dlelJwbXJEV0hJZHB6U18zZFlDb2t6NVBaSjRnQ2VrRVFrSkFjZlpR?oc=5"
+        "title": "Oil prices rise amid stalled US-Iran peace talks - Al Jazeera",
+        "source": "Al Jazeera",
+        "published": "Mon, 27 Apr 2026 02:11:08 GMT",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV25GWjMzUGZKdEVfT0xUWHJzeWJRNW9fbHlYOG9hNHg5NTExSENjZGRjYmlCODMwMW5Zc2FCc0hVQlZhR282Yzl5SVZaV0N5NTZTTzJlaDRvclJ1c3FuVjhVclFDWTdIYzVYQnA4UlZJMzZEOVhCa1NOalVaamwyNlFtOTRvZUd3aUVOdWlMM3NQUDc4VzFYYUhyb3pqaHND0gGmAUFVX3lxTE1oa2RHOVJHQXp0ZHZxVmpRT2N6WTdsa2VrV2pTQk9sZ21NV1hyU1IzZlBnMThEWUdiUEJ6S3dVSE1BbGhUR2R4aS1QenkzZHlMM29FUll5alEyT19LLWR5TTBYaWtlV2p3U2lZbXFlQmhTZEhhc0l0VUx5Q2FIQXlXMnJaMzU1TlRORWVQRVRVbnoySlAxSDJJdUVUbm5EdVFtN3VSU0E?oc=5"
       }
     ]
   }
