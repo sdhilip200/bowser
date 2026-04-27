@@ -10,7 +10,6 @@ const SECTIONS: Section[] = [
   { id: "pump", label: "nz pump" },
   { id: "history", label: "history" },
   { id: "waterfall", label: "waterfall" },
-  { id: "supply", label: "supply" },
   { id: "news", label: "news" },
 ];
 
