@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-04-28T19:11:58+00:00",
+  "generated_at": "2026-04-28T19:42:11+00:00",
   "fx": {
-    "nzd_per_usd": 1.703252,
-    "as_of": "Mon, 27 Apr 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.691289,
+    "as_of": "Tue, 28 Apr 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 101.65,
-      "latest_date": "2026-04-27",
-      "delta_1d_pct": -3.49,
-      "delta_30d_pct": -1.44,
+      "latest": 104.33,
+      "latest_date": "2026-04-28",
+      "delta_1d_pct": -3.6,
+      "delta_30d_pct": 4.11,
       "series": [
         {
           "date": "2025-04-28",
@@ -1017,15 +1017,19 @@
         },
         {
           "date": "2026-04-27",
-          "usd": 101.65
+          "usd": 108.23
+        },
+        {
+          "date": "2026-04-28",
+          "usd": 104.33
         }
       ]
     },
     "wti": {
-      "latest": 96.43,
-      "latest_date": "2026-04-27",
-      "delta_1d_pct": 2.15,
-      "delta_30d_pct": -2.31,
+      "latest": 99.95,
+      "latest_date": "2026-04-28",
+      "delta_1d_pct": 3.71,
+      "delta_30d_pct": 6.9,
       "series": [
         {
           "date": "2025-04-28",
@@ -2033,46 +2037,50 @@
         },
         {
           "date": "2026-04-27",
-          "usd": 96.43
+          "usd": 96.37
+        },
+        {
+          "date": "2026-04-28",
+          "usd": 99.95
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-04-27",
+    "as_of": "2026-04-28",
     "regular_91": {
-      "avg": 3.253,
+      "avg": 3.245,
       "min": 2.98,
-      "max": 3.499,
-      "count": 61
+      "max": 3.459,
+      "count": 70
     },
     "premium_95": {
-      "avg": 3.454,
-      "min": 3.179,
-      "max": 3.999,
-      "count": 29
+      "avg": 3.429,
+      "min": 3.129,
+      "max": 3.699,
+      "count": 30
     },
     "premium_98": {
-      "avg": 3.529,
-      "min": 3.379,
-      "max": 3.609,
-      "count": 5
+      "avg": 3.571,
+      "min": 3.36,
+      "max": 3.7,
+      "count": 6
     },
     "diesel": {
-      "avg": 3.4,
-      "min": 3.179,
-      "max": 3.999,
-      "count": 67
+      "avg": 3.341,
+      "min": 3.1,
+      "max": 3.899,
+      "count": 80
     },
     "lpg": {
-      "avg": 1.959,
+      "avg": 2.709,
       "min": 1.959,
-      "max": 1.959,
-      "count": 1
+      "max": 3.459,
+      "count": 2
     },
-    "observations_today": 76,
-    "observations_yesterday": 51,
-    "observations_older": 36
+    "observations_today": 93,
+    "observations_yesterday": 87,
+    "observations_older": 8
   },
   "mbie_waterfall": {
     "week_ending": "2026-04-03",
@@ -8546,16 +8554,16 @@
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVmRfNTllVVo2M1BfdF9vYUJ2ZlFtTlhFUi0xOTI3eXFqMWkxWS0xZHZTOVhLTGJ5ZV9haThvanJNVHBSaElFTlV2NUFVeVgwbzNtZEVTRG4xNkxJWXlqX21Nd1A4bngxdjdqa0RyV2JRNGt5WTJMaDJaSTJIUWE0RXdjN2FuZE9OYmpoYURMNUhLeXNVeUxoNlJNRFg4SVZBMFZTRTF3?oc=5"
       },
       {
-        "title": "Government announces deal with fuel company to secure more diesel - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Tue, 28 Apr 2026 05:00:24 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUGpOQm9Hclg3TG5sOFNJQmRXRC1EU29LSkV6X1NpWU1yc29rbjFKMG91Wk11MG1HX0JjTHRqMTByWW1rNUp2NXBzRFNFYVB5dWhHOTJIbXBfUUVaeVU5S1k3Yi1SNHZUaUVFa29JVnBXMDg4NVdmV3h1dXpDa1dqbmxqZHgwMzlWUGF4N1cwMkozZFNPSDFqMWcxclJsV2tLbDREMXNXZjBUMF8zX1hOdnNWbVdTenVOQXRRR1lxR1V3UkgzVm5YejI5MDRaZUdKMXlaUDVtOHRHbzRzTElZQmlfcTljVVJLS0ZaeFNEVDIyTHFmYUMtdA?oc=5"
-      },
-      {
         "title": "Government Secures 90 million litres of Diesel - Chris Lynch Media",
         "source": "Chris Lynch Media",
         "published": "Tue, 28 Apr 2026 04:49:48 GMT",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNXZIN1RXbXhvaXFfS2N6VE5WNklUd2NEaWNOcnJLUHVjeERYMnNOcmJHWjZ4cUJRWXNhaDZmeTJ0V01QcVI0SkJSOXUwaGxyZExwUEpGZV9WT3Rpc3MwWnV0TWNRR3pQQ1dteEppRmZuUHZBeXBXSWtBVVcxejBHaEhFSFRRTmlUd0NvaTJhVnJNa0FZ?oc=5"
+      },
+      {
+        "title": "Government announces deal with fuel company to secure more diesel - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Tue, 28 Apr 2026 04:30:24 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUGpOQm9Hclg3TG5sOFNJQmRXRC1EU29LSkV6X1NpWU1yc29rbjFKMG91Wk11MG1HX0JjTHRqMTByWW1rNUp2NXBzRFNFYVB5dWhHOTJIbXBfUUVaeVU5S1k3Yi1SNHZUaUVFa29JVnBXMDg4NVdmV3h1dXpDa1dqbmxqZHgwMzlWUGF4N1cwMkozZFNPSDFqMWcxclJsV2tLbDREMXNXZjBUMF8zX1hOdnNWbVdTenVOQXRRR1lxR1V3UkgzVm5YejI5MDRaZUdKMXlaUDVtOHRHbzRzTElZQmlfcTljVVJLS0ZaeFNEVDIyTHFmYUMtdA?oc=5"
       },
       {
         "title": "Iran war: Air New Zealand cops Moody's outlook downgrade as jet fuel prices soar - The Post",
@@ -8584,6 +8592,24 @@
     ],
     "global": [
       {
+        "title": "UAE Quits OPEC Cartel. Why Oil Prices Are Surging. - Barron's",
+        "source": "Barron's",
+        "published": "Tue, 28 Apr 2026 19:31:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52UlVtblQxMTZmOFcyWmMtRGM5TFBvenotRkJyQUJTTGZheEtxVXpDUDNXeWtscWZHY2U4aW5HWXc0bkd3dmd5dVoxaFh4eXJscU1rMExheUpuRWxPQWRabUlCM2t4MFFSblJsYjZhd2Jub0FZVnhGR3VjSC0zUjA?oc=5"
+      },
+      {
+        "title": "Tighter Global Oil Supplies Underpin Crude Prices - Barchart.com",
+        "source": "Barchart.com",
+        "published": "Tue, 28 Apr 2026 19:20:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTGktYVZqWU5lbmFyb3h6V3ZpMTBYVnI5YnlhcVEzMUFpSHB1OU9ObWtQYnJ2Nlp4MVlLYXg3SThyenJKNWxyTXNaNVI5WEJPaTlHeXdzWVlVMHE0NEs4VjdBNjE5OXhaOGJwRTRieXBtSkk2LXRzOHgyem5xS0JCUThHeGV2Z1k1bkRNRmdZOVFwQmstbHFDTw?oc=5"
+      },
+      {
+        "title": "U.A.E. leaving OPEC amid Middle East energy supply crunch - CBC",
+        "source": "CBC",
+        "published": "Tue, 28 Apr 2026 18:52:49 GMT",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5acXI4eXJyQmFSbzA2YWxDT3lTZllQMGFVOEZlUjlwenRBWC1Sb0lYZ0JuaXpITmJKS3pmQnlMV0NkMHNRa0EySE1qZWxEUDBmOU1BM250cU02eXhnTldmeWI4ZFp4bno2UGFn?oc=5"
+      },
+      {
         "title": "Goldman Sachs revamps oil price forecast on supply squeeze - thestreet.com",
         "source": "thestreet.com",
         "published": "Tue, 28 Apr 2026 18:33:00 GMT",
@@ -8602,34 +8628,16 @@
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQclZIVkhpazEzdlU5UkhXLUlxME1PQUxnY1ExV3NHdGhxQTloVGxwdGRvZzhlTEJUWFZGTGU3UWVtTmpmQjV2QVNSYWJBX0hTWGhWWkw1Q0R6ZDZRbUtEeUJERWdwUEhXQ1NGVllKbGt3OTdkcVBydzR3S1UxZWpDVVRzeHlkNDRLcUxkdjRNTWtISzF5OGx1VmNJQ21za0lKTFowVFNNN01WUFNwaWRqakVYcEswMzZhS1l2bmZlZ3dVbEE?oc=5"
       },
       {
-        "title": "UAE leaves OPEC in blow to global oil producers' group - Reuters",
-        "source": "Reuters",
-        "published": "Tue, 28 Apr 2026 17:38:39 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZWEyNjA0NWVRbFNPSGE2Vzd2NGlWcXlvcU44RTdmOVBiMlQwR09xVC1ibkdCREI1QkVORmNaR2Y3VEZOanB4ZjA5TWhCMmpnaUg5UmRwMU1KLXRJTVNoN3ZuQW13aUpiUGdEVzRUbkgwRXRFNEtDMHltS0VoQk56VWFsbTB1V0FROHhDNG11WmtfSjZyekg3WA?oc=5"
+        "title": "America barely uses OPEC oil. Why are gas prices so high? - USA Today",
+        "source": "USA Today",
+        "published": "Tue, 28 Apr 2026 17:44:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWXBaQTJHM3kxbFNrRlJfOG5LTEQ4RW9YUDN6M184eXhINE9JUkNMNDl0WTl1eDVUQUIzY0RPd0ozSGI0YnVLeHpidnBUb3c4cFZ1cXJLakVOZkFlYU5XXzh6YmMzRW5iYkszU2FqSlltaDBfSFpVNFNrTG00UERkel9RTW5PeGl0N05sbUxwd0h4UQ?oc=5"
       },
       {
         "title": "The U.S. Sanctions Chinese Refinery Linked to Iran - The Institute for Energy Research",
         "source": "The Institute for Energy Research",
         "published": "Tue, 28 Apr 2026 17:06:42 GMT",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSmtDdkl0SHdmd2lnZlNVWk55dUJ2NU92ekdzSEZMaGVKYkFKVFc5OWFIMXFnTzFrQkgwb1ptNlI2ZHR1MTBIb0pRSEZlQ1ZOa3Zrd2FJZUt5b1B4ZDUzR0JLM0tZeTM3VlZ2eU1tbDNPQ0lhSmtHX0ROSEEtb1pkM2xjZFFDWU96SjR4NzRENk1teHdwS3JZZDctYmY1dWR4NmxacA?oc=5"
-      },
-      {
-        "title": "Explainer: What is OPEC+ and how does it affect oil prices? - Reuters",
-        "source": "Reuters",
-        "published": "Tue, 28 Apr 2026 16:58:25 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVGx5SXd4LTdTZUxmeURrN192TUU4UDhQTS1yVS1NVlpWTUtzYzVSZDlMd0tCV21wRkRsNDJrV0RDTk9fOGZXN09MSmpoMVYwN3RobUM2dFR1NFRYSUdMWF9pNWxCQ0Z4ZmxfdjNHUHVobzU4QWFHQzg5MjdiUUpwTi1UX0d1Q05QQlBtajd0RWlCTTgtUGpRSEhR?oc=5"
-      },
-      {
-        "title": "Gold and crude oil forecast: XAU/USD takes a drop as Brent pushes higher - FOREX.com",
-        "source": "FOREX.com",
-        "published": "Tue, 28 Apr 2026 16:41:19 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV0Y3VW1JZnBuOC03elFNQ0loMmJBaDBPSmtFSk5FYkRaYlRpUTc5enVwdTg4NXNfU0Jta0l5eEhxQjdHc2ZLTU95SnVUTWlpQ1lNYWk0bno1eTVfYndOMzVTUjJSdDJMUEVpcmw2dTFFWjE5R1hzZ0xSdWFhMHNQUHE3emQ0RGxvVXRBaTFiek1NWXU5bHRmZ0hlR1RxYU42VUFTcHlScWl1QlhIZU81ang1Y3R0SjJOZ2fSAcYBQVVfeXFMUEFwRUtzbXh0R0JRRkJGT3ZNbDJqY3BLRnprLU42eTNPcXBqOUwtRzZnTnVrSGZ6aEowbjRFT3hGMXJVNUwxUEpuTVNodzBxZmlzd3JoSU96elJWc0ItamhoOGhuNTJVM1RvWmp0QjJwakJpc1NRTzN5M2hLWHJ4bEtlSDBhTDB5elZ0eG1XUVdiNTEtNEQySHJPdVB1bnVyS21Vai1ZdDYxZVJYdFpEMERzdTlEYVZJbGZ4WTVibzA1RVcwcVRB?oc=5"
-      },
-      {
-        "title": "Abu Dhabi exits OPEC as Middle East tensions disrupt oil flows - سانا",
-        "source": "سانا",
-        "published": "Tue, 28 Apr 2026 16:34:13 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mWjM1czUzTVM0UmZzYXg1bXgzbkNBTzNZS25GbUEwdTl4VHJLRjdoeXhXaE8xWV9vTnFkaHRhQ0hJVHE5Qnk3QVpkRWFPMDdJclUw?oc=5"
       }
     ]
   }
