@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T19:42:11+00:00",
+  "generated_at": "2026-04-28T20:45:38+00:00",
   "fx": {
     "nzd_per_usd": 1.691289,
     "as_of": "Tue, 28 Apr 2026 00:02:31 +0000"
@@ -8542,10 +8542,10 @@
   "news": {
     "nz": [
       {
-        "title": "Govt plans trucking rule changes to reduce fuel use, phases on watch - 1News",
+        "title": "'Backup buffer': Government buys 90 million more litres of diesel - 1News",
         "source": "1News",
-        "published": "Tue, 28 Apr 2026 17:16:57 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYVNrVHZuQ1JjUVJTWVVsNnlyeVFVVF9GQzZjN3FRSDJkSmFRVm9LeHlVazh4UlVzY0dwTjMxZGRQQ0tnTG5WR21MVGVMWGR0bmtzdlNjWjdJWEs3eWpwLWNzX1FMQWRmSEU5ZHRaZHFldkdTNlBneWRNeEFOU1BhX0V5bDRIcHNiRE9tcUZtT2l6dFVTdFBGcjVEQThVYzlybVBtWmh3?oc=5"
+        "published": "Tue, 28 Apr 2026 20:00:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSmtiV0dSMmkxRFprVml0M1pQSDh2eXJ3d3dfV0N2VmhPYzhhUVljUGp1cXU2c1VDWGNLZjhTaGlGRjZaYnVyS2oxZnRLNVdjNDYtOFhPZkZ6V2ltSWpUYjI1ZlVPNDRDZi1ZODZGWjFqbFNGTDFpLUdKZkFtalhiTkxncU0yU3l1d2lsWGtnSFZ5dUZXRk4xNnZOSm04ZUZZaGxGZQ?oc=5"
       },
       {
         "title": "New Zealand Adds Nine Days Diesel Supply, Boosts Reserve 50% - BusinessToday Malaysia",
@@ -8554,16 +8554,22 @@
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVmRfNTllVVo2M1BfdF9vYUJ2ZlFtTlhFUi0xOTI3eXFqMWkxWS0xZHZTOVhLTGJ5ZV9haThvanJNVHBSaElFTlV2NUFVeVgwbzNtZEVTRG4xNkxJWXlqX21Nd1A4bngxdjdqa0RyV2JRNGt5WTJMaDJaSTJIUWE0RXdjN2FuZE9OYmpoYURMNUhLeXNVeUxoNlJNRFg4SVZBMFZTRTF3?oc=5"
       },
       {
+        "title": "Government announces deal with fuel company to secure more diesel - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Tue, 28 Apr 2026 05:00:24 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUGpOQm9Hclg3TG5sOFNJQmRXRC1EU29LSkV6X1NpWU1yc29rbjFKMG91Wk11MG1HX0JjTHRqMTByWW1rNUp2NXBzRFNFYVB5dWhHOTJIbXBfUUVaeVU5S1k3Yi1SNHZUaUVFa29JVnBXMDg4NVdmV3h1dXpDa1dqbmxqZHgwMzlWUGF4N1cwMkozZFNPSDFqMWcxclJsV2tLbDREMXNXZjBUMF8zX1hOdnNWbVdTenVOQXRRR1lxR1V3UkgzVm5YejI5MDRaZUdKMXlaUDVtOHRHbzRzTElZQmlfcTljVVJLS0ZaeFNEVDIyTHFmYUMtdA?oc=5"
+      },
+      {
         "title": "Government Secures 90 million litres of Diesel - Chris Lynch Media",
         "source": "Chris Lynch Media",
         "published": "Tue, 28 Apr 2026 04:49:48 GMT",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNXZIN1RXbXhvaXFfS2N6VE5WNklUd2NEaWNOcnJLUHVjeERYMnNOcmJHWjZ4cUJRWXNhaDZmeTJ0V01QcVI0SkJSOXUwaGxyZExwUEpGZV9WT3Rpc3MwWnV0TWNRR3pQQ1dteEppRmZuUHZBeXBXSWtBVVcxejBHaEhFSFRRTmlUd0NvaTJhVnJNa0FZ?oc=5"
       },
       {
-        "title": "Government announces deal with fuel company to secure more diesel - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Tue, 28 Apr 2026 04:30:24 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUGpOQm9Hclg3TG5sOFNJQmRXRC1EU29LSkV6X1NpWU1yc29rbjFKMG91Wk11MG1HX0JjTHRqMTByWW1rNUp2NXBzRFNFYVB5dWhHOTJIbXBfUUVaeVU5S1k3Yi1SNHZUaUVFa29JVnBXMDg4NVdmV3h1dXpDa1dqbmxqZHgwMzlWUGF4N1cwMkozZFNPSDFqMWcxclJsV2tLbDREMXNXZjBUMF8zX1hOdnNWbVdTenVOQXRRR1lxR1V3UkgzVm5YejI5MDRaZUdKMXlaUDVtOHRHbzRzTElZQmlfcTljVVJLS0ZaeFNEVDIyTHFmYUMtdA?oc=5"
+        "title": "Watch: Prime Minister Luxon discusses diesel supply at post-Cabinet press conference - RNZ",
+        "source": "RNZ",
+        "published": "Tue, 28 Apr 2026 03:58:14 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdjQ4VWtwb29SeTFRZjNNN2YxclpCek9paEZ3ck1vSmxhTHpqVVV0ZUJJZ1lZemhqNWZWaS1yOEZfSXpiY05HQ0UxSTNhZExCQkpmUW9aUWh0bzZKRFYyM3FVYWRscjl3Mjl1WGZiSVc4ZS1tYnA2cXNvY1lvTUlhZTVFeGN0ck9NMnk1UWhlTEVteVlURDlTZFA0bGwwcnFuUV9iUmQwd3E0R2pGRWVaWjFwR1dxYzhhVkpadkJ1MG1aUjA0M3c?oc=5"
       },
       {
         "title": "Iran war: Air New Zealand cops Moody's outlook downgrade as jet fuel prices soar - The Post",
@@ -8578,19 +8584,31 @@
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yTDNyeWJhSXlUaklyNFo2cjhIdFZJd242S3RwZnhJZENUWWM2OTBseTYyZ0t4a3dGMmE3VGtiT3Z4MmZ3U0RscDlub2hwa3JhdzBMYnFqbVBOcEEwSDhKeWdnVi1ZWmk3WmU0X0Z0a3JObFM4YWMyNjBidlNCVGM?oc=5"
       },
       {
-        "title": "Petrol, diesel and jet fuel stocks dip but levels considered ‘stable’ - The Post",
-        "source": "The Post",
-        "published": "Mon, 27 Apr 2026 01:16:48 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMC1tT2RNWG5mS1JGX0lUSkxkQUVWSldKQllVdHhtbVRlSVN0R0pMRzRfLXRhQjNHY3lTclpOMloyUWRYV01uYWR5MDdVQlFnS1BvUWtEYjN4Vnl3UmNuSmlsbVpFVU5LcnVwaEhvNnhWYkF6b0s1T3AtaXhyNVFFQnVMS2ktemFhQUZSQUpfMGUzb0dvazhxeWcwWXhaRnlkS21IbEUwdVVOZw?oc=5"
-      },
-      {
-        "title": "Here’s when the dwindling number of fuel ships en route to New Zealand arrive - The Post",
-        "source": "The Post",
-        "published": "Sun, 26 Apr 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZkRNc3VXQVZja2paVWQ3YjFaU2R6MnU5U1FHQ09vZTJfYUNteGxfc21VWkFQYlRsQmRrbExISUE4eEttUWl4WUdxSU1GZ09pTTE3MW9nVlg1SGQtTWRmcW91ZzRxTXFmUUpUWWFYOFd0anIwdGpZanlhdkNDbWN1cEtETi1DQ1hPNkowS2tYMkxTME5hcXp0WWFpMVd2QUFfT2VrYjZJV28?oc=5"
+        "title": "Govt plans trucking rule changes to reduce fuel use, phases on watch - 1News",
+        "source": "1News",
+        "published": "Mon, 27 Apr 2026 01:55:07 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYVNrVHZuQ1JjUVJTWVVsNnlyeVFVVF9GQzZjN3FRSDJkSmFRVm9LeHlVazh4UlVzY0dwTjMxZGRQQ0tnTG5WR21MVGVMWGR0bmtzdlNjWjdJWEs3eWpwLWNzX1FMQWRmSEU5ZHRaZHFldkdTNlBneWRNeEFOU1BhX0V5bDRIcHNiRE9tcUZtT2l6dFVTdFBGcjVEQThVYzlybVBtWmh3?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "U.S. Gas Prices Hit Highest Level Since Beginning of War in Iran - The New York Times",
+        "source": "The New York Times",
+        "published": "Tue, 28 Apr 2026 20:13:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VZEtUeU5CbGlKZEFrRkx6VWpnc184eVRBejFtS1AtYXJPV1hycVNPZXhDSndEOV8yWXdXUTVtdkZsTnVOaWFPUVdqRGtMV3BJaXNFRm5BSWpIRy1Fb2JwWUxJNFRzOTZiWTFYS1pSZTFHdHN6akUwLU5DOGY?oc=5"
+      },
+      {
+        "title": "Brent crude slumps below $90 on peace deal hopes; market remains precarious - Oil & Gas 360",
+        "source": "Oil & Gas 360",
+        "published": "Tue, 28 Apr 2026 19:57:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR2pnaGozbWdoNlBZNEJ6YWszOGdtNHE3cWtzYWxreE9NMEZnYnVMckFZU1RuM0Vac3NQeTRIZ0FXMU00SmE3YW9XX0JjY1NZNUIzSzBMLWNYUTZMVFRkTXlGSENVa1JjZ20tOEIxWkZEZUs4ai13b0ZpSm04enE0Wk5wNUFYV2pVdTZHdVZwZlZSV2dMTlRzc2dURnlyTE9qUVhjSVp3?oc=5"
+      },
+      {
+        "title": "East Daley analysts detail how Middle East has altered oil markets - Midland Reporter-Telegram",
+        "source": "Midland Reporter-Telegram",
+        "published": "Tue, 28 Apr 2026 19:41:09 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU2RhR3REbmRvaHN2WHZ4bWJSTnpDZXlKcjcwdXhXa3FWSnlmWF9mQ20xb2xqYWh3X2Y5WndQOE5CbnVfdUQ0emU3NU1LRFRMdUlKd3puM2I0YmxMNzI4TXU2bm1vYVFiT1RaX1A1aTluTmZXa1B2ZHN4a1hDUHlYSHNNZldsODJpeFVqVjJwb0MyUGcwZ1VSWWJWN1NRTXVSZnc?oc=5"
+      },
       {
         "title": "UAE Quits OPEC Cartel. Why Oil Prices Are Surging. - Barron's",
         "source": "Barron's",
@@ -8604,40 +8622,22 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTGktYVZqWU5lbmFyb3h6V3ZpMTBYVnI5YnlhcVEzMUFpSHB1OU9ObWtQYnJ2Nlp4MVlLYXg3SThyenJKNWxyTXNaNVI5WEJPaTlHeXdzWVlVMHE0NEs4VjdBNjE5OXhaOGJwRTRieXBtSkk2LXRzOHgyem5xS0JCUThHeGV2Z1k1bkRNRmdZOVFwQmstbHFDTw?oc=5"
       },
       {
+        "title": "Zelenskyy Reveals Ukraine’s $10 Billion Loss as U.S. Eases Russian Oil Sanctions - 112.ua",
+        "source": "112.ua",
+        "published": "Tue, 28 Apr 2026 19:06:33 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ043dUVTSFlnaDIxMDg4bEZDNXc4SWU4UklLSWVnVTZEWjVDZEFPaGtydkV1STVhZ0ljR19RVkdKRWJtVHR6R2xzZmpPT05ra3pGbmMzRFp1MkFEUzdBbmtsZ0FaTF9JVnhEcVdTY1dDMHJuQWI2anRtakNpOWdKLVpGUmVyYjQ1Y0MyZF9mYnBlX3dLbEtCak1CalEwdnpJYTQ0?oc=5"
+      },
+      {
         "title": "U.A.E. leaving OPEC amid Middle East energy supply crunch - CBC",
         "source": "CBC",
         "published": "Tue, 28 Apr 2026 18:52:49 GMT",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5acXI4eXJyQmFSbzA2YWxDT3lTZllQMGFVOEZlUjlwenRBWC1Sb0lYZ0JuaXpITmJKS3pmQnlMV0NkMHNRa0EySE1qZWxEUDBmOU1BM250cU02eXhnTldmeWI4ZFp4bno2UGFn?oc=5"
       },
       {
-        "title": "Goldman Sachs revamps oil price forecast on supply squeeze - thestreet.com",
-        "source": "thestreet.com",
-        "published": "Tue, 28 Apr 2026 18:33:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWEFfRlk4eUdwaF9qZDZkRy0wVDBQVWRRUkFFU1phZVZrWHBISnFteVAxS1RINnNzc1ExLWwtRWxRaS03TzIzX0YyX0ZESXZiZEw3ZzlpZW94R2RsS3oyd1Jndi1Pbm50RlEyMExoWjRKbGp0akxqRkJ4bC1FOUhfQlJvcWdXSDJITDU2TVJzaUJyZUs1ZktuekpR?oc=5"
-      },
-      {
-        "title": "US Treasury sanctions target Chinese refineries in expanded Iran oil crackdown - Türkiye Today",
-        "source": "Türkiye Today",
-        "published": "Tue, 28 Apr 2026 18:24:51 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMmRNaUdiM2RORklDdzRJMzNfQm5zZ212bjBVN001cU5RWXJ4Y1h2TzFPTHpORndhTVJLTW8tdnUxazFkaE1wOEJPRGcwTFdRdENtQlo5b2JJNWNqSG9SNDhDcmI5QjFER0lPeGdXQnNtRkJrY2VfRW5FY1dSd21xYml6UFJjeUR3bkczTENzeHU5QVQtUFJtVm1QaVR5WWl1c1VCLUVOQnAwM05HVWRSTERDOEhkWlJwUHVQZHB3?oc=5"
-      },
-      {
-        "title": "Goldman Just Raised Its Brent Forecast to $90: 5 Energy Stocks Built for Higher Oil - 24/7 Wall St.",
-        "source": "24/7 Wall St.",
-        "published": "Tue, 28 Apr 2026 18:18:59 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQclZIVkhpazEzdlU5UkhXLUlxME1PQUxnY1ExV3NHdGhxQTloVGxwdGRvZzhlTEJUWFZGTGU3UWVtTmpmQjV2QVNSYWJBX0hTWGhWWkw1Q0R6ZDZRbUtEeUJERWdwUEhXQ1NGVllKbGt3OTdkcVBydzR3S1UxZWpDVVRzeHlkNDRLcUxkdjRNTWtISzF5OGx1VmNJQ21za0lKTFowVFNNN01WUFNwaWRqakVYcEswMzZhS1l2bmZlZ3dVbEE?oc=5"
-      },
-      {
-        "title": "America barely uses OPEC oil. Why are gas prices so high? - USA Today",
-        "source": "USA Today",
-        "published": "Tue, 28 Apr 2026 17:44:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWXBaQTJHM3kxbFNrRlJfOG5LTEQ4RW9YUDN6M184eXhINE9JUkNMNDl0WTl1eDVUQUIzY0RPd0ozSGI0YnVLeHpidnBUb3c4cFZ1cXJLakVOZkFlYU5XXzh6YmMzRW5iYkszU2FqSlltaDBfSFpVNFNrTG00UERkel9RTW5PeGl0N05sbUxwd0h4UQ?oc=5"
-      },
-      {
-        "title": "The U.S. Sanctions Chinese Refinery Linked to Iran - The Institute for Energy Research",
-        "source": "The Institute for Energy Research",
-        "published": "Tue, 28 Apr 2026 17:06:42 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSmtDdkl0SHdmd2lnZlNVWk55dUJ2NU92ekdzSEZMaGVKYkFKVFc5OWFIMXFnTzFrQkgwb1ptNlI2ZHR1MTBIb0pRSEZlQ1ZOa3Zrd2FJZUt5b1B4ZDUzR0JLM0tZeTM3VlZ2eU1tbDNPQ0lhSmtHX0ROSEEtb1pkM2xjZFFDWU96SjR4NzRENk1teHdwS3JZZDctYmY1dWR4NmxacA?oc=5"
+        "title": "FEATURE | Oil prices hold rally as UAE's OPEC exit offsets Middle East supply risks - Baird Maritime",
+        "source": "Baird Maritime",
+        "published": "Tue, 28 Apr 2026 18:51:29 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRGJkWUxtV1hoMURZZUNuTFFvc3g2dWRLZklQRE5ha2VoZTFxQ0RLdjNnTkY4VEItRGJ6RVNvOTIzeW1MbC1EZ3ZWb1R4TDBjVlVEckdFVG5QdGJTWXd2UnY0ci1uSzRiNEdURktzVDc5VEl5aXdlRUJlc2JsbFlfaXl3M0IxYWdxWjhXVzRDbm5FUDRMOXYtelJLNFJlRVFIMm1Xb2FiZWxwcGJRakliV3ppU3BRM0psenkyOWdiVl9ESmJFRHfSAdMBQVVfeXFMTktJelVaTTVjdU5uWlVBemNFdkhmTlJTSFF0TTJTSGFBcXMzUzN3WFd1QzFoVENOUjhGa0ZWaDZkMU5UX1lpWWpJNTdjZWxsbXZCZTNzUlNaUFNlQ0FJMGg5dWtDT2haSU00ZkUzMmpsS0U0VHJ5aTVadC00OGxmbDgwaG5tc2tqcmdaSFoxQ1NHczVwMXNaZ1EwaEV6YjY3ZDhBT1hmbmZmQ0FsVUg3OE0xRmdWRm5RNUhaWUpNb0Z0VlB3TlRLM0RxREtZZkFVM0dmSQ?oc=5"
       }
     ]
   }
