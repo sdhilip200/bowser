@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T23:27:21+00:00",
+  "generated_at": "2026-04-29T01:25:58+00:00",
   "fx": {
     "nzd_per_usd": 1.691289,
     "as_of": "Tue, 28 Apr 2026 00:02:31 +0000"
@@ -8542,6 +8542,18 @@
   "news": {
     "nz": [
       {
+        "title": "Nine days of diesel shows how exposed NZ remains to global fuel shocks - centrist.nz",
+        "source": "centrist.nz",
+        "published": "Wed, 29 Apr 2026 00:21:42 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX3Z6cDlJUXZWYXE3eUlqdWNETGhLTVJNWXVtSVp6Z1pGUVhzNnIzLWdoR1JjUnJELTlCb3pKTDg4TGthaHVPMTRYMjh0WklBeEVhdklqcHlHTDJKZkRqelBCdG5XaHQ2VXp2TjFOMG9xQWgzbEJmUFNEak1KNW1WTzB1bUMweGlvcXljanJRR3NEWDRaZkE?oc=5"
+      },
+      {
+        "title": "Govt plans trucking rule changes to reduce fuel use, phases on watch - 1News",
+        "source": "1News",
+        "published": "Tue, 28 Apr 2026 23:54:10 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYVNrVHZuQ1JjUVJTWVVsNnlyeVFVVF9GQzZjN3FRSDJkSmFRVm9LeHlVazh4UlVzY0dwTjMxZGRQQ0tnTG5WR21MVGVMWGR0bmtzdlNjWjdJWEs3eWpwLWNzX1FMQWRmSEU5ZHRaZHFldkdTNlBneWRNeEFOU1BhX0V5bDRIcHNiRE9tcUZtT2l6dFVTdFBGcjVEQThVYzlybVBtWmh3?oc=5"
+      },
+      {
         "title": "'Backup buffer': Government buys 90 million more litres of diesel - 1News",
         "source": "1News",
         "published": "Tue, 28 Apr 2026 22:15:27 GMT",
@@ -8552,12 +8564,6 @@
         "source": "NZ Herald",
         "published": "Tue, 28 Apr 2026 19:19:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZGtXRjc1N0JWZ0NROVlyUTZaWVBkcWVWTnJOU1ZDblRidVhVdEdPbm9hVTdtSkd3OTl3TmRXODNDcDRQWlJMOWJ1YWhld0xjZkltX0xIMDhQRExZUTE5UVFpeVlYZjBwZnBfNF9fc19TX3VHNW1vcVZhaXVGNTRpVndESjRsRXZsWVNEMXR2aDU5b29maW9XZFBoeGg4bTlqZlowSVZZR2RMVTNVYnlSbmJCXy1DVjNlc09tYlJtLWsxdjltbHVtYzRja1VRTE9TZ3Q1bU5NZ2tiWmVuQ1lMNzlTQUhIbXAxNG9jTnFB?oc=5"
-      },
-      {
-        "title": "New Zealand Adds Nine Days Diesel Supply, Boosts Reserve 50% - BusinessToday Malaysia",
-        "source": "BusinessToday Malaysia",
-        "published": "Tue, 28 Apr 2026 06:03:22 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVmRfNTllVVo2M1BfdF9vYUJ2ZlFtTlhFUi0xOTI3eXFqMWkxWS0xZHZTOVhLTGJ5ZV9haThvanJNVHBSaElFTlV2NUFVeVgwbzNtZEVTRG4xNkxJWXlqX21Nd1A4bngxdjdqa0RyV2JRNGt5WTJMaDJaSTJIUWE0RXdjN2FuZE9OYmpoYURMNUhLeXNVeUxoNlJNRFg4SVZBMFZTRTF3?oc=5"
       },
       {
         "title": "Government announces deal with fuel company to secure more diesel - NZ Herald",
@@ -8572,25 +8578,37 @@
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNXZIN1RXbXhvaXFfS2N6VE5WNklUd2NEaWNOcnJLUHVjeERYMnNOcmJHWjZ4cUJRWXNhaDZmeTJ0V01QcVI0SkJSOXUwaGxyZExwUEpGZV9WT3Rpc3MwWnV0TWNRR3pQQ1dteEppRmZuUHZBeXBXSWtBVVcxejBHaEhFSFRRTmlUd0NvaTJhVnJNa0FZ?oc=5"
       },
       {
+        "title": "Watch: Prime Minister Luxon discusses diesel supply at post-Cabinet press conference - RNZ",
+        "source": "RNZ",
+        "published": "Tue, 28 Apr 2026 03:58:14 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdjQ4VWtwb29SeTFRZjNNN2YxclpCek9paEZ3ck1vSmxhTHpqVVV0ZUJJZ1lZemhqNWZWaS1yOEZfSXpiY05HQ0UxSTNhZExCQkpmUW9aUWh0bzZKRFYyM3FVYWRscjl3Mjl1WGZiSVc4ZS1tYnA2cXNvY1lvTUlhZTVFeGN0ck9NMnk1UWhlTEVteVlURDlTZFA0bGwwcnFuUV9iUmQwd3E0R2pGRWVaWjFwR1dxYzhhVkpadkJ1MG1aUjA0M3c?oc=5"
+      },
+      {
         "title": "Iran war: Air New Zealand cops Moody's outlook downgrade as jet fuel prices soar - The Post",
         "source": "The Post",
         "published": "Tue, 28 Apr 2026 01:48:12 GMT",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUdfZ0NiRG1NLXVtWXByQmxIaVh4UFhidDZKbHlmR3ZSb3IwOGlMNXJNaThLVWQzVUxtTUNkLURpYkpyczNVTUppRTFTX1dXcFg0ZEtWSWhTYXRkMEt2cTdBcFkyMTZUenBhcHFoVkRyeEctbXFuMjd0SXl0M1lTaVI1b3MySEcxWURpRkMxM29sVnNySjB4a3NpaF9lRFRr?oc=5"
-      },
-      {
-        "title": "Fuel cost relief for Veterans’ medical travel - Times.co.nz",
-        "source": "Times.co.nz",
-        "published": "Mon, 27 Apr 2026 21:10:06 GMT",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yTDNyeWJhSXlUaklyNFo2cjhIdFZJd242S3RwZnhJZENUWWM2OTBseTYyZ0t4a3dGMmE3VGtiT3Z4MmZ3U0RscDlub2hwa3JhdzBMYnFqbVBOcEEwSDhKeWdnVi1ZWmk3WmU0X0Z0a3JObFM4YWMyNjBidlNCVGM?oc=5"
-      },
-      {
-        "title": "Govt plans trucking rule changes to reduce fuel use, phases on watch - 1News",
-        "source": "1News",
-        "published": "Mon, 27 Apr 2026 01:55:07 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYVNrVHZuQ1JjUVJTWVVsNnlyeVFVVF9GQzZjN3FRSDJkSmFRVm9LeHlVazh4UlVzY0dwTjMxZGRQQ0tnTG5WR21MVGVMWGR0bmtzdlNjWjdJWEs3eWpwLWNzX1FMQWRmSEU5ZHRaZHFldkdTNlBneWRNeEFOU1BhX0V5bDRIcHNiRE9tcUZtT2l6dFVTdFBGcjVEQThVYzlybVBtWmh3?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "US enacts new Iran sanctions targeting regime's covert financial network - The Jerusalem Post",
+        "source": "The Jerusalem Post",
+        "published": "Wed, 29 Apr 2026 00:27:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4REI5UzlINWp6bkpKM2M0UE5FajFzSXB5TXJMTGRzNGNkd19QTHBEc3NranpJdjl5VXRUWE9QeE5EeWNVanFGZmN4S04wczlnQ2trQXdyMDhhaFpuV3JLNHZSaHBUNUpwRXc?oc=5"
+      },
+      {
+        "title": "Middle East tensions push WTI crude price expectations to $160 by April 2026 - Crypto Briefing",
+        "source": "Crypto Briefing",
+        "published": "Wed, 29 Apr 2026 00:06:08 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQjVZOFFFaVNkMDhvcl9QSVdhVTVwUXF1LXBpY3hrTXdYRGM0eTVxZkNOSVFNSFJINUJ1ZUUyUThiZHJPZV8xakhhS0lKNWJscDVDeTMxV21yelBhMnl4OG9GTkRfR1A3dFlDQzh3MDM3RkZ1SHVuT21ETFhXN1c5dHBTeGk2eWhGQlpvN29odEd4NUVIeS1Sd0J2WnNqTkgzWjh5YjNn?oc=5"
+      },
+      {
+        "title": "The Oil Supply Shock Will Scar the World for Years - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Wed, 29 Apr 2026 00:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMUlLOURvclBNb0MweE1TZV8wQXZIbnFRUHlYRTIwYmt4Y1Q1NFRhaXZwam00dlNqVG1KTDhvLXNSZkZuNlp0SnYxUHNoSjFGaU8zZm1JRmxCMklUam5sN3FkLTdaaDlySEJ3emZka2pnNEF2cnVoc2lkY1JaWW9zcW1fWkFhcGpfSGYxNU5qVTZ5N2tzWGlSUtIBngFBVV95cUxOdGhMV2lEeGhSaVdCX2NLajVJdU1HMnh6aFFTOHNpY0ZZT1R1dUxLd1JkR0RfV0dyV3lZNThEdnFXRGdwNmlKWlY0LWEzQU5Qd0RmbUZ2U3dtdDlkQk1oc0ZLak5MOUlWXzFGWnFQd3BUTVFPZzJOc1h0ajg4RUV0YklNck52ZFN2Y1pzY01KckNZWmM3TmRpNjZrbHNvZw?oc=5"
+      },
       {
         "title": "While the Middle East Rebuilds, A New Energy Bloc Rises Under U.S. Direction - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
@@ -8610,34 +8628,16 @@
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQzRKc25xeWNKVUY5UmN2V1hsTURJSmFLOWU1dDh1Y21oS2l3VEFkY0FLUTE1RHhPUjlGYXVUV05GU0N1ZHEtMTdOTVltQ1VYR0NMZFpGamJUMnEzR2R1ZUFjX1ZzcTc4MUF1SGlIRmxpcldZcnVrN205ZkhhMWJHZWlWUFVhTE1xWXpJRHFvNmc5Zmpxbm10Z3N6V1U0eGRoc2pHWlEtbUd0MFJGZ3NjN1hHU2x5Zw?oc=5"
       },
       {
-        "title": "Treasury Dept. Issues More Sanctions on Iranian Oil Exports - The New York Times",
+        "title": "Goldman Just Raised Its Brent Forecast to $90: 5 Energy Stocks Built for Higher Oil - 24/7 Wall St.",
+        "source": "24/7 Wall St.",
+        "published": "Tue, 28 Apr 2026 20:18:34 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQclZIVkhpazEzdlU5UkhXLUlxME1PQUxnY1ExV3NHdGhxQTloVGxwdGRvZzhlTEJUWFZGTGU3UWVtTmpmQjV2QVNSYWJBX0hTWGhWWkw1Q0R6ZDZRbUtEeUJERWdwUEhXQ1NGVllKbGt3OTdkcVBydzR3S1UxZWpDVVRzeHlkNDRLcUxkdjRNTWtISzF5OGx1VmNJQ21za0lKTFowVFNNN01WUFNwaWRqakVYcEswMzZhS1l2bmZlZ3dVbEE?oc=5"
+      },
+      {
+        "title": "U.S. Gas Prices Hit Highest Level Since Beginning of War in Iran - The New York Times",
         "source": "The New York Times",
-        "published": "Tue, 28 Apr 2026 20:12:46 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd1E1MFpwRjA0NS1VQXdYdlhNcFdydEtrYXJOd2dqTllYSDcydFdmektIV2JRbFg2a3gwUHhoS19JTTN0d1FQZ2ptdVlsUDE2UExTX1lxX0FjSUN6US1oMmwySlNleWJYRzdXMVBrVEpZSVpPTWlESklJdkhycS1GV0Z5YmxNdw?oc=5"
-      },
-      {
-        "title": "Brent crude slumps below $90 on peace deal hopes; market remains precarious - Oil & Gas 360",
-        "source": "Oil & Gas 360",
-        "published": "Tue, 28 Apr 2026 19:57:15 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR2pnaGozbWdoNlBZNEJ6YWszOGdtNHE3cWtzYWxreE9NMEZnYnVMckFZU1RuM0Vac3NQeTRIZ0FXMU00SmE3YW9XX0JjY1NZNUIzSzBMLWNYUTZMVFRkTXlGSENVa1JjZ20tOEIxWkZEZUs4ai13b0ZpSm04enE0Wk5wNUFYV2pVdTZHdVZwZlZSV2dMTlRzc2dURnlyTE9qUVhjSVp3?oc=5"
-      },
-      {
-        "title": "Oil Is a Global Commodity - Civic Media",
-        "source": "Civic Media",
-        "published": "Tue, 28 Apr 2026 19:50:34 GMT",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sRC1ESS1xUE1yclVLeDRXcjNxSDdJSTJYY25VZUMtckdMM0tvQ0J3Umk5cG1tWktBcy1KZUd6SGJRaF94OFFuVnEwSzNQd1pKYjU1S0dTVGVuUVNLR1RzOF9CTExUY1R4bE9ybjRmX2tKcDdRRmNr?oc=5"
-      },
-      {
-        "title": "US Warns of Sanctions Risks for Chinese Refiners of Iranian Oil - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "published": "Tue, 28 Apr 2026 19:46:39 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOXNJMmxVR0dYYlNlT3ZvSmU3bGxnSmRYSkx6QlB2SFN1a0d4X01jdHJLSml3QVA3WklKeGRZSGJ5dFdXTkJTMzJtNWhQcDZmTTA5c3pVcFdvU0luY1BLUTZEMzhlSlhMb2dzemMzaFpITXdUVW1iQVZMWUtWdUhxM0RmZVdGa2c3NnJQWFZlQmxyaVg4TFRQb2FGTnhObkd4cFZGVlBOM1ItZkhCZ1dhbHJFWWQ?oc=5"
-      },
-      {
-        "title": "East Daley analysts detail how Middle East has altered oil markets - Midland Reporter-Telegram",
-        "source": "Midland Reporter-Telegram",
-        "published": "Tue, 28 Apr 2026 19:41:09 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU2RhR3REbmRvaHN2WHZ4bWJSTnpDZXlKcjcwdXhXa3FWSnlmWF9mQ20xb2xqYWh3X2Y5WndQOE5CbnVfdUQ0emU3NU1LRFRMdUlKd3puM2I0YmxMNzI4TXU2bm1vYVFiT1RaX1A1aTluTmZXa1B2ZHN4a1hDUHlYSHNNZldsODJpeFVqVjJwb0MyUGcwZ1VSWWJWN1NRTXVSZnc?oc=5"
+        "published": "Tue, 28 Apr 2026 20:13:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VZEtUeU5CbGlKZEFrRkx6VWpnc184eVRBejFtS1AtYXJPV1hycVNPZXhDSndEOV8yWXdXUTVtdkZsTnVOaWFPUVdqRGtMV3BJaXNFRm5BSWpIRy1Fb2JwWUxJNFRzOTZiWTFYS1pSZTFHdHN6akUwLU5DOGY?oc=5"
       }
     ]
   }
