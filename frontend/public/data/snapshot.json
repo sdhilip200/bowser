@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-04-30T18:59:04+00:00",
+  "generated_at": "2026-04-30T19:22:25+00:00",
   "fx": {
-    "nzd_per_usd": 1.69912,
-    "as_of": "Wed, 29 Apr 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.712291,
+    "as_of": "Thu, 30 Apr 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 110.59,
-      "latest_date": "2026-04-29",
-      "delta_1d_pct": -0.6,
-      "delta_30d_pct": 6.93,
+      "latest": 110.64,
+      "latest_date": "2026-04-30",
+      "delta_1d_pct": -6.26,
+      "delta_30d_pct": 3.04,
       "series": [
-        {
-          "date": "2025-04-29",
-          "usd": 64.25
-        },
         {
           "date": "2025-04-30",
           "usd": 63.12
@@ -1021,20 +1017,20 @@
         },
         {
           "date": "2026-04-29",
-          "usd": 110.59
+          "usd": 118.03
+        },
+        {
+          "date": "2026-04-30",
+          "usd": 110.64
         }
       ]
     },
     "wti": {
-      "latest": 107.18,
-      "latest_date": "2026-04-29",
-      "delta_1d_pct": 7.26,
-      "delta_30d_pct": 11.4,
+      "latest": 105.0,
+      "latest_date": "2026-04-30",
+      "delta_1d_pct": -1.76,
+      "delta_30d_pct": 9.01,
       "series": [
-        {
-          "date": "2025-04-29",
-          "usd": 60.42
-        },
         {
           "date": "2025-04-30",
           "usd": 58.21
@@ -2041,45 +2037,49 @@
         },
         {
           "date": "2026-04-29",
-          "usd": 107.18
+          "usd": 106.88
+        },
+        {
+          "date": "2026-04-30",
+          "usd": 105.0
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-04-29",
+    "as_of": "2026-04-30",
     "regular_91": {
-      "avg": 3.225,
+      "avg": 3.196,
       "min": 2.98,
-      "max": 3.57,
-      "count": 59
+      "max": 3.459,
+      "count": 56
     },
     "premium_95": {
-      "avg": 3.431,
-      "min": 3.119,
+      "avg": 3.39,
+      "min": 3.049,
       "max": 3.689,
-      "count": 22
+      "count": 27
     },
     "premium_98": {
-      "avg": 3.569,
-      "min": 3.509,
-      "max": 3.639,
-      "count": 3
+      "avg": 3.495,
+      "min": 3.359,
+      "max": 3.559,
+      "count": 7
     },
     "diesel": {
-      "avg": 3.319,
-      "min": 2.999,
-      "max": 3.9,
-      "count": 78
+      "avg": 3.261,
+      "min": 2.996,
+      "max": 3.849,
+      "count": 77
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 4.293,
+      "min": 4.293,
+      "max": 4.293,
+      "count": 1
     },
-    "observations_today": 68,
-    "observations_yesterday": 86,
+    "observations_today": 76,
+    "observations_yesterday": 84,
     "observations_older": 8
   },
   "mbie_waterfall": {
@@ -8592,6 +8592,18 @@
     ],
     "global": [
       {
+        "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options - BBC",
+        "source": "BBC",
+        "published": "Thu, 30 Apr 2026 18:05:26 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsbzF3QzZBT2o2cXFBNG5fNGpwYlJwVnhndmg0ZE9DV1hSaTJvXzdsRjVNTEt4cmZqNVJDZjJQamVZYVZFWkc3bE9aS0R6S29VYVFqSy1FU3pUZw?oc=5"
+      },
+      {
+        "title": "Oil companies look beyond Middle East for new supply sources - Scripps News",
+        "source": "Scripps News",
+        "published": "Thu, 30 Apr 2026 17:37:30 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdGg1QWNwUzNVMGUzanJIOUtOZjhPTm5zZTJueWxRYkxEc3lJSmhvNTVrbk9JRnV2eGRqRjV0dkVBV3IzN09QRUlKUW5RSnNtbloxYXFNdVZMRFFnS25GYUZaLTZnbkFEZURBMjFvMDV3bUlQR1RXWHVJYm1CQkE2SFpIOUN5X01leE9RdjVJR3pXd0htV0REckVBazhXVTRNZ1RfTjJEN2dPWV81aUt5bmhB?oc=5"
+      },
+      {
         "title": "Oil retreats after hitting four-year high on concern of US-Iran war escalation - Reuters",
         "source": "Reuters",
         "published": "Thu, 30 Apr 2026 16:42:04 GMT",
@@ -8604,40 +8616,28 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWUZzYnItRXlXUW1IRllhN3A5ZnU2Q3NxcTNfZGxpd2RGeEZFZmR6UU1hLXA0QkdWdEphV1laTjdhVXhPaXYxc1ZwNVJZbmxsV3lINThnNHY2dEU1T3FmVWlVZlVJWEJpTURtd2dFWnNmT2s4dWc1eThZLXFTbVVvQ0d2NzNTbVRpcWMwS0FEc0dER0hlcThCOUw3S2NFNVBTZm84UVI3Zw?oc=5"
       },
       {
+        "title": "Oil prices hit new wartime high before easing, as gas prices expected to go up - CBC",
+        "source": "CBC",
+        "published": "Thu, 30 Apr 2026 16:08:57 GMT",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GYnRRN016OTd1VFJVbkY4MjNzNWc1OC1ndjRncm4xN1NUNWNDZlhiY05USV9QMkVmMFAxV2FBUWNzZVdHdEt4cGtBRXVITl9zcnZWbHJsMlNrTFA1cVIzcWtfOEFUczBBWm1jV3JKX1RXUE9o?oc=5"
+      },
+      {
+        "title": "Oil Price Hits Wartime High Above $120 a Barrel as Iran War Standoff Continues - The New York Times",
+        "source": "The New York Times",
+        "published": "Thu, 30 Apr 2026 15:24:02 GMT",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93SjhHZ3VuQVBtWEwwVDRlVzNHZ29ZN3hjMW5RZDVJQzVxc3hQWXU5eVZfdVZLWVB5RnRSS1ZMTk93alhRR3FlYTl3cjJyZlZDRWRWaTJ1Vlg1UFBaM2dRalZvcU1ZWVhERkdZZGtnUWs2bVNKZUE?oc=5"
+      },
+      {
         "title": "Commission assesses with EU countries the security of oil and gas supply as the conflict in the Middle East continues - energy.ec.europa.eu",
         "source": "energy.ec.europa.eu",
         "published": "Thu, 30 Apr 2026 15:09:48 GMT",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUW81WFI1cHVuTDRha203R292WEFSOTdwZFdDd0lMWVFBaTItTWFwSWdOWF9HVHlid1lmT3IwU0hQMEJCVFQ0Wmg1Z0ltaWJpOXdGYVUyRmFFTUlUU2oxdDZ1cWNLSlBFd0Q2UWE5elJlSW1PUlQtQjkzZ2ZqTzUxV29walp6ZkM4b2Nlc2JwR0JFd3l4WllvdTk5bHNQVzdkXzJEalhRNDJzTV9sQ0pZUG4ta0pidVRhTmZHUFprTWp2RGJ1MlRLT05YYWN0cEpkenZaRw?oc=5"
       },
       {
-        "title": "Trump to be briefed on options for Iran as energy prices soar to 4-year high - NBC News",
-        "source": "NBC News",
-        "published": "Thu, 30 Apr 2026 14:50:12 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNUZ0NnZZMURySzJtR2g0RXo5M2FYcFVqSDduRGQ1R3V5bGZESnBQQ2lyeVozbV8zR0RWWlZJY3BXOGlvLXhONGt3ZUxUZ2d5VDJLcXBmSXNuT1JfMzh0VU5tZkZONW5QWUw1QU1NMUh4X0Fuck9qbGoyYUZ3RUw4bTI0WEJhb2pNVXo5MktlUzRxampjUEw5SnY5T1lqNks0eVU0QmJGdGFTTEVQZ3ZDRkhRQUpMODQ?oc=5"
-      },
-      {
         "title": "Crude Oil WTI Futures Chart - Investing.com",
         "source": "Investing.com",
         "published": "Thu, 30 Apr 2026 14:37:20 GMT",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QVUZmbEFLek45c2FDcW5MdnIwVUE5c2p4Q21nUVU4a0NOZzd2QTdxSGRQS3A1QTk2M1cwVFNfd0JVUFZYMnVBa01IeWJzNy1HZmR3cFJXZk1zdVNSRGJONkI3MEJ4RDQ3VjlocXhYdHc?oc=5"
-      },
-      {
-        "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options - BBC",
-        "source": "BBC",
-        "published": "Thu, 30 Apr 2026 14:29:13 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsbzF3QzZBT2o2cXFBNG5fNGpwYlJwVnhndmg0ZE9DV1hSaTJvXzdsRjVNTEt4cmZqNVJDZjJQamVZYVZFWkc3bE9aS0R6S29VYVFqSy1FU3pUZw?oc=5"
-      },
-      {
-        "title": "Brent crude oil hits 4-year high on Iran worries - The Hill",
-        "source": "The Hill",
-        "published": "Thu, 30 Apr 2026 13:18:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRmZIMGtSSV9CSXRVY2RXdzE2NHp2ODVHNnY4cjd3Mk84bHd0UGJqa1lTNDVxYmRyR3pFelZsQ3ZGTnhKbkRwTEZXVnlLUm8xQTFtTzhnTkljbHZuVnUzRDBFRHprU0J0WlgxcHNOS01PRGlZVHhPWDl4X21pbl9NNXNvSnhrRGI5eGFxOTZHOHlHN1dsZlHSAZsBQVVfeXFMTlZsdW5NWTAxdTVNUUE5d0dnRXVhR0MtaGxMVEFVSjFkNXZFT1ZFdmVvMmNuRlFvaW5NTFd1TzNwdG9VbVpCcU9BSnFkeGJNSEV5MXYteTRaY0hSU2ZNWmgyNEdKX2Ric3hDbEJLeTV2OGlUckRxUWpPTTZPNkpNV0hYZUpPb2xFRm84aC1FLUlDUkJrU0lrd3pMSWs?oc=5"
-      },
-      {
-        "title": "The US has long used economic coercion to achieve foreign policy goals — the war in Iran shows how that power has declined - The Conversation",
-        "source": "The Conversation",
-        "published": "Thu, 30 Apr 2026 12:32:42 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMUFyZTBpTWtJNGF0dzRQN0prcTJ1VE1JWUFnX1lBclZtUUxiT0xGNUl1ZXBiQzRzSW0wMlhUM2tTS2JmRU1CQ1pDUl81eGp6c2lzRldWT0NoX3pobUNldGlCOHRWZURibzIzZUYwMTRfRHJnbUgyY0VmYW5QTkJ2ejNZTXVZZEMwMHlhcXRGN3Uwb0xfUkRZaUloTnVHM2llUUJvVGQtQkVjWThLNFBLZUZRSGllU05lUE5MOTQ3Rkx4MWJVWkRDY3FUb3BOR3RuVzlGbWp4aDdqc1RVUlhwUWN6VEhlbFBNcFNN?oc=5"
       }
     ]
   }
