@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T04:57:33+00:00",
+  "generated_at": "2026-04-30T07:36:18+00:00",
   "fx": {
     "nzd_per_usd": 1.69912,
     "as_of": "Wed, 29 Apr 2026 00:02:31 +0000"
@@ -8542,6 +8542,12 @@
   "news": {
     "nz": [
       {
+        "title": "Air NZ makes further cuts to regional flights - RNZ",
+        "source": "RNZ",
+        "published": "Thu, 30 Apr 2026 04:24:14 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZHBPSmp2R3F1ajlVY1VtMGVQcWR2RnIxVUpudFJxM2tLU1RaektSVFNvYVVpVzlsUGk4WnJ2TllkRWtaSlZDNkZ5eE96U0pZZmdUZ0owM1k2RmxfZkszMkpzSGFHbkpVNHpUY3lDbVUxNzh2ZkpjUXpRZnl2c1dxYUtyZzBOTUNJcTVqSl9oWnpWUQ?oc=5"
+      },
+      {
         "title": "What new Tauranga flight cuts mean for travellers - NZ Herald",
         "source": "NZ Herald",
         "published": "Thu, 30 Apr 2026 00:01:26 GMT",
@@ -8560,6 +8566,12 @@
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdWhKUHo5VzB2cjJQYzFPaUhwRm9fU0k0NFh2UC1xNHFkMk4yeXhXNW1ELTl1a3FhQVVrME1UR3RSMUVmS0dNSmtwRG1FRE5LUWVzT2lvazh3NUxnb0FGX0ZjUmV3cHpwOERMMXVWQXRFd3pqWTc2anFjZkhrcExXa1gwaC1oYWd1cW02S1o4d3hqbUJhNlpEM05GLU1xNW8?oc=5"
       },
       {
+        "title": "Nine days of diesel shows how exposed NZ remains to global fuel shocks - centrist.nz",
+        "source": "centrist.nz",
+        "published": "Wed, 29 Apr 2026 00:21:42 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX3Z6cDlJUXZWYXE3eUlqdWNETGhLTVJNWXVtSVp6Z1pGUVhzNnIzLWdoR1JjUnJELTlCb3pKTDg4TGthaHVPMTRYMjh0WklBeEVhdklqcHlHTDJKZkRqelBCdG5XaHQ2VXp2TjFOMG9xQWgzbEJmUFNEak1KNW1WTzB1bUMweGlvcXljanJRR3NEWDRaZkE?oc=5"
+      },
+      {
         "title": "'Rejig of the Budget': Public will find out cost of Z Energy deal once it's been paid - NZ Herald",
         "source": "NZ Herald",
         "published": "Tue, 28 Apr 2026 19:19:00 GMT",
@@ -8576,68 +8588,56 @@
         "source": "1News",
         "published": "Tue, 28 Apr 2026 07:48:12 GMT",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSmtiV0dSMmkxRFprVml0M1pQSDh2eXJ3d3dfV0N2VmhPYzhhUVljUGp1cXU2c1VDWGNLZjhTaGlGRjZaYnVyS2oxZnRLNVdjNDYtOFhPZkZ6V2ltSWpUYjI1ZlVPNDRDZi1ZODZGWjFqbFNGTDFpLUdKZkFtalhiTkxncU0yU3l1d2lsWGtnSFZ5dUZXRk4xNnZOSm04ZUZZaGxGZQ?oc=5"
-      },
-      {
-        "title": "Government announces deal with fuel company to secure more diesel - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Tue, 28 Apr 2026 04:30:24 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUGpOQm9Hclg3TG5sOFNJQmRXRC1EU29LSkV6X1NpWU1yc29rbjFKMG91Wk11MG1HX0JjTHRqMTByWW1rNUp2NXBzRFNFYVB5dWhHOTJIbXBfUUVaeVU5S1k3Yi1SNHZUaUVFa29JVnBXMDg4NVdmV3h1dXpDa1dqbmxqZHgwMzlWUGF4N1cwMkozZFNPSDFqMWcxclJsV2tLbDREMXNXZjBUMF8zX1hOdnNWbVdTenVOQXRRR1lxR1V3UkgzVm5YejI5MDRaZUdKMXlaUDVtOHRHbzRzTElZQmlfcTljVVJLS0ZaeFNEVDIyTHFmYUMtdA?oc=5"
-      },
-      {
-        "title": "Watch: Prime Minister Luxon discusses diesel supply at post-Cabinet press conference - RNZ",
-        "source": "RNZ",
-        "published": "Tue, 28 Apr 2026 03:58:14 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdjQ4VWtwb29SeTFRZjNNN2YxclpCek9paEZ3ck1vSmxhTHpqVVV0ZUJJZ1lZemhqNWZWaS1yOEZfSXpiY05HQ0UxSTNhZExCQkpmUW9aUWh0bzZKRFYyM3FVYWRscjl3Mjl1WGZiSVc4ZS1tYnA2cXNvY1lvTUlhZTVFeGN0ck9NMnk1UWhlTEVteVlURDlTZFA0bGwwcnFuUV9iUmQwd3E0R2pGRWVaWjFwR1dxYzhhVkpadkJ1MG1aUjA0M3c?oc=5"
       }
     ],
     "global": [
       {
-        "title": "Brent crude tops $125 a barrel on Iran war worries, while world stocks retreat - News-Times",
-        "source": "News-Times",
-        "published": "Thu, 30 Apr 2026 04:52:19 GMT",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTWRmdjV0TnVuQUVzdGEyRGhacnFpbUU5RUlncnN0YUlFTklNN3ZIYUZ6YlVyd0RjNUw3amVNM3BPUUN2NUlMbFpaMHYyZ2kzMkhId2pFSlVuWHBpWnd2UW10MWM2aXd0bWIwcEhfV3ZEWG5WSC05TnZ6NHNLOXFPMUZJREhGbFhZYVRhVE91U3poQVZ2aTdnTkI4MnlkaS1o?oc=5"
+        "title": "Middle East conflict adding pressure to ‘fragile’ food systems, FAO says - Oils & Fats International",
+        "source": "Oils & Fats International",
+        "published": "Thu, 30 Apr 2026 07:33:40 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdVo2TVczdDVyZ05YaDZXYVVVWXhpTVgwejFxQWFITUczelRYTEZxdEMyX3R6cWFnM20tN29LRzhxVmtEMEtDNkVxU05jeUxmUk5yWTlOYjNqdlNFTFVjbEJJeURrSmdHeUNNc1JSZEY4bExaM2RGLTBOeHRnTktIeU9hZ1h5V3RJNGJwa2pwVFlGQlowQWxDWi01djBxeGZWcjF0WA?oc=5"
       },
       {
-        "title": "Brent crude tops $125 a barrel on Iran war worries, while world stocks retreat - KMBC",
-        "source": "KMBC",
+        "title": "Brent Crude Hits Wartime High with Little Mideast Progress - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "published": "Thu, 30 Apr 2026 06:23:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa19yNTNSUFU1WDZHdk9KY0JjSlhaQXo1d0tJUUJXeG5TQW9uM0ZlRl9oSElJR2lHeGRfMm0wU1VtZDg4bHBJMXIwcEJyWjNXd0lMYXl3a1lQMlF6bmtjNGpiT080TFZGVlVyYjFHaG54X2FmWlM5bkdJZ0JuOGxaX0x2MG02WUVkT1VUQ0hJU19jN2VnMEUwekVBNEVMNXFld1VZV2pSbnc0VzdUcmtESTN3?oc=5"
+      },
+      {
+        "title": "How high will the oil price go? - The Economist",
+        "source": "The Economist",
+        "published": "Thu, 30 Apr 2026 06:14:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOcDlpVEVhTTVXZEdzRjcxdUNyeWRhLTBMaGRPai1VZzlPY21INDFZWHVlNmtJb3k3c00xZlBMTEhsTE5MQTJrUGluNG5hcEFVU2xJcFJnYnF6UUdXM0NlUm9LZUxqSm5PWU1kSTllYzZKTGZ0Qkk3QW9TSFhKQQ?oc=5"
+      },
+      {
+        "title": "Saudi Arabia Joins Venezuela, UAE, United States, Iran, Kuwait, Libya, Algeria & Other Nations in a Furious Energy Frenzy as Middle East Supply Disruptions and Strait of Hormuz Chaos Ignite Jaw‑Dropping Oil Price Spikes While Gas Futures Plummet - Travel And Tour World",
+        "source": "Travel And Tour World",
+        "published": "Thu, 30 Apr 2026 05:26:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxORXF3UTdRNFNyOHRZcUp4VnhMVGFobEJEeGtpTkZPVGRnUGd2R0wweDhCN1JIRGRVS1VWaFQtUWFOdW85NFBuOFoxcDhzeE1id2NDYnJCTkZqckd6RUdNOG1wQWc5aHlIUU1ITDhDRFR4azlMR05lUGhrYmlsZ2t2OWswTUVvMlBZa1ZaS04wU2k1OEcxaF9DSGN2MUtvX2RZLWNpUDlCbTBnMmpHSEhwQk8tWUxqNFRSbVJJV2hRaWt1QlJRRTFhX1gyRU04dGZXUDZ3VmhTSUJWRmZPc1ByV3BWcWgxQW5hb0JHZ0ZSSGRvS2kwcS04WVp2aExMdGxoS3l5UmtuYWtza3hvYjg0WmIwTEZYQ0xxLVVTU1lndTNJNVRwUXY2c2t1QUxjQXhsU3B6cUkwcFktTUhRVXN5Zzlha0JRRXNOd1p5S0F4b1V2WXVC?oc=5"
+      },
+      {
+        "title": "Brent crude tops $125 a barrel on Iran war worries, while world stocks retreat - The Killeen Daily Herald",
+        "source": "The Killeen Daily Herald",
+        "published": "Thu, 30 Apr 2026 05:18:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOa0VQWm9jNnBoaUVteTMybzh1NEI2d25zbGhxRGRfZUxmUmFfWE1ndmN0WTJYNGFwckhsdHNJU0RvVVplMm1USm1MU0xPVkFRSDI5cHlQVzY1V2g3Rzdic3Iyay1qWnNOSmNkb2hySzBsTzB4MTFqcEpaVnZicDV4Z2UxRVRoXy1ycjl2NDFXbFhkRW53M3QxdzUtNGxUeEx0X09rTFI2MUd5UUFMUGI5MDhSRko2YlNIcEpRd2drM0o5VWRRR1dhUGlYeThsV3ZhZHdudG0yNWQ2VTBFdGhtMWNDNENrenRNUmRz?oc=5"
+      },
+      {
+        "title": "Analysis: US blockade is squeezing Iran's all-important oil industry - WRAL",
+        "source": "WRAL",
+        "published": "Thu, 30 Apr 2026 05:15:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOejZ6U3prNGp6UTE5Uy1WTjJGMzFPX0ZoU0l4ejJzT3V4aFJqN2xIYWVQVTJIRUNrcDRUM242Um1QcGc2WDZSVWtKT0ZKbXJDUUwwNFBxMmt4WlF0REhYd29QUy1jZm9ObE8xMjFuS1ZGaEFmRzJaeHhXRklfZ1BBc3FWWkhHVkNfWGt6TU01SzNzNUNaSElvTTh6Mk9zY1NKQVVNdQ?oc=5"
+      },
+      {
+        "title": "Oil prices surge to highest level since 2022 as Trump mulls Iran blockade extension - CNN",
+        "source": "CNN",
+        "published": "Thu, 30 Apr 2026 05:04:19 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV2tkVGZuVUt6QjVVZ2xpbnV2RWpnTFFqdkp3TWFCU3JFVmdBM1BRb3FJN2Vnajl4RVVqZkxXLW9sdElHd2xybWJ4alpPcFY2Vmh1SzJtMGlQYWluSmVYRG1QdmE4aEc1Q241Y19IeURVc2FCVmh3YzFDQzJQMHd0X29kX215T0JUNlVV?oc=5"
+      },
+      {
+        "title": "Brent crude tops $125 a barrel on Iran war worries, while world stocks retreat - WYFF News 4",
+        "source": "WYFF News 4",
         "published": "Thu, 30 Apr 2026 04:49:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMm8tRnJ6b0QzQUJNWTBKN1J4TUpsOGlNaDNVWkhhVFRsUXlSaloxRzEyN1Q0U1F4cV9WUXpjWm5lSnZ6MHBiQ0pZZktNSjVFNDhRdnh4c3FQVndHdHBoWll5b1pQOVhNc1NxOW51UUpzU1lNYUZyM0t6RVRXSTQ3S21CcjQ?oc=5"
-      },
-      {
-        "title": "Brent crude tops $125 a barrel on Iran war worries, while world stocks retreat - WKMG",
-        "source": "WKMG",
-        "published": "Thu, 30 Apr 2026 04:34:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLUJuQmZBaWlUSXNIRWoyOExfaFQ5Wi1fR3JsZXVoQk5jdXl5bDBpTEtqSHNJS0J5Y3o2a1JCSUZNckhZUFJxLWQ4U3VRb1RiZURSbmpzY09LYy1zOEpxNmFLSzlSTG91dEVBMENUWnB1ODFsTWFIXzd1WXZIeDE0QnBQUmxvaWgxZzFxUzNiWG1fNFVVNWxDdFlqNnVJSE9rajlRMXJqdlluTzJralVMQWFRRE9TZHJBR3RWVHJ4d0hYNTgx?oc=5"
-      },
-      {
-        "title": "Middle East disruptions hitting economic activity in South Korea and Japan - ING THINK economic and financial analysis | ING THINK",
-        "source": "ING THINK economic and financial analysis | ING THINK",
-        "published": "Thu, 30 Apr 2026 04:24:34 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWDhRM2tFaFBRZ2R5SC10NmtON2NFVkpmbXd5T3NQYnRuUndYZ0cteFBmSTJkZFBGbWQxNjFOcGJmc3l2VkZ1dlZsWEhiamxWRU9UQkZrSTIyU2FEYjZtLUNFb1pUZTdmaW9hOGhzMjgzbjZOa2hqbFZ6NzZlMEw1LXdYTmgwdk9MODJjVFltWExqY2I3YnpVbG1qM3BQRDZfSmh6X1J3eU1sYjNPbnNBTFZlS0R6VUhYU3dBcVN3?oc=5"
-      },
-      {
-        "title": "Micro WTI Crude Oil Futures News - Investing.com",
-        "source": "Investing.com",
-        "published": "Thu, 30 Apr 2026 04:04:48 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMnJwcXU0X2Z5TzhyUHN3cDlqMzNiaWNadVpPOF9Rc2dnWndBNHJ4emdrTkZERXJObHNfOGFtc2ZvMDVMVWdaZndTcnJ0anRyUkt0MUEtWUx3bTVXbDJaTm55RTlySjlxMEIwdUFGZmN4VXMzVXRDSGtNa3FRZ3pjdHRB?oc=5"
-      },
-      {
-        "title": "Oil Prices Soar as Iran Standoff Shows No End in Sight - The New York Times",
-        "source": "The New York Times",
-        "published": "Thu, 30 Apr 2026 04:03:58 GMT",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93SjhHZ3VuQVBtWEwwVDRlVzNHZ29ZN3hjMW5RZDVJQzVxc3hQWXU5eVZfdVZLWVB5RnRSS1ZMTk93alhRR3FlYTl3cjJyZlZDRWRWaTJ1Vlg1UFBaM2dRalZvcU1ZWVhERkdZZGtnUWs2bVNKZUE?oc=5"
-      },
-      {
-        "title": "How the UAE Leaving OPEC Reshapes Oil Prices and US Energy Stocks - Gotrade",
-        "source": "Gotrade",
-        "published": "Thu, 30 Apr 2026 03:49:51 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVXYybkg1MkJBd1VUZ3NEVjdWR05FVE1uYnJENHRJYUtTZFR3MVE1aFZ5emxPWThrbDBHYkY5TElKVExSUFNyc2xOTDJJR1ItMFBKWnhROGpic2FYTVB1RS1XTHItd0NJUWlyeTJjQ0dDMjF5YUJfQzNhcm9CQ1FzVHp3?oc=5"
-      },
-      {
-        "title": "Oil price soars to highest level since 2022 as US-Iran impasse shows no sign of resolution - The Guardian",
-        "source": "The Guardian",
-        "published": "Thu, 30 Apr 2026 03:22:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdW5OMHhKMTZRcWVCZ2NNQWJmWWl6d2VvSkhoOEZWeXFNQTRFSkN5MHNaV3BXV0ZEempTdW9LUEtSWE5PVm5PNVIwbWw3V2JqSjJiUG9fMXB5NmRRellNcXZYdFpKblMtNWxfUlU2My1ZcmtkNEdodV8wdmdNdGtpak5EU2JOSlJoTzFPd3l2cTg1ZTBmTkRYQkpscmpsOUdWNmNOZ2dnQUZoM2VDREpxak1QY0k?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQmQzcmc4UXlPOWNLaVNIdTdOS21OOUJveks1N0pEMnlYOVJ3Nlg4c0pIQlFZSUY5aGZpa2RBdnh4SGxjSS1rS09qVjlWalRWQ3ZkZURtNUFHZzhQbnp0U3NMZ19mMWxyZGxUT1BGSEdZRTI0NkxMTF8tWmZiNktKcFdPQzdTUQ?oc=5"
       }
     ]
   }
