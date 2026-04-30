@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T19:22:25+00:00",
+  "generated_at": "2026-04-30T20:16:43+00:00",
   "fx": {
     "nzd_per_usd": 1.712291,
     "as_of": "Thu, 30 Apr 2026 00:02:31 +0000"
@@ -8548,6 +8548,12 @@
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZHBPSmp2R3F1ajlVY1VtMGVQcWR2RnIxVUpudFJxM2tLU1RaektSVFNvYVVpVzlsUGk4WnJ2TllkRWtaSlZDNkZ5eE96U0pZZmdUZ0owM1k2RmxfZkszMkpzSGFHbkpVNHpUY3lDbVUxNzh2ZkpjUXpRZnl2c1dxYUtyZzBOTUNJcTVqSl9oWnpWUQ?oc=5"
       },
       {
+        "title": "Petrol under $3? How long will it last? - RNZ",
+        "source": "RNZ",
+        "published": "Thu, 30 Apr 2026 00:13:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ1JCRjJMeVdhSlZSS1RhdkUwUEdyenBfSkFSaHR1MHlWMVZBdEozUDlFUC1aaGx4VXNkeDdUQVNxelZIaFg5OVlseDBjRlhxYUR3RzV4YUw5RVFmZU5SSXdpLXlJMnpCVkxWQVN4NmNSOEFWTzFaREtLTXdmSFlpb0VoUkJzZw?oc=5"
+      },
+      {
         "title": "What new Tauranga flight cuts mean for travellers - NZ Herald",
         "source": "NZ Herald",
         "published": "Thu, 30 Apr 2026 00:01:26 GMT",
@@ -8582,15 +8588,27 @@
         "source": "NZ Herald",
         "published": "Tue, 28 Apr 2026 04:30:24 GMT",
         "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUGpOQm9Hclg3TG5sOFNJQmRXRC1EU29LSkV6X1NpWU1yc29rbjFKMG91Wk11MG1HX0JjTHRqMTByWW1rNUp2NXBzRFNFYVB5dWhHOTJIbXBfUUVaeVU5S1k3Yi1SNHZUaUVFa29JVnBXMDg4NVdmV3h1dXpDa1dqbmxqZHgwMzlWUGF4N1cwMkozZFNPSDFqMWcxclJsV2tLbDREMXNXZjBUMF8zX1hOdnNWbVdTenVOQXRRR1lxR1V3UkgzVm5YejI5MDRaZUdKMXlaUDVtOHRHbzRzTElZQmlfcTljVVJLS0ZaeFNEVDIyTHFmYUMtdA?oc=5"
-      },
-      {
-        "title": "Watch: Prime Minister Luxon discusses diesel supply at post-Cabinet press conference - RNZ",
-        "source": "RNZ",
-        "published": "Tue, 28 Apr 2026 03:58:14 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdjQ4VWtwb29SeTFRZjNNN2YxclpCek9paEZ3ck1vSmxhTHpqVVV0ZUJJZ1lZemhqNWZWaS1yOEZfSXpiY05HQ0UxSTNhZExCQkpmUW9aUWh0bzZKRFYyM3FVYWRscjl3Mjl1WGZiSVc4ZS1tYnA2cXNvY1lvTUlhZTVFeGN0ck9NMnk1UWhlTEVteVlURDlTZFA0bGwwcnFuUV9iUmQwd3E0R2pGRWVaWjFwR1dxYzhhVkpadkJ1MG1aUjA0M3c?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Oil retreats after hitting four-year high on concern of US-Iran war escalation - Reuters",
+        "source": "Reuters",
+        "published": "Thu, 30 Apr 2026 19:19:18 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZE4xSU9Nd09RUzAxanktcnJlQnJoUElDdGtZOXZUcHVSdDVNaU9iZFpHeU10aFp6NXM1SVVnNHVvQXRRWnlyUG95bzl0eWphR2xQd3ZoTXFpZzhrV2plNWlkdFV3S2JvVEdMVzhEYzlfQW9WeFRuTkJOMFlFQ3VxVWtwNkNROF90RjRROVRFcUhHV2tYU21DcTQ0emUtMDl4SGk1VHlSU19yN0tldElSMUpiT05EamV2ZFBWYXNySVlXQQ?oc=5"
+      },
+      {
+        "title": "US stocks motor toward a record as oil prices whipsaw - Front - The Journal",
+        "source": "Front - The Journal",
+        "published": "Thu, 30 Apr 2026 19:18:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR3FJOWRkODJLaHBuSXdVT2NLMTF4c0NCYTZDNXdDUXpEYTY0ZGpjdUtSeGhsTzFVUEdpZUp6T25RWFBRQ2l0aXdxM1l3TlVKMV80RTZVSUtrdjBENW5wbml2NUlUODBNYThsRGEzXy0yTENManM3SHRwMUtBZXEyNHNBTWxZSTVJSVJLbjFPaVB5N3ZoOWRGZVZyVnpLdXJUdFgxSFdJMU9JUzFvcF9XSGVGd2J3eG11UFpR?oc=5"
+      },
+      {
+        "title": "Oil companies look beyond Middle East for new supply sources - Scripps News",
+        "source": "Scripps News",
+        "published": "Thu, 30 Apr 2026 18:41:14 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdGg1QWNwUzNVMGUzanJIOUtOZjhPTm5zZTJueWxRYkxEc3lJSmhvNTVrbk9JRnV2eGRqRjV0dkVBV3IzN09QRUlKUW5RSnNtbloxYXFNdVZMRFFnS25GYUZaLTZnbkFEZURBMjFvMDV3bUlQR1RXWHVJYm1CQkE2SFpIOUN5X01leE9RdjVJR3pXd0htV0REckVBazhXVTRNZ1RfTjJEN2dPWV81aUt5bmhB?oc=5"
+      },
       {
         "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options - BBC",
         "source": "BBC",
@@ -8598,28 +8616,10 @@
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsbzF3QzZBT2o2cXFBNG5fNGpwYlJwVnhndmg0ZE9DV1hSaTJvXzdsRjVNTEt4cmZqNVJDZjJQamVZYVZFWkc3bE9aS0R6S29VYVFqSy1FU3pUZw?oc=5"
       },
       {
-        "title": "Oil companies look beyond Middle East for new supply sources - Scripps News",
-        "source": "Scripps News",
-        "published": "Thu, 30 Apr 2026 17:37:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdGg1QWNwUzNVMGUzanJIOUtOZjhPTm5zZTJueWxRYkxEc3lJSmhvNTVrbk9JRnV2eGRqRjV0dkVBV3IzN09QRUlKUW5RSnNtbloxYXFNdVZMRFFnS25GYUZaLTZnbkFEZURBMjFvMDV3bUlQR1RXWHVJYm1CQkE2SFpIOUN5X01leE9RdjVJR3pXd0htV0REckVBazhXVTRNZ1RfTjJEN2dPWV81aUt5bmhB?oc=5"
-      },
-      {
-        "title": "Oil retreats after hitting four-year high on concern of US-Iran war escalation - Reuters",
-        "source": "Reuters",
-        "published": "Thu, 30 Apr 2026 16:42:04 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZE4xSU9Nd09RUzAxanktcnJlQnJoUElDdGtZOXZUcHVSdDVNaU9iZFpHeU10aFp6NXM1SVVnNHVvQXRRWnlyUG95bzl0eWphR2xQd3ZoTXFpZzhrV2plNWlkdFV3S2JvVEdMVzhEYzlfQW9WeFRuTkJOMFlFQ3VxVWtwNkNROF90RjRROVRFcUhHV2tYU21DcTQ0emUtMDl4SGk1VHlSU19yN0tldElSMUpiT05EamV2ZFBWYXNySVlXQQ?oc=5"
-      },
-      {
         "title": "Brent crude oil prices hit highs and retreated amid assessments of the potential escalation in U.S.-Iran tensions. - 富途牛牛",
         "source": "富途牛牛",
         "published": "Thu, 30 Apr 2026 16:33:19 GMT",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWUZzYnItRXlXUW1IRllhN3A5ZnU2Q3NxcTNfZGxpd2RGeEZFZmR6UU1hLXA0QkdWdEphV1laTjdhVXhPaXYxc1ZwNVJZbmxsV3lINThnNHY2dEU1T3FmVWlVZlVJWEJpTURtd2dFWnNmT2s4dWc1eThZLXFTbVVvQ0d2NzNTbVRpcWMwS0FEc0dER0hlcThCOUw3S2NFNVBTZm84UVI3Zw?oc=5"
-      },
-      {
-        "title": "Oil prices hit new wartime high before easing, as gas prices expected to go up - CBC",
-        "source": "CBC",
-        "published": "Thu, 30 Apr 2026 16:08:57 GMT",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GYnRRN016OTd1VFJVbkY4MjNzNWc1OC1ndjRncm4xN1NUNWNDZlhiY05USV9QMkVmMFAxV2FBUWNzZVdHdEt4cGtBRXVITl9zcnZWbHJsMlNrTFA1cVIzcWtfOEFUczBBWm1jV3JKX1RXUE9o?oc=5"
       },
       {
         "title": "Oil Price Hits Wartime High Above $120 a Barrel as Iran War Standoff Continues - The New York Times",
