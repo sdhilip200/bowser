@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-05-01T18:48:14+00:00",
+  "generated_at": "2026-05-01T19:12:59+00:00",
   "fx": {
-    "nzd_per_usd": 1.712291,
-    "as_of": "Thu, 30 Apr 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.697248,
+    "as_of": "Fri, 01 May 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 110.64,
-      "latest_date": "2026-04-30",
-      "delta_1d_pct": -6.26,
-      "delta_30d_pct": 3.04,
+      "latest": 108.4,
+      "latest_date": "2026-05-01",
+      "delta_1d_pct": -4.92,
+      "delta_30d_pct": -0.23,
       "series": [
-        {
-          "date": "2025-04-30",
-          "usd": 63.12
-        },
         {
           "date": "2025-05-01",
           "usd": 62.13
@@ -1021,20 +1017,20 @@
         },
         {
           "date": "2026-04-30",
-          "usd": 110.64
+          "usd": 114.01
+        },
+        {
+          "date": "2026-05-01",
+          "usd": 108.4
         }
       ]
     },
     "wti": {
-      "latest": 105.0,
-      "latest_date": "2026-04-30",
-      "delta_1d_pct": -1.76,
-      "delta_30d_pct": 9.01,
+      "latest": 102.06,
+      "latest_date": "2026-05-01",
+      "delta_1d_pct": -2.86,
+      "delta_30d_pct": 6.16,
       "series": [
-        {
-          "date": "2025-04-30",
-          "usd": 58.21
-        },
         {
           "date": "2025-05-01",
           "usd": 59.24
@@ -2041,47 +2037,16 @@
         },
         {
           "date": "2026-04-30",
-          "usd": 105.0
+          "usd": 105.07
+        },
+        {
+          "date": "2026-05-01",
+          "usd": 102.06
         }
       ]
     }
   },
-  "nz_retail": {
-    "as_of": "2026-04-30",
-    "regular_91": {
-      "avg": 3.196,
-      "min": 2.98,
-      "max": 3.459,
-      "count": 56
-    },
-    "premium_95": {
-      "avg": 3.39,
-      "min": 3.049,
-      "max": 3.689,
-      "count": 27
-    },
-    "premium_98": {
-      "avg": 3.495,
-      "min": 3.359,
-      "max": 3.559,
-      "count": 7
-    },
-    "diesel": {
-      "avg": 3.261,
-      "min": 2.996,
-      "max": 3.849,
-      "count": 77
-    },
-    "lpg": {
-      "avg": 4.293,
-      "min": 4.293,
-      "max": 4.293,
-      "count": 1
-    },
-    "observations_today": 76,
-    "observations_yesterday": 84,
-    "observations_older": 8
-  },
+  "nz_retail": null,
   "mbie_waterfall": {
     "week_ending": "2026-04-03",
     "fuel": "Regular Petrol",
@@ -8548,10 +8513,10 @@
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa1IzYlhJX1Fwdm1zZDFTaHg0R3ZfVzBxeXpIT1JQY0tMWmVWTlhTbUpLbV9PQnRaVXdXdUxkV2ZuOGozeG42TG5HNDh2QloyZUZPRVpLdmJVQmdFaVV1ZHlJWGE0dW5LYmdBbUNucC00Q3MyT0l4YkQ3YjFWQUNwMlRLX2RqUHhmcGgwT3JoWG5QQ01MVTJoNG5WNGFmTXJs?oc=5"
       },
       {
-        "title": "Flight to value: Woolworths flags weaker NZ earnings in tough grocery market - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Thu, 30 Apr 2026 06:01:33 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNNjdOYkl1d0dMZkE1STdXcG1LS0E2b3pBZVJoX1RocXhIazl1bGlXVWFOekp5YXY3N0RzRFZ0dTdjbkl0aTcwRnFWQjVHZ0lOc0I3dk1xTEc4VldyWFBXaWtLby1QVGduMjhtOEpQblM5V3dFSVVpR01GTlBrVTNHSHg2Q2p1V1lBaERSbExyemMtaDNXLUtHM0hndjQ0aTF2SVEwM2pCVnRpMlk5VElxNkJqVVBWRnJNOHQyUzdKSEVCUzNsOHVZb3NLTHV3RThYVzdCRTFzc0dqd0F5aXRXUUFqTHJ2Szhhcm5jVGEzLUpZM3NHMll0STdMd0xGZFdZcFZQQW9sQ19zekluSmc?oc=5"
+        "title": "Air NZ cuts more regional flights due to fuel prices - Stuff",
+        "source": "Stuff",
+        "published": "Thu, 30 Apr 2026 04:03:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN3NoaUlfMlAtcWZfODFIVTI5d3pybVk1aERqR0tKaW5UdzdTU3RTTUhibkNpbWYzZ2VsV1NXMkRrNGJab2NpSEVRcE90OHNsenRmdDNabFlyQWhVc0Zva0gzZlp2azV6R3lKMVRBVEx0NWwzMW1BNVF2cU5zZ3JQbWlONURBeG5oQ1N1d0ZrbEpON2pq?oc=5"
       },
       {
         "title": "Petrol under $3? How long will it last? - RNZ",
@@ -8592,10 +8557,28 @@
     ],
     "global": [
       {
-        "title": "US intensifies sanctions on Iran, impacting oil price expectations - Crypto Briefing",
-        "source": "Crypto Briefing",
-        "published": "Fri, 01 May 2026 18:12:13 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaTNVVHd6emcxQWJhRGxjWjVFVG91SlBSTUt6QV83QVdrRldDSnZ0aHpJXzZGQWt1aUJYRUUtRjQ3NXBvR2NQYnFSZVVLdlgxUmFzb2ZhR2w2aWtnNEFlZUxHMmF4XzdwWHdHeGFmUmJsWmNjRVlZUngwNkJHY3ZyYWJYQlZIMFREdl9ZRkYweHVsTDRVcnlEVQ?oc=5"
+        "title": "Breaking | US sanctions China-based operator, others over alleged Iran oil trade links - South China Morning Post",
+        "source": "South China Morning Post",
+        "published": "Fri, 01 May 2026 19:08:21 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb29HLTNBMHktTlhhSG1OaEp0NHpLQ2hHMXFsQml1c2U0UERHeHk3Z01ZX1hZaUZ1NURvSkhQMGdPOGZWSktISDhBZDNfcndTRDVKcHJXbGFRWDVLTWRfR1U3TmRJUGFlVG54M1NyNERqUkswZDFReXB5R0l5ak1Gcl9jYVUwQm8wX3Vjd1JOcjI3aTFRZko0dy1wbEQxMzI0WlllU21zUVdIcG1fMW9lYThVVFZjNmR4UTZrbEFaVDJ4anZ6RXE0c2JuM2RaVjdJ0gHQAUFVX3lxTFA3RGhyQk9nNTBoZW9EOXdLWkpPdWVuMl9INjhZWnQyMnVlc0gxNlg2X2RtbUtkMnJja2hpVi1jaHB5MkwzcHdFeXFnZ0x6RUZqcGZCSkYwaFExZFdSSFQxSVZCX3Q5V0JIbWdoeDUxMWhlMzZMUjQ2d01sRjhHYmxPeHI5eXVtVDZGRFdzR1AxUWdXX1l3M3Q1akk4WUpjWElQQm9mRmE5SDJnZDNTZ3RralNNc1F4ZjhlM1drZ2hGQzFZMmh1Zno0a0FzVW9rV3M?oc=5"
+      },
+      {
+        "title": "Syria relies on Russia's oil despite pivot to the West - The Jerusalem Post",
+        "source": "The Jerusalem Post",
+        "published": "Fri, 01 May 2026 18:44:10 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16dkJsZF9Vd0U1VlU3Ymp5M3dkRnR5NTE1a1hBR1UyZWQ3aGgyZDFNTlVuYVZaTEYyOEx5UEh3TkFYMmJsNWMzS3lDanJZWFhiYkJXbW5UTEpOal9O?oc=5"
+      },
+      {
+        "title": "Iran War: US Sanctions Iranian Exchanges, China Terminal on Oil Purchases - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "published": "Fri, 01 May 2026 18:31:07 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORFdEM1llMi1SZHc3MzI2WGs3RTlLN1ZiWE1mVVk2V29fUXhNbElaZWZVMWVmcjVZNWRBYll6VUxNa2t4bHhkRi13YXVnQmhNS3Nwbzhvc1l4WUtZaFFaUW0wTVdrcXMyLVgzQ0lfZjI5c05FRzBfb0VVRVhYN1dKVjBlU2lwODNsUWw1cUVpLWlWTU1URXNlS3dKczlZRkxHYS1VenEwVURQdlhrNEU5aG9kcw?oc=5"
+      },
+      {
+        "title": "ExxonMobil CEO sees chance of higher oil prices as earnings dip - France 24",
+        "source": "France 24",
+        "published": "Fri, 01 May 2026 18:19:09 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU3hQOWtZWHZoNi1GQzcwT3BNTzZER2pPbUlDNGU0dDV6MmFHaTB5WEd3WFNrLVlFdllHeVRrU3hDLTVmZWdBQ1Z2eWR5bHltZmZaN2huMUg5OXQ5czR5OVQ4N3hGRklNbHFQYkRHcEVTb1dIQ0RHaTBQa2hxZDhyTjJuVkwwM0s5ZzNVcGxfdHBzcGtQUzhPVndlUExqUGw3VGNVLWIteGYyZEZKWjZv?oc=5"
       },
       {
         "title": "Iran conflict closes Strait of Hormuz, risks $160 WTI oil price in April 2026 - Crypto Briefing",
@@ -8610,12 +8593,6 @@
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JaVF0M195WFQzcE03MElBblYzU0dOdi1hanNQNHBRa2NKSnppRTRjSTBQem8wQm1tb09wS0lsam05ZGtKY3FGNlhhOFRXZmY4YjlOQWlVZlBLUGV6UU51YmFhOXV3V193SWl1eUR6d0FFWmJzMmhHYVRxV0RyUQ?oc=5"
       },
       {
-        "title": "Japan refiner Taiyo buys oil from Russia as Middle East alternative - Nikkei Asia",
-        "source": "Nikkei Asia",
-        "published": "Fri, 01 May 2026 16:37:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQWRSMW80dnoyN0hUZmpSZ2VVWTVBdFEyczFfTmRFLWJGZ3NaN052amVvQ25mYWxYeDBKUmdiNklMdXVzNVhMR01ncm9MaGhtd3Y0djZFaVNIeUUwWlhYSkxXb1RiNGJ5S0I0Sjd5RHpRS2c4NGlMV3RnUElqd1RtY3M0T1RHaEVZLW9DRnBjWGpQd1lnRE8xODR0NnQtZ21yeG5ZZV9FWFdNdnc?oc=5"
-      },
-      {
         "title": "US sanctions Iran’s shadow banking channels moving oil proceeds from China - Al-Monitor",
         "source": "Al-Monitor",
         "published": "Fri, 01 May 2026 16:30:55 GMT",
@@ -8626,18 +8603,6 @@
         "source": "FXStreet",
         "published": "Fri, 01 May 2026 16:28:29 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOHU3WWgxalJMdVVsU2VZby10cE5mcXVfbUNmdXQ2enB6cERncXpYZTgtTDlicW9BcjJReEJoQ0FWVnZjS2wwMkNzWEhLRDdPaENQLTJnUEZkZHhfWkcyaWxxbENsamVWRjdlSmpZXzN3UTBwOHpsZkhweFZxQzNZRF84OF9KRnBLYnp3ODd4S2s1SHBRSUV1MjFsSFpkMXFvODY3WU9UYTE?oc=5"
-      },
-      {
-        "title": "Oil Rally Stalls as Iran Proposal Triggers Profit-Taking - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Fri, 01 May 2026 16:11:50 GMT",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWTltd0NwSnBkbjBvX3J2N2l0R3VuWDRISFdHb25rRTVDSXc2S0RMZzlXdFlxaXNOZkdsVDVSeHJwNEs4eWZvLVBYNm4xZUdTX2FoTnQyM29mTlhPRXh1S2RQUDBDYnNNb1JBOHlabkFtRkhISDQ4OXlYSVIyX1g2N2ZocHo3Rm1NTlZCMF9uOFVQTnVwdnpJbGpRUXJtcU130gGmAUFVX3lxTE5FcHVoNUtTeC1qMVVicEJUSnFDV180NWZCYVRRc08xV1c1eWx4Yll6ZUxXb2VpWXprYVowaXJaam5uRVlGU2pENW5kYWFWaDZoUDk0Nnp3ekk5YlBYZ3VVQldkVjBzNGx2SHd4UFVmSHcyQ0xSQkNkaThWcVJRYjluWC0xcjVTWmtwQ21XMHg5M29iVkxtRG5rOXhaNmlKTkQya1VxNVE?oc=5"
-      },
-      {
-        "title": "Exxon CEO warns Middle East supply constraints may boost WTI oil prices - Crypto Briefing",
-        "source": "Crypto Briefing",
-        "published": "Fri, 01 May 2026 15:37:39 GMT",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbkdMVmpFYmYySHlTNUlpUHJqYmhoNmhKTDdiNkk3aG5TbXNTRnZuOW9RdDdaTmlYRk5TOUdlYVJndnIxTlV3NERIdlRXalpwcW9HcTRzRHZzWGRlZ094ZkNQbl9hSG9qc0FGUUZ5a1dVQmtTS2FYR2Qzd1AyQURXcUg2QURob2NpOU01UEM5Y240bVVmSU5WandHWnRicTJN?oc=5"
       }
     ]
   }
