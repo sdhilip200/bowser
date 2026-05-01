@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T23:37:11+00:00",
+  "generated_at": "2026-05-01T01:27:55+00:00",
   "fx": {
     "nzd_per_usd": 1.712291,
     "as_of": "Thu, 30 Apr 2026 00:02:31 +0000"
@@ -8542,6 +8542,12 @@
   "news": {
     "nz": [
       {
+        "title": "Auckland shakes up fuel cost flexibility for PT contracts - Australasian Bus and Coach",
+        "source": "Australasian Bus and Coach",
+        "published": "Thu, 30 Apr 2026 22:15:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTGM2TV9PdlNhWktGdWJtd2tNOXpraEwxQjFUNnl6c1FrTmI0c1hfV1Nma1Y1bEgxSjNZUWszMk1QRGZtUDRXbWRnOFBaMV83NFQwVVlKVWN6Y2Ffa2lSRjFTUzNaUzhnbEFJQkJFbHlXVFNFWHFyLTBXVWpQLU1yVWNMdG9zM1JqT3htMDZKWElBelE?oc=5"
+      },
+      {
         "title": "Flight to value: Woolworths flags weaker NZ earnings in tough grocery market - NZ Herald",
         "source": "NZ Herald",
         "published": "Thu, 30 Apr 2026 06:01:33 GMT",
@@ -8566,6 +8572,12 @@
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMEhxMXM5QzlGTWd2VlZPbUFTcHlfSC1HdGtLZ0NfYWw4dTZlVTExUVo5UVNUMzF4RUhNX2VHU29RelNMS3JEWTV3b1ZKSVdUbGt2amQ2WG1OeEhsUzhKcEFuaXZsU3J4MzE5aHJVSC1kV3BSay1FeUY0VlVacDYwaGtjeC12QlU?oc=5"
       },
       {
+        "title": "Fuel companies confirm 10 ships are en route to New Zealand - Stuff",
+        "source": "Stuff",
+        "published": "Wed, 29 Apr 2026 01:25:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdWhKUHo5VzB2cjJQYzFPaUhwRm9fU0k0NFh2UC1xNHFkMk4yeXhXNW1ELTl1a3FhQVVrME1UR3RSMUVmS0dNSmtwRG1FRE5LUWVzT2lvazh3NUxnb0FGX0ZjUmV3cHpwOERMMXVWQXRFd3pqWTc2anFjZkhrcExXa1gwaC1oYWd1cW02S1o4d3hqbUJhNlpEM05GLU1xNW8?oc=5"
+      },
+      {
         "title": "'Rejig of the Budget': Public will find out cost of Z Energy deal once it's been paid - NZ Herald",
         "source": "NZ Herald",
         "published": "Tue, 28 Apr 2026 19:19:00 GMT",
@@ -8576,21 +8588,21 @@
         "source": "RNZ",
         "published": "Tue, 28 Apr 2026 16:50:46 GMT",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaTNXeXZ3R2RNcWhjWWpyZzFoNXlpOGo3VmJqN1p1QTdISTREdnQ3MGpZbF9hZy10VmdfM0tiOGZ0bzBGUnJZZHY3X1VCWVhsZFp6cjgwVnp6NHFJOFVpQ2puUVFaV1dEY2l0YTh0YTJPeHE0MjN1Y0piRFVGcmxTVUdjdF9ETW5lUVlhZFBsRzRUdWZrNHB5cVFDQ09CT09aMHRvV0N0ODhtaG9aTXI3WGJKV1dCODlFSVRza2x3?oc=5"
-      },
-      {
-        "title": "'Backup buffer': Government buys 90 million more litres of diesel - 1News",
-        "source": "1News",
-        "published": "Tue, 28 Apr 2026 07:48:12 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSmtiV0dSMmkxRFprVml0M1pQSDh2eXJ3d3dfV0N2VmhPYzhhUVljUGp1cXU2c1VDWGNLZjhTaGlGRjZaYnVyS2oxZnRLNVdjNDYtOFhPZkZ6V2ltSWpUYjI1ZlVPNDRDZi1ZODZGWjFqbFNGTDFpLUdKZkFtalhiTkxncU0yU3l1d2lsWGtnSFZ5dUZXRk4xNnZOSm04ZUZZaGxGZQ?oc=5"
-      },
-      {
-        "title": "Here’s when the fuel ships en route to New Zealand arrive - The Post",
-        "source": "The Post",
-        "published": "Tue, 28 Apr 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZkRNc3VXQVZja2paVWQ3YjFaU2R6MnU5U1FHQ09vZTJfYUNteGxfc21VWkFQYlRsQmRrbExISUE4eEttUWl4WUdxSU1GZ09pTTE3MW9nVlg1SGQtTWRmcW91ZzRxTXFmUUpUWWFYOFd0anIwdGpZanlhdkNDbWN1cEtETi1DQ1hPNkowS2tYMkxTME5hcXp0WWFpMVd2QUFfT2VrYjZJV28?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Explainer - US sanctions on China's Hengli mark escalation in Iran oil crackdown - MSN",
+        "source": "MSN",
+        "published": "Fri, 01 May 2026 01:24:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZzNIc0tiUmVSRXk1SmxMSTJ1bUtQMmxrcHk0SVg3cVJ6MGZfbHpTU0VwVzlfUEs3M1kxZzI0ZmwwSTN0cTVwWXB1Q3ZOZVZHODVfeDBuVHdDdmlDYjZaNWJWOUV3TTJWX0U5UVoycnNQVUdiNkhHV054TTdVVVZBVWo2NW5URF9fdDlxX3NTRGFqT085dTdGQk1VOVVjNkQwWFdGWnpfYUg4WmtJeFZSUVRWaXZETURLOEVTWHJVT1pjSEtvYnpVY0g2a3JkYzI5RDhqVEVyckxmMmMyQThtMg?oc=5"
+      },
+      {
+        "title": "Brent Crude Spikes to $117 on Iran Military Option Reports - 24/7 Wall St.",
+        "source": "24/7 Wall St.",
+        "published": "Fri, 01 May 2026 01:17:56 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQVNUOUNtQWxHODZhdXpFdHo5dlZGSFlmX1hPenRSeVU3eHRMRFZzandid2djcVl2TkVJakdFWUpoNDNDQUs3Qi1YUTBscW1ncEhRQllqUVY5M25nNGY1MkxQNVByaW9XVGhPTFpsQnk5V3gzRXVJZ3N3OFJpU1ZIMXg2SVVvYndZZ0tYSExqM25PUzUxSTNYcDlrMFVIYkxRd3NZ?oc=5"
+      },
       {
         "title": "Trump to be briefed on options for Iran as energy prices soar to 4-year high - NBC News",
         "source": "NBC News",
@@ -8626,18 +8638,6 @@
         "source": "WSJ",
         "published": "Thu, 30 Apr 2026 19:10:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaTJjVjJXWEhVYi1ybC14MXBKRTN2aUluVnhMMEo0ZVUxdkpjdmpNaHk5WU1qYUZ5UWdhREVtTjNwRDc0dEg0TG5sYTBoWTNUNVc0ZERLYTVxb2tENHh1azBUOXNPOEU0Q2NIZTFhUFVrMkhyY1UyeHM1Rk4wY2dKLWxZWjJVZ3U4YnpqcUFwZ1lTekJscEppOW9KZWJtSXJoX2t2bnR3MEE2UE5Lc1JyNmN0cVR6cVVFelZHZnBhZmRzM0hfY3h4Sw?oc=5"
-      },
-      {
-        "title": "Oil companies look beyond Middle East for new supply sources - Scripps News",
-        "source": "Scripps News",
-        "published": "Thu, 30 Apr 2026 18:41:14 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdGg1QWNwUzNVMGUzanJIOUtOZjhPTm5zZTJueWxRYkxEc3lJSmhvNTVrbk9JRnV2eGRqRjV0dkVBV3IzN09QRUlKUW5RSnNtbloxYXFNdVZMRFFnS25GYUZaLTZnbkFEZURBMjFvMDV3bUlQR1RXWHVJYm1CQkE2SFpIOUN5X01leE9RdjVJR3pXd0htV0REckVBazhXVTRNZ1RfTjJEN2dPWV81aUt5bmhB?oc=5"
-      },
-      {
-        "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options - BBC",
-        "source": "BBC",
-        "published": "Thu, 30 Apr 2026 18:05:26 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsbzF3QzZBT2o2cXFBNG5fNGpwYlJwVnhndmg0ZE9DV1hSaTJvXzdsRjVNTEt4cmZqNVJDZjJQamVZYVZFWkc3bE9aS0R6S29VYVFqSy1FU3pUZw?oc=5"
       }
     ]
   }
