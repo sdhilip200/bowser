@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T06:18:42+00:00",
+  "generated_at": "2026-05-02T08:04:08+00:00",
   "fx": {
     "nzd_per_usd": 1.697248,
     "as_of": "Fri, 01 May 2026 00:02:31 +0000"
@@ -8507,6 +8507,12 @@
   "news": {
     "nz": [
       {
+        "title": "Fuel or the doctor: Rising petrol costs force whānau to miss care - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Sat, 02 May 2026 03:27:01 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQmY3NnktQVMwaUtlc0NsOW5SemdZR3JRVFFoTEoydjIxbGoxWDhUQ1kzalFqRUk3dS1pcVd4aDEtdmd3MGUzV2pDQ1lQVnA3NlFqNE42R05fOEozS3AtQ3lEQ2RnQ0VsYUtPV3VrZDkyMjVEd2lOQ09GUk5hMkk2XzROaURXWFR4aElyVGZ5bXE1VlFHVXM4YTJESmg4X0ZyVGtaWmI1YTJuRmJZQmV2bVlmOElUV21jZWtpcFFn?oc=5"
+      },
+      {
         "title": "'Disappointed but not surprised' - Nelson mayor on more Air NZ cuts - 1News",
         "source": "1News",
         "published": "Fri, 01 May 2026 23:24:05 GMT",
@@ -8528,7 +8534,7 @@
         "title": "Petrol under $3? How long will it last? - RNZ",
         "source": "RNZ",
         "published": "Thu, 30 Apr 2026 00:13:41 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbEhGLXhjOThwTHlxWE9JQWd5WlQ1TUc0S3NVZ1NkRkVUMlRpSmNYSkZPeENqMEtXQkVUcGNVa1piR0RXM1p5UjA1a3J3U3k4UXFKTERIYnVia3JTdjlFdXp1V1lnQ2pjcXU1Y2plV1B5djA4SElkSW1MZlYxY2haaE5kTXdLdVFXbzhOMlhtN3Q?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ1JCRjJMeVdhSlZSS1RhdkUwUEdyenBfSkFSaHR1MHlWMVZBdEozUDlFUC1aaGx4VXNkeDdUQVNxelZIaFg5OVlseDBjRlhxYUR3RzV4YUw5RVFmZU5SSXdpLXlJMnpCVkxWQVN4NmNSOEFWTzFaREtLTXdmSFlpb0VoUkJzZw?oc=5"
       },
       {
         "title": "What new Tauranga flight cuts mean for travellers - NZ Herald",
@@ -8547,15 +8553,15 @@
         "source": "Stuff",
         "published": "Wed, 29 Apr 2026 01:25:06 GMT",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdWhKUHo5VzB2cjJQYzFPaUhwRm9fU0k0NFh2UC1xNHFkMk4yeXhXNW1ELTl1a3FhQVVrME1UR3RSMUVmS0dNSmtwRG1FRE5LUWVzT2lvazh3NUxnb0FGX0ZjUmV3cHpwOERMMXVWQXRFd3pqWTc2anFjZkhrcExXa1gwaC1oYWd1cW02S1o4d3hqbUJhNlpEM05GLU1xNW8?oc=5"
-      },
-      {
-        "title": "'Rejig of the Budget': Public will find out cost of Z Energy deal once it's been paid - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Tue, 28 Apr 2026 19:16:32 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZGtXRjc1N0JWZ0NROVlyUTZaWVBkcWVWTnJOU1ZDblRidVhVdEdPbm9hVTdtSkd3OTl3TmRXODNDcDRQWlJMOWJ1YWhld0xjZkltX0xIMDhQRExZUTE5UVFpeVlYZjBwZnBfNF9fc19TX3VHNW1vcVZhaXVGNTRpVndESjRsRXZsWVNEMXR2aDU5b29maW9XZFBoeGg4bTlqZlowSVZZR2RMVTNVYnlSbmJCXy1DVjNlc09tYlJtLWsxdjltbHVtYzRja1VRTE9TZ3Q1bU5NZ2tiWmVuQ1lMNzlTQUhIbXAxNG9jTnFB?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "China’s ‘Teapot’ Refiners, Targeted by U.S., Offer Financial Lifeline to Iran - WSJ",
+        "source": "WSJ",
+        "published": "Sat, 02 May 2026 02:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOG9DTERxYVJEcUNNbHlKNzVCblJnNXBtVEhkUHU1ODN5ZWJwZWl6NkZEelhGbkl2dHJiM1M2d2pGbjJXVnRpNjBXVGpWVUVkRFN0bzJtaGFnekJYSTh2em9vc2F3QXJKaGQyXzhWa0NGYkY0ZDlNR3Z1aEVxV29Eb2NTZjlrMkEyQThiYXZNX0kxSlMzdE8tb043SzJfZ0hqYjJ6eFdncldNQWh0RW9xYnVpN0IyMTBVMlE?oc=5"
+      },
       {
         "title": "Middle East tensions drive WTI crude prices toward $150 amid Strait disruptions - Crypto Briefing",
         "source": "Crypto Briefing",
@@ -8593,15 +8599,9 @@
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb29HLTNBMHktTlhhSG1OaEp0NHpLQ2hHMXFsQml1c2U0UERHeHk3Z01ZX1hZaUZ1NURvSkhQMGdPOGZWSktISDhBZDNfcndTRDVKcHJXbGFRWDVLTWRfR1U3TmRJUGFlVG54M1NyNERqUkswZDFReXB5R0l5ak1Gcl9jYVUwQm8wX3Vjd1JOcjI3aTFRZko0dy1wbEQxMzI0WlllU21zUVdIcG1fMW9lYThVVFZjNmR4UTZrbEFaVDJ4anZ6RXE0c2JuM2RaVjdJ0gHQAUFVX3lxTFA3RGhyQk9nNTBoZW9EOXdLWkpPdWVuMl9INjhZWnQyMnVlc0gxNlg2X2RtbUtkMnJja2hpVi1jaHB5MkwzcHdFeXFnZ0x6RUZqcGZCSkYwaFExZFdSSFQxSVZCX3Q5V0JIbWdoeDUxMWhlMzZMUjQ2d01sRjhHYmxPeHI5eXVtVDZGRFdzR1AxUWdXX1l3M3Q1akk4WUpjWElQQm9mRmE5SDJnZDNTZ3RralNNc1F4ZjhlM1drZ2hGQzFZMmh1Zno0a0FzVW9rV3M?oc=5"
       },
       {
-        "title": "Syria relies on Russia's oil despite pivot to the West - The Jerusalem Post",
-        "source": "The Jerusalem Post",
-        "published": "Fri, 01 May 2026 18:44:10 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16dkJsZF9Vd0U1VlU3Ymp5M3dkRnR5NTE1a1hBR1UyZWQ3aGgyZDFNTlVuYVZaTEYyOEx5UEh3TkFYMmJsNWMzS3lDanJZWFhiYkJXbW5UTEpOal9O?oc=5"
-      },
-      {
         "title": "US Sanctions Iran Exchanges, China Terminal on Oil Purchases - Bloomberg.com",
         "source": "Bloomberg.com",
-        "published": "Fri, 01 May 2026 18:31:07 GMT",
+        "published": "Fri, 01 May 2026 18:57:17 GMT",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORFdEM1llMi1SZHc3MzI2WGs3RTlLN1ZiWE1mVVk2V29fUXhNbElaZWZVMWVmcjVZNWRBYll6VUxNa2t4bHhkRi13YXVnQmhNS3Nwbzhvc1l4WUtZaFFaUW0wTVdrcXMyLVgzQ0lfZjI5c05FRzBfb0VVRVhYN1dKVjBlU2lwODNsUWw1cUVpLWlWTU1URXNlS3dKczlZRkxHYS1VenEwVURQdlhrNEU5aG9kcw?oc=5"
       }
     ]
