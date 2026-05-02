@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-05-02T18:00:04+00:00",
+  "generated_at": "2026-05-02T19:00:07+00:00",
   "fx": {
-    "nzd_per_usd": 1.697248,
-    "as_of": "Fri, 01 May 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.69533,
+    "as_of": "Sat, 02 May 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 108.4,
+      "latest": 108.17,
       "latest_date": "2026-05-01",
-      "delta_1d_pct": -4.92,
-      "delta_30d_pct": -0.23,
+      "delta_1d_pct": -5.12,
+      "delta_30d_pct": -0.44,
       "series": [
-        {
-          "date": "2025-05-01",
-          "usd": 62.13
-        },
         {
           "date": "2025-05-02",
           "usd": 61.29
@@ -1021,20 +1017,16 @@
         },
         {
           "date": "2026-05-01",
-          "usd": 108.4
+          "usd": 108.17
         }
       ]
     },
     "wti": {
-      "latest": 102.06,
+      "latest": 101.94,
       "latest_date": "2026-05-01",
-      "delta_1d_pct": -2.86,
-      "delta_30d_pct": 6.16,
+      "delta_1d_pct": -2.98,
+      "delta_30d_pct": 6.03,
       "series": [
-        {
-          "date": "2025-05-01",
-          "usd": 59.24
-        },
         {
           "date": "2025-05-02",
           "usd": 58.29
@@ -2041,12 +2033,47 @@
         },
         {
           "date": "2026-05-01",
-          "usd": 102.06
+          "usd": 101.94
         }
       ]
     }
   },
-  "nz_retail": null,
+  "nz_retail": {
+    "as_of": "2026-05-02",
+    "regular_91": {
+      "avg": 3.216,
+      "min": 2.98,
+      "max": 3.459,
+      "count": 86
+    },
+    "premium_95": {
+      "avg": 3.421,
+      "min": 3.049,
+      "max": 3.699,
+      "count": 54
+    },
+    "premium_98": {
+      "avg": 3.541,
+      "min": 3.269,
+      "max": 3.823,
+      "count": 16
+    },
+    "diesel": {
+      "avg": 3.264,
+      "min": 2.999,
+      "max": 4.019,
+      "count": 87
+    },
+    "lpg": {
+      "avg": 1.959,
+      "min": 1.959,
+      "max": 1.959,
+      "count": 1
+    },
+    "observations_today": 0,
+    "observations_yesterday": 209,
+    "observations_older": 27
+  },
   "mbie_waterfall": {
     "week_ending": "2026-04-03",
     "fuel": "Regular Petrol",
@@ -8513,12 +8540,6 @@
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQmY3NnktQVMwaUtlc0NsOW5SemdZR3JRVFFoTEoydjIxbGoxWDhUQ1kzalFqRUk3dS1pcVd4aDEtdmd3MGUzV2pDQ1lQVnA3NlFqNE42R05fOEozS3AtQ3lEQ2RnQ0VsYUtPV3VrZDkyMjVEd2lOQ09GUk5hMkk2XzROaURXWFR4aElyVGZ5bXE1VlFHVXM4YTJESmg4X0ZyVGtaWmI1YTJuRmJZQmV2bVlmOElUV21jZWtpcFFn?oc=5"
       },
       {
-        "title": "'Disappointed but not surprised' - Nelson mayor on more Air NZ cuts - 1News",
-        "source": "1News",
-        "published": "Fri, 01 May 2026 23:24:05 GMT",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa1IzYlhJX1Fwdm1zZDFTaHg0R3ZfVzBxeXpIT1JQY0tMWmVWTlhTbUpLbV9PQnRaVXdXdUxkV2ZuOGozeG42TG5HNDh2QloyZUZPRVpLdmJVQmdFaVV1ZHlJWGE0dW5LYmdBbUNucC00Q3MyT0l4YkQ3YjFWQUNwMlRLX2RqUHhmcGgwT3JoWG5QQ01MVTJoNG5WNGFmTXJs?oc=5"
-      },
-      {
         "title": "Petrol price relief may be short-lived as global oil costs surge - 1News",
         "source": "1News",
         "published": "Fri, 01 May 2026 07:31:05 GMT",
@@ -8553,9 +8574,21 @@
         "source": "Stuff",
         "published": "Wed, 29 Apr 2026 01:25:06 GMT",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdWhKUHo5VzB2cjJQYzFPaUhwRm9fU0k0NFh2UC1xNHFkMk4yeXhXNW1ELTl1a3FhQVVrME1UR3RSMUVmS0dNSmtwRG1FRE5LUWVzT2lvazh3NUxnb0FGX0ZjUmV3cHpwOERMMXVWQXRFd3pqWTc2anFjZkhrcExXa1gwaC1oYWd1cW02S1o4d3hqbUJhNlpEM05GLU1xNW8?oc=5"
+      },
+      {
+        "title": "'Rejig of the Budget': Public will find out cost of Z Energy deal once it's been paid - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Tue, 28 Apr 2026 19:16:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZGtXRjc1N0JWZ0NROVlyUTZaWVBkcWVWTnJOU1ZDblRidVhVdEdPbm9hVTdtSkd3OTl3TmRXODNDcDRQWlJMOWJ1YWhld0xjZkltX0xIMDhQRExZUTE5UVFpeVlYZjBwZnBfNF9fc19TX3VHNW1vcVZhaXVGNTRpVndESjRsRXZsWVNEMXR2aDU5b29maW9XZFBoeGg4bTlqZlowSVZZR2RMVTNVYnlSbmJCXy1DVjNlc09tYlJtLWsxdjltbHVtYzRja1VRTE9TZ3Q1bU5NZ2tiWmVuQ1lMNzlTQUhIbXAxNG9jTnFB?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "China CRUSHES Trump’s ‘ILLEGAL’ Iran Oil Sanctions, ‘Won’t Be Dictated’ | Watch - The Times of India",
+        "source": "The Times of India",
+        "published": "Sat, 02 May 2026 18:14:25 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVXMwbGg4eHEtNkl0Q2p0cVdXTnMxZVVRczJBX1U3MDJPS1d6d0FOZzR2RTl2WFdEWEFjS3JVZnhiUTVUN1BsR2J1TVBmZEZidFhjZTBobWU5Ym1tRy1tYmF4S2I0MjlwVkNxLVpUMWxGQWt3ZVY0MmRQb3VuNU1jalNpUGQzM0p5VnJhd2hFWkVGTC1CQU5uWlJaV3RVV3RnVjFjSVF4cUxrVzFRd0F2Qm1VTTBsVlRFVmNmbG1xTEdiNGw2VlRwV1c5NmJlejBiMW44T1lEZEE4Mk1Od0VuRGJCeV90d9IB6wFBVV95cUxPMzNFLVhUSG9sQkVFQU1kTVY4UDI1ZzlPS0ZhdXdqYmJ1YnRIV2lzcm16NUVwWXdEODFmcEpYT0c3Rzg1RDZTenBkM1FLWFJ0ekRZLWpteVBYa0hQbWxHeU91dnNlVjVsT3VfUjBHMHBBc21LYW9aV2xERkNfRkdBS0dSOE5LeDJERlVXcS12V1J4c0pmZVlCclRSdk1hR3AwaDIwdVI1N3hpY1J1NnV5Z19RRnN3dHBvR0xRVFNZODNLVHhoa092UXhNcjZTQXhNUURYUVlLN1V1WjJxaHRlb0VjRE1EQ3ZVdk93?oc=5"
+      },
       {
         "title": "China challenges US sanctions on five refiners over Iran oil - شفق نيوز",
         "source": "شفق نيوز",
@@ -8567,6 +8600,12 @@
         "source": "Middle East Eye",
         "published": "Sat, 02 May 2026 14:38:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeUNnazg1RjNqMVhPak9hREZOT2dwLWpKNjB6WTJwWmJOMkQ1cVRNTEJlcE94NDY0SW8waDlKM19VYWdxSENTMGpSZndteDRRZF9hRzR1YVVsdENRM2pZWWxNOGlCUXJkRmk4NXM3SjlqWVlFdHRBYXdOWXpXNEdrTlJLaEx6dXlIaXJjYkxXYjE3MVRxMFh3M2xlTjNiaUhQNGlNRjkwaWRuRVlLVjgyTklOOU9Bd0V0amM4ZmdpMy02NnlkSXkw?oc=5"
+      },
+      {
+        "title": "Strait of Hormuz: US threatens shipping firms with sanctions if they pay Iran tolls - BBC",
+        "source": "BBC",
+        "published": "Sat, 02 May 2026 14:18:14 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nekV0UmtXWEVSSy1NVEtPSEN0dFBlazllcXc4RFpaVFFtbGxIbWlyc3JFS05hdjRnUFRNRFdUZFFtU2Vfems0eXRWdUZ6SGFQV0hQVXpYUEl2dw?oc=5"
       },
       {
         "title": "China rejects US sanctions on refineries over Iran oil links - CNA",
@@ -8591,18 +8630,6 @@
         "source": "Upstream Online",
         "published": "Sat, 02 May 2026 07:50:37 GMT",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ2xJbm9ZVmpqZjZJZlFzV0VRNkZCX1g0a2RicTQ1Y1d4R29RaWlaVjh0YmxYaU54RGVLODZhcXVvRFNXYXU4aTZYMmhrRmNXalB1bEZoNm9TOHlWdEdqVE44VjJKUVJFVXlhRC1lMDNZVHNaR0YxM0dKSjJjS0lfUkhVZ1A2ZzlWVFY5dEJoLVNrOTdTTDVwQzFhRC1oVDVJWmg4WjdGMWNKRHk2bTIxVXJXTkFRQ2s?oc=5"
-      },
-      {
-        "title": "Middle East tensions drive WTI crude prices toward $150 amid Strait disruptions - Crypto Briefing",
-        "source": "Crypto Briefing",
-        "published": "Sat, 02 May 2026 00:12:59 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaHc1UTVwMDBOR0ZnWElEUGhjazRIUVU5SDQ1Rk0xSlJvUlptcXNZZEdtZ21HV1E3cG9WVjRQQ3BKRG5oUUthTjZocU9ndkE2RjFLWktYN2NmRlZ0SUI2dF9LZmExbVJtMnN0a0p3LXhaT3VEeXBLMU9OYUpHZ2hwZ29DekxnTHJncnowYl9SNnZmVGtnRXFvdFh6M2dHNkhFa0tHUHUxSVc0dw?oc=5"
-      },
-      {
-        "title": "With Oil Flows Interrupted Through Hormuz, How China Keeps Its Economy Running - الحرة",
-        "source": "الحرة",
-        "published": "Fri, 01 May 2026 23:32:32 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA5M1JZOEdRcjVpS3RlX0tIdFdmWEhpbnRybkhGTHZ4ZUx3RjRURGtRUmtacTNjb3B6Y0o0VEJCalFTZw?oc=5"
       }
     ]
   }
