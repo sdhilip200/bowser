@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T15:58:37+00:00",
+  "generated_at": "2026-05-03T17:03:28+00:00",
   "fx": {
     "nzd_per_usd": 1.69533,
     "as_of": "Sat, 02 May 2026 00:02:31 +0000"
@@ -8534,10 +8534,22 @@
   "news": {
     "nz": [
       {
+        "title": "Fuel or the doctor: Rising petrol costs force whānau to miss care - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Sat, 02 May 2026 03:27:01 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQmY3NnktQVMwaUtlc0NsOW5SemdZR3JRVFFoTEoydjIxbGoxWDhUQ1kzalFqRUk3dS1pcVd4aDEtdmd3MGUzV2pDQ1lQVnA3NlFqNE42R05fOEozS3AtQ3lEQ2RnQ0VsYUtPV3VrZDkyMjVEd2lOQ09GUk5hMkk2XzROaURXWFR4aElyVGZ5bXE1VlFHVXM4YTJESmg4X0ZyVGtaWmI1YTJuRmJZQmV2bVlmOElUV21jZWtpcFFn?oc=5"
+      },
+      {
         "title": "Petrol price relief may be short-lived as global oil costs surge - 1News",
         "source": "1News",
         "published": "Fri, 01 May 2026 07:31:05 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZDAzUjc1aWpSTERTZDlzTURIM01Bek9Rc0ZsbmJVbEtMc1JpVmNxTGtiMUU4MVh4S3llbWFhMkpwVEEyODljRURQZVBOaXJpT2lIVl9tVXdRQTNyaDQteExuQXZsRHhneGxlTUhnWVJDUE9wNDJGYjFBWnhCUjJrMWJ0S1BEVXJxQ2xzWDY2UVFyYlhKdmx3NmZaUlZDNjMzVWc?oc=5"
+      },
+      {
+        "title": "More Flex For Public Transport Operators And Contractors As Fuel Costs Rise - Scoop - New Zealand News",
+        "source": "Scoop - New Zealand News",
+        "published": "Thu, 30 Apr 2026 01:46:02 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTTNqLWx6eDZueFB0emc4YW1wdFZHeG9EUEJYaHZnQ2VjVTA0Si1fRXRNeXh1RTFQbFp3Z1hUQmc1TVhJTGpQRUdxWkpNRms0U1NYRjBTcGNuNnpHX0FiQUJaODJMNWRmMXpXRUhoZkVkRWYwMGc0S092SDdjX3FoNDl6NUJUTFphM2EtdFpzeFdCZWRKeUp6TDN0eDB6YmU2MDdyOXpORmo5aGV0X2JwcHZwSEpYZDA?oc=5"
       },
       {
         "title": "Petrol under $3? How long will it last? - RNZ",
@@ -8568,18 +8580,6 @@
         "source": "RNZ",
         "published": "Wed, 29 Apr 2026 01:14:53 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTkhKSG9WbTMxaWhjQ2RkSFdMNW9sRUxIQm9aNHBiWWwwWmJFT2M2dDJuZ0RtbVFQOXhSTU9hVDZqbUxrbU41Q1AySDVVYVRFWjA4cnV0cV9CZFhLMGROc2ZEcWNUYzdyTW5CM2J5aG5RR05SV05MRk5ITVRMRFFpTjZiaW9RUVczaUx1cG8tSy1kTGRzalN5bk1KVU5tbkNqVFkzbEZiRDZSZVk?oc=5"
-      },
-      {
-        "title": "'Rejig of the Budget': Public will find out cost of Z Energy deal once it's been paid - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Tue, 28 Apr 2026 19:16:32 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZGtXRjc1N0JWZ0NROVlyUTZaWVBkcWVWTnJOU1ZDblRidVhVdEdPbm9hVTdtSkd3OTl3TmRXODNDcDRQWlJMOWJ1YWhld0xjZkltX0xIMDhQRExZUTE5UVFpeVlYZjBwZnBfNF9fc19TX3VHNW1vcVZhaXVGNTRpVndESjRsRXZsWVNEMXR2aDU5b29maW9XZFBoeGg4bTlqZlowSVZZR2RMVTNVYnlSbmJCXy1DVjNlc09tYlJtLWsxdjltbHVtYzRja1VRTE9TZ3Q1bU5NZ2tiWmVuQ1lMNzlTQUhIbXAxNG9jTnFB?oc=5"
-      },
-      {
-        "title": "'Backup buffer': Government buys 90 million more litres of diesel - 1News",
-        "source": "1News",
-        "published": "Tue, 28 Apr 2026 07:48:12 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSmtiV0dSMmkxRFprVml0M1pQSDh2eXJ3d3dfV0N2VmhPYzhhUVljUGp1cXU2c1VDWGNLZjhTaGlGRjZaYnVyS2oxZnRLNVdjNDYtOFhPZkZ6V2ltSWpUYjI1ZlVPNDRDZi1ZODZGWjFqbFNGTDFpLUdKZkFtalhiTkxncU0yU3l1d2lsWGtnSFZ5dUZXRk4xNnZOSm04ZUZZaGxGZQ?oc=5"
       }
     ],
     "global": [
@@ -8620,16 +8620,16 @@
         "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOS2tsbnY3bUNsZzRSd3A4dkYyQlVIaGpzNDZnbzkweDE5cGc1NF84OTRLbFhNLTM2ZktaX3MydXRxNkRUX0J5a2lsanFQcmdocnBURTEzSDdWdHNxNEIyaXpPXy05bnVDRnJzYTN6WEJqMW15LUM1MlhEdVBPbm9mRm1vTjZxVXI0MERxaGRhSTFleFo1TDBURjRaM2g1di0wVnF2OS1TN2xFVTBKS2JZMGZtOWhIM0ozUktNMEFLUXc2Nkl5b1QxTkNfaHk4T1lzTkhKVml0cnBsVE1aX1ROVGdWUEI3dFNTaDBJb0V4YlRPMU1JVmN3Y3BXS3FiYUlVTzdN0gGIAkFVX3lxTE1jZGx5RGRiVUN0bWd3U2hKOElvNUhTSGNCOVVaZ2ZkVGl3WHZUbV9vdHV0YnpiSFF0QnN1LUFjYXFxeTR4c2hqTDlfemlJOFpFZkh2RzBTeUljMW5FZVN2RFJPa25YUzZTUzZ4NEhwaG5kRzFMbzlCRERwQUFzSzhXWDNkb1FiaHRMdnNHT01hNzhEalBoM2doeEh0MHZTNk9nN0FleldIZlNZSjdNbUNSUVVrekhHeEZHbGhpUktUbEo4UGdfM0NoaTZERU9ySnAzNUZaOHFySWNCRFlBcFBCTU81cU15UklkZVRXS216R0Z0VkdWOGIwNzRPc1F6M2hHR0pndHRsdw?oc=5"
       },
       {
-        "title": "China rejects US sanctions on refineries for buying Iran oil, invokes first-ever ‘blocking order’ - WION",
-        "source": "WION",
-        "published": "Sun, 03 May 2026 07:53:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb1BsekNxNFF0THFYZHBSV1RWUlBqTGp5dncyaGZDZXBxQ3pDcVdUbGRaOE5YQ0ZtQ2JwXzg4c1FaT09RWnJmTzlfZGJzU1VNRHJ2NkEzVHJkYU9uVnBVZGZhVEFHWDQyUmJFYlltUU1zbmdROWZoY3U3OEZkWTVfQ3B6cUc2Q3pJcFlSUGs4TllLdHhUTmd5eWFsaHJ1S2c3OUJJaFFkOVYzT2xydVZ3QTZBZnFZYTJreUVIaE9pSG5PMHdGMmppVGN4aGYyeWlxYXY0RNIB2gFBVV95cUxQZEFqdzhKWmZkTG5hZ0s2aWVpdWoyTDBiWm1ncDlEVnBoX2V6SXdqel9PM0FjOTFHLXZEUzFYRklZYkRFNHJ0MF9iMGx4Q0F1X0VnZnpGaFR2MEotWDVVdzExck5kREwtWHhRRmtDWERoSUFtdXpiY1VKR0JRMlBjSkxWYzM4LXJtQUg1cE84MndVRWdzNVdENlJKQkdTZUNUS1ZuYzJDWW0tODhwRDFaem4zOGxWLUhxbFB5M2RRMVBwV1lMbUx1VXFUdWQ3bkV0eENJa0hQbU5tZw?oc=5"
-      },
-      {
-        "title": "China rejects US sanctions on refineries over Iran oil links - hurriyetdailynews.com",
-        "source": "hurriyetdailynews.com",
+        "title": "China rejects US sanctions on refineries over Iran oil links - Hürriyet Daily News",
+        "source": "Hürriyet Daily News",
         "published": "Sun, 03 May 2026 05:37:36 GMT",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUnRWLTgzSnY4TDlNSEdSaWRaUExyZ256MnhmQlI2UjR2UkNRTzFwOE02dzZkdnl3SG41Y3kzRV9OYmVFZ19Famh6V1E0emhJdUZaNW84cTVqbHN1Q1ZTZ2Q3cW40WFg4cWx1ZXhOUldidGdEYmpjWHYxa2NkRVlWckE4dUdydmhOQUNLRGp1UE9zQ01PekdUNWh4TzlhSkx2V1RF?oc=5"
+      },
+      {
+        "title": "China defies US sanctions on Iranian oil purchases ahead of Xi summit - Washington Examiner",
+        "source": "Washington Examiner",
+        "published": "Sun, 03 May 2026 02:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU1dfTklMblhlckZJZWQ0SWNGX21fZE0xdWZ5ZU5OVnJEUThiYmhUbkV0Rk4wTk5mSHZaTGxkUmRQYVdZY0RqU1pEMG9EXzdmdEJ2TVJiTm81SEJtMVVSajkyc3d5ZjNSNTY0OGZoNlY3cXBhTlQxdVA3SDR0R2hVUVNSSjFYYkZRZFRYdVA4YVNkN2FuNzNfdVVhOVBTVTNnNkZmWFRBMW9SQ0JnV0FpZTZheDZMMVlWOEE?oc=5"
       }
     ]
   }
