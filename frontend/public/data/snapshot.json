@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T04:05:55+00:00",
+  "generated_at": "2026-05-03T07:04:22+00:00",
   "fx": {
     "nzd_per_usd": 1.69533,
     "as_of": "Sat, 02 May 2026 00:02:31 +0000"
@@ -8534,22 +8534,10 @@
   "news": {
     "nz": [
       {
-        "title": "Fuel or the doctor: Rising petrol costs force whānau to miss care - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Sat, 02 May 2026 03:27:01 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQmY3NnktQVMwaUtlc0NsOW5SemdZR3JRVFFoTEoydjIxbGoxWDhUQ1kzalFqRUk3dS1pcVd4aDEtdmd3MGUzV2pDQ1lQVnA3NlFqNE42R05fOEozS3AtQ3lEQ2RnQ0VsYUtPV3VrZDkyMjVEd2lOQ09GUk5hMkk2XzROaURXWFR4aElyVGZ5bXE1VlFHVXM4YTJESmg4X0ZyVGtaWmI1YTJuRmJZQmV2bVlmOElUV21jZWtpcFFn?oc=5"
-      },
-      {
         "title": "Petrol price relief may be short-lived as global oil costs surge - 1News",
         "source": "1News",
         "published": "Fri, 01 May 2026 07:31:05 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZDAzUjc1aWpSTERTZDlzTURIM01Bek9Rc0ZsbmJVbEtMc1JpVmNxTGtiMUU4MVh4S3llbWFhMkpwVEEyODljRURQZVBOaXJpT2lIVl9tVXdRQTNyaDQteExuQXZsRHhneGxlTUhnWVJDUE9wNDJGYjFBWnhCUjJrMWJ0S1BEVXJxQ2xzWDY2UVFyYlhKdmx3NmZaUlZDNjMzVWc?oc=5"
-      },
-      {
-        "title": "Air NZ cuts more regional flights due to fuel prices - Stuff",
-        "source": "Stuff",
-        "published": "Thu, 30 Apr 2026 04:03:41 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN3NoaUlfMlAtcWZfODFIVTI5d3pybVk1aERqR0tKaW5UdzdTU3RTTUhibkNpbWYzZ2VsV1NXMkRrNGJab2NpSEVRcE90OHNsenRmdDNabFlyQWhVc0Zva0gzZlp2azV6R3lKMVRBVEx0NWwzMW1BNVF2cU5zZ3JQbWlONURBeG5oQ1N1d0ZrbEpON2pq?oc=5"
       },
       {
         "title": "Petrol under $3? How long will it last? - RNZ",
@@ -8580,9 +8568,27 @@
         "source": "NZ Herald",
         "published": "Tue, 28 Apr 2026 19:16:32 GMT",
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZGtXRjc1N0JWZ0NROVlyUTZaWVBkcWVWTnJOU1ZDblRidVhVdEdPbm9hVTdtSkd3OTl3TmRXODNDcDRQWlJMOWJ1YWhld0xjZkltX0xIMDhQRExZUTE5UVFpeVlYZjBwZnBfNF9fc19TX3VHNW1vcVZhaXVGNTRpVndESjRsRXZsWVNEMXR2aDU5b29maW9XZFBoeGg4bTlqZlowSVZZR2RMVTNVYnlSbmJCXy1DVjNlc09tYlJtLWsxdjltbHVtYzRja1VRTE9TZ3Q1bU5NZ2tiWmVuQ1lMNzlTQUhIbXAxNG9jTnFB?oc=5"
+      },
+      {
+        "title": "Government's diesel partnership good for supply not for price, Business NZ says - RNZ",
+        "source": "RNZ",
+        "published": "Tue, 28 Apr 2026 16:50:46 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaTNXeXZ3R2RNcWhjWWpyZzFoNXlpOGo3VmJqN1p1QTdISTREdnQ3MGpZbF9hZy10VmdfM0tiOGZ0bzBGUnJZZHY3X1VCWVhsZFp6cjgwVnp6NHFJOFVpQ2puUVFaV1dEY2l0YTh0YTJPeHE0MjN1Y0piRFVGcmxTVUdjdF9ETW5lUVlhZFBsRzRUdWZrNHB5cVFDQ09CT09aMHRvV0N0ODhtaG9aTXI3WGJKV1dCODlFSVRza2x3?oc=5"
+      },
+      {
+        "title": "'Backup buffer': Government buys 90 million more litres of diesel - 1News",
+        "source": "1News",
+        "published": "Tue, 28 Apr 2026 07:48:12 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSmtiV0dSMmkxRFprVml0M1pQSDh2eXJ3d3dfV0N2VmhPYzhhUVljUGp1cXU2c1VDWGNLZjhTaGlGRjZaYnVyS2oxZnRLNVdjNDYtOFhPZkZ6V2ltSWpUYjI1ZlVPNDRDZi1ZODZGWjFqbFNGTDFpLUdKZkFtalhiTkxncU0yU3l1d2lsWGtnSFZ5dUZXRk4xNnZOSm04ZUZZaGxGZQ?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "China blocks US sanctions against five ‘teapot’ refineries - Al Jazeera",
+        "source": "Al Jazeera",
+        "published": "Sun, 03 May 2026 07:00:09 GMT",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZnRnRjVzQVd5ZmhVdl80SGdLUTZMOEYtbVl6NlNGdHhxY0FDcEhMci1MZnYwZWJpUXdVLVM0MHhQRV85SG5ONmZFRTNFbVl2R0hXMlhkVTE2VTRiUFBHZ2lzN09DbHY0NUs5S0QzUEc0Q0pxS29WS3NROUZacW52NUZVZXZyRmZzTGRQX2hsNUxGX0xCamFjQnRQVEFMekl50gGmAUFVX3lxTE5CYVRYQThGOU5SelQzUGYxekZOa2l2WkpBTkplbHJ1NWk2V296dHhnT2JBVDdLdm82aFNUcXVGRkNiLXJzdjFxRXFXeGpmcHN4NEh2MkdkN2RRZ1JCTExCOWVZTVRUZ2E3VGgtUElRUkVtYWpVTnc2YmhkRjlaUkt1ZEtidm53Y1puYXRJbktMRFQzTEdkaGxuQjBYbVNoRnRMOHRoY2c?oc=5"
+      },
       {
         "title": "Goldman Sachs, ING Warn of Oil Demand Destruction as Brent Nears $107 in 2026 - News and Statistics - IndexBox",
         "source": "IndexBox",
@@ -8624,12 +8630,6 @@
         "source": "CNA",
         "published": "Sat, 02 May 2026 13:59:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX1d0YVU0VEpYSzhnR2ZycUFSSWp0bDZibTRlelVYZ0JzNExLeUhJZjNTeEZRZTltMEF0eXhvM3Bqd2pKbjBJb2ZpZV9va3dseHBtU2pNczVjTmRGMkhEOWVrUEtQeS1RbG50MVh5am5ibjJ0bTZ3WHlOMjlfc0dZVjY3OXp2WTJGcG9RNC00OXlpNWJ5UEhON2dJZ1pTUmZSc0VV?oc=5"
-      },
-      {
-        "title": "China Uses Blocking Law for First Time to Counter U.S. Sanctions on Chinese Teapot Refineries Before Trump Visit - Geopolitechs",
-        "source": "Geopolitechs",
-        "published": "Sat, 02 May 2026 13:11:13 GMT",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Sd3VzdjNqMzZmVTRobVo2TnJ6SlRUanBQQUFvZjFyMUxYT1Y5TzhNZXExWnd4ZlNIYjVCVFprOVJqLUxMajZ5dzAyR3d4bDBTYThVb1RmUXhiV3llT2EyVWlia3g5X2ZlT2pXZHhHNExuZw?oc=5"
       }
     ]
   }
