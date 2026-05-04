@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-04T19:01:55+00:00",
+  "generated_at": "2026-05-04T19:41:00+00:00",
   "fx": {
-    "nzd_per_usd": 1.69579,
-    "as_of": "Sun, 03 May 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.693393,
+    "as_of": "Mon, 04 May 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 108.17,
-      "latest_date": "2026-05-01",
-      "delta_1d_pct": -5.12,
-      "delta_30d_pct": -0.44,
+      "latest": 113.98,
+      "latest_date": "2026-05-04",
+      "delta_1d_pct": 5.37,
+      "delta_30d_pct": 1.6,
       "series": [
         {
           "date": "2025-05-05",
@@ -1014,14 +1014,18 @@
         {
           "date": "2026-05-01",
           "usd": 108.17
+        },
+        {
+          "date": "2026-05-04",
+          "usd": 113.98
         }
       ]
     },
     "wti": {
-      "latest": 101.94,
-      "latest_date": "2026-05-01",
-      "delta_1d_pct": -2.98,
-      "delta_30d_pct": 6.03,
+      "latest": 105.15,
+      "latest_date": "2026-05-04",
+      "delta_1d_pct": 3.15,
+      "delta_30d_pct": 6.95,
       "series": [
         {
           "date": "2025-05-05",
@@ -2026,35 +2030,39 @@
         {
           "date": "2026-05-01",
           "usd": 101.94
+        },
+        {
+          "date": "2026-05-04",
+          "usd": 105.15
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-05-03",
+    "as_of": "2026-05-04",
     "regular_91": {
-      "avg": 3.202,
-      "min": 2.98,
-      "max": 3.4,
-      "count": 60
+      "avg": 3.246,
+      "min": 3.088,
+      "max": 3.579,
+      "count": 65
     },
     "premium_95": {
-      "avg": 3.433,
-      "min": 3.049,
-      "max": 3.999,
-      "count": 31
+      "avg": 3.417,
+      "min": 3.089,
+      "max": 3.809,
+      "count": 26
     },
     "premium_98": {
-      "avg": 3.539,
-      "min": 3.269,
-      "max": 3.699,
-      "count": 7
+      "avg": 3.607,
+      "min": 3.39,
+      "max": 3.739,
+      "count": 4
     },
     "diesel": {
-      "avg": 3.254,
-      "min": 2.999,
-      "max": 3.889,
-      "count": 61
+      "avg": 3.282,
+      "min": 3.058,
+      "max": 4.189,
+      "count": 77
     },
     "lpg": {
       "avg": 1.959,
@@ -2062,9 +2070,9 @@
       "max": 1.959,
       "count": 1
     },
-    "observations_today": 45,
-    "observations_yesterday": 80,
-    "observations_older": 27
+    "observations_today": 80,
+    "observations_yesterday": 86,
+    "observations_older": 7
   },
   "mbie_waterfall": {
     "week_ending": "2026-04-03",
@@ -8526,6 +8534,18 @@
   "news": {
     "nz": [
       {
+        "title": "Interislander almost doubles fuel surchage for commercial vehicles - RNZ",
+        "source": "RNZ",
+        "published": "Mon, 04 May 2026 19:39:26 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeU5WSklDcVR5dGdhMkFFOWxncl8zQ3ZUS05ubUV2cWxnZEcxdms1OWpQZF96OXhQYlNKRElZaXZ5UkJ4ZElCZG9GRnNZXzJuMzNtV25WUFpBaXJwZzJfUU14dTdibXk0Q0UxUlYyRXliTGZ0bGluZm90dVhuWmxsZHNnUy1aSzJwU25BMHNSdjhMS0FlSVNHa0Etc0xGRUwtUjduMXFqay1NakQ0NFE?oc=5"
+      },
+      {
+        "title": "NZ's diesel stocks surge, Luxon to ink Singapore fuel deal - 1News",
+        "source": "1News",
+        "published": "Mon, 04 May 2026 14:29:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZTdtYko4TWFNZnJqV1JkQS1NeFN1TGtuM212czdWRF9Id3h2N0t3UGZIcUVGNWxreEtYNEJVZnp5R0RQYnpTcGs1NVRrYU5VN2VyVmVzV1oxQ3pKc181NE5vdzRWYm5GejUySG8yUEl0bFU1SmgxQ29SSHBfcUs4b2VpZFNlbll5bDVqYXBDWG52dk9MaHRUalJPcw?oc=5"
+      },
+      {
         "title": "Here’s when the fuel ships en route to New Zealand arrive - The Post",
         "source": "The Post",
         "published": "Mon, 04 May 2026 06:34:25 GMT",
@@ -8536,12 +8556,6 @@
         "source": "NZ Herald",
         "published": "Mon, 04 May 2026 02:58:24 GMT",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLWpZVFp2SE1VZzI3SVRmVUV2Wml0V2NLV1plVWc4M2N5cVU3V3BRbmlBTFRRSGt3V01TLUNkeEJRcUhqN3AyelU2NGpqUmRvVnJwMmdQbGFTMDd0SzZMTjlxT2tObW45QjJndWpNQXF5cmVoMHhvYlpVaVFld2xyd1ppcldLQTRVbi12LUg4WFZuSzBWQkozdWN5OFBtZ1ZnR09IWE1GLXRiU01EZnpKMFFrZFV0U0FnSFRGQVVVdnEzSnl3c1lBdmc0aFd4d1pJRlFQQzliUXhmcGJy?oc=5"
-      },
-      {
-        "title": "NZ's diesel stocks surge, Luxon to ink Singapore fuel deal - 1News",
-        "source": "1News",
-        "published": "Mon, 04 May 2026 01:36:48 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZTdtYko4TWFNZnJqV1JkQS1NeFN1TGtuM212czdWRF9Id3h2N0t3UGZIcUVGNWxreEtYNEJVZnp5R0RQYnpTcGs1NVRrYU5VN2VyVmVzV1oxQ3pKc181NE5vdzRWYm5GejUySG8yUEl0bFU1SmgxQ29SSHBfcUs4b2VpZFNlbll5bDVqYXBDWG52dk9MaHRUalJPcw?oc=5"
       },
       {
         "title": "Diesel and jet fuel stocks up, petrol remains the same, latest data shows - RNZ",
@@ -8566,15 +8580,21 @@
         "source": "1News",
         "published": "Fri, 01 May 2026 07:31:05 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZDAzUjc1aWpSTERTZDlzTURIM01Bek9Rc0ZsbmJVbEtMc1JpVmNxTGtiMUU4MVh4S3llbWFhMkpwVEEyODljRURQZVBOaXJpT2lIVl9tVXdRQTNyaDQteExuQXZsRHhneGxlTUhnWVJDUE9wNDJGYjFBWnhCUjJrMWJ0S1BEVXJxQ2xzWDY2UVFyYlhKdmx3NmZaUlZDNjMzVWc?oc=5"
-      },
-      {
-        "title": "'Disappointed but not surprised' - Nelson mayor on more Air NZ cuts - 1News",
-        "source": "1News",
-        "published": "Thu, 30 Apr 2026 20:24:46 GMT",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa1IzYlhJX1Fwdm1zZDFTaHg0R3ZfVzBxeXpIT1JQY0tMWmVWTlhTbUpLbV9PQnRaVXdXdUxkV2ZuOGozeG42TG5HNDh2QloyZUZPRVpLdmJVQmdFaVV1ZHlJWGE0dW5LYmdBbUNucC00Q3MyT0l4YkQ3YjFWQUNwMlRLX2RqUHhmcGgwT3JoWG5QQ01MVTJoNG5WNGFmTXJs?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Gas prices rise to $4.46 per gallon and oil jumps as shippers stay out of Strait of Hormuz - NBC News",
+        "source": "NBC News",
+        "published": "Mon, 04 May 2026 19:20:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZEYwYmlJUkFaMHBFRFdYbUVTSzdDRUlCcC1ORDY3U3l6LUpkeUplRWxuNzg2Zl9Jd0NWS2xTMnV1YWNFX1JTbzZ5ZUZqZExlZGVQbF9xTWVLSDBKbEVGdGR5cll6OW11R0ZDMU9YMElsRlhtQ0VYNm9SZEpfZWpuNXJuejY0NUdoazhtR01nNA?oc=5"
+      },
+      {
+        "title": "WTI crude rises more than $4 and the bond market is noticing - investingLive",
+        "source": "investingLive",
+        "published": "Mon, 04 May 2026 18:50:02 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbW9MWk11M3k5OWctYzJjei13bU1MVzVtd0ZNajVFX0h0Q1JOaTV3QjJGLU1FRDJzS0cybEtEbHlScmVkdVctNzdqc0sxTy1JMU5xZ21xeFBNZ2EwN0l3WHZVOHZxa2F5eWp0ZVV6d2I4aVRjWjVkYWxzdnVNNjJ1U3FiSnBEeWpfNFNkYkpaWWdqZURjQmxWTlZSaVFUek9CUVY5QXpFLWtsd0U?oc=5"
+      },
       {
         "title": "Strait of Hormuz Oil Supply Shock: Bull vs Bear Case for Crude Prices - MarketWise",
         "source": "MarketWise",
@@ -8594,6 +8614,12 @@
         "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPMVdtNllyNjl1VzJxaGN0bEFhWjZsYnBOQ2pGNWpCZ0Vfblk5bTEwWTdDa2w1aE5saFlTLUc3MVRQNXkwMEhOY3ZEMm1PTE1OX2k1cGFfZE5FcmRmdWprZjB0d2h6dm0xMER3RVdKVVlJSDM4V2lqN3RjbWo2RjhZOTFHUHd5MWhIWWN3OGMzWnF2WldCdTh1dHVzaWQxTGpYZEVmNFMwZFdKLURqTWVKX2ZWQVR1V2ZuS1E2ZDNvQ2NPTENzZkZEVkJDQVJPUVNOTEp6X1dXeDZjektTSHdsSTIta1FmUWozTDREYW5vSkt2RFdhV2NXaU1KaUFKaEs3MzhJWEl0UGEyRjhaNUhmYXRMTk9CSlXSAZwCQVVfeXFMUGp5QU5zR1dBOWdWa2p5MzIxVklnRWVPY0lULXlnR1lRdTJQVE9kRUlpSXBGc2pPbG1uR3NlejJaMmZWTVM3NmVRdWp3QmlzRFR5SUdaeExjN3ItSno4MUttbHdvN25wbDdsU2xYaW1QR1E2N0JTcjZWc0dTSkZ0Qk1LYmVwVmQzdDJ4LWJHU1VPRFVUVWZZd1VmU1d4SjVvT2RkTlIxYnQxM2FRdDMtcnIwWExDdFRRUzFkblQ2M2N5ZGpTbUVrRjg1eUtkbW1GNUlyTGVDTlNMX0ZUZWhBcGZOU2VhbG9TRkYzM2NkUllJcGh0VG9WWWdQLW1sRGwzN242S1FjTXJ3M1haSnVDaFE1OGlKcVR6enFUQm0?oc=5"
       },
       {
+        "title": "Oil Futures Climb on Reports on Iranian Attacks - WSJ",
+        "source": "WSJ",
+        "published": "Mon, 04 May 2026 17:24:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ1RSZGRfZXF3andrSVcwdEhyMVRkNnJZYndFbXRJMHk5bjhNQ0JmemFvX2tldzhJX2MzbHlRZ3N6T01HUjhNeGRnVlhzRl9xdFRJZG5LNl9QQ21XeDlmU1ZLUm5JS0dWSzNwU2RmVnJPUFNRaUtfUmp0SGVWR2lSdVhfSEUza0V2cS1qajVaWC1iWW9ScEVwUWpFN3BXdw?oc=5"
+      },
+      {
         "title": "Oil Jumps as Violence Flares After Trump’s Offer to Help Ships Through Strait - The New York Times",
         "source": "The New York Times",
         "published": "Mon, 04 May 2026 17:16:00 GMT",
@@ -8604,24 +8630,6 @@
         "source": "The New York Times",
         "published": "Mon, 04 May 2026 17:11:39 GMT",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLVJiX2RoYlBfYVpNUW9jaktnQkhoSWhpcTVQa2I2VU9fcVViU2dKek9NYXBZTTh5VWJwRDVUdUFOeVk0X1FDUzUyRjdsTmRFb0FHeXdRMHMtQlU1blY4a21pMzFFWExVSkgtWTV6TFo3YjFtOW9DMERyYkRzQ3A4cmpjclVwOWQwdFE?oc=5"
-      },
-      {
-        "title": "Equinor Bets on New Wells to Offset Declining Fields - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Mon, 04 May 2026 17:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOFl2X0RlRks2OFhSaE9sVWh0bmVqN0ppYW5pVkdoOS1oajVRVkNCMnd1MExUWklMc3dOMkE5VmhuNjloWXZ1SDB6UVVjN3VOb3dnbEoxUWdQeXhiMnNKX3N6bHdGQWRFeVRacFNiUWFSc2o0Nkw0WnpKMzJ4bmR0dVNmMTNKZWs3djJSbHZzQ2dpaVZydGY2d3JwY9IBoAFBVV95cUxPRDE4bUV4NTB5RUx5UDQtQngzVldYM0pBdzRaaG8zS083SXFGOFY0d1NzbjNwVlZKZGdjUUZrMWdsdm9sdVVpaHFpamxOUGpYWFl4WEFvaEowdkZkelB4Q2hOVEJaMjdRN3ROZzVBRjRGVEFwdjZSb01GVWFSeWhWVFN3RnRTWDg5aHV1X2hHZGZzR282a3BUSVhlTVFYNTc3?oc=5"
-      },
-      {
-        "title": "Gas prices rise to $4.46 per gallon and oil jumps as shippers stay out of Strait of Hormuz - NBC News",
-        "source": "NBC News",
-        "published": "Mon, 04 May 2026 16:08:49 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZEYwYmlJUkFaMHBFRFdYbUVTSzdDRUlCcC1ORDY3U3l6LUpkeUplRWxuNzg2Zl9Jd0NWS2xTMnV1YWNFX1JTbzZ5ZUZqZExlZGVQbF9xTWVLSDBKbEVGdGR5cll6OW11R0ZDMU9YMElsRlhtQ0VYNm9SZEpfZWpuNXJuejY0NUdoazhtR01nNA?oc=5"
-      },
-      {
-        "title": "Brent Oil Futures Chart - Investing.com",
-        "source": "Investing.com",
-        "published": "Mon, 04 May 2026 15:49:44 GMT",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04ME5vXzJRcUdUX25xMzFhblR1LVBDc0RrY1JWNFhJUVdBSlZNbUNXMXRxTEdyeHA5aU96OFJURmlvX3lEWmRnLWo1MEtSWmxFWTBjbEdEMU5INjRteDU3Z2owV2dCQ0hTdjNEdDQyaUg?oc=5"
       }
     ]
   }
