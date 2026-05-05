@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T12:10:57+00:00",
+  "generated_at": "2026-05-05T16:15:12+00:00",
   "fx": {
     "nzd_per_usd": 1.693393,
     "as_of": "Mon, 04 May 2026 00:02:31 +0000"
@@ -8534,22 +8534,28 @@
   "news": {
     "nz": [
       {
+        "title": "New Zealand freight costs rise as fuel charges increase 27 percent - Hortidaily",
+        "source": "Hortidaily",
+        "published": "Tue, 05 May 2026 12:10:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcF8zQjlyY0Z1R2V0R29KX1hJUVdaanFIYnhrTUhkRFpmbllMWVFkcnBZX1RkQVJxNE00Z1VYa2tUV2lqMWNWdGR4a2xqVF9UQUdyNTQ4MHdHM3Q4c0ZFNHAwLTdTZmZvNUZFSXdxMlR0ZUI0ZWlBb0NuankzMldhMklrVllEdVEzbTVobXFFM1hQS1owYzJHS1gtUzZKYTNydzhJUTdGMElydUw5ZmJF?oc=5"
+      },
+      {
         "title": "NZ's diesel stocks surge, Luxon to ink Singapore fuel deal - 1News",
         "source": "1News",
         "published": "Tue, 05 May 2026 11:15:16 GMT",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZTdtYko4TWFNZnJqV1JkQS1NeFN1TGtuM212czdWRF9Id3h2N0t3UGZIcUVGNWxreEtYNEJVZnp5R0RQYnpTcGs1NVRrYU5VN2VyVmVzV1oxQ3pKc181NE5vdzRWYm5GejUySG8yUEl0bFU1SmgxQ29SSHBfcUs4b2VpZFNlbll5bDVqYXBDWG52dk9MaHRUalJPcw?oc=5"
       },
       {
+        "title": "Air NZ tipped to lose $427m as war-driven fuel costs soar - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Tue, 05 May 2026 09:04:54 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMmRTc2VRVGZ4Q05qb2dQbUEySjdYZThxY3R2NERJLXhiSVlUUlZKWnpHOWQ2LXZ5YTVsNWFfNGxmV1g2ZWFUMG5qYzNUVTZzdWg1bHJ5S3RfZWpCOXE3YjZHWmlHMGxXWGllbF9DTEdabk1WWXc5Z0k3WERwMkJlRGJ4M2wybnA1ZFFlbTd2TzRib2tYS01sRjQ5ckJIQ2RrMjd6QlozUWQ4OFJnLWZMTDZldmFWVzZOel8yYUlJeWx5TlVva0hQZ09rZVdCNUZjSjk4M2VXTFNlaHhfSGJXMzZKLThnekJNTVE?oc=5"
+      },
+      {
         "title": "Singapore, New Zealand Agree to Keep Vital Supplies Flowing in Times of Crisis - The Diplomat – Asia-Pacific",
         "source": "The Diplomat – Asia-Pacific",
         "published": "Tue, 05 May 2026 08:23:17 GMT",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNHVSeXJpdE85dTNJS21TRDBfSVZ2R1FIcXVPWWVTTnBUS3F1QktYZDZZek1BVllsVmRxSmRHby1DbjlRSWl4Nk5mUk15dXdVaXlLYm1LVUN3Y0pMUHhiRnQ2NThidDhPbHJZcTVTWWxxZ2pEU2Z2NWl4LWNTb0ExQTBkdk5RcFZJX0VjNENJMWZIelhTYnQ5WHFMLUNCeTF1TV9uay1qMDNZYzIxV2xZ?oc=5"
-      },
-      {
-        "title": "Air NZ tipped to lose $427m as war-driven fuel costs soar - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Tue, 05 May 2026 02:07:37 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMmRTc2VRVGZ4Q05qb2dQbUEySjdYZThxY3R2NERJLXhiSVlUUlZKWnpHOWQ2LXZ5YTVsNWFfNGxmV1g2ZWFUMG5qYzNUVTZzdWg1bHJ5S3RfZWpCOXE3YjZHWmlHMGxXWGllbF9DTEdabk1WWXc5Z0k3WERwMkJlRGJ4M2wybnA1ZFFlbTd2TzRib2tYS01sRjQ5ckJIQ2RrMjd6QlozUWQ4OFJnLWZMTDZldmFWVzZOel8yYUlJeWx5TlVva0hQZ09rZVdCNUZjSjk4M2VXTFNlaHhfSGJXMzZKLThnekJNTVE?oc=5"
       },
       {
         "title": "Fuel cost shock reality dawning on NZ - The Kākā by Bernard Hickey",
@@ -8574,15 +8580,39 @@
         "source": "NZ Herald",
         "published": "Mon, 04 May 2026 02:58:24 GMT",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLWpZVFp2SE1VZzI3SVRmVUV2Wml0V2NLV1plVWc4M2N5cVU3V3BRbmlBTFRRSGt3V01TLUNkeEJRcUhqN3AyelU2NGpqUmRvVnJwMmdQbGFTMDd0SzZMTjlxT2tObW45QjJndWpNQXF5cmVoMHhvYlpVaVFld2xyd1ppcldLQTRVbi12LUg4WFZuSzBWQkozdWN5OFBtZ1ZnR09IWE1GLXRiU01EZnpKMFFrZFV0U0FnSFRGQVVVdnEzSnl3c1lBdmc0aFd4d1pJRlFQQzliUXhmcGJy?oc=5"
-      },
-      {
-        "title": "Diesel and jet fuel stocks up, petrol remains the same, latest data shows - RNZ",
-        "source": "RNZ",
-        "published": "Mon, 04 May 2026 01:35:40 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT0pvX1BzUXBrdVh1bXgzek1WRUFDVzg1TTFEY1VVM3RfZTJyMmxjZ0tMOTJFR2tVWXFrWkFFSndIMTlERVBGaXV1VjFqNzc2dnozV0YwMEhnNDZlM2xGUWtNV3JaTE1Qa1JxbkdkOXpEN2lKTkhzdlI2X2Mzd0dLZFpELWhDN091MENQazNpYlBvcVpJWGZRdHpCQ1RNS1d3bUlJcE5zempkWl9waWdJT1YwcVdNdw?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Senate Democrats demand reinstatement of sanctions on Russian oil - The Hill",
+        "source": "The Hill",
+        "published": "Tue, 05 May 2026 16:02:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN3lNZm9yM0dRQWFOdEdaM0FFa21wVktuMlBqdjBjOXJ6Vkhra3lMYUt0TVFOMXVRVmpWZlYwM0xteEZjdGo3LXhlelNVTlppak5ITms0WTluWUtaV0JXUlU2S3hyZXllREllZEI4eUxkRDlKaENtUHlyU2xUakplc0RNLWJ2eE51eEo5UU1BUGNnT28wM1NwZzFVTE9JZ9IBowFBVV95cUxOX2xWNWFqU0hJWXNObXhtalhHTF9DX18zM09PZ0pZOXU4RnhGZjNyVkhKbjVJV2xoUXVEbUZVTGdaLW43d1RkbF83b0NWenZoUjR0N0VlS2pLOFNqR0U1dDlPd3ZJNHh1U1MwOEZyRHhja1hyTmRrYVJyT2xyOGlSTEh5U3N0VlpFVkNXbkQ1a3pKQjNkanRJaGVaa0Q2VlBZSU5V?oc=5"
+      },
+      {
+        "title": "Iraq Offers Huge Discounts for Crude Shipments via Hormuz - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Tue, 05 May 2026 14:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdC10WnEwbjk4QmZvb3AzbEhwY3ZjRWtjTUNuYndMVGhWZEhsazhicmNReGVVdG9NQ1pLLUVWdl9mUVRLRllaX2dTcDAzcnMxcW5RZi1EemtZUUZWSFJ2WjQwM19zZHdNWVpJblMwWGUxS01uSW5yeHFKdFl4VW5VVVF2Z2FNVDY3YmJNaUtIcmtTSTdCVFdCcnNQWktpOHpMRzc0LWJDQ0VxYXBwNS1ldENqONIBuAFBVV95cUxQcnlDMTJNRTUyREVtVFRkR21PNGRnMXA0NnZlT3o4eW11NkdsQ1NmMVgyZ0xpYTFTOGs3TmowOGlyZmp2U2tYRm9xLTZVTjdxVmF6S1p6ZkVqdENCX2lJcjBwVzVVblZaZFMzV1JwMnBUc3hYdGVRMDZnZ2NXOWU0MXFCdFJHNF9OTEdFeFJVR24tWklvUTdhWnByU2VYQ3h2LUs0cGdWM29TMm5fUDRxdlhWU0t0R25o?oc=5"
+      },
+      {
+        "title": "Crude Oil WTI Futures Technical Analysis - Investing.com",
+        "source": "Investing.com",
+        "published": "Tue, 05 May 2026 13:57:24 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44Ti1Na0dCUkxoSGRoc21WTWJnakljQmc1a3paaV9zTFZEc0dFSElEcEk5RVZOUDBKV2NCRGNaRFltdHhvakExUmhhMEhkcFdtRlZtNWQ5OTdrLWlGNGQ5Q0U1SUNBUGxj?oc=5"
+      },
+      {
+        "title": "Oil Prices Today: Hegseth Announces New Hormuz Plan, Maersk Ship Sails Through - Barron's",
+        "source": "Barron's",
+        "published": "Tue, 05 May 2026 13:21:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdTRJdmhOSVRmNF91eDJsUTRBejdlY191aGRSWVN5VS1MNmZnUklJN3ZMN3Etb2JodXJKU19ldVN4b29kMTRCSXJZLVNKekZmcVVzTnVxUFNFeWtTX21jbFdveFRWdHZiT3JOSGNBNnpqUnJiMTdralBCYTQyempxRXVidjRRcG9zaEtoTVpB?oc=5"
+      },
+      {
+        "title": "Current price of oil as of May 5, 2026 - Fortune",
+        "source": "Fortune",
+        "published": "Tue, 05 May 2026 12:38:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90NU0xSXBoczZZM21iUUpEeHVjMlJkRkNIdDNlcF9zQ0lkMXBqUEpWb3JOS1BvMjJHVEF1YXl6WWFUWDNwS2taLXh0Ri1oZG1uZU9wdkxyRTBuRkIxWTdNUEJB?oc=5"
+      },
       {
         "title": "Crude oil prices: Futures fall as weak demand weighs amid global tensions - Deccan Herald",
         "source": "Deccan Herald",
@@ -8596,40 +8626,10 @@
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNV1FCdDRaYUxzUFJydU1tdmpNTVRfRmZrelpPekRHbTVZY3BBTS1xRXRtNmRwZkFnODJyd2lVX0NkSm5LQTZwUWFOcVVfNHlGakludG1yN0FELV84MDRVOFI2NEhJZzRDY2loUVVwVUp5ekxZWGJ3SXBOMnBtbWt3bmc1TjIxVVJuV1FJNGczX25HWWhxSmczNV8zYV9zQ0lNQXJiMXkxYzN1NkFaSjFWOG14N05halVGb1VCaEFvT2xmN2F6MDlaMXVNa0lNYmJEVE1XeERDZGRBc0k2TmI4?oc=5"
       },
       {
-        "title": "Oil Prices Slide but Remain Elevated as Middle East Tensions Escalate - The New York Times",
-        "source": "The New York Times",
-        "published": "Tue, 05 May 2026 09:40:07 GMT",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WWndGMmRCd3lFM19xeUFIZzhmRUFaenZWeHM3dE1MUnRCQVhWMENocVpsLVpfRTJ6WFNOcXlQMW1zblhZYzRYUmVCZ0hCMzBVN21wYk9pRHpLZjh6d1lHZTJyS0tkUW5oUjdEb2F1RGtjT2ZpWF9F?oc=5"
-      },
-      {
-        "title": "Crude Oil WTI Futures Chart - Investing.com",
-        "source": "Investing.com",
-        "published": "Tue, 05 May 2026 09:36:02 GMT",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QVUZmbEFLek45c2FDcW5MdnIwVUE5c2p4Q21nUVU4a0NOZzd2QTdxSGRQS3A1QTk2M1cwVFNfd0JVUFZYMnVBa01IeWJzNy1HZmR3cFJXZk1zdVNSRGJONkI3MEJ4RDQ3VjlocXhYdHc?oc=5"
-      },
-      {
         "title": "China Steps Up U.S. Sanctions Fight, Defying Blacklisting Over Iranian Oil - WSJ",
         "source": "WSJ",
         "published": "Tue, 05 May 2026 08:58:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNTU4dzV1VHFYVzdkcGwzMlBXQVNnZy0yY2tOZXdWUkZMbGl0aGh4a0lwRG4waW1wdlVhVzhRUTJFSUU0X1FCc0hrR1hPRmpybTdVMTlyYjgwZ2Nza25tTzdWSmtSaGNONU8zS3YxdUV5TTNUZUtGUFVGdU1peHZ4LTMwLS1Uc29Ma01adzhISVZVMjZwQ0JrREFKRmNWZjdUMnBmbFBaTUJad1VzZnZCcUd6NA?oc=5"
-      },
-      {
-        "title": "Given that the U.S.-Iran war revealed fundamental problems in oil supply stability, experts pointed - 매일경제",
-        "source": "매일경제",
-        "published": "Tue, 05 May 2026 08:08:54 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TNXplS0dMcUVfYUx1MDVodzFBZTcxXzlEUm5ubndCV1Y5SkNiWmYxX0dZWDFWQnQzUHk5OVI3a21wN1RlZ3BSdDZ0VDVGb00?oc=5"
-      },
-      {
-        "title": "Brent Near $114 As Middle East Conflict Continues - Marine News Magazine",
-        "source": "Marine News Magazine",
-        "published": "Tue, 05 May 2026 08:01:08 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTGtZYlFzQ1pZdkpxV3NpeG1CZUQwOEF3NGgtMkptaE5zTEl0RnRnRjJXNlNPWlNhejlUZm5SYUlacUVJYlFlU1dNblJsTzhEM0MtOWFFbzVCSlRTSFlsaHV2SEZCMUhFd3hrRGp2V0JLWGVkYmJRWVNmN2Y5V1FXRVRiNnE1NUU?oc=5"
-      },
-      {
-        "title": "South Africa hikes fuel prices as Middle East tensions disrupt global supply - Business Insider Africa",
-        "source": "Business Insider Africa",
-        "published": "Tue, 05 May 2026 07:27:46 GMT",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYzRrQ0NDSWFEc3ZQVWVZYjQ4TndvLTNJTXFmeVhXYThUZG5Zd2txSFZnS2JzdmpkQ0Myd2RaSkRMeGY2bm1aR21EdVk0YUIzOXlTYmtxb2lDOHVRQ0ZhOFZoZVZJTjNzZTF2ZC0yWVpTUkxiQjBUNThkX3ZZN3NaMGNBQ2d0VmJhdV9hcG9haXFFalR1YnU5eHVZWm1zQ3huNzN1cTNNSHphQkpmTGs4NDJOQm1DT05OMGJQQTRuU0NQWTc5SktLMlhKREZHQQ?oc=5"
       }
     ]
   }
