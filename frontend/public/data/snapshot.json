@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T06:26:23+00:00",
+  "generated_at": "2026-05-05T09:01:14+00:00",
   "fx": {
     "nzd_per_usd": 1.693393,
     "as_of": "Mon, 04 May 2026 00:02:31 +0000"
@@ -8534,6 +8534,12 @@
   "news": {
     "nz": [
       {
+        "title": "NZ's diesel stocks surge, Luxon to ink Singapore fuel deal - 1News",
+        "source": "1News",
+        "published": "Tue, 05 May 2026 03:06:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZTdtYko4TWFNZnJqV1JkQS1NeFN1TGtuM212czdWRF9Id3h2N0t3UGZIcUVGNWxreEtYNEJVZnp5R0RQYnpTcGs1NVRrYU5VN2VyVmVzV1oxQ3pKc181NE5vdzRWYm5GejUySG8yUEl0bFU1SmgxQ29SSHBfcUs4b2VpZFNlbll5bDVqYXBDWG52dk9MaHRUalJPcw?oc=5"
+      },
+      {
         "title": "Air NZ tipped to lose $427m as war-driven fuel costs soar - NZ Herald",
         "source": "NZ Herald",
         "published": "Tue, 05 May 2026 02:07:37 GMT",
@@ -8564,12 +8570,6 @@
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLWpZVFp2SE1VZzI3SVRmVUV2Wml0V2NLV1plVWc4M2N5cVU3V3BRbmlBTFRRSGt3V01TLUNkeEJRcUhqN3AyelU2NGpqUmRvVnJwMmdQbGFTMDd0SzZMTjlxT2tObW45QjJndWpNQXF5cmVoMHhvYlpVaVFld2xyd1ppcldLQTRVbi12LUg4WFZuSzBWQkozdWN5OFBtZ1ZnR09IWE1GLXRiU01EZnpKMFFrZFV0U0FnSFRGQVVVdnEzSnl3c1lBdmc0aFd4d1pJRlFQQzliUXhmcGJy?oc=5"
       },
       {
-        "title": "NZ's diesel stocks surge, Luxon to ink Singapore fuel deal - 1News",
-        "source": "1News",
-        "published": "Mon, 04 May 2026 01:38:40 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZTdtYko4TWFNZnJqV1JkQS1NeFN1TGtuM212czdWRF9Id3h2N0t3UGZIcUVGNWxreEtYNEJVZnp5R0RQYnpTcGs1NVRrYU5VN2VyVmVzV1oxQ3pKc181NE5vdzRWYm5GejUySG8yUEl0bFU1SmgxQ29SSHBfcUs4b2VpZFNlbll5bDVqYXBDWG52dk9MaHRUalJPcw?oc=5"
-      },
-      {
         "title": "Diesel and jet fuel stocks up, petrol remains the same, latest data shows - RNZ",
         "source": "RNZ",
         "published": "Mon, 04 May 2026 01:35:40 GMT",
@@ -8584,10 +8584,28 @@
     ],
     "global": [
       {
+        "title": "China Steps Up U.S. Sanctions Fight, Defying Blacklisting Over Iranian Oil - WSJ",
+        "source": "WSJ",
+        "published": "Tue, 05 May 2026 08:58:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNTU4dzV1VHFYVzdkcGwzMlBXQVNnZy0yY2tOZXdWUkZMbGl0aGh4a0lwRG4waW1wdlVhVzhRUTJFSUU0X1FCc0hrR1hPRmpybTdVMTlyYjgwZ2Nza25tTzdWSmtSaGNONU8zS3YxdUV5TTNUZUtGUFVGdU1peHZ4LTMwLS1Uc29Ma01adzhISVZVMjZwQ0JrREFKRmNWZjdUMnBmbFBaTUJad1VzZnZCcUd6NA?oc=5"
+      },
+      {
+        "title": "Given that the U.S.-Iran war revealed fundamental problems in oil supply stability, experts pointed - 매일경제",
+        "source": "매일경제",
+        "published": "Tue, 05 May 2026 08:08:54 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TNXplS0dMcUVfYUx1MDVodzFBZTcxXzlEUm5ubndCV1Y5SkNiWmYxX0dZWDFWQnQzUHk5OVI3a21wN1RlZ3BSdDZ0VDVGb00?oc=5"
+      },
+      {
         "title": "Oil Prices Slide but Remain Elevated as Middle East Tensions Escalate - The New York Times",
         "source": "The New York Times",
-        "published": "Tue, 05 May 2026 05:46:16 GMT",
+        "published": "Tue, 05 May 2026 07:43:12 GMT",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WWndGMmRCd3lFM19xeUFIZzhmRUFaenZWeHM3dE1MUnRCQVhWMENocVpsLVpfRTJ6WFNOcXlQMW1zblhZYzRYUmVCZ0hCMzBVN21wYk9pRHpLZjh6d1lHZTJyS0tkUW5oUjdEb2F1RGtjT2ZpWF9F?oc=5"
+      },
+      {
+        "title": "South Africa hikes fuel prices as Middle East tensions disrupt global supply - Business Insider Africa",
+        "source": "Business Insider Africa",
+        "published": "Tue, 05 May 2026 07:27:46 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYzRrQ0NDSWFEc3ZQVWVZYjQ4TndvLTNJTXFmeVhXYThUZG5Zd2txSFZnS2JzdmpkQ0Myd2RaSkRMeGY2bm1aR21EdVk0YUIzOXlTYmtxb2lDOHVRQ0ZhOFZoZVZJTjNzZTF2ZC0yWVpTUkxiQjBUNThkX3ZZN3NaMGNBQ2d0VmJhdV9hcG9haXFFalR1YnU5eHVZWm1zQ3huNzN1cTNNSHphQkpmTGs4NDJOQm1DT05OMGJQQTRuU0NQWTc5SktLMlhKREZHQQ?oc=5"
       },
       {
         "title": "Chevron CEO Warns of Emerging Physical Shortages in Crude Oil - Crude Oil Prices Today | OilPrice.com",
@@ -8596,40 +8614,22 @@
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa2FCSml3c0VFTEJqajFNTlJmYXpoYXNQTmtfVjhMSExBYS1RSzFpaFM0R2JTdlpMZ0tUcEJJYlR5THBjZjhIN2JRVTg0NVZTcTh2ODJyT3VSUlF3NHBCeWlqQzZpVGkxV0JvWUdGa1FUNGFYYU45cVhzb2FNNFhFTmdMUDBBOVRyc1ZDREdNN1VPeXMzczFpYlBWakJnVV94dGtJU1hicVV4WlpBcmlSbHJ3NXdXMTda0gG-AUFVX3lxTE5ZNUNtWkFIdDlEME83ZlQtQV9XWTdoMlhkVUd6WDlndldzcTVVSDRRT204M3pXSzVJZFl2eW1oWVZEN0tPdEtwbWxKUVZzUFJ1cHJwaFhoRzdMU1NnUlc3REJCMElQelhKQ0JTNWRpN19kZ0twb1FPLUpGU3ZoNllmeVg1ellJNDlVQVo4a1pSX1Fadi1NX2U1bEJMQU5ic21IdzJwb050cHdCUlN2SXVSVWg2V2pTaTcwUjJrZkE?oc=5"
       },
       {
+        "title": "Brent crude oil price is stuck at a key level: will it surge or crash? - TradingView",
+        "source": "TradingView",
+        "published": "Tue, 05 May 2026 04:32:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWnU3alF4NmRrSWJsandTMnRPcy1DRUZZY1VCYzh0ZUlUTFFldzhfTmhYc1hJMmlERTJzbDMyMHVBNzNyaGZrR0UzT2l6a2luOFpYR0NRRVYwdFRJdkctblhRN0poVF9kVGJEZFY1UkdNRDZjRVpuNkxta29VcmtyYzFpVk4xYUd0NC1WbEhNTV8tRTVfdDIzbVhuNEtXR2FSUkdyRHZWS1FjOGN0ajBQb1JiNWRPNUhwUTdrNGhqU2gxT0k?oc=5"
+      },
+      {
         "title": "Strait of Hormuz closure fuels oil price surge amid global shortages - Crypto Briefing",
         "source": "Crypto Briefing",
         "published": "Tue, 05 May 2026 04:29:10 GMT",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTjBNeEN4R0swR2NBY1RZbG16SnZaUVJDdnF1ZFNEM0xxa0U5b21JNzRBd25GSHlNSHFDQmhBRTFpMDFTaVFjMFNjUVU2YTVIUmVfYXFGbFhFUmdBdy1WdHd1UjdodlJqd1M2Z296NXZ0WGxkWUhPSGNBSUtxRldnX0ZNbng0YzNqSXhISk5SMkpwb0V1Z1ZRempsV28?oc=5"
       },
       {
-        "title": "Oil prices surge as violence flares in Strait of Hormuz - Al Jazeera",
-        "source": "Al Jazeera",
-        "published": "Tue, 05 May 2026 03:31:12 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd3A4TkdnV09VZjZvRlJyRDlzTTdHdjFZWkhOYWMyY3NfSmFDazAwcENOQzJaQVowNXBVU2lXWE5xazZzbnRpc1h4NWQ2NDVtclY4MENfVG5iV3JxemlTREdPQVVuY1Q5RU5XbFJmSmM1bFdQY1FhM21nWElDVmRlQWw1dGFZTmFLaDF4SGV0LWQyTU50MTRrRUNqVGNkZUXSAaQBQVVfeXFMUDFnSUQyQTZpTUxKRmhIOEVoNVlaVEI0N2I4Ykc1UW8zdXRWeV9uRU4wM2lpTkloNUxwT05aOWpLTnBDUGpQdHZ3YXExdXVjbW00Mmc5VVQ2cmxiendBRE5QYW41VGZjVzVhUlpYS05tZXBFOV9BVFNqMnJqVHdEenN0bUx3eGNFUllIZlR1RkZxYkY5N1haQkhoNHcxN1YtYi1tRHM?oc=5"
-      },
-      {
-        "title": "WTI Crude Oil futures pushed higher amid Middle East tensions. - CME Group",
-        "source": "CME Group",
-        "published": "Tue, 05 May 2026 02:07:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZEhjMFJ0RjJ5Rk1KaWZTM19ES0JBcXpsalZPd3M0TTBDNlVILUF4UlIzTS1jOEJ6ZUxmSnpsMVBBY3FZTE1meGZNVUhZc0dITGUzRjlsdWFZaTItYUhJalloR2NhTk5wS3dXU1JydmhKc1BtdG1ISW1iM2NZQ3NSX09IMzFCRUd2dWVfdkNlUllsRlJkU05HejlQbnd1Z3RlTldaWUZRUjMwRURpQXR2VQ?oc=5"
-      },
-      {
-        "title": "Oil Price Today (May 5): Crude oil falls but holds above $110 as Iran war tensions persist. What are exper - The Economic Times",
-        "source": "The Economic Times",
-        "published": "Tue, 05 May 2026 02:04:58 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNejhqbkJkeDItODBHV2o5RG1Kd25BUGNLSUFGWW5ocUE3aGJwa3BMdVhBal9YaWx1X3NUOGx1NGFfeVVsUnNHeGxPWk1IZGxMcTR6UXJRODFQbEpRSkxhVHdpNFM2OFFwRXBhSFFqVUNEZHBSdEdpd0dWR3Q5RnNkVFl4bHp4cHFobXBnYWVVemdjWWxibFRlYzc4T3BCSDFwRVFrbk1UQkx0T1RFTkI1N25oWElIWU9vdHAtZnFvM3JsQjB2THdWTGREY1Z1dmEzeWJDWE92VXBiMVRrU1ZCNEJBUnM0T2lnb2RWRVJaSl9IYVhiN0lEZXd6aHc1d3ItX25WUXBiN2J3NUxfS1JsRnNZM0JRc2VH0gGeAkFVX3lxTE5Wem00OV9GQ0tZNHRBZ2tRMHQ4QXBqYW1XekdsQ3VoMjE0LTQtaWh6S25Ud2VSVlhqeC1aREtGWXEzLXZUZzJpLVBHVDduanhwYmtYQjJkempPMHpSMjg4WjFSSTUxb1MzUmFPNWwxWGwxdmptb3FlT182UmtTLXY0Q3lKZ2VGS0Zlb3J3SDlsdHVWWmMtQmFSZUMzWjZ0clREVkdma0xNd0pyU1lBZ0hoRU1acUhfb3RRLXRlMmN1d25TTnViTlN5U18tY2hXWWh3b3JZU0ZDUVZ4QzdFR3FvbUlfTVBMd3NFaVBNWEdoVWV0Y0Z6NkxlS2FhUUt2d2lrVFA4OS1wenBpLXFvT0Fna3FvVlhuT240ODR1T3c?oc=5"
-      },
-      {
-        "title": "Oil slides as traders assess Middle East developments with Iran attacks keeping markets jittery - CNBC",
-        "source": "CNBC",
-        "published": "Tue, 05 May 2026 00:37:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc2czSUZRWjBWSjRqQjA2Yk1ucEN5SndpUC1iUU9GSjJuRUNXczJzV0ZiYnl6Z0dtMzN4bUhwR0ZfMUpRM3RDclNJYjB4aWZPM2RibkN0YUthMHNzR2JWVWc5VnVocjJ1cDV3dmxycDdOUDA3YjNRRXBfWnFPdDZESGdkNEdadkEyTUJpVlZ30gGTAUFVX3lxTE5XZDFyYjhCZ3EwYS14aGhPQzBudkFSTEJCUkZvUmRudzZoWG81VXM1aG9McS1ycjUyNWo0a0NlcDRVT3cxajJzWHRaWnNubDQzdjV4eFpWSW1uNE5OMTJMSi1MbGZIU21OX3lOZEl3OHRMbVoyVXFkb3FZUUVhZU92c2F6VmJ0N0NsakVqc2FYUnhKSQ?oc=5"
-      },
-      {
-        "title": "Middle East war is causing largest oil supply disruption in history, IEA says - MSN",
-        "source": "MSN",
-        "published": "Mon, 04 May 2026 21:02:26 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQRWo3MWMxUWVieGR3d0d6OFZGc2V0LUdORnFuUWlwU0wtSTFuMEx3Q0F2VTRWcUJkdnZfd0dOYmV4MDZ0Y1NFTERwOGR5NGQxRFlfUmc3RVZUWEZOWTJrQ0NhMkZHNzM4ZnI5dEd0LUlRbDlNZHJ0a3NvY19aY0Q4cVc5aDBXM2FlVGE2bU5yQWJBUW1weXktTFpvREZ6SzdzSmJpNF9Lc3NLQUxERnRUVDBCT3lxcnNPZm8tZkxBQUNCbTFoMmJoakJZcmlldWoyNENOQW1HbzQxdGhBalpEVnFHYVBOQnNHcFFJMFhoVTNObWplQlJzektyb2xCQzhZdE9fU1AtcEpfQm1CLVdkb0huWFg?oc=5"
+        "title": "Iran tensions threaten oil transit, WTI crude may hit $150 in May - Crypto Briefing",
+        "source": "Crypto Briefing",
+        "published": "Tue, 05 May 2026 04:00:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcWRHT3NSUFFiVVNmcnZiMVdoR2RDalJHaUFmRkk5bVhTcU5hSXlqZ1Y1Ukt3azZjUEVNMktERG5ZMUhoZmNWTmhVSFRrSVVqOTRHZ084bWh6Rk5IM1Nkc05MekUwTUkzUWtUV19fS0VNQThGWm5mLXZOT3JMVGpaXzd0R3dzM2hJS3pLVzFvdUxMUXV1TGc?oc=5"
       }
     ]
   }
