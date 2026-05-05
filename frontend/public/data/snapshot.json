@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-05T17:57:59+00:00",
+  "generated_at": "2026-05-05T19:20:53+00:00",
   "fx": {
-    "nzd_per_usd": 1.693393,
-    "as_of": "Mon, 04 May 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.701855,
+    "as_of": "Tue, 05 May 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 113.98,
-      "latest_date": "2026-05-04",
-      "delta_1d_pct": 5.37,
-      "delta_30d_pct": 1.6,
+      "latest": 109.69,
+      "latest_date": "2026-05-05",
+      "delta_1d_pct": -4.15,
+      "delta_30d_pct": 9.76,
       "series": [
         {
           "date": "2025-05-05",
@@ -1017,15 +1017,19 @@
         },
         {
           "date": "2026-05-04",
-          "usd": 113.98
+          "usd": 114.44
+        },
+        {
+          "date": "2026-05-05",
+          "usd": 109.69
         }
       ]
     },
     "wti": {
-      "latest": 105.15,
-      "latest_date": "2026-05-04",
-      "delta_1d_pct": 3.15,
-      "delta_30d_pct": 6.95,
+      "latest": 102.26,
+      "latest_date": "2026-05-05",
+      "delta_1d_pct": -3.91,
+      "delta_30d_pct": 16.03,
       "series": [
         {
           "date": "2025-05-05",
@@ -2033,36 +2037,40 @@
         },
         {
           "date": "2026-05-04",
-          "usd": 105.15
+          "usd": 106.42
+        },
+        {
+          "date": "2026-05-05",
+          "usd": 102.26
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-05-04",
+    "as_of": "2026-05-05",
     "regular_91": {
-      "avg": 3.246,
-      "min": 3.088,
-      "max": 3.579,
-      "count": 65
+      "avg": 3.235,
+      "min": 3.09,
+      "max": 3.65,
+      "count": 60
     },
     "premium_95": {
-      "avg": 3.417,
-      "min": 3.089,
-      "max": 3.809,
-      "count": 26
+      "avg": 3.438,
+      "min": 3.149,
+      "max": 3.999,
+      "count": 21
     },
     "premium_98": {
-      "avg": 3.607,
+      "avg": 3.572,
       "min": 3.39,
-      "max": 3.739,
+      "max": 3.809,
       "count": 4
     },
     "diesel": {
-      "avg": 3.282,
-      "min": 3.058,
-      "max": 4.189,
-      "count": 77
+      "avg": 3.312,
+      "min": 2.959,
+      "max": 4.299,
+      "count": 78
     },
     "lpg": {
       "avg": 1.959,
@@ -2070,8 +2078,8 @@
       "max": 1.959,
       "count": 1
     },
-    "observations_today": 80,
-    "observations_yesterday": 86,
+    "observations_today": 70,
+    "observations_yesterday": 87,
     "observations_older": 7
   },
   "mbie_waterfall": {
@@ -8534,6 +8542,12 @@
   "news": {
     "nz": [
       {
+        "title": "Latest NZ fuel stocks official data – updated graphs and trends - 1News",
+        "source": "1News",
+        "published": "Tue, 05 May 2026 18:05:52 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY2NuZjJmdzVucTZrRkgtZl83WDc4UzM1UktHdHFvYTFTcmZ6V3UwanpEa0FRY2lDcEd1anpmb0M4YmJGTG1GZDFMUHE3S0RfV3JVMnRPX3VEU19MRl9WalhTX3RtcU91LW5reHVEN180dnNlTEVad21pMzZQME9XSmdObjIzT25LRW0zWHF0LXlwZDJnanBlTU01LW1Ydw?oc=5"
+      },
+      {
         "title": "New Zealand freight costs rise as fuel charges increase 27 percent - Hortidaily",
         "source": "Hortidaily",
         "published": "Tue, 05 May 2026 12:10:15 GMT",
@@ -8564,12 +8578,6 @@
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12SmRfa0EyT2hDeHotckxxQVh6VUoxYnlHNkJyTjZvSi1CYWoxRm45ZEJiZl85YnZ5VzJGZllkN0UyMElsbEVXWGZSSXlSblczcjRkMkNjZWEwSkdPMUsyVlhJeEp6UlhidF9GN09CSnhuZE0?oc=5"
       },
       {
-        "title": "Interislander almost doubles fuel surcharge for commercial vehicles - RNZ",
-        "source": "RNZ",
-        "published": "Mon, 04 May 2026 19:39:26 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeEVKcEpxTlJacUZiX1hpYmFMcTR3OWI3cVZhNlFSTk5ybm81U1JqeTRPc1ItZURZOFIxSkt5RS1BQy1ZRnJDcTJkV2hock5wdXA4YWxGb3hBc2xtWlpkXzZDMGhjeWhvdEt3QV9lYU1uc0YzWG55RXRBTGJGdjJFbUxfNlVsNjQ3R3ZSY1lSOVJjYUZJd3lFaDU2LVdTRVk1UHFleEh1YXU3X21nY2NF?oc=5"
-      },
-      {
         "title": "New Zealand signs deal with Singapore to ensure trade of essential goods - RNZ",
         "source": "RNZ",
         "published": "Mon, 04 May 2026 04:04:34 GMT",
@@ -8584,6 +8592,30 @@
     ],
     "global": [
       {
+        "title": "The National Security Cost of Flip-Flopping on Energy Sanctions - The National Interest",
+        "source": "The National Interest",
+        "published": "Tue, 05 May 2026 18:55:26 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQUlGS1hUYWtnWWJSTURCc083azRHUmR6cmY5NUw1aUp2cTk3bmt1cTV4VDlld0hDMFBaaXVYVWlxWmJWOEZVRnR4N0FlOE5valRxOE5YSkJacXlqQzFzOHN5SkxNY0VqMUVwVGNtTWpITDdxLTdNTHlZam5rSF83eFppVTJFMjViMGdEMFlOUDdEd0F3Tnh2cVVhYlZPR2pyWHl4eVBWQ3REcDdsZ0tV?oc=5"
+      },
+      {
+        "title": "US Senators Push to Reinstate Russian Oil Sanctions - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Tue, 05 May 2026 18:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUWNTejNyMUNCd3ZGTmJ6QWVaY243dkFzZl9fdjNrTlJra0c2c2kwQjJ6Mk04ZTRrU1RwbnAxRmVSMUpmZ1kwS3JkOC1TRHVEWWQwSUZLb1Btd2xnR1J3amQxcklkeVlEazREdGIxTUhhcDYyelAzVjZDNktBeHJEbWp4SEdiMHhKV3hTRjZvbW9IVkNqemNTa0lXQmt2bUpUOHFQd3ZnWlNfRFHSAbABQVVfeXFMT2d5bDRPcjg5SXRXYVJ6VkV5Z0IwS3pld19SSGV1SFdBVmhNRnlWbWliUmo2aXQ2WWtKUnFjQjV3dVpWalZ5V1F1MkJ4aDlGdV9hR0VKYW9WZFpKdW9sMjlGR2tySmczVXNVQ1ItcUs2cFlROVJUVklxT3ZoeUtVbWc2R3BWeHZ5aGFPV1R1M0tvNW5XeHZMZURSQ0tic3hRNUpIMjA3dHlxR2RVRVBxemg?oc=5"
+      },
+      {
+        "title": "Russian oil price jumps to highest since 2014 amid Iran war - TVP World",
+        "source": "TVP World",
+        "published": "Tue, 05 May 2026 17:49:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSHg1R0Rfd3ZsLUxwSk1WdUZDZzZBWnJ3d0xVSkZHeE5aQm10eWRsSG8tUDZUeTliUE8tSGVXeUlIMDctT1VpZmhwa1gxZU9qRlIzNlpYYW1lNU9ndU9UZGVzYmtNZldmbUZoeHRzbnBkdEY5UGtmNnB4SnU2SnRnWUUweHFoZldVd2Zycm5LRkRqTWFfOG5tMktBc1hpMVRPNkE?oc=5"
+      },
+      {
+        "title": "Gas Prices Surge; National average jumps 31 cents in one week while Oregon has one of the smaller increases in the country at 19 cents - AAA",
+        "source": "AAA",
+        "published": "Tue, 05 May 2026 17:48:14 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOb0FmRm5NWTl5Y3ZXSjh0UTAyS2R3WG9iNDJoU1k2S3ZsbUJ0SlVZc2JfR1p2amgwMzlRWVdSRGZzbUJfY0Q5T2J1QUI2NDZhUXc2NU5HclIzS1hfR2VJTkRnUFctelFlTlJ1YUE0akhNeHpZRzcxUmtlX2VLdzl6Mm4yZ1NfTUpYdVJBWEl3Q1RTUW5rYXJocDZHenZvTWlXYlhGR25jM0hKeUU3dTV6QzFPTHBVZDl0RzdnUDRxWEZsaGNuR0d4Z2NKOWpNTW43SWwtbC11SFRVamZrUHV0c0pfOVI2aWYzVGl1SGNkVlhWWTVw?oc=5"
+      },
+      {
         "title": "Global oil reserves plunge at record pace as Middle East war strains supplies - Financial Times",
         "source": "Financial Times",
         "published": "Tue, 05 May 2026 17:37:57 GMT",
@@ -8596,40 +8628,16 @@
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNam5uTEttYXFJVjUtc1BVdHRHeWItRkN2djF6LXU1TFlIcF9KdjIyd1ZyMVJiTnVoTTdCTm4xV2pENTdwNVZHNV94anYzYVE4TEJsNVh1RDBFNnpFdkFsMVJtaVZ1R0E3SDVnbGRVVVp1ZUYzOUNlX24yWmdLOWdVSGwxaDkwUmdrVTd3cE9qWXZqa0tfejBGMzF2N1Y4QUF1dlk4UUdDb00?oc=5"
       },
       {
+        "title": "Global oil prices slip amid Middle East tensions and US military action; prices continue higher stateside - Idaho Business Review",
+        "source": "Idaho Business Review",
+        "published": "Tue, 05 May 2026 17:18:34 GMT",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb2V6alVjZkhUMjRIMDlvRHNzV3VpQ1p1ai1NczlRNDU1MVhlWm5IeThMMWVVLU1vejZuZUZpVERhSnp3Vi1tMGR6ajlaTXRCNndnUE53bTFvd1BXR0FzQXlxMEZMcnpScXVKVDhZRW16MWNtYzRBeGM5b2ZXRFN4LWd5RGg3MWF2MWVJSHpDd1J4QTRnZkdHSjVoYlktNlVD?oc=5"
+      },
+      {
         "title": "Senate Democrats demand reinstatement of sanctions on Russian oil - The Hill",
         "source": "The Hill",
         "published": "Tue, 05 May 2026 16:02:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN3lNZm9yM0dRQWFOdEdaM0FFa21wVktuMlBqdjBjOXJ6Vkhra3lMYUt0TVFOMXVRVmpWZlYwM0xteEZjdGo3LXhlelNVTlppak5ITms0WTluWUtaV0JXUlU2S3hyZXllREllZEI4eUxkRDlKaENtUHlyU2xUakplc0RNLWJ2eE51eEo5UU1BUGNnT28wM1NwZzFVTE9JZ9IBowFBVV95cUxOX2xWNWFqU0hJWXNObXhtalhHTF9DX18zM09PZ0pZOXU4RnhGZjNyVkhKbjVJV2xoUXVEbUZVTGdaLW43d1RkbF83b0NWenZoUjR0N0VlS2pLOFNqR0U1dDlPd3ZJNHh1U1MwOEZyRHhja1hyTmRrYVJyT2xyOGlSTEh5U3N0VlpFVkNXbkQ1a3pKQjNkanRJaGVaa0Q2VlBZSU5V?oc=5"
-      },
-      {
-        "title": "Chevron CEO raises alarm of crude oil shortages as energy prices spike worldwide - thecradle.co",
-        "source": "thecradle.co",
-        "published": "Tue, 05 May 2026 15:56:37 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY01TR1QtOVVHemgwd2pMelZELWdycVUydkhTc0tUeDgyOVZIUWliMjFNSjRUVUhycTJINlc3VW0tTnNUbmtNZ2tvNnlFNHFxY3A4ZERPZDFTcmhhSzFyRFp5THdyUUlGVlNSckZ6ZDNxM2xkUkRTLXNMUTlzZEZXd1lBc0NjbnlUTjgyVVlnN3dhcjVzWDB2VzNHN21FNm5mMy1PQW9VSW84R2FVLXVJ?oc=5"
-      },
-      {
-        "title": "Iraq Offers Huge Discounts for Crude Shipments via Hormuz - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Tue, 05 May 2026 14:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdC10WnEwbjk4QmZvb3AzbEhwY3ZjRWtjTUNuYndMVGhWZEhsazhicmNReGVVdG9NQ1pLLUVWdl9mUVRLRllaX2dTcDAzcnMxcW5RZi1EemtZUUZWSFJ2WjQwM19zZHdNWVpJblMwWGUxS01uSW5yeHFKdFl4VW5VVVF2Z2FNVDY3YmJNaUtIcmtTSTdCVFdCcnNQWktpOHpMRzc0LWJDQ0VxYXBwNS1ldENqONIBuAFBVV95cUxQcnlDMTJNRTUyREVtVFRkR21PNGRnMXA0NnZlT3o4eW11NkdsQ1NmMVgyZ0xpYTFTOGs3TmowOGlyZmp2U2tYRm9xLTZVTjdxVmF6S1p6ZkVqdENCX2lJcjBwVzVVblZaZFMzV1JwMnBUc3hYdGVRMDZnZ2NXOWU0MXFCdFJHNF9OTEdFeFJVR24tWklvUTdhWnByU2VYQ3h2LUs0cGdWM29TMm5fUDRxdlhWU0t0R25o?oc=5"
-      },
-      {
-        "title": "What's happening to UK petrol and diesel prices? - BBC",
-        "source": "BBC",
-        "published": "Tue, 05 May 2026 14:08:21 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vN0tpNVdZWWNRUC1TdVFmZE1FNWpURGFiUlVQYU9ENW92U1k0U0tCMnVXcjdSd2xHRUV2bTFZMnVfM3pQWEFqNDdDalBIakJMOF80dXlVVTlRdw?oc=5"
-      },
-      {
-        "title": "US sanctions Iranian currency exchanges, impacting oil trade with China - Crypto Briefing",
-        "source": "Crypto Briefing",
-        "published": "Tue, 05 May 2026 14:03:48 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZVZCN05uYmZSUW9vRE5uV0stS0ZDeEFBQ0tsejdrVE0yUWMwTTA5N2RhbG9HbDl1VFEwUjV5ZmR3N3lQOFNzSVdpajRNYXZJdW1Zdi1rRmt4N1FFU1ZKeUx5b3pGZDVKa1o4WE1KWDE3cl9vc0s5amV5TXI1OFgwYkJlcXU2a0IyaVJGMUFaRk56WVhMenNtaG5fU2U3bmM?oc=5"
-      },
-      {
-        "title": "Crude Oil WTI Futures Technical Analysis - Investing.com",
-        "source": "Investing.com",
-        "published": "Tue, 05 May 2026 13:57:24 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44Ti1Na0dCUkxoSGRoc21WTWJnakljQmc1a3paaV9zTFZEc0dFSElEcEk5RVZOUDBKV2NCRGNaRFltdHhvakExUmhhMEhkcFdtRlZtNWQ5OTdrLWlGNGQ5Q0U1SUNBUGxj?oc=5"
       }
     ]
   }
