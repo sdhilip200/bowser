@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T23:06:53+00:00",
+  "generated_at": "2026-05-05T00:12:50+00:00",
   "fx": {
     "nzd_per_usd": 1.693393,
     "as_of": "Mon, 04 May 2026 00:02:31 +0000"
@@ -8536,7 +8536,7 @@
       {
         "title": "NZ's diesel stocks surge, Luxon to ink Singapore fuel deal - 1News",
         "source": "1News",
-        "published": "Mon, 04 May 2026 21:04:12 GMT",
+        "published": "Mon, 04 May 2026 23:16:30 GMT",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZTdtYko4TWFNZnJqV1JkQS1NeFN1TGtuM212czdWRF9Id3h2N0t3UGZIcUVGNWxreEtYNEJVZnp5R0RQYnpTcGs1NVRrYU5VN2VyVmVzV1oxQ3pKc181NE5vdzRWYm5GejUySG8yUEl0bFU1SmgxQ29SSHBfcUs4b2VpZFNlbll5bDVqYXBDWG52dk9MaHRUalJPcw?oc=5"
       },
       {
@@ -8584,10 +8584,34 @@
     ],
     "global": [
       {
+        "title": "Iran tensions heighten oil market uncertainty, crude may hit $90 by June - Crypto Briefing",
+        "source": "Crypto Briefing",
+        "published": "Mon, 04 May 2026 23:10:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcmhiUUhyd1BmNkVuOVAyNUVxODkzeV9HTVE2QUV4SGNWZnlrMHpkdEstUW1acHM5bG1Kd2g2aUNyd1VCS3plRWNkYk90WkFMRlZURkYtckM3RHNwTDhfaHpjbXhBX0c0eEp0M2RLT2ZFeEtFeHRTNnRCbnctaUYtYU5rMEpTdWxDT1p5cUR2OFVEQ1NFZ0tLdFNVTHJOQXc?oc=5"
+      },
+      {
+        "title": "Big Oil Resists Push To Prioritize Output Growth - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Mon, 04 May 2026 23:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeHA0dWVkZHpMc09VcUNqM3RkXzJUVmZvTE9mZWcxX3gtcklXc0pQQTdlYnppaEJVc3RQYXNHZkcyNWVGWnhaemxMajhfakV3dWNwb0g4RkdmLXRHanRmWXVKX1dTVnZUVGUtOVgtcGVRZWVZSWc1LU1TOEI3NDR0b2ZOektqWVhuMVNobml0S2FIVF8tWWfSAZsBQVVfeXFMTmg4anlnWVlVSjk3UlZrQTZ1OU80aXhfdFhLaUdoLW12Tm1rUUR2aDV4QlplTHByTzhPWHZ0cUxqaUJObEp3OHhiak9kS1dGaVhJcTJVeDdPSGktb29CNEFHeEV5b3MtelhPVXpYc29lTG1XcDM1NG1yN0g1WUc5d0lLanFlVG5oMWxleUQ3QUVYSFNZVjdiTlkzcXc?oc=5"
+      },
+      {
         "title": "US Crude Dips 1% as Traders Assess Supply Risks from Middle East - Global Banking & Finance Review",
         "source": "Global Banking & Finance Review",
         "published": "Mon, 04 May 2026 22:23:35 GMT",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcHBaYU4yY0lwRWxBb1NyOFZSWjVVZEt6ajh0Q3R1bEtXaENNdWh6U1QydVYwcVBVMkFGNWR6UW4wbm16VjUwLTZQdUNJbmd2SDRlaWIwODlFT3NPV1U4emw4SUptMGRub2YxN2p6Sms3WDREdjRlUjhiUWpmejRtUTc4blQ3OTUzT1lxNw?oc=5"
+      },
+      {
+        "title": "Brent Prices Surge on Renewed Mideast Hostilities - Energy Intelligence",
+        "source": "Energy Intelligence",
+        "published": "Mon, 04 May 2026 21:50:03 GMT",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MT19MQUxXLUZnQVdHY0VYa1NWQnBWNW1Xa1VVYk44d3ZqWWQ3RDlHeW1LTG5FQ2RBRC1kUS1UcUI5clV6TXZIZXp0dFpIcU5kaVM4UE5SQUtpWEpKdUZhSmdQVWRtQzByTFNvZFhMMkZCdw?oc=5"
+      },
+      {
+        "title": "Volume Down Revenue Up Iran's Oil Trade Defies the War - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Mon, 04 May 2026 21:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU25YVzhjSldsT0VnMWcydUZUWUdFOWFfekV1aUhpc1hRUTFOMUJKMmpuZmk0cnZzeG9LM0xIeXVyME5CTDZlM2E3UFdwWHhubG1Vb2ZYU3AwNy1BN25uZ2g1Q1E1VnRoVVRDZnhmQWNaMEdIaGZ1dFFXRG9pSExFM2p6UDRGQmZ3Um12d0N2V2cteVZlTi1NLVFkeEjSAaIBQVVfeXFMT1lHdVh0V0xCaHFQcnVsRnprLUJtXzFTVUo2TDI2OG9iQ0JZUkR2S2RZVVBHcGYyanNhV0QzTHAwU2ppekhFLVJ5OTV3RHVkWmRRNXVZQ0ZTMXIxS2VEekE5OC0yUTBGeVVYOU5qNnY4Xy15dEhkR1ZBd0tjdmZ2RUxCS2I5WXZyUWhQek5DOFBhWVJrbGVudDlBTmozZUlrQl9R?oc=5"
       },
       {
         "title": "Pump prices remain volatile as oil markets climb again - Midland Reporter-Telegram",
@@ -8606,30 +8630,6 @@
         "source": "NBC News",
         "published": "Mon, 04 May 2026 20:09:55 GMT",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZEYwYmlJUkFaMHBFRFdYbUVTSzdDRUlCcC1ORDY3U3l6LUpkeUplRWxuNzg2Zl9Jd0NWS2xTMnV1YWNFX1JTbzZ5ZUZqZExlZGVQbF9xTWVLSDBKbEVGdGR5cll6OW11R0ZDMU9YMElsRlhtQ0VYNm9SZEpfZWpuNXJuejY0NUdoazhtR01nNA?oc=5"
-      },
-      {
-        "title": "China tells companies to ignore U.S. sanctions tied to Iranian oil trade - MS NOW",
-        "source": "MS NOW",
-        "published": "Mon, 04 May 2026 20:04:40 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcGgtbll2SW1HdkJua04wbEllaC0xMDktc1JUR2FiTzhKWU15UFJmZ252MU5DTUw5eGdpakd0cHY0VDBLVWxsc2ktODF0WkZHcDhSbUpfQVM3WHczeTloYm5yLWRINDdCd0pYdkR5c0VOQjF0dklCc1RzVFZyNEN2RktjR3V4bmJRcHZWN2R6emU2bGxOQjE0SUtqS2pXZlROLTk4RGR3dWFubWo0emlWaW1zVmNuV1liVEVZ?oc=5"
-      },
-      {
-        "title": "Oil Futures Rise As Iran Fires At Ships, U.A.E. - WSJ",
-        "source": "WSJ",
-        "published": "Mon, 04 May 2026 19:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ1RSZGRfZXF3andrSVcwdEhyMVRkNnJZYndFbXRJMHk5bjhNQ0JmemFvX2tldzhJX2MzbHlRZ3N6T01HUjhNeGRnVlhzRl9xdFRJZG5LNl9QQ21XeDlmU1ZLUm5JS0dWSzNwU2RmVnJPUFNRaUtfUmp0SGVWR2lSdVhfSEUza0V2cS1qajVaWC1iWW9ScEVwUWpFN3BXdw?oc=5"
-      },
-      {
-        "title": "WTI crude rises more than $4 and the bond market is noticing - investingLive",
-        "source": "investingLive",
-        "published": "Mon, 04 May 2026 18:50:02 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbW9MWk11M3k5OWctYzJjei13bU1MVzVtd0ZNajVFX0h0Q1JOaTV3QjJGLU1FRDJzS0cybEtEbHlScmVkdVctNzdqc0sxTy1JMU5xZ21xeFBNZ2EwN0l3WHZVOHZxa2F5eWp0ZVV6d2I4aVRjWjVkYWxzdnVNNjJ1U3FiSnBEeWpfNFNkYkpaWWdqZURjQmxWTlZSaVFUek9CUVY5QXpFLWtsd0U?oc=5"
-      },
-      {
-        "title": "Strait of Hormuz Oil Supply Shock: Bull vs Bear Case for Crude Prices - MarketWise",
-        "source": "MarketWise",
-        "published": "Mon, 04 May 2026 18:35:05 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd2FZSDh5WmxOeEh3S2ZCZm1zQ0NSUGc5UVZZdmxkRVJTNlV6MlExQVBrRGtyN3FMaWNZMjVoUFBKdEJDeUVzbWNIRkpKZkxnQkJqTXNBa1JSTFROOVFJamRPai1uZ0F6emItNFJzUmo0N3VzRjRtaVdlaG05X2RuLUZLdTlOZzhKZklfSmdqS2tOZm92MEJNdGZoTnVVWTk4ZW95RUl5OXZHdFBQ?oc=5"
       }
     ]
   }
