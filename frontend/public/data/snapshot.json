@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T01:19:00+00:00",
+  "generated_at": "2026-05-06T04:49:59+00:00",
   "fx": {
     "nzd_per_usd": 1.701855,
     "as_of": "Tue, 05 May 2026 00:02:31 +0000"
@@ -8542,10 +8542,34 @@
   "news": {
     "nz": [
       {
+        "title": "Stocks of diesel, petrol and jet fuel drop, satisfies trigger for alert level move - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Wed, 06 May 2026 04:28:54 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdkxrZFVEdzljMnMxQV9OSDkxWHlDbHpfc05kWXNfOWJveGRmVlpGcEpEVlZjbjRIN3B1Y3pja1puOG9qOV9fU3RIdlFMRXFIM1k1ZzZYUk1IVkZOTGZJRXJYRHBvM0dBRFhNSVNjd3lyNkNtM2U5VE1KVTA0UnhJV0M5NHJPUHBXWHYteXQ5R2lDQVNGcEh2MDFQbF9zSzJaQ256UENqQy1YaE8yUG53RDROdVNXRllob3pBbEN6LWNnWlViQVpGYl92dFBOaUkxcHBMWFJDdlhPWllGUmRtNGFSY3B1bDA?oc=5"
+      },
+      {
         "title": "Latest NZ fuel stocks official data – updated graphs and trends - 1News",
         "source": "1News",
-        "published": "Wed, 06 May 2026 00:35:33 GMT",
+        "published": "Wed, 06 May 2026 03:39:09 GMT",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY2NuZjJmdzVucTZrRkgtZl83WDc4UzM1UktHdHFvYTFTcmZ6V3UwanpEa0FRY2lDcEd1anpmb0M4YmJGTG1GZDFMUHE3S0RfV3JVMnRPX3VEU19MRl9WalhTX3RtcU91LW5reHVEN180dnNlTEVad21pMzZQME9XSmdObjIzT25LRW0zWHF0LXlwZDJnanBlTU01LW1Ydw?oc=5"
+      },
+      {
+        "title": "Fuel stocks in NZ and en route remain steady, MBIE says - BusinessDesk | NZ",
+        "source": "BusinessDesk | NZ",
+        "published": "Wed, 06 May 2026 03:08:34 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTGVxQ183ejF3bHVsaVZTSG11bklBZC1oWTA0WEdEcUhVRHUyR3djalNVaE1PYXNIbjljWGhGcGY1c0hJZU81d0FxZzVXV0ZJU2lrX1BlWFlBT0J1cW95V0t2YlVCVU9Hc19ONVQwZ3VuOVhzNjBBMTlyeUJDM2JScjZiMXBQV1k2NjdHeF9xbTNOZy0yUElFZy1JOTQ1bDB3U09ZS0Nn?oc=5"
+      },
+      {
+        "title": "Iran war: NZ’s petrol, diesel and jet fuel stocks decline again - The Post",
+        "source": "The Post",
+        "published": "Wed, 06 May 2026 01:33:33 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRWJwZGJ3angyR2pFTXBJVjVicHJ6dmxrNzIyaXJsMUNKa1JITnBoVmZhaXRzWjhEaUdtY01VSDV0YzFOTFR3bnRLbURrWHVrS0lrQXpaRVBqV2JtaWxsLXZwV3N0eW82ZnpmMWY1S1ROWlRGNDlpZ3IyTHgwNEY5cVFiUUF2bDkyb2R2T2Z6dmxKcW5oRmJIS3VwMTVlMV9namVxay1sS3o?oc=5"
+      },
+      {
+        "title": "Diesel supply drops five days’ worth, but fuel importers have ‘good confidence’ - Stuff",
+        "source": "Stuff",
+        "published": "Wed, 06 May 2026 01:20:28 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMFA5NU5KU01STVZqdUk1T0Z4QURiN3NpV01IYVFuMlVoTEo1eHZDVTliSkhOeVoxd3UzQ25DdEQ1b3JfdUdOWkNDRGt2cndCMHlvNWxWaGVwMUJCN3VCTjhPWkszUTJTZ3ZlSEVlc2haV3I1VEVhZmloUUYxTU1OQ2VzeXhKWnVCaTlwQUowTkQ4MEszTENWX1R5WTlSa2Z4WG5TZ1V1a3BHM29ycWh5Z2Y5Yw?oc=5"
       },
       {
         "title": "War an excuse to hike prices even without fuel costs - economist - RNZ",
@@ -8564,33 +8588,39 @@
         "source": "Hortidaily",
         "published": "Tue, 05 May 2026 12:10:15 GMT",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcF8zQjlyY0Z1R2V0R29KX1hJUVdaanFIYnhrTUhkRFpmbllMWVFkcnBZX1RkQVJxNE00Z1VYa2tUV2lqMWNWdGR4a2xqVF9UQUdyNTQ4MHdHM3Q4c0ZFNHAwLTdTZmZvNUZFSXdxMlR0ZUI0ZWlBb0NuankzMldhMklrVllEdVEzbTVobXFFM1hQS1owYzJHS1gtUzZKYTNydzhJUTdGMElydUw5ZmJF?oc=5"
-      },
-      {
-        "title": "NZ's diesel stocks surge, Luxon to ink Singapore fuel deal - 1News",
-        "source": "1News",
-        "published": "Tue, 05 May 2026 11:15:16 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZTdtYko4TWFNZnJqV1JkQS1NeFN1TGtuM212czdWRF9Id3h2N0t3UGZIcUVGNWxreEtYNEJVZnp5R0RQYnpTcGs1NVRrYU5VN2VyVmVzV1oxQ3pKc181NE5vdzRWYm5GejUySG8yUEl0bFU1SmgxQ29SSHBfcUs4b2VpZFNlbll5bDVqYXBDWG52dk9MaHRUalJPcw?oc=5"
-      },
-      {
-        "title": "Air NZ tipped to lose $427m as war-driven fuel costs soar - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Tue, 05 May 2026 09:04:54 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMmRTc2VRVGZ4Q05qb2dQbUEySjdYZThxY3R2NERJLXhiSVlUUlZKWnpHOWQ2LXZ5YTVsNWFfNGxmV1g2ZWFUMG5qYzNUVTZzdWg1bHJ5S3RfZWpCOXE3YjZHWmlHMGxXWGllbF9DTEdabk1WWXc5Z0k3WERwMkJlRGJ4M2wybnA1ZFFlbTd2TzRib2tYS01sRjQ5ckJIQ2RrMjd6QlozUWQ4OFJnLWZMTDZldmFWVzZOel8yYUlJeWx5TlVva0hQZ09rZVdCNUZjSjk4M2VXTFNlaHhfSGJXMzZKLThnekJNTVE?oc=5"
-      },
-      {
-        "title": "Fuel costs, household expenses on the rise as economy heads into ‘choppy waters’ - RNZ",
-        "source": "RNZ",
-        "published": "Tue, 05 May 2026 07:41:58 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONUJJNVlfNHc3M0NTSzY2UGVqcWRPZ2RqdkxQM1hCdE1TMFFvbk4xSmtNVjdyd3RSSDFDcVFNcndPTkdWZkpnbGgwdVZpSV9OeTBuUGN3cGI2N3l4MV9sal9iTktrd0VnYXQ0ZWJvc3hfNGdFQjlva2RmNFhLeEZ6QkNmYXA2Qkx1WXJ3dm53ODJIekloWGtnUzFEX1ZZSlc5bnc4UGxGdTdqeV9CUENUOXl1c3AwN2M1MGRFRw?oc=5"
-      },
-      {
-        "title": "Fuel cost shock reality dawning on NZ - The Kākā by Bernard Hickey",
-        "source": "The Kākā by Bernard Hickey",
-        "published": "Mon, 04 May 2026 20:34:21 GMT",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12SmRfa0EyT2hDeHotckxxQVh6VUoxYnlHNkJyTjZvSi1CYWoxRm45ZEJiZl85YnZ5VzJGZllkN0UyMElsbEVXWGZSSXlSblczcjRkMkNjZWEwSkdPMUsyVlhJeEp6UlhidF9GN09CSnhuZE0?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Oil Falls and Stocks Gain as Trump Changes Course in Strait of Hormuz - The New York Times",
+        "source": "The New York Times",
+        "published": "Wed, 06 May 2026 04:31:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJTTlUejdpTXN6c1pKWExmaGdTVXNuQVE5eTZTM2FGVjdaYWRJQkhDeVEzeUMzUS1sdGFXb1BlLUd5SG5uOEdrUmtRQXZMVVBMOXNCaFM4ekE4ZXhlRjcxWUtaUXVxT3NFNkF2ZmxyTWp4ME44LXc?oc=5"
+      },
+      {
+        "title": "U.S. crude oil exports hit a record high, but U.S. oil struggles to fill global supply gap amid Middle East conflict as inventory shortage looms. - 富途牛牛",
+        "source": "富途牛牛",
+        "published": "Wed, 06 May 2026 04:28:50 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGhoMXo5MW1nMlI0N2Y3dU1sRzlpdE1ndWZjUzNiYTdER0ZVaURtLXlXcHVBeF94Nzd3ZWpQX1M0Z296NkpxVTc4REdBZHNmQ0ZxQWwwczV6TVRRV0xpSk9ubW4xS2k4M1FUaGI3WHRiaFViaERnbkdfckRwV1FIOUtHUGtLTW1wM2VuQUFkdw?oc=5"
+      },
+      {
+        "title": "Oil prices little changed as ceasefire holds and US crude stocks fall - Global Banking & Finance Review",
+        "source": "Global Banking & Finance Review",
+        "published": "Wed, 06 May 2026 03:35:23 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb0ZJeElSM3J2a1ppYVJXWExGTVpyTTZpdEp6ODhCTHU5RUlvNzdDMlpUd0hfMGlLQWZ0QzhVc2JBOC00eWVGMUJtano2R2p1Mlg2ZnZod0hsUUNBV1RmQ2llWXVTcFJYYVFjbjRnZ1FodnpTdjhfTUh0SFRqbUg2X0JlZ2U3UmFtQzN0QVU5THE4NS1NNDBjeFU4Y1VlcTA?oc=5"
+      },
+      {
+        "title": "WTI Crude Oil futures shed 4% as geopolitical risks eased. - CME Group",
+        "source": "CME Group",
+        "published": "Wed, 06 May 2026 02:03:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbzRVQXhWenNfVHowT2tlQW5meUNhTFFNUlQ2ZVZMWGJaLTNJT3c4cWVJa2xFOVVRZmdvUUUyMWFaeEJ5Zjl5RHFEZFk2ejRxYXJ2ZjA1MS1FTHRtaUdfZkYwX29YZVpEZFZJQWpyN3cyQ0FfSmJWalVFNEM0bnFNNnZRVXY2RFIzV0FZcmVPcEhhUGNydG1wZ0xIdmwwcE5Tbnc4cXZUb3o4UHZsQmow?oc=5"
+      },
+      {
+        "title": "Brent oil drops 2% as Trump signals progress with Iran - Crypto Briefing",
+        "source": "Crypto Briefing",
+        "published": "Wed, 06 May 2026 01:38:04 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdjRKNWNoQ3lZRnNQWHhhV29NX1FscGZQQ0cyaXhMTmF4VG8xc1QyUUY4RS1vdHNfX0tlSGFPQXNISTFIWThoWFhhV3B3OEdQZWlrODQtRS1jWVRUNXRjSm9TZUNGdHR3eW1IUk13WC1fOG1PdDVraE5Wbzljb0U3Mk1YUU54Znh0?oc=5"
+      },
       {
         "title": "WTI oil drops 2.5% as Trump pauses Project Freedom, impacting price forecasts - Crypto Briefing",
         "source": "Crypto Briefing",
@@ -8604,40 +8634,10 @@
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZkVoMXhNQU1VX0Q2RmdhUkRJQmZ5OThHbG9GMDUxcXFBV1BOejN1OXk5alJFbHRtTHJvelFnMjBqZTh4bWpDeUtlcmtMbjJlaGg5U09YcGFlSlVyQjdNS25oQkpZSWxfdk16THZKQU1ET080ZEpFX2p2bmVDVy0wYlg2eEJFZ2VoemluOHRzZk5VX3lqVzJuOFUxVlRPcVNsMjZ2cdIBqgFBVV95cUxOY1hERjRHZ1NYRXJwNHYxR3ZVelE0dUJyQjBWeERkTGNYZjhaOEFtMkIxcU9FT1AybE84OWVWMGl0d3BQSEx2MTYxZk9xa1gyMGtRUzRHSmlvTXZNd2VGRFpraWFzNkVtOXVKNHo1eXFPdEFPeUxjSHVNOHMtSldEOWhJSVI0VEJIZDQ0MldoN043UTFZRXp0QzRSYXplWWpwWHdwX2R0Q01IUQ?oc=5"
       },
       {
-        "title": "U.S. Oil Can't Fill the Middle East Supply Hole - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Tue, 05 May 2026 22:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVzduZjgyZUF4NXp4UllnbXJDOS1zUW1HRGJxSzhxMFZuc3VSeFpvcW84dnV2X3k0YlFOTDkzZUlGOXEwZEZTUmVMUDMtNGhHdGRkSFc2WW1udnZBamxRZm1SLXdoTVdRVnRrR3VNOXNoMUlSZkVqbUhlMDdpRms0X0pldjdrQzdERTM2T3J1MmTSAZYBQVVfeXFMUEZFQVYxNEFFOU1LMjQ4V1FYaGc3WkRKVVdaSTlWMm50dGlzVnkzeTJoM09lMGhzdWJHRXNENVFTWFNHQjVudUZUclBVemt1emE3b0J2bUF6VTI4R1RYXzZNS24xWFNGV1ozRWw3bktyLUdCM0tJX3pPQ1d4a3R4NlE1dGxMSWI3U1lOQ2RlU1VVeklZVXVR?oc=5"
-      },
-      {
-        "title": "U.S. gasoline prices rise 50% since the start of the Iran war - PBS",
-        "source": "PBS",
-        "published": "Tue, 05 May 2026 21:38:06 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTzVkQlhydVI4NU1oNndqRTJtdlhtUDlBNkJOT3dtTHJTTnBmdVQ4QUs3QWluVmVEdTR1YnY2SVBjRlVvUkhOLWh5SGUwX0lWSVpPR2RzLXZrOHpZVTVLa3QyV19TMW43Z0ZQSGZXT0xxQS1GNnRCR3pUdkQ1bTBWY0ZrZDlKcGxPODFYdWhQUDlCUWVXNE1EU3RNTFM?oc=5"
-      },
-      {
-        "title": "Valero has strong start to 2026 as political conflicts hit oil markets - San Antonio Report",
-        "source": "San Antonio Report",
-        "published": "Tue, 05 May 2026 21:31:27 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZGNodUc0ZDNLNm1xUlJidUpzZXF6VVlkT28zN3VFQm1lUlRhVWROMUZPUnB3eXAxQnI0VDFBSHdLZncyaUxMeU01MnV2OXFxS0ZxYlRJRUg5LTdpX0p3ajJqUU5NWkQwZC1iMXQwUGQweFZFQlJyeExQeExtZTNjNDB4eS1LVW1QcXc?oc=5"
-      },
-      {
-        "title": "Crude Oil WTI Futures Chart - Investing.com",
-        "source": "Investing.com",
-        "published": "Tue, 05 May 2026 21:26:14 GMT",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QVUZmbEFLek45c2FDcW5MdnIwVUE5c2p4Q21nUVU4a0NOZzd2QTdxSGRQS3A1QTk2M1cwVFNfd0JVUFZYMnVBa01IeWJzNy1HZmR3cFJXZk1zdVNSRGJONkI3MEJ4RDQ3VjlocXhYdHc?oc=5"
-      },
-      {
-        "title": "There’s one reason why $200-a-barrel oil can’t be entirely ruled out - MarketWatch",
-        "source": "MarketWatch",
-        "published": "Tue, 05 May 2026 21:19:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWEpqV0tYNnFkbkhOZW9GaUs4OHdFVGNYZnJFMURSSGJ1ZmFsTzFvVU1ma3ItSlg0SUR2NlAxbHNNQmU5WWJCXzUzdW1FSlhaTWJSQ3J2VEh0RElfdmpCeWU4b0NTM3RHdjNWUURJbDFWeVNfb3dZMzRyZFRMXzh3eUJmSlJheUFscGcyMTlMa0lWZWNYcHhlY2xXLWpKeXRBSU5CWGNQUFFBczl1?oc=5"
-      },
-      {
-        "title": "API Confirms Very Large Crude and Oil Product Draws - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Tue, 05 May 2026 20:55:19 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcFNSQUdhN1RMTmZvREFnNHRyOXY2cVVvMXVja0dCVG1SV2hscWdZdTEwaDJBMklsR2dOYllFZjhUXzFqMmRhOC1XdXpJczFFeGRWbm55VlJ3RzlUN0xkdE42dWJMZjlXZGNzT3FhQlB4UW9CNHROcnhxLWVoVVpvNmpWWHQ5TENQTUFVQXV4ZFZmQXpuTHp4YnJnWV9vNWRYUnoyaTgyUHRYRm_SAbABQVVfeXFMTWNsdVcwOE5tYnNCaml3SHZ3SmVGNjk2OEFrREZQaWRuaTlVVVlvSWJ3aVY3VTR5ZXVqSWJPSmw5a3BEaEtsTjNUUGoyREhfTENxcVUtSVNiWnBYV2xJbVhQcjlBNkZJU0ZXd01veUZOaXNxeGpweXl6N01WOWNhUXhFQnE1NzFIMHJoUHVacE9XU0RIcFgxcUN6RkswTUVPYmxuZzZKcmpkTEpCbUxac1Y?oc=5"
+        "title": "Chevron CEO sends blunt message on oil and the economy - thestreet.com",
+        "source": "thestreet.com",
+        "published": "Tue, 05 May 2026 23:17:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLU8zZ2szTzhUMDBtbVlROVhGMHlKTzhYR0dqVTJWTlczTm92ak5GRldVdjdnTWJ4NnlwdU1mQWFjN3pteTNUTUhDTXQxbVJ2dkhDTHV2UHUtMTBtanR5OXJ2bFVlT0w1dVlpVmF1Y3VKbDVJTlJ1ZjlMdHVfTkQ1a0sxSXg0TThlMFVPM1FiLUJKZw?oc=5"
       }
     ]
   }
