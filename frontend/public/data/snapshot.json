@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T19:58:57+00:00",
+  "generated_at": "2026-05-06T21:19:39+00:00",
   "fx": {
     "nzd_per_usd": 1.695767,
     "as_of": "Wed, 06 May 2026 00:02:31 +0000"
@@ -8590,6 +8590,12 @@
   "news": {
     "nz": [
       {
+        "title": "Fuel costs, household expenses on the rise as economy heads into ‘choppy waters’ - RNZ",
+        "source": "RNZ",
+        "published": "Wed, 06 May 2026 20:11:02 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONUJJNVlfNHc3M0NTSzY2UGVqcWRPZ2RqdkxQM1hCdE1TMFFvbk4xSmtNVjdyd3RSSDFDcVFNcndPTkdWZkpnbGgwdVZpSV9OeTBuUGN3cGI2N3l4MV9sal9iTktrd0VnYXQ0ZWJvc3hfNGdFQjlva2RmNFhLeEZ6QkNmYXA2Qkx1WXJ3dm53ODJIekloWGtnUzFEX1ZZSlc5bnc4UGxGdTdqeV9CUENUOXl1c3AwN2M1MGRFRw?oc=5"
+      },
+      {
         "title": "Latest NZ fuel stocks official data – updated graphs and trends - 1News",
         "source": "1News",
         "published": "Wed, 06 May 2026 19:24:27 GMT",
@@ -8626,12 +8632,6 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMFA5NU5KU01STVZqdUk1T0Z4QURiN3NpV01IYVFuMlVoTEo1eHZDVTliSkhOeVoxd3UzQ25DdEQ1b3JfdUdOWkNDRGt2cndCMHlvNWxWaGVwMUJCN3VCTjhPWkszUTJTZ3ZlSEVlc2haV3I1VEVhZmloUUYxTU1OQ2VzeXhKWnVCaTlwQUowTkQ4MEszTENWX1R5WTlSa2Z4WG5TZ1V1a3BHM29ycWh5Z2Y5Yw?oc=5"
       },
       {
-        "title": "New Zealand freight costs rise as fuel charges increase 27 percent - Hortidaily",
-        "source": "Hortidaily",
-        "published": "Tue, 05 May 2026 12:10:15 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcF8zQjlyY0Z1R2V0R29KX1hJUVdaanFIYnhrTUhkRFpmbllMWVFkcnBZX1RkQVJxNE00Z1VYa2tUV2lqMWNWdGR4a2xqVF9UQUdyNTQ4MHdHM3Q4c0ZFNHAwLTdTZmZvNUZFSXdxMlR0ZUI0ZWlBb0NuankzMldhMklrVllEdVEzbTVobXFFM1hQS1owYzJHS1gtUzZKYTNydzhJUTdGMElydUw5ZmJF?oc=5"
-      },
-      {
         "title": "Air NZ tipped to lose $427m as war-driven fuel costs soar - NZ Herald",
         "source": "NZ Herald",
         "published": "Tue, 05 May 2026 09:04:54 GMT",
@@ -8639,6 +8639,24 @@
       }
     ],
     "global": [
+      {
+        "title": "Beijing defies Washington, blocks Iran oil sanctions in landmark move - Tehran Times",
+        "source": "Tehran Times",
+        "published": "Wed, 06 May 2026 20:26:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaEwwWklONlBobVA3NXU5dk0ta2NJdU9TWDByRnROVWFzbXlRWUJMWllvMmVuU2l3Z3dlaldEQ2NtUFpyQkp3aERBYXprSjhDbk5rUGsySlotUTNuLTQtaHEwcDZlQUNsemY0ME9nTWlTUVJFNGF4dE95NkxxakRub3JSOC1tTUFDM0lxaDJfWjFENmNxU25rMmM4bXVBTmZDTktLaHd3?oc=5"
+      },
+      {
+        "title": "Oil plunges, markets surge on report U.S. and Iran near deal to end war as gas prices jump past $4.50 - NBC News",
+        "source": "NBC News",
+        "published": "Wed, 06 May 2026 20:23:56 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUUFXMXZMeHZQUnFBVExQTy0wWXppMWNncWZobXlyekw5d0ZhVldCUmZQTXJEUEJXRUpKeVZNZll1OTVUTkpfUEtVRzBSaWxXY3NlRlIxcnN4MzdYVUV6cFVHcHExYmN4WXExNDdncUgxWHllS1lrMERhbTIxYkhRU0l5VlR3bFFEQTU4Qk1kY05NVVdaMlZCWmZLTWZCMG9KWGwxTzhVd3BUa1RTY0tZajBLNjFZeGlh?oc=5"
+      },
+      {
+        "title": "Oil Prices Fall on Hope U.S.-Iran War Turmoil in the Gulf May Be Easing - The New York Times",
+        "source": "The New York Times",
+        "published": "Wed, 06 May 2026 20:16:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJTTlUejdpTXN6c1pKWExmaGdTVXNuQVE5eTZTM2FGVjdaYWRJQkhDeVEzeUMzUS1sdGFXb1BlLUd5SG5uOEdrUmtRQXZMVVBMOXNCaFM4ekE4ZXhlRjcxWUtaUXVxT3NFNkF2ZmxyTWp4ME44LXc?oc=5"
+      },
       {
         "title": "Iran war threatens jet fuel shortage that could disrupt summer travel in Asia and Europe - CNBC",
         "source": "CNBC",
@@ -8654,38 +8672,20 @@
       {
         "title": "Oil supply shock to worsen as inventories fall further even if conflict ends - Reuters",
         "source": "Reuters",
-        "published": "Wed, 06 May 2026 19:03:39 GMT",
+        "published": "Wed, 06 May 2026 19:15:43 GMT",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOajEzZERrVnZsdVJkNHRpUTN2cEM2YUpZN1R6VENfVDJyT24tSmpieWhXd093VklWQ09OWW81dDdrZk1wenRTcDNVbU4yeURkelVEVW54dmNMVXNQQmNlZFJ3UXVZcEZwY2w3SEhmX0tjdE53UWYySTZOM3BNMmdhS3pFajkxZF9jRUpaWWRPd3daak5yd0lXNkdJanFjWjNzQjlZcDhFVTdXS1ZMNDBnSUhWWG03QzA4MXpSaXpiQQ?oc=5"
       },
       {
-        "title": "Uncertainty looms as last oil tanker from Middle East heads to California - The Guardian",
+        "title": "Uncertainty looms as last oil tanker from Middle East arrives in California - The Guardian",
         "source": "The Guardian",
         "published": "Wed, 06 May 2026 19:02:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTm02Y18zVlMyeUFuckhfekZhRkZCMVZiR2hfdkpnN19pNmx3ZkdKcEprQTlwTU4wcHJLY0lNckNBTG9XZ29yNmt2dGpDSzNYcFdCZjltM0VjZkFWOTluQndRY0JONENTM1BrSHNDLVo2VXRWUDAtMHdsc1U5dE5LRkVtUk5ZMDBf?oc=5"
-      },
-      {
-        "title": "Oil plunges, markets surge on report U.S. and Iran near deal to end war as gas prices jump past $4.50 - NBC News",
-        "source": "NBC News",
-        "published": "Wed, 06 May 2026 19:01:52 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUUFXMXZMeHZQUnFBVExQTy0wWXppMWNncWZobXlyekw5d0ZhVldCUmZQTXJEUEJXRUpKeVZNZll1OTVUTkpfUEtVRzBSaWxXY3NlRlIxcnN4MzdYVUV6cFVHcHExYmN4WXExNDdncUgxWHllS1lrMERhbTIxYkhRU0l5VlR3bFFEQTU4Qk1kY05NVVdaMlZCWmZLTWZCMG9KWGwxTzhVd3BUa1RTY0tZajBLNjFZeGlh?oc=5"
       },
       {
         "title": "Middle East peace hopes send oil prices on sharp downward turn - Baird Maritime",
         "source": "Baird Maritime",
         "published": "Wed, 06 May 2026 18:37:48 GMT",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUld2RlByUUxoZVlHbUJQWGp6QnVvZW5wNHJiSUt1UEwteUhFaXl3bnZWVENLc0hYVHlVQ3IzUnJVd04wLU5IRGFCLXFtVnh3bUpTNUo5TWpKZ1JoRUVmaUFZN0g2RzY1QjNXdDRJcXNGNUFsOXNJVm5Qb0JOSDBfRFN6SnZZSkNXRk1iMXJuRFVmOEhRbmplX0d3NmdzRFNlM0tBcDgzRF8zUWJPTmfSAbsBQVVfeXFMUDZSMDJTMmNCZFpGRjNEby1Ic3ZKVkxRd2ZUcnp6d1dYc0tiREdsdEpja01VSnlQZjRmendSR0lQT3Q5UjBqaENNNlVRRGFkZE1BU2VLQU5vU0UxZ0l1YXRUZFpmSHBwcmgtcjZsRWhZYktJYmZYSm91OGUzNENxaUw1MGM2MjRVcFpFRVpSTHFWN0JUNm55WVJOblkweDR3dnlOUy1QbXkxbG9aNW9fVWJ2WnRDRkJYN21CNA?oc=5"
-      },
-      {
-        "title": "CME : WTI Crude Oil futures hit one-month low on Iran progress. - marketscreener.com",
-        "source": "marketscreener.com",
-        "published": "Wed, 06 May 2026 18:33:07 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ2QzcUJQMWlGTy1QNG5RblBCYVZaVEQ2M1VLUkxhNWpFYUpIVUY4RW1nV2x5amhyUmZjd1lYYUFSbDE4TGY1dlVXX1hISS1QVE1sVjRuT296LXZDS3dScER1algwVEptVnZoVkFHMjZGYms2aU5RZmZya1BRbHBYQ1d3RXFPd2pDNWxjazZqWmhFSG1aZWxfRUFyS0x2cG8yN0xBdGN2VzZPNnRNQVRTRy16UQ?oc=5"
-      },
-      {
-        "title": "Why gasoline costs 52% more in the US than it did before the Iran war - The Washington Post",
-        "source": "The Washington Post",
-        "published": "Wed, 06 May 2026 17:43:09 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTzdPT19aQm50Zkc3eS1wN0V1N0hPUE8temtnY1BXQWFGb1JaUFBnQUdnc0g5N0RINXB4T0daZU9temVSeUdzQjVFSFpnVmM4dV91ZG5HZUlxeWFiemVqTnN5QWQzS0ZMOWlKTFRRQndSWDItZ1ZkOEFjREpCcFZTamQ0bU14c3A0YkdITm42V3JKcTVsU3FNVVU1aHNVdHVVNW5ZNndMaTdpSUc1cjhDaVNZZmdlTWZjZlJ6eUozUzBnWW1RMzk5a0NHNC13MFBTV3dNbE05S2tnRkVn?oc=5"
       }
     ]
   }
