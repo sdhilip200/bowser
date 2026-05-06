@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T22:11:56+00:00",
+  "generated_at": "2026-05-06T23:11:21+00:00",
   "fx": {
     "nzd_per_usd": 1.695767,
     "as_of": "Wed, 06 May 2026 00:02:31 +0000"
@@ -8590,21 +8590,21 @@
   "news": {
     "nz": [
       {
+        "title": "Latest NZ fuel stocks official data – updated graphs and trends - 1News",
+        "source": "1News",
+        "published": "Wed, 06 May 2026 22:27:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY2NuZjJmdzVucTZrRkgtZl83WDc4UzM1UktHdHFvYTFTcmZ6V3UwanpEa0FRY2lDcEd1anpmb0M4YmJGTG1GZDFMUHE3S0RfV3JVMnRPX3VEU19MRl9WalhTX3RtcU91LW5reHVEN180dnNlTEVad21pMzZQME9XSmdObjIzT25LRW0zWHF0LXlwZDJnanBlTU01LW1Ydw?oc=5"
+      },
+      {
         "title": "Fuel costs, household expenses on the rise as economy heads into ‘choppy waters’ - RNZ",
         "source": "RNZ",
         "published": "Wed, 06 May 2026 20:11:02 GMT",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONUJJNVlfNHc3M0NTSzY2UGVqcWRPZ2RqdkxQM1hCdE1TMFFvbk4xSmtNVjdyd3RSSDFDcVFNcndPTkdWZkpnbGgwdVZpSV9OeTBuUGN3cGI2N3l4MV9sal9iTktrd0VnYXQ0ZWJvc3hfNGdFQjlva2RmNFhLeEZ6QkNmYXA2Qkx1WXJ3dm53ODJIekloWGtnUzFEX1ZZSlc5bnc4UGxGdTdqeV9CUENUOXl1c3AwN2M1MGRFRw?oc=5"
       },
       {
-        "title": "Latest NZ fuel stocks official data – updated graphs and trends - 1News",
-        "source": "1News",
-        "published": "Wed, 06 May 2026 19:24:27 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY2NuZjJmdzVucTZrRkgtZl83WDc4UzM1UktHdHFvYTFTcmZ6V3UwanpEa0FRY2lDcEd1anpmb0M4YmJGTG1GZDFMUHE3S0RfV3JVMnRPX3VEU19MRl9WalhTX3RtcU91LW5reHVEN180dnNlTEVad21pMzZQME9XSmdObjIzT25LRW0zWHF0LXlwZDJnanBlTU01LW1Ydw?oc=5"
-      },
-      {
         "title": "NZ fuel stocks fall across all types after recent highs - 1News",
         "source": "1News",
-        "published": "Wed, 06 May 2026 19:11:09 GMT",
+        "published": "Wed, 06 May 2026 04:44:55 GMT",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeFBrSFVaVEIzZWtPNWRoZTB1MHlRd3RQeGpqcHpxd2ZTdTgxTVRMUGpJTU9zcTlUUHdYN0lJdzZUT3Q5X3pxalM5Sl9jTmZraEJ0cWtRVnUtbWppMjZDTFQwb0J0eElyQlQxU2hZZEtNRWxreU93anh5bHRYTGNpc2habFExZWNpZUNOWWNZNEFxVERGdlE?oc=5"
       },
       {
@@ -8652,6 +8652,12 @@
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUENaZ2pENDNYQWJGZGk1bkdnYm1UbllQZnpfaGdTZVpSNU9YdW1XWlJHRlllTWcydm0xbnNGeXVBWkFpNDk0dzlKZERhemt0VE80TmxCWHQ5UHl5SG5tcFNicGNJX2hEM0EzbEJfMWtNYTdlN25SdjFEWGpPVXFxUTJMTE5QZnIxRHpfVm5jVW1VSWhGRlJHcDNreGprY0VEemkxM3ZB?oc=5"
       },
       {
+        "title": "Oil prices sink and stocks leap worldwide on hopes for a reopening of the Strait of Hormuz - Newsday",
+        "source": "Newsday",
+        "published": "Wed, 06 May 2026 21:02:42 GMT",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fRE5XTlBnZjNtMDJUQl9UcURaOUZxb1B0MWQ5eXFsNk1XME13NFJHTVp1WV93MUtWYmxDOVpCVmJoV2Ixemw2dGo3VnY5Y1Bncy0wN1B0cGlYNTF0bi1LRXctRW5kX2JLMGZQVzVJT1pHemFQSVpoR1lIQQ?oc=5"
+      },
+      {
         "title": "Beijing defies Washington, blocks Iran oil sanctions in landmark move - Tehran Times",
         "source": "Tehran Times",
         "published": "Wed, 06 May 2026 20:30:13 GMT",
@@ -8664,28 +8670,22 @@
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFSVZ4S2xMMlhvLWotc0pmdmZ2bjJ5Y3Q2QTJrQThfLXhTdi0yTEthN3FfOFNOQVNEcXZrQVBQYnJ0UEN2NFAtc0haa0xHdm9iYTFsWHJxZmVnZEJKMnZxSkVFbVRCWGFuRVZZRzVCbXJidHVwSS05QXZzYzg4LTA?oc=5"
       },
       {
-        "title": "Oil plunges, markets surge on report U.S. and Iran near deal to end war as gas prices jump past $4.50 - NBC News",
+        "title": "Oil plunges, markets surge on report U.S. and Iran are near deal to end war as gas prices jump past $4.50 - NBC News",
         "source": "NBC News",
         "published": "Wed, 06 May 2026 20:23:56 GMT",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUUFXMXZMeHZQUnFBVExQTy0wWXppMWNncWZobXlyekw5d0ZhVldCUmZQTXJEUEJXRUpKeVZNZll1OTVUTkpfUEtVRzBSaWxXY3NlRlIxcnN4MzdYVUV6cFVHcHExYmN4WXExNDdncUgxWHllS1lrMERhbTIxYkhRU0l5VlR3bFFEQTU4Qk1kY05NVVdaMlZCWmZLTWZCMG9KWGwxTzhVd3BUa1RTY0tZajBLNjFZeGlh?oc=5"
-      },
-      {
-        "title": "Oil Prices Fall on Hope U.S.-Iran War Turmoil in the Gulf May Be Easing - The New York Times",
-        "source": "The New York Times",
-        "published": "Wed, 06 May 2026 20:16:58 GMT",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJTTlUejdpTXN6c1pKWExmaGdTVXNuQVE5eTZTM2FGVjdaYWRJQkhDeVEzeUMzUS1sdGFXb1BlLUd5SG5uOEdrUmtRQXZMVVBMOXNCaFM4ekE4ZXhlRjcxWUtaUXVxT3NFNkF2ZmxyTWp4ME44LXc?oc=5"
-      },
-      {
-        "title": "Oil prices sink and US stocks reach another record on hopes for a reopening of the Strait of Hormuz - Coast Reporter",
-        "source": "Coast Reporter",
-        "published": "Wed, 06 May 2026 20:04:41 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQb0k1bzNxMDh4RGZISm1xTjVEcWFic3dVZzM2eXdMZEFzLUoyNTZsX3FRd1UxTmo4eDd2ck9SNUFNM19maW5mQnhDNnYxMEM3Q3ktcG9LRzB5LWd5STBiMkZCajd3c2hveVpjdHppUG1jcFI0T2t1YkNnREh6QUppUEdKeGV6LVlsbnJhaS1iMGNrVVdZSkwzV3FIbDE5c1pKMU4ycC1SWHU1bElKR3JobExzUEFFcExGZHYyenNaR1pKTXZyN24wQTVmR3dEU3g4QzhDOWlZR1AwTVA0LUdJ?oc=5"
       },
       {
         "title": "Iran war threatens jet fuel shortage that could disrupt summer travel in Asia and Europe - CNBC",
         "source": "CNBC",
         "published": "Wed, 06 May 2026 19:50:21 GMT",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSkJ2T2VxbzBDbzFLZm53c1d2TGtpc3Y5XzJ5dEtqeHc0RjhRa2xtZmViNFV0RzhzUVhwVks5N2tMdFZEeXAwUG9NZHpVN0xscm1LRVRLdkVWbFFsa210NUxhNnd3T3c0c3FOQ2hpQzNCODU1Ti1YNGExWFgyaFplY1ZOTHI5Vm8x0gGOAUFVX3lxTE5Pa202Y0Jqbk93bGxyS0lEdmZPa3dlUEJwV1JRc1BJekczMXAyZUZkVXg2a3gwTm5Oenl1ZGExQW5mTUdFVTRuSmctNk42WEhnLUJNNTZUQ0ZTbGFpMUpUZHlqNlcyQXlMSHBhMHV6TmQ5UlpSelB3MFJHbm5tYWF6NGkyb05oclljbmUtQVE?oc=5"
+      },
+      {
+        "title": "Oil supply shock to worsen as inventories fall further even if conflict ends - Reuters",
+        "source": "Reuters",
+        "published": "Wed, 06 May 2026 19:15:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOajEzZERrVnZsdVJkNHRpUTN2cEM2YUpZN1R6VENfVDJyT24tSmpieWhXd093VklWQ09OWW81dDdrZk1wenRTcDNVbU4yeURkelVEVW54dmNMVXNQQmNlZFJ3UXVZcEZwY2w3SEhmX0tjdE53UWYySTZOM3BNMmdhS3pFajkxZF9jRUpaWWRPd3daak5yd0lXNkdJanFjWjNzQjlZcDhFVTdXS1ZMNDBnSUhWWG03QzA4MXpSaXpiQQ?oc=5"
       }
     ]
   }
