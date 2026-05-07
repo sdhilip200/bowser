@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-05-07T18:15:11+00:00",
+  "generated_at": "2026-05-07T19:43:33+00:00",
   "fx": {
-    "nzd_per_usd": 1.695767,
-    "as_of": "Wed, 06 May 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.678759,
+    "as_of": "Thu, 07 May 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 101.38,
-      "latest_date": "2026-05-06",
-      "delta_1d_pct": -7.73,
-      "delta_30d_pct": -2.98,
+      "latest": 102.3,
+      "latest_date": "2026-05-07",
+      "delta_1d_pct": 1.02,
+      "delta_30d_pct": 0.08,
       "series": [
-        {
-          "date": "2025-05-06",
-          "usd": 62.15
-        },
         {
           "date": "2025-05-07",
           "usd": 61.12
@@ -1021,20 +1017,20 @@
         },
         {
           "date": "2026-05-06",
-          "usd": 101.38
+          "usd": 101.27
+        },
+        {
+          "date": "2026-05-07",
+          "usd": 102.3
         }
       ]
     },
     "wti": {
-      "latest": 95.25,
-      "latest_date": "2026-05-06",
-      "delta_1d_pct": -6.86,
-      "delta_30d_pct": 3.14,
+      "latest": 96.54,
+      "latest_date": "2026-05-07",
+      "delta_1d_pct": 1.54,
+      "delta_30d_pct": 6.89,
       "series": [
-        {
-          "date": "2025-05-06",
-          "usd": 59.09
-        },
         {
           "date": "2025-05-07",
           "usd": 58.07
@@ -2041,45 +2037,49 @@
         },
         {
           "date": "2026-05-06",
-          "usd": 95.25
+          "usd": 95.08
+        },
+        {
+          "date": "2026-05-07",
+          "usd": 96.54
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-05-06",
+    "as_of": "2026-05-07",
     "regular_91": {
-      "avg": 3.281,
-      "min": 3.121,
+      "avg": 3.249,
+      "min": 3.049,
       "max": 3.598,
-      "count": 66
+      "count": 64
     },
     "premium_95": {
-      "avg": 3.481,
-      "min": 3.149,
-      "max": 3.799,
+      "avg": 3.445,
+      "min": 3.069,
+      "max": 3.85,
       "count": 32
     },
     "premium_98": {
-      "avg": 3.532,
-      "min": 3.389,
-      "max": 3.679,
+      "avg": 3.599,
+      "min": 3.39,
+      "max": 3.899,
       "count": 7
     },
     "diesel": {
-      "avg": 3.262,
-      "min": 3.099,
-      "max": 3.699,
-      "count": 79
+      "avg": 3.253,
+      "min": 2.979,
+      "max": 3.85,
+      "count": 77
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 1.959,
+      "min": 1.959,
+      "max": 1.959,
+      "count": 1
     },
-    "observations_today": 86,
-    "observations_yesterday": 89,
+    "observations_today": 84,
+    "observations_yesterday": 88,
     "observations_older": 9
   },
   "mbie_waterfall": {
@@ -8590,6 +8590,18 @@
   "news": {
     "nz": [
       {
+        "title": "Historic Trade Deal Protects NZ Fuel Imports From Singapore - What’s On Invers",
+        "source": "What’s On Invers",
+        "published": "Thu, 07 May 2026 19:37:02 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcjFBSE9rSjdjZ3Zadi1UQk1iZW9IOVlxbGk1MThIV2VuaGRjd2pmSk9HcDVmNFcwRTRicy13UmJuaHV6NUt1UElWNU9ad0w4UEtaX0wxWEkyaE40TXR4YmZpMnJPeWpaT25iRTlLSExpMFNaWEpfZDRkdURMcjUxeUVFV2toVElDaVdQdi1R?oc=5"
+      },
+      {
+        "title": "‘Citizen-run’ movement plans 43 protests as families struggle with fuel prices - The Press",
+        "source": "The Press",
+        "published": "Thu, 07 May 2026 16:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUC1VVGZtcmNxVVBrU2tkY3c4dDg3M3V6RFREdXQ0WmJwTU5YaHR2YXN4RWNIMGY4VXotUzFJcDRiZmJXalE1djZwVWJfT3hYdkJ6dWFRVkVfeDZsZmJWMkJwSkExQ1kzOXhfU2dhdFdhZDJMb2paMFliZGItb3pFUHRvOXJpR2U1c2w2c3YzeDNsVW5aQ0VKSW1Rd1NoQ0QtVlRSbjNVZUxxWWNhYm0xcXAzeXc?oc=5"
+      },
+      {
         "title": "Fuel costs, household expenses on the rise as economy heads into ‘choppy waters’ - RNZ",
         "source": "RNZ",
         "published": "Wed, 06 May 2026 07:00:00 GMT",
@@ -8624,32 +8636,38 @@
         "source": "Stuff",
         "published": "Wed, 06 May 2026 01:20:28 GMT",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMFA5NU5KU01STVZqdUk1T0Z4QURiN3NpV01IYVFuMlVoTEo1eHZDVTliSkhOeVoxd3UzQ25DdEQ1b3JfdUdOWkNDRGt2cndCMHlvNWxWaGVwMUJCN3VCTjhPWkszUTJTZ3ZlSEVlc2haV3I1VEVhZmloUUYxTU1OQ2VzeXhKWnVCaTlwQUowTkQ4MEszTENWX1R5WTlSa2Z4WG5TZ1V1a3BHM29ycWh5Z2Y5Yw?oc=5"
-      },
-      {
-        "title": "Latest NZ fuel stocks official data – updated graphs and trends - 1News",
-        "source": "1News",
-        "published": "Tue, 05 May 2026 18:07:10 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY2NuZjJmdzVucTZrRkgtZl83WDc4UzM1UktHdHFvYTFTcmZ6V3UwanpEa0FRY2lDcEd1anpmb0M4YmJGTG1GZDFMUHE3S0RfV3JVMnRPX3VEU19MRl9WalhTX3RtcU91LW5reHVEN180dnNlTEVad21pMzZQME9XSmdObjIzT25LRW0zWHF0LXlwZDJnanBlTU01LW1Ydw?oc=5"
-      },
-      {
-        "title": "Air NZ tipped to lose $427m as war-driven fuel costs soar - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Tue, 05 May 2026 09:04:54 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMmRTc2VRVGZ4Q05qb2dQbUEySjdYZThxY3R2NERJLXhiSVlUUlZKWnpHOWQ2LXZ5YTVsNWFfNGxmV1g2ZWFUMG5qYzNUVTZzdWg1bHJ5S3RfZWpCOXE3YjZHWmlHMGxXWGllbF9DTEdabk1WWXc5Z0k3WERwMkJlRGJ4M2wybnA1ZFFlbTd2TzRib2tYS01sRjQ5ckJIQ2RrMjd6QlozUWQ4OFJnLWZMTDZldmFWVzZOel8yYUlJeWx5TlVva0hQZ09rZVdCNUZjSjk4M2VXTFNlaHhfSGJXMzZKLThnekJNTVE?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "China Tightens Financial Tap on Iran Oil Trade Ahead of Trump-Xi Talks - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "published": "Thu, 07 May 2026 19:42:37 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdnZGMUhzbFV5OFowT0pDa05VR3pWMmtZMTV5VkpGR1FNNDMwQklCcDZrRmQzMXVaaGNsdUNKbTRyVjZ5aGJkYXIxZ3lEUjdlR3QxNFI0Rjg0MjRYcU43RmU3dGJsSlBRWG5sTWZVQ2JxdjVNb25CSWVZVGg4THd6UG1KbXJLLVdRV3RhaE5TSjRyVXBJX0dFVDU3M2xJNlFtd1BaNG4wNzZ6d2didFBZVU1ydXJ4dmV4TW1aRHVfXzFsdw?oc=5"
+      },
+      {
+        "title": "US stocks fall from their records as oil prices yo-yo - WRAL",
+        "source": "WRAL",
+        "published": "Thu, 07 May 2026 19:17:07 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQN2ZsMDd3Q2owZU5rWEVLeVJ1U21zUDZfdk9hVk95bTNOYldTMlN5Ry1BczRzU0MwTVVDVjBsNm4zSkpsaElZVGEyMF9PTUpycXZESEVBbl9RZUtiTlAzd0xXRUVfVnQ1eUpycnpyd1BMS3NBMVBQQm9uQ2UzSTZ5X1FYdDNoSFlTaTV5bW4yRGZOOWItRzkwRkVUcHNzMDNmZUhrWFNzdzIyaDVhTU9KTDVtejFDdVNpQWgteUZnQVlqczBhelhSd1BR?oc=5"
+      },
+      {
+        "title": "US oil exports hit record high. What does this mean for gas prices? - USA Today",
+        "source": "USA Today",
+        "published": "Thu, 07 May 2026 19:06:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUENaZ2pENDNYQWJGZGk1bkdnYm1UbllQZnpfaGdTZVpSNU9YdW1XWlJHRlllTWcydm0xbnNGeXVBWkFpNDk0dzlKZERhemt0VE80TmxCWHQ5UHl5SG5tcFNicGNJX2hEM0EzbEJfMWtNYTdlN25SdjFEWGpPVXFxUTJMTE5QZnIxRHpfVm5jVW1VSWhGRlJHcDNreGprY0VEemkxM3ZB?oc=5"
+      },
+      {
+        "title": "US sanctions Iraqi minister accused of aiding Iran oil sales - Al Jazeera",
+        "source": "Al Jazeera",
+        "published": "Thu, 07 May 2026 18:27:54 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU3NSaGVyQnhKUUw3ZnAwSW5ET2JTWkpLQ09DVlgtUVROTWNNdndNMXJhcWx0TFBwY1dkZ190ejhyZ3VVc3FpYVJzdXFfSmxVUnBDSEt1WUc1UVVkU0pseWMwQmp3MTd1YWMxYjRIVHpkdzlxZ2VDSjFKbXlHZE80R01zY0FEOHVHSHFpSlZTZ3RXTUxCMDdsaVlLNkJUVS1zaUHSAacBQVVfeXFMTUJhYVdKTkhza2l3WGEzRk00VW9nTVNqbGFjTnhLS3Y2UUgtYXZrSTNaR3VXS0JVYjZ3ZllnaXEyNXNBS3N5TjByYUFOOHU3MU5UbExZenEyNUE2YW52WVdmM3NreFVhREQ5dnB2SmpRaE1zckFSd2RldjczTFFvYTdrNjBlc19YQTY4WHhFUGpjN3JZUWphTkYzWlI2YlZMbFprZEc1RjQ?oc=5"
+      },
       {
         "title": "Oil Crisis Without Collapse – Middle East Tensions and Market Impact - Spherical Insights",
         "source": "Spherical Insights",
         "published": "Thu, 07 May 2026 17:59:15 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT0NramZCdzlGMUVFZXJPOS15VVlIVmRhdnZ1eTdBYkl3R3dkSmtpTUpiRExPb2FxN0ZJWWg3eXltazFkYUdTX2pJcHlpUGRqdWlDR2lQWEpUa09OR3ZDWXZXNWpoT3otYUlEbFk1Vk83cnJiUVIwZnFIR2FobWRHek5qZlh6WlN6cUt4RHZFS3JkZi1BMlVWbmpySk9jNzJIVHdNQldweHFFZw?oc=5"
-      },
-      {
-        "title": "Why has the US sanctioned Iraq’s deputy oil minister for helping Iran? - Al Jazeera",
-        "source": "Al Jazeera",
-        "published": "Thu, 07 May 2026 17:39:12 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcmliZWtfak5BRlREME85cV96elUtOEhMRGFDV04yWVpiOXlfbW52aHoyREh4YU9meUxfSFpZVlJRVXVlMngzZE96enUwYUxxaVRoOWx6aFNFRUk3a0tNaS1YYU1pblhUanUxSG5NWmpjb3RUV0VITFNIQjk1QUNrTTlYTWRldUlqODdXSFRRa1RPRDJBU3AwbkljVUI5YmlwOElfSV8yYW5WTDVj0gGyAUFVX3lxTE9kNFJUOThMeTV2TzFveVNqZFFtU2xyRWFBYkVJWThackhfX0dlRVlBOGVHZ05DUFd2MU15YktDZnJkOWg0NVVzZkhkNXFYRWQwVEN5MXBvX05XZWpUMmtjS29uV2pLd3pmWHBEcU5sSGxGSC1TVmdEcUREVHVhRmN2cENtM0tZc3FEdS1RVEJ6M1ZONGpOcDgxZWNKU1AxUDhFYlo5amRmNWJVT1plajFxRGc?oc=5"
       },
       {
         "title": "Brent crude oil futures turn positive after trading down by as much as $5 a barrel earlier in the session - marketscreener.com",
@@ -8668,24 +8686,6 @@
         "source": "Reuters",
         "published": "Thu, 07 May 2026 16:46:30 GMT",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdlktdk1TSHNxMnpibXJ6ZHR5OE5WMUNoSk5uQ1V1emRjZUppOThfM3J1YTNKMHBjMFNtcW9WREw4ZW5ELXRSUk5GRGpWZFZ5QlhHRFEwRE1PdjVKR3ZBdW02SzFrQ0ZtRV91X2NFZVpzX0JMZmVvV0s2bXZTeVFWNzlUMklCM0w0WnNKMUVlUEVrTVNqRWxtU1o3NElvNlJJeHR6VHZhRmZiRVJpaVB6bDVpV3FEZjBacmVj?oc=5"
-      },
-      {
-        "title": "US Sanctions Iraqi Oil Official, Militia Leaders Linked to Iran - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "published": "Thu, 07 May 2026 16:41:51 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU21fdHFRQ0xOeENISTBNckJCNVM5YURZN0RKRUlQVTlpcG9vYmVfd2NHRWdmYkNpOXVhZW9hanktM2tEN29YNHpYZVJDenV5bThFUFFGWTRmZU9RTTRGdVhyWVI0QmUtMDVYYTJKdzljQk96MlBNSVdNMGlPOTdiaHZFWjd0UktVUmJBZklUN2VuSHd0Q3JYRkhHc1l5RUZKRGlnLVFUQzViSlRpT2JHSndxSQ?oc=5"
-      },
-      {
-        "title": "WTI Technical Analysis - Crude Oil On Path To $90 As The Peace Trade Continues - Seeking Alpha",
-        "source": "Seeking Alpha",
-        "published": "Thu, 07 May 2026 16:12:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT2Q5azJ1QnFoaVM3cVJua0s4YmhMTkw2WlR6Nkt0a2VTNHB6MndBamE4QzhwTTVVRDh4TGxfa1dZNHNQRDd4QXctQTU1bEx3My1IRVZHUWllaHpQaWNpQ01za3dlWk1udVNIek9aRTdMaG5CSjNnUFVaanE1NWFYYjc0R3J4d3M4YkpkZmw0VzZRNzJ1Q1lwa19zaXBUQzVfRk9xeHd3?oc=5"
-      },
-      {
-        "title": "Oil Supply Shock Worsens amid Plunging Petroleum Inventories - Yahoo Finance Singapore",
-        "source": "Yahoo Finance Singapore",
-        "published": "Thu, 07 May 2026 16:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU1FKQkwzRjZkT1VoVFc0c3R1UXJoQzVFeGhoLUg1aXBCampRZHA1UlM0Ty1meGJkSDhMdU1PTlZHbmZubVRjTGROVmhIdHdKNTBfcjBKMXNxdVViTV8wYk9iU2NYaXBMWEk2OHBSNFNscGU1d1M5WVVZUXJhc1lRTDlKbmE?oc=5"
       }
     ]
   }
