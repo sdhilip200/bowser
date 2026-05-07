@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T22:32:53+00:00",
+  "generated_at": "2026-05-07T23:36:24+00:00",
   "fx": {
     "nzd_per_usd": 1.678759,
     "as_of": "Thu, 07 May 2026 00:02:31 +0000"
@@ -8590,6 +8590,12 @@
   "news": {
     "nz": [
       {
+        "title": "Travel show kicks off amid rising fuel prices and uncertainty - RNZ",
+        "source": "RNZ",
+        "published": "Thu, 07 May 2026 22:58:52 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeVJWbEtZeFhNSlZNWmVwR3YyUlJKRndTNmdWX2xpLWJCLW5oZjh0NHZ5QkRXb1hXQVV3Z2ZMMGIyTU12OFRwZDM5U0ludWhYWnZoZnpKLWpuOWF6Tl93Z3VfcUhVX00wemVYZkFReVJjcTlRb1ROdV8tMktweTdMU0ZYZkJFTWphblRITGFiSTlMQVlSX0dCWlJBWFNqZmRTMWh1WnVEaw?oc=5"
+      },
+      {
         "title": "Historic Trade Deal Protects NZ Fuel Imports From Singapore - What’s On Invers",
         "source": "What’s On Invers",
         "published": "Thu, 07 May 2026 19:37:02 GMT",
@@ -8630,12 +8636,6 @@
         "source": "Stuff",
         "published": "Wed, 06 May 2026 01:20:28 GMT",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMFA5NU5KU01STVZqdUk1T0Z4QURiN3NpV01IYVFuMlVoTEo1eHZDVTliSkhOeVoxd3UzQ25DdEQ1b3JfdUdOWkNDRGt2cndCMHlvNWxWaGVwMUJCN3VCTjhPWkszUTJTZ3ZlSEVlc2haV3I1VEVhZmloUUYxTU1OQ2VzeXhKWnVCaTlwQUowTkQ4MEszTENWX1R5WTlSa2Z4WG5TZ1V1a3BHM29ycWh5Z2Y5Yw?oc=5"
-      },
-      {
-        "title": "Latest NZ fuel stocks official data – updated graphs and trends - 1News",
-        "source": "1News",
-        "published": "Tue, 05 May 2026 18:07:10 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY2NuZjJmdzVucTZrRkgtZl83WDc4UzM1UktHdHFvYTFTcmZ6V3UwanpEa0FRY2lDcEd1anpmb0M4YmJGTG1GZDFMUHE3S0RfV3JVMnRPX3VEU19MRl9WalhTX3RtcU91LW5reHVEN180dnNlTEVad21pMzZQME9XSmdObjIzT25LRW0zWHF0LXlwZDJnanBlTU01LW1Ydw?oc=5"
       }
     ],
     "global": [
@@ -8652,22 +8652,22 @@
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLU9GSXhYb0RYbkR2Ul9laUtEM2gtN3BpVzdya3ZTR2p2R19Gc0lPM0F1RTFMOVZNbHptcndKYjZxczZGRzI3S0VWOVB4U3hZd3pGYlA3cTV3NDYtUnNSTW9PQkYzNFd5QkdHUjhocWhRbWVrZVkyS0RzTU1hQktORm9uZ2ZpM3N5dV9DUU8wcmxqUUNCbTVua0h6RHcyY0U5cFp2WXpB0gGrAUFVX3lxTFBJay1uaDhsWTJoeGZnbGNKRlV1cElxVWcybXhiVThEeVBFSFU2WVY2UW5Dd3lmeWFUUGEzNXpFX3N4a0hIY1UtMEFOZFRyajdQQTBsSGdoQVF0ZVBKQVFHUFdMaWRKSXFXX1NnbllBeFVrRm9Ld0NfMXc2cDVtMkZQTUxqaTg3TXhxdHRXZ2NEZm5vcEZ4YkdQWGVnMlh1NWdXdkRrZ1FJa2xSaw?oc=5"
       },
       {
+        "title": "US targets Iraq oil official and militias with sanctions for aiding Iran - Reuters",
+        "source": "Reuters",
+        "published": "Thu, 07 May 2026 21:28:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdlktdk1TSHNxMnpibXJ6ZHR5OE5WMUNoSk5uQ1V1emRjZUppOThfM3J1YTNKMHBjMFNtcW9WREw4ZW5ELXRSUk5GRGpWZFZ5QlhHRFEwRE1PdjVKR3ZBdW02SzFrQ0ZtRV91X2NFZVpzX0JMZmVvV0s2bXZTeVFWNzlUMklCM0w0WnNKMUVlUEVrTVNqRWxtU1o3NElvNlJJeHR6VHZhRmZiRVJpaVB6bDVpV3FEZjBacmVj?oc=5"
+      },
+      {
         "title": "China Tightens Financial Tap on Iran Oil Trade Ahead of Trump-Xi Talks - Bloomberg.com",
         "source": "Bloomberg.com",
         "published": "Thu, 07 May 2026 21:12:37 GMT",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdnZGMUhzbFV5OFowT0pDa05VR3pWMmtZMTV5VkpGR1FNNDMwQklCcDZrRmQzMXVaaGNsdUNKbTRyVjZ5aGJkYXIxZ3lEUjdlR3QxNFI0Rjg0MjRYcU43RmU3dGJsSlBRWG5sTWZVQ2JxdjVNb25CSWVZVGg4THd6UG1KbXJLLVdRV3RhaE5TSjRyVXBJX0dFVDU3M2xJNlFtd1BaNG4wNzZ6d2didFBZVU1ydXJ4dmV4TW1aRHVfXzFsdw?oc=5"
       },
       {
-        "title": "Oil Prices Waver Amid Mixed Signals on Renewed U.S.-Iran Peace Talks - The New York Times",
-        "source": "The New York Times",
-        "published": "Thu, 07 May 2026 20:16:08 GMT",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1TFFlV1huSTRfMWhodUtRU1E5MzZ6SG1VVG5fOEdzT2NWVl9pcklPQkJVc05pQ1ZXN3pHVkE2MW4zR3dGcnRMNWl6YU9TOTl0T3hMS3lkZDNLRHgycy14MXRLVThJQkI2ME51UTA4R3hPYlNqYlE?oc=5"
-      },
-      {
-        "title": "Treasury Sanctions Iraqi Oil Official as DOJ Probes $2.6 Billion Iran Trade Mystery - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "published": "Thu, 07 May 2026 20:05:23 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUDlPXzhudmZPaVVkcUVONjBoLUZxNTZWeUsyQWE0X2pNbDFzTDU5VER4YWd5T2w1dHRHRHM2RTRYVExyU0hXVjJYSVRGNGs0UmZxcWZndlhJdmJsYjdOcHlxR2lvdV9LUXB3R2t0N0xUUS1ndE1VZ2FCVVNfTy10UWd1M2tna0l4clFsYVFzNHRJZ1pQQVFwOFZBUUt4dEJURnJ1cg?oc=5"
+        "title": "US stocks fall from their records as oil prices yo-yo - MooseJawToday.com",
+        "source": "MooseJawToday.com",
+        "published": "Thu, 07 May 2026 20:07:12 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYWk2WFlKNjZUQy03U2ZWaTNUaXpoZ0I3NHFVNlBsbHBDVThZYl9PRG1hYUhlMnZUM0ZwRzRDVlJDdmFIWXRVU0VfLTI3LVQxXzJGV2F4cnVhS0t3OGhBSldLbTRhZlptd0sxSUl0X0haV2w2ZHhUNkhsU3phMHk1cUVOSWFDdmdHOTVpY21GcVZTNUlzV3g5VHJESzVEc29BQW9EZ3dYTDBsUjM4SThr?oc=5"
       },
       {
         "title": "Amid Iran war, Alaska’s oil is selling with an extra premium on global markets - Alaska Beacon",
@@ -8676,16 +8676,16 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMTBHNXFhOUcwcDg3WGh3WnF4aTFtdmwxcWd6T21tcXZhd3RsVlFlVmZrbTJqa2tPUDZnZi1zZnlZeWR4X19sSnY2aTRDbWxIcVNsc0RKdjl1RnNZSHFVNE9RVUh6Y0wweEVRWjhBQndFVEJ5RGp1VC10czl0RlBEWE1ISS1KVVNVTnFNWHZ4VTF4N2xSVWtXSVBRWGdlRmNzQkpaYUtCeUtkczRNR1VnelB3cw?oc=5"
       },
       {
-        "title": "Oil Pick Ups Amid Caution Over U.S.-Iran Peace Efforts - WSJ",
-        "source": "WSJ",
-        "published": "Thu, 07 May 2026 19:53:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb1pkV21pV1l0RUhyVFVkQ0ExS1VCdUdEOEtLbVF3LUFpdW14NWpieW0xUjJINzlLODltZEw0cDBtd0JubUQ2UmJXSkdxTjY4RmlOOUVJa1lYM2w0OUgyRzhuRFFQUlJrOW5TSVhKaFAzcFh4XzZKWEw3S2lIT2Z0Wmp6UlpoLTdGdXFqVGNVTU94SVFKR3NTWVhtS25TX1ZFQ3VYdg?oc=5"
-      },
-      {
-        "title": "Shell CEO says oil market is short nearly 1 billion barrels due to Iran war and the hole deepens every day - CNBC",
+        "title": "Shell CEO says oil market is short nearly 1 billion barrels due to Iran war, and the hole deepens every day - CNBC",
         "source": "CNBC",
         "published": "Thu, 07 May 2026 19:16:04 GMT",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wVi1FNWxOb2ZuY0ExRk1qd3ZVbXVUbm8ySUhtNWIzUGZyUFZ6Y0JRcURUNWk4YW5SUjFaZHF5Y3BlaldJcGdQZ2k2aS1jUFNqUXFzRnlSdFducU1xTm9XV3RfaWE0ajZsSUhiZk9hdzlyVzlGRHJXTVhkYlZFZ9IBgwFBVV95cUxOVDVURE85R3R3cVEzTllHQWhCYTRHVm1yTFRnYzJHeFRLdGtvdU9OOC1NS0wyWnFPcURMb01YTzdpTTZMQldDLVZSU3dOVHp3X19zOFFSNDdQcDZ2NF91eGNpaloxWW9QR0RCZjlKRkgydF9Oc0hrQnVrV29aY0VXai1POA?oc=5"
+      },
+      {
+        "title": "US oil exports hit record high. What does this mean for gas prices? - USA Today",
+        "source": "USA Today",
+        "published": "Thu, 07 May 2026 19:06:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUENaZ2pENDNYQWJGZGk1bkdnYm1UbllQZnpfaGdTZVpSNU9YdW1XWlJHRlllTWcydm0xbnNGeXVBWkFpNDk0dzlKZERhemt0VE80TmxCWHQ5UHl5SG5tcFNicGNJX2hEM0EzbEJfMWtNYTdlN25SdjFEWGpPVXFxUTJMTE5QZnIxRHpfVm5jVW1VSWhGRlJHcDNreGprY0VEemkxM3ZB?oc=5"
       }
     ]
   }
