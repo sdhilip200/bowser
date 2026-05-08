@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-05-08T18:00:12+00:00",
+  "generated_at": "2026-05-08T19:18:43+00:00",
   "fx": {
-    "nzd_per_usd": 1.678759,
-    "as_of": "Thu, 07 May 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.680383,
+    "as_of": "Fri, 08 May 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 102.3,
-      "latest_date": "2026-05-07",
-      "delta_1d_pct": 1.02,
-      "delta_30d_pct": 0.08,
+      "latest": 101.1,
+      "latest_date": "2026-05-08",
+      "delta_1d_pct": 1.04,
+      "delta_30d_pct": -6.4,
       "series": [
-        {
-          "date": "2025-05-07",
-          "usd": 61.12
-        },
         {
           "date": "2025-05-08",
           "usd": 62.84
@@ -1021,20 +1017,20 @@
         },
         {
           "date": "2026-05-07",
-          "usd": 102.3
+          "usd": 100.06
+        },
+        {
+          "date": "2026-05-08",
+          "usd": 101.1
         }
       ]
     },
     "wti": {
-      "latest": 96.54,
-      "latest_date": "2026-05-07",
-      "delta_1d_pct": 1.54,
-      "delta_30d_pct": 6.89,
+      "latest": 95.4,
+      "latest_date": "2026-05-08",
+      "delta_1d_pct": 0.62,
+      "delta_30d_pct": 0.97,
       "series": [
-        {
-          "date": "2025-05-07",
-          "usd": 58.07
-        },
         {
           "date": "2025-05-08",
           "usd": 59.91
@@ -2041,46 +2037,50 @@
         },
         {
           "date": "2026-05-07",
-          "usd": 96.54
+          "usd": 94.81
+        },
+        {
+          "date": "2026-05-08",
+          "usd": 95.4
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-05-07",
+    "as_of": "2026-05-08",
     "regular_91": {
-      "avg": 3.249,
-      "min": 3.049,
-      "max": 3.598,
-      "count": 64
+      "avg": 3.26,
+      "min": 3.069,
+      "max": 3.509,
+      "count": 85
     },
     "premium_95": {
-      "avg": 3.445,
+      "avg": 3.479,
       "min": 3.069,
-      "max": 3.85,
-      "count": 32
+      "max": 3.859,
+      "count": 56
     },
     "premium_98": {
-      "avg": 3.599,
-      "min": 3.39,
-      "max": 3.899,
+      "avg": 3.653,
+      "min": 3.519,
+      "max": 3.819,
       "count": 7
     },
     "diesel": {
-      "avg": 3.253,
-      "min": 2.979,
-      "max": 3.85,
-      "count": 77
+      "avg": 3.272,
+      "min": 3.029,
+      "max": 4.299,
+      "count": 86
     },
     "lpg": {
-      "avg": 1.959,
-      "min": 1.959,
-      "max": 1.959,
+      "avg": 1.897,
+      "min": 1.897,
+      "max": 1.897,
       "count": 1
     },
-    "observations_today": 84,
-    "observations_yesterday": 88,
-    "observations_older": 9
+    "observations_today": 13,
+    "observations_yesterday": 216,
+    "observations_older": 6
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8640,6 +8640,30 @@
     ],
     "global": [
       {
+        "title": "Diamondback bets on wider WTI-Brent gap amid US export ban concerns - Reuters",
+        "source": "Reuters",
+        "published": "Fri, 08 May 2026 18:56:39 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNzE4YjdvOWc0MmZsVlhyTW1KeGxiZ3RaZTU1STZVQUtnSUpVUU11NDcwd3pDQnVwSERrTUhPclNpOGxOOEVwaUF0YW4tckRDTHpGQTFlV2FnWEoxUG5MODFnVGtoS0dGbkw0RTIyWXlyUFREQVU0VkJpRldlc0UySl9CS0RYVHlVNlFPTkFlYWlhMTJBaVU3b2VsWnNKSC1PYVNvamU3YUpuTWZwX19JY1FhbzFRSXM?oc=5"
+      },
+      {
+        "title": "WTI crude oil settles up 61 cents to $95.42 per barrel - investingLive",
+        "source": "investingLive",
+        "published": "Fri, 08 May 2026 18:52:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZmVMZzBCbzNtbnREU0JmZEFTTjhCTjVjRHZmR1poOHV6dWdIckkyV2NMb0VmQ1B3VEF4bHgwWFNCVWgtdGxhekw1SXZuV0JGXzVGRU1Pbnl4cGw4QkRnQkRQZ1ZSUmxaN2E2SUladVZjWUItM2JRWGJYX1JCUkcwcGM4Nk9wV3ozRktaTjZKQ0Z3dmJlUkRVS1k2NFZhck80YVE?oc=5"
+      },
+      {
+        "title": "WTI and Brent Crude Oil Price Hold Support as Peace Talks Ease Iran War Premium - foreignpolicyjournal.com",
+        "source": "foreignpolicyjournal.com",
+        "published": "Fri, 08 May 2026 18:07:40 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa1JwLTFyT3JsSl9VQkh0ZV92YkxGYkxhal9FeUdJb2NlQ21obmJ1QVo4QUhpcU90a05ITEFwMkhpbTZXaWthUHBROU44LUxnMzZfd1V1NnRzd2NrS0hFR2t6bjUyc3J6ZkpoSGxmMkZNVWgwaTFtWkpTWHlUTEk1N1hBUWdMQ3Z5VmVwZmR3OVQtaFM3aVF2TWFFeV93OGxPRzQyekVSaUZ5T3NFY0NDbUczUkp6aHpjbXJzMm5xSFd4dk10R1Y0?oc=5"
+      },
+      {
+        "title": "Brent Oil Fund (NYSE: BNO) surges as assets and Q1 returns jump - Stock Titan",
+        "source": "Stock Titan",
+        "published": "Fri, 08 May 2026 18:00:40 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUzRrTWFqc2lwd3phTXhuZG1LZzBvZDVWYXZHTVMzNU9aWTVfZS1odm9LNFhXTnZnTEtyMjRXbUJIaUFQZzBPd29FRXZlYWRPRUJkMlVQck5zMlhOZlFSVGVoYUIyLVo0ZVZXUWkzb01MdXN0cE50VjhUbVgyVS1aMVViQ0NBTUNjRmRWd0tIX0lmNWdlRDRhWHdIcTZRcXdLekNqRG5ycEJ6ZjJmM3FzRk9uTWE2U29Oa0VQV3RIaXk?oc=5"
+      },
+      {
         "title": "US oil exports hit record high. What does this mean for gas prices? - USA Today",
         "source": "USA Today",
         "published": "Fri, 08 May 2026 16:58:00 GMT",
@@ -8662,30 +8686,6 @@
         "source": "The New York Times",
         "published": "Fri, 08 May 2026 16:11:51 GMT",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15eFg4T2UtcFlSRG13eXpZNlBKTFpUdHc5Q2c1THZqTVQ1RmtObm8xeTBvUmtxbHV6aEtweC1zckg5c2xIcWJna2Fqc2h5SGhob25YazRGSENfazdyZTcyRktwSHpreFZQekhGWmZSWmVXNU03aFptbkZiR2tYR3c?oc=5"
-      },
-      {
-        "title": "Oil Markets Whipsawed by Conflicting U.S.-Iran Signals - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Fri, 08 May 2026 15:16:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUlVmQU9PNHJ1N1Y0NWJNZklDMFpqaEl4dURXdE1PMkFXSTZpRzdfLTZvVkFmRF9NbXR1RXZfeEx5Vm55RFN0Z0pKZVhPM0pwbXJpNGRtWXc1dnFHZzZtLUtNS0dPcWpoT3k2QTA2UFlzUi1XOGZnNlJCZ0o1bEZ0bDRGQlRqX3p6REQ5TmoyZURaS2dDeUVCMFJrNNIBoAFBVV95cUxNd3RaQ1JvOHhaOXhmWEZPYllnUzdwcXRhU0dUY3NwTVA3US1zcVZvUm9xREVYRVR2RjJDdGcyNDBsbUJhcERjTnRPX19TdUxvcUxaSUVNYTgtQ2lpTFozeld5V0M4bTUxajk0TXVqQTJvRi1NeTFMUzcxMy1QMUJRSXRqRnVrNFdockZnQjN5SzFCbDdfNEZ4YUdrSmJzN2dk?oc=5"
-      },
-      {
-        "title": "Oil Prices and Stocks Inch Up as Investors Weigh Jobs Data and Gulf Stalemate - The New York Times",
-        "source": "The New York Times",
-        "published": "Fri, 08 May 2026 13:42:42 GMT",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yNHJOck9ubVFya09hNFFNSGNYbTVqdl9tOHNsVjJNMXlCSkNYdWNBZUJVamp5bUhUekxNM3ZZMEwwb2F1dkxsMHZEOWRKUHk5aGp5SnZzWnlRZ1lrX2U4R3ROdlZqc2dRZDN6aUxPZFFNMUF4WlE?oc=5"
-      },
-      {
-        "title": "Chevron CEO sends blunt message on oil and the economy - thestreet.com",
-        "source": "thestreet.com",
-        "published": "Fri, 08 May 2026 13:24:04 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLU8zZ2szTzhUMDBtbVlROVhGMHlKTzhYR0dqVTJWTlczTm92ak5GRldVdjdnTWJ4NnlwdU1mQWFjN3pteTNUTUhDTXQxbVJ2dkhDTHV2UHUtMTBtanR5OXJ2bFVlT0w1dVlpVmF1Y3VKbDVJTlJ1ZjlMdHVfTkQ1a0sxSXg0TThlMFVPM1FiLUJKZw?oc=5"
-      },
-      {
-        "title": "Current price of oil as of May 8, 2026 - Fortune",
-        "source": "Fortune",
-        "published": "Fri, 08 May 2026 12:58:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lc1NDUW1pUllOWndfLWRfX3Z5UGFlVVVJYnJtSUZKZXNZZ0RQMXAxQlVsaTBGY2lGeFNmdW5CWWNjbHJkN1lQR0hvR0dVbjY1SEc0eEZPTFFvSmtzLVVpNGdB?oc=5"
       }
     ]
   }
