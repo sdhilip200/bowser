@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T04:43:52+00:00",
+  "generated_at": "2026-05-08T06:24:12+00:00",
   "fx": {
     "nzd_per_usd": 1.678759,
     "as_of": "Thu, 07 May 2026 00:02:31 +0000"
@@ -8590,6 +8590,12 @@
   "news": {
     "nz": [
       {
+        "title": "Kiwi dies in Ukraine - The Post",
+        "source": "The Post",
+        "published": "Fri, 08 May 2026 05:39:56 GMT",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Tc1AzWlJYT2tTY2ZqV0pXMWpHZlNlV0FtSkg3UThQNlNCby11WmFGMkRQYkZKaWhqVG5HOWRpd2VVTEcxMUpDYWI4MlN0ME1OWTFhLXNsWk1hX3h5bjlwd2lfT1BKMm5mdHBlYlNB?oc=5"
+      },
+      {
         "title": "Travel show kicks off amid rising fuel prices and uncertainty - RNZ",
         "source": "RNZ",
         "published": "Thu, 07 May 2026 22:58:52 GMT",
@@ -8600,12 +8606,6 @@
         "source": "What’s On Invers",
         "published": "Thu, 07 May 2026 19:37:02 GMT",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcjFBSE9rSjdjZ3Zadi1UQk1iZW9IOVlxbGk1MThIV2VuaGRjd2pmSk9HcDVmNFcwRTRicy13UmJuaHV6NUt1UElWNU9ad0w4UEtaX0wxWEkyaE40TXR4YmZpMnJPeWpaT25iRTlLSExpMFNaWEpfZDRkdURMcjUxeUVFV2toVElDaVdQdi1R?oc=5"
-      },
-      {
-        "title": "‘Citizen-run’ movement plans 43 protests as families struggle with fuel prices - The Press",
-        "source": "The Press",
-        "published": "Thu, 07 May 2026 16:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUC1VVGZtcmNxVVBrU2tkY3c4dDg3M3V6RFREdXQ0WmJwTU5YaHR2YXN4RWNIMGY4VXotUzFJcDRiZmJXalE1djZwVWJfT3hYdkJ6dWFRVkVfeDZsZmJWMkJwSkExQ1kzOXhfU2dhdFdhZDJMb2paMFliZGItb3pFUHRvOXJpR2U1c2w2c3YzeDNsVW5aQ0VKSW1Rd1NoQ0QtVlRSbjNVZUxxWWNhYm0xcXAzeXc?oc=5"
       },
       {
         "title": "Fuel costs, household expenses on the rise as economy heads into ‘choppy waters’ - RNZ",
@@ -8640,6 +8640,24 @@
     ],
     "global": [
       {
+        "title": "Seven markets to track if peace breaks out in the Middle East - Reuters",
+        "source": "Reuters",
+        "published": "Fri, 08 May 2026 06:11:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQejhMNzlOZXh6MFZiS0ZSSk1QbXVFTTNrQUpJaWNHRnNkZlhBNlNTMzgzSHlRckVVd2JlSENESGRUbjJmbFd1RkQ5b2pBVC1yTERrdWVxQkZvYXlKWmZRMUxTd3JtdGFuMnpuVGZDdjNKRHpFTHE0Qlg2dU16V050WHJPWFg1Q3M2Y3JSUlB3RU9uY3FicllpME1XRQ?oc=5"
+      },
+      {
+        "title": "Oil Prices Rise as U.S. and Iran Test Truce With Military Strikes - nytimes.com",
+        "source": "nytimes.com",
+        "published": "Fri, 08 May 2026 05:20:36 GMT",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yNHJOck9ubVFya09hNFFNSGNYbTVqdl9tOHNsVjJNMXlCSkNYdWNBZUJVamp5bUhUekxNM3ZZMEwwb2F1dkxsMHZEOWRKUHk5aGp5SnZzWnlRZ1lrX2U4R3ROdlZqc2dRZDN6aUxPZFFNMUF4WlE?oc=5"
+      },
+      {
+        "title": "Technical Analysis Report for May 8: Spot Gold, WTI Crude Oil Futures - 富途牛牛",
+        "source": "富途牛牛",
+        "published": "Fri, 08 May 2026 05:18:05 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOXzFuSW9jVkt6VlhtbGd3R3lHYi1wYzl1dkE2cDk3VWI0b2Rnc3NsdXZvN1hZMVBEbU1NLUZFbktOTEFsamhVbzYzNjlMblFHa0wwX2pVS2FTZXNKdXIwbS0zSGZhZnZQUk5ncmVQUmVqeG55Vkd4Ym1DUHkwNG1kVGJXM1ZzLUoxM29lR0ZhYXN5OU5YSDJZRXFYMkI?oc=5"
+      },
+      {
         "title": "Oil prices jump as US, Iran trade fire in Strait of Hormuz - Crypto Briefing",
         "source": "Crypto Briefing",
         "published": "Fri, 08 May 2026 03:44:22 GMT",
@@ -8652,40 +8670,22 @@
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV2lma3B2X1hJTVJOUUpHZUpSTWNXd1Vjbzd5ZDkxM1hmSkhacFAzN3ppVW12akg1S09kQWkyM0VfVHZ1RnVrbHNGckh0VExoNzBQaV9iSFdZdjRIX09JQ0M5TGF4VFRGeXJGN3o5NXNpSW5FSUZ5Vm4yNkxLYzdZQ2hUd0c5VFViNjh0ZDdXSjJoaDBleUF4eHBIeTZndEQ1RVHSAacBQVVfeXFMTlJxZVF1ckRKQ1U1bXBYMDY5ZGtyZF9qTjJnWW1mNUUyWU8yT3ZqQjQ5ZjdjUXFNcjZjOEdNNWpnb2hKVlNDUklFX3Z0SVptYk4xTmU3cnBLYUdjWEVpMThKdmJzcEdoZjJlMTgyQ3laVnhWN3AxZEUxNzVYVjBlUFFDcVFrQ1lhOE5wTjlyb2ZIbjFrR2pCNG1pVThtNnJKeTc1ZW12Zmc?oc=5"
       },
       {
+        "title": "Hopes for reopening the Strait of Hormuz push world shares higher, as Brent crude holds above $100 - WHEC.com",
+        "source": "WHEC.com",
+        "published": "Fri, 08 May 2026 02:39:04 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeXNtZzBxQklHUnZwWU1QQkJsd0UwTXo2OFE0SXkzZEtNcUpqQS10WUs5MEZWbmdpMkdYZ2c5YXN0NmZPVlhwN3B6R1VhZEJpQS00NDJoQmpGb2otV08yOTFiTnJ5UG82UFpDdFhUSGZrMllvQ1BWTVF4Ykd1YUJGa1JZT0h4dkhjQnVtVWh3RklkeXo2RHJuVUZxNS02aDRkdHNaeWpiT1hfaEtDc3Y4U0xRVkJvOG9XQ1R2cW5UeWtnc0Q4NzlxR2lR?oc=5"
+      },
+      {
         "title": "Oil prices jump as US-Iran tensions intensify; Brent crude stays beyond $100, WTI up 3% - The Times of India",
         "source": "The Times of India",
         "published": "Fri, 08 May 2026 02:04:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQMVk3cjdRSFg0Vll6NmtwcFpDdHdtZ2g4QVpJV0Q2SGQxYnVpSzJFMGJtaGRMcDUzU1AwYmRxandYaGlnY1lYQTFsbHVlOFZZQy1TWTVnQ2FlQWZEUDBRRkZaY3RZS2hiYkRSSHlGcjR6M3R5Q2ZYcnMtbVVnVE9vbnVTVi04a3FiNkVfRHFXMm9Zc3dIaE5oaG1mOFNBQ1JlSm9ScjlSbVNiWklrbHdwaTZuMHZHcHZod1h0V0YxNGg4Y1R4eG9xQTB5R1RhMEJqM1FmaXNGNGtZUkNvZWZqZEh2M1duRzNrVVdVMGFqaXJWRE9sMktCZEpsMXRySm5zRmptcWl2Tmg5UUVkZmpRNnM2a183b2fSAZwCQVVfeXFMT1Rld21TaUxJTi1mTXdrWk92bkh1bHRGbWN3NDNMYUt0WVR3NjIybnB0RTI2dnYxWnBlY2NvOUNmTG9YZUdMWW83TjVBVzRoYk1SMlBpX0plMXVpd2dZTW8tQ0FMazh3bGI5OGZ0b0J3NVBEeF9lX0pBN19tbEFaWU5CY1pJbHdfMmRITXBKT05GT1RtYklDakZmQ1QwYmFmOVc5UFJPd0JmQzhwMFkzeWNzVG9Oc1RlMmxXTE1vY3JzaUQxQTZIYk5ESHZHUzdjZnBjU1lWZUlRcjV3eGZVZDdFU0djT2lvUTFaS3RaTy1SeGd0YURUbl81a2Q4Wl84OXFpT01VWXRBQkF3VEVLbzgxRm91dGdmeDBNelQ?oc=5"
       },
       {
-        "title": "WTI Crude Oil futures fall below triple digits as tensions ease. - CME Group",
-        "source": "CME Group",
-        "published": "Fri, 08 May 2026 01:56:18 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSVg1NWlfVnB0WkpSY1VCTlNpYzJQeHZ1bzlPVnpuMmNXckU4UWRyLXdCVE16dE9pb2FGTl9uVXpFM1YzbmlrMDMxQjdoeDZpRlJQNlVqRXBBdGlPVTRoRTc1ZVJjOGtpZWNQTXVvdTdSeldnTnJFOWpFZVpCQjRYRHZvei0xNnJGemZjMm9DUHZPR3RZTnJMNm8zUVVnaGpoWWxDV0VkaS1IUjlVXzNEY3NR?oc=5"
-      },
-      {
         "title": "US-Iran Tensions Heat Up Again, Brent Crude Prices Return Above $100 - TradingKey",
         "source": "TradingKey",
         "published": "Fri, 08 May 2026 01:32:05 GMT",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdnZHRS1qaTZqRF9jbjBIc3ppeGtldTZfVVdteUk3LVhQQXFRVndscnNKSnU1aFVGbHdrY3dLLWtpemVaS3lmMVFRamZfaHg3SVJGNVNVcGppYVlvbFhCb1hTV3ZUY0p5UGhJT3oyRDIwOS1jWVR1V2hVT25yZlVnLU4yUFhCX2dOODNVMERETXlWVkFTWnV3U0JzbHFlQTVzMzNhdlNWTW15SUcweWc?oc=5"
-      },
-      {
-        "title": "China orders firms to ignore US Iran oil sanctions - MSN",
-        "source": "MSN",
-        "published": "Fri, 08 May 2026 00:54:35 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYy1ha1pYWko4NnBHUjRDeWsyb2FJYzd5NlBOSU9IUDRkZTkwRmkxSFdHY3lnMUJkclpaMnhCUzFZRUh5RmVNRzdjRTQwekRheFlsdnZ5RGdvWjIyclRqZE4yLXVLQU5IUlFtb2dnNkx3UmlGbHVmcjdXZmprRDJrQldnUThhLXZpZ0VhZmNxOVVZTUZQM1FTTEd5ZF9haE5UbWJWa3RYc1pWb0I0VUVmRWFkR2lYMWpmMnBqb2xORTVnR1dNdkRzZjJsc25PZ0stVUJQMlduWkxWZHZzZW04c21JaWZud0U?oc=5"
-      },
-      {
-        "title": "Oil resumes rally as U.S.-Iran fire exchange rattles fragile Hormuz ceasefire - CNBC",
-        "source": "CNBC",
-        "published": "Fri, 08 May 2026 00:53:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWldhdjEwUUxFNXpRMGpPVzFhVkRYVG5PSXVtSWx5NFRKQXR3RmRSWGoySVhlSEIzYVNiLUM2ZWsxOHczMGdER3BGX1BMS0tVbGE4R1ZBNmo3QVpaVVZiVXl4TndBaHNpM1ZnZHJvZ3AyUlJ3WUk1cU5rSjM3b2RBMERIYVVuOHk5YndsVGwwV3V5bjgwdDJqRnlVV2xpd9IBowFBVV95cUxQM3ctNnJBVmIzaTRfRHZtdU1ZZUNmeXEtVUw0d1NnQ1RGalNyeEJsb2JFWXRteDZIbUxmNDI1aTZvYzBSd1FxOHZFVVR5alpYclktUzNnZjc1NXlTdlhxWXQyS193dTZLLTk4azVZZDh6bGI5TFpMTTlUTkxtUGdmTlI5bmFvWHNfUjdXcmxaWko3R1hCLTdhcE9iY3dObXNaU0dj?oc=5"
-      },
-      {
-        "title": "Amid Iran war, Alaska’s oil is selling with an extra premium on global markets - Alaska Beacon",
-        "source": "Alaska Beacon",
-        "published": "Fri, 08 May 2026 00:11:48 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMTBHNXFhOUcwcDg3WGh3WnF4aTFtdmwxcWd6T21tcXZhd3RsVlFlVmZrbTJqa2tPUDZnZi1zZnlZeWR4X19sSnY2aTRDbWxIcVNsc0RKdjl1RnNZSHFVNE9RVUh6Y0wweEVRWjhBQndFVEJ5RGp1VC10czl0RlBEWE1ISS1KVVNVTnFNWHZ4VTF4N2xSVWtXSVBRWGdlRmNzQkpaYUtCeUtkczRNR1VnelB3cw?oc=5"
       }
     ]
   }
