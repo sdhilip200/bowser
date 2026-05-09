@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-05-09T18:38:23+00:00",
+  "generated_at": "2026-05-09T19:02:45+00:00",
   "fx": {
-    "nzd_per_usd": 1.680383,
-    "as_of": "Fri, 08 May 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.67705,
+    "as_of": "Sat, 09 May 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 101.1,
+      "latest": 101.29,
       "latest_date": "2026-05-08",
-      "delta_1d_pct": 1.04,
-      "delta_30d_pct": -6.4,
+      "delta_1d_pct": 1.23,
+      "delta_30d_pct": -6.22,
       "series": [
-        {
-          "date": "2025-05-08",
-          "usd": 62.84
-        },
         {
           "date": "2025-05-09",
           "usd": 63.91
@@ -1021,20 +1017,16 @@
         },
         {
           "date": "2026-05-08",
-          "usd": 101.1
+          "usd": 101.29
         }
       ]
     },
     "wti": {
-      "latest": 95.4,
+      "latest": 95.42,
       "latest_date": "2026-05-08",
-      "delta_1d_pct": 0.62,
-      "delta_30d_pct": 0.97,
+      "delta_1d_pct": 0.64,
+      "delta_30d_pct": 0.99,
       "series": [
-        {
-          "date": "2025-05-08",
-          "usd": 59.91
-        },
         {
           "date": "2025-05-09",
           "usd": 61.02
@@ -2041,46 +2033,46 @@
         },
         {
           "date": "2026-05-08",
-          "usd": 95.4
+          "usd": 95.42
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-05-08",
+    "as_of": "2026-05-09",
     "regular_91": {
-      "avg": 3.26,
-      "min": 3.069,
-      "max": 3.509,
-      "count": 85
+      "avg": 3.263,
+      "min": 3.109,
+      "max": 3.559,
+      "count": 82
     },
     "premium_95": {
-      "avg": 3.479,
-      "min": 3.069,
-      "max": 3.859,
-      "count": 56
+      "avg": 3.451,
+      "min": 3.149,
+      "max": 3.717,
+      "count": 50
     },
     "premium_98": {
-      "avg": 3.653,
-      "min": 3.519,
+      "avg": 3.578,
+      "min": 3.419,
       "max": 3.819,
-      "count": 7
+      "count": 17
     },
     "diesel": {
-      "avg": 3.272,
-      "min": 3.029,
-      "max": 4.299,
-      "count": 86
+      "avg": 3.256,
+      "min": 2.897,
+      "max": 4.188,
+      "count": 82
     },
     "lpg": {
-      "avg": 1.897,
-      "min": 1.897,
-      "max": 1.897,
-      "count": 1
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 13,
-    "observations_yesterday": 216,
-    "observations_older": 6
+    "observations_today": 0,
+    "observations_yesterday": 223,
+    "observations_older": 8
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8640,12 +8632,6 @@
     ],
     "global": [
       {
-        "title": "Crude Oil WTI Futures Chart - Investing.com",
-        "source": "Investing.com",
-        "published": "Sat, 09 May 2026 12:41:26 GMT",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QVUZmbEFLek45c2FDcW5MdnIwVUE5c2p4Q21nUVU4a0NOZzd2QTdxSGRQS3A1QTk2M1cwVFNfd0JVUFZYMnVBa01IeWJzNy1HZmR3cFJXZk1zdVNSRGJONkI3MEJ4RDQ3VjlocXhYdHc?oc=5"
-      },
-      {
         "title": "Trump boasts ‘we’re like pirates’, seizing Iran’s ships, as China challenges US sanctions - Geopolitical Economy Report",
         "source": "Geopolitical Economy Report",
         "published": "Sat, 09 May 2026 08:58:55 GMT",
@@ -8664,12 +8650,6 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWElDQ2RwaGVOS250M21NNGFrV1Q5RXprcFZrU00zMTZUWHpyaFRTR1FGQVRwam9OOWgyRkVBU3R1ZG9GcTJuUm0zUEFrY1RNMnVvU1VyN3ZFdmZvaXNqZFVaZkNoV3YwZThBY2RDcXVqVDFJQnl1UmdReW90NE96UkQ0SVlfZXJaZ1pIS1hybXQ1UTh5ZVFoOHA1WQ?oc=5"
       },
       {
-        "title": "Brent Oil Futures Chart - Investing.com",
-        "source": "Investing.com",
-        "published": "Sat, 09 May 2026 04:08:01 GMT",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04ME5vXzJRcUdUX25xMzFhblR1LVBDc0RrY1JWNFhJUVdBSlZNbUNXMXRxTEdyeHA5aU96OFJURmlvX3lEWmRnLWo1MEtSWmxFWTBjbEdEMU5INjRteDU3Z2owV2dCQ0hTdjNEdDQyaUg?oc=5"
-      },
-      {
         "title": "China orders firms to ignore US Iran oil sanctions - MSN",
         "source": "MSN",
         "published": "Sat, 09 May 2026 02:49:43 GMT",
@@ -8686,6 +8666,18 @@
         "source": "upi.com",
         "published": "Fri, 08 May 2026 23:03:37 GMT",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNHlheDBCeWJaeGF4VnFLbzMtYXZqUmNNSWlqRWVGS2JTbzJSRUxnLXpHVmVMN0QtWUU4bjB4ZFVnVUhDY0ZxaVpEel9MS1NzelRsWWE5MmlRVWJmaWJGclhlMU1BVmZrdzdhcUVYUm01ZnlfUk1rdElBM3o1LXk3a0pyenpGSF9yOU1iRDhTU1Y4OXpBc0g3dk8yQ2JoRFUzNzI5TXRxYmxIV3NQNjBTeERBOGZSMlhUeXgtam5GeVJRUdIBxwFBVV95cUxNNk9jVkx1ZF9rZ2ozVFlDRWIwTjBUY0NZWDRGaldBaHMtamFTNTBOOUR0VzlPRmF6bHN4djZ6d3lpem51elUwTjctd3h5eV95VjFfZGsyZVlpSXFBQ01UbjZCR2dKSDYyVHlWZ2luUUc5MEhPT1EzekY2cU9QRWphVHRLT1NVeWVNX1Z5dnRnWWRVYnoxbEkzZFBBWFc4SjNVcnVuLXBOY0RsZTBXMGJQZ2lNOFhGUDBCY0V3SDJocm5fM2lxSUc0?oc=5"
+      },
+      {
+        "title": "Core Differences Between West Texas Intermediate (WTI) and Brent Crude and the Affect of the Iran War - EnergyNow.com",
+        "source": "EnergyNow.com",
+        "published": "Fri, 08 May 2026 22:45:38 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1ZOVFVuUnFFYUstVktuczhxdzBYN1lUbUlqbTIwZEVnX2lCclN2dDZyeVJxUnFPLXdLLWhHcTd1MUUyM0kxTFBUZWJZSVlfN2RCZkRlRXhqT3ZfdUJTQkFjSkR1dDFsQ2Rmc19VTERhc1hsV2Nka2RDVEFvZ0FUcFdJQ0dCR21lcm5mZU12UzJZZHlyOFh3WGEzVWpCVDlUeHc?oc=5"
+      },
+      {
+        "title": "How the Iran War Is Disrupting Global Oil and Gas Supply - EnergyNow.com",
+        "source": "EnergyNow.com",
+        "published": "Fri, 08 May 2026 22:19:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR29RUm5jb3E5SjlCOE1kS0lVY3lmVlpMWkFxUUdfTHNUUkJUNDlwbFVLeXN1RDcwRE5oNVI0NW9XVzFjaWdobF9Dalo4SWUzbk91V3M5aEhxUm1KSzNUbDc5SzlhdE5TalZTWGxiTVhzVFJUY3BZRXNrbDZBTWtqdENiNGRRZUpfc0ZpdWZCV0I?oc=5"
       }
     ]
   }
