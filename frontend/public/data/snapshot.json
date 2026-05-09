@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T12:11:02+00:00",
+  "generated_at": "2026-05-09T13:57:04+00:00",
   "fx": {
     "nzd_per_usd": 1.680383,
     "as_of": "Fri, 08 May 2026 00:02:31 +0000"
@@ -8590,10 +8590,10 @@
   "news": {
     "nz": [
       {
-        "title": "Travel show kicks off amid rising fuel prices and uncertainty - RNZ",
+        "title": "Demand for solar panels soars alongside fuel prices - RNZ",
         "source": "RNZ",
-        "published": "Thu, 07 May 2026 22:58:52 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeVJWbEtZeFhNSlZNWmVwR3YyUlJKRndTNmdWX2xpLWJCLW5oZjh0NHZ5QkRXb1hXQVV3Z2ZMMGIyTU12OFRwZDM5U0ludWhYWnZoZnpKLWpuOWF6Tl93Z3VfcUhVX00wemVYZkFReVJjcTlRb1ROdV8tMktweTdMU0ZYZkJFTWphblRITGFiSTlMQVlSX0dCWlJBWFNqZmRTMWh1WnVEaw?oc=5"
+        "published": "Thu, 07 May 2026 20:43:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQnJVOGV3ZzhSUnVhX1BDWE1hM0RvYzUtTExzWjAzUk11YzJXUlg1QThDNV8tVGZUd19sUW9uNGhaZEdXTV9BTGUtODBuSUhyUXBscTJBbldwejlBTzNZVi16N0J0UG9LTnBBRHZWS2ltbFktREd6amt1Snk4dU5YMG01OVFkYUF4aXNYdXVYZUppME9lRVVsRHRR?oc=5"
       },
       {
         "title": "‘Citizen-run’ movement plans 43 protests as families struggle with fuel prices - The Press",
@@ -8640,6 +8640,12 @@
     ],
     "global": [
       {
+        "title": "China Dares Trump: Ignore Our Iran Sanctions? - vocal.media",
+        "source": "vocal.media",
+        "published": "Sat, 09 May 2026 13:05:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kWHBnaHRVUklKYVhrbVpTNm9hb2FkVURnVFQtS2VnTnlDYlRpOThMSGcwa1pTZ1FyNm5zQUVNRTBIQ3JNTjloLTU1UjJleWhUYzZFejNsa19yWm5DbUgtS0M1bHlMa1F5b2lTQVA5LUNzd1R6T2ZQeC1kOEg?oc=5"
+      },
+      {
         "title": "The Crisis in the Strait of Hormuz Is Difficult to Resolve, Citi Expects Brent Oil Prices to Remain at $120 per Barrel in the Short Term - NAI500",
         "source": "NAI500",
         "published": "Sat, 09 May 2026 07:02:24 GMT",
@@ -8664,28 +8670,22 @@
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNHlheDBCeWJaeGF4VnFLbzMtYXZqUmNNSWlqRWVGS2JTbzJSRUxnLXpHVmVMN0QtWUU4bjB4ZFVnVUhDY0ZxaVpEel9MS1NzelRsWWE5MmlRVWJmaWJGclhlMU1BVmZrdzdhcUVYUm01ZnlfUk1rdElBM3o1LXk3a0pyenpGSF9yOU1iRDhTU1Y4OXpBc0g3dk8yQ2JoRFUzNzI5TXRxYmxIV3NQNjBTeERBOGZSMlhUeXgtam5GeVJRUdIBxwFBVV95cUxNNk9jVkx1ZF9rZ2ozVFlDRWIwTjBUY0NZWDRGaldBaHMtamFTNTBOOUR0VzlPRmF6bHN4djZ6d3lpem51elUwTjctd3h5eV95VjFfZGsyZVlpSXFBQ01UbjZCR2dKSDYyVHlWZ2luUUc5MEhPT1EzekY2cU9QRWphVHRLT1NVeWVNX1Z5dnRnWWRVYnoxbEkzZFBBWFc4SjNVcnVuLXBOY0RsZTBXMGJQZ2lNOFhGUDBCY0V3SDJocm5fM2lxSUc0?oc=5"
       },
       {
+        "title": "How the Iran War Is Disrupting Global Oil and Gas Supply - EnergyNow.com",
+        "source": "EnergyNow.com",
+        "published": "Fri, 08 May 2026 22:19:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR29RUm5jb3E5SjlCOE1kS0lVY3lmVlpMWkFxUUdfTHNUUkJUNDlwbFVLeXN1RDcwRE5oNVI0NW9XVzFjaWdobF9Dalo4SWUzbk91V3M5aEhxUm1KSzNUbDc5SzlhdE5TalZTWGxiTVhzVFJUY3BZRXNrbDZBTWtqdENiNGRRZUpfc0ZpdWZCV0I?oc=5"
+      },
+      {
         "title": "Core Differences Between West Texas Intermediate (WTI) and Brent Crude and the Affect of the Iran War - EnergyNow.com",
         "source": "EnergyNow.com",
         "published": "Fri, 08 May 2026 22:11:33 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1ZOVFVuUnFFYUstVktuczhxdzBYN1lUbUlqbTIwZEVnX2lCclN2dDZyeVJxUnFPLXdLLWhHcTd1MUUyM0kxTFBUZWJZSVlfN2RCZkRlRXhqT3ZfdUJTQkFjSkR1dDFsQ2Rmc19VTERhc1hsV2Nka2RDVEFvZ0FUcFdJQ0dCR21lcm5mZU12UzJZZHlyOFh3WGEzVWpCVDlUeHc?oc=5"
       },
       {
-        "title": "Diamondback bets on wider WTI-Brent gap amid US export ban concerns - Reuters",
-        "source": "Reuters",
-        "published": "Fri, 08 May 2026 19:06:09 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNzE4YjdvOWc0MmZsVlhyTW1KeGxiZ3RaZTU1STZVQUtnSUpVUU11NDcwd3pDQnVwSERrTUhPclNpOGxOOEVwaUF0YW4tckRDTHpGQTFlV2FnWEoxUG5MODFnVGtoS0dGbkw0RTIyWXlyUFREQVU0VkJpRldlc0UySl9CS0RYVHlVNlFPTkFlYWlhMTJBaVU3b2VsWnNKSC1PYVNvamU3YUpuTWZwX19JY1FhbzFRSXM?oc=5"
-      },
-      {
-        "title": "WTI crude oil settles up 61 cents to $95.42 per barrel - investingLive",
-        "source": "investingLive",
-        "published": "Fri, 08 May 2026 18:52:58 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZmVMZzBCbzNtbnREU0JmZEFTTjhCTjVjRHZmR1poOHV6dWdIckkyV2NMb0VmQ1B3VEF4bHgwWFNCVWgtdGxhekw1SXZuV0JGXzVGRU1Pbnl4cGw4QkRnQkRQZ1ZSUmxaN2E2SUladVZjWUItM2JRWGJYX1JCUkcwcGM4Nk9wV3ozRktaTjZKQ0Z3dmJlUkRVS1k2NFZhck80YVE?oc=5"
-      },
-      {
-        "title": "Oil Prices Rise As US-Iran Fighting Continues - Marine News Magazine",
-        "source": "Marine News Magazine",
-        "published": "Fri, 08 May 2026 18:40:05 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUURDbWY4M1ctQUxFV3AzS2ZzVWVtbUllb056YWktUlhueEFYekk1RENrWDAyc3R4RW9ZMzkyamttbzNGZHJLRnAxZXVKOS1IRzFlY2ZDREdnTnBONkowNEZRaS1oeWxFWXJ1RW1EWEpuM2s2Q1plR0tUN3FFNEdYVl9CUmdET28?oc=5"
+        "title": "Stocks Rise For Sixth Consecutive Week, Buoyed by Strong Jobs Data and Earnings - The New York Times",
+        "source": "The New York Times",
+        "published": "Fri, 08 May 2026 20:25:53 GMT",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yNHJOck9ubVFya09hNFFNSGNYbTVqdl9tOHNsVjJNMXlCSkNYdWNBZUJVamp5bUhUekxNM3ZZMEwwb2F1dkxsMHZEOWRKUHk5aGp5SnZzWnlRZ1lrX2U4R3ROdlZqc2dRZDN6aUxPZFFNMUF4WlE?oc=5"
       }
     ]
   }
