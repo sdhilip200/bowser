@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-10T18:39:26+00:00",
+  "generated_at": "2026-05-10T19:04:53+00:00",
   "fx": {
-    "nzd_per_usd": 1.67705,
-    "as_of": "Sat, 09 May 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.677183,
+    "as_of": "Sun, 10 May 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
@@ -11,10 +11,6 @@
       "delta_1d_pct": 1.23,
       "delta_30d_pct": -6.22,
       "series": [
-        {
-          "date": "2025-05-09",
-          "usd": 63.91
-        },
         {
           "date": "2025-05-12",
           "usd": 64.96
@@ -1028,10 +1024,6 @@
       "delta_30d_pct": 0.99,
       "series": [
         {
-          "date": "2025-05-09",
-          "usd": 61.02
-        },
-        {
           "date": "2025-05-12",
           "usd": 61.95
         },
@@ -2039,30 +2031,30 @@
     }
   },
   "nz_retail": {
-    "as_of": "2026-05-09",
+    "as_of": "2026-05-10",
     "regular_91": {
-      "avg": 3.263,
+      "avg": 3.249,
       "min": 3.109,
-      "max": 3.559,
-      "count": 82
+      "max": 3.509,
+      "count": 47
     },
     "premium_95": {
-      "avg": 3.451,
+      "avg": 3.439,
       "min": 3.149,
-      "max": 3.717,
-      "count": 50
+      "max": 3.869,
+      "count": 20
     },
     "premium_98": {
-      "avg": 3.578,
+      "avg": 3.539,
       "min": 3.419,
-      "max": 3.819,
-      "count": 17
+      "max": 3.619,
+      "count": 3
     },
     "diesel": {
-      "avg": 3.256,
+      "avg": 3.272,
       "min": 2.897,
       "max": 4.188,
-      "count": 82
+      "count": 53
     },
     "lpg": {
       "avg": 0.0,
@@ -2070,9 +2062,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 0,
-    "observations_yesterday": 223,
-    "observations_older": 8
+    "observations_today": 54,
+    "observations_yesterday": 31,
+    "observations_older": 38
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8632,15 +8624,9 @@
     ],
     "global": [
       {
-        "title": "Looming expiry of US sanctions waiver sets off scramble for Russia oil - Business Standard",
-        "source": "Business Standard",
-        "published": "Sun, 10 May 2026 18:34:03 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaHY1eThSd0YwQ0tqVUpSSElwSUFMRmEwaEtsT2doajZ0Z1Y0SVZ2b2l4TXBkR0YxZ2xpaUE2d3VYYTh5WVNPVFdZOUtoM3hYc0VBMDlYSHRmR2hETk1ENndmcFZvaHlxZ1AtRHFHRmdlb3NCVmhfaGd2SkJ6em5tNHdaR2F5Sy16ZmRFOFdLVGoxUlc3TDM2TEYtbHhFVnh0UmxWYWJsRHpwWjVXdjNwYXdQeF9sVzJEb1g0RXpwVmdFeUVhc2Y0SU9GMjFCVUhhLVJr0gHYAUFVX3lxTE9QRE5hU3VscTRYcFBHdUtpUGFaTi0yM3hmVTZvaGIycHE1NFY5S1ZOaUZsTFJ3cHJ1ZkpyaDRvSVRWbXM0U2FaaW9CNXA4NE5xRmFwWjFTX2dQZmxHZ1VJbTY4R2NoVWFsVk1hVUc5RDVPbXRfRktPU282dkVxTHJpeUtIVTlaNUFCdUJyQjRqWloxT2Z1UjRqQll6TVBIa2ctUlBTb0dMTUtoNkZWTW55cnNZc0ZYay1kQkgtSi14QzI3MFE2TV9OdEYxeTNFTzYzejFqMUhaMg?oc=5"
-      },
-      {
         "title": "Iraq rejects US claims that oil sector official aided Iran avoid sanctions - Iraqi News",
         "source": "Iraqi News",
-        "published": "Sun, 10 May 2026 18:27:07 GMT",
+        "published": "Sun, 10 May 2026 18:27:12 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWDQyalJMcVBLYS16VlBGZERIaWwyZk9zYm1LV1hUQjBFS0NHVlQ1eVQ2X1ZNcGlpU1pqZ2RPMFJIbE1GaV9kTERQR2hZM0NJd203WlJOTS0yUFRmSmo2bWd4YWVuZmpldnFPM2lmS1lqTVgyZ1lnU3VWY3Z6enNESFo0THpob3JMbUIwS1g2WHNQNy1PMGlMbWM3bnl2bm04YkQ1QW9MNDFyZw?oc=5"
       },
       {
@@ -8678,6 +8664,12 @@
         "source": "112.ua",
         "published": "Sat, 09 May 2026 06:52:48 GMT",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWElDQ2RwaGVOS250M21NNGFrV1Q5RXprcFZrU00zMTZUWHpyaFRTR1FGQVRwam9OOWgyRkVBU3R1ZG9GcTJuUm0zUEFrY1RNMnVvU1VyN3ZFdmZvaXNqZFVaZkNoV3YwZThBY2RDcXVqVDFJQnl1UmdReW90NE96UkQ0SVlfZXJaZ1pIS1hybXQ1UTh5ZVFoOHA1WQ?oc=5"
+      },
+      {
+        "title": "China orders firms to ignore US Iran oil sanctions - MSN",
+        "source": "MSN",
+        "published": "Sat, 09 May 2026 02:49:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYy1ha1pYWko4NnBHUjRDeWsyb2FJYzd5NlBOSU9IUDRkZTkwRmkxSFdHY3lnMUJkclpaMnhCUzFZRUh5RmVNRzdjRTQwekRheFlsdnZ5RGdvWjIyclRqZE4yLXVLQU5IUlFtb2dnNkx3UmlGbHVmcjdXZmprRDJrQldnUThhLXZpZ0VhZmNxOVVZTUZQM1FTTEd5ZF9haE5UbWJWa3RYc1pWb0I0VUVmRWFkR2lYMWpmMnBqb2xORTVnR1dNdkRzZjJsc25PZ0stVUJQMlduWkxWZHZzZW04c21JaWZud0U?oc=5"
       }
     ]
   }
