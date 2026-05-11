@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T00:03:31+00:00",
+  "generated_at": "2026-05-11T04:21:08+00:00",
   "fx": {
     "nzd_per_usd": 1.677183,
     "as_of": "Sun, 10 May 2026 00:02:31 +0000"
@@ -8574,6 +8574,42 @@
   "news": {
     "nz": [
       {
+        "title": "Watch: Public fuel limits in Govt's highest fuel plan phase - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Mon, 11 May 2026 03:28:13 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcEtNSnlGOWdaYW91enlldUZGTVBVdURjTGY1ZEZEYXpBQjhzOFFLMTlrbUxsNGFVY3FJb0ZnZUNxdVNWWDE3Wm5RaU40ZURxRkVzYjBmVVhfTVZGc3JFS2dSWmF6SVd5YVV2NlZpNTFVd2pZbEJYV2NEZDV2QkxDclMtSlpuNGlmYUhwUVI3RXhHcUNrZUpfSmV1R1ZvRjhsM3dQb3RiVVFzYU9NU1lGcXRIUE5GOFdjZkpKbUtKUnQwQU82YUNQUE5ZbS00dGxlT213?oc=5"
+      },
+      {
+        "title": "Fuel stocks: Petrol up; diesel, jet fuel down - Otago Daily Times",
+        "source": "Otago Daily Times",
+        "published": "Mon, 11 May 2026 03:15:02 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uQmJmSU5RZm5MbmRPTElkNjFVajBPb1BfYnZKZVd6SnJzbVZGTXBfYmJCY1FUcVpwT25GUXoxU3o3eFZIZU4zLUU0bU90UVEtZzhOLUZ6MWc4UENONUx6X0doZ0xZaUF2YzExR0JBLW5mQzlHWEpPbzFR?oc=5"
+      },
+      {
+        "title": "Govt reveals new fuel rationing plans, initial phases 'too complex' - 1News",
+        "source": "1News",
+        "published": "Mon, 11 May 2026 03:10:51 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS3ZaUHZwN0RLSXNMM2R1RWdhVDkyN3MwMHJTd0xEWVNWUHZXSWNUeVpjUWliYnptUnV1S2F0aHkxQjhydDRfcW9IaDZjNXdJM2p2djlqWXFpTDhrVDZrdnJGRHZBVGEySWNvUVNCRGJDUlRobnl4cDF5cHFDaWNVRmRSRTI5bVBKdXNSX1B3YUtiOWh2S1VoWXJfWTU0MmFYVHc?oc=5"
+      },
+      {
+        "title": "Government reveals new details of Fuel Response Plan - Times.co.nz",
+        "source": "Times.co.nz",
+        "published": "Mon, 11 May 2026 03:06:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPenUxVURESndJWHE3TURHemhLQlh1c0tpdnZyRVFiRUFIUVl0NzBKcDViU0NpLXJaTm1sak04SGphLXJqQXV5UEYzMGJLYlV4MnZ5RGpyU1FybENKckNGb0ZHTkRzMXhSdEJjTzdBeDYyVW5LVThUdXA1Zkw2SVM0STEwbWlxcG1fVllLODJ0dw?oc=5"
+      },
+      {
+        "title": "Petrol up, diesel and jet fuel down in latest NZ stocks update - 1News",
+        "source": "1News",
+        "published": "Mon, 11 May 2026 02:30:46 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSXd2bWJvRGtmcGRJdlJMN1MtZ2NwcEhNNWZaRHdzdFVEclZaTGtPSFlKY0NCbmtibGZ0NmR4bjhyamdvdWVYMDNxay1pWHhvS29lOXBpcTY2SHJrdTNxMV9hZU9wYm5xUHJQcC1YOW95VjRTbl82eHBzQVBhNFFqX2VpTmN3WXgwblRYQWt3X2F4TXYwTTMyUzB5RldGdw?oc=5"
+      },
+      {
+        "title": "New Zealand’s stocks of diesel, jet fuel falls - Times.co.nz",
+        "source": "Times.co.nz",
+        "published": "Mon, 11 May 2026 02:24:18 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV2FyZ0NFX0EtaUxCWC0zcEltdjRRT2lzUzV1SDJrVFM2VF9tVDVvaUY0V09vZHJwUzNmVUdBeXZPckpndnFkeTJQZU9Yb0lQNlNpVWw3dV9Nd28zcWptMHhIdk1CN1lEb1h5YWdmVk04M2J4OGl0V1hkdlRTQnEyeUozUEg?oc=5"
+      },
+      {
         "title": "Travel show kicks off amid rising fuel prices and uncertainty - RNZ",
         "source": "RNZ",
         "published": "Thu, 07 May 2026 22:58:52 GMT",
@@ -8584,92 +8620,56 @@
         "source": "The Press",
         "published": "Thu, 07 May 2026 16:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUC1VVGZtcmNxVVBrU2tkY3c4dDg3M3V6RFREdXQ0WmJwTU5YaHR2YXN4RWNIMGY4VXotUzFJcDRiZmJXalE1djZwVWJfT3hYdkJ6dWFRVkVfeDZsZmJWMkJwSkExQ1kzOXhfU2dhdFdhZDJMb2paMFliZGItb3pFUHRvOXJpR2U1c2w2c3YzeDNsVW5aQ0VKSW1Rd1NoQ0QtVlRSbjNVZUxxWWNhYm0xcXAzeXc?oc=5"
-      },
-      {
-        "title": "Fuel costs, household expenses on the rise as economy heads into ‘choppy waters’ - RNZ",
-        "source": "RNZ",
-        "published": "Wed, 06 May 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONUJJNVlfNHc3M0NTSzY2UGVqcWRPZ2RqdkxQM1hCdE1TMFFvbk4xSmtNVjdyd3RSSDFDcVFNcndPTkdWZkpnbGgwdVZpSV9OeTBuUGN3cGI2N3l4MV9sal9iTktrd0VnYXQ0ZWJvc3hfNGdFQjlva2RmNFhLeEZ6QkNmYXA2Qkx1WXJ3dm53ODJIekloWGtnUzFEX1ZZSlc5bnc4UGxGdTdqeV9CUENUOXl1c3AwN2M1MGRFRw?oc=5"
-      },
-      {
-        "title": "NZ fuel stocks fall across all types after recent highs - 1News",
-        "source": "1News",
-        "published": "Wed, 06 May 2026 04:44:55 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeFBrSFVaVEIzZWtPNWRoZTB1MHlRd3RQeGpqcHpxd2ZTdTgxTVRMUGpJTU9zcTlUUHdYN0lJdzZUT3Q5X3pxalM5Sl9jTmZraEJ0cWtRVnUtbWppMjZDTFQwb0J0eElyQlQxU2hZZEtNRWxreU93anh5bHRYTGNpc2habFExZWNpZUNOWWNZNEFxVERGdlE?oc=5"
-      },
-      {
-        "title": "Iran war: NZ’s petrol, diesel and jet fuel stocks decline again - The Post",
-        "source": "The Post",
-        "published": "Wed, 06 May 2026 01:33:33 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRWJwZGJ3angyR2pFTXBJVjVicHJ6dmxrNzIyaXJsMUNKa1JITnBoVmZhaXRzWjhEaUdtY01VSDV0YzFOTFR3bnRLbURrWHVrS0lrQXpaRVBqV2JtaWxsLXZwV3N0eW82ZnpmMWY1S1ROWlRGNDlpZ3IyTHgwNEY5cVFiUUF2bDkyb2R2T2Z6dmxKcW5oRmJIS3VwMTVlMV9namVxay1sS3o?oc=5"
-      },
-      {
-        "title": "Stocks of diesel, petrol and jet fuel drop, satisfies trigger for alert level move - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Wed, 06 May 2026 01:32:40 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdkxrZFVEdzljMnMxQV9OSDkxWHlDbHpfc05kWXNfOWJveGRmVlpGcEpEVlZjbjRIN3B1Y3pja1puOG9qOV9fU3RIdlFMRXFIM1k1ZzZYUk1IVkZOTGZJRXJYRHBvM0dBRFhNSVNjd3lyNkNtM2U5VE1KVTA0UnhJV0M5NHJPUHBXWHYteXQ5R2lDQVNGcEh2MDFQbF9zSzJaQ256UENqQy1YaE8yUG53RDROdVNXRllob3pBbEN6LWNnWlViQVpGYl92dFBOaUkxcHBMWFJDdlhPWllGUmRtNGFSY3B1bDA?oc=5"
-      },
-      {
-        "title": "Diesel supply drops five days’ worth, but fuel importers have ‘good confidence’ - Stuff",
-        "source": "Stuff",
-        "published": "Wed, 06 May 2026 01:20:28 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMFA5NU5KU01STVZqdUk1T0Z4QURiN3NpV01IYVFuMlVoTEo1eHZDVTliSkhOeVoxd3UzQ25DdEQ1b3JfdUdOWkNDRGt2cndCMHlvNWxWaGVwMUJCN3VCTjhPWkszUTJTZ3ZlSEVlc2haV3I1VEVhZmloUUYxTU1OQ2VzeXhKWnVCaTlwQUowTkQ4MEszTENWX1R5WTlSa2Z4WG5TZ1V1a3BHM29ycWh5Z2Y5Yw?oc=5"
-      },
-      {
-        "title": "Fuel stocks down slightly across all types - RNZ",
-        "source": "RNZ",
-        "published": "Wed, 06 May 2026 01:15:22 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQblJNM1dFem81MjdXaG81cnFER1hELVVjUnpWeEEwVHp0ZzRLUThlTC10UFhiRElleVg1RFZCTEI0N1hfTE5kR3VjdFkxYkhuOHptcGw0dkJmNjZ0cXVybnpBc2FEcXFJOERPOEVnZkJGLXd5akU4bFVuSkl4UlNodXBvaWlpVXZQY1hzeXM1bw?oc=5"
       }
     ],
     "global": [
       {
-        "title": "The window for Middle East peace has suddenly narrowed! Crude oil rebounds to $105 per barrel. Has the global stock market shifted its focus from the AI momentum frenzy to the 'NACHO' theme? - 富途牛牛",
+        "title": "Oil Surges as Trump Rejects Iran Peace Proposal - Gotrade",
+        "source": "Gotrade",
+        "published": "Mon, 11 May 2026 03:52:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVm1iYkRKZnk2UGZOelVHNEVuZGV0QzExYjh1c1RVbWx3eGJFSmpibV83cEVsOENXbjJ0aTh0ZkRJenl3V0lOaHp4ZkhiWHQxQjd1Uy12UURWbHNuM0RXSEl5N2NYMHFOcjNHWlRiS2VjRGx2TzNfUjFnbUl0cGJLSWNoS0RnY3c?oc=5"
+      },
+      {
+        "title": "ASEAN Leaders Call For Middle East Calm, Reopening of Strait of Hormuz - The Diplomat – Asia-Pacific",
+        "source": "The Diplomat – Asia-Pacific",
+        "published": "Mon, 11 May 2026 03:32:55 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdkVDSDd4RlpwQmhEQ3dDM09XYkY5RUtHSmg3X2djeVVld091aFFUaGV2aVVJekR4bklMYTFiTmpCMVZNMzd2OFNGcmVjUVMxNlZwOTBacldzUktNa3oxNno4QWV0eU85Mi0xNVNJZlZ3SFBOazFVMVhoX2tDY2NuX1VFMW1YRjhyWlRVX3JYblhQaWNkam9kTHBUSEFhS1lGYzVOOQ?oc=5"
+      },
+      {
+        "title": "Oil prices today: Crude jumps after Trump rejects Iran’s latest offer; Strait of Hormuz remains shut - The Times of India",
+        "source": "The Times of India",
+        "published": "Mon, 11 May 2026 03:17:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxONkRmWU5BS3BjQVZ1b2ltemxHc0pHY3ptWThfQ0s1Nm9fZ1pqUkFHZzRKWXIzdldRdldGRGYwc2dHWXZHVVpUR3dPNFBTSlRud2ItZV9iekhiUEVxZkZzSXkwYzJpbmJORURKcENuVTFxcWNLWjg0WlVzNnoySnJaOW9yVVhjRmpGYXYtUTlBc1N4Tzk3Vmgwa012TWs2UFdvVVR0QjdLQXlfYURwZURkWFZJeDhlbFFCMHVaNldXVktxdnpxeEJWbzRFTnp5MEQ0YmZWMWk4SHdWMi10aXR4aV93c1JmZkY3ODZ1SzZDVktRTEx3ZG1YeTlpdG9YTnRzeU1LUTdPXzRwdjRtVXFPV3BsUkxnXzh1ekcw0gGgAkFVX3lxTE9TSDlPNnpkM1FQLXJWd3B0QVpUdE9zSzh1VHBLRWtzVVZ6bEFjbVNaVHBPbmJnS1ZlcEh3X3dRSkNaeW8xSFZhbERrbDQwYUdULVZTeW1nVHVRbTRGSmxuZ19nRkhadU0zeTE2b1Jpb3dBUWptVU0wMVFNcm5hLVRQUjZBYk0xZ0ZHeElyaE51Mm1Ob2t2bF82VFN1T0l0X2p1Yk43dzdWWXplZjAzTV8yT1NiRGpqbXlBdm1aanM4c01VY2NWa2ZqVWZiRnI0bTNVSjBaOG8zNVJBcUp6SFhfemRiTWstSmR0bTh1SWFMY1ZGbjZFSEtXTTdZV1BvZkM5dTd3d2dub1NVdXBCQmtKUzJMQ1JVM2ItMzVRb3YxOQ?oc=5"
+      },
+      {
+        "title": "Middle East tensions roil oil markets as global crude inventories face acute depletion risks. - 富途牛牛",
         "source": "富途牛牛",
-        "published": "Sun, 10 May 2026 23:58:15 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdnJtQnJQTkItMl9RMnAxeFVuS2h5SXhjYS0tS2hwRU9yLXFzM0JaaExKWlVDYXBGeXE1RzZ1ZEs4a1l5QXduRkE2Q1RFSHJHdEFmenZUS2FRMXBKS2c1aHdGb18yeC1iSkg4UHhJUTBaaTkzVHhjc3FyRmg1WFRTSWY2YzNVYUhCZVczMEVRTmVYUXRqOWI1U1VnY0x3cFlabXpV?oc=5"
+        "published": "Mon, 11 May 2026 03:13:42 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZk5KUUlkMDZOVFJGc2F2TDNqYlRGcWl1cG9KSC1NRFhYTUE1WkxwRXNpdXRraXNIMHZQZC0yYmgzUVZtM0RfM0E0MzgyYi16Z2RKa2NxMG9wd1J1SUcxel9ERHJtaUJsOHhFcWVPMkwyeUYySnN4dG0wSlRxc004RnhrQy1BYnpCVjFvYjhUaW1qNjJ6V0NmQkt6b2pvRVdMYUN5R29KWm0wUQ?oc=5"
       },
       {
-        "title": "Oil climbs as Netanyahu warns Iran conflict is ‘not over,’ Trump rejects Tehran's proposal to end war - CNBC",
-        "source": "CNBC",
-        "published": "Sun, 10 May 2026 23:51:01 GMT",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTF9PT3huRzZTdWdfdHhnTzM0V0p4bThpeHBSN2JpTURzZkYyWXlxOENfd3VaVlVFSnhDVVh4T0VHNUVvMmhBQlNVWjg3X2NqZnliYkpNbFY1Y0NFZmxNX1h0VkdOU3dSaFN1ZzRzbkZUTmhqWWhySmlCYk92OXlxVkt0b9IBiAFBVV95cUxOZDhjOWlxd1RUNzdLaDlxRDhtenFpUS1LNnQ3OUNGMnZJUF9zSnUzV0xWdHBUZHZnUU9GdUJDXzRjQ0N0T0Z0UkpPYVkwU1J3c1JDem9pOVBpeHowZlNzZ3ZVQWphUDJ1eGFkMVA4ZDRZdldWbTUzaW9Xb0RZVVRGNmQ1RTJVR01k?oc=5"
+        "title": "KDI Warns Prolonged High Oil Prices Could Spike Inflation 1.6% - 조선일보",
+        "source": "조선일보",
+        "published": "Mon, 11 May 2026 03:03:40 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVDRpWnZDN0xiSmJfSnh6eW5xZnpmbzJ1azd3QS05Y0VueHFXRnpnbC0wbGJIMEstbWhhMEx1Uy1DbTBkbWM5c0EwSmljMXFEc1psNm1kWHRTY0VrT3pKOUJDSmsyVUZUSkI2Q191TFgyc0R0SFJkR2QtWGNiT1hDZjBaOFF2SFZGWDZ0Zkl3?oc=5"
       },
       {
-        "title": "$7 Billion In Perfectly Timed Oil Bets Sparks Insider Trading Fears - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Sun, 10 May 2026 23:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMjZDTnE2WlpVSHhVMXJhWmZ5SUEwcS02bmZzQ3c3OUk0ZERCc3hOMmdUNFJrd3NMb1dUcHB2S2pzWjBESFRfcFhIZDE1bFBZX2xxNnhNek9zcm1RWGREWjhYNEdpekZjVFRuU2tjRU96YUZUNk50LVZRaUMycjlzYXNrNmtHd3M2cklhcHlCY1Y1ZGh6VzkwZXdXLWl4UFBNNTRtMmpVNUVPc08ySXfSAbMBQVVfeXFMT0lBMk0tSUxmUUtSUTRkemJONFNJWWpkWDVXcW5GWmhrXzdJbmVmdGJSRUZ2N0JRaGQ2Njk4STRnNGlOWXFLeFczYzZ4R2g1Ymk5WWsyWUE2cEJLTS1TeThxN2h6cklMVEpzaklUN0Z6YlBUWDRLRzhuVnN5a0lqLS1lbmVxR3N1eUEyYTJHR0xOc2NTbDZFMU5aYXFDakhWWEF2bUJvZERhMmViZGlNTEJfV1k?oc=5"
+        "title": "Westpac Expects Brent Crude to Ease to $67 Per Barrel by 2027-End - 富途牛牛",
+        "source": "富途牛牛",
+        "published": "Mon, 11 May 2026 02:42:49 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3ptalB4TDBTajQyNTZGLXRWREF5eFloOFp4UnhuRDNZdnoxMlFyQWp5MDlKckY4Mnl0STB4VG5wS1dHQmZhQl94MnZQMjhXOTNvYWFudjh0Ml9fNjVrMGhHQ3JhcHUya2E1LU4xdmJtNDNPcjFpeGNaRWV6dkthN3VTR3dxNHZPZVIwOGNVRUpPNVIxbDlaQQ?oc=5"
       },
       {
-        "title": "Why are oil prices up today, and will Brent and US WTI crude futures rise sharply or fall again? Global oi - The Economic Times",
-        "source": "The Economic Times",
-        "published": "Sun, 10 May 2026 22:44:13 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNYmZVcHc3cnhIZ1I0UVV5VmpucVpMNGtTQXRhT1VNSnBsQTI5ZFJQa01oRUF1OXdUR0N3dTlvOUVnWWN0ZWV3UXJUSm44SjNLd2hNdllSZ1VGVWhPQ2llNGVGQlhySDNibEp2RTBaNVZ1cFp0ZHV1RGU3RnNVUUVESzRydUtoLWZGSUd0QXEyR05nVTdZbGJfSVJ4bGxuQVJPSVZDMmNRdkU1U3NQOE1LSUJBTzVyaWQtektMVUF5d3FwblZHb3VkOUFaeWh6Y19ZTFRvV0pONGVyZkNreE9mb3dkekhGYUY5UDV5NWc4Tl9LN1hzMHVIQjhtVURKWS1aRENMOTRabnpGUjZueXdMdm80NTMxWU9pc1JsOW5TSHZWM3pDaDd3M1hsX0lWelVCYU9xV2JuZklXYWYtcWFfM2JmTm1QSnJtSEtCMGZpNkN2M2luRmg2bFFITGtTYTczM0FST3hqdFgtTDJubTlWcFFUTFXSAfoCQVVfeXFMT2g3TG5hWDFSREpjUUFRSGFwRXJSOUQ4ZG12NzJMbDJaSV9VRVI4TlpUdVhHZDhFWjNMbjBCQXo5U3oxWlFBTDhSUEhGcUNaU09XMEVaNjJydmJmUTFmV0xlb3dHbFlxTFdKcTJHV0xJZXRxRmlOVHVFTHNXWDdpUDFDQkZ2czFScFlpbUZYVktEaGRINjB0ZzNvNDllUGhwMDlFc3pQWVpIS09GcDNLbGhUREJkUGV2UDdEVzR6cl9NdzI5QzM0enhkNDJybUMySjJESU04dklkOWxnWXVKQmc1LWJrMTJqUUhEWEhnUlJzR19TZnJfdWxXeHVQN1hiX1dUS0MzbDFwV1RmRlQwOENPT3RLalpXYmdZWFJqTHhpYlJlMjdXLXNTdnl1NFhaZVhON1VpMmpzT1FRNnI3WFRNTmVsZnp1QXZuN0M1LWRmcWstU0s4d0dmNmpXaHFOWjN3U0tIMDMxZXhvYUpwR0ptZnM4bDdrdDN3?oc=5"
+        "title": "Oil prices jump after Trump dismisses Iran proposal to end war - BBC",
+        "source": "BBC",
+        "published": "Mon, 11 May 2026 01:12:30 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XeEduVHJVeUVialhUMFRNYTNiUl92bF90d2pfNEJNa29TVEJMaHhERllmbFVFOWdmaGJOU2w1c1FwR2JqNFVzY09jbXZtXzZ6VGhlbXN3d01LUQ?oc=5"
       },
       {
-        "title": "Oil Supply Buffers Erode as Middle East Crisis Tightens Market - TipRanks",
-        "source": "TipRanks",
-        "published": "Sun, 10 May 2026 22:15:01 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbmZDRjQ5Z1ZfaEhNT05VUEZoNnAtbkhIYXViSnVuVHNRWEVZUFJ5OFlMakh4MzRzamgwQnRQSmZPV0hDVUV4bkxOYXpObHhkeEw1NjBfUEswSlBtQWlwQWo1UlI4RzhoZTJ1T0dWT0pCZ3hfeXhBTlE5LXRKOHRBMUQ4S1BGUXV5VGtKMW55SEplZkFLVjhhaG5tcm95THd4eHNBU1JBdw?oc=5"
-      },
-      {
-        "title": "Middle East conflict disrupts oil supply, pressures WTI prices upward - Crypto Briefing",
-        "source": "Crypto Briefing",
-        "published": "Sun, 10 May 2026 21:04:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQkNsQnBOMDhMT0ZhX01nd05VYlZVYXRTSGs1VTgxbHRudzVRbXp6eGNveUhwMFhnVzFNUnRVSUJtRmxmRHRac0UzVzRmbFJJbVZqb01BcXBrOWhXOXpDNTZIVm4tUzFPbXhkMFg2UW83ZWdmMjFwdDVlM2dKVXBwQjdHLW43RWNtMWlYOXZzTTAwQmJHY2VfbUFSVlA?oc=5"
-      },
-      {
-        "title": "Oil Market Runs Down Safety Cushion as Supply Shock Worsens - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Sun, 10 May 2026 21:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRUpQSTR1M05rX1pJQXdLc2w3dTdkdEZzT21NcWo1RDcwOWJVbkJ6S0g3Y3lrNFk2Y2tuZzM5R0E0UnJxMWF6LVNSaEpMN1hEYUM3ZzE3NjhqZ2RzNDRZYjZ5REpnWF9ybWpuRWtRaWctbU5lWGRoQjdWRkpma0VVeWxRc1hnNGZyOVZJZzJ2Zm9yNTZUTHpGZzdjUzBlaUlua1RfQtIBqgFBVV95cUxQbGZyXzdrOUlnSnEtQ1FyVmJERmh5N3lzNGYyME84Q3I4Z1M5dkdkeEt0ejJDYjNVNWFNaHNJNkZfcVl0ZjdkazgtV1JjR0EtN0ItTFNKWTlGdkFNU3VDbHVnOTAxTXJWc2MzWEw0U19QajgzYk1yZllxY1hxSVJzVVdDVzFpVFBIanhhZDRvb092RjBKSVB0WldWa3RDajF5SGFTNnU0eTV6QQ?oc=5"
-      },
-      {
-        "title": "Iran said to table broad demands covering sanctions, war and security in U.S. talks - investingLive",
-        "source": "investingLive",
-        "published": "Sun, 10 May 2026 20:32:55 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQlF4RndNa1BnNXNjN1NBVEY5eDlxMzBGd1dseXNpM0F0bU83Q2c0MklyYzZHdDMxb0s1R3NoYk85MEZhZU54VWE5WDkteEVRZXA4Rldtd3lSSU16aHZ5VkR6Y1lPUkZHVWl1Ukw3cm1mTEpwbVZhSmtjYjFId25tMUl1d19sdzNvbWlfbEpuenNRUGY1eWdMeExuV2tlRU54TlM1RnU0cGtMUEJYRVFvOXJISnlJZmNNaTNxM0dTNGZTMnc5V3RB?oc=5"
+        "title": "Oil Rally Resumes With Brent Crude Near $105 After Trump Calls Iran Response 'Unacceptable' - NDTV Profit",
+        "source": "NDTV Profit",
+        "published": "Mon, 11 May 2026 01:03:42 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOWJZeXBsZG1pcUxFU0pYay05OWV1eVZicmlLenpZYlRWbXFPWVBOaWtLSUtFLVZ1em41U2tMTW9YOWNGQlRwZmdMM1E4Y0FwSE5ud0tjemhjbjRDZW45MnU4QjJocVlzQXVYeFFybDl6SkcyTlN3a0JOODVZbnNnMk1VSWdNMGMxSnJHbFFSQTRYcE5UOVBtU19TVEo2S0FSZjVJbjlSWEthdEFVVDBZR2l4djdiZ05QQ0paYWtLODUwdlFzRXFxLWhB0gHSAUFVX3lxTFA2WkhuNTd0QWp4T2w4czU5eXFqSUpmU0dqZEhtT1JpdGd3NmZ0NUZYVEF6bThpeWg2RWJJQ3JTZW0tR0FKMXc0blNXRENQQkUzVEVyYTZpMV85M2tDMzF4TGNqaHp2MzAyMDhTV1phT2FFOGk3ZXpVNzJKUU02VWVrV0RtZzYyaUZwTTFLYkFSVjZhaXdzTnZITURDM1dSSE52bTNrLW9zRGdXaWRQMG5qUW5zN25zOVV4Zm5ySUh2QTRJcENBVms2b21scUJoQUFZdw?oc=5"
       }
     ]
   }
