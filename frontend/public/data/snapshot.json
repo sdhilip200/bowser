@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T19:47:32+00:00",
+  "generated_at": "2026-05-11T20:58:17+00:00",
   "fx": {
     "nzd_per_usd": 1.68004,
     "as_of": "Mon, 11 May 2026 00:02:32 +0000"
@@ -8582,6 +8582,12 @@
   "news": {
     "nz": [
       {
+        "title": "Pump limits, spot checks: Govt reveals level four fuel ration plan - 1News",
+        "source": "1News",
+        "published": "Mon, 11 May 2026 20:27:21 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUDNvbG1OVGxvZUc4OEQzTGVqWVVVdkx0Q2JReFFOUW10SXppZl9ySkkzOXo2NGswWHZkNHJ2Q1N1QV9OUFlSYXp6NDRrREIxY0pYWWtIZWQzbm9hdnBUbW9FblY0TEl3aUl4bjZad1N0ejI5VDFtSXhmcTA4eDFBbWYzbzV3OEVvcXloWVpTZDBROUVJQ1IyNjhqSUVlUlJiV2c?oc=5"
+      },
+      {
         "title": "Petrol up, diesel and jet fuel down in latest NZ stocks update - 1News",
         "source": "1News",
         "published": "Mon, 11 May 2026 18:08:27 GMT",
@@ -8598,12 +8604,6 @@
         "source": "NZ Herald",
         "published": "Mon, 11 May 2026 05:47:10 GMT",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcEtNSnlGOWdaYW91enlldUZGTVBVdURjTGY1ZEZEYXpBQjhzOFFLMTlrbUxsNGFVY3FJb0ZnZUNxdVNWWDE3Wm5RaU40ZURxRkVzYjBmVVhfTVZGc3JFS2dSWmF6SVd5YVV2NlZpNTFVd2pZbEJYV2NEZDV2QkxDclMtSlpuNGlmYUhwUVI3RXhHcUNrZUpfSmV1R1ZvRjhsM3dQb3RiVVFzYU9NU1lGcXRIUE5GOFdjZkpKbUtKUnQwQU82YUNQUE5ZbS00dGxlT213?oc=5"
-      },
-      {
-        "title": "Pump limits, spot checks: Govt reveals level four fuel ration plan - 1News",
-        "source": "1News",
-        "published": "Mon, 11 May 2026 05:03:34 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUDNvbG1OVGxvZUc4OEQzTGVqWVVVdkx0Q2JReFFOUW10SXppZl9ySkkzOXo2NGswWHZkNHJ2Q1N1QV9OUFlSYXp6NDRrREIxY0pYWWtIZWQzbm9hdnBUbW9FblY0TEl3aUl4bjZad1N0ejI5VDFtSXhmcTA4eDFBbWYzbzV3OEVvcXloWVpTZDBROUVJQ1IyNjhqSUVlUlJiV2c?oc=5"
       },
       {
         "title": "Fuel stocks: Petrol up; diesel, jet fuel down - Otago Daily Times",
@@ -8632,16 +8632,40 @@
     ],
     "global": [
       {
+        "title": "US sanctions 12 firms, individuals over alleged role in Iranian oil trade - Anadolu Ajansı",
+        "source": "Anadolu Ajansı",
+        "published": "Mon, 11 May 2026 20:48:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjBoVmdfR29ac1E4NS1zSU85OFNTMmlWNDRUM18yanlNNC1DMV8tTnpKeDAzM2drRnh2VV9aUGZTN3VIVC1zMHlRc3VJZzVGNUdvY0tlbnhFMFdJRjR3WHlzZFRka01XRnRPTlo5WHU3LUtWN25RYkh0T3otdmUtckR6Sjh0TW5kU21LM2lvOVNkOU1SeWQxcjlzTXY4MHpURnZYTkozWlEtdTNVOHFKb3dmNGs?oc=5"
+      },
+      {
+        "title": "US imposes new sanctions over Iran oil sales to China - The New Arab",
+        "source": "The New Arab",
+        "published": "Mon, 11 May 2026 20:42:35 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbnd0MjdXeUZaSUd6dzNUR1V3S2U4RjB4T2p0Z2tKb1ZrVnQ1RXNUbnYzWm9ZVEhMUEVBd2x1STVkODRuc0p0bmtOSThhY0c1c29ma2xsUFQ5Nk5FcFhwR1JNdmFXQmt6WTd3ZmJSY2FxclBWTXoyZXp6WnFXbTVob0ZDM1Y2Zw?oc=5"
+      },
+      {
+        "title": "US issues new sanctions over Iran's oil shipments to China - Reuters",
+        "source": "Reuters",
+        "published": "Mon, 11 May 2026 20:32:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFRSdkI1TWxrTWJCT1VHQjdsVjNmM05xVDRDMGM4eDRnbC1xd3Bqb3RoS1JnQU51NERCWVRoVWRlVmppV2Nvdk1iSWM0cmhpQnpEY18yQk5rbmxXSE82X3RuczRfUGdoQzBSSTY4bkNIcnctSS1FSDFGSzJuQ1ptSlM0SENqM0NFeVRuUjBHTGtJWHZRbWFRTzdiYnBwRmlVVTJ2Vw?oc=5"
+      },
+      {
+        "title": "Treasury Dept sanctions IRGC oil network as Trump claims Iran ceasefire “on life support” - JNS.org",
+        "source": "JNS.org",
+        "published": "Mon, 11 May 2026 20:18:38 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMUplTW9BbEw1dGx3dG9Jd1JHRmZQSzM2WElwRGJzN1RNS0FRMHdmTGdEeWJiZ0Zpa1gycURWdklhOVBkZ1FhSl8wVTJlLU1hN3V0alJnQ0wxbjBwMHJBMHRrcmZ4VXRoT1NfUlFzb2dQVEZhOXdlWlprYUZYdUJYRHpDUDNHQ2U3UXJtRVpHaFVzdEVHWkd4dWZ2T0Jfa3NlTkpZQXA1NG1XV25felFnZFFoaDRBdHJiV0h3anJB?oc=5"
+      },
+      {
+        "title": "How Russia Circumvents Oil Sanctions and What Washington Can Do to Stop It - The National Interest",
+        "source": "The National Interest",
+        "published": "Mon, 11 May 2026 20:01:11 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcWFRc2xJM2o5alBNSHNyLVNLaXRNRlEyZTN0OXdsNUYxWDl1ZXFwQVV5bHVldmNWMkhkS01fOUF0Q2dzbGN0QkNvRWZYQm5GbldwWm5YRGdxeS13ZDFwLU5VdnJqZ2I0cjYxMGYwYmNHTkRDNVY1b2QtMTF3T3gzdkxibVhmMU1RWFpTdHpaakRITGlLOUU5Zk1VLWNjOVJuZHNkaklENVcydWU0MkRfNnVyWERYa3VGajUwWk5n?oc=5"
+      },
+      {
         "title": "US hits China-linked Iran oil trade with sanctions ahead of Trump trip - Al-Monitor",
         "source": "Al-Monitor",
         "published": "Mon, 11 May 2026 19:30:25 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUVFFNm0xXzBraUhrNmVrLXVOa2RsRmdrTmltOURlVnBoQzktX3hyQ1NLbnJqVVBHa3FkM0VmZjFhU3JTUEk3UjdrNEJyQVBGdnQ0UlgyenpiVm1hOTltbVQxR0hkSU8wUVg2NVBNS3pkbUhxX2VMY2dYTHZJQ19vc0lTRTRpbzhJc3ZqRzJ3M0J0STlBWlBId25CZlNQMnp5T3EyMENjdTlCMUk?oc=5"
-      },
-      {
-        "title": "'Economic Fury': US Treasury Sanctions 12 Entities For Enabling IRGC Oil Sales To China - i24NEWS",
-        "source": "i24NEWS",
-        "published": "Mon, 11 May 2026 19:30:14 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQWoxWkNUMzhmUGV0ZTlERVFkcUZJNUV0OVdQeTF2UkdiamFnajdSbjd3N0hKOEw3VlFaSXN6SC1pTmo5YWlDWlZMby1Qa0hWWnNLSkdjV3dpMkhLMndHelNxS19VUEgyNDdUOTJUWkVvMlptMVdac3N2VGRyR2o0STN1NGJwUDRjYXU0TEJsSjF6T0N2aEpPU0hUcGE0MUFDQy03c0tSeU5OUFJmc1E3Nzc0RDBKLVNJWWJsMHBWTXU3SGl6ZHF4endVZHJUSmpwVThRcjVqUDhRVFU?oc=5"
       },
       {
         "title": "Strait of Hormuz tensions threaten global oil supply, WTI prices may rise - Crypto Briefing",
@@ -8650,34 +8674,10 @@
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSlNfSFRHY3pLQlZuQkhmRkhTbTlhNXdEaUE2emktOUludG5BelExcnF0M3o0eElNMVFvSGNwd3RScW1vZUNoVm1GTHdFWXJnc1hLUngxcTA5LU9ueHhnbGFhcXdZd0NMbG5lek1pSkQyN25fT2t1dlhSSEowQmdQbUhBM3dTS1ZBUVNFS0xPOXF3ejVXYzAwMnZTRTFCVE1uTlE?oc=5"
       },
       {
-        "title": "June WTI Crude Oil Contract Closes Up US$2.65; Settles at US$98.07 per Barrel - marketscreener.com",
-        "source": "marketscreener.com",
-        "published": "Mon, 11 May 2026 18:33:12 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWDkybzlTUFR0d3lVSHU0dnNidFVmMWlPU0ZmbHZYaGhOZExGX0FacDRRVktQbTdEYmFkbDZCVTBQNkVIZ3dpOUhFZjczbW82bzUxQVhPS3ZmN0l6NWtkRGVHWldWT3h1U1k5bFFySGI5bjltcnZTWGQxbnJ2bW1JVHNOcVgxdEI3SmJwUk5jVlhXbnFWTFV3bTFFNHlCbjl3ZmV1T0RpdkluOHo5SFhMTWRxMXhOQjFrOEpDWXFfMUJKdVo2SlZoTg?oc=5"
-      },
-      {
-        "title": "UK sanctions network accused of planning attacks for Iran - Al Jazeera",
-        "source": "Al Jazeera",
-        "published": "Mon, 11 May 2026 18:32:46 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR1VpRUphV2xaalR1Q2ZMM3NGU0ZoOXdyVDZfX1RxeWt0UXFwTUpQWXZhalBxb0NWcjRBWnRNUFpkc2FiSU51SjJLUFNhZ0pwR2ZoZUtwRVVBNTMzclRmR2o4YkdOallhaGk0WUJtYURQRFZDdVIzN1FZbTlLRnJlSmg1alh5SElEMTU3MlpoenlYNFVOX0VxRnZFNkdCb1nSAaQBQVVfeXFMTjhYSVd2S3FsdDV5ZnhWVEhKaEVWV3g5aTk5RUxSQkFPWEc1T2dRODJpTHI2T1I3VktxSlBzdVZYTDRPU1ZDTERfYURUX2NKMXFXTjVWbGlQNWt0V0pPaDhqb0xjT2pmYmxFeWFnb2oxT05LN2dnc0FaeUttYVNJTV9EZmNxZ0N6Qk50eGlwTlh0aUVBTHBKdlhfdVY4T1VSXzc3X1g?oc=5"
-      },
-      {
-        "title": "‘Piece of Garbage’: Oil Prices Resume Rise on Trump’s Reply to Iran’s Counteroffer - Barron's",
-        "source": "Barron's",
-        "published": "Mon, 11 May 2026 18:10:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYkdqaFdGVXNhdldXWHZNLVZOSG1RSzBtanNWbUxCZG13MGdEWXZRcjlZNzgyUGpvak5INXQ2TnVzSF9xTFctclR3UkpRTW9jOXNoUDV4eDdRZ0tmMjYwTm5GcWg1QjVMSnNSY0R0Wm1BcWloQ1VjZURiUXF0LVNuYTB0VGxUQQ?oc=5"
-      },
-      {
-        "title": "Oil price predicted to remain above $100 for rest of year - BBC",
-        "source": "BBC",
-        "published": "Mon, 11 May 2026 16:57:15 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XeEduVHJVeUVialhUMFRNYTNiUl92bF90d2pfNEJNa29TVEJMaHhERllmbFVFOWdmaGJOU2w1c1FwR2JqNFVzY09jbXZtXzZ6VGhlbXN3d01LUQ?oc=5"
-      },
-      {
-        "title": "India Rejects Russian LNG Under Sanctions - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Mon, 11 May 2026 16:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRVR2T25rUW5vMVl5dTZobmZtQ1FQMHFHZ2JrOENlb1kzYXp3enp1R0xBY2hYcHpEb2JyanB6aXZLRkdObnJRTWFYbUc2UGFQQ2V6V2dwNFlvRnBCMXlDQl81NUdTUkMwUnR4LUlUcHgwT3ZCbkktbG9YYjVNNEpPb09sWm9qRV83WW1wQVRYaUxkTGFyTnlsNUpBQjhXUdIBowFBVV95cUxQcDdsMTVmcGhPYk9ZZmd4dHlpWllyXzdxblN5RjhFQUYyWHN0MFVkUHE5LTdiZHZQU0hSbURxVDQwc1k0MnhES0NlTU5xMGp0Ym1SODBoNmVRQlI4VnRZWlZTNXFQMlV1b20zeWNaQ2IyMmk4Si0tOGQ3RmFwMHYtVUhVckNJWUd4Uy0tSVhxWEFTSFRiTXk1M0lXd3VYWUxpbHpn?oc=5"
+        "title": "US Expands ‘Economic Fury’ Campaign with New Sanctions Targeting IRGC Oil Network - Kurdistan24",
+        "source": "Kurdistan24",
+        "published": "Mon, 11 May 2026 19:06:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZE5famdfZGR2SEZNeGRxYUFsb3diazJlc0Z1LVVuVWhaWVVkSVR0YVFULU4yeThUeHkyQU9VSXRUbncwV0M0YUdWdEpzQl9WRWF6UG1oeUxHdXZWWTl0Sjk3ODl2RVJMVzJYd2J4bFl1ejJrdTZiaVZpS3o3YzFzQkRkQ2NJSTF0dmxSQ1l4ejVYTFl5NUszdE1WM2VTbDJmQjBzbDRlZ2VZaHYtd0F3MHktenhhejltbjFGNFdXanY?oc=5"
       }
     ]
   }
