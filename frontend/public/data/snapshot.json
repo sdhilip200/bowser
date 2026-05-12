@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-12T18:10:33+00:00",
+  "generated_at": "2026-05-12T19:53:06+00:00",
   "fx": {
-    "nzd_per_usd": 1.68004,
-    "as_of": "Mon, 11 May 2026 00:02:32 +0000"
+    "nzd_per_usd": 1.677341,
+    "as_of": "Tue, 12 May 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 104.24,
-      "latest_date": "2026-05-11",
-      "delta_1d_pct": 2.91,
-      "delta_30d_pct": -7.4,
+      "latest": 107.82,
+      "latest_date": "2026-05-12",
+      "delta_1d_pct": 3.46,
+      "delta_30d_pct": -4.4,
       "series": [
         {
           "date": "2025-05-12",
@@ -1017,15 +1017,19 @@
         },
         {
           "date": "2026-05-11",
-          "usd": 104.24
+          "usd": 104.21
+        },
+        {
+          "date": "2026-05-12",
+          "usd": 107.82
         }
       ]
     },
     "wti": {
-      "latest": 98.12,
-      "latest_date": "2026-05-11",
-      "delta_1d_pct": 2.83,
-      "delta_30d_pct": -1.53,
+      "latest": 102.41,
+      "latest_date": "2026-05-12",
+      "delta_1d_pct": 4.43,
+      "delta_30d_pct": -0.46,
       "series": [
         {
           "date": "2025-05-12",
@@ -2033,36 +2037,40 @@
         },
         {
           "date": "2026-05-11",
-          "usd": 98.12
+          "usd": 98.07
+        },
+        {
+          "date": "2026-05-12",
+          "usd": 102.41
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-05-11",
+    "as_of": "2026-05-12",
     "regular_91": {
-      "avg": 3.254,
+      "avg": 3.251,
       "min": 3.099,
-      "max": 3.579,
-      "count": 69
+      "max": 3.599,
+      "count": 64
     },
     "premium_95": {
-      "avg": 3.447,
+      "avg": 3.445,
       "min": 3.139,
-      "max": 3.729,
-      "count": 26
+      "max": 3.659,
+      "count": 31
     },
     "premium_98": {
-      "avg": 3.559,
-      "min": 3.389,
-      "max": 3.679,
+      "avg": 3.575,
+      "min": 3.509,
+      "max": 3.618,
       "count": 5
     },
     "diesel": {
-      "avg": 3.263,
-      "min": 2.977,
+      "avg": 3.233,
+      "min": 2.899,
       "max": 4.188,
-      "count": 77
+      "count": 81
     },
     "lpg": {
       "avg": 0.0,
@@ -2070,8 +2078,8 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 83,
-    "observations_yesterday": 88,
+    "observations_today": 92,
+    "observations_yesterday": 83,
     "observations_older": 6
   },
   "mbie_waterfall": {
@@ -8584,13 +8592,13 @@
       {
         "title": "Petrol up, diesel and jet fuel down in latest NZ stocks update - 1News",
         "source": "1News",
-        "published": "Tue, 12 May 2026 12:17:13 GMT",
+        "published": "Tue, 12 May 2026 18:33:45 GMT",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSXd2bWJvRGtmcGRJdlJMN1MtZ2NwcEhNNWZaRHdzdFVEclZaTGtPSFlKY0NCbmtibGZ0NmR4bjhyamdvdWVYMDNxay1pWHhvS29lOXBpcTY2SHJrdTNxMV9hZU9wYm5xUHJQcC1YOW95VjRTbl82eHBzQVBhNFFqX2VpTmN3WXgwblRYQWt3X2F4TXYwTTMyUzB5RldGdw?oc=5"
       },
       {
         "title": "Pump limits, spot checks: Govt reveals level four fuel ration plan - 1News",
         "source": "1News",
-        "published": "Tue, 12 May 2026 11:41:13 GMT",
+        "published": "Tue, 12 May 2026 18:22:07 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUDNvbG1OVGxvZUc4OEQzTGVqWVVVdkx0Q2JReFFOUW10SXppZl9ySkkzOXo2NGswWHZkNHJ2Q1N1QV9OUFlSYXp6NDRrREIxY0pYWWtIZWQzbm9hdnBUbW9FblY0TEl3aUl4bjZad1N0ejI5VDFtSXhmcTA4eDFBbWYzbzV3OEVvcXloWVpTZDBROUVJQ1IyNjhqSUVlUlJiV2c?oc=5"
       },
       {
@@ -8632,6 +8640,12 @@
     ],
     "global": [
       {
+        "title": "Gas Price Increases Cool Off but Crude Oil again Tops $100 - AAA",
+        "source": "AAA",
+        "published": "Tue, 12 May 2026 18:13:19 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUU1NQlRfSFNQRmh0cEtvc3h4TTcyUjVZM3ZVWWduenk5WVRZd2RSenBsUXVIRGxWNWZIVjR6TUxJdEdDamdnYXNZVFVyeVJzbVNqOHY4a3RrM3h5U2R5al9WbWp2TUNDalM4RUk1dHdldnY5XzJqMnF5MkZ1ZHBsNndpLTBhc1p6ei1aaWpWWQ?oc=5"
+      },
+      {
         "title": "Iraqi Corruption Is Fueling Iranian Sanctions Evasion - Foundation for Defense of Democracies",
         "source": "Foundation for Defense of Democracies",
         "published": "Tue, 12 May 2026 18:00:00 GMT",
@@ -8644,6 +8658,24 @@
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaE5Zd185bi1iLWpING9FUGZpcnEyS1NHNVJ6RzRJejEweVl2OFdwNktwNHhsQ1VOaTY4U2lQcjJsZjE5VHc0VW1XUno1eElOb0pTTkhuM3M0RHphZXdUSlRwQjFqQ1paeW1iU0ZZdHdZaTJFQTVJLUFmQmF5bHhqM0ZTWHYzcnJIZzItRGsxUzUtcDBIRUp0S0thSzRHY0tUSDNpaU93VXlKdjhkRzJoZmFDR0FGZ1ZQdk9mQkRPRzZhY1c1NzVaT01sZkp5NjVyS3Bj?oc=5"
       },
       {
+        "title": "Trump ceasefire warning boosts oil prices amid Gulf tensions - Crypto Briefing",
+        "source": "Crypto Briefing",
+        "published": "Tue, 12 May 2026 16:16:17 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMHpRZ2kwbGszVzh4QlpMTjJPVUxNX0owdWNtWUZpN3lndzIyLVVUSnp0NnZiQk1mZFFNdG5rUDF3dHB1Q19VN1ZTX1ZiUWppWU1jR19GR0Foalpjdlc4Q2JBdXBVR0laYTJmT0pQVlV4MlM0SmNlbl9kVmZPcjJQR1ZxVzdCenJfQzE0Qzd0M0x2UQ?oc=5"
+      },
+      {
+        "title": "Middle East Oil Crisis 2026: Brent Surges Past $104 on Iran War Fears - Intellectia AI",
+        "source": "Intellectia AI",
+        "published": "Tue, 12 May 2026 16:13:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13emJrbEJTTmJxUHRWclROcncxMGRGTzJfSkJtb0dJa3AwMExnVHJ3WHdsSHpLN0JxcjFkSnZ0U0JXUXd0UlpabnBkY2VPUmphblhZRU8yX2tBemxkdDluWm5xZ2RYZw?oc=5"
+      },
+      {
+        "title": "Inflation Jumps, Oil Prices Rise on U.S.-Iran Standoff - The New York Times",
+        "source": "The New York Times",
+        "published": "Tue, 12 May 2026 16:09:55 GMT",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NZDA3bVB6aWJPcVRfX1UzbmtXX3dycjdVMTR1cnNkQW5vWl8yZjBuenEzRmtDZ1pldnJRY1FDSThTY1RadHRsY1hoZHpEOVhVY1IxQkZ1TlpFWjJ4cTdWMVdFNFotY3F6ZUJLcExhdEx4V0taN29naUFkLVk?oc=5"
+      },
+      {
         "title": "Global Supply Shock Reignites Oil Exploration Boom - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Tue, 12 May 2026 15:00:00 GMT",
@@ -8654,30 +8686,6 @@
         "source": "Seeking Alpha",
         "published": "Tue, 12 May 2026 14:25:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVThybVJjU3RxSXUxNTJkdGtabncxMm9QblBoLVpwMm1SV1NwSTVlTEd0dzVsRExZNnhWTDZpb3JwckVkNnZ2Tk16emhIMWRHN2NDc29pVk5SOU9fY01nNTU5aFlIR3FXa1hvRWlOZVBJY1JtekdnY29GWlBoREY0UjNsUlBkQ1RmNGxrd0I5cWNsVFhIQlF2SFgwZmYwV1Q0TUZNRkxLZ00xQUc0Um1lMUtuSF9Ydw?oc=5"
-      },
-      {
-        "title": "HSBC raises 2026 Brent crude forecast to $95 on Hormuz closure - Investing.com",
-        "source": "Investing.com",
-        "published": "Tue, 12 May 2026 13:01:14 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZEFBMVBMV0NraHJWVmwwM29wdGM4V1pBVXUwNFZIYXBlVnM1WTlBV0ZwWjBIVkhWQWFhSnNIdkpudzNQdk5udEtGcVNsRkJ4d1ZTZWM2V0RVRjh1OE5WVUtnME94MDdUSVlMb3R3WFJEWTdSVHFneFBhVzViU2JUNGI2SUVYOF9XcFN6cmFHUVIzVV9XNmo3OEh1bmRpRnY5TmJfWFFtcE9uSTZHRTZlRXFpQXlhVjhWaUdyM2FpRQ?oc=5"
-      },
-      {
-        "title": "Current price of oil as of May 12, 2026 - Fortune",
-        "source": "Fortune",
-        "published": "Tue, 12 May 2026 12:59:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEN0xQSDhnLXplZEFGWUpRd1A4dm9nVnZYZUQxNTYtY0FSQzczMC1kRmpaVEhHUEZYcnpTVUo2bExTeTRtdnlNcUJLYlptT0N6SHEyS19GalljY1IzZ3lZM3hR?oc=5"
-      },
-      {
-        "title": "U.S. Imposes Fresh Sanctions On Iranian Oil Exports To China Ahead Of Trump-Xi Talks - Marine Insight",
-        "source": "Marine Insight",
-        "published": "Tue, 12 May 2026 12:47:58 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQakw0VkJ4T0FUcVF4MG96d1VPaTB0YWdERTJDT29YM2hoV1R2SUg1a2NyX1VRLVdlTWhYSmdEbjJCR1d6TDlpQW8wRS0tdFRwX0d1UU9PSm1iS2FfSmRuT2pBVm5rTkxVcjJFTURlZ2pXbUpKTVBab1lJcDROdUJyN1l2eUNUVUpDSVVpUFVuNEtfOV85TU5yaUh5QzdiT090QUFpR1d2QzBRQ29iSWQyZVk3b2k?oc=5"
-      },
-      {
-        "title": "U.S. Sanctions Hong Kong, UAE & Oman Firms Over Iranian Oil Network - IranWire",
-        "source": "IranWire",
-        "published": "Tue, 12 May 2026 11:54:26 GMT",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ21MZ2p2SlJhd0lneFdsWmtGcUdNSFdyakREWlkxY0tpczF3Q2FCbDRZWWhSVDVVUW9IOU1taWJRUXV4ODNwN2Q3WEhqZlZ5MUNtbXZRMDBSZHJMWDVSLTB0TTFQQVVqU25PNHItdDAxUkx4aVlEUTFOWGNucVZvS0NZc0xPd1NzbUFOWGtQc3c0ZWxicTdmejcwZUpQOVE0?oc=5"
       }
     ]
   }
