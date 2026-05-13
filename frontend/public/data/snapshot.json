@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T13:25:49+00:00",
+  "generated_at": "2026-05-13T16:10:04+00:00",
   "fx": {
     "nzd_per_usd": 1.677341,
     "as_of": "Tue, 12 May 2026 00:02:31 +0000"
@@ -8592,7 +8592,7 @@
       {
         "title": "Energy update: NZ's petrol and diesel stocks up, jet fuel down - 1News",
         "source": "1News",
-        "published": "Wed, 13 May 2026 01:35:34 GMT",
+        "published": "Wed, 13 May 2026 14:57:23 GMT",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNUZzSWFVeVhnOEtKdVFyTURpSEd3a3JvVXJ4bzdVcUN1ZGdIZFlGM1BmT3RNeDB1Rll3TzNqbEg0ZkNhR3d1Nm5ES0VSUmxERkVYdWlQSEs4NUVDWDJSNFQydlFSZlRsQXRsdDRyQ3dsV0Y2YzRERU1MdWk5WG1pU1Q0SGdQZlpTblRDQ2dDTDZRalA5TGkxdFdsRQ?oc=5"
       },
       {
@@ -8626,19 +8626,49 @@
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPenUxVURESndJWHE3TURHemhLQlh1c0tpdnZyRVFiRUFIUVl0NzBKcDViU0NpLXJaTm1sak04SGphLXJqQXV5UEYzMGJLYlV4MnZ5RGpyU1FybENKckNGb0ZHTkRzMXhSdEJjTzdBeDYyVW5LVThUdXA1Zkw2SVM0STEwbWlxcG1fVllLODJ0dw?oc=5"
       },
       {
-        "title": "Possible fuel purchase limits under most extreme alert level phase not yet known - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Mon, 11 May 2026 02:48:29 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcEtNSnlGOWdaYW91enlldUZGTVBVdURjTGY1ZEZEYXpBQjhzOFFLMTlrbUxsNGFVY3FJb0ZnZUNxdVNWWDE3Wm5RaU40ZURxRkVzYjBmVVhfTVZGc3JFS2dSWmF6SVd5YVV2NlZpNTFVd2pZbEJYV2NEZDV2QkxDclMtSlpuNGlmYUhwUVI3RXhHcUNrZUpfSmV1R1ZvRjhsM3dQb3RiVVFzYU9NU1lGcXRIUE5GOFdjZkpKbUtKUnQwQU82YUNQUE5ZbS00dGxlT213?oc=5"
-      },
-      {
         "title": "Petrol up, diesel and jet fuel down in latest NZ stocks update - 1News",
         "source": "1News",
         "published": "Mon, 11 May 2026 02:31:16 GMT",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSXd2bWJvRGtmcGRJdlJMN1MtZ2NwcEhNNWZaRHdzdFVEclZaTGtPSFlKY0NCbmtibGZ0NmR4bjhyamdvdWVYMDNxay1pWHhvS29lOXBpcTY2SHJrdTNxMV9hZU9wYm5xUHJQcC1YOW95VjRTbl82eHBzQVBhNFFqX2VpTmN3WXgwblRYQWt3X2F4TXYwTTMyUzB5RldGdw?oc=5"
+      },
+      {
+        "title": "New Zealand’s stocks of diesel, jet fuel falls - Times.co.nz",
+        "source": "Times.co.nz",
+        "published": "Mon, 11 May 2026 02:24:18 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV2FyZ0NFX0EtaUxCWC0zcEltdjRRT2lzUzV1SDJrVFM2VF9tVDVvaUY0V09vZHJwUzNmVUdBeXZPckpndnFkeTJQZU9Yb0lQNlNpVWw3dV9Nd28zcWptMHhIdk1CN1lEb1h5YWdmVk04M2J4OGl0V1hkdlRTQnEyeUozUEg?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "US government sanctions three individuals, nine companies aiding Iranian oil shipments to China - Cryptonews.net",
+        "source": "Cryptonews.net",
+        "published": "Wed, 13 May 2026 15:47:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NNmVwa3Nxay1FbV9uSktfX2hia3gtVnYzcUhoeE5IMW1mWkJraXFUblBpeG13ZEZiT1h4bkEzZTZJMWFscmg0RHVTZDhGX3psaVVfRmZjMVYyZw?oc=5"
+      },
+      {
+        "title": "How Iran’s ‘dark fleet’ keeps oil flowing despite sanctions - Gulf News",
+        "source": "Gulf News",
+        "published": "Wed, 13 May 2026 15:31:23 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORTFjbVB5YkhBRk9WTjlNZFVBeE9JZDZFOUlmbVhPVlJOUEZHWmQtbzZvcWtXQTNOWTAweWVBRXViNHdkU3QySkpIajlDcWs1Q1BMSll3VzdSa1R4Q2E1Z2E4T2hHdWprV21YcGlZM0ZndFZnTnpNekI0dDZpRXRzc3FuR1B2cVdEekVLMzdqWVhqRGwteFFfWVRwWGNkY0toblk40gG2AUFVX3lxTFBualFGNnluZGM5bFhpREdjZG5FZGpUdGRiZEdFYWVKbnNMOHFXVElocjhjNTRpU05fN1BfREhHZHFwNXJlaFlKT2dLN0NnSms3RWg4M0NVX2FDVkNFTXFoYnpJVjM1QnhTRVlfeGo5YUxYSm8xcWw5MHE5WEhtS0dXQkRJNE5BQlQwNnlZUTBQaFBJQ3JZcGdHV2poa2xPQWtudlRUTlYtbV9lLURxd0had1BtSjZB?oc=5"
+      },
+      {
+        "title": "Global oil supply to plunge below demand this year due to Iran war, IEA says - Reuters",
+        "source": "Reuters",
+        "published": "Wed, 13 May 2026 15:06:08 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNC1Gdm14dUp6NWJBVXBHT1BpOFdOX0Fkclo4cE1BS1E3eWZ5UVJmLVA0QzZFLWFDT0RjbEhEN2VYOExfSllfUHNWbW1ZcUUtSGowTmZGSUQ0enJuNmRWNk1pcHdzS0RqRmdpeHN3SEd6NEdjMGRRUjBkbFR5UFB0YXF0TUtiNjVoQ0FfZjVRSzNEOXg4NTdBc0daUDNHdjNaWWkwdjVCWmwyYkxnNW50V1BZQ0RJcmhU?oc=5"
+      },
+      {
+        "title": "EU buyers maintain appetite for Russian-origin fuel despite sanctions - Global Trade Review (GTR)",
+        "source": "Global Trade Review (GTR)",
+        "published": "Wed, 13 May 2026 14:42:38 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQUpsQ1oyNVpaWWp4T2hkc3VrU2JaSWRoWUxxbTFsd282LWtVdWFRbV9pSVFfc3VHcWdaZ1V5T29yUGlTVkpmTHJTUWF0ejhWQXF6d2tDajlzOVExcGwxbm1VTGJBWWxfVXV2dVlpa3VNX3V5SmFUT01XQzJqXzFBWWtQd25JdExFM0VpYVY1bnY1WU9RVHhZUmpYUzQ1dDNfWEl3SEstM1ZHaTQ?oc=5"
+      },
+      {
+        "title": "Global Oil Supply to Plunge Below Demand This Year Due to Iran War, IEA says - EnergyNow.com",
+        "source": "EnergyNow.com",
+        "published": "Wed, 13 May 2026 13:14:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaVBlWG5DSkFCVzhjMTZxbjlfMkxvZXZwdmJrUlZEUkx2Nm8xRnJRZC0zZFhna0p6VHJ3WTFpSEpCbjN4UHBOQ25lTVNaTFh3RmtRNXl4cWpFZzVLNXJhQ0d3MHg4RHNqSWN6V1g0Q2Nhem16ZkhubU1oVjJyME1hakxRUF8xRVJuZHNGQU5NYk0zeWgzNkt4ZlFnR2hoVEVSV0VabXBNcmdBZw?oc=5"
+      },
       {
         "title": "Factors driving up pump prices are beyond Illinois oil producers’ control - The Edwardsville Intelligencer",
         "source": "The Edwardsville Intelligencer",
@@ -8646,46 +8676,16 @@
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbXZWRExIbVU5UW1Ud20zakN4bld4SG05UFplWlUxTnhUd25GMk5tZldEZnJ4QjJPekpYTXpULUlZcXptM25wQmJUdnAyX3NCYVFsTkV2eXZXaXhOTGNtWU5PbGplRVl1WDR1N3VSOTdfSlpZUEQzRVBYa0VxWmxQRHVNS3dvOXVxOEd1NE5KTV9YOE5qTUVSMHBFUUdXQWhWT0hTRQ?oc=5"
       },
       {
+        "title": "Malaysia says it can do little to stop Iranian-linked oil transfers near its water - AP News",
+        "source": "AP News",
+        "published": "Wed, 13 May 2026 13:07:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObXBNMC1Md3JramdsVDRULW01Mi1wX0l0UmtXVENmTFRNWm9zX0dLNExMSU9lSXNMektpRDBYNXhBYkVsV2UwWTFETjlZQnBINGhkdFlTbG1sd2U4Z3N6QnI3bWtTblVuMUNPeFRJb0xBdzU5UGo3ME44dDdxSmpfNDVCVzdkVWtVTlYxTE9uNFJPc2h4VUpGcF80amJxQW93OW1HQmxtWkVqb0U?oc=5"
+      },
+      {
         "title": "Current price of oil as of May 13, 2026 - Fortune",
         "source": "Fortune",
         "published": "Wed, 13 May 2026 12:59:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kbUVrckRsOUhYc0dxOUZXTURhS2FoZjM3a3FiRUNnN2MwTnFPb3VJb2ZjdF9JVmVSR0RhcHNac2FXU09YRlF0LVRDbGU1TmY0aEx5cDAzUFh0LVZkcEFxSzVB?oc=5"
-      },
-      {
-        "title": "Countries tapping into oil stocks at record pace: IEA | Daily Sabah - Daily Sabah",
-        "source": "Daily Sabah",
-        "published": "Wed, 13 May 2026 11:43:50 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRnl4dmRxUldfU1NNSGowME9SSjdNZWt5SjZta283aE9LWURxanJUTkxrZktRUTFsb0IyaDlPdXAybFdaV1dScXdiaS1MOUFsaFRUeWZscjNoR09MMTNtbXBzcDJBMXVDU2J5R1BZTjVxNDJoUWg3THhJZ0llY0xpME1pNXMyd1lLTzVjcFZFSU04TUJFYVdZT090QdIBoAFBVV95cUxQdW5KMFd5VjYzMS1TU0M0bmcyTngwSFV6dXl4aUd4U1NodFVQel9QaUVPa0VUYl9KcVBLeDlUWl9PY2dvSEtpY1F1cmRxUVBkTTN2VkdkS2kyMW9CNXF4ekxTY1lnck5JOVYtNU5sdVQ5VFl3R05LbW1aYXFVQVQ4RklCS19mNTNUVnpUS19XUUZWd2FMVzZUckotb1gyeGRo?oc=5"
-      },
-      {
-        "title": "Should You Trim XOM and CVX as WTI Pushes Above $100? - Gotrade",
-        "source": "Gotrade",
-        "published": "Wed, 13 May 2026 11:20:46 GMT",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfajBnRGMtNi1LeWhMQW1uWWVSQmQ1QW9Td0RRQzVuNlpjcXljRXBGM1dQb2ZaWDlTaV80Yk83OTNqYjhaV2RYSXYxbUFaOGQtTDN5dy1SOElTeld3d0ZQYXVUV3VldHFfcHh0SV8wbw?oc=5"
-      },
-      {
-        "title": "JP Morgan Publishes First Oil Price Forecast in 2 Months - Rigzone",
-        "source": "Rigzone",
-        "published": "Wed, 13 May 2026 11:17:38 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdW01Z0E1aXFQOE54M2xyT3hRdUNXX3VkY0FTUWNEaTlZSWNaSVBRMjl3Z0hfZ19qeXh1Qi1TRDBWNlRzX3pvWnE2MVpJMEFZRl9xeV83LUZBTjZ2eU1ualVXZnNaLXNOaE1XemdoM0Q5Zkd0MWdONUdBNWlsZEF1NFBsVU42alF6NFhXR2tfeU5QN3A1MVA1SzJSTTJiNTFBbXpLVTVYUWJJdlJBUU1ZOTZZYw?oc=5"
-      },
-      {
-        "title": "Russia’s Oil Export Revenue Saw Continued Growth in April, IEA Says - The Moscow Times",
-        "source": "The Moscow Times",
-        "published": "Wed, 13 May 2026 11:09:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQmVURVkwVjZVR2hZclJkdkRRVEdWMGZCMXQ1R3VXV0hQcUU5SEYyb3J5VjFpVXNIYk1fakk2VVNWcUtiay1mOWJTclFYR1hwT2lMT25VYXJUQmNjUVZvNHBzenpjZFhrTWlqd3RoQ2JrY0dHMDJpVDhIdnFkODBYMXVlVXpyZmQ5N1IzZUxMaXkyV1lGdDNxOFc5NFo3a1RlekVNcXl5VEc4LWxmSTlDTGs2ZkY?oc=5"
-      },
-      {
-        "title": "IEA Warns of Oil Supply Deficit in 2026 - Egypt Oil & Gas",
-        "source": "Egypt Oil & Gas",
-        "published": "Wed, 13 May 2026 10:44:18 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85RU5vck12d2V1N3dqMWY4M1piUFZYWXRHZ1RwbkpEN0NZaktJSUxCeHhIUTBRWjFVamJjbVNKR3lXUGdxQ1hvTk45UVBiNjl5U3E5aUdJaXFvOHJlNU8zT0hMZFNwcmNIZDBBWjJ3TWhQSGs1bFZUanVB?oc=5"
-      },
-      {
-        "title": "Hormuz oil shock tilts shipping towards alternative fuels - ING THINK economic and financial analysis | ING THINK",
-        "source": "ING THINK economic and financial analysis | ING THINK",
-        "published": "Wed, 13 May 2026 10:43:49 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM1RsdHRJMkJfS1c3U3ZIYkItZDNHRk52TUZEeUtfQm9hSTgzdlJYOFBfOFJWdmVHWGVmdlFreDlzMHRKdVV2QTVYNHBsSDZxWXk5Vnl3MEZNT3B4ZzhkWEY3T0FkTnJFN0lJQkswOW1QQXBOaWVneHRnWlFILWM4TGtqdlNiRUkzUWYzWWI2VG5veFE?oc=5"
       }
     ]
   }
