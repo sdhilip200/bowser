@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-05-13T18:22:28+00:00",
+  "generated_at": "2026-05-13T19:55:00+00:00",
   "fx": {
-    "nzd_per_usd": 1.677341,
-    "as_of": "Tue, 12 May 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.680977,
+    "as_of": "Wed, 13 May 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 107.82,
-      "latest_date": "2026-05-12",
-      "delta_1d_pct": 3.46,
-      "delta_30d_pct": -4.4,
+      "latest": 105.83,
+      "latest_date": "2026-05-13",
+      "delta_1d_pct": -1.8,
+      "delta_30d_pct": -10.58,
       "series": [
-        {
-          "date": "2025-05-12",
-          "usd": 64.96
-        },
         {
           "date": "2025-05-13",
           "usd": 66.63
@@ -1021,20 +1017,20 @@
         },
         {
           "date": "2026-05-12",
-          "usd": 107.82
+          "usd": 107.77
+        },
+        {
+          "date": "2026-05-13",
+          "usd": 105.83
         }
       ]
     },
     "wti": {
-      "latest": 102.41,
-      "latest_date": "2026-05-12",
-      "delta_1d_pct": 4.43,
-      "delta_30d_pct": -0.46,
+      "latest": 101.2,
+      "latest_date": "2026-05-13",
+      "delta_1d_pct": -0.96,
+      "delta_30d_pct": -0.18,
       "series": [
-        {
-          "date": "2025-05-12",
-          "usd": 61.95
-        },
         {
           "date": "2025-05-13",
           "usd": 63.67
@@ -2041,36 +2037,40 @@
         },
         {
           "date": "2026-05-12",
-          "usd": 102.41
+          "usd": 102.18
+        },
+        {
+          "date": "2026-05-13",
+          "usd": 101.2
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-05-12",
+    "as_of": "2026-05-13",
     "regular_91": {
-      "avg": 3.251,
+      "avg": 3.247,
       "min": 3.099,
-      "max": 3.599,
-      "count": 64
+      "max": 3.649,
+      "count": 73
     },
     "premium_95": {
-      "avg": 3.445,
+      "avg": 3.42,
       "min": 3.139,
-      "max": 3.659,
-      "count": 31
+      "max": 3.619,
+      "count": 29
     },
     "premium_98": {
-      "avg": 3.575,
-      "min": 3.509,
-      "max": 3.618,
+      "avg": 3.511,
+      "min": 3.389,
+      "max": 3.579,
       "count": 5
     },
     "diesel": {
-      "avg": 3.233,
+      "avg": 3.224,
       "min": 2.899,
       "max": 4.188,
-      "count": 81
+      "count": 79
     },
     "lpg": {
       "avg": 0.0,
@@ -2078,8 +2078,8 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 92,
-    "observations_yesterday": 83,
+    "observations_today": 95,
+    "observations_yesterday": 85,
     "observations_older": 6
   },
   "mbie_waterfall": {
@@ -8592,7 +8592,7 @@
       {
         "title": "Fuel price surge hits transport fund, project delays feared - 1News",
         "source": "1News",
-        "published": "Wed, 13 May 2026 18:03:47 GMT",
+        "published": "Wed, 13 May 2026 18:36:45 GMT",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUGs3akU4eTI5Ml9mRW5VVGNxeWtILXFYSExHZ2dJWFBva1VPU19ZS0UxYVFNbDBkVGtIUF9tRE8zYUJHMEdKaUZ6MzFHRzljUU1DOEZWTTdnMENZOVp5QmJES3I0SVRndVhFVFpBTDBwUUZzNDNvbjluWE9pUktfc3BoZXhhNGZwSkZuempQbERVWnhjeTU1MHlB?oc=5"
       },
       {
@@ -8632,13 +8632,31 @@
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPenUxVURESndJWHE3TURHemhLQlh1c0tpdnZyRVFiRUFIUVl0NzBKcDViU0NpLXJaTm1sak04SGphLXJqQXV5UEYzMGJLYlV4MnZ5RGpyU1FybENKckNGb0ZHTkRzMXhSdEJjTzdBeDYyVW5LVThUdXA1Zkw2SVM0STEwbWlxcG1fVllLODJ0dw?oc=5"
       },
       {
-        "title": "Possible fuel purchase limits under most extreme alert level phase not yet known - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Mon, 11 May 2026 02:48:29 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcEtNSnlGOWdaYW91enlldUZGTVBVdURjTGY1ZEZEYXpBQjhzOFFLMTlrbUxsNGFVY3FJb0ZnZUNxdVNWWDE3Wm5RaU40ZURxRkVzYjBmVVhfTVZGc3JFS2dSWmF6SVd5YVV2NlZpNTFVd2pZbEJYV2NEZDV2QkxDclMtSlpuNGlmYUhwUVI3RXhHcUNrZUpfSmV1R1ZvRjhsM3dQb3RiVVFzYU9NU1lGcXRIUE5GOFdjZkpKbUtKUnQwQU82YUNQUE5ZbS00dGxlT213?oc=5"
+        "title": "Petrol up, diesel and jet fuel down in latest NZ stocks update - 1News",
+        "source": "1News",
+        "published": "Mon, 11 May 2026 02:31:16 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSXd2bWJvRGtmcGRJdlJMN1MtZ2NwcEhNNWZaRHdzdFVEclZaTGtPSFlKY0NCbmtibGZ0NmR4bjhyamdvdWVYMDNxay1pWHhvS29lOXBpcTY2SHJrdTNxMV9hZU9wYm5xUHJQcC1YOW95VjRTbl82eHBzQVBhNFFqX2VpTmN3WXgwblRYQWt3X2F4TXYwTTMyUzB5RldGdw?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Natural Gas, WTI Oil, Brent Oil Forecasts – Oil Retreats As Trump Arrives In China - FXEmpire",
+        "source": "FXEmpire",
+        "published": "Wed, 13 May 2026 19:04:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ0otMzN6LTBvSnpmTXZKaTUzM0JCX19OazZfUDl0RDN5X0ViVmpWdHNXRl9xalFZeV9Yd1FQNWFhaDY0TGQ5R1p6bDlTV3Q0WFdvVDdubUpqZUtweE00S3MyT25TY3Y2YzBJUERza0gwR0xTTHhFdks0M004UVdYMm5XRkdkbkV5cXRiakptTldBV1ZGdms1dnBxMkJtX2dzTEp5ZmFRU2pJcVNCZGszbHB0Qmw1V25ma1pkQlk2X2pkN3d0YXV2TQ?oc=5"
+      },
+      {
+        "title": "China's Invisible Hand Is Distorting Global Oil Markets - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Wed, 13 May 2026 19:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeTR0dF9ub3djU1pDZXgxUXFuaFlXTDhlQ3B4c3l6TTRTSm1mZXpIbm1yMzFjZnU4VHZSVHVWM2RlLTNCeE1jMllzUEZ5RHQ5eV9vRXNGa2g4MmlFOHBjMUdlSGZnRUtPRl9sZC13LUszeHgwbnptV0o4Sy1XWHVaMUZhTGJ5SFJ3UGNEdTloZDJVakZqamU2Qk01bjBoZ9IBowFBVV95cUxPRHBhdmZOZllrZ0F1N09qcTZZVE53WlNvVW5JdUhBXzQzOXVPdnlLd0xwU2ljZm92Y3FIczMxa2ltNTY2UTUteE9JYTFTOE1qR0F3RGJwNVpQTTVKSXFkNkl1WXc0eHJVSHI0amhyTGhFWnpEWUVHcHdWOWRrUzRzUmZkOU5nWWVMSXVlcGRiaXREYmQ5d2ZvbHFmSVNqemRjOTg4?oc=5"
+      },
+      {
+        "title": "June WTI Crude Oil Contract Closes Down US$1.16; Settles at US$101.02 per Barrel - marketscreener.com",
+        "source": "marketscreener.com",
+        "published": "Wed, 13 May 2026 18:35:18 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdDlZNmJRaWJJRWxYZW8wZ2VwdVd1ZHJyVVhmdHNHQnltbW9tZUd6cXVCUDRXVHRpSHJPMEhUcWkycHB6eWJtdndzdEFWMEg3Z1VYS29RNEtoYXozS0x4S2VaeW45SzhhczZqY19UTDIwUUlZdWx0WGRNNHoySTFFOXRpUU9TRFVscGdnSUptMVFxNW15QWd1Y19rMXVpR3c3LVpsUHRudW4tV1ZHQnlmNXhMX2x0NGdldUJYOUV3SmVxdkRnTzJYRXJMaG0?oc=5"
+      },
       {
         "title": "Oil News: Crude Oil Futures Hold $100 as IEA Warns of Historic Supply Crisis - FXEmpire",
         "source": "FXEmpire",
@@ -8668,24 +8686,6 @@
         "source": "Reuters",
         "published": "Wed, 13 May 2026 15:37:42 GMT",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSW9wcEdkZlp2dTREa21XeXJ0ZFpkSko3SGJxMXZrRlJURllqQnVhLWY0OTNmRXZLek93UFNBSzlvdzY4YjhuQTVuQ0VYa1FtYndIVHBJOENmendWUmRrUWMzR0d5bDRSQTlaMGVmcUlOOFYwQlhEUlJqcGlSdmpaandzUzh5dkdHNXhuSmxnZ0l2TUQ0ODBFNEw3OWNyNlRVR0gzbjAyTmtYX0xlTUVxWXRrMjNLVG1oY1F3?oc=5"
-      },
-      {
-        "title": "How Iran’s ‘dark fleet’ keeps oil flowing despite sanctions - Gulf News",
-        "source": "Gulf News",
-        "published": "Wed, 13 May 2026 15:31:23 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORTFjbVB5YkhBRk9WTjlNZFVBeE9JZDZFOUlmbVhPVlJOUEZHWmQtbzZvcWtXQTNOWTAweWVBRXViNHdkU3QySkpIajlDcWs1Q1BMSll3VzdSa1R4Q2E1Z2E4T2hHdWprV21YcGlZM0ZndFZnTnpNekI0dDZpRXRzc3FuR1B2cVdEekVLMzdqWVhqRGwteFFfWVRwWGNkY0toblk40gG2AUFVX3lxTFBualFGNnluZGM5bFhpREdjZG5FZGpUdGRiZEdFYWVKbnNMOHFXVElocjhjNTRpU05fN1BfREhHZHFwNXJlaFlKT2dLN0NnSms3RWg4M0NVX2FDVkNFTXFoYnpJVjM1QnhTRVlfeGo5YUxYSm8xcWw5MHE5WEhtS0dXQkRJNE5BQlQwNnlZUTBQaFBJQ3JZcGdHV2poa2xPQWtudlRUTlYtbV9lLURxd0had1BtSjZB?oc=5"
-      },
-      {
-        "title": "Malaysia says Iranian oil transfers near its waters exploit a maritime loophole - AP News",
-        "source": "AP News",
-        "published": "Wed, 13 May 2026 15:08:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObXBNMC1Md3JramdsVDRULW01Mi1wX0l0UmtXVENmTFRNWm9zX0dLNExMSU9lSXNMektpRDBYNXhBYkVsV2UwWTFETjlZQnBINGhkdFlTbG1sd2U4Z3N6QnI3bWtTblVuMUNPeFRJb0xBdzU5UGo3ME44dDdxSmpfNDVCVzdkVWtVTlYxTE9uNFJPc2h4VUpGcF80amJxQW93OW1HQmxtWkVqb0U?oc=5"
-      },
-      {
-        "title": "Global oil supply to plunge below demand this year due to Iran war, IEA says - Reuters",
-        "source": "Reuters",
-        "published": "Wed, 13 May 2026 15:06:08 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNC1Gdm14dUp6NWJBVXBHT1BpOFdOX0Fkclo4cE1BS1E3eWZ5UVJmLVA0QzZFLWFDT0RjbEhEN2VYOExfSllfUHNWbW1ZcUUtSGowTmZGSUQ0enJuNmRWNk1pcHdzS0RqRmdpeHN3SEd6NEdjMGRRUjBkbFR5UFB0YXF0TUtiNjVoQ0FfZjVRSzNEOXg4NTdBc0daUDNHdjNaWWkwdjVCWmwyYkxnNW50V1BZQ0RJcmhU?oc=5"
       }
     ]
   }
