@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-05-14T19:15:52+00:00",
+  "generated_at": "2026-05-14T19:45:53+00:00",
   "fx": {
-    "nzd_per_usd": 1.680977,
-    "as_of": "Wed, 13 May 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.685607,
+    "as_of": "Thu, 14 May 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 105.83,
-      "latest_date": "2026-05-13",
-      "delta_1d_pct": -1.8,
-      "delta_30d_pct": -10.58,
+      "latest": 106.28,
+      "latest_date": "2026-05-14",
+      "delta_1d_pct": 0.62,
+      "delta_30d_pct": 5.06,
       "series": [
-        {
-          "date": "2025-05-13",
-          "usd": 66.63
-        },
         {
           "date": "2025-05-14",
           "usd": 66.09
@@ -1021,20 +1017,20 @@
         },
         {
           "date": "2026-05-13",
-          "usd": 105.83
+          "usd": 105.63
+        },
+        {
+          "date": "2026-05-14",
+          "usd": 106.28
         }
       ]
     },
     "wti": {
-      "latest": 101.2,
-      "latest_date": "2026-05-13",
-      "delta_1d_pct": -0.96,
-      "delta_30d_pct": -0.18,
+      "latest": 101.81,
+      "latest_date": "2026-05-14",
+      "delta_1d_pct": 0.78,
+      "delta_30d_pct": 1.69,
       "series": [
-        {
-          "date": "2025-05-13",
-          "usd": 63.67
-        },
         {
           "date": "2025-05-14",
           "usd": 63.15
@@ -2041,45 +2037,49 @@
         },
         {
           "date": "2026-05-13",
-          "usd": 101.2
+          "usd": 101.02
+        },
+        {
+          "date": "2026-05-14",
+          "usd": 101.81
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-05-13",
+    "as_of": "2026-05-14",
     "regular_91": {
-      "avg": 3.247,
-      "min": 3.099,
-      "max": 3.649,
-      "count": 73
+      "avg": 3.213,
+      "min": 2.979,
+      "max": 3.459,
+      "count": 62
     },
     "premium_95": {
-      "avg": 3.42,
-      "min": 3.139,
-      "max": 3.619,
+      "avg": 3.399,
+      "min": 3.009,
+      "max": 3.869,
       "count": 29
     },
     "premium_98": {
-      "avg": 3.511,
-      "min": 3.389,
-      "max": 3.579,
-      "count": 5
+      "avg": 3.373,
+      "min": 2.509,
+      "max": 3.659,
+      "count": 8
     },
     "diesel": {
-      "avg": 3.224,
-      "min": 2.899,
+      "avg": 3.194,
+      "min": 2.759,
       "max": 4.188,
       "count": 79
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 2.729,
+      "min": 1.959,
+      "max": 3.499,
+      "count": 2
     },
-    "observations_today": 95,
-    "observations_yesterday": 85,
+    "observations_today": 81,
+    "observations_yesterday": 93,
     "observations_older": 6
   },
   "mbie_waterfall": {
@@ -8640,6 +8640,12 @@
     ],
     "global": [
       {
+        "title": "Western Sanctions Fail to Cap Russia's Oil Windfall - Energy Intelligence",
+        "source": "Energy Intelligence",
+        "published": "Thu, 14 May 2026 19:20:03 GMT",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HcTlOM2JjWkJ6LUFibG5qVUtJNDF4Wl9XODE1UXB2MzhGRk9TSnlSZnExYTFjNXZZZVdIVmxnTGhJSW9LaTFQYjVIZFdhRF83TC02N0pRYU9uMS1FekpKSUJyTXM5TFBicnRld2dmUWFxdw?oc=5"
+      },
+      {
         "title": "Brent, WTI Crude Prices, May 14, 2026 - Energy Intelligence",
         "source": "Energy Intelligence",
         "published": "Thu, 14 May 2026 17:28:33 GMT",
@@ -8650,12 +8656,6 @@
         "source": "Oil & Gas 360",
         "published": "Thu, 14 May 2026 17:09:15 GMT",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Nd2JyOVNlNlZRSGU2ZVhSc3lYemU0ZmJPbHJIeHF3Q0JVWlhadzByVlZrNzdXZHFsUFhKdU1iaUlRNjhsY2hidTBqY3p0MFNVSGlyVXJpTHU4MGxnUkVqQXpiZ0hjdw?oc=5"
-      },
-      {
-        "title": "External Affairs Minister Jaishankar hits out at ‘unilateral’ sanctions days before expiry of U.S.’ Russian oil waiver - The Hindu",
-        "source": "The Hindu",
-        "published": "Thu, 14 May 2026 16:03:59 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNR25PWm43Z2paNUVPd3BxNjJYUDF2b1dIM0dfQy1tWE1UZ01vNDFjVUJJQW9OTHFpNkV5LTdOdkVrNGlTMWJYYWIzekRWNnFfUkFqTl8xWDdrNmZkYzZVNXJwVklrVVFTajBjLU5BYjRyRXlQemE3bXdQS0haUXVlRVplUGFxSHJDcmRMU3FLZkJEZHIzWVpsanlLUFh1TC1rRjZlbkhpenltNGs5aFlpWl9QaEM2WEZ0R0NObl9naUd4SUdHN0FRZnFPbk1ITE5Wd0RrWWtCVzBiN0szMzF3Z2ZsVHZfdmZyWXdsWkVwQk10bDF3Z2NwVGhxZHVCTkh4QnfSAYgCQVVfeXFMT3F6b1pLU1NuczFZdFFfa1M5TlFmaG0xRnFyTG5ESUNYZ0IwNmdDVVBWb1paekdxMDNLLW5KTzFpaGZEYzJoU29ETnlpd3RhOEJmaC1SZWphUjhhOXlVUk9pTFBxN0UzSElXSV9Vc3Exc1lGN200NmllYnhRel80YVVaTExSanBUblludTdXdm9ubDJneU15YlF5ZG02ZVg2aGZidXNxQkFCM2dBb2VnZU5ZNHFGOTY3c1Zac1M3Z3llYTdtcElGQVBXemZaNGJyOFJ3MGUzem9pZDZxajI1eVVwVjdtNV83ZFAxS0o0R0VsSnRKbEZ3eDFIelhhOS1halM0TUc3YTUt?oc=5"
       },
       {
         "title": "Oil Prices Waver as Trump Meets China’s Xi to Discuss Strait of Hormuz - The New York Times",
@@ -8676,10 +8676,10 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdjdySGUyM1hvLTRodExjQldwcTlocnYtR0tJT2cyOXk4M2JJc3NHLXR6Slh2MlV6a256Mlh1a2VXenFyaTV4WHZXNFIydExDbnZBekEweDVLUGlkRjhtRmJOWlo2QXlZV2V1M0VDRDBYazF6M29fSk5UZXNGN3dBdWJBWE5lOHh5WjVKUHZYVDBzM0trRE4xWnhKSQ?oc=5"
       },
       {
-        "title": "Crude oil prices may fall to USD 79/barrel by 2027: US Energy Administration - MSN",
-        "source": "MSN",
-        "published": "Thu, 14 May 2026 13:19:52 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaGFXZXZ4emtRY3dzUzFYbWtRWlBvUUdqMV9wUVRyRGZRdWVoZzktN3RRczlZRHF1ejBfY3RSWFFDOEpCY003TXpOVF9JTHo4eGFIOGRTWnB6SHlOdXJVR19YaUxaajRHV0pxek9jLTZFZ3VSaHc5aDdNUjZlNi1NUVZlcGJUcDRWTDk5bkVnVmlNUWVucmM2WkcwZU9IcUR5YktOT29vWHQ1Yld4aGtXMHpBcHg0dG1kM0s4cC1lSlBqTmlmbzM2Q2JCaENrT0ZsTC1WWUZrWGFrbjhuNTV0Qzc3U0M?oc=5"
+        "title": "Middle East Conflict Reshapes Plastics Industry - PlasticsToday",
+        "source": "PlasticsToday",
+        "published": "Thu, 14 May 2026 13:23:05 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbHB3aVJzLS1rdXFHaFFaQkFVd1Vwa2gySklIeVlLTlQ1bkVGWk1YU3E2THRfZTExVlhKdGRrVmNZbk54eUdQSjJjLWtCUTloNnctNW53UlZRZWJhejhMa3JDSElHS21yQlR4d3pKb2RVWHYzb25oc0JvUzZrOXF3bnZJcHFKTTZiXzNNcDBjMzlfbHlfQTNyWEFjR0c?oc=5"
       },
       {
         "title": "Current price of oil as of May 14, 2026 - Fortune",
