@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T01:23:52+00:00",
+  "generated_at": "2026-05-14T05:08:02+00:00",
   "fx": {
     "nzd_per_usd": 1.680977,
     "as_of": "Wed, 13 May 2026 00:02:31 +0000"
@@ -8590,9 +8590,15 @@
   "news": {
     "nz": [
       {
+        "title": "Air NZ expecting loss of up to $390m amid fuel price surge - 1News",
+        "source": "1News",
+        "published": "Thu, 14 May 2026 04:26:24 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVWtuZWNNdUQxSHl1ZUltVTVESUExakFxMmQzczZZa3BJdDJ5RUZUc0lndVhwMXVDYWlxN2RuLVVZYUlxVWRwVm13dXYzdklQVE1DWHJFSzlXTjU5VGp5YkhfOG1XR0dGeEFwLU9iU28xWVZoWkVNY00yWlpuOFE5WVRjU3g4V09wMEt5NmdlcS1Ra2JZdGJPMw?oc=5"
+      },
+      {
         "title": "Fuel price surge hits transport fund, project delays feared - 1News",
         "source": "1News",
-        "published": "Thu, 14 May 2026 00:52:54 GMT",
+        "published": "Thu, 14 May 2026 03:49:52 GMT",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUGs3akU4eTI5Ml9mRW5VVGNxeWtILXFYSExHZ2dJWFBva1VPU19ZS0UxYVFNbDBkVGtIUF9tRE8zYUJHMEdKaUZ6MzFHRzljUU1DOEZWTTdnMENZOVp5QmJES3I0SVRndVhFVFpBTDBwUUZzNDNvbjluWE9pUktfc3BoZXhhNGZwSkZuempQbERVWnhjeTU1MHlB?oc=5"
       },
       {
@@ -8602,22 +8608,10 @@
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZEd3UWVIUmpkdTlHbTNuQWhaYWZsdlg4OE1rallScXFJeDRtOXZRSThWNWlYVmdubWdSVFlodU1pTWRHX1MyYVZ2OHY5VjJXY1hVZ09qT21JOF95YVVUUV9ueUVJRmhpOWJ2eURqUjVoUU82SXY1R2xxSHZGb1ZnYVhrUnNMQ21teXZENEhDUXl6eFo2cGtfY0ZlWVp4blhj?oc=5"
       },
       {
-        "title": "Energy update: NZ's petrol and diesel stocks up, jet fuel down - 1News",
-        "source": "1News",
-        "published": "Wed, 13 May 2026 23:25:03 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNUZzSWFVeVhnOEtKdVFyTURpSEd3a3JvVXJ4bzdVcUN1ZGdIZFlGM1BmT3RNeDB1Rll3TzNqbEg0ZkNhR3d1Nm5ES0VSUmxERkVYdWlQSEs4NUVDWDJSNFQydlFSZlRsQXRsdDRyQ3dsV0Y2YzRERU1MdWk5WG1pU1Q0SGdQZlpTblRDQ2dDTDZRalA5TGkxdFdsRQ?oc=5"
-      },
-      {
         "title": "Air NZ sees annual loss of up to $390m as half-year fuel costs hit $980m - Interest.co.nz",
         "source": "Interest.co.nz",
         "published": "Wed, 13 May 2026 23:14:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb3dNRDdNUWZsazA4aWVqMXBMSWtHQ3hfSWhIUTM5UkozS2RXa2JPRGthUFV5VWN0dVNFZ0w5S21QcWVfRWVaM212Z25LN2FCeWM3SUw5czFlTVkzZ2tKUl95Y2xSa21nM3NWdFEzRkozaE9GUmNrNDZnTURfSGo2RGVmNUpUZl9VMlJsdExDdzUybFp1ZVJ0UXZWb3B0U3VxWktfZ0EtZ2hEQ3F1NU9sQmVDc3Z2RFJsM3gxMWFtQ1B6UQ?oc=5"
-      },
-      {
-        "title": "Air NZ expecting loss of up to $390m amid fuel price surge - 1News",
-        "source": "1News",
-        "published": "Wed, 13 May 2026 23:13:49 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVWtuZWNNdUQxSHl1ZUltVTVESUExakFxMmQzczZZa3BJdDJ5RUZUc0lndVhwMXVDYWlxN2RuLVVZYUlxVWRwVm13dXYzdklQVE1DWHJFSzlXTjU5VGp5YkhfOG1XR0dGeEFwLU9iU28xWVZoWkVNY00yWlpuOFE5WVRjU3g4V09wMEt5NmdlcS1Ra2JZdGJPMw?oc=5"
       },
       {
         "title": "Air NZ bracing for big hit as fuel costs soar - Otago Daily Times",
@@ -8626,9 +8620,9 @@
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00ZFBBaVBaVE90VG9YTm82aHcta1hBank5a3o3cVJPMXNFdEtLcTlydWEwRWR5eWdieHV4d0g1Y01GZmNBVmdjZnJvU2g0bXJ4UXZwV19vRW9FNHE2VGRpbVNxcmlCOG56N0JnazFGRkRGbVVCUEFjOQ?oc=5"
       },
       {
-        "title": "Air NZ warns of biggest loss in 4 years as Middle East war drives up fuel costs - Reuters",
+        "title": "Air NZ warns of largest loss in four years as Iran war sends fuel cost soaring - Reuters",
         "source": "Reuters",
-        "published": "Wed, 13 May 2026 21:51:43 GMT",
+        "published": "Wed, 13 May 2026 21:51:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbjF0WmdHbG5PYTBhWjhtLW1acHlEWmVKRnJZenN1b0NMVlZaYmRSVTVNakgtU1lMS2E5TGp3alAxd0IyWmMzYzFRcjc5TTNLQUUtdFRCUWM5RUoyS1BfdDNMVVFZdzM2NkJpZnVaZ0YwbE1TQlNra3RIdl9hNjd3OFdOZWpuS19MRzJNNXg1R1hjbTk5c0NLMjlnLWpreWNzUUw5MVp6ZkxYbUYzV1BEdFJndGJtNWozRjJ3dnVYeHNLSVE?oc=5"
       },
       {
@@ -8636,14 +8630,50 @@
         "source": "Stuff",
         "published": "Wed, 13 May 2026 21:29:07 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZkJ4N1FJSGlEMzY0UmJRM3hxcENBY1hsQTN0OUNxY0pWZXZlXzNTWl9rNkVOaU1MbmM3TThUUTduejRLdHBxQTI1YS1QLURPcmhrd2tCcG5XNkJBVW9oU0JDRndoRENTTUs5eEFlNkdwQWtLdVFzbjdUVldEcjhIZ1JpYXlDRlUwdnRfd0Y1ZlBJRGRXUXF6M205ckNHRk9PTEE?oc=5"
+      },
+      {
+        "title": "Energy update: NZ's petrol and diesel stocks up, jet fuel down - 1News",
+        "source": "1News",
+        "published": "Wed, 13 May 2026 01:35:34 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNUZzSWFVeVhnOEtKdVFyTURpSEd3a3JvVXJ4bzdVcUN1ZGdIZFlGM1BmT3RNeDB1Rll3TzNqbEg0ZkNhR3d1Nm5ES0VSUmxERkVYdWlQSEs4NUVDWDJSNFQydlFSZlRsQXRsdDRyQ3dsV0Y2YzRERU1MdWk5WG1pU1Q0SGdQZlpTblRDQ2dDTDZRalA5TGkxdFdsRQ?oc=5"
       }
     ],
     "global": [
       {
-        "title": "WTI slips below $97.00 ahead of Trump-Xi meeting - FXStreet",
-        "source": "FXStreet",
-        "published": "Thu, 14 May 2026 00:59:34 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSmExUE5kMUFHdm1VNTVZVHZKd3VZcnZUT1o4aWp6VVlKRjcxN2hhbjE5QU05Y21GYkFKNFFvdjVWcUFSZmN1Z0ZzUllnU3RlbEZzVkMtTWN6X0E4Y3pfdGdVcFpFcjNaYlFzRHZfZnpyLXVudS1qVUNzQVBYMmFyMloxei1JaGM2U3l3MEhQbWN2LU0?oc=5"
+        "title": "Oil Price Forecast: Trump-Xi Talks and Hormuz Risk Keep Brent Above $100 - FXEmpire",
+        "source": "FXEmpire",
+        "published": "Thu, 14 May 2026 04:40:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaWhLR2dwc3lPeTZKTWVRSFZ5aVNkV08ydVRIRmhycmlKR3dZRzBQTldQY2t1SVNvc29lVkZaRlJJLUNFakEyckFPSHNHenMtYWNIblFacnV6X1NzckZVSVZGM0tKSVNpaDNBc3ZTbWl3cjY4bHp6aTZjNFdaUzhZWHhYT0VrWGVXbUM0cDJKT0NoWkxBM2dMNHFvSUw2Nm5YOGxRYVp6UUhRZk5rcXBrcDNxWnU3Q3VGZlpnVmZR?oc=5"
+      },
+      {
+        "title": "Oil prices rise to $106.1 as focus shifts to Trump-Xi meeting - Economy Middle East",
+        "source": "Economy Middle East",
+        "published": "Thu, 14 May 2026 04:29:23 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVTdlejJESUJOQmNlVVdWdGp2WkdvTDMtM3h5LWZhMUszU01zbDlSbWpqVWk5TE1ncGtrQld6eUt2MVlTblQwc0c4V3NlZVI3Z3dLZ0ZUdi1xc2tqRURSbDdNMFU3a2w1NlJYbkQxRVhjX09FXzE2eEh3bVRVU1ZSWjhkdWpZcWptTXBpem40UkNBczdCbWJVcEthUWE?oc=5"
+      },
+      {
+        "title": "Iran-linked 'shadow fleet' exploiting maritime loophole for sanctioned oil transfers, Malaysia says - AP News",
+        "source": "AP News",
+        "published": "Thu, 14 May 2026 03:33:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObXBNMC1Md3JramdsVDRULW01Mi1wX0l0UmtXVENmTFRNWm9zX0dLNExMSU9lSXNMektpRDBYNXhBYkVsV2UwWTFETjlZQnBINGhkdFlTbG1sd2U4Z3N6QnI3bWtTblVuMUNPeFRJb0xBdzU5UGo3ME44dDdxSmpfNDVCVzdkVWtVTlYxTE9uNFJPc2h4VUpGcF80amJxQW93OW1HQmxtWkVqb0U?oc=5"
+      },
+      {
+        "title": "Supply shock: The Iran war will change the oil market forever - SMH.com.au",
+        "source": "SMH.com.au",
+        "published": "Thu, 14 May 2026 01:59:59 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU0pkMmxuUWdGWkRVeUdja1Z4emp5RFlkN3F4NlJZLWFaX3huZnpUNXR3bjFUWGhlR2F3dTNKYkNVQnB4cGpJcWpRSGRET1VydkhlVVpid1ZwNWluQk5IaU5zQnlMU245aDdMdEJmSzZOaFJBbzZFZThqbzBEOEYtUUttRHpYNVJ5bUx0djlLSlNJQ0VXV1ZneE5rSVFFdzNCanRhQlFiM21fTGo2NnV0RVh3eFNqdWltS0szTHlR?oc=5"
+      },
+      {
+        "title": "Oil rises as IEA flags greater volatility ahead, OPEC cuts demand forecast - CNBC",
+        "source": "CNBC",
+        "published": "Thu, 14 May 2026 01:46:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSjJTLWZ3Z2NhOVNUaTBJYmN6OGsxaGZyckF4bHpBZWFZVlBGNmR0cGI0TEQyYnpxSlhUTHhqVG1mTGVmTXNoR0htRU1IZ1ZvdGxCU0gyRUVmcE5PY3BpbV9ubUpFNFdNZGt4TFN3blJ5LVVzeGZNV3FFUmE0TUlPSXlJYl95NWYzc2JfMTVJSTDSAZYBQVVfeXFMTXg1eVlzZ00wZUFXcEk3MHVfNVM0N3NaMVVkYm1LV2ctUG9QdXVtSkdSb0QtbHNOd0kzemszTm1oVXQ4OHFkOUgwZE9jOFprTkhYbGNKNHJBX0U5TkpFWVY4LWVWRjNOczBXN3AyVlJ0OG45THdXUmg5WjdGWWpQNWdKVzJha0NDNGVGQlJHOTJQa1EySTVn?oc=5"
+      },
+      {
+        "title": "Oil edges up as investors focus on Trump-Xi meeting in Beijing - Reuters",
+        "source": "Reuters",
+        "published": "Thu, 14 May 2026 00:46:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR3FQdlE4YVVQTnZmV2dNWjZVWVB3dTQxZVRtX1lveWdUbGdrSW9tR1VyT0x4T21nYWJnLVl4Tk1rdFMtSUZyYlpQMmpDanMweU4yZXZFLTZIam1LX1VVajdNeHZkeGJMNUZPU2V3Mzd2MFJTNHVKamczNXRKa08yalloRlpHMUZ5eWVPS0pUd2F2amxoYml0TXUtQQ?oc=5"
       },
       {
         "title": "Brent Steadies as Markets Watch Trump-Xi Talks - TradingView",
@@ -8656,36 +8686,6 @@
         "source": "The Washington Post",
         "published": "Wed, 13 May 2026 22:24:25 GMT",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZkVwcGsweHZUMlRzR1NuMFpvTFBrSmFJMEgtNnFGRUNFekNQZEZCVUoyVkJXZ19nQ3ZQdlZRMERSQ3NXbEhKSzVmUmFCbXVqM1c5TlM3X3JxVVlzaDJ5MnkzdDk1UjhfRDFXMVNHY2dFUHVTQkxwd0hodXVFSHFZa21RdWxXdDdkSEROdTdYN1k?oc=5"
-      },
-      {
-        "title": "CME : WTI Crude Oil futures hold above $103 amid U.S.-Iran tensions. - marketscreener.com",
-        "source": "marketscreener.com",
-        "published": "Wed, 13 May 2026 21:03:21 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUm0tWW9acG1uR202ZGl0YjV0eEUtOWdhYU5CWjhXVHFlUG9pcXE5RzlpU0VyQlBvYVBidHNuX3pzd2ZhdTgyeWFJeTc1Q3ZzbHpRZWptZE1wWlVuUzduTGtXZGpNOW1pY3FTWHJ0WG1YTjltQWNQMGlkdGE2b2hock9GNEk4emFYeUp4YmZWY0VoeE1tNGxhRVhBV3IzRXRia25VSWJmdWgtd3hySFEwYzExNG82SUk?oc=5"
-      },
-      {
-        "title": "Middle East conflict closes Strait of Hormuz, spikes crude oil prices - Crypto Briefing",
-        "source": "Crypto Briefing",
-        "published": "Wed, 13 May 2026 20:33:59 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX01CVkY0dXY2MXotVDVMZVVHYm4waTZHcW5KaXZQVjR6TFdYQWZqcERRcGhNaDByeUtCX05OZzJVbS1Pa0ZTemZVZHJ3ZmJaeC1US2RFSGNySTc0LXpiNHVEcDNGR0xwWDZuZ3k3cEFUajNXVlBMamU3d04xeklxWEFpZnJuWWs4SDVjbm1UcTFxTU85MVliNFBhU1Y?oc=5"
-      },
-      {
-        "title": "Brent Crude Prices Reflect a Product-Led Oil Market Squeeze - Investing.com",
-        "source": "Investing.com",
-        "published": "Wed, 13 May 2026 20:12:50 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM3RNdVNYdFBYM0ZKdlRxTkJsUTdnU3FmV2QyUFFQRENGc2tvS0dtTEk4TklrVWhjRlUtRWtzSUNhYkhib1JEQVJ1aV9IQnFpNXlXM2R6VEhWNjN3SEtETHRsek9nUlZfeFlsNFFKVjEzN0JZcXRPbEF5YWdyR3EwMkN2SkY3ZFpCbHEwb0hHMzhQOFBoeFlLWnloSXhvcnpiaHpycHhn?oc=5"
-      },
-      {
-        "title": "Crude Oil Prices Erase Early Gains as the Dollar Strengthens - Barchart.com",
-        "source": "Barchart.com",
-        "published": "Wed, 13 May 2026 19:20:41 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX2xkRHdGemxFUTcyQ2ZNNkl4aXZfcF9VNzM5U1RqN19tVXJIVTlMbTloUTllcC1pMHV0MUVMVFl0SDEtaFZnYXVJVGNiMXJ5NE1QZjRjZ09tMXQyRDVPSU00d0ZabC1faXFhX1gxVFZ6OG9MOGRHVHJXV1Atd04zcU45UXF1ZDgyRjJSYVFxMjJxZUhjV2YwSGNZMWRobVIwc3FCc3JQaw?oc=5"
-      },
-      {
-        "title": "China's Invisible Hand Is Distorting Global Oil Markets - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Wed, 13 May 2026 19:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeTR0dF9ub3djU1pDZXgxUXFuaFlXTDhlQ3B4c3l6TTRTSm1mZXpIbm1yMzFjZnU4VHZSVHVWM2RlLTNCeE1jMllzUEZ5RHQ5eV9vRXNGa2g4MmlFOHBjMUdlSGZnRUtPRl9sZC13LUszeHgwbnptV0o4Sy1XWHVaMUZhTGJ5SFJ3UGNEdTloZDJVakZqamU2Qk01bjBoZ9IBowFBVV95cUxPRHBhdmZOZllrZ0F1N09qcTZZVE53WlNvVW5JdUhBXzQzOXVPdnlLd0xwU2ljZm92Y3FIczMxa2ltNTY2UTUteE9JYTFTOE1qR0F3RGJwNVpQTTVKSXFkNkl1WXc0eHJVSHI0amhyTGhFWnpEWUVHcHdWOWRrUzRzUmZkOU5nWWVMSXVlcGRiaXREYmQ5d2ZvbHFmSVNqemRjOTg4?oc=5"
       }
     ]
   }
