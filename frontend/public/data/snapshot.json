@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T21:33:13+00:00",
+  "generated_at": "2026-05-15T22:39:23+00:00",
   "fx": {
     "nzd_per_usd": 1.690334,
     "as_of": "Fri, 15 May 2026 00:02:31 +0000"
@@ -8640,10 +8640,16 @@
     ],
     "global": [
       {
-        "title": "Oil Prices Rise as Trump-Xi Summit Yields No Clear Breakthroughs on Iran War - The New York Times",
-        "source": "The New York Times",
-        "published": "Fri, 15 May 2026 20:10:44 GMT",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuUWF2S1ZwSmNqTEZHRE5XQ1hYWjBGQ0FjbnhVcldGODBHUXRlQ0RCaEU1UDNQUExvaGhBdW5hc2pfc01SSmxQbG5jbGJ2NllhQ1g2Yk16dTRkd0d4c0hXaHppUkRpMHQxRlVPZ1NfM1FQOWRvY2xQdmFIZDFEdkU?oc=5"
+        "title": "The next supply-chain squeeze may show up during your next oil change - Axios",
+        "source": "Axios",
+        "published": "Fri, 15 May 2026 21:47:37 GMT",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhalJlS3BTbWlLVi1yMnZtNUlXd3pGNDdPbC0tX1B0QU1HOVpSVS01M2tJOGpXNHB1WXkyLXM5UGFDTFNoZFA4SmNCNkdyY1ZJMlBwSkFNSTdkXzZ0R1RidnF4Q2lEdGozNjRDNVdRMW4ydmh2MVJsVWRkWUg?oc=5"
+      },
+      {
+        "title": "Trump weighs easing Iran oil sanctions after meeting with Xi Jinping - NBC26",
+        "source": "NBC26",
+        "published": "Fri, 15 May 2026 20:41:19 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU0U0a2pmaUxBbVZ6V2Z3MWQybGJnbWpUVEJmSzQxNWdiMWloVFpmV2Y3S2ExTHhXX21LYnhKWTNHdHQ1TjdMNjJnWUVzb2pIc3NteWhncHkxTjBHZlNNTm9pRnNQWjROLVV4Z285Y1czbXJpU012MzlMOTB3aUhKaDdtT1N1ZE1hNC1IQjd1bEhTMVg3aDNyMVFyamxlNjdyLVM3d0tVeERUSU82ak9zRVVtcFBmZmktQm8xSw?oc=5"
       },
       {
         "title": "Oil Surges as Supply Risks Deepen - Rigzone",
@@ -8660,8 +8666,8 @@
       {
         "title": "The IEA Just Revised Oil Demand Down by 420,000 Barrels a Day. Is It Time to Trim Your Energy Stocks? - The Globe and Mail",
         "source": "The Globe and Mail",
-        "published": "Fri, 15 May 2026 19:28:59 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNZGVPZU5wTDFfdGJhcGtOT1JyQmplRlE4TWtoTFVRdlpNa2t4SmlTbWdiQy1nUzZGZGJ0T1pnbEdwdEdzWDBxQWxXMzJNbXc1Y2tzZmxsOXdjS2tkLVA4a19JVHVDRXlrb0RqbkFXdnlSRGEzV0kxWWJnOEVWeXNQSUpSZ016MjlLZFF6RnN5UVpMTzc5ekpGeXEyMUN1bVREelNEVnpiR3NLV0NiclBwRE1mc0hERnAwSVFOMDNJWjR3cjRpWDh6bVpjd05yVEJVLVRKY1VqdEhSYkFOQ2F1NHNwUXdCelJGbm1POWR2Q25GUUVDWWpBbEFoRF9rQmZJeU9YajZucDZYVVlqWk1N?oc=5"
+        "published": "Fri, 15 May 2026 19:38:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPUTNLQ1AtMDBsR01qVVJ1ZVZGbWR3ZE92cTlYLWZkem5ESVRTVWgwZElKa2dkQ3hiQTMtUkNBZkdqMjdQVFR6YTRDS3RKTkhqVXprU2swUGtGUlVPdll0UjB4UC05QVVrVWEyZzVlVWNldTk3Z2h6ZmpjVndibTk4VGZzVU9EVE1JZTJDdDhwNndIZ2xsVHhWZFZ3LWJfNzF4TkR1eVZsOGQtLW91aUZiTG15b2NwR0lLSDctcmVoZVhlcjdHeXNtV2xPMm9aOWR1TDhpdWRZQUxLNVpWV3c2ZlRqTGdlZ1EzVk41RG02ZzVrWnpEcm4wb0JheWJMZHAwQ21FdFc3Mi10RXpUOUJF?oc=5"
       },
       {
         "title": "Trump weighs easing Iran oil sanctions after meeting with Xi Jinping - KOAA News 5",
@@ -8680,12 +8686,6 @@
         "source": "Barchart.com",
         "published": "Fri, 15 May 2026 19:19:53 GMT",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWG53QjNCSE8xRzh5WmZEb0QwNXdHdmY5SHk4TGtMOGJJMzBDOFlzRGdZYWdzcnFOSkxPRHFSNEdHel9rVGtaREpiXzdmeU1aMm9taDljUXJjaU0ybHZJMDdiWjhCTHJrcDlFdU1HNk12ajhaVzJxM1J2bXlIVy0tUTJ4Tnl3UlctdnZZWmtCUnFWajVGbVFtSFZMY0R2VVpsQ09QNzE1aElBeVJNOUVVNDZIQWdrczlfV2N5d2laUQ?oc=5"
-      },
-      {
-        "title": "Trump weighs easing Iran oil sanctions after meeting with Xi Jinping - Scripps News",
-        "source": "Scripps News",
-        "published": "Fri, 15 May 2026 19:13:47 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMlAzU1NiNU1odkxaRk5OcGQ1Zk1Rc3RpNjVlTG5Za0RCYkZHc21NQkJNWkJ4UE1XZExObXZVc3d6UG1UX3RIVUZRYmc0Z2pOUi16elhxemhkdkN3X1BJRWFxQUdpM1dubEFQUVZ5blFEX2RRQ3B3dmE4NGVQNHlWeG5WZWdmc0ZSTFdHQ0U2empnLVF1Q09HVVZkMkFoOXFLbktqbDFMekdhY25rbDZ2Yy11NFEyZ3JrS2Nv?oc=5"
       }
     ]
   }
