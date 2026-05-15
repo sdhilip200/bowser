@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T11:06:57+00:00",
+  "generated_at": "2026-05-15T13:11:53+00:00",
   "fx": {
     "nzd_per_usd": 1.685607,
     "as_of": "Thu, 14 May 2026 00:02:31 +0000"
@@ -8590,12 +8590,6 @@
   "news": {
     "nz": [
       {
-        "title": "New numbers reveal surging price of petrol, diesel - 1News",
-        "source": "1News",
-        "published": "Fri, 15 May 2026 09:26:20 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWnkzMkFsd3duTWthNV9pY0E0M3lfR1lCaEQ1QkthTHE5ZTJZLUlIeEd4bjBfdDAxN3F4Uk9GcUF4TmxRUUlha0hlVEZ0M21QdUdCR1J2d3hwb3pIaEVHSkZDaDZLVDVCcUdrcTVmcVpBcVQ2cVl0RWo0WGQ0WldrcHM5NjFVWnR2N2JnS01R?oc=5"
-      },
-      {
         "title": "Air New Zealand Predicts Significant Loss For Fiscal 2026 - Aviation Week",
         "source": "Aviation Week",
         "published": "Fri, 15 May 2026 07:14:44 GMT",
@@ -8614,10 +8608,22 @@
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdW1vdDltN3ZZSU8tMFRuQTdaVmNzTHJRd3BhZDVBbUt4WUJEeHBvQlkxeUxVWElVTV9lUDBSU21FQ0syMTZrRTVCWTVqS1dLa3QzbllXV3BZTVQ4WUVFMi1vOGZEUFktd2VPbU5pd2RwNHA4c2xTRXZ2Znl4QkJYYng4N2dpMUZ1Rk9La3lJNVRKalN3WHNfaWtUQmd6SXEwRlpwWHRpc2dXWnJBUFBsVzFiaThTMHFQVjNfU1NBeGdVUmh0MlVlMTV2cjNaSkVvbTlERWtMQjY?oc=5"
       },
       {
+        "title": "Air New Zealand to defer projects, cut jobs and flights to keep fares from rising further, CEO says - Stuff",
+        "source": "Stuff",
+        "published": "Fri, 15 May 2026 02:32:59 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQlhIWEtxb0NwQzJldkQ4N1diMGQ4RjdWem1QZVU1dEJZM1hocEQ3Vno4N1VtLW5pSDJYeHQ4ZGNnQ282cm9FVU9yZDlVU0hzdnJTMjFXYXdvOFRGeGRtMEdtWHdmNGtlRmF6UWZWeHRvNnR2QlZsdHhXVlhTQVAwc0ZfTGU2bkdhRmNfMUstM244amI0WVkza2g2eDNfd3dFWmdlY3UtRGlqa0NqLWNPaFJuTkJKQ1hTV3I0SElMVGZDX0phR2c?oc=5"
+      },
+      {
         "title": "'Never seen anything like it': Fuel prices rocket upwards, food stays flat - RNZ",
         "source": "RNZ",
         "published": "Fri, 15 May 2026 01:27:38 GMT",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObFZmNGtkWkxNVFNvX1ZWcHVtRktQeTAxaGpncXpmYXpNQjJoUUpfRmlXRWtaNTlLVGxLWm52TnJSaUlXX1VxSXVhVllTVmc4Z2FmaHFndHpydFREMWZSajZKbkVVSW5zcEdJak9rZjFzRGlPRWZSVUQtQ3ZibENQTkhDVlNWc0VMNk5WTHh1b1RrR25McHBLLUZ6OHFrTlRKYmY3czVMVkZTVzRFblBHdUVMcw?oc=5"
+      },
+      {
+        "title": "New numbers reveal surging price of petrol, diesel - 1News",
+        "source": "1News",
+        "published": "Fri, 15 May 2026 00:05:18 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWnkzMkFsd3duTWthNV9pY0E0M3lfR1lCaEQ1QkthTHE5ZTJZLUlIeEd4bjBfdDAxN3F4Uk9GcUF4TmxRUUlha0hlVEZ0M21QdUdCR1J2d3hwb3pIaEVHSkZDaDZLVDVCcUdrcTVmcVpBcVQ2cVl0RWo0WGQ0WldrcHM5NjFVWnR2N2JnS01R?oc=5"
       },
       {
         "title": "Monthly petrol prices up 13% and diesel prices up 37% - Statistics NZ - Interest.co.nz",
@@ -8630,62 +8636,56 @@
         "source": "NZ Herald",
         "published": "Thu, 14 May 2026 22:32:43 GMT",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUdGNkdMcnZJNlJOVTdlMmpQZ3ptYklXUVpHWHBjNTVUMVpHWWZucE9uVEwzaURKbTl1bEU4dGlOQlNNMFBoV0tsOWF2R3ZTSzFZSHFoVTJEc3FaVlhUREtEX1B1OUZDNFMtSWZqSGlDbkJaWHhWdy1qdWV3Y2NfUjlyTFQyNDMtMzExZ1BBWVd1anV3eFgxaENySFd2bGw2SEhrUmpDZTM1SkYzaU1NbHpMZmU0NjdqYm5NN2NyUy0?oc=5"
-      },
-      {
-        "title": "Air New Zealand cuts 5% of its flights, jobs could go - RNZ",
-        "source": "RNZ",
-        "published": "Thu, 14 May 2026 05:31:15 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWlFUNDE4b3FhamdJZ283RjI3N0djQlJGNG14MFdKNzg1NWZlZm5WR20xblJFWU9FNjA4b1pqRUEwSGdRM21YaTNYUnhzWXl3cHpmZm5hbFJDZC16V3l2X3ZyMkFNNHEyZHRMeWpvUlk0MjFBcUFoV054MUpGUUc5ZmNjc3gyTmFGdkFoRnVJOHVOSnZLby1MajZRZ1FTWExpdDFLTQ?oc=5"
       }
     ],
     "global": [
       {
-        "title": "WTI Crude Oil Futures Jump 3.5% to $104.69, Brent Futures Advance 3.4% to $109.12 Early Friday - marketscreener.com",
-        "source": "marketscreener.com",
-        "published": "Fri, 15 May 2026 10:31:50 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUlNPZDUzWDd3XzVpdFhmSWhGYnp0d3BGSU51U2ZyTkRWSlkxdXpPREtWNDh5bmVwdm5PMlQ4ZjZya1NWUUFMQmhJT0hlMmNwaThkbkNWbTNhRXlGSU1zOUUzVkxiOEZqMDBIZmlWUXpoM3JXTXExalVlU3JMTllTTVZHb1p0NjhLdDhPR0RTdW9ia2xFY0pCRGhPOGNNTjg5a0VlaVVONExJczkwM2dJbUV5eHBxb3ZCSmVtdGFEV0txTmRSckhkNm91aHRNSVFfbzJ6Ql9reHR6UQ?oc=5"
+        "title": "Current price of oil as of May 15, 2026 - Fortune",
+        "source": "Fortune",
+        "published": "Fri, 15 May 2026 12:52:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YeVJTQWJidE5FRV9HcllNclN3NGNEaTBWbDBPY09zMmNmRzdiSW1NQlltdlRiN2FOQWZZdmpMSkJkVzVnS3ZZaVpqTFlFM1ljSzFfbG5TOXhIdFZ0QlYxZFdB?oc=5"
       },
       {
-        "title": "WTI Price Forecast: Breaks above $100 as Trump says China will buy US Oil - FXStreet",
-        "source": "FXStreet",
-        "published": "Fri, 15 May 2026 09:02:44 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ3FKcDZ5V0ptUFRHSEJVaVpWTkV0TDNna1JhdU5Kd2lOVUk2alNFNEpCRktCc2tFMjZ6MnoyNFpUdnotSG1LQUdNcWdoWmxZTkhHbGdNeXNiaWJ5VnJfemhKUFVyTjBkMlY5YnlOM0tmVDdPc0JSNTFhWlhIQ2FVMkROZ29pN1J5RV9aVGxLczNLdXd2V29QTWoyVDNBajZCdjZNSWJfQXdfOXdhSkxMWlFITjY?oc=5"
+        "title": "$107 Brent Oil & Gold’s 13% Decline Drive Shift Toward Cash-Generating Equities - Crux Investor",
+        "source": "Crux Investor",
+        "published": "Fri, 15 May 2026 12:49:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa3hnZG1nVndnVUtmaV9xaXVkRWJkOXZuYTFFSENwMlVRY2d1U2laM3VSd2FGT1pIclc0cS0yN0FfR3N6a2Q1MWNBaTMxMVpMZXp1X2pNaDVpa0c4d2ttT056bzRrSTRXSlZfcHJYV29uSW5qOXFqR0dLQ1RLcnJzekFHcUZRXzIxN3p4dnhzdTdZbTB3OWoybjQ1M0dUYWE5TVQ4V0dQaUJqSk1FSmc?oc=5"
       },
       {
-        "title": "Oil Prices Surge to End Bad Week After U.S.-China Summit Fails to Reopen Hormuz - Barron's",
-        "source": "Barron's",
-        "published": "Fri, 15 May 2026 08:56:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR3p3dUZjSVo5NTZYa0hMMkZDQU15bDVPNUpYWG9CeFdDb1Z3TUpEdGI1aVJtSzVCTDFFTWVKUkE5ZWRTZURFeXFzR0hnTHpXallwWGxXNHZDQ3lITjh4YlNuT1RiTXVuLVE3VklEUDlTd0I2XzJVaHVpS2lmQjNaRTBxNA?oc=5"
+        "title": "Kenya Hikes Fuel Prices Amid Middle East Oil Supply Disruptions - Arise News",
+        "source": "Arise News",
+        "published": "Fri, 15 May 2026 12:47:33 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeVN3RGJPOHJZWTYwMUg5V01NQnAzYUI5M2dTZnllNXRLbzRmTXRUYllpRFdfbGEtVTNIdmJWenFycXhHckxKYV9icFNlX09zbHBDWFRpekl2M3dFWXpEZ0VCbmpMc2l4Tmc2OVN2ZlBXT2ZwR1E1MDYtQkpBLWJhamFWaWpJUUl6RVdBZlRB?oc=5"
       },
       {
-        "title": "Kenya fuel prices hit record high as diesel surges amid global oil supply fears - Business Insider Africa",
-        "source": "Business Insider Africa",
-        "published": "Fri, 15 May 2026 08:24:35 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTkRSM25sZVZVSHZjN2pUMWxtQVBTZWdkNVU4cWc2eTRwdS1mT3FiVHlFRUVLYy1JOG9FQnBsYXpneXRpb04xX0JwTU9wYnhFU2oxNzlOMTdHVkZETnJlTWxBdVlHRUF2bzZQQWthbnI1aEtfQ2tDZV9nWEtVVkFSRjNmNkdYTVEzME9CTUZDU0MxWkJyWEJ6Vlp6VTNQNldDMGFNbHp5OUhSOHZYX0sxTGZyQXBQR3JaX3dFY00yQlBpdlJYU0RpZF9DVWllTVpmc1E?oc=5"
+        "title": "Oil Prices Climb on Fears of Broader Energy Crunch - The New York Times",
+        "source": "The New York Times",
+        "published": "Fri, 15 May 2026 12:37:47 GMT",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuUWF2S1ZwSmNqTEZHRE5XQ1hYWjBGQ0FjbnhVcldGODBHUXRlQ0RCaEU1UDNQUExvaGhBdW5hc2pfc01SSmxQbG5jbGJ2NllhQ1g2Yk16dTRkd0d4c0hXaHppUkRpMHQxRlVPZ1NfM1FQOWRvY2xQdmFIZDFEdkU?oc=5"
       },
       {
-        "title": "Brent Heads for 6% Weekly Gain as Trump Loses Patience With Iran - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Fri, 15 May 2026 06:19:09 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUVJxd0JoZ3FGTXJqbHY3U2xfSDU4WFJmVk5CQ1lGMFVUbHRLQk5RQjk1a3NNdWtYdDg4RWJiVG1YcU42dE95TlBXX2ZJWTBKemtsSXlzOWd0b3ZqYjdnQ2ltdXI0VE42d2pTbzNFdW5BVFdacjIzN1RXTnBmOG1BenhXUE9kcW1XMG94LXV1SkR5VDhPVjdHZkRmVlhyM2hrRVJXT2NuWm5xcW04alkxdzN1WEw2b0VWcVJN0gHAAUFVX3lxTE9nUmVUUlhRMnZWYVFPaTllQUhpNExuektMZHJXVzlwcEdFSXh0NXp2Rm5yd0V2b3pMUXA2eXlQYXg5S0FiR1RuXzR3dlhJR3JXRmxvUHNzWXRVWk5hQk5MTk94UWNTMnNjdC1IRUVGWC1Ob3k0clFWX2F4bC1FWXk1TXZjQVc0NEtKcFR1SndPVEZqVWJzX0M3Z21sZE9KazIxcTZlMG9mZjRIeTgwcVVLNXNZVmFFOVlQc1dBVFVOTw?oc=5"
+        "title": "WTI Crude Oil: Elliott Wave Analysis and Forecast for 15.05.26–22.05.26 - LiteFinance",
+        "source": "LiteFinance",
+        "published": "Fri, 15 May 2026 12:20:54 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWDJGM1NXc1BJT2pCVlNpcDE2WC1KRDB3aEs3OWRKelZjWUg0RTNtXzVmbDB4V1kzV2VSVXRYWFFUeUNMbnpWX3duMm52b1d2ZjZkQkFPeFBOZkpBYmVFNGZkR05hZXNqRGNmQXNfeFE2S18zZkdoYW1oc0RfTkxnRDNwLV9lRWJ2enRmaFVUdXduSHIxTHlGbFJDbVlGM0pKX1NNTUR5cjItal9jWVVBMDlHNzh6d0t6Tk1mZU81UjVlcnVFVHZnUEpzU1EtcmdSR1FIbWpZYldrcEd2MlZvQXpn?oc=5"
       },
       {
-        "title": "Strait of Hormuz uncertainty chokes crude imports: India’s oil stock down 15% since US-Iran war; here’s w - The Times of India",
-        "source": "The Times of India",
-        "published": "Fri, 15 May 2026 06:06:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOTU5UV0dSbjlUbC01djVJb3FWaF9KRjhQNElJMzZIRVp0b2J5amNLNzNnODJ4a2Zqc0NFa2tTbTROZ1FIaTVwUi1kNmJCRFRQTFJUZlEyc0ItY0ZZUGFYM2hZUk9YYXFSbmQ2WktMeEFIV29ZT1dDVDZMS3JNZEdZcmJJWFlldGNjTVlmSFBLZVBEWTI2d2dmYWV6SE5PV05UNC1LRGk4dEo5VmFGcnh0TVVfRW9JZm5TSFJYcGhKbG14MGRvazBrSl9PNjRON1Y5VHJ4TjJIRjhZcnVyZ0lNUVg3dFRXeXNOSGpzWm5nLXh0cS00MEh6TzRBSUFOWjE0YXM3ZmxhejRyTHZMYUttT3lUaG9OU0RDVmp6OE9scC1rRmVl0gGqAkFVX3lxTFAwMFFrTE1DUS1UenUyZ0JCUEZQbWFoTWNkOEJfVWg2TGd5cmF3cE1ITGEzYnZ4SzF5cFliY3hva0JEUldSc1Z0VFFKekFldHlkMTlMc0lJUmstNzN2akRxSEFYNWtCQ0Z0SkV4VHQtRG9JTW5RaThMTG1sOWRUaEFaVUxOdkhnaEp4VnVmUXhJWXBSVUpKdUc4bnpkZGRsdGVIS2dlZDZYZXMzdzE3R2ZiWGtlclRjN2QxSEhIVXZTOGthekp3Z0R0QUp6cjRieDZFSWNCcVAzS19GQ2Zvb3VDdnBYejRrNHJVUXdjUWJzYk1QbjFPMnduRzQ2Q0pRLUtLdGM1eXBsUk5MRy1KQmdMMmhMWER2QWpTRUxaekpmNVRJNFB3dDZQRVE?oc=5"
+        "title": "Oil, Iran and China: What markets are really telling us about the Middle East tensions - Gulf News",
+        "source": "Gulf News",
+        "published": "Fri, 15 May 2026 12:18:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYnlDYUtMdDE0VmpyZDRpakdnc0FHVHItMC1lWUNydHJMUGVfNmp6NEpnbzh6ZGpwcjd4RnNoUDZORVJFNzZ3Y2hSTmJuOVRKbDJ2ejZXbXVjMWt1NDNzMWJHRkoydlAtbGRBaGdpXy1pazh0NHU5YUN5ei1zc1lmcnNCdE5Fcmdxc2RWVDN2elB6d2tpTzRpV2RyUlptMlc3VUFtMnB6ZzZwcFBhdXJ2QWVMd01hMW1YTXFoN3dlaGxRTHJfakpiM2xpSnLSAd8BQVVfeXFMUEtEbndxOUoxU19KbzdSaElFbTF2VVpuMkZDN2ZYQWVaTXgwcTFNSmpWOUV5WXVJeXFtRWl1clVCclI4NWhUaG5uN040QUVuZnRUUlBsSURITVdPWDJJY2Z5RUtJbXZFeGxrd1NEWEZEZnVFWHJsUkprTkZrR0FWUndrTEVFb0IwWEVoWVpIblM2Uy1oYTVhMlZqczc0ZV95blRWWWZIMVpFTGxwYkFCRURwelRnNlp1LVVaSEJVT2gzazhhN1E0QkRleWNzMFhvR2pZVHBQeFZEWHhmMzI1dw?oc=5"
       },
       {
-        "title": "Oil prices today: Crude rises over 1% as Donald Trump warns Iran, Hormuz concerns persist - The Times of India",
-        "source": "The Times of India",
-        "published": "Fri, 15 May 2026 05:32:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPRG4zdjhBNXNQeWdGdjNJRGNtd0t0bnR0N3pQZm9ZWWs0cU51a05rUG9XT0RycUZxNHJQcXc2TTJZaHF2RzlmRG1qaVh1SVlHYUdoRy1xcy10MHdjZ0Ywb01vOVhnWTRTa3prVFFkTGs1Ry0tdTA3U0tzN2FoLVhhN0JjRGt4SEQwQ04wQnRGd2ZSTGJfcDB6YmJqa2lHTjI0eHM0Y1VNVEszMDNZaTlUZXNwa2pzaDRhenRsV3NEcDRMM0RXbEN2MEFhWmRBME55aFdYdDZiU05TOGJEWGZRcktXcGVpdXZtTTd3VnhjQ0tLYjNId0dWeHBTV2VaMVFvOEdnaXpQYVpzVjFv0gGSAkFVX3lxTFBJTHg4UFMtMUt3YmJHeG5wZExydGFQZlVvbWVqY0M2RVIzYnhZS1hDYXp6bGNqRkUzaktYTXRucVVlcHNxTnV3TlZtUllyU2xlX0tMdHVNeHRtQU01bU9qekdwaEVsSW0yM2NVRFdnYU1xSHJodXVTZjhHRmpZVzRVT25jWFVyVXg0Z21pOUxuZEI0eDdiLTU0b3VNUXFhRkJ0bnJ5di11dEo0UlFraV92QUYtYlJMNjRkZWExd3dCdkZFaXRsMzhqU1BzdVNocExsak5ha25Bc2k3bGMzTm9FOVVmd3M3aXFRTUwwWkIwdTg2TGVJbDJzZVRsbjcybWtGQVF0NHlzTzVNNU9YbTRsX3c?oc=5"
+        "title": "Trump says discussing lifting sanctions on Chinese refiners over Iranian oil imports - The Economic Times",
+        "source": "The Economic Times",
+        "published": "Fri, 15 May 2026 11:39:53 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNeElLSUJuRlBwS0J6cW1aQndKY1ljeVhOeXZrUXpDamxnWEIzdk12NXEtOUptUnNDazg3SVlPOWEtZVJtZk03WlVmYzAwZVBJeHhBYjlXbHFWelR3LXN2Wi02UFVtUzJ0WFBrWkU3UU1VLVYyRS0zNnNYeGxjNlJxTDJLU21ib083OFZjb09PNWJ3eng0c19XZk5rWURpM0VJVmdGcFI2eXBaanZaY1c0Si1kZTV5ZXo3Rm9EMG1NMGpab3lVTkhxV01NMGk3VExKWG5YSDMtc0U4cGhQMXRNcFJka3M0V0FZZXlocy01dzVyNHRiZ1pldmVDYjVrVG1Qc3VXS3pKZnlWQVhkWHNuVzdXNUN6LWdLa3BQMDdGbVV5b0lJSHNkeGRxdmVSNFpDbHfSAbcCQVVfeXFMUHE3bnp4R2hiQWdZS2JOWG4zLUpKQVdwY3BJc3JIWkpkSGZJNUZVd3RZd3FlLTZ4YV90QzdXZklTY0ZoWXEyVm9SYjFsMExZRWRid1dQZkpoUl9hOFlPQndqeTJfVXhka2F6Wl9xVnhhOF9RdEJmRGJWNElJSVdmUUdobjRaQV9VM0dMcW4wWncybUN5b2VCLU8wTWtxUkhqWTQtc1Jvc0tOeVFaYkFidGFGYlJha2k0bWNyLVVCdFdKZHlUS0ZZZk4zUllHVzJ6c1ZoQ21pSTJkclJaa2t6ajdXMlRQeDZqY3hMbjVRZ0M5U05BZHNGRGRzNWJZMG5MV0JPcmJZaF9fZFB0R2t4MEZ0QWVhQS05ejV4d2NyZjF4R043MFR5VVY4bEtFTERhTnZWUEpIRDg?oc=5"
       },
       {
-        "title": "Oil prices rise to $107 as China expresses interest in U.S. crude, Hormuz risks persist - Economy Middle East",
-        "source": "Economy Middle East",
-        "published": "Fri, 15 May 2026 04:37:50 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLThib1Vfc1VmQ2ZXRWNvRlcwdEg5NTdZa2hQS2htcEROM2lwcklGOWxuUDQwa2FaMzdERVpvQXRUR04tbEVaS1l2eEVyZTFEaHFtWmtSc1N3SnJJV2lyR3hkeEExMW1UODhoQk0xLXNxWDV0blIzazhuRnRYTFBpZHJXbG9vaGdnM3J1Zkhhc1ZKQzB6ZGNXSUd0VnRlZ0RpMDQzVzk2dDFOUEJxMnFHcWo2bmhKZDhCSG9BVA?oc=5"
+        "title": "Trump says he may lift sanctions on Chinese companies that buy Iranian oil - The Times of Israel",
+        "source": "The Times of Israel",
+        "published": "Fri, 15 May 2026 11:38:08 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcjcxMDBCVnRCUVBsdHVrTFQxX2c2a242cjU0SVBPeU5qb3lRM0puTWdybnBIeHMzdHctMFd5NWpZbTZ3RC1kdk0zcWV0Q1k1Q1Z0d0lGMzcxVXFSQTJlNlJKTndxdEM4S2tzd1dHNFBpa2otTU9EOURvWWpnQUNrdjRaY2d1d1h1a1BXbkwyNWNOZEhESm00TWN3UXdyR3RlOV9FQXgtRXNrWnBZQWhOeGpEWXk5NTZqeTdUMg?oc=5"
       }
     ]
   }
