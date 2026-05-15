@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T08:30:53+00:00",
+  "generated_at": "2026-05-15T11:06:57+00:00",
   "fx": {
     "nzd_per_usd": 1.685607,
     "as_of": "Thu, 14 May 2026 00:02:31 +0000"
@@ -8590,6 +8590,18 @@
   "news": {
     "nz": [
       {
+        "title": "New numbers reveal surging price of petrol, diesel - 1News",
+        "source": "1News",
+        "published": "Fri, 15 May 2026 09:26:20 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWnkzMkFsd3duTWthNV9pY0E0M3lfR1lCaEQ1QkthTHE5ZTJZLUlIeEd4bjBfdDAxN3F4Uk9GcUF4TmxRUUlha0hlVEZ0M21QdUdCR1J2d3hwb3pIaEVHSkZDaDZLVDVCcUdrcTVmcVpBcVQ2cVl0RWo0WGQ0WldrcHM5NjFVWnR2N2JnS01R?oc=5"
+      },
+      {
+        "title": "Air New Zealand Predicts Significant Loss For Fiscal 2026 - Aviation Week",
+        "source": "Aviation Week",
+        "published": "Fri, 15 May 2026 07:14:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZkd3MnhhTWJpLTZaYVl3UTd3eGx2SkxzVGxOWVRkLTRNVExTWFNBcHU4dHU2SEVaemhtOFdkVkFnNW5hT1ZYNmQxLTR4RlV0YkctSlhOYlUwRDgtNmtHY2xmYlhVNk1EcnJpOEJOSURITndQSkYybURiM1hPY2w3ZF9EVXZVWXg1Q1VOREVNZm5qcEFlakZNQXgtM1M2dFpudlhsdU1wUlRzLWhBc1E?oc=5"
+      },
+      {
         "title": "Air New Zealand warns of up to $390m loss as jet fuel prices soar - Indianweekender",
         "source": "Indianweekender",
         "published": "Fri, 15 May 2026 04:24:21 GMT",
@@ -8602,16 +8614,10 @@
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdW1vdDltN3ZZSU8tMFRuQTdaVmNzTHJRd3BhZDVBbUt4WUJEeHBvQlkxeUxVWElVTV9lUDBSU21FQ0syMTZrRTVCWTVqS1dLa3QzbllXV3BZTVQ4WUVFMi1vOGZEUFktd2VPbU5pd2RwNHA4c2xTRXZ2Znl4QkJYYng4N2dpMUZ1Rk9La3lJNVRKalN3WHNfaWtUQmd6SXEwRlpwWHRpc2dXWnJBUFBsVzFiaThTMHFQVjNfU1NBeGdVUmh0MlVlMTV2cjNaSkVvbTlERWtMQjY?oc=5"
       },
       {
-        "title": "Diesel price skyrockets 95% in two months - Otago Daily Times",
-        "source": "Otago Daily Times",
-        "published": "Fri, 15 May 2026 01:58:34 GMT",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04VlN6VWFxWFhBTVpsMldhUEtWLUR1OUtIM0FIZHgzVy1PTnRqTDZHem01Um1HMTZudkNEZ1VZaHR2eGZLS05vZTFNMDd1Mkg4eUxacEtCTzZxRHBYdy05cGNadmtOMGpaa0RvRkEzbWhZdER6ZmtmdllyRlA?oc=5"
-      },
-      {
-        "title": "New numbers reveal surging price of petrol, diesel - 1News",
-        "source": "1News",
-        "published": "Fri, 15 May 2026 00:05:18 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWnkzMkFsd3duTWthNV9pY0E0M3lfR1lCaEQ1QkthTHE5ZTJZLUlIeEd4bjBfdDAxN3F4Uk9GcUF4TmxRUUlha0hlVEZ0M21QdUdCR1J2d3hwb3pIaEVHSkZDaDZLVDVCcUdrcTVmcVpBcVQ2cVl0RWo0WGQ0WldrcHM5NjFVWnR2N2JnS01R?oc=5"
+        "title": "'Never seen anything like it': Fuel prices rocket upwards, food stays flat - RNZ",
+        "source": "RNZ",
+        "published": "Fri, 15 May 2026 01:27:38 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObFZmNGtkWkxNVFNvX1ZWcHVtRktQeTAxaGpncXpmYXpNQjJoUUpfRmlXRWtaNTlLVGxLWm52TnJSaUlXX1VxSXVhVllTVmc4Z2FmaHFndHpydFREMWZSajZKbkVVSW5zcEdJak9rZjFzRGlPRWZSVUQtQ3ZibENQTkhDVlNWc0VMNk5WTHh1b1RrR25McHBLLUZ6OHFrTlRKYmY3czVMVkZTVzRFblBHdUVMcw?oc=5"
       },
       {
         "title": "Monthly petrol prices up 13% and diesel prices up 37% - Statistics NZ - Interest.co.nz",
@@ -8630,15 +8636,27 @@
         "source": "RNZ",
         "published": "Thu, 14 May 2026 05:31:15 GMT",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWlFUNDE4b3FhamdJZ283RjI3N0djQlJGNG14MFdKNzg1NWZlZm5WR20xblJFWU9FNjA4b1pqRUEwSGdRM21YaTNYUnhzWXl3cHpmZm5hbFJDZC16V3l2X3ZyMkFNNHEyZHRMeWpvUlk0MjFBcUFoV054MUpGUUc5ZmNjc3gyTmFGdkFoRnVJOHVOSnZLby1MajZRZ1FTWExpdDFLTQ?oc=5"
-      },
-      {
-        "title": "Air New Zealand takes massive financial hit with soaring fuel costs - RNZ",
-        "source": "RNZ",
-        "published": "Thu, 14 May 2026 05:16:45 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZEhSNVE5MjZjSC1YUG1VWGVubVc1MlQwMGV2SnJIekROU183V3hoS0kxMnBOdjh1cElHSFNmUUxrc1NGLVdOemd4ZEtoaHhrbTlkbUFSQV9mRnl3UmRNUWRuMW5zbHRpWHBnYWFmZFlZZWR5b0xONlNmWElmTHUtZ3k0SHoyOGY1S0lmcHoyX3hIMVVMZDhMT3hSdlZIQWhRakxiSkd0TTZhaXFSejFITFZWd2o4Y2dOak4yWGtucWlLTF9KM3dRX2s4dDFxaGN0S2I4?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "WTI Crude Oil Futures Jump 3.5% to $104.69, Brent Futures Advance 3.4% to $109.12 Early Friday - marketscreener.com",
+        "source": "marketscreener.com",
+        "published": "Fri, 15 May 2026 10:31:50 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUlNPZDUzWDd3XzVpdFhmSWhGYnp0d3BGSU51U2ZyTkRWSlkxdXpPREtWNDh5bmVwdm5PMlQ4ZjZya1NWUUFMQmhJT0hlMmNwaThkbkNWbTNhRXlGSU1zOUUzVkxiOEZqMDBIZmlWUXpoM3JXTXExalVlU3JMTllTTVZHb1p0NjhLdDhPR0RTdW9ia2xFY0pCRGhPOGNNTjg5a0VlaVVONExJczkwM2dJbUV5eHBxb3ZCSmVtdGFEV0txTmRSckhkNm91aHRNSVFfbzJ6Ql9reHR6UQ?oc=5"
+      },
+      {
+        "title": "WTI Price Forecast: Breaks above $100 as Trump says China will buy US Oil - FXStreet",
+        "source": "FXStreet",
+        "published": "Fri, 15 May 2026 09:02:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ3FKcDZ5V0ptUFRHSEJVaVpWTkV0TDNna1JhdU5Kd2lOVUk2alNFNEpCRktCc2tFMjZ6MnoyNFpUdnotSG1LQUdNcWdoWmxZTkhHbGdNeXNiaWJ5VnJfemhKUFVyTjBkMlY5YnlOM0tmVDdPc0JSNTFhWlhIQ2FVMkROZ29pN1J5RV9aVGxLczNLdXd2V29QTWoyVDNBajZCdjZNSWJfQXdfOXdhSkxMWlFITjY?oc=5"
+      },
+      {
+        "title": "Oil Prices Surge to End Bad Week After U.S.-China Summit Fails to Reopen Hormuz - Barron's",
+        "source": "Barron's",
+        "published": "Fri, 15 May 2026 08:56:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR3p3dUZjSVo5NTZYa0hMMkZDQU15bDVPNUpYWG9CeFdDb1Z3TUpEdGI1aVJtSzVCTDFFTWVKUkE5ZWRTZURFeXFzR0hnTHpXallwWGxXNHZDQ3lITjh4YlNuT1RiTXVuLVE3VklEUDlTd0I2XzJVaHVpS2lmQjNaRTBxNA?oc=5"
+      },
       {
         "title": "Kenya fuel prices hit record high as diesel surges amid global oil supply fears - Business Insider Africa",
         "source": "Business Insider Africa",
@@ -8652,40 +8670,22 @@
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUVJxd0JoZ3FGTXJqbHY3U2xfSDU4WFJmVk5CQ1lGMFVUbHRLQk5RQjk1a3NNdWtYdDg4RWJiVG1YcU42dE95TlBXX2ZJWTBKemtsSXlzOWd0b3ZqYjdnQ2ltdXI0VE42d2pTbzNFdW5BVFdacjIzN1RXTnBmOG1BenhXUE9kcW1XMG94LXV1SkR5VDhPVjdHZkRmVlhyM2hrRVJXT2NuWm5xcW04alkxdzN1WEw2b0VWcVJN0gHAAUFVX3lxTE9nUmVUUlhRMnZWYVFPaTllQUhpNExuektMZHJXVzlwcEdFSXh0NXp2Rm5yd0V2b3pMUXA2eXlQYXg5S0FiR1RuXzR3dlhJR3JXRmxvUHNzWXRVWk5hQk5MTk94UWNTMnNjdC1IRUVGWC1Ob3k0clFWX2F4bC1FWXk1TXZjQVc0NEtKcFR1SndPVEZqVWJzX0M3Z21sZE9KazIxcTZlMG9mZjRIeTgwcVVLNXNZVmFFOVlQc1dBVFVOTw?oc=5"
       },
       {
+        "title": "Strait of Hormuz uncertainty chokes crude imports: India’s oil stock down 15% since US-Iran war; here’s w - The Times of India",
+        "source": "The Times of India",
+        "published": "Fri, 15 May 2026 06:06:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOTU5UV0dSbjlUbC01djVJb3FWaF9KRjhQNElJMzZIRVp0b2J5amNLNzNnODJ4a2Zqc0NFa2tTbTROZ1FIaTVwUi1kNmJCRFRQTFJUZlEyc0ItY0ZZUGFYM2hZUk9YYXFSbmQ2WktMeEFIV29ZT1dDVDZMS3JNZEdZcmJJWFlldGNjTVlmSFBLZVBEWTI2d2dmYWV6SE5PV05UNC1LRGk4dEo5VmFGcnh0TVVfRW9JZm5TSFJYcGhKbG14MGRvazBrSl9PNjRON1Y5VHJ4TjJIRjhZcnVyZ0lNUVg3dFRXeXNOSGpzWm5nLXh0cS00MEh6TzRBSUFOWjE0YXM3ZmxhejRyTHZMYUttT3lUaG9OU0RDVmp6OE9scC1rRmVl0gGqAkFVX3lxTFAwMFFrTE1DUS1UenUyZ0JCUEZQbWFoTWNkOEJfVWg2TGd5cmF3cE1ITGEzYnZ4SzF5cFliY3hva0JEUldSc1Z0VFFKekFldHlkMTlMc0lJUmstNzN2akRxSEFYNWtCQ0Z0SkV4VHQtRG9JTW5RaThMTG1sOWRUaEFaVUxOdkhnaEp4VnVmUXhJWXBSVUpKdUc4bnpkZGRsdGVIS2dlZDZYZXMzdzE3R2ZiWGtlclRjN2QxSEhIVXZTOGthekp3Z0R0QUp6cjRieDZFSWNCcVAzS19GQ2Zvb3VDdnBYejRrNHJVUXdjUWJzYk1QbjFPMnduRzQ2Q0pRLUtLdGM1eXBsUk5MRy1KQmdMMmhMWER2QWpTRUxaekpmNVRJNFB3dDZQRVE?oc=5"
+      },
+      {
         "title": "Oil prices today: Crude rises over 1% as Donald Trump warns Iran, Hormuz concerns persist - The Times of India",
         "source": "The Times of India",
         "published": "Fri, 15 May 2026 05:32:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPRG4zdjhBNXNQeWdGdjNJRGNtd0t0bnR0N3pQZm9ZWWs0cU51a05rUG9XT0RycUZxNHJQcXc2TTJZaHF2RzlmRG1qaVh1SVlHYUdoRy1xcy10MHdjZ0Ywb01vOVhnWTRTa3prVFFkTGs1Ry0tdTA3U0tzN2FoLVhhN0JjRGt4SEQwQ04wQnRGd2ZSTGJfcDB6YmJqa2lHTjI0eHM0Y1VNVEszMDNZaTlUZXNwa2pzaDRhenRsV3NEcDRMM0RXbEN2MEFhWmRBME55aFdYdDZiU05TOGJEWGZRcktXcGVpdXZtTTd3VnhjQ0tLYjNId0dWeHBTV2VaMVFvOEdnaXpQYVpzVjFv0gGSAkFVX3lxTFBJTHg4UFMtMUt3YmJHeG5wZExydGFQZlVvbWVqY0M2RVIzYnhZS1hDYXp6bGNqRkUzaktYTXRucVVlcHNxTnV3TlZtUllyU2xlX0tMdHVNeHRtQU01bU9qekdwaEVsSW0yM2NVRFdnYU1xSHJodXVTZjhHRmpZVzRVT25jWFVyVXg0Z21pOUxuZEI0eDdiLTU0b3VNUXFhRkJ0bnJ5di11dEo0UlFraV92QUYtYlJMNjRkZWExd3dCdkZFaXRsMzhqU1BzdVNocExsak5ha25Bc2k3bGMzTm9FOVVmd3M3aXFRTUwwWkIwdTg2TGVJbDJzZVRsbjcybWtGQVF0NHlzTzVNNU9YbTRsX3c?oc=5"
       },
       {
-        "title": "Brent crude rises as Trump says China wants US oil, Hormuz fears persist - TradingView",
-        "source": "TradingView",
-        "published": "Fri, 15 May 2026 03:28:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcWNuWS1OWHNmNlhyOHBJZ1FNcEJpaUFoM1lTRkdZaTBBOUNBdlBVdVczbHBDRVZWcTJ2YnJrLTlYaURhbkRjcUdwRzFSZTVkVDV1ZEtscGNkQnhHMnFQNWRGMEhEM2NuOXpzLUpGdllSeVNzRDg0Q3FkM2c1OG9mQXJLemJHalRGSHNnUGUtaVVSaThIMFFETjFEZDNsc1EzbG1scEJIZGlTX2lCU2wyUHZBS1RXRG41WGVCYVdXVXBlWGZkbEJB?oc=5"
-      },
-      {
-        "title": "Oil prices jump after Trump says China agreed to buy U.S. crude following Xi talks - CNBC",
-        "source": "CNBC",
-        "published": "Fri, 15 May 2026 02:43:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUXgta21IXzROM1FUU1ZpdlFzRWpRd2Y5MzdoYmlJZ2pSRjJDUFdRNG5XME45Nm1YeEw1ZWdNY2N4RGxnVHBydXVlWWRMZUkwc2l6WTh2UmVfQjZoTjVMLUdESWpGblF6aEFUbmI0cVhoTFVFMi1NRHpSTlpaMHhrSGh2ZEF5Rlc0bTV2ald2U3VjM05B0gGaAUFVX3lxTFBSVFlidU56VzZzNHU2N2lSeDAzQzV2TTVXQWFMRmJrbWs0LVJpeGVtWmktUXBhdV9sY1dwTTQ4cG4tdWdSS2hVOXpZNTE0Ulc3OW9pLXpvR0ZnUmJsUGN1QndfbHVhQWlyVEVjcjdNUHFUVzNLZWV4MmFwUENTUFRoR2ktWFJhcGlDQ0gxd1Z3czMwZU44dzlaNXc?oc=5"
-      },
-      {
-        "title": "Oil Steady as 4 Supertankers Cross Hormuz Safely - Gotrade",
-        "source": "Gotrade",
-        "published": "Fri, 15 May 2026 02:40:26 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdGpnMnpQS2EtNEJ1cGhxQTc2STd1eVhPX1BMNTlxNmZCNG1RWG92MnUyZmZvSS1SaGpTOElfeVZUT1JDdS12SzFTZ0lNaUVvd3NiTUJtRVdYcWs2RVNDbkNUYzlyT2hjMnZ3NzlPTHZjdzlNTnNMVm5GcWdoMDFYVy1pUGc2Zw?oc=5"
-      },
-      {
-        "title": "US-Iran tensions ease, WTI crude oil price predictions fall for May 2026 - Crypto Briefing",
-        "source": "Crypto Briefing",
-        "published": "Fri, 15 May 2026 02:38:48 GMT",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaG1iVE1wVHF1TXhzcThKYTM3UkdrYjdCdEctVFdDdVl4eTdfaFZtdUVhZVpNeHpCbFNtdDd0eVctU2wtV1lPMXFsMU1WS2pxeS10dF9kTlZzV0hyY25fWk1MVnotMGNLa3pPVUVoOFhKa0s5cE90WUJJUURlNEpxa3RHNWNaMEJkUGpXZkdPLTY4NVRMMEMwRkNhNkxzNzFZ?oc=5"
-      },
-      {
-        "title": "Oil Price Today (May 15): Crude oil above $105 as Iran war resolution stagnates. Where is liquid gold head - The Economic Times",
-        "source": "The Economic Times",
-        "published": "Fri, 15 May 2026 02:20:24 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOODVtMDJzUUs4WF9vN3hFeDE5X252RjJ2T2U5OFNkR3RqRlVsZEo2Z2xoVXViSl9WODZDTHdVR0dlVW1zRTBscjRkVEJzcXRSLTRJcm9TdGtBU2RaSmZ6NE9nWVUyTWdsU0J3WlRLQ2FnZW1aXzhaOWhlZTNyNl9ucmVxVTh6OGJaZE9zYUhJQndZSXZUSWxSUjV1cHNBQlJUQ00zZk9nZ1h6YUx3S0N2RTlMRTZRTGItN3Nmbk5KQm44dmp4a2hzZFJ0RVdnM2w4cWdpWlBGaGVDamJVSEZ0NHY5d053dC02WnlDaUsxZEZsejRLWUxBYjd1N0liSjh4UEdjQ3IzSVlGdnNYd0FB0gGUAkFVX3lxTE5xa1lBNzB6c2JGZGVqcGszOFFrV1lDMW1wNVdIV19FZzdEMXN0dDVPSXJCRXViQUppNjJhMXJQVkZMYVJjVll4REo4X2xJMWtKU2lqTTZCdzNlcnNCZ3VhVWZ1VEZxaFVIRm1pYk1KT1FvZkZqbWxzNm1TeEtSN0I2WlBHNzc1MDVGVk5DZ1ozWm1mNFpmMnliRVZaN3F3UloxMHRnWUhJa1lSc2ROZWZRRzFmak4zV1Y2Yk9STGxXY3JjWEVKVW92VGJLa3M0TFlhYlppQWI1dUhUVW1PbDIyMElMVTNzaFYybXFuWldkRi1BOWpQWTJ5UWlyM1pJcTlXdkhDa2ZhZDk5MGZrWDFkT2I3RA?oc=5"
+        "title": "Oil prices rise to $107 as China expresses interest in U.S. crude, Hormuz risks persist - Economy Middle East",
+        "source": "Economy Middle East",
+        "published": "Fri, 15 May 2026 04:37:50 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLThib1Vfc1VmQ2ZXRWNvRlcwdEg5NTdZa2hQS2htcEROM2lwcklGOWxuUDQwa2FaMzdERVpvQXRUR04tbEVaS1l2eEVyZTFEaHFtWmtSc1N3SnJJV2lyR3hkeEExMW1UODhoQk0xLXNxWDV0blIzazhuRnRYTFBpZHJXbG9vaGdnM3J1Zkhhc1ZKQzB6ZGNXSUd0VnRlZ0RpMDQzVzk2dDFOUEJxMnFHcWo2bmhKZDhCSG9BVA?oc=5"
       }
     ]
   }
