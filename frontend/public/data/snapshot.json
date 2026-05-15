@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-05-15T19:02:14+00:00",
+  "generated_at": "2026-05-15T19:38:55+00:00",
   "fx": {
-    "nzd_per_usd": 1.685607,
-    "as_of": "Thu, 14 May 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.690334,
+    "as_of": "Fri, 15 May 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 106.28,
-      "latest_date": "2026-05-14",
-      "delta_1d_pct": 0.62,
-      "delta_30d_pct": 5.06,
+      "latest": 109.29,
+      "latest_date": "2026-05-15",
+      "delta_1d_pct": 3.38,
+      "delta_30d_pct": 0.24,
       "series": [
-        {
-          "date": "2025-05-14",
-          "usd": 66.09
-        },
         {
           "date": "2025-05-15",
           "usd": 64.53
@@ -1021,20 +1017,20 @@
         },
         {
           "date": "2026-05-14",
-          "usd": 106.28
+          "usd": 105.72
+        },
+        {
+          "date": "2026-05-15",
+          "usd": 109.29
         }
       ]
     },
     "wti": {
-      "latest": 101.81,
-      "latest_date": "2026-05-14",
-      "delta_1d_pct": 0.78,
-      "delta_30d_pct": 1.69,
+      "latest": 101.08,
+      "latest_date": "2026-05-15",
+      "delta_1d_pct": -0.09,
+      "delta_30d_pct": -9.38,
       "series": [
-        {
-          "date": "2025-05-14",
-          "usd": 63.15
-        },
         {
           "date": "2025-05-15",
           "usd": 61.62
@@ -2041,46 +2037,50 @@
         },
         {
           "date": "2026-05-14",
-          "usd": 101.81
+          "usd": 101.17
+        },
+        {
+          "date": "2026-05-15",
+          "usd": 101.08
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-05-14",
+    "as_of": "2026-05-15",
     "regular_91": {
-      "avg": 3.213,
-      "min": 2.979,
-      "max": 3.459,
-      "count": 62
+      "avg": 3.245,
+      "min": 2.999,
+      "max": 3.649,
+      "count": 70
     },
     "premium_95": {
-      "avg": 3.399,
-      "min": 3.009,
-      "max": 3.869,
-      "count": 29
+      "avg": 3.445,
+      "min": 3.029,
+      "max": 3.699,
+      "count": 45
     },
     "premium_98": {
-      "avg": 3.373,
+      "avg": 3.247,
       "min": 2.509,
-      "max": 3.659,
-      "count": 8
+      "max": 3.619,
+      "count": 4
     },
     "diesel": {
-      "avg": 3.194,
-      "min": 2.759,
-      "max": 4.188,
-      "count": 79
+      "avg": 3.181,
+      "min": 2.869,
+      "max": 3.999,
+      "count": 83
     },
     "lpg": {
-      "avg": 2.729,
-      "min": 1.959,
-      "max": 3.499,
-      "count": 2
+      "avg": 2.452,
+      "min": 1.897,
+      "max": 3.5,
+      "count": 3
     },
-    "observations_today": 81,
-    "observations_yesterday": 93,
-    "observations_older": 6
+    "observations_today": 29,
+    "observations_yesterday": 167,
+    "observations_older": 9
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8640,10 +8640,40 @@
     ],
     "global": [
       {
-        "title": "US-Iran tensions drive WTI crude oil to $105.4 amid supply disruption fears - Crypto Briefing",
+        "title": "Trump weighs easing Iran oil sanctions after meeting with Xi Jinping - KOAA News 5",
+        "source": "KOAA News 5",
+        "published": "Fri, 15 May 2026 19:20:39 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRjc3QzhHc0FoZ0I0Mnc4N0VmZlBWOHZtOWhlQnhWRXFYZmpac0JUSEJRV2V3SUVqdEJoSXdSdDk3eFRuNWozdUtYaFljRTdrTEt3TEtTcVJLNzcxMmJrcnRQS2RlaWwwc1RYNU9oZDBDODRhS2ZIbGRzR1poTVF3RERSTGt1emtQNzlWYVNkN2VLT1pqS05DUVhobk9PdFhRZzhkYzdhQUNsN2NULUlic054dWFtQUdjWlZB?oc=5"
+      },
+      {
+        "title": "Brent crude rises amid US-Iran tensions, impacting WTI price expectations - Crypto Briefing",
         "source": "Crypto Briefing",
-        "published": "Fri, 15 May 2026 18:46:20 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcWxzWExMNFRaTUpHNzh4dmZ3QTRYNUZfUnRCYWhKNFJBX29rSEZMWFNJSm9DUVg2cFVtVUxOVDQwNTJVVzBkU1QtRjE1ZEd4ZTdOYjRCcGV6TE83STFTc2FMQUszcmlSeXFCazA3UVN1QTFUZFhZTWtOY2NYeUUydmRTVFlfUnM1Z0g3cllYRkhHY0pWNDBQRl9lMWg3SkZkU0c0?oc=5"
+        "published": "Fri, 15 May 2026 19:20:34 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcjB0ZUdtdWotR0ZIUmppcG9Sd0xYVWxkMmVJLVE4U2l5dl8tSUFCQzhlaExwbndNUTkwR25vTHdBWEFkWHJCS2hOV0ZKdW14S00xMDNwSlBjb3RNNlVKZ0ROV2VFS05wVVdIb3R6NmdLTXZld0Y0YjdLWDZ3LS1NRmdJY0dNWF80S1h0TFgyeU1WcDBhdVA0RE1HTU13T2twZ1E?oc=5"
+      },
+      {
+        "title": "Crude Oil Prices Surge on Concern of a Prolonged Disruption to Global Supplies - Barchart.com",
+        "source": "Barchart.com",
+        "published": "Fri, 15 May 2026 19:19:53 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWG53QjNCSE8xRzh5WmZEb0QwNXdHdmY5SHk4TGtMOGJJMzBDOFlzRGdZYWdzcnFOSkxPRHFSNEdHel9rVGtaREpiXzdmeU1aMm9taDljUXJjaU0ybHZJMDdiWjhCTHJrcDlFdU1HNk12ajhaVzJxM1J2bXlIVy0tUTJ4Tnl3UlctdnZZWmtCUnFWajVGbVFtSFZMY0R2VVpsQ09QNzE1aElBeVJNOUVVNDZIQWdrczlfV2N5d2laUQ?oc=5"
+      },
+      {
+        "title": "Trump weighs easing Iran oil sanctions after meeting with Xi Jinping - Scripps News",
+        "source": "Scripps News",
+        "published": "Fri, 15 May 2026 19:13:47 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMlAzU1NiNU1odkxaRk5OcGQ1Zk1Rc3RpNjVlTG5Za0RCYkZHc21NQkJNWkJ4UE1XZExObXZVc3d6UG1UX3RIVUZRYmc0Z2pOUi16elhxemhkdkN3X1BJRWFxQUdpM1dubEFQUVZ5blFEX2RRQ3B3dmE4NGVQNHlWeG5WZWdmc0ZSTFdHQ0U2empnLVF1Q09HVVZkMkFoOXFLbktqbDFMekdhY25rbDZ2Yy11NFEyZ3JrS2Nv?oc=5"
+      },
+      {
+        "title": "Trump weighs easing Iran oil sanctions after meeting with Xi Jinping - KPAX News",
+        "source": "KPAX News",
+        "published": "Fri, 15 May 2026 18:33:08 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU3VHSElGZ1Z0MVFESkx2WkN2RjRwSENGblpYSHE3S3Q1di1nV1NJcXVheVozdXJhalZsLTl6bXptU2F1dHVUdk15cmY1ckhfaE5wMVBkaXBDcFZTNDE3TkY3a2RDSnNDZFBqX2YzOEpLODZTUkFnN3pZaHQ4endtYWpPdFNmaVBJQUpYQ1RVZjZncWZBWkphLXlkTHEtYlBWSlg3RGJSX2lGMExhZ2Vj?oc=5"
+      },
+      {
+        "title": "US Oil Rig Count Jumps amid Rising Crude Prices - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Fri, 15 May 2026 17:10:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONEVtSDNqSExDSWRPTEdVOFFYZUpGZkNEaHY0ZGs4bWQ5ZHNiYkZJaHd5VXhGeUxDTzlXSmNMd1dDN2czejVMZ1B4OXZfb3FnZFp3S0E3MzdrT2cwVFBjM0lUWVozMWhXb040WEU3M3NtaWl3a3BUek95QUZsaHpGTVN1cG5tV2JzWHNfaVo3RmQyYlVN0gGaAUFVX3lxTFB5R3gzdTR3TjZOa0kySXFtcGxxcnV6U3RVMDZ3UDh3R2FvNjIzSDd5QTdmSTV3bE1oWVNWckhmWDc2OE5XandiY1pySlB5SjMzN081eGktaDJYbkpKd2JCOTdSZkdsWmVYaDZwaldINFN1czN2M0Jid2RhbDdPNFpYT3BIT1VqeFVyak5GZUdkdktFU3A0Y3R4MEE?oc=5"
       },
       {
         "title": "Hormuz Blockade Pushes China Toward Continental Energy Suppliers and Overland Routes - Caspianpost.com",
@@ -8656,36 +8686,6 @@
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Fri, 15 May 2026 16:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM29TN21EQkRySTFWZEJMR21zV1NNQTFiMnZobUp1V0pIaFJuTG9kdGIzLTlUMUpSUmtLZ2VvMzdHSjBPODduaHk3d184dFBrVW9FTUtFZGhqeXNabjl0aDFOT21UZnlMSDA3VDdsZThQcjNFczhCYkFBaFdGQjlVcXRFUnh2bU9uaEFyLU8zS1ZxU3NuVzhGOGhNUlg4cjlYTmoyME9MXzlBb3NHQ09YYmhrQnFrbFpE0gG-AUFVX3lxTE8wWDBVaGlYZHlfMVFxQUNTYTYzNTA1dnAwM1lfaUlQaE56UGFSRjItUkRreDlZYnhnTW9xRFptenJ5V3A4ZlRWbV95eVBFanNRX1hrTmdvVTBreUNTWlFXbXJvQXVQSUItTHdET0QwTVlqQzNrcGVub1dSSV82M1BQcjl6YzZxR3V2QS03NldkeGI1bk9LVzFvTVBoTk5ocU9BaGtORHo1d2hPMFlzLUNGTEZvUExvSzF3TFI4MEE?oc=5"
-      },
-      {
-        "title": "How China and U.S. eased the Middle East oil shock and kept prices from spiking even higher - CNBC",
-        "source": "CNBC",
-        "published": "Fri, 15 May 2026 14:58:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWEpGTkk4aFduMG0xcUhvTmFpQnVackF6LTY3ZmZpUnZpenVUazdlTFNrMFBzQnFPWF9IX3Mtam1RUU5ZOHBfVG9ZdDM2U0p5RWY4aktsX085eWptNHRTWWQtbmM2TUk4c3Uwd19oQkxUME5OTnlOWTR4S3hLMGllUXhyQXZaaWUt0gGOAUFVX3lxTE54Y1ViUEFBZDhiX1dJQ3loSTNnX01fazVrTnkzYjRlaTJFT2FDYzV5djFPNF9RVjAxX3pFUkZMbldvakl1U0hrTnByU0F2ZUpIZWxvN0hjUUFaNzdKTjRLU1MxRkhWamctN1VjN2tvUWYtZWtMSHlvZjZ4MTJUREcwU0VGS3Q5czN4V014VGc?oc=5"
-      },
-      {
-        "title": "Oil Prices Rise as Trump-Xi Summit Yields No Clear Breakthroughs on Iran War - The New York Times",
-        "source": "The New York Times",
-        "published": "Fri, 15 May 2026 14:22:07 GMT",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuUWF2S1ZwSmNqTEZHRE5XQ1hYWjBGQ0FjbnhVcldGODBHUXRlQ0RCaEU1UDNQUExvaGhBdW5hc2pfc01SSmxQbG5jbGJ2NllhQ1g2Yk16dTRkd0d4c0hXaHppUkRpMHQxRlVPZ1NfM1FQOWRvY2xQdmFIZDFEdkU?oc=5"
-      },
-      {
-        "title": "Brent Set for Weekly Loss of More Than 7% as Hormuz Impasse Worries Markets - WSJ",
-        "source": "WSJ",
-        "published": "Fri, 15 May 2026 14:15:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVU9JcTBHc0M0VXUxOVdvZzR5RnJNN3N0M2s5SWNQUlVoSkF2M2xkVWlnVFhsT1UxMDRUZE5VdWgzT3c2eUFZeWV2ZVFpM282Nko2Y3FqRjVfclRIZENWaEdUbzhiTE5nX1dJXzFibTFWZ21GaWNjNDY0MVU5eTZIbkZMZ0xpdXY1dXZEQlJ2b1AwaEtEd3dyc2MzTUxsMXhrWE5wZDV6ZVlyaEQ0NHRKRE1Da1JsZGcweUE?oc=5"
-      },
-      {
-        "title": "Crude Oil eases its overnight rally but what's next? – WTI Technical analysis - marketpulse.com",
-        "source": "marketpulse.com",
-        "published": "Fri, 15 May 2026 14:04:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORng2a3ZXSXZQN1BIUTcxOWI1ekVvMndyZFRtVDRLMURhTDVZbG9KdjZhWUZwb1pTT3p2YzI1ZjF5dTJ5UjRGV0xIVzlRdS0wcWZUcWs5endBV2dBdG9STDM0VFE2dW9aR0J3Zk5EWXF5YmJBUHFCVUxBaTRVOHBwa2R3MVgwbHBIaWNV?oc=5"
-      },
-      {
-        "title": "Trump may lift sanctions on Chinese companies that buy Iranian oil - The Detroit News",
-        "source": "The Detroit News",
-        "published": "Fri, 15 May 2026 14:00:41 GMT",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV1lzcXBpb2hZYnlOVDNMYnhLUE5iWTVvNDJjZF9sOGRaMmoyaC00QlJ0RWNOTXhZWkExNklqbzhiUU1kVlFZcnVHWXJtUmtXTkhtSHBOSEp0dktsbUs2em00dTJJX3M0RXpNMW9leGliSG8xVUp2anp5djRjRVRSVWlzdE1XMUVYWVY5bEM4RFE5T01lSVl1QjhTcHdNekRCa3B1NDh6X0Nsb2hjUThvZDl6YzF4UHozZDZoMlduOWdVMExfZmtqdGxrN3RLVjQ?oc=5"
       }
     ]
   }
