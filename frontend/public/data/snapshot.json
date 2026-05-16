@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-05-16T18:42:18+00:00",
+  "generated_at": "2026-05-16T19:05:05+00:00",
   "fx": {
-    "nzd_per_usd": 1.690334,
-    "as_of": "Fri, 15 May 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.712141,
+    "as_of": "Sat, 16 May 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 109.29,
+      "latest": 109.26,
       "latest_date": "2026-05-15",
-      "delta_1d_pct": 3.38,
-      "delta_30d_pct": 0.24,
+      "delta_1d_pct": 3.35,
+      "delta_30d_pct": 0.21,
       "series": [
-        {
-          "date": "2025-05-15",
-          "usd": 64.53
-        },
         {
           "date": "2025-05-16",
           "usd": 65.41
@@ -1021,20 +1017,16 @@
         },
         {
           "date": "2026-05-15",
-          "usd": 109.29
+          "usd": 109.26
         }
       ]
     },
     "wti": {
-      "latest": 101.08,
+      "latest": 105.42,
       "latest_date": "2026-05-15",
-      "delta_1d_pct": -0.09,
-      "delta_30d_pct": -9.38,
+      "delta_1d_pct": 4.2,
+      "delta_30d_pct": -5.49,
       "series": [
-        {
-          "date": "2025-05-15",
-          "usd": 61.62
-        },
         {
           "date": "2025-05-16",
           "usd": 62.49
@@ -2041,46 +2033,46 @@
         },
         {
           "date": "2026-05-15",
-          "usd": 101.08
+          "usd": 105.42
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-05-15",
+    "as_of": "2026-05-16",
     "regular_91": {
-      "avg": 3.245,
+      "avg": 3.248,
       "min": 2.999,
       "max": 3.649,
-      "count": 70
+      "count": 87
     },
     "premium_95": {
-      "avg": 3.445,
+      "avg": 3.46,
       "min": 3.029,
-      "max": 3.699,
-      "count": 45
+      "max": 3.859,
+      "count": 55
     },
     "premium_98": {
-      "avg": 3.247,
-      "min": 2.509,
-      "max": 3.619,
-      "count": 4
+      "avg": 3.63,
+      "min": 3.469,
+      "max": 3.819,
+      "count": 17
     },
     "diesel": {
-      "avg": 3.181,
+      "avg": 3.2,
       "min": 2.869,
       "max": 3.999,
-      "count": 83
+      "count": 86
     },
     "lpg": {
-      "avg": 2.452,
-      "min": 1.897,
-      "max": 3.5,
-      "count": 3
+      "avg": 1.959,
+      "min": 1.959,
+      "max": 1.959,
+      "count": 1
     },
-    "observations_today": 29,
-    "observations_yesterday": 167,
-    "observations_older": 9
+    "observations_today": 0,
+    "observations_yesterday": 210,
+    "observations_older": 36
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8632,10 +8624,10 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUdGNkdMcnZJNlJOVTdlMmpQZ3ptYklXUVpHWHBjNTVUMVpHWWZucE9uVEwzaURKbTl1bEU4dGlOQlNNMFBoV0tsOWF2R3ZTSzFZSHFoVTJEc3FaVlhUREtEX1B1OUZDNFMtSWZqSGlDbkJaWHhWdy1qdWV3Y2NfUjlyTFQyNDMtMzExZ1BBWVd1anV3eFgxaENySFd2bGw2SEhrUmpDZTM1SkYzaU1NbHpMZmU0NjdqYm5NN2NyUy0?oc=5"
       },
       {
-        "title": "Air New Zealand cuts 5% of its flights, jobs could go - RNZ",
-        "source": "RNZ",
-        "published": "Thu, 14 May 2026 05:31:15 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWlFUNDE4b3FhamdJZ283RjI3N0djQlJGNG14MFdKNzg1NWZlZm5WR20xblJFWU9FNjA4b1pqRUEwSGdRM21YaTNYUnhzWXl3cHpmZm5hbFJDZC16V3l2X3ZyMkFNNHEyZHRMeWpvUlk0MjFBcUFoV054MUpGUUc5ZmNjc3gyTmFGdkFoRnVJOHVOSnZLby1MajZRZ1FTWExpdDFLTQ?oc=5"
+        "title": "Air New Zealand’s losses to steepen amid softening demand, rising fuel costs - FlightGlobal",
+        "source": "FlightGlobal",
+        "published": "Thu, 14 May 2026 05:38:11 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdjN0NEc4cklkOTZmdVZXN2k2QzNlQ2RXOHljX2ptQ3BqVmpaeUVXdXNFLTVhbXhwZDBwMVZNUmszcjNLNnpjR2dEQzlOdFEwMkxOWE8tUm1ya2dVTHJJNHhfSmo5VmtlckhMMThXbFpkZUdnVFNvQjllQzBNMmxfQklYbmh5RWN1c1hqNGpadWVPVTRwcnAtZVNnUi00ZU5GYnZkSTRkdlREcnFxSXE0NHVNX0lBOU1RT05xRDdR?oc=5"
       }
     ],
     "global": [
@@ -8658,12 +8650,6 @@
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdnFwM3RBTExQS2JadUVuSURVMng4ZllTWjBuOEJCTmhyZlFLelUxV0JPUURHZHlGM0dTeWQ2aEhYX2d1bFpKSGpxcWpFWk1OM0FjUFFPTGxzQVFyOW42UVM1TnpRUHJMSUhEZ1ZpMERKdWI1aTlRUGlRdU95SzRvTHBsLXQ2Sk8zbnFtUnRndW5paDV1YmVmcXBILXZrODRIaTNDYzJ4c1M3UdIBsgFBVV95cUxQU2lVcHZVY1FtTnNqVzljd1JrVFptTkpxMXhTU2cwZ3RwQmMzODZaRDBTVGktdk5ZcTlUb0RDR3pPTTBXUkYxZWZlZE9WSnZvZGtUd0NsZkxsOHRXNGxjek5TS0JmQmZBZkpMUGowNkdTUUpyU1RrUmNIdW1lNENkY1dMV3ozMEdhVXYzYVZyMEptZnlDLXlEcmVSS1RRQW5wTXlSQVhURk1PQlBETFFMU1BR?oc=5"
       },
       {
-        "title": "Global oil stockpiles could hit record lows if Strait of Hormuz remains closed - CNBC",
-        "source": "CNBC",
-        "published": "Sat, 16 May 2026 13:25:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNEJPWkhNeTJrWXZRbkdYNXY2S2FQN1ZPTmxZMzUybDd1WW1vX09VN2VYQ2JkTUttM0c0NFdqNVpMUTQ5bzhtRnZfeEhlT0djNjRua2w2OVBlR3lKZkxYbFVqNUd1Z28wRi1veng3WG9MR0tlTzZJMHBrS3MzY2xhT1FUakZ1TzJtaEpr0gGQAUFVX3lxTFAxRmtrUXFfRTNoLWU0Q0tvVVdISTJzazN5a1ZqYUV3NVplbTh1bVJhUzNVNTd3YnpSTWQxQUoyUUNyYjQwdnlrMWdJb0VwdEhhNk1qbEFyS2dKdk8xVEY4ZXZsN2R2MXE2bnc0Q1dYWkc3RjIwYWFBM2dYdW5OTmpiaDBRUENmWWNYd0tvallKMw?oc=5"
-      },
-      {
         "title": "Crude oil price spike signals harsh reality check - thestreet.com",
         "source": "thestreet.com",
         "published": "Sat, 16 May 2026 13:03:00 GMT",
@@ -8674,6 +8660,12 @@
         "source": "23ABC News Bakersfield",
         "published": "Sat, 16 May 2026 04:47:25 GMT",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb0tQdWk2V0hVMDRicG9fRnN2NXlqZ3JQSUQteG5xSEdpNkU4cXMyQWhYVE1lclJpUVhQOFkwbmRNMUdScWJkRUNOTjBFb2oxVlZGaUNSSWFqTTY3TmhHMi1XSFFubURNdGlTTTNBNW5VRXh4MWlLRzZmdWk0RGxBSjc4Zi1oUm04anVXNWpnUVNMaTdVRS01dVYzTHBJYUc3cXZxbmo0ZThWSFp3TlFIYnlYVE9OTTBmVVg2MjNla1o?oc=5"
+      },
+      {
+        "title": "Trump weighs lifting China oil sanctions after Xi talks - MSN",
+        "source": "MSN",
+        "published": "Sat, 16 May 2026 04:35:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeWFQeE9sNk5WalVsd0E1a1lnSExRT0gtQm45TFA4QS1LNnozRDRNMEZHdVlXUENBV0tmeXRMVDZUaFpkSTdTUGdOUlpsNmFjUnBfN1hRc19mbmZpdTFqc3dYZ3BJNE5mZ2pvYzRleXJZcTl6VVF0SlRYdGNXNnJmeHdxcUJxVDFZd3AtazBEdDBWVlMxMklyaWNxRzRhbndzQ3htQ2NsYmJfM2JvcXRQbHYzVWhEOVFOUEdUMldNdFVyV1lnOEFqUUVLb1M2c2tkOWJza1FhUzJOb1RvVWxsNUFrMy10cXgyODZqY2JR?oc=5"
       },
       {
         "title": "Warren, Shaheen urge Trump administration not to extend Russian oil sanctions waiver - The Hill",
