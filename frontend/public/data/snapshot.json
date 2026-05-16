@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T23:39:29+00:00",
+  "generated_at": "2026-05-16T01:25:44+00:00",
   "fx": {
     "nzd_per_usd": 1.690334,
     "as_of": "Fri, 15 May 2026 00:02:31 +0000"
@@ -8590,16 +8590,16 @@
   "news": {
     "nz": [
       {
+        "title": "New numbers reveal surging price of petrol, diesel - 1News",
+        "source": "1News",
+        "published": "Fri, 15 May 2026 23:56:21 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWnkzMkFsd3duTWthNV9pY0E0M3lfR1lCaEQ1QkthTHE5ZTJZLUlIeEd4bjBfdDAxN3F4Uk9GcUF4TmxRUUlha0hlVEZ0M21QdUdCR1J2d3hwb3pIaEVHSkZDaDZLVDVCcUdrcTVmcVpBcVQ2cVl0RWo0WGQ0WldrcHM5NjFVWnR2N2JnS01R?oc=5"
+      },
+      {
         "title": "Fuel price surge hits transport fund, project delays feared - 1News",
         "source": "1News",
         "published": "Fri, 15 May 2026 22:56:12 GMT",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUGs3akU4eTI5Ml9mRW5VVGNxeWtILXFYSExHZ2dJWFBva1VPU19ZS0UxYVFNbDBkVGtIUF9tRE8zYUJHMEdKaUZ6MzFHRzljUU1DOEZWTTdnMENZOVp5QmJES3I0SVRndVhFVFpBTDBwUUZzNDNvbjluWE9pUktfc3BoZXhhNGZwSkZuempQbERVWnhjeTU1MHlB?oc=5"
-      },
-      {
-        "title": "New numbers reveal surging price of petrol, diesel - 1News",
-        "source": "1News",
-        "published": "Fri, 15 May 2026 21:28:51 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWnkzMkFsd3duTWthNV9pY0E0M3lfR1lCaEQ1QkthTHE5ZTJZLUlIeEd4bjBfdDAxN3F4Uk9GcUF4TmxRUUlha0hlVEZ0M21QdUdCR1J2d3hwb3pIaEVHSkZDaDZLVDVCcUdrcTVmcVpBcVQ2cVl0RWo0WGQ0WldrcHM5NjFVWnR2N2JnS01R?oc=5"
       },
       {
         "title": "Air New Zealand Predicts Significant Loss For Fiscal 2026 - Aviation Week",
@@ -8640,10 +8640,22 @@
     ],
     "global": [
       {
+        "title": "Shaheen, Warren Urge Trump Administration to Finally End Sanctions Relief for Russian Oil - United States Senate Committee on Foreign Relations (.gov)",
+        "source": "United States Senate Committee on Foreign Relations (.gov)",
+        "published": "Sat, 16 May 2026 00:45:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVFNHdGVTWnV2S0ZjQVRrbmxQd1M1YWVfTDZ1cTJnV2ZqbHRlMXZBenlMTE01Z1NFQVFpbmY1cDhYbzdpalVuQXFoUnl0SnJWZjhvRjNLdDBxQUhWX1BaNVR3RlNmbWl3WjNWQVBxS0oydVhjeHJGTERHQVF1alRxeTFGZEpMWHVfUXNnUVJWNU9UcnNyY015YlVYSTdmQlVhdW1LQ1ZDX0d0Tzl0QkNuS2c3Ymg0eXdPWDdSOTZ2NnJrVWtxM0Z1VWZkR3JBVjQ?oc=5"
+      },
+      {
         "title": "Trump weighs easing Iran oil sanctions after meeting with Xi Jinping - KSHB 41 Kansas City",
         "source": "KSHB 41 Kansas City",
         "published": "Fri, 15 May 2026 23:02:34 GMT",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZUd1RjZ0T0lHdlBDWTlBYTljbEFEUjl3RndYZHA2Tzdua2ZVVnc3VmlkMkZRVzlyak9yMTdkVkZSc1F5MlRuUFhuTE50VVFhQ2NoblNzRzdlWTZBUDFzUFBsRmxZeVM1ZmFKQ3J3eHZTbVE2RElSaFpIakFvY2JCdTVWMDc1dG1fbW1zTGdWcV9HSVNrcWtfTHdONGhuYjVrT1NZdGxpR21CZVBDVkw3R2t3dDdKYTU1bmZJ?oc=5"
+      },
+      {
+        "title": "Trump weighs easing Iran oil sanctions after meeting with Xi Jinping - KMTV 3 News Now",
+        "source": "KMTV 3 News Now",
+        "published": "Fri, 15 May 2026 22:01:20 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObEhzZHVrMTRrY3k2N253OFpVbFp2Z2tPWHVvS2lRMGtmaklzOTdZcjJxd1lpdncwV2pka2p0YWU5SVcybGtQOWE4OXFtWXIxb05JanZQNHNmNFBNS01tOGVLNkFSUi1uTjJEZTNYZ3lqbVdjQ2FWU1FyUnlLclo1Mk8tSmZpRDZqbGc5SHlQU3lqSVAwOXdFd3RsTXNoU2NHYS1La3dMVDhvMVZ5UGZ6eFRKeV9DREhONklkeGFNeTM?oc=5"
       },
       {
         "title": "The next supply-chain squeeze may show up during your next oil change - Axios",
@@ -8654,38 +8666,26 @@
       {
         "title": "Oil Surges as Supply Risks Deepen - Rigzone",
         "source": "Rigzone",
-        "published": "Fri, 15 May 2026 20:07:30 GMT",
+        "published": "Fri, 15 May 2026 20:58:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTTJTdFZZbkQwakdWR1F1ZmpBeHVaZlNHR0hScXprb2xqdnAtRkVvMXNLZUxaZ1dISkRDTF9TZjV3TDZES294b0hlWmxncmVUM3hjS1ZzaG9DMXdTMjJqWk1OU1loQnFOTkJ6anIwQ0hUSGg4alM0MnhvakJJMmRBRjY5VmE1WnNfVm1FZlZKUzJuTEh1TlhoeE9Ddw?oc=5"
+      },
+      {
+        "title": "Oil Prices Rise as Trump-Xi Summit Yields No Clear Breakthroughs on Iran War - The New York Times",
+        "source": "The New York Times",
+        "published": "Fri, 15 May 2026 20:10:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuUWF2S1ZwSmNqTEZHRE5XQ1hYWjBGQ0FjbnhVcldGODBHUXRlQ0RCaEU1UDNQUExvaGhBdW5hc2pfc01SSmxQbG5jbGJ2NllhQ1g2Yk16dTRkd0d4c0hXaHppUkRpMHQxRlVPZ1NfM1FQOWRvY2xQdmFIZDFEdkU?oc=5"
+      },
+      {
+        "title": "Higher Oil Prices Send Shivers Through Bond Market - Transport Topics",
+        "source": "Transport Topics",
+        "published": "Fri, 15 May 2026 19:42:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51ckdrbFJ6a24tLTZRT05vWWgzOGlMUzdja2ItZldRUzBhaWtTZlBZUDhQR2FrdnN5X3M3NFhpcG1VVU5BbnQ2QkZmamNjYWZhQkc5cUJuUTduSVBrdmxqMktlb2Y?oc=5"
       },
       {
         "title": "Russia's Underwhelming Oil Revenue Windfall - The Overshoot",
         "source": "The Overshoot",
         "published": "Fri, 15 May 2026 19:41:15 GMT",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54RXhGWXR3S3VRYTVYbnNBTUN5YVlOTDdOUkhiTVJxTkx0Ukd2Slc5dFh5b19hMVh1VFE3ak10cEF3ZGZkZnZMaTViUzQ4Q3pwVF9kdmlMd3ViMlRSUFNXdVZBN0xFcjR5RE9v?oc=5"
-      },
-      {
-        "title": "The IEA Just Revised Oil Demand Down by 420,000 Barrels a Day. Is It Time to Trim Your Energy Stocks? - The Globe and Mail",
-        "source": "The Globe and Mail",
-        "published": "Fri, 15 May 2026 19:38:15 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPUTNLQ1AtMDBsR01qVVJ1ZVZGbWR3ZE92cTlYLWZkem5ESVRTVWgwZElKa2dkQ3hiQTMtUkNBZkdqMjdQVFR6YTRDS3RKTkhqVXprU2swUGtGUlVPdll0UjB4UC05QVVrVWEyZzVlVWNldTk3Z2h6ZmpjVndibTk4VGZzVU9EVE1JZTJDdDhwNndIZ2xsVHhWZFZ3LWJfNzF4TkR1eVZsOGQtLW91aUZiTG15b2NwR0lLSDctcmVoZVhlcjdHeXNtV2xPMm9aOWR1TDhpdWRZQUxLNVpWV3c2ZlRqTGdlZ1EzVk41RG02ZzVrWnpEcm4wb0JheWJMZHAwQ21FdFc3Mi10RXpUOUJF?oc=5"
-      },
-      {
-        "title": "Trump weighs easing Iran oil sanctions after meeting with Xi Jinping - Scripps News",
-        "source": "Scripps News",
-        "published": "Fri, 15 May 2026 19:33:41 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU1YtMkVNVmFiQS1qbTZHVjBXamZLekU2Q1JDN0N1QUI5VHNKWER5MHY0TkY0aFhZNWZRbm14QVhyS0VORjF0T0dKOUlTOGpsLWtManFJcHVQbzc1YWpuNlFTdHYzOThGcTNFbEpvNGIxcmdCOVUwMDNWUHU4OXZQOGNkV0piUldHRU9GZmExc1YyV2xVcDhRVkFqNzBxUTJDMzEtckZheWFaRjhhakhDU1M4RmxSb1FfREpLWlVON2ZCZ0w5?oc=5"
-      },
-      {
-        "title": "Trump weighs easing Iran oil sanctions after meeting with Xi Jinping - KOAA News 5",
-        "source": "KOAA News 5",
-        "published": "Fri, 15 May 2026 19:20:39 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRjc3QzhHc0FoZ0I0Mnc4N0VmZlBWOHZtOWhlQnhWRXFYZmpac0JUSEJRV2V3SUVqdEJoSXdSdDk3eFRuNWozdUtYaFljRTdrTEt3TEtTcVJLNzcxMmJrcnRQS2RlaWwwc1RYNU9oZDBDODRhS2ZIbGRzR1poTVF3RERSTGt1emtQNzlWYVNkN2VLT1pqS05DUVhobk9PdFhRZzhkYzdhQUNsN2NULUlic054dWFtQUdjWlZB?oc=5"
-      },
-      {
-        "title": "Brent crude rises amid US-Iran tensions, impacting WTI price expectations - Crypto Briefing",
-        "source": "Crypto Briefing",
-        "published": "Fri, 15 May 2026 19:20:34 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcjB0ZUdtdWotR0ZIUmppcG9Sd0xYVWxkMmVJLVE4U2l5dl8tSUFCQzhlaExwbndNUTkwR25vTHdBWEFkWHJCS2hOV0ZKdW14S00xMDNwSlBjb3RNNlVKZ0ROV2VFS05wVVdIb3R6NmdLTXZld0Y0YjdLWDZ3LS1NRmdJY0dNWF80S1h0TFgyeU1WcDBhdVA0RE1HTU13T2twZ1E?oc=5"
       }
     ]
   }
