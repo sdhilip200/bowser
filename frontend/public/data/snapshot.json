@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T10:47:40+00:00",
+  "generated_at": "2026-05-17T12:03:37+00:00",
   "fx": {
     "nzd_per_usd": 1.712141,
     "as_of": "Sat, 16 May 2026 00:02:31 +0000"
@@ -8582,6 +8582,12 @@
   "news": {
     "nz": [
       {
+        "title": "Air NZ warns of more flight cuts amid fuel cost pain, decision just weeks away - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Fri, 15 May 2026 04:59:52 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUdGNkdMcnZJNlJOVTdlMmpQZ3ptYklXUVpHWHBjNTVUMVpHWWZucE9uVEwzaURKbTl1bEU4dGlOQlNNMFBoV0tsOWF2R3ZTSzFZSHFoVTJEc3FaVlhUREtEX1B1OUZDNFMtSWZqSGlDbkJaWHhWdy1qdWV3Y2NfUjlyTFQyNDMtMzExZ1BBWVd1anV3eFgxaENySFd2bGw2SEhrUmpDZTM1SkYzaU1NbHpMZmU0NjdqYm5NN2NyUy0?oc=5"
+      },
+      {
         "title": "Air New Zealand warns of up to $390m loss as jet fuel prices soar - Indianweekender",
         "source": "Indianweekender",
         "published": "Fri, 15 May 2026 04:24:21 GMT",
@@ -8592,6 +8598,12 @@
         "source": "Scoop - New Zealand News",
         "published": "Fri, 15 May 2026 03:13:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdW1vdDltN3ZZSU8tMFRuQTdaVmNzTHJRd3BhZDVBbUt4WUJEeHBvQlkxeUxVWElVTV9lUDBSU21FQ0syMTZrRTVCWTVqS1dLa3QzbllXV3BZTVQ4WUVFMi1vOGZEUFktd2VPbU5pd2RwNHA4c2xTRXZ2Znl4QkJYYng4N2dpMUZ1Rk9La3lJNVRKalN3WHNfaWtUQmd6SXEwRlpwWHRpc2dXWnJBUFBsVzFiaThTMHFQVjNfU1NBeGdVUmh0MlVlMTV2cjNaSkVvbTlERWtMQjY?oc=5"
+      },
+      {
+        "title": "Diesel price skyrockets 95% in two months - Otago Daily Times",
+        "source": "Otago Daily Times",
+        "published": "Fri, 15 May 2026 01:58:34 GMT",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04VlN6VWFxWFhBTVpsMldhUEtWLUR1OUtIM0FIZHgzVy1PTnRqTDZHem01Um1HMTZudkNEZ1VZaHR2eGZLS05vZTFNMDd1Mkg4eUxacEtCTzZxRHBYdy05cGNadmtOMGpaa0RvRkEzbWhZdER6ZmtmdllyRlA?oc=5"
       },
       {
         "title": "'Never seen anything like it': Fuel prices rocket upwards, food stays flat - RNZ",
@@ -8616,21 +8628,15 @@
         "source": "Stuff",
         "published": "Thu, 14 May 2026 23:07:32 GMT",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTnhtTlgxdGdQcVdhQVE5QUhPTFFPYnJ4dk5MLWtxRUJ5UXZvVWZ1UUF1NmRtZFUwR1FwN2VuLVFwTWkybkZpMllXdzVoVnFPLUx5aGFSenoyakZ6a3lJZ1Vsa29fSXVaWTIwZmFNUUlibEpkZnFnVE5MX0c3Q0FWRzVsMEQ5NDV4SC1KeHRfODE2WGt5bXo2ZGgxUQ?oc=5"
-      },
-      {
-        "title": "Air NZ warns of more flight cuts amid fuel cost pain, decision just weeks away - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Thu, 14 May 2026 22:32:43 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSUdGNkdMcnZJNlJOVTdlMmpQZ3ptYklXUVpHWHBjNTVUMVpHWWZucE9uVEwzaURKbTl1bEU4dGlOQlNNMFBoV0tsOWF2R3ZTSzFZSHFoVTJEc3FaVlhUREtEX1B1OUZDNFMtSWZqSGlDbkJaWHhWdy1qdWV3Y2NfUjlyTFQyNDMtMzExZ1BBWVd1anV3eFgxaENySFd2bGw2SEhrUmpDZTM1SkYzaU1NbHpMZmU0NjdqYm5NN2NyUy0?oc=5"
-      },
-      {
-        "title": "Air New Zealand cuts 5% of its flights, jobs could go - RNZ",
-        "source": "RNZ",
-        "published": "Thu, 14 May 2026 05:31:15 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWlFUNDE4b3FhamdJZ283RjI3N0djQlJGNG14MFdKNzg1NWZlZm5WR20xblJFWU9FNjA4b1pqRUEwSGdRM21YaTNYUnhzWXl3cHpmZm5hbFJDZC16V3l2X3ZyMkFNNHEyZHRMeWpvUlk0MjFBcUFoV054MUpGUUc5ZmNjc3gyTmFGdkFoRnVJOHVOSnZLby1MajZRZ1FTWExpdDFLTQ?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "White House appears to let Russian oil sanctions waiver lapse - Straight Arrow News - SAN",
+        "source": "Straight Arrow News - SAN",
+        "published": "Sun, 17 May 2026 12:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa0x5Qk9vNmNPNjBHeEx3X3BIeWdyQ3Z1N0ZLcmV4cTI0NmJHbFBtdXIwb1dXWGdFM1M1NWJBTkU0S2ZFR3JHejVOWVpMbkdjeGtNT25JNkx6UURSdi1VMFAyV2JzczA0bFVHMGRMci10c3Z4RTZjTmJQN2FvLWVSUk93aXA1UHVx?oc=5"
+      },
       {
         "title": "The U.S. allows Russia's exemption from oil sanctions to expire - Energy Watch",
         "source": "Energy Watch",
@@ -8640,8 +8646,8 @@
       {
         "title": "Crude Oil Weekly Forecast - 17/05: Holds Above $100 (Chart) - Daily Forex",
         "source": "Daily Forex",
-        "published": "Sun, 17 May 2026 09:37:40 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZHZQdkpjcG9TRS0zNHdxNmZwQUUwM2FoX1JtaWJMZTVyaGx6X0hWTG9LNWZRYm0xWHdES1lQT0lRNWNjVjNFakYwZzVKa0lQVURxbEtOZWY5R0IzNThvVFJ4Z0ZkNEktX0NWeUlzVDlkaXE3QU1OUzU2MkFxQnJ3cFlOZm1jWlY2ZFhZWDFrSzM1dGNoS21MZ1Nhb2ZvOUZmVXpXRGhaVHZhcng2UUlwUlBWenVHUm52cXc?oc=5"
+        "published": "Sun, 17 May 2026 09:37:46 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaWlwbW53TVJEbUpyZV9kYkFVTjBWUUFIblc1cllZS0xwZzFMX2hTSXpHS0NVVDVpNDN5V2ZMVldsYWZRYmpMUHhhRzdNaUlidFVYQzdyX1l1b2RQTDJlSERiN2J0dERjS3ljNGdUYkpOYnpHLS1PaTRRN3pkOWpyRzZZMzdJNC1PTF8xLWhtWHVJVldDTjFaRVpkZnB5emdSM0ljQmYxZk45YjNDY0JFLWl5VFcteUxG?oc=5"
       },
       {
         "title": "US Halts Russian Oil Waivers Despite Global Energy Crunch - Kyiv Post",
@@ -8656,10 +8662,10 @@
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcWsyelFXZkpMdE9WYlppNTZIRzM5MERMWmltNTZ1UXJpd3k1QmtaYjlKTm4xc3dUMUZXUDU3R0xoOTZKMVduaUo2bjJGT2hWTi1HaHNudUdSaVp4Q3UwZ1VYWkJMUFlWV2ttOW56YXctUllJZkxiQ1dpRWF0V0hDRkFQajIwaGfSAYoBQVVfeXFMTUVwekRPUUt0bmRwcmJpNlkzTnFRZS1HdlZoVGFLY1EyN1E5Skk4UnBZbjR5RmpVUDhMcTB0UVowbkpjeHBzTS1RNkN0cGhPVWE0RkxRbzNoYkh1eHlUbS1yS0ZJY3c0d1NtRGdtMDU3VUNIQ1dBMjJWTmpRZ0hPOFdFTXdzd21FM2F3?oc=5"
       },
       {
-        "title": "US lets waiver on Russian oil sanctions lapse - Yahoo",
-        "source": "Yahoo",
-        "published": "Sun, 17 May 2026 04:08:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdnRvT1VUTFVaNm1BOWlxYzRlR2l2UDBRNzRlWWNwbzUzaDNYTkZ1ZGY5NXc5Z3hJS29jNlpLYVhXa3Mxa3hRaTY1RmRqQkpXMDB5WnRrTjlNN0xCc1lEb0tZc05tcTdzZl9qTzJrWER1RlNoVnB5Rjh5TGZISTZzZGQzWQ?oc=5"
+        "title": "Is the Brent crude oil price set to surge amid the US-Iran quagmire? - Invezz",
+        "source": "Invezz",
+        "published": "Sun, 17 May 2026 05:49:28 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdlhPU0hrUmZCR29IUWhUMzB1dDFPc1J6bllRbW9mTHlJSWRhU1Rpc2FUWV9kaW1BOHlQcmY0MWhxNWlUb3V5Z0MxSWpwQ3d6OXJ0emFsOFRHZWxIdTI4QVIxV2ZKZlplcG1WNG5mUWZiTFdWRGZuVHc1U3FMY3FEdzlaOXE4ZGk2NHJ6TUp3WGhWcVlKNm5nenZNQ3hSUi1FRXNVNTVB?oc=5"
       },
       {
         "title": "Ukraine war briefing: more than 500 drones strike at Russia, killing 3; US allows Russian oil sanctions waiver to lapse - The Guardian",
@@ -8672,12 +8678,6 @@
         "source": "Fortune",
         "published": "Sat, 16 May 2026 23:32:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd2p4OXo2S3JLbHJ5b0t5SXpRdS12Zk85OXRHT0lFTUgySGNaQlNwdlVtVTNiMm9sYXc1dmQ5dE9VV0U4SHFpaUJtdl9nS09UbW1oZGJqWlJJRWhfRFJicjZpUGJOVE1iZDh1a1BIeDQ4LTc5aFpfYk0yMTJXWFdpUmVFa0o2WmZlWnVFMzN3ODZ4UQ?oc=5"
-      },
-      {
-        "title": "U.S., Iran stall on Hormuz reopening as oil supplies tighten - Fortune",
-        "source": "Fortune",
-        "published": "Sat, 16 May 2026 23:03:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWU10N1B1NjhJVFYwd0g2ZmtlLVhPSXlxLUVhZU5UcnZack9Qd0g0NTdGNjZBMmJmZFhUQ2ZqdFlTUHdMTmpjSWp2LS1OTGZWUWZ4MHNFcVlUV2VjT3Y4NXFzVGVwRnF3MzhDY3l3djg1dWxLdkllNHV5UEVRQXE0Qmlnb2lWMGREUHhaWjBLdy1rV3BrWHhscDBsWjZqQ2xoaWkxSlQ1eW51SEVDVjV6clJB?oc=5"
       }
     ]
   }
