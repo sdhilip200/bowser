@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-17T18:44:55+00:00",
+  "generated_at": "2026-05-17T19:10:41+00:00",
   "fx": {
-    "nzd_per_usd": 1.712141,
-    "as_of": "Sat, 16 May 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.712638,
+    "as_of": "Sun, 17 May 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
@@ -11,10 +11,6 @@
       "delta_1d_pct": 3.35,
       "delta_30d_pct": 0.21,
       "series": [
-        {
-          "date": "2025-05-16",
-          "usd": 65.41
-        },
         {
           "date": "2025-05-19",
           "usd": 65.54
@@ -1022,15 +1018,11 @@
       ]
     },
     "wti": {
-      "latest": 105.42,
+      "latest": 101.02,
       "latest_date": "2026-05-15",
-      "delta_1d_pct": 4.2,
-      "delta_30d_pct": -5.49,
+      "delta_1d_pct": -0.15,
+      "delta_30d_pct": -9.43,
       "series": [
-        {
-          "date": "2025-05-16",
-          "usd": 62.49
-        },
         {
           "date": "2025-05-19",
           "usd": 62.69
@@ -2033,36 +2025,36 @@
         },
         {
           "date": "2026-05-15",
-          "usd": 105.42
+          "usd": 101.02
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-05-16",
+    "as_of": "2026-05-17",
     "regular_91": {
-      "avg": 3.248,
+      "avg": 3.24,
       "min": 2.999,
-      "max": 3.649,
-      "count": 87
-    },
-    "premium_95": {
-      "avg": 3.46,
-      "min": 3.029,
-      "max": 3.859,
+      "max": 3.65,
       "count": 55
     },
+    "premium_95": {
+      "avg": 3.407,
+      "min": 3.029,
+      "max": 3.639,
+      "count": 21
+    },
     "premium_98": {
-      "avg": 3.63,
-      "min": 3.469,
-      "max": 3.819,
-      "count": 17
+      "avg": 3.592,
+      "min": 3.579,
+      "max": 3.609,
+      "count": 3
     },
     "diesel": {
-      "avg": 3.2,
+      "avg": 3.198,
       "min": 2.869,
       "max": 3.999,
-      "count": 86
+      "count": 62
     },
     "lpg": {
       "avg": 1.959,
@@ -2070,9 +2062,9 @@
       "max": 1.959,
       "count": 1
     },
-    "observations_today": 0,
-    "observations_yesterday": 210,
-    "observations_older": 36
+    "observations_today": 61,
+    "observations_yesterday": 35,
+    "observations_older": 46
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8632,6 +8624,12 @@
     ],
     "global": [
       {
+        "title": "Washington lets the Russian oil loophole expire, ending months of seaborne sanctions relief - Euromaidan Press",
+        "source": "Euromaidan Press",
+        "published": "Sun, 17 May 2026 18:56:19 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNWxySHo2dVA5S2U0VXFsalZLTjdaS3I1RS1WcGVXVmk4QkNVdmlHRmFoNWlLbzdnczRMZWF4NWotLXl5SVZJRDVJY0MyWVR4SWZzbkRKeDdjR3ItemU5a3didTd0aU1VM0wxREFjZzlvc19maWxZaXBXTzQxMTdxN09uYWJHYUtROXl3TmJBMVJ2UEkzOTVFOEcyTDZ5b2l6UVlLUlNOTTVHbnlJNzRnT3VyY3pVTEVmQWNIZXB3cldFcW9kNFk4VWZB?oc=5"
+      },
+      {
         "title": "Kharg Island and the new energy war over Iran’s collapsing oil exports - opinion - The Jerusalem Post",
         "source": "The Jerusalem Post",
         "published": "Sun, 17 May 2026 17:00:00 GMT",
@@ -8654,12 +8652,6 @@
         "source": "Straight Arrow News - SAN",
         "published": "Sun, 17 May 2026 12:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa0x5Qk9vNmNPNjBHeEx3X3BIeWdyQ3Z1N0ZLcmV4cTI0NmJHbFBtdXIwb1dXWGdFM1M1NWJBTkU0S2ZFR3JHejVOWVpMbkdjeGtNT25JNkx6UURSdi1VMFAyV2JzczA0bFVHMGRMci10c3Z4RTZjTmJQN2FvLWVSUk93aXA1UHVx?oc=5"
-      },
-      {
-        "title": "US Waiver on Russian Oil Purchases Expires - Egypt Oil & Gas",
-        "source": "Egypt Oil & Gas",
-        "published": "Sun, 17 May 2026 10:47:06 GMT",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03b3o4TEpEU0VJaGpoMjA0cHVUWXlnNlBaOVoydGF2amEwVVNpVUgzODFxUU9jS0wyRDhwdmZpSzVPV2NMNTQ3cl8xaDNsNnZtSThGLW1tQmFSOFRfcFBQOWotOGlFQUxrN2poS3Z3bw?oc=5"
       },
       {
         "title": "The U.S. allows Russia's exemption from oil sanctions to expire - Energy Watch",
