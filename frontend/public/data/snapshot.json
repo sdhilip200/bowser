@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T19:55:45+00:00",
+  "generated_at": "2026-05-17T21:05:07+00:00",
   "fx": {
     "nzd_per_usd": 1.712638,
     "as_of": "Sun, 17 May 2026 00:02:31 +0000"
@@ -8574,6 +8574,12 @@
   "news": {
     "nz": [
       {
+        "title": "Fleet of hydrogen trucks set to hit the road - 1News",
+        "source": "1News",
+        "published": "Sun, 17 May 2026 19:38:57 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS0hVclBQMElOUjVXWUdQS3J5NjJQSnNoMzQwYmFSRF9ycVdYX01DVU5jaEdvaHFzaDZqR19vN3lsQWVBVG9ZMGdKZHNGS1hzYTMyX2ZnNHpFWnhtb0ZubF9NLTVSMHVLM3JaMUFVTkgtV0x4Z2pMRVlCcTJuU0dQcUVmc3NZUms?oc=5"
+      },
+      {
         "title": "Air NZ warns of more flight cuts amid fuel cost pain, decision just weeks away - NZ Herald",
         "source": "NZ Herald",
         "published": "Fri, 15 May 2026 04:59:52 GMT",
@@ -8614,12 +8620,6 @@
         "source": "Interest.co.nz",
         "published": "Thu, 14 May 2026 23:36:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYjRLYThwM2ZCVGlwZDFKZEJuUTJEM25TZ2RSdXdGcG5BbUpjQldURjAwZ3N0RER1YTRLX1hvMUloM2RnREsyM3FIMWpNZnRDZDFMVUUwZzl1Tmx1cVVyaFlGWDNQbFpQT01pbHpxNUFfWGhBTFYwWldiT21yOUc1TjhmUkJvcWVfV2w0YU9JTURCanhHY1VzdTJ2MlJ2Nk00Uy1NUWZFS25fSDRZemoza253amhGMlFCNDQwZXZEYktPdzFHTnFCQ0J6cUZTdw?oc=5"
-      },
-      {
-        "title": "Diesel prices nearly double in just two months - Stats NZ - Stuff",
-        "source": "Stuff",
-        "published": "Thu, 14 May 2026 23:07:32 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTnhtTlgxdGdQcVdhQVE5QUhPTFFPYnJ4dk5MLWtxRUJ5UXZvVWZ1UUF1NmRtZFUwR1FwN2VuLVFwTWkybkZpMllXdzVoVnFPLUx5aGFSenoyakZ6a3lJZ1Vsa29fSXVaWTIwZmFNUUlibEpkZnFnVE5MX0c3Q0FWRzVsMEQ5NDV4SC1KeHRfODE2WGt5bXo2ZGgxUQ?oc=5"
       }
     ],
     "global": [
@@ -8630,12 +8630,6 @@
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNWxySHo2dVA5S2U0VXFsalZLTjdaS3I1RS1WcGVXVmk4QkNVdmlHRmFoNWlLbzdnczRMZWF4NWotLXl5SVZJRDVJY0MyWVR4SWZzbkRKeDdjR3ItemU5a3didTd0aU1VM0wxREFjZzlvc19maWxZaXBXTzQxMTdxN09uYWJHYUtROXl3TmJBMVJ2UEkzOTVFOEcyTDZ5b2l6UVlLUlNOTTVHbnlJNzRnT3VyY3pVTEVmQWNIZXB3cldFcW9kNFk4VWZB?oc=5"
       },
       {
-        "title": "Trump weighs easing Iran oil sanctions after meeting with Xi Jinping - TMJ4 News",
-        "source": "TMJ4 News",
-        "published": "Sun, 17 May 2026 17:44:34 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVXQ1TmVJa3pybjgxb1pVWnJQOTFSUjhLeFlvYlRBN0dZd2tiQmxVQUxEdFhIbEc1eGYwa0RvNWt4eXhqYmFCdzNVN2NKNHhZdGhPaXZnLVBSR0lJMXZ4WnVVQXlXY01sanluamZ1SE9GVG5RMkI4ZDRyTS1DSlBlZG1JM3dRdGxfRDUyTXp3RVc3UnZxY2JGcTZPd3VyVnVIMnpWYkRrMkZWOTdldnRIZjFTRGJUd0dJYkw4?oc=5"
-      },
-      {
         "title": "Kharg Island and the new energy war over Iran’s collapsing oil exports - opinion - The Jerusalem Post",
         "source": "The Jerusalem Post",
         "published": "Sun, 17 May 2026 17:00:00 GMT",
@@ -8644,7 +8638,7 @@
       {
         "title": "Canada Joins US, Russia, Brazil, Norway, Mexico, Colombia and Others to Emerge as Global Oil and LNG Supply Leaders as Countries Abandon Middle East Energy Routes Amid Iran War and Strait of Hormuz Crisis to Recover from Aviation Disruptions, Trav - Travel And Tour World",
         "source": "Travel And Tour World",
-        "published": "Sun, 17 May 2026 15:22:30 GMT",
+        "published": "Sun, 17 May 2026 15:32:25 GMT",
         "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQVFpId1lrR0VmdjNzclV6dm03d3JBaXJzUkoweG1idnptWlpHZUc4Rk5PNDk5ZjN6Y1FXRlFqRV90V3d6MFg5TGFLWWpXZE5ZUlJiQ21zaVNWYnJNdllwUktWS0tmWXFEMllzekxZT1IyOUNMczdZNFJTblFzZnlweEpaSGp1ZXNyUHROX0hyX0VpWTZuaU51X3Y4Mml3WktIZEVwcEdLS20yS1NDSVhiTXJtNkRDemtaSFZFcUtuenJzNk13X1NpWlNRVEl1SUQ2NWpTYmcxX2lKeTFJSTJlMG1DUUNQdW1xVUVxUFF0aGhkNzh4b2VqSkdrMllkZUdOMm1Pa1JNaXdGZjRrUVJRcllMU2dJMEEzWFZnenQ0ekFEYlpHeTFVNG9rZWVzWkNCdEd5VDYxREo0c09xbUhyY29VVTNLZmx5VUVENzhfeUVzdmJvb09qMmRSeXNkS1FicGc?oc=5"
       },
       {
@@ -8664,6 +8658,12 @@
         "source": "Energy Watch",
         "published": "Sun, 17 May 2026 10:40:17 GMT",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zd2syY3dXYldVUHBKNDNkVThUTUVDbHBQZ01hUVctakFLTjk1X25hc2ltVG9ISFJGQ192MC1kUHhHT0thZmZkQXFCOUFwNzFsWXJ4NExvYkhIQWEweEJlaDdKdzFlWWNyaGRhdVdHeVAzZw?oc=5"
+      },
+      {
+        "title": "246 million barrels wiped from global oil inventories as Strait of Hormuz crisis threatens African fuel markets - Business Insider Africa",
+        "source": "Business Insider Africa",
+        "published": "Sun, 17 May 2026 09:41:19 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNGdmTHRFQXg2NzhzUnJWZE5FMk1HWlJDNnAyRm9qUlFvY1lrb0NDRFNyRmJVdEZFakx2OHdnbTUyMXlydVVneHBlemFpZGQxWlJWdjVJRDdNbTViR20wclYtWl9wcTdVbmNWWkYyVUxZWnNiV01qUHc0Z2hsM0xjRk9RSmZLWWdSQkNKc3FmQTg4Mnppc3l2VVYzU1N0VksyM3pKd1lMZ0ZfcklUcllCM2FVRG5zcklqU2hBaHVFejVDcXRnUDV0MzduQkFuRFFQQmcw?oc=5"
       },
       {
         "title": "US Halts Russian Oil Waivers Despite Global Energy Crunch - Kyiv Post",
