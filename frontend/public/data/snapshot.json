@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T10:46:07+00:00",
+  "generated_at": "2026-05-18T14:37:14+00:00",
   "fx": {
     "nzd_per_usd": 1.712638,
     "as_of": "Sun, 17 May 2026 00:02:31 +0000"
@@ -8574,6 +8574,12 @@
   "news": {
     "nz": [
       {
+        "title": "Fleet of hydrogen trucks set to hit the road - 1News",
+        "source": "1News",
+        "published": "Mon, 18 May 2026 14:07:18 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS0hVclBQMElOUjVXWUdQS3J5NjJQSnNoMzQwYmFSRF9ycVdYX01DVU5jaEdvaHFzaDZqR19vN3lsQWVBVG9ZMGdKZHNGS1hzYTMyX2ZnNHpFWnhtb0ZubF9NLTVSMHVLM3JaMUFVTkgtV0x4Z2pMRVlCcTJuU0dQcUVmc3NZUms?oc=5"
+      },
+      {
         "title": "Petrol and jet fuel dip, diesel up in latest fuel update - NZ Herald",
         "source": "NZ Herald",
         "published": "Mon, 18 May 2026 08:39:40 GMT",
@@ -8582,14 +8588,8 @@
       {
         "title": "Petrol stocks drop nearly three days in latest fuel update - 1News",
         "source": "1News",
-        "published": "Mon, 18 May 2026 08:23:51 GMT",
+        "published": "Mon, 18 May 2026 01:53:21 GMT",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTHdpZjRMeG5xTGtqamlJbFUxYlg5amdLR0w5VmpVZWFlMTV1a3lrMTlfY1U0MS1QUjQ5dTJGeGtjRXlTQ0RQN2tRNVhVOFBQRjZaaE5tUmhUTUR5RkdwZjBHeGZ1WWNYcVJadTRBUERFb1Q2eE80LTNDTlpSVFVfUHY4b2Z6QlBWR3BuTDVKeWk1a1ZxT2kzdmpR?oc=5"
-      },
-      {
-        "title": "Fleet of hydrogen trucks set to hit the road - 1News",
-        "source": "1News",
-        "published": "Mon, 18 May 2026 07:45:48 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS0hVclBQMElOUjVXWUdQS3J5NjJQSnNoMzQwYmFSRF9ycVdYX01DVU5jaEdvaHFzaDZqR19vN3lsQWVBVG9ZMGdKZHNGS1hzYTMyX2ZnNHpFWnhtb0ZubF9NLTVSMHVLM3JaMUFVTkgtV0x4Z2pMRVlCcTJuU0dQcUVmc3NZUms?oc=5"
       },
       {
         "title": "Air NZ warns of more flight cuts amid fuel cost pain, decision just weeks away - NZ Herald",
@@ -8624,52 +8624,52 @@
     ],
     "global": [
       {
-        "title": "India buying Russian oil irrespective of US sanctions waivers, Indian official says - Reuters",
-        "source": "Reuters",
-        "published": "Mon, 18 May 2026 10:26:31 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWERpeVBKbGxLM1k5YU5RZmxZUVM0ajJFenVVcWRzNU9QcGtLMHY4SEVLS2Q5SjNzWGNsUDFidEZzUnR0OWJIN3EzeUtESnh2bjRIZGZrQU8wSE9Yc2FvWFJoYnVCd3N3emdzb2w0Ul9GaXIxNlJweTdIRlljUWpZTThJMF9XMHJMMDhZbmU4d1VJZy1OVTdQVTBibXJDeFAzWHJsSWxhZ0ZQaG05U3l0RWFpT2RCbEM4ZE5UYTZidnR0cnRYV1E?oc=5"
+        "title": "Iranian media say U.S. agreed to lift oil sanctions on Tehran as talks continue - CNBC",
+        "source": "CNBC",
+        "published": "Mon, 18 May 2026 14:20:03 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYUlVU0VYOGhfYjlGSVdJYWlYS0c2ZnF2eTZHRGY2NHpleDVCYS1icTNTaUtIWUhOVmJfcFJJSnVLSy0tRmNtVmlPajhfemJfdXR2RlRqSXVGU2JxZTJ5Y2JzY01IMjY2V2ZOWmRBd214M20tMkJkdmFzWUhOZUNJLUVQWV9FTDQ1bmNwSVUtTjlJYlBGdDczbEdpd3RFYWN4eWY3UnJuRXVpXzdzWHc?oc=5"
       },
       {
-        "title": "India continues Russian oil purchases despite US sanctions - Investing.com",
-        "source": "Investing.com",
-        "published": "Mon, 18 May 2026 10:22:20 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS0ppNkRfZzF0aEpneUdEWFpvNWhjT244S3poZk9heWNDZ25Na0w1Sm1FeENTY1hMUjZPUUVEcnpXOWhpQnpud2xWZURqUmljZHA3alVFOEtZcmdUYUFIUVh5bjJ5amZkWVpZWWp4WWZYMlEzdVpXcnVrSE1hblRzd0RqUE82QnYwcGp6bDdUNFFidG5UZGZDQWNTZUpKNEdjZDRQUVFnZXdPbkZXcFYzN2c1ZFpkRExQZHlZZg?oc=5"
+        "title": "Zelenskyy claims Russia reducing active oil wells, refining capacity after Ukrainian ‘long-range sanctions’ - Anadolu Ajansı",
+        "source": "Anadolu Ajansı",
+        "published": "Mon, 18 May 2026 14:12:30 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZF95QzBTcFNRbnA5OWZQclB6OWZwSXFqcHBXRUR6d2hVRWd4TUVpZWFLbEVjN1puZW9EblVOOW5tNEF4MmY2ZUxaUUp4bWc2TWVaTF9jVDNhbVMxQXYzcFhkSWxjb01mR1N3LVJVMF9JRnFCSlAxLWlYVFRvel9WNFItU1BBY1hTMURIQVRJNEF0ME1TLU5PalM5RlVZaEFRWFJPMzBZeG5CNWxwTlZfUV8wZDdtQjA1OEg3blpfUVRSdEZFMEJTSEpUbThQb0lhY1M3bkxRYzViRm11V3dB?oc=5"
       },
       {
-        "title": "Brent Crude Oil Eyes $115 Breakout as Triangle Apex Nears - BeInCrypto",
-        "source": "BeInCrypto",
-        "published": "Mon, 18 May 2026 09:50:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdmt4WWU0S2dlMGhJZFVlUnJCV3BKMUEwM3JiQzVCR2J5N2ZzcWppb2l5ak42dUJqQXRBQjZWQWM0WXVIRTF0TlRMOXJDMk80dFI3VDllYldxNXV0aFZoamlyb2RqbjRLanpUOHZIdW03QUNiVmJ2U1hvVzAyekxxTVJlTkRfejQ5eDFPdnAyYVVFR2MxM1A5VXZ3?oc=5"
+        "title": "Brent Oil Surpasses $110, Global Markets Decline Amid Nvidia Ear - GuruFocus",
+        "source": "GuruFocus",
+        "published": "Mon, 18 May 2026 13:52:30 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZjhLSlkxX01HVW1Oa3pJNkVWWVo4MmY4MjlrQ2FZdU9GWF8tWGRUamdXRzdRUUR2bkpoVEp4UHRBYmhJZzhlMzdNR09pSFZqSGs0cnZhWEY3akMtQUREZ3QtLTA5clhQXzd1Vmc1eldSLVhKc1hSTkFQYWdfNGpZZWVjYldiTTJVbFFtT05jcjdsaEluUE8tWFlBV2FrVTlzWFhkb3gwODg0dTdYTWhka2Z3Q18yMV9XMENF?oc=5"
       },
       {
-        "title": "Oil Prices Surge Again; Brent Crude Crosses $111 - IranWire",
-        "source": "IranWire",
-        "published": "Mon, 18 May 2026 09:26:41 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdGtRa2N5Z1I4djlGZWdvWF9SWTZnbXRtaXVGT1l3WDZGS1BJVzE2RTFVNFV0RFk2UUh1TWFnNm5ld3U0dm91SVF2aUlrMGhMRHRMRzFTdVNMUkZHcWtJRnJsdTB0UjhONGZiNDRhOXRWYVhtZkZ4WEpQbXB6bmo4NG9vSHp3bGVobXM4?oc=5"
+        "title": "Iranian media claims US accepted oil sanctions waiver - Türkiye Today",
+        "source": "Türkiye Today",
+        "published": "Mon, 18 May 2026 13:47:02 GMT",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc053akw1ekdmUFdOV2M2NGNqTm40OFlFNlNibmRHSlAteFkwWnRDTTl3a1daMEx3cVFoNGxtQWl6dVpOdC1CLVdjN3E3VTNpdTFIbmc0Zkdxb0xBWW1jX0l6TWRvNVhYXzVxTDBkRVh4QllPTVVseXJIajRNLThueFcwMm9rYWNQTVp6UWtFTkhnbG5OU3Jqd0JkSWZVd0pI?oc=5"
       },
       {
-        "title": "Chinese Refiners Slash Crude Runs to Lowest Level Since 2022 - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Mon, 18 May 2026 09:20:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd284WTVIaURBVXgxVVJxTEFEMFZYZ19iM3FGZExsdGlkY29tMnU3anVJaEhnblJ2alNqTUJlTjFobXlQdmttcUV1UThRZ1loR0dlVU5rSVZEVTlKTWplc09RY2dSNXdTN2hveEJVZHdyejczRzJOeHJkRTl0YVdRN1lSWWNXT1k1cEZCM0tocFlSWmpGZ09aZU5xOW1JNS1RU29sYV9nVld1dTAtR1l2YkJUN3h2MmPSAbwBQVVfeXFMUFEyM0hQWUQ2S18wMlZ3ZUZqUmJQSEs2RGVqM01Zd2N0bVdfNlJSelFVLU1yZnJ1SFFoQ0NudURKLThBZFJ5MFJTWXFVa0FKdWJueGp1QXJUVVpDTmt1NksxT3JieDNlUnhoem1vNDZFWkN0S2xDNnNxZTBtbE1lUTduNE9uUmp5N1lJZFRacDRDUm9ESzV5MU8zRjFJWHhNREZyVDYwa1lRQUxmaWZaa05LdVlDOTJxMjRtdVI?oc=5"
+        "title": "IEA: The World’s Oil Safety Net is Almost Entirely Depleted - Energy Digital",
+        "source": "Energy Digital",
+        "published": "Mon, 18 May 2026 13:42:17 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZklOVWdsTTNQX2tmLVlHUjUwVHljSEx4U2RiX2kyc3FpSHFaMG1SZm1Uc2I4dXgwLUFtMS1HREEyNGVKVXFmZVNYVnBacUpMaFZpbVpkR3FpaERobVdTbDNhRWh6Wkl0Zy1CeUJFTVpvc1IzeXJZZXEwaDBfNzNkb01Baldvc0s0UGFQMjVLVEViQQ?oc=5"
       },
       {
-        "title": "Oil Surges as Trump Warns Iran, Hormuz Risk Grows - Gotrade",
-        "source": "Gotrade",
-        "published": "Mon, 18 May 2026 09:07:29 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSTRnMkpvTW9SRFFnNDZ2OU5UazFkaFFWYjlrYklMVER3Q0U5cmdHSDBWTk1QdVJ2Tk9zeDJfa0V3NUR6VlI1QU5ZWkFJTWtLZlE5Zm5XTk9DbGIwSTM3U19Xcld1dWVyc0tqd3BJVUo0SDdkZTduakdmVlcyM0NVai1fX1h1SjE4S3BXYjNmczFCUQ?oc=5"
+        "title": "Brent Crude Oil Moves Down - TradingView",
+        "source": "TradingView",
+        "published": "Mon, 18 May 2026 13:09:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd25UaDhmZElLc3U2QzdMaTE3bHZGVmt4SG1HSFhXZGV3T3FJenNGSTc4U3N0bF9DRWJUdXJoczdZQm84OFhGNDcxTENHVmpRRlpZUlpoQjZ5UWtmMF9va3FfMFd2ZWl1Uk9saUZCQ05VU0ZRa2FFc2lsTzB0eFpqTndQMA?oc=5"
       },
       {
-        "title": "Natural Gas and Oil Forecast: Hormuz Crisis Keeps WTI at $102 — Can Bulls Push to $105? - FXEmpire",
-        "source": "FXEmpire",
-        "published": "Mon, 18 May 2026 08:43:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb1dFbWpGSVpXXzFLUnFMc2tmSWhZb2VSTUNlQ1pMb0ctdzIwMUVHWUFZX1NjaU9VSFBwUmNzb2tJYjhxSjlNMURLcjh3N0lLc1BYUEdWTklpQUUzX2NETVJ3MVlBdXQ4cVYxRkd1V2ZHRmlHaUdjVVMtRG9tdlNwZ1pZUU9ob2ZsMmdnYUdmN3VpRXJRd1p4VzY2ZHlKckpHUW9NWU5MQWsyOEVoc2kzdnBSZnR6QmJINjZvbXpvLXBubWZVSS1acXU0ZE4?oc=5"
+        "title": "Current price of oil as of May 18, 2026 - Fortune",
+        "source": "Fortune",
+        "published": "Mon, 18 May 2026 13:09:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YNU1Ya0NUZ1dLeVIxNnNON3lVZXYzMmd5UkJOZlNkT3FzWGFuaEtIc0VIaE8xcmprVWRpVGpmNkJZak94cU9vTW55dHlZUjdUc2lfeEc3RVFJa0NwSHNFdUlB?oc=5"
       },
       {
-        "title": "U.S. Allows Russian Oil Waiver to Expire Again - The Moscow Times",
-        "source": "The Moscow Times",
-        "published": "Mon, 18 May 2026 08:38:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONWpPNXFNanVIaS1CNEY5QWpyREx0V2xrTWpqcjBWNFNsOGlPYjR0UHVXdFVvcUhYcy02eTVYV05JenNEMkp1TVJpNTloMGVPYXhON3hDSWlhT3hLUGt4T1BtdDhmX2k4TUZHeWxHYzhGSk5aa1RzdlE5N3dkdC1qY01OR1F0QXU4akQxV2Y0dTZ5M19aOGJnTA?oc=5"
+        "title": "US Accepts Temporary Waiver of Iran Oil Sanctions - WANA News Agency",
+        "source": "WANA News Agency",
+        "published": "Mon, 18 May 2026 13:07:30 GMT",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94TXBCS2ZhUFI3dWtGVV9JaGRUXzhSd281S2ZabkdIR05XNTg0MEJCbzhCME43bndzXzRuQWhOTlhqREJPTXpfRnM5a1NuNllfeVFnYmVicmNFMkZ1Q3NlcThGODFIV294eFQ3LXVzS1dMaFhXbGEwUQ?oc=5"
       }
     ]
   }
