@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-18T19:10:55+00:00",
+  "generated_at": "2026-05-18T19:44:41+00:00",
   "fx": {
-    "nzd_per_usd": 1.712638,
-    "as_of": "Sun, 17 May 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.713003,
+    "as_of": "Mon, 18 May 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 109.26,
-      "latest_date": "2026-05-15",
-      "delta_1d_pct": 3.35,
-      "delta_30d_pct": 0.21,
+      "latest": 109.6,
+      "latest_date": "2026-05-18",
+      "delta_1d_pct": 0.31,
+      "delta_30d_pct": -0.15,
       "series": [
         {
           "date": "2025-05-19",
@@ -1014,14 +1014,18 @@
         {
           "date": "2026-05-15",
           "usd": 109.26
+        },
+        {
+          "date": "2026-05-18",
+          "usd": 109.6
         }
       ]
     },
     "wti": {
-      "latest": 101.02,
-      "latest_date": "2026-05-15",
-      "delta_1d_pct": -0.15,
-      "delta_30d_pct": -9.43,
+      "latest": 102.24,
+      "latest_date": "2026-05-18",
+      "delta_1d_pct": -3.02,
+      "delta_30d_pct": -9.05,
       "series": [
         {
           "date": "2025-05-19",
@@ -2025,46 +2029,50 @@
         },
         {
           "date": "2026-05-15",
-          "usd": 101.02
+          "usd": 105.42
+        },
+        {
+          "date": "2026-05-18",
+          "usd": 102.24
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-05-17",
+    "as_of": "2026-05-18",
     "regular_91": {
-      "avg": 3.24,
-      "min": 2.999,
-      "max": 3.65,
-      "count": 55
+      "avg": 3.247,
+      "min": 3.01,
+      "max": 3.489,
+      "count": 63
     },
     "premium_95": {
-      "avg": 3.407,
-      "min": 3.029,
-      "max": 3.639,
-      "count": 21
+      "avg": 3.435,
+      "min": 3.119,
+      "max": 3.59,
+      "count": 23
     },
     "premium_98": {
-      "avg": 3.592,
-      "min": 3.579,
-      "max": 3.609,
+      "avg": 3.462,
+      "min": 3.389,
+      "max": 3.499,
       "count": 3
     },
     "diesel": {
-      "avg": 3.198,
-      "min": 2.869,
+      "avg": 3.17,
+      "min": 2.899,
       "max": 3.999,
-      "count": 62
+      "count": 82
     },
     "lpg": {
-      "avg": 1.959,
+      "avg": 2.979,
       "min": 1.959,
-      "max": 1.959,
-      "count": 1
+      "max": 4.0,
+      "count": 2
     },
-    "observations_today": 61,
-    "observations_yesterday": 35,
-    "observations_older": 46
+    "observations_today": 76,
+    "observations_yesterday": 88,
+    "observations_older": 9
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8624,34 +8632,34 @@
     ],
     "global": [
       {
+        "title": "Crude Oil Prices Finish Sharply Higher Amid Tightening Global Supplies - Barchart.com",
+        "source": "Barchart.com",
+        "published": "Mon, 18 May 2026 19:27:02 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS2c4RXhEb2FUVW9iWHFEQTFzXzlaMTdnekx4TnZIczRLT2hrb3J3M0pvZUdUWlMzYXFjM0NIYTVHeDZ4UkRoLV9Xa2toMzhfRkZ6ZURkcjVZeTNWMUJQVTRFZ0FkYkZIanExaDdlTjVsS01PR0V1MGgwdWp6dmNPaU9aYWFPQmkzZmpFVU1BY0NUMGdQMjhwc0xyUS1kX1gzUzh2ZkJDZHZaQjBLeUt3anpTSTA?oc=5"
+      },
+      {
+        "title": "US Treasury extends sanction waiver on Russian seaborne oil to aid vulnerable countries - Reuters",
+        "source": "Reuters",
+        "published": "Mon, 18 May 2026 19:26:31 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcms1UU9KdDZ1SkNQY0tsbC1QdUx3cU1oR25mZFI4RHBCQ2RIWVZ4RjVGeFFyTENjMXFvMW5TRzN4TmZaMHNIYVJiZzRyNmx0bngxazBBSHFvcWxERDAxOF9HR0ZHaE51LTNxVE5NVkdKWE9xQ2Q2d29iajRxYmNneVFCdWZtY0l1dDJYTXppdUo3WTc3X1JJVGtVQ3Y5TzhjcVJEbXItMmswaTNhOUxMZ21seGZLYjZvOUQ0?oc=5"
+      },
+      {
+        "title": "Brent crude rises above $110 after report says Washington views Iran’s latest proposal as insufficient - Economies.com",
+        "source": "Economies.com",
+        "published": "Mon, 18 May 2026 19:02:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYXhnc0lHV2ZWb0c0YlUxb21SSGdyUjRQZjZmbnM0c1QxNnBubnRuNFdQT19kYnN0TjhzUjNVOHpmUG82ZzVLeVdmQnpBZERzYzZGWlFRNF9XYUlLYl9pbTJqSUhFSURPVWprWjFCSGN1TzdVanNZNmRFaTh6XzNTVWMxTTJETXMwbWtseEg1cUw3UG8wbC1uVWpxczlJVDVWUW9hRC0zZ2hnbDU4WExCZV85azAtQ2s0aFU1bXpCSzJoQXY1STZnTGRkWjBfaFY2THNkUFRDQldqaUNQekpyYXNjWU44c1AtdlE?oc=5"
+      },
+      {
         "title": "Bessent gives 30-day extension to import Russian oil as Iran war squeezes supply - South China Morning Post",
         "source": "South China Morning Post",
         "published": "Mon, 18 May 2026 18:47:03 GMT",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOUo3bnlabVE3WmVYN2s5SWJvZWF1NTBuZ0lVUWxWVzJyMzVRa19FclowcjhmVlVxVllCREVaUm91alowRXBRNWQ1VzNCckUxWjU3RlBmYkMwbjRVbWs4T3B1N3ZKWndIdGdYcmlNUnFLWkF0RzdXcGktX1JYN1dSX3BsY0R2T2ZScU1LcmQwX1hNakFYTEhzUjRPTkQzTVhySWJXcC12R1JlYW1EeXI4aFV6RnlZNWxwa1Rtb2MzZzY1V1M4cmtlZGhwbDd4cUV3VmV1c0I4ZVI4TUpPeXc?oc=5"
       },
       {
-        "title": "Bessent grants a 30-day extension for Russian oil in tankers as Iran war squeezes supply - The Killeen Daily Herald",
-        "source": "The Killeen Daily Herald",
-        "published": "Mon, 18 May 2026 18:08:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdURvbnkzbjZEcG5lQjBIQnZVMzYweFVnVzNWWEFKMlZjRm9nRGlBVkk0T1g0VS1mdXQzRWVReWpOYlMtNGRJdEM3alM1UmNWUWptdEdXNnZmeG9Xd0RTMDFpUmt0YU1MU0VXNkV5WlpUT3EtN1NYbUxsdHo4SWxuT3kyNC1JQW8ta0QyR21GcGotLUxDVS1SU1hSTWtPR24zTTlDWjNOTnduM2FoNWg3RWhqUU9xVlJNcWxWU1Z6dWc1NmFCRTlhSnVGZ21scm05RFFicFhlUUIyNmhEelZCOGdnX25EbTIyUGYxT1lneVY?oc=5"
-      },
-      {
         "title": "US Extends Russian Oil Waiver As Bessent Urges Tougher Iran Sanctions - Radio Free Europe/Radio Liberty",
         "source": "Radio Free Europe/Radio Liberty",
         "published": "Mon, 18 May 2026 18:01:02 GMT",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUpoSTlrSmtsY2taT0ZPTE9ETVJLSVkydmF1N09raVpzRS1SNldYeHlLV0ptU2lfZ09YYkwyaDdGZnREMzVQdVpPTlU0SWF1VFg5VnZUWUxXQWRBejd1MjdYcWtDaVlCZ3BCd1BBSlZ0ZlZFWXBvQlY0ZmNmREVKYnlPdUFBVGJNUElkbmlHaE5abzRhdy1hQ3hZb9IBngFBVV95cUxQZnA2MGttNjVaR3VUaHIzRmNWUm9DemFMTUI4M3pKM0JBUW9RMjFZekRvSjZNTDZoSlczc0t3ZlJDV1hpbnN1bUFSRkw4WWNfbU81Z2FFbUhlMG5yZFBGSnVrNWdHSHdQM19LN0ZuVnFrek1WZURMZlljXzAyQVpTUHBsbjZDMmpnc1VTSlg0MUI3OUlFT2lWd2hvMkl4UQ?oc=5"
-      },
-      {
-        "title": "US official announces new 30-day sanctions waiver for ‘stranded’ Russian oil - Tradewinds News",
-        "source": "Tradewinds News",
-        "published": "Mon, 18 May 2026 17:55:44 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQXVLcTRhc0gwRGJJSlI2N1F4MUxiWkIzNGcxSjJHMG9iTC1kYzFDRGQ5YkdUYk5KT0pBRldIWUxhb1lJeGYwUFNYZ1M5R2dlM0pWOWNLTUo3WEw3UkdQakczMjNjTGprTHlIaFJkWTVGT0JJYUpXZ1k4ajdhUHVrMUZqcFMyRGdyZWdTYzhJQXY1cjRzYlFQbEd5Q1pxazJnLUtPamVxeGNqQlVGZzI0RUJzZG5EQnU0OXFweXg0WXQwcVk?oc=5"
-      },
-      {
-        "title": "US Allows More Russian Oil Sales to ‘Most Vulnerable’ Countries - Kyiv Post",
-        "source": "Kyiv Post",
-        "published": "Mon, 18 May 2026 17:51:01 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CbjlLTHBNNFEtSEVuWUhpd0UxbXJlVzhmbWxuSjlicmNtVnc5aDNLd3E3RXRxTXFHNk5MSTNfZlE3TG4zNm13Z0swMA?oc=5"
       },
       {
         "title": "Treasury extends Russian oil sanctions waiver for another month - Politico",
@@ -8666,10 +8674,10 @@
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKNzA5VnBRV1M0QmdZUm9xRlFTd2R4NEVFMWctN2lHMWI0a3VKcEEwY2RDRkl1U3VyS0cyVEpERFM0T19xY2FhVHE0a2FHM1dDcFR6blllUkJRUzU4ZC1EbGVUSDRjV1E0eldtamRlNFZiaVU?oc=5"
       },
       {
-        "title": "US Treasury extends sanction waiver on Russian seaborne oil to aid vulnerable countries - Reuters",
-        "source": "Reuters",
-        "published": "Mon, 18 May 2026 17:27:38 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcms1UU9KdDZ1SkNQY0tsbC1QdUx3cU1oR25mZFI4RHBCQ2RIWVZ4RjVGeFFyTENjMXFvMW5TRzN4TmZaMHNIYVJiZzRyNmx0bngxazBBSHFvcWxERDAxOF9HR0ZHaE51LTNxVE5NVkdKWE9xQ2Q2d29iajRxYmNneVFCdWZtY0l1dDJYTXppdUo3WTc3X1JJVGtVQ3Y5TzhjcVJEbXItMmswaTNhOUxMZ21seGZLYjZvOUQ0?oc=5"
+        "title": "US extends pause on Russian oil sanctions into June - politico.eu",
+        "source": "politico.eu",
+        "published": "Mon, 18 May 2026 17:33:09 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ29ZbUdLSzFiZHVzNGR3UlBkUVJ6V245YmZrWEJxVzEwRmV6OUJvMHF4S2hjS2sxYlpvX1lWSXcxMHdfMC1ZS3VMSDJlWXlXMkRlVjNpXzNXMC10YndvUmpJNkhHaVVuSG10Y2hQZGFVMTJkS2J3bDREYW4yakE1b01ha193TTNz?oc=5"
       }
     ]
   }
