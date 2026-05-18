@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T23:26:48+00:00",
+  "generated_at": "2026-05-18T01:50:18+00:00",
   "fx": {
     "nzd_per_usd": 1.712638,
     "as_of": "Sun, 17 May 2026 00:02:31 +0000"
@@ -8576,8 +8576,14 @@
       {
         "title": "Fleet of hydrogen trucks set to hit the road - 1News",
         "source": "1News",
-        "published": "Sun, 17 May 2026 23:19:08 GMT",
+        "published": "Mon, 18 May 2026 01:38:20 GMT",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS0hVclBQMElOUjVXWUdQS3J5NjJQSnNoMzQwYmFSRF9ycVdYX01DVU5jaEdvaHFzaDZqR19vN3lsQWVBVG9ZMGdKZHNGS1hzYTMyX2ZnNHpFWnhtb0ZubF9NLTVSMHVLM3JaMUFVTkgtV0x4Z2pMRVlCcTJuU0dQcUVmc3NZUms?oc=5"
+      },
+      {
+        "title": "Petrol and jet fuel dip, diesel up in latest fuel update - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Mon, 18 May 2026 01:28:07 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRTlILUtJWUc5YXp6WkRYNW0zLXlyRXh6TTBtTXBCSVNkVkNIMlBjVFQxMVhSSDZhYXpQUU1pWm0zYkxlQUdEaWNUTEZQcExaekU2QzdpUGFFR3FpRWJMNDV3aV9XbHh1eVlpeUljTjhHcFRKenhBS1NLUVdaX0h5TXJZWUFXeHViSDlKOFU1bVprcXU4eGdfRnF4Ykk5Y0w2MVVkWG5hdF9xakluNEpBbU9vZ3gwUUtzcWdQLUNsbw?oc=5"
       },
       {
         "title": "Air NZ warns of more flight cuts amid fuel cost pain, decision just weeks away - NZ Herald",
@@ -8614,15 +8620,45 @@
         "source": "1News",
         "published": "Fri, 15 May 2026 00:05:18 GMT",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWnkzMkFsd3duTWthNV9pY0E0M3lfR1lCaEQ1QkthTHE5ZTJZLUlIeEd4bjBfdDAxN3F4Uk9GcUF4TmxRUUlha0hlVEZ0M21QdUdCR1J2d3hwb3pIaEVHSkZDaDZLVDVCcUdrcTVmcVpBcVQ2cVl0RWo0WGQ0WldrcHM5NjFVWnR2N2JnS01R?oc=5"
-      },
-      {
-        "title": "Monthly petrol prices up 13% and diesel prices up 37% - Statistics NZ - Interest.co.nz",
-        "source": "Interest.co.nz",
-        "published": "Thu, 14 May 2026 23:36:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYjRLYThwM2ZCVGlwZDFKZEJuUTJEM25TZ2RSdXdGcG5BbUpjQldURjAwZ3N0RER1YTRLX1hvMUloM2RnREsyM3FIMWpNZnRDZDFMVUUwZzl1Tmx1cVVyaFlGWDNQbFpQT01pbHpxNUFfWGhBTFYwWldiT21yOUc1TjhmUkJvcWVfV2w0YU9JTURCanhHY1VzdTJ2MlJ2Nk00Uy1NUWZFS25fSDRZemoza253amhGMlFCNDQwZXZEYktPdzFHTnFCQ0J6cUZTdw?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Drone Attack On UAE Nuclear Plant, Trump's Iran Warning Send Brent Crude Past $110, Dow Futures Sink Over - Benzinga",
+        "source": "Benzinga",
+        "published": "Mon, 18 May 2026 01:38:36 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWXZrSGd2Z3hIUnBqODE4STQzTXBFNzVnUm8wdHJuUDBPbXo4WWttTnpCVG4tYmcyd2htQUt5d29nMEhnNXZVSWZwUFpUNzUtZE5ScUhlcjYxTm9oVkt1TTNQeEk4dmRWZ3MwQW5hNlJCR3F4VlVRa2lJbC14SXpuRHN4ZmZoMjN2ZXVtSG5BbmdyYzY5YWxJZGlMV3QtRGNESm1HenRrZnRYRDBiOElLSw?oc=5"
+      },
+      {
+        "title": "WTI advances to two-week top, eyes $102.50 as rising Iran tensions stoke supply fears - FXStreet",
+        "source": "FXStreet",
+        "published": "Mon, 18 May 2026 01:06:01 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb1ZMQzJQNFYwUFdhcjFsaGlGWlp0LXBtWUcxR05xVEFOczJ6cGdOWU1FWU84dk14V2sxOExiNWNjcGlWNGstMUlFVmI0MS1ZT28yZEdnUEtJakVaUlNWZzJNYnIyNXZwR243VkxBdDgzaXRmcHJDdUI1RWUxWHd3Tk1DWFdMSkJPYlJfajl3N2UwVC1Fb0hJNnBGR1U1MmFXWFl4aHhVZUtFaVNzSExBRHgybmhFNlBpX19IbDdfNFdFTHM?oc=5"
+      },
+      {
+        "title": "Oil Prices On May 18: Brent Crude Rallies For Third Day, Climbs To $110 As Trump Renews Pressure On Iran - NDTV Profit",
+        "source": "NDTV Profit",
+        "published": "Mon, 18 May 2026 01:02:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYmpORWlEYTFWYXpkcEJqRDNNS0NOUVFDUnNnVVM1eVI5YmRVdHpsWHgwOE5YMDltcWJoTW81QmFRRVRCbHVHNUtxOTdoTjRaQ2I5dFVFSThwVUJzUFNxSHdGenZVcHlPQ3Fnc3dUTlFTb0RRRWNrcmlPclZBLV8tVDZtN1ZkZ1JkZGxhUXpPR2JpV2dlc0Q5SnJjQWp1dmx5by1zNEthaU1QVkR2N3p0SExUYWpLUTFXcURidDFWVFN6cFFzNjVGWUVST2J4ZEY5Q2RVSGNMSXBIZ3RMOEHSAeYBQVVfeXFMTlZpNEwySzZnSlpFQV9ma2JSckhkakpsUU9wRWFRTWtBOFN3WVRpX1JPa1pFVHFFR3NyQTg4YWZGb2lReG4waFR5Z2JHMGxSTVBpSU0wSzZKbkJwQ0VmNnM5akVqMlNpQ0N5ZDJJT1ZYR1dFX3FLR0JSbk9vTG5ud3JwRzBqNlp1YV9zWmVaN1hpdl80US1VLU0zSVMyZlU2NF92WHRHS0Zqems5bElpWDZsdDNZV0w5UmVlVGVpVmtQWGxiNFBkSjJvUzZjQzFYVTh6dDhCT2xMQnFhaGoteFFzNGhNeEE?oc=5"
+      },
+      {
+        "title": "Oil rises as Iran-U.S. deadlocked peace talks fan fears of extended supply disruption - CNBC",
+        "source": "CNBC",
+        "published": "Mon, 18 May 2026 00:39:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS3RaRkJsSDdhbkljLTlvTzJPbUlvaWhKeS1OcWJaUmNmZnY3c1g0V1ZoeE5sMXRxSU85TkxVTlZLbmhRMF9tQ0tMN0xkVzVmOXRxNmJCTVMxZ3AybkVGc1o2SWk1LUlVVVl4ZW9mRkt5cldBR1dqYXFpZk00NzU1MUpmYy1nSDBrQmNTcy1saHNTUURUVEh30gGcAUFVX3lxTFBjNVI1OHFQX053bUtjd1M3RGY1eDlvUTI4S05kUVpRblh6MXdNSDhuX2lDaGhkZFlXZnJ3VGhOM0FBTXg0NDllVzRkWFpYTl8xbndZY2Z1ZVZLWnR0LWx4ZkM4YzV4MFdrdzJnczdLX202M3FHWlRicWJrd2xRTklIcU1RMTl6cUlEN3F6VEdhcXBxMXNIYkc5UlQ4dg?oc=5"
+      },
+      {
+        "title": "Oil prices up sharply as traders weighed ongoing supply disruptions, benchmark crude contracts further above the $100/barrel mark - Gulf News",
+        "source": "Gulf News",
+        "published": "Mon, 18 May 2026 00:32:35 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPbk9DOU1XVmxhaW5qRF91ZmlZQXZxNDJsLWN6VEgwcjUyRW9ReVlIdk52dUs4UFdpWVhLRUktQnZuQWJOdDJmSE8wTlBXS1BXaWltd1g2b3VQdVJVRFJWaUtQNlVVTWxCTFpRckYwWmlIWENsY0h3X3RSYVN2WFNsRXdfaUZIV3ZXeU5HcDdmQmQ1VDJ3c21mbEJuNTRJX2FYakVMUlhrTFBqVmlTNUFVZTNPOXdTUEFtUkhfMXZYTmNhNjhpZVJJM05BNXVKV0xDR0R3Z1UtZDI3bXVoNEVqWF9RZmRiZUY2S1ZILURBYlhRSllGaFpPaDBCVkpuYV9SRzNQbmd30gGYAkFVX3lxTFBVME5UZGdYSWdFQ3ZwQkU4Zmc4TnN3OFd4RFljTUVkb0hIRjJCUGZVYms5clJXWlN4MFBSMmpuVVlqaVVGenBaR1BvejVsMHlsNi1LN2JydV94dzFQSzNDRmNqbWUxU2IxNVltdTJGOTdNVkpJUjRwT0lCTmVJNEF2Qk5RZnl6TmtkVjBEQWpONnhKeUE4eHJKV0NQd21PVFgwcV9iWmtDUnlqMS1Ja3lNZDVBQ2xDbTNPWDJsaDMxdGpwcU9vcm41b3d4NlZqbVBUVkx6S0t6MHdRdFpXdmVpM1d1UTUyeUFpRUZOd1hqWGxQSFhrS1l1bHZvaVlZU3FxTDJuaXBjcWVxdEVONmJrM3IyR19zNno?oc=5"
+      },
+      {
+        "title": "Trump’s Iran warning stokes oil supply fears, boosts WTI price expectations - Crypto Briefing",
+        "source": "Crypto Briefing",
+        "published": "Mon, 18 May 2026 00:01:07 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSjJKU1RpdEVkS1ptc2hPWW5rRzJJdVVNbWxTUmhrcmpUNDg4R2w3QVdqSENFQzdOVDZxZVRNV1RzTGtSUks2cE4wN2FlOGlOMW92Zk10aWVSS1BFVTFOQ3VSdGxnZUhEdzJLdWwyRC1wN2dWaTZfSDVBT2VMTzlVRk5kSG1LZTc2aHNZYU5XRDdDMjZvZ1AtbXlFN1I0U0lmLXQ0?oc=5"
+      },
       {
         "title": "Oil Rises for a Third Day as US-Iran Talks Stall, Brent Near $111 - bloomingbit",
         "source": "bloomingbit",
@@ -8634,42 +8670,6 @@
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Sun, 17 May 2026 23:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa2FZYkRQQk9lb0ZDZlRsX2NlUlcyV3lKRnZ0N3hFUGNuclZrSUJ5SV9xeWxiaTF6QUNkcVRnam9fSXg2X3RGVDdnc2t4QzA3aHdzLV9SeFlKNEdrdDBVMU9VSmpPYVhUbG44M2NfU3BCeTJCY2RYU2pwRlBHYzVZZDVR0gGHAUFVX3lxTE5yY3RpWFlpRUdiY1I5VDZFbkt0M3E3b01OZ2hVUGJOZHRMY3FYX0Y0QnRGUGk5QzA1SUVEcmo2aVBWN1p2ZHVOOXNCSlhwWFN6b3VBMTdDYnpLbVpWWmFiNFdkaGhuTDNPMnozNjZNWnNFc2Vpdm9oRmNwaGxsUVpSRnJBY3c3WQ?oc=5"
-      },
-      {
-        "title": "Stock Futures Drift Lower, Oil Rises Amid Iran Impasse - Barron's",
-        "source": "Barron's",
-        "published": "Sun, 17 May 2026 22:10:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13WmFQR1p1ZnVfT3Vtc3o3bVRTNEQwYnNiQ2NId0o1TFhGNDhvSS0tQUtXaHk1bEFydUZKc3BVSFRCZFNGazR2OVdPN3NxS3hZUV9Ca0cxQ09KQWlOb1NVaFVEUXA4VkxtM3l2aW9SQzR5RllMQmc?oc=5"
-      },
-      {
-        "title": "Washington lets the Russian oil loophole expire, ending months of seaborne sanctions relief - Euromaidan Press",
-        "source": "Euromaidan Press",
-        "published": "Sun, 17 May 2026 18:56:19 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNWxySHo2dVA5S2U0VXFsalZLTjdaS3I1RS1WcGVXVmk4QkNVdmlHRmFoNWlLbzdnczRMZWF4NWotLXl5SVZJRDVJY0MyWVR4SWZzbkRKeDdjR3ItemU5a3didTd0aU1VM0wxREFjZzlvc19maWxZaXBXTzQxMTdxN09uYWJHYUtROXl3TmJBMVJ2UEkzOTVFOEcyTDZ5b2l6UVlLUlNOTTVHbnlJNzRnT3VyY3pVTEVmQWNIZXB3cldFcW9kNFk4VWZB?oc=5"
-      },
-      {
-        "title": "Kharg Island and the new energy war over Iran’s collapsing oil exports - opinion - The Jerusalem Post",
-        "source": "The Jerusalem Post",
-        "published": "Sun, 17 May 2026 17:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Uc2JST3cxRWx0cG5HY3JFYzBkX09zdlgyVk1SM0NBV0EtX3BxYkRWN1JhU0R3WkhRQWVwQTlVTzY5RUNsZjZTQS1XTDZqbFMzcS1nU0xqWQ?oc=5"
-      },
-      {
-        "title": "Middle East crisis: Global oil stocks deplete at record pace as supply losses mount - EnviroNews Nigeria",
-        "source": "EnviroNews Nigeria",
-        "published": "Sun, 17 May 2026 15:12:57 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN25qNXFpbVRSazZEM0QyUzdWUm9YWUpiR29GT0p1OFlRZUpBY1huZG1iU1JlR0tTZmJRd1ZDSWdSYnluUktKdl92TDhraEpINXl2UDFWM1ZhQ05uYkVnaldSOHU4VzhhTWxkY1lUWmxYbkppeUp0RkxfQU9JTFJOSkhtVVZfaDNMcHJmUDdIeXp5ajN3QVJvNHpXODEwQV84NFROOHFzU2MzVTV5T1VIYVJ4SjhwRUVS?oc=5"
-      },
-      {
-        "title": "White House appears to let Russian oil sanctions waiver lapse - Straight Arrow News - SAN",
-        "source": "Straight Arrow News - SAN",
-        "published": "Sun, 17 May 2026 12:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa0x5Qk9vNmNPNjBHeEx3X3BIeWdyQ3Z1N0ZLcmV4cTI0NmJHbFBtdXIwb1dXWGdFM1M1NWJBTkU0S2ZFR3JHejVOWVpMbkdjeGtNT25JNkx6UURSdi1VMFAyV2JzczA0bFVHMGRMci10c3Z4RTZjTmJQN2FvLWVSUk93aXA1UHVx?oc=5"
-      },
-      {
-        "title": "US Waiver on Russian Oil Purchases Expires - Egypt Oil & Gas",
-        "source": "Egypt Oil & Gas",
-        "published": "Sun, 17 May 2026 10:47:06 GMT",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03b3o4TEpEU0VJaGpoMjA0cHVUWXlnNlBaOVoydGF2amEwVVNpVUgzODFxUU9jS0wyRDhwdmZpSzVPV2NMNTQ3cl8xaDNsNnZtSThGLW1tQmFSOFRfcFBQOWotOGlFQUxrN2poS3Z3bw?oc=5"
       }
     ]
   }
