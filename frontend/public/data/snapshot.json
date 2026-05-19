@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T16:40:52+00:00",
+  "generated_at": "2026-05-19T18:28:12+00:00",
   "fx": {
     "nzd_per_usd": 1.713003,
     "as_of": "Mon, 18 May 2026 00:02:31 +0000"
@@ -8582,16 +8582,16 @@
   "news": {
     "nz": [
       {
-        "title": "Petrol stocks drop nearly three days in latest fuel update - 1News",
-        "source": "1News",
-        "published": "Tue, 19 May 2026 14:41:02 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTHdpZjRMeG5xTGtqamlJbFUxYlg5amdLR0w5VmpVZWFlMTV1a3lrMTlfY1U0MS1QUjQ5dTJGeGtjRXlTQ0RQN2tRNVhVOFBQRjZaaE5tUmhUTUR5RkdwZjBHeGZ1WWNYcVJadTRBUERFb1Q2eE80LTNDTlpSVFVfUHY4b2Z6QlBWR3BuTDVKeWk1a1ZxT2kzdmpR?oc=5"
-      },
-      {
         "title": "Auckland Airport’s international visitor numbers up in recent months - The Post",
         "source": "The Post",
         "published": "Mon, 18 May 2026 16:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdVAza0t0THFZMnliUmlkNTZ1ZXhhRzBJYVBaTzFvbk1PaXgyLWJkdFFFb3BpODdCUVFib05CNnN5ZDlidDdRSGVJNExFR1I3cUxaVGpQdTlxaVQ1NUlHc0hNSDhhbFZDeUx3NC11dmZZR3c5US1lb0hTSWxMSzFINGYtMUtwUFJrb3d3X1dSbnhKd2MzcGNLX2JTS1B4dENuMU5wNmRVRjJ6dw?oc=5"
+      },
+      {
+        "title": "Petrol stocks drop nearly three days in latest fuel update - 1News",
+        "source": "1News",
+        "published": "Mon, 18 May 2026 01:53:21 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTHdpZjRMeG5xTGtqamlJbFUxYlg5amdLR0w5VmpVZWFlMTV1a3lrMTlfY1U0MS1QUjQ5dTJGeGtjRXlTQ0RQN2tRNVhVOFBQRjZaaE5tUmhUTUR5RkdwZjBHeGZ1WWNYcVJadTRBUERFb1Q2eE80LTNDTlpSVFVfUHY4b2Z6QlBWR3BuTDVKeWk1a1ZxT2kzdmpR?oc=5"
       },
       {
         "title": "Petrol and jet fuel dip, diesel up in latest fuel update - NZ Herald",
@@ -8632,6 +8632,42 @@
     ],
     "global": [
       {
+        "title": "The Global Shale Race Is Officially On - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Tue, 19 May 2026 17:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdVBhaUhJTnduVVZCdFUwV3N0RUY5SlpPUlJ3dmRBYTlvTjR5eVdXS0RIUWwteFRCQ1ZOMGM4bFJ5UG9XblZibGg2Vko5V29oeFd2YU9hMnhLV2FrNXRpMTNmbFBLV0YtOG15Tm1YUm91RjNhc19pQ2x3QllWLVNXWjJ1RERxRXdB0gGOAUFVX3lxTE9VTERRS1BYYmNZbkNHSnJlZ29IT3AxWFZRaHdNMXduLUxaOV9sRWxuMmtORFVFREtVTzRmclZlMV95aW9kUFJMeUdyc0VtaGlXOEc4bW1wM2lwSmhzOG9zbWJvRy01X0YwdVR0OVE2YUdoY3FHY3VJTmZBakYwOGZDd0loX2ozZ3VqRFJfZUE?oc=5"
+      },
+      {
+        "title": "US sanctions target Iranian financial, shipping networks - JNS.org",
+        "source": "JNS.org",
+        "published": "Tue, 19 May 2026 16:46:34 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMW9RQVpWejdITGxwb0Y3NDJxYkdhWWhkY0t0ZXpLNXlDVXdsOTQzU1RQdmZiTDQ1djg3Vl9FeFk5VmxteVg4SWxPUlFTUlh3ZkJjUlZUeEU5VmczSXY5Ri1ZT0pnQVNHWDNyOWllV0tKSnFUSVEtekFlblVJVGlYRUdsT05jTlY5WC1iN2lGdEx6OVU?oc=5"
+      },
+      {
+        "title": "Oil Prices Drop as Trump Waffles on Timeline for an Iran Deal - Barron's",
+        "source": "Barron's",
+        "published": "Tue, 19 May 2026 16:13:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM0JtR0dhaThuMU1mcl9tWUdlWDBCVlU1czFyWEhENjh1THlSLURVc2hTOEpPSjlBbTFBa01IZWZ3SUJIRFh4ZUIwVGNsVTVlUzZqYnk5NS1HOWNfN1E1YjBQTjVGZjVfS2diMWRVMXFGVkxTVXlnN1ZrSE5QRWQxbG5n?oc=5"
+      },
+      {
+        "title": "Brent Oil Futures Chart - Investing.com",
+        "source": "Investing.com",
+        "published": "Tue, 19 May 2026 16:09:03 GMT",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04ME5vXzJRcUdUX25xMzFhblR1LVBDc0RrY1JWNFhJUVdBSlZNbUNXMXRxTEdyeHA5aU96OFJURmlvX3lEWmRnLWo1MEtSWmxFWTBjbEdEMU5INjRteDU3Z2owV2dCQ0hTdjNEdDQyaUg?oc=5"
+      },
+      {
+        "title": "U.S. Targets 19 Tankers, Shadow Banks in Major New Iran Sanctions Crackdown - gCaptain",
+        "source": "gCaptain",
+        "published": "Tue, 19 May 2026 15:58:26 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN1VfY1czTFhBUlBZaFJfZWdPbXlVSlBqTl9XSEp5UnhRNU1pdFB5dDBuRGpia0VXcFNFQXRfeTB4YnctMlBpLTRucWwxaG9HYzhoZS0yOXM3a1o3Tjk0VmI4SU9QNzh4a2NjWDBXajAxWkFDeVlHUEc3akd1cFlKZEpVREFxdlVtMC11VmNybld4b2R1OU1CNTNiZw?oc=5"
+      },
+      {
+        "title": "Current price of oil as of May 19, 2026 - Fortune",
+        "source": "Fortune",
+        "published": "Tue, 19 May 2026 14:56:50 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DWURMeDY4Y3hMVU5UblNMSVJIa2g1Y1dJN05SaWRIZ1ZBSWw3bkd4Y3ZyNmJQdlR6Yk9WX2lzUkh6dndBZ0EzREVLRndTaThpOGY5MFVQSXRLWFpxZjRKbGZ3?oc=5"
+      },
+      {
         "title": "Crude Oil Price Forecast | Strait Of Hormuz Closure - Capital.com",
         "source": "Capital.com",
         "published": "Tue, 19 May 2026 14:32:57 GMT",
@@ -8642,42 +8678,6 @@
         "source": "Al Jazeera",
         "published": "Tue, 19 May 2026 13:48:49 GMT",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeU5CN3NTUEtFMzc3TkRfZ2xtSVlCaDk3enBSdHliemtqLWk2Z3o1dk9TLWY0eS0tNjFIanNBSlJEdTBKeE13ZjNRZjJkV0ZmWEpGQUJfUEY4X3U3YkxWZ2lhSVdTRlgwZ3VxZjgzdDJLVUN6ODcyNzNkWGd4aExBRTJjREt4a2pFdk82aWpCcFRDWUU1emtwRmJnRjhUVlXSAaQBQVVfeXFMTzdXSXJZTl9OOFZNci1SUjQ0VDRnc1Z4V1VNRmllbHNNTFM2V1dDRUFQMEZ5NHJBN1d1S3NiYXlObm02ekQ1ODdNdUFOX0wta3JMb0hGXzg5eVcwVFFzRW1TX0FYbGlWNkFXODJCRkpVTGY4cUphbFVsa25LekMwcmlQZGc1bC1haUo5dEFIc2RlSE5EQ2ZYXzN3aFhpTDBIVlRvaVM?oc=5"
-      },
-      {
-        "title": "Middle East oil shock fuels biodiesel boom - DW.com",
-        "source": "DW.com",
-        "published": "Tue, 19 May 2026 13:25:31 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQW1EOWVwbVhfa0JVTWJzNmVoWi1JVGN5bnhka0xUNFEtLXZVZDIxTkRKeEpRQUs4Z0pWbU9yNlZlODRvWjV0dklUeG1yaXhGeVZiNEdGU2xoeEgyb3FJVDNMSFRTYm1kaDBqMGpOLUhqN0VqNm9NckcxaGRvamN2M2ZUM29MZw?oc=5"
-      },
-      {
-        "title": "Current price of oil as of May 19, 2026 - Fortune",
-        "source": "Fortune",
-        "published": "Tue, 19 May 2026 13:24:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DWURMeDY4Y3hMVU5UblNMSVJIa2g1Y1dJN05SaWRIZ1ZBSWw3bkd4Y3ZyNmJQdlR6Yk9WX2lzUkh6dndBZ0EzREVLRndTaThpOGY5MFVQSXRLWFpxZjRKbGZ3?oc=5"
-      },
-      {
-        "title": "The First Major-Exchange Compute Futures - The Innermost Loop",
-        "source": "The Innermost Loop",
-        "published": "Tue, 19 May 2026 13:20:31 GMT",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMQ2FZUUNzYmsxdmVUbHdQdnhBemtIbUhHYlN5REpoRXQxVDN3YjVVS1ZKM2o3V19BdUNYX254RjdLTktJUzhER2tlbDB6eFI3RDhBUUlmeVdlYktDTVlYTlZBZkVFYXROZm9PUFpoNU9sUThYZFg1T2JmTTk?oc=5"
-      },
-      {
-        "title": "Commercial oil stocks are falling \"very fast\" as Gulf supplies remain disrupted by the Middle East war, even with the release of strategic reserves by governments worldwide, the head of the International Energy Agency said. | via ANC 24/7 Read more in the link - facebook.com",
-        "source": "facebook.com",
-        "published": "Tue, 19 May 2026 13:04:29 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMzAxWTFFZ0dvMlNKUzlJdDFkbmVqWnVJVVNsb1NnZ0lFV2VCZWFKa0FqdGFfc3JYV2pLYURIT05RbTZqOEZiNl96Wjdub3FWY3ZCWC1FVFU4YlAxUEI3Tnp5Y1VYVWNwbTBnV3czdlVmaWdRN3ZTSXhQX1ZNWTdKTTlNX1dOblNuQlp2WmxFNloxMmZnT00ydVR4WnNzaHNXOEQxeXdfR2VWblF6NlM2eXNDdEVzSjNpMnFPclhGWkdVTTVjWVRITTd0NmdBSTBucGRGdTVZRQ?oc=5"
-      },
-      {
-        "title": "US extends suspension of Russian oil sanctions, triggering clash with EU - Eunews",
-        "source": "Eunews",
-        "published": "Tue, 19 May 2026 12:58:34 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbm41QXoxWmVOUEhBTEhsSWRRZ1VxX0ZwOWpyTk5jSFpzLW43UzZyZGhEY29PREUwX0tRR3p5T09fQ1czRktTUFhWckxuWmV6aXAzOXhwTVdxQjRYcnpwYXNjVm5ScVZCOVlBaEJiSXliOHdJYTV0dF9CeFhYLUxrYXctS1djLWRtdFRRY2s0azFYTUUtdWFrdnNsVHVhRkhkOWRKNHhWUUhYeXJE?oc=5"
-      },
-      {
-        "title": "US-Iran war: From Russia to Middle East - how India is managing to secure its crude oil supplies amid dis - The Times of India",
-        "source": "The Times of India",
-        "published": "Tue, 19 May 2026 12:34:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNMjliVXJ0c0pHcUd3NFIwbDNOWGMxMFIxbDBXYVVXdDFYMS1lTkEwWC1JcXNvVXh0TDl0Q1JzbnVkeVdnRVI5RU9vTEtNN1prTk1vRUtxTWV5bXFmMXBHZ2I0UTI1dDVGYlhDZV9GVWlQbFJyNkU2cGdUcXFvekZtQmtUcDVjaHo4YkxUTHZjUUhzS1FQSk9TWVVhT3NIbW5ZUW9lR2lvOWd5dW5Xc255SE9QTE9zX3kxNUU1cnVobHRnTGo2anF5WlZJcXN2QnZBeHZpWFBIaDREbXBwVzZHcGFfc19GOFJoQmltZGp4VzBuazh3OUJseGhGeEhhY2RsMWNfc1FZX2JsbnRvRlp6UEdkYnp1NklqM0E5REVpVUkyMVhPVHo2RUJEbHFyZ082UmppY3I1dUjSAb4CQVVfeXFMT0laVjZ2ZThLUGU2WFBvY2s1OG9WQ3k0ZEp4Y0pSQU9LbjdYRGhjU3kteHdScm9xdTE0ekV6eU1KYkdSUERFREd1UUkyRmYzSFJ5aWNabm56UzU5cTNrVGNNTFVOUWdRU0x6X0lrN2FVZDB4a29iMGlwVURlTHdMdmdyVm94VDFNak5pSTJ0M0EyLWZiamRIWFVHMFZqVEtGN1Rfc1BjeFdRaGJSY0xlek5oVF9xWkNWQnU2dmRxUVpIUWZkYm1lTW4xb0FXR0diNE9sMDc3YmZWYTMwR28xenB3Z1hzSU4yUzVjeW03dHVWTmhVSy1vaDR5QnJUUU9CZVFYZ1JqUzNnNGxTckUwRlF5WjQ0N2hRT1ViREJWSFFYaHFwT01hQWZDTEJ1a0xSdWQ4eWdzMTVWbGQ3S0Jn?oc=5"
       }
     ]
   }
