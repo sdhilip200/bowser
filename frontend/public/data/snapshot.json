@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-19T18:28:12+00:00",
+  "generated_at": "2026-05-19T19:52:12+00:00",
   "fx": {
-    "nzd_per_usd": 1.713003,
-    "as_of": "Mon, 18 May 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.702648,
+    "as_of": "Tue, 19 May 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 109.6,
-      "latest_date": "2026-05-18",
-      "delta_1d_pct": 0.31,
-      "delta_30d_pct": -0.15,
+      "latest": 111.42,
+      "latest_date": "2026-05-19",
+      "delta_1d_pct": -0.61,
+      "delta_30d_pct": 1.97,
       "series": [
         {
           "date": "2025-05-19",
@@ -1017,15 +1017,19 @@
         },
         {
           "date": "2026-05-18",
-          "usd": 109.6
+          "usd": 112.1
+        },
+        {
+          "date": "2026-05-19",
+          "usd": 111.42
         }
       ]
     },
     "wti": {
-      "latest": 102.24,
-      "latest_date": "2026-05-18",
-      "delta_1d_pct": -3.02,
-      "delta_30d_pct": -9.05,
+      "latest": 104.48,
+      "latest_date": "2026-05-19",
+      "delta_1d_pct": -3.85,
+      "delta_30d_pct": -7.5,
       "series": [
         {
           "date": "2025-05-19",
@@ -2033,46 +2037,50 @@
         },
         {
           "date": "2026-05-18",
-          "usd": 102.24
+          "usd": 108.66
+        },
+        {
+          "date": "2026-05-19",
+          "usd": 104.48
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-05-18",
+    "as_of": "2026-05-19",
     "regular_91": {
-      "avg": 3.247,
-      "min": 3.01,
-      "max": 3.489,
-      "count": 63
+      "avg": 3.27,
+      "min": 3.024,
+      "max": 3.65,
+      "count": 69
     },
     "premium_95": {
-      "avg": 3.435,
+      "avg": 3.455,
       "min": 3.119,
-      "max": 3.59,
-      "count": 23
+      "max": 3.649,
+      "count": 33
     },
     "premium_98": {
-      "avg": 3.462,
+      "avg": 3.542,
       "min": 3.389,
-      "max": 3.499,
-      "count": 3
+      "max": 3.639,
+      "count": 4
     },
     "diesel": {
-      "avg": 3.17,
+      "avg": 3.186,
       "min": 2.899,
-      "max": 3.999,
-      "count": 82
+      "max": 3.799,
+      "count": 85
     },
     "lpg": {
-      "avg": 2.979,
-      "min": 1.959,
-      "max": 4.0,
-      "count": 2
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 76,
-    "observations_yesterday": 88,
-    "observations_older": 9
+    "observations_today": 88,
+    "observations_yesterday": 92,
+    "observations_older": 11
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8632,52 +8640,52 @@
     ],
     "global": [
       {
+        "title": "Why are oil prices down today and will Brent, US WTI crude futures continue to drop or rise again? Oil set - The Economic Times",
+        "source": "The Economic Times",
+        "published": "Tue, 19 May 2026 19:30:07 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPSHZmSmhVYzl4R2Ryd0NWQmd5WDNNV29CNzdtNHp1V0szdVl0bW1YQ1JITGtVTi1UZ01UT1JLMWdPYTNjdndWVTBTN3g2UzhFQkFxbDRtZEFsSms1SWJRN3Z4bjlUTmpLdDM5TXdGNE5GV0VhclAwalI1eUpHSUhTWklpZUNaQ1hIdnpNMzNQVFNjWlVBczZnblNLaHo4RUlYTnZfV3J4N0paazVmcVdXQlg0RjlRbVJTeXB2WDVCMXJ3OGJLYldyZ2M5Rm5IcjVYTjJjdER3U0hManRNT0xVVnB1SHozemowYmZZcnp4NFlWRlROeGVGdXB5OXFLOU9HZGhGZXdRU0xTTVVxQTJ4Y3p6MUJCTE04UjVFSm1sb19iWkU0LW1ESUlhQm1kY1JLOFpBaktRd2xVWVhU0gHCAkFVX3lxTE1wdGcwdVhDeEE3TW9KLS03WGt6MnhmNU8tOW1zcDdicnp3dUtLNzlfRVdYeVZjcnUyZ2tENF93bElrV2VSNlVWeXZ2RVpOV2MtN1VHb2k4U2hSZGJKVXdaMzNFVVpqSEVSdUZrbV8wdzk5LVl0Q3VWNTdUZWFhMVV1aDZmTUp0SlZkdVIxaGV4XzBkX0JWeWt3dXVEdW9hczNXVEJxdTQzaVprcGxZUnlua2lVQ1NVaWkyODBrSmgxTVhjbGFSNDd1YXVRWER6b28zZlpsMC1nVVBZdnhUUTAxYW5jQWw5cDE3Nllfd2pERlQyc1BZcnVVVC1Qc0NGSnItYmZCMnU3WmtnNU5OWXVOWGdLeGdmY0tTNEFOcXZVX3FNYW9TdnB1aFVBVnZuaUhuN1NjeWlUMXhxZzlSSnJjN3c?oc=5"
+      },
+      {
+        "title": "Oil futures: Brent eases as Trump postpones renewed attack on Iran - Quantum Commodity Intelligence",
+        "source": "Quantum Commodity Intelligence",
+        "published": "Tue, 19 May 2026 19:09:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZi1RQ3RkLVVBLXhZYUJjZ19sTTJHU2gyeUZOendWWWN4bmJOOEJCNjFSM1pCbXhBSlNJXzkwX3U0VjlOQ0lxZExPcEFxMl9vdFQxLXNfRjFEUHJ5VThRc3JIb2xmM256WmVwMjlRcUQ2MmxRaEtJNjgxNzZGenZ5cEQ3Zi1PMzU4ZFEwZmVBb3RjMUVNUUJ0cmQwUWY0dDNFOUdZa28tb2NlNDJB?oc=5"
+      },
+      {
+        "title": "Citi sees Brent crude rising to $120 a barrel in the near term - TradingView",
+        "source": "TradingView",
+        "published": "Tue, 19 May 2026 19:05:47 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSEF5QTRCc3FRc3BsblJWam1OaV8zMGlKQndPWGlEWW1BR3R5Z3Zic0tEaWxHUFA5WW04eXptZFl5X3RhU0lkUUx0NFAtZ2pqTmM5Vzk1TVkwdWtzU0dJeW40LVpqMHM3dXhQbG5aZGl2QU9iN3d5RGxlcWxoc2JVNjBZTDl1enpCWGsyREF1bWxXRFlWb0F0b3NuX1V3YTB1dmZJT1lLV0FRX0x1TTdmUzVqQTBzcmpHY1NEZVhNM0tDQ1F0WGdlUnNmaw?oc=5"
+      },
+      {
+        "title": "Natural Gas, WTI Oil, Brent Oil Forecasts – Brent Oil Gains Ground As Trump Threatens To Hit Iran - FXEmpire",
+        "source": "FXEmpire",
+        "published": "Tue, 19 May 2026 18:48:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVkg3Z0hwc1NHTC1zQmlJTFFzU3hqbUJoT1gyVkNYT0ZrTWV3REZSN0Z3eXdHVk9rVWpEUzZkRVZXSjNNS2dzRktQeklhS0UxMzhsMDQyUFNiV2ctTkNEU3BnMlFnSVlHNEgyZTRmandScnAyNTMySGtFcFpjTW9nMGkxSkdvSG9Qb1pJT3VpcFNmcmc3aU1RRndSY0pYRmppcWR2Q0JrdW84dEtwT1hxd0ctTjZxSWc0aGVXUlhYVG5paUdvcEFpSVRzVVBoelB6RkREWGx6ZEVsMXU3?oc=5"
+      },
+      {
+        "title": "June WTI Crude Oil Contract Closes Down US$0.89; Settles at US$107.77 per Barrel - marketscreener.com",
+        "source": "marketscreener.com",
+        "published": "Tue, 19 May 2026 18:36:38 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOHZHUDQ3MjJsd1EzSC1mSXBHNkQtVGJIZGNTOFBiSlh3eWt0U05yNGVzem0tQjNJeUkyS3d5NnlOeThXQ2lHX0hoQkFkdHk4aGljYnBTVXdOSWRMcjg4THhzc0VOWWZybjJIaTQwN0ZCRXRXODJsWWk5SmpVRFlwaXU4c2xYQ1BpTFNJemcxY3Fja2o3VUxFRl8tdVY2cTM5YWNaUHpnWG9vaXRmeHozTVBLTkhsX2NaeFNPTS14SWlxbDVpYmRfSEdINEs?oc=5"
+      },
+      {
+        "title": "U.S. sanctions 19 vessels in expanded crackdown on Iran oil exports - World Oil",
+        "source": "World Oil",
+        "published": "Tue, 19 May 2026 18:31:25 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbGFDRTZkcW45R3Nta3gySEg1U0g5b2g1UG12V0JVa3ZaOVFDVFdkNDdJV0U5UEF4WmZXdldBX2RKS0ZtbUQ5VktpYktBX0tJZG9pcndkN2o2YnJOUUlScExqQ01VVVJ4a2JQNTdBbGxDT2k0eUpNNkt5OUktWWNqbWZlenJKaVlzdlJfbUs0ZTF0WFRxWDhOLTRDaWdGNzdqb2pKSXRCZWlaMEU?oc=5"
+      },
+      {
+        "title": "Mexican Oil Price Over US$100/b Threshold - Mexico Business News",
+        "source": "Mexico Business News",
+        "published": "Tue, 19 May 2026 17:54:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQlhtLUlJMU9ZdU1neThKZG0xTDhuTjlJdFI2dmhrMi1nVTdmTVd5eWc0U2JKNXFKWjZEYnd0U3BEVWZTc0lDbE1EclNGT0JaYThvZzNRUGtOUWx1Um1GcEdDUmNQemZGaUZIT25EbC1VR1pCYUxiU3BzSHR2d3pfbFBvdFE1N3Vlanc?oc=5"
+      },
+      {
         "title": "The Global Shale Race Is Officially On - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Tue, 19 May 2026 17:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdVBhaUhJTnduVVZCdFUwV3N0RUY5SlpPUlJ3dmRBYTlvTjR5eVdXS0RIUWwteFRCQ1ZOMGM4bFJ5UG9XblZibGg2Vko5V29oeFd2YU9hMnhLV2FrNXRpMTNmbFBLV0YtOG15Tm1YUm91RjNhc19pQ2x3QllWLVNXWjJ1RERxRXdB0gGOAUFVX3lxTE9VTERRS1BYYmNZbkNHSnJlZ29IT3AxWFZRaHdNMXduLUxaOV9sRWxuMmtORFVFREtVTzRmclZlMV95aW9kUFJMeUdyc0VtaGlXOEc4bW1wM2lwSmhzOG9zbWJvRy01X0YwdVR0OVE2YUdoY3FHY3VJTmZBakYwOGZDd0loX2ozZ3VqRFJfZUE?oc=5"
-      },
-      {
-        "title": "US sanctions target Iranian financial, shipping networks - JNS.org",
-        "source": "JNS.org",
-        "published": "Tue, 19 May 2026 16:46:34 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMW9RQVpWejdITGxwb0Y3NDJxYkdhWWhkY0t0ZXpLNXlDVXdsOTQzU1RQdmZiTDQ1djg3Vl9FeFk5VmxteVg4SWxPUlFTUlh3ZkJjUlZUeEU5VmczSXY5Ri1ZT0pnQVNHWDNyOWllV0tKSnFUSVEtekFlblVJVGlYRUdsT05jTlY5WC1iN2lGdEx6OVU?oc=5"
-      },
-      {
-        "title": "Oil Prices Drop as Trump Waffles on Timeline for an Iran Deal - Barron's",
-        "source": "Barron's",
-        "published": "Tue, 19 May 2026 16:13:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM0JtR0dhaThuMU1mcl9tWUdlWDBCVlU1czFyWEhENjh1THlSLURVc2hTOEpPSjlBbTFBa01IZWZ3SUJIRFh4ZUIwVGNsVTVlUzZqYnk5NS1HOWNfN1E1YjBQTjVGZjVfS2diMWRVMXFGVkxTVXlnN1ZrSE5QRWQxbG5n?oc=5"
-      },
-      {
-        "title": "Brent Oil Futures Chart - Investing.com",
-        "source": "Investing.com",
-        "published": "Tue, 19 May 2026 16:09:03 GMT",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04ME5vXzJRcUdUX25xMzFhblR1LVBDc0RrY1JWNFhJUVdBSlZNbUNXMXRxTEdyeHA5aU96OFJURmlvX3lEWmRnLWo1MEtSWmxFWTBjbEdEMU5INjRteDU3Z2owV2dCQ0hTdjNEdDQyaUg?oc=5"
-      },
-      {
-        "title": "U.S. Targets 19 Tankers, Shadow Banks in Major New Iran Sanctions Crackdown - gCaptain",
-        "source": "gCaptain",
-        "published": "Tue, 19 May 2026 15:58:26 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN1VfY1czTFhBUlBZaFJfZWdPbXlVSlBqTl9XSEp5UnhRNU1pdFB5dDBuRGpia0VXcFNFQXRfeTB4YnctMlBpLTRucWwxaG9HYzhoZS0yOXM3a1o3Tjk0VmI4SU9QNzh4a2NjWDBXajAxWkFDeVlHUEc3akd1cFlKZEpVREFxdlVtMC11VmNybld4b2R1OU1CNTNiZw?oc=5"
-      },
-      {
-        "title": "Current price of oil as of May 19, 2026 - Fortune",
-        "source": "Fortune",
-        "published": "Tue, 19 May 2026 14:56:50 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DWURMeDY4Y3hMVU5UblNMSVJIa2g1Y1dJN05SaWRIZ1ZBSWw3bkd4Y3ZyNmJQdlR6Yk9WX2lzUkh6dndBZ0EzREVLRndTaThpOGY5MFVQSXRLWFpxZjRKbGZ3?oc=5"
-      },
-      {
-        "title": "Crude Oil Price Forecast | Strait Of Hormuz Closure - Capital.com",
-        "source": "Capital.com",
-        "published": "Tue, 19 May 2026 14:32:57 GMT",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZmdMN1RqVDhBczY2S3NsM29lSXcxN0lPVVI2VTA5UVhseW9EVzl1d3JHZ3JNaVl4aEF4OS1TcENJbkdRT1preFVJU2lwSHBFSlBnSTNmMDk4aG5KMWN3RFRucFV1S1ljeUdJSTFyY1ZtMzFmTXIxS1ZkMnZ2SWJzcXJ6Yw?oc=5"
-      },
-      {
-        "title": "US extends sanctions waiver on Russian oil: Why it matters - Al Jazeera",
-        "source": "Al Jazeera",
-        "published": "Tue, 19 May 2026 13:48:49 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeU5CN3NTUEtFMzc3TkRfZ2xtSVlCaDk3enBSdHliemtqLWk2Z3o1dk9TLWY0eS0tNjFIanNBSlJEdTBKeE13ZjNRZjJkV0ZmWEpGQUJfUEY4X3U3YkxWZ2lhSVdTRlgwZ3VxZjgzdDJLVUN6ODcyNzNkWGd4aExBRTJjREt4a2pFdk82aWpCcFRDWUU1emtwRmJnRjhUVlXSAaQBQVVfeXFMTzdXSXJZTl9OOFZNci1SUjQ0VDRnc1Z4V1VNRmllbHNNTFM2V1dDRUFQMEZ5NHJBN1d1S3NiYXlObm02ekQ1ODdNdUFOX0wta3JMb0hGXzg5eVcwVFFzRW1TX0FYbGlWNkFXODJCRkpVTGY4cUphbFVsa25LekMwcmlQZGc1bC1haUo5dEFIc2RlSE5EQ2ZYXzN3aFhpTDBIVlRvaVM?oc=5"
       }
     ]
   }
