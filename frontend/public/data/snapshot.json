@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-05-21T19:24:06+00:00",
+  "generated_at": "2026-05-21T19:53:40+00:00",
   "fx": {
-    "nzd_per_usd": 1.713048,
-    "as_of": "Wed, 20 May 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.705876,
+    "as_of": "Thu, 21 May 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 104.99,
-      "latest_date": "2026-05-20",
-      "delta_1d_pct": -5.65,
-      "delta_30d_pct": 10.81,
+      "latest": 104.19,
+      "latest_date": "2026-05-21",
+      "delta_1d_pct": -0.79,
+      "delta_30d_pct": 8.62,
       "series": [
-        {
-          "date": "2025-05-20",
-          "usd": 65.38
-        },
         {
           "date": "2025-05-21",
           "usd": 64.91
@@ -1021,20 +1017,20 @@
         },
         {
           "date": "2026-05-20",
-          "usd": 104.99
+          "usd": 105.02
+        },
+        {
+          "date": "2026-05-21",
+          "usd": 104.19
         }
       ]
     },
     "wti": {
-      "latest": 98.48,
-      "latest_date": "2026-05-20",
-      "delta_1d_pct": -8.62,
-      "delta_30d_pct": 4.31,
+      "latest": 97.53,
+      "latest_date": "2026-05-21",
+      "delta_1d_pct": -0.74,
+      "delta_30d_pct": -0.35,
       "series": [
-        {
-          "date": "2025-05-20",
-          "usd": 62.56
-        },
         {
           "date": "2025-05-21",
           "usd": 61.57
@@ -2041,46 +2037,50 @@
         },
         {
           "date": "2026-05-20",
-          "usd": 98.48
+          "usd": 98.26
+        },
+        {
+          "date": "2026-05-21",
+          "usd": 97.53
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-05-20",
+    "as_of": "2026-05-21",
     "regular_91": {
-      "avg": 3.269,
-      "min": 3.04,
-      "max": 3.559,
-      "count": 64
+      "avg": 3.239,
+      "min": 2.979,
+      "max": 3.519,
+      "count": 68
     },
     "premium_95": {
-      "avg": 3.424,
-      "min": 3.149,
-      "max": 3.589,
-      "count": 23
+      "avg": 3.406,
+      "min": 2.989,
+      "max": 3.729,
+      "count": 27
     },
     "premium_98": {
-      "avg": 3.557,
-      "min": 3.389,
-      "max": 3.759,
-      "count": 6
+      "avg": 3.495,
+      "min": 3.229,
+      "max": 3.609,
+      "count": 5
     },
     "diesel": {
-      "avg": 3.163,
-      "min": 2.939,
-      "max": 3.299,
-      "count": 72
+      "avg": 3.154,
+      "min": 2.799,
+      "max": 3.479,
+      "count": 88
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 1.959,
+      "min": 1.959,
+      "max": 1.959,
+      "count": 1
     },
-    "observations_today": 121,
-    "observations_yesterday": 36,
-    "observations_older": 8
+    "observations_today": 93,
+    "observations_yesterday": 89,
+    "observations_older": 7
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8640,10 +8640,22 @@
     ],
     "global": [
       {
+        "title": "WTI Crude Faces Bearish Setup as 0.618 Fibonacci Rejection Holds - Investing.com",
+        "source": "Investing.com",
+        "published": "Thu, 21 May 2026 19:34:20 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNlhsYUxoMko5blNVYTloSlF6MWhnTHFiM2xSWWZON2hMekUwcmRFNTRPV2piTU45dFFvdExKaEl6ZUZWYVlETEFGTGlTallEU3NneFNiZW51aE5IeEVUUHZ0ZlZlSTNiZ2NjcVNtVFp6TE5mS1JTeHBKWWFUSGdpQklWNHU4N0hxUHUzUVF5Wld5WUhFUGZaZWFsV05oeXNwWWNxOS1fLWQxZEw5?oc=5"
+      },
+      {
         "title": "Washington extends Russia oil sanctions waiver amid market instability - Muslim Network TV",
         "source": "Muslim Network TV",
         "published": "Thu, 21 May 2026 18:45:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHlaQnRUTWpKM0VKUklGVEQ1RkFxNGxKUThkZmRMdElITzhCNmNaWWRwN0JWUE8yVFVWN2E3d2FTc1JuTWZvSHpZWVdVeWtPaEJCN2dyWkEyU3IwTDF0VnFydGpiV0tKc2kxYmVPSHU4T0ZfUU42ZzdPc1pJV0hSdl80bXNrakp5TzFpeURYWmhrZ1NHSzZ5dnZQV1Fpd09DWEE?oc=5"
+      },
+      {
+        "title": "Oil Could Enter Red Zone by July/August IEA - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Thu, 21 May 2026 18:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTHdJMlgtUzctUzlpREpmNGtnYmQzcm8zVXN1ZTAtNUVmd3FHZS1xdGEtMGV4VHBQV3N3OUp3Ti1jLXRBWkJOcVhGVGtBZVBmdGw2aWxSQ2d0a1dycGJDVy1qdTZZZjNOX3FLak12RVlIakhDMXJUMVlBZ2NTM3BnVDliVjZDV21pbEhyY2YtSGcxQ09CbjVXaVpCMTR2OWPSAaQBQVVfeXFMUFp6WC03XzNyaDY3X0xId2hDbW9nOEl1Y2dpVjUyNDBHcUlCMDIxdHVyNk51bTZwbTVvX2k0N2c0X1FYUUNHTkV5b09MTGl1M2UyNHZ5ZnBCLXFVSDI3ckpXaHdRZUxFWkNLTk8tRGpXNHNpbjFndFJQVU8xSzMtdUphYnhCNVl3SThZN016cmdoRnpHTUdGWVpTX1ZaektZQjFRRFc?oc=5"
       },
       {
         "title": "Oil Prices Rise 3% As Reuters Reports Complications to US-Iran Peace - Marine News Magazine",
@@ -8674,18 +8686,6 @@
         "source": "United Against Nuclear Iran | UANI",
         "published": "Thu, 21 May 2026 17:53:23 GMT",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWGQ5dDFVN3RyOFlxVTJQM0ZVZW43NU1GdFVEU3lMM0gtbC00MHp2N2Vfck5kdy0xUUhHTEtveGdDdlFjcWc0WHZQcEs3UU9Fcll1YU9wdEZZS0p5NmpuYjRodFVSZTNjNzNjRkNyUHdwWUVvNXNzOWFrVzAyVkJmQjVvOEhDdFgyUUIzUWJKTGczM251a25MbDVmdG1hdzZvNGUwVHpNbC1HRFFHSjBjSU5MS0x5OHJBTll1Q1pocTRiT2UyTWlxSkRlMjBkdXNX?oc=5"
-      },
-      {
-        "title": "WTI Technical Analysis - The Deal Is Still Quite Unsure, Crude Oil Back Above $100 - Seeking Alpha",
-        "source": "Seeking Alpha",
-        "published": "Thu, 21 May 2026 16:55:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUXdqTUlNaV9tU0NjVW1MUXQ1dFFVVWdtLUdhck14bjBrWXh3NHpuSFd3VV9fS0duMW84MlF3Z1JpS05OakZwMkY1TXJQcGZwQ21GWk40bXZEMmVMLXNOTW1Nb3ExNXdtb2VQQll3SmtEbUFlRFEyYm1pU0ZFQmgxMUthZ2YtaEZoSGk4RjdYVVF6blA4anhMLThTZXBJVWZmWVZaS0tBS1MyRjFEYlA3eTV3?oc=5"
-      },
-      {
-        "title": "China Boosts Oil Stockpiles Despite Import Plunge - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Thu, 21 May 2026 15:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdXQtX1VxZGh4QUlZcldKbGh5dHVMTUpjaVdUcVJqZGRkTk41Z1d4eWgwN2ZCVm1yd1QyVFRYT3QtS2tFR2I2azR2eHVSM1dyWnE4dFFMN2lCUHpTbEFEaWRCWmE0eGZva3FEdE9EcmloVXFTRUVmWnp3ZmJyN0Y3QXZ5ZnZwZXR3X0xoSHJaX3VZQkgzbkg2YlBFUlk5QVcyT04xRWlIalTSAa4BQVVfeXFMT0J5cVRKbXNDSFhUcS1qdWNOZGFrLXdzQklLTmYyMU1XbE0wbFZmYk9MMGUxYzJyMWRZZjVETk53NE9sUUFQYmpmT1U3Nzh6T0FqREZBaXdab2FUZzk5SUdfZEkxbjN1Yk43WHR4TTlRMWRNbHpkaGlhSHNGUERhTVBtczAyN0FQQ25Cb21SdU90Z0FuNUZXaGQzNVJCYU9TMHZKbEhyTk5ZX1hLaDlR?oc=5"
       }
     ]
   }
