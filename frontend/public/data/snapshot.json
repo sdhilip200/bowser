@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T17:21:22+00:00",
+  "generated_at": "2026-05-21T19:24:06+00:00",
   "fx": {
     "nzd_per_usd": 1.713048,
     "as_of": "Wed, 20 May 2026 00:02:31 +0000"
@@ -8590,10 +8590,28 @@
   "news": {
     "nz": [
       {
+        "title": "Soaring fuel prices lead to sharp increase in patient no-shows at Northland GPs - RNZ",
+        "source": "RNZ",
+        "published": "Thu, 21 May 2026 18:02:25 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXFGLW03T1FRYWpLLUE4SVgxZzNPSjFONjV4RU1JRTgtSUxmUTlQM2hUNjN3QXFwQW90Uk1lODk2T0g3a09RdnByUElfXzBnR0lUWmNqc2s2UEpnV2RQQl9rUFJRTUhIclVla2g4aXZ2aVlHek1iWGpxRWlQcDRCUkl4TkgyZFhNdTJIRy1uZXRWTFU5VktwbUs4Z3JvMzRNQjNDNDh5bTRYV1NFMVBXajJFXy0wamJwTkNhUg?oc=5"
+      },
+      {
+        "title": "Heavy vehicle rules loosened as Govt prepares for fuel crunch - 1News",
+        "source": "1News",
+        "published": "Thu, 21 May 2026 18:01:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdEhWRi1ydXpDZ2FtRGJQekgyY1FQMkFzOEZtWl9JUTN0YzBaNE5NN3VCN0xBaXJORmVNTUVycmNDazNDOFJ3TzZrc2VCYzZ5RVMwTEMxTGVpUU5lQ3owOHpkRXNzRzk5M3Z1SEZ2eVgxcXBXLTMzei1kWFF2NGd0OEVvZkVKQWY2TmFBZWFBdXhEYU8tRl95b3BUNlRoZw?oc=5"
+      },
+      {
         "title": "Will petrol prices ever go back to $2.50 a litre? - Stuff",
         "source": "Stuff",
         "published": "Thu, 21 May 2026 00:45:24 GMT",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOanN4bVg0UEFFNnBvejNTejlDdktZa1ZYRDg0Sjd4Slc4ZU1ydlhyU2FFRngtUmI4NGJTbTlvTW1kcGtoZkRHVHMyUGdxX19jUGJIVUIyN191eU13NTMwQVU4TVhsV3NOZTNXelQ0LUpmbnNTYmdKbDluc0FaSVRTZHFUOUVyU1Yw?oc=5"
+      },
+      {
+        "title": "The new normal: High fuel prices may be here to stay - The Press",
+        "source": "The Press",
+        "published": "Wed, 20 May 2026 16:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcVdaV2VoZmk2OWpwcFdTSWtWaXFtOW4wZ1ZIbGI4Ym5laGotZVhQSjZobnBmY205dXZQQnRyUUNydnlEaEpMaHNfRTUzM2RzRmE5alNXQnZWcFRCMzNLRmFtVzBWOUxBZXVPY1lUcElNWWVMelRsWDhfR0JnNlZBTXliZzZSanotTVFYUnN2VjhTV1J6?oc=5"
       },
       {
         "title": "Not just petrol: How rising oil prices will hit household spending - 1News",
@@ -8614,31 +8632,49 @@
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSlVhWWtoNjlEdUxlN2JjTGxyQUxMVnpTcHpaY0duaXB2LUotR2VOZ1ZuZnlsMzNTTFg3S2t4N21Bcm9WdHBVZDdGdFFwVE9JN1dQRTNpdG9ISlFmMlQ3bnVrZXFscjk0RjNGbHo1eE82NlJxSHk3VHI4OVRFZW55d0NaWVE2ZjZ3SDFCc3h6bDBIN0RvM2dlREk1dHlOcFJDMHZvcjA5b1RhbTdWclE?oc=5"
       },
       {
-        "title": "Heavy vehicle rules loosened as Govt prepares for fuel crunch - 1News",
-        "source": "1News",
-        "published": "Wed, 20 May 2026 02:18:48 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdEhWRi1ydXpDZ2FtRGJQekgyY1FQMkFzOEZtWl9JUTN0YzBaNE5NN3VCN0xBaXJORmVNTUVycmNDazNDOFJ3TzZrc2VCYzZ5RVMwTEMxTGVpUU5lQ3owOHpkRXNzRzk5M3Z1SEZ2eVgxcXBXLTMzei1kWFF2NGd0OEVvZkVKQWY2TmFBZWFBdXhEYU8tRl95b3BUNlRoZw?oc=5"
-      },
-      {
         "title": "Petrol and diesel stocks down, jet fuel up - RNZ",
         "source": "RNZ",
         "published": "Wed, 20 May 2026 01:40:48 GMT",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORTZZVUNvWWpaNHhDUDJRX3JqZFZDUjVaaVNOdU9MNUhpRUZ4WlY3TmxnaEozdmxjcHBmQjk1a0pSM0JyenhoV1NwZTRpdWZ1c2ZNbExQeXZwV2twZVd3SzFPcnVGTFk1Q1F3RTdyZUhMQUhxTFNCazhZYVVyQ25PblAxVHk4VVJUbTZHcw?oc=5"
-      },
-      {
-        "title": "Big jump in jet fuel stocks as major delivery arrives in New Zealand - Stuff",
-        "source": "Stuff",
-        "published": "Wed, 20 May 2026 01:30:56 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVE1UUWN3aHVxSHBwTzFTOEZsVmd1N3ZsaEcwaDZtYkM4cllXUXhNT2ZGU1VmOGctRk5SU1l2NUZMWXhDLVNUeXhwM0dvWVhXUU1WMTYyQVVuSVNkZXZzcWU1cUpyRWY5UWhRQ2VLbEJnMFFnRHFRa010elQ3QkdfTkFUX0NDR1B3QldoT3NmUW9SUThLNGpXcWJBU0l3WU4tWktz?oc=5"
-      },
-      {
-        "title": "Auckland Airport’s international visitor numbers up in recent months - The Post",
-        "source": "The Post",
-        "published": "Mon, 18 May 2026 16:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdVAza0t0THFZMnliUmlkNTZ1ZXhhRzBJYVBaTzFvbk1PaXgyLWJkdFFFb3BpODdCUVFib05CNnN5ZDlidDdRSGVJNExFR1I3cUxaVGpQdTlxaVQ1NUlHc0hNSDhhbFZDeUx3NC11dmZZR3c5US1lb0hTSWxMSzFINGYtMUtwUFJrb3d3X1dSbnhKd2MzcGNLX2JTS1B4dENuMU5wNmRVRjJ6dw?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Washington extends Russia oil sanctions waiver amid market instability - Muslim Network TV",
+        "source": "Muslim Network TV",
+        "published": "Thu, 21 May 2026 18:45:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRHlaQnRUTWpKM0VKUklGVEQ1RkFxNGxKUThkZmRMdElITzhCNmNaWWRwN0JWUE8yVFVWN2E3d2FTc1JuTWZvSHpZWVdVeWtPaEJCN2dyWkEyU3IwTDF0VnFydGpiV0tKc2kxYmVPSHU4T0ZfUU42ZzdPc1pJV0hSdl80bXNrakp5TzFpeURYWmhrZ1NHSzZ5dnZQV1Fpd09DWEE?oc=5"
+      },
+      {
+        "title": "Oil Prices Rise 3% As Reuters Reports Complications to US-Iran Peace - Marine News Magazine",
+        "source": "Marine News Magazine",
+        "published": "Thu, 21 May 2026 18:10:28 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nbUd5Sk5zQWxJNmUxRkg2Wjk4RF9YX2ltb1F4QWRSRklCdVdpRlQyUFJLSTEzNXVmSlVzTk9oTkhQUGVhWm8yWm85YWptbWtqeU1zWERRV1FwZWlNaUNlT0ZZblZEN1dvZG1XNVlXRk55Wk9mYnNNVTZB?oc=5"
+      },
+      {
+        "title": "Brent Crude Prices Turn Negative - TradingView",
+        "source": "TradingView",
+        "published": "Thu, 21 May 2026 18:07:42 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdVhLS3pERVFZSzVIdGtTMlFZb29DTExkS2dDU0lUOEgtN3BWTTRUTWpuWWdNN1lOUXdGN3pjamdZckxQcjNLUmhzN0Y2Zl9jRG1rUG9sZ3kzZ3RvTXcteGhfSFYxeE1SZjV2UmQtbHhHTlMwWWhJNHZEQ1hMQlhaXzRVVWxseDFNbFVB?oc=5"
+      },
+      {
+        "title": "ADNOC Warns Gulf Oil Disruptions Could Last Until 2027 - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Thu, 21 May 2026 18:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc1lvUEJXQjdVa1dKeFExMl9hcVo1NlA2Q1JWdGZDcktoWUxUSmo1b2dvTy1YWEVOVkdNcmFxTzYwOFFQdGZuUUdGcThLY2d5Q3p3S1RHYzFBZ1didEFhZERfT3ZiT1o1YUxCRENqQjN6Q1JXZ29RWlJSOEFkd1lnZ3E2VmY3U0hSNHdwcXhUb3h4R25RZE5Pa3BuOWw1UdIBowFBVV95cUxOWmRLUGI0QVNfYkN0a2VHU01EWEpvZ1piekdFNmJUOFhhbnByLWxxamtyMXNfRUVfbmVMNFVXWGRYdFhpdHJidGwwVEtsU2gtUEFiMkJrcXpndWZ3ZjlkTi1haEM0d3RTUnJ4b3c0VnU3STlkMDAtUkVLVlVCRWlGMGNRZENQM01IVFA4dzE3dFNZN3Z3Rm5hVTBjVlJ6LVhZRkNN?oc=5"
+      },
+      {
+        "title": "Oil prices extend losses, Brent and WTI crude fall by more than $2/bbl on report of draft US-Iran deal - marketscreener.com",
+        "source": "marketscreener.com",
+        "published": "Thu, 21 May 2026 17:56:39 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaElscklpaUJTVnhwNFdUcHp4SnV0VnFLMTJtTk5rU3ZTY19KNExMVWVwOUM4clRjNlI4ZWY1ZDNSR2tYcVROYkFLaE9fN3VKamJHRjFjMERRc2I5RXViT1BwZlFUUE1zam13VHQ0UlJoczB5ZWlhZFJiMTBEQ2hWR0RqRTVyczlzX1pnX0RsQUhqaVhFTmxWVERtMDBiNzJ5RzBTb0ZoaFpZZHAtV0w0NUJkRXZ1T2NUSW5fWG9LTmsyV3BtM2NUX0FaeTU0dXY3bnl5T25CZWhpYmUtUGptSndERUdjZw?oc=5"
+      },
+      {
+        "title": "UANI Applauds Recent Vessel Seizure and U.S. Sanctions on Iran’s Illicit Oil Trade - United Against Nuclear Iran | UANI",
+        "source": "United Against Nuclear Iran | UANI",
+        "published": "Thu, 21 May 2026 17:53:23 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWGQ5dDFVN3RyOFlxVTJQM0ZVZW43NU1GdFVEU3lMM0gtbC00MHp2N2Vfck5kdy0xUUhHTEtveGdDdlFjcWc0WHZQcEs3UU9Fcll1YU9wdEZZS0p5NmpuYjRodFVSZTNjNzNjRkNyUHdwWUVvNXNzOWFrVzAyVkJmQjVvOEhDdFgyUUIzUWJKTGczM251a25MbDVmdG1hdzZvNGUwVHpNbC1HRFFHSjBjSU5MS0x5OHJBTll1Q1pocTRiT2UyTWlxSkRlMjBkdXNX?oc=5"
+      },
       {
         "title": "WTI Technical Analysis - The Deal Is Still Quite Unsure, Crude Oil Back Above $100 - Seeking Alpha",
         "source": "Seeking Alpha",
@@ -8650,42 +8686,6 @@
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Thu, 21 May 2026 15:30:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdXQtX1VxZGh4QUlZcldKbGh5dHVMTUpjaVdUcVJqZGRkTk41Z1d4eWgwN2ZCVm1yd1QyVFRYT3QtS2tFR2I2azR2eHVSM1dyWnE4dFFMN2lCUHpTbEFEaWRCWmE0eGZva3FEdE9EcmloVXFTRUVmWnp3ZmJyN0Y3QXZ5ZnZwZXR3X0xoSHJaX3VZQkgzbkg2YlBFUlk5QVcyT04xRWlIalTSAa4BQVVfeXFMT0J5cVRKbXNDSFhUcS1qdWNOZGFrLXdzQklLTmYyMU1XbE0wbFZmYk9MMGUxYzJyMWRZZjVETk53NE9sUUFQYmpmT1U3Nzh6T0FqREZBaXdab2FUZzk5SUdfZEkxbjN1Yk43WHR4TTlRMWRNbHpkaGlhSHNGUERhTVBtczAyN0FQQ25Cb21SdU90Z0FuNUZXaGQzNVJCYU9TMHZKbEhyTk5ZX1hLaDlR?oc=5"
-      },
-      {
-        "title": "Crude Oil Prices Continue Climbing as Global Tensions Keep Markets Nervous: Where Could Oil Go Next? - CaptainAltcoin",
-        "source": "CaptainAltcoin",
-        "published": "Thu, 21 May 2026 14:01:40 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdHdYMS1RbkRJUEpWNVZ5ZmVRSVplc3dpaE03bnFJYkZiWUlvTkZEM28ySHBDeE9NZ0ZkSDVkS0Jpb3BjYnhZeUh4QmxRazBYMFdKOTRfeTFGSnhKQTZlazJNMVh2dkNqQkVfSTNKNVp0N3FmeDBCdVdJcFU1UThnUXBqdjJuSnQtOERDVzVPSkMxamxhYW1IMzFRdlo0WmFJRkRIY25aQXk0aEZjQll4dVJDOS16OU1yWG9JWUNWcFNkMWlj?oc=5"
-      },
-      {
-        "title": "IEA: Oil Market Could Hit 'Red Zone' Amid Middle East Supply Crisis - Global Banking & Finance Review",
-        "source": "Global Banking & Finance Review",
-        "published": "Thu, 21 May 2026 13:58:03 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWTBVR2QxYWRhNUZteUZtdkpBN1BTcTdQRUNpUnpjMW1TOGhucDJReXZSUDRZbjlhNlE3dHpwOEZMVUswVmVrM21HZEZiN1hrdy1raFpEeUhtSE5zVXFrbTAtSzhKYlJPZGx0WDRaRzNsaGEzdVRLenJnLXhOVUkxQVJQZWVQX2dic3VBemQ4UQ?oc=5"
-      },
-      {
-        "title": "Current price of oil as of May 21, 2026 - Fortune",
-        "source": "Fortune",
-        "published": "Thu, 21 May 2026 13:35:56 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0ZTBfUlNEaUJNYmQ5R08zWk1UR3BRSWx2d1dNLWY0aTE4a21BWUNRVFJ1aW5YNlJsc0VHbW9ZMERhN2VoczlWRTVuT3hsYTFMcEFIcTFlUU5VQTBwek9fVWdR?oc=5"
-      },
-      {
-        "title": "Japan’s Record Low Middle East Oil Imports Underscore Geopolitical Supply Risks - TipRanks",
-        "source": "TipRanks",
-        "published": "Thu, 21 May 2026 13:16:07 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdm9yT3hBWk9uUjItb1NzakQ1UnpSUUNMTG5PZlFySkpqTm43eXNCQUh4UXJSNVZQZzB1UVVtTnotM3NhdTF6bzhYNl81OUVTUEpsX2RCcV84OGxVcncxRE9QUlJaVVJqMTR0WlNPVnNEOWJMbGRuak42RHNoSnU2UmtCcFNSeGczemt6MkRPZUk0THkzUm5XTXBkY3hpMlBMV0VSNVZOZjZUU2hjTHVOc0FEcHhrcGVGSTFUSg?oc=5"
-      },
-      {
-        "title": "Energy Sanctions Dashboard: October 2025 - Atlantic Council",
-        "source": "Atlantic Council",
-        "published": "Thu, 21 May 2026 13:05:16 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNHhLY0VRUjR3MmMwWGVyYVJMaVJjRDM0WFFoWlpwTmF3SHQ0Q2lLTWFlU1VWVVBMM09yaHRmVDhKb3V2TnB2U2xFU3ZxUEU1UU93eVd3S0pWMTExNGwtTkdseERzTjA1ODVkeXhEYnBsOHMzVi05V0hUTlJBblpUNHRXa0xGWV9wMV9qQlA4UHpvTkVfSmZr?oc=5"
-      },
-      {
-        "title": "Oil prices jump more than 3% after Iran supreme leader says uranium must remain in country - CNBC",
-        "source": "CNBC",
-        "published": "Thu, 21 May 2026 12:45:38 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa2pJT0hEZHJweHJBTWl6cEY3UXNvVVZtRWxscERzNXpiZTM0a2x3M2wxbTAwb1RsY0h3QTFQZnJwaTJZa0tZQzBqbTl5M29Yd1pNN2V2c29WOHNTR2NIMFhUeGxDV2RnaGF6cVVna0xHRXhWUEZmaTdpR1VtS0dUMzJMUXVDWGRp0gGOAUFVX3lxTFBILWJrMTNKMlM0dEl6WDFVLWI4VXpGTGtBdGppTVpSQkVmekRMRkEwa2c5T0pWXzVzVFZpWWxFOGItaUdhRmdjdXZwT1l1NU9kcmxvLVgtRnFpVDg2MVZCWEExcGdJclVMVzd3cURpLV84R1hKV2dwMi0tbEtiRG9SVHV0M3ZQeG5LZE45akE?oc=5"
       }
     ]
   }
