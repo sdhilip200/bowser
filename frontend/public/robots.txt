@@ -1,0 +1,19 @@
+# bowser.nz — https://www.bowser.nz
+# All crawlers welcome, including AI assistants (so the project is citeable).
+
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://www.bowser.nz/sitemap.xml
