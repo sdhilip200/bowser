@@ -5,6 +5,10 @@ interface Section {
   label: string;
 }
 
+interface NavProps {
+  onAbout: () => void;
+}
+
 const SECTIONS: Section[] = [
   { id: "crude", label: "crude" },
   { id: "pump", label: "nz pump" },
@@ -13,7 +17,7 @@ const SECTIONS: Section[] = [
   { id: "news", label: "news" },
 ];
 
-export function Nav() {
+export function Nav({ onAbout }: NavProps) {
   const [active, setActive] = useState<string>("crude");
 
   useEffect(() => {
@@ -38,24 +42,24 @@ export function Nav() {
     return () => observer.disconnect();
   }, []);
 
-  const onClick = (e: React.MouseEvent<HTMLAnchorElement>, id: string) => {
+  const onSectionClick = (
+    e: React.MouseEvent<HTMLAnchorElement>,
+    id: string,
+  ) => {
     e.preventDefault();
     const el = document.getElementById(id);
     if (el) el.scrollIntoView({ behavior: "smooth", block: "start" });
   };
 
   const onAboutClick = (e: React.MouseEvent<HTMLAnchorElement>) => {
-    // Let the browser set the hash so the hashchange listener in App
-    // flips the view. Scroll to top for the about-page transition.
-    window.scrollTo(0, 0);
-    // Fall through to default href behavior (#/about)
-    void e;
+    e.preventDefault();
+    onAbout();
   };
 
   return (
     <nav className="topnav" aria-label="section navigation">
       <a
-        href="#/about"
+        href="/about"
         className="topnav-link topnav-about"
         onClick={onAboutClick}
       >
@@ -66,7 +70,7 @@ export function Nav() {
           key={s.id}
           href={`#${s.id}`}
           className={`topnav-link ${active === s.id ? "topnav-active" : ""}`}
-          onClick={(e) => onClick(e, s.id)}
+          onClick={(e) => onSectionClick(e, s.id)}
         >
           {s.label}
         </a>
