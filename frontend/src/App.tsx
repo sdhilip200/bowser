@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 
 import { loadSnapshot, type Snapshot } from "./lib/snapshot";
+import { setRouteMeta, type View } from "./lib/head";
 import { Hero } from "./components/Hero";
 import { CrudeChart } from "./components/CrudeChart";
 import { PumpPriceCards } from "./components/PumpPriceCards";
@@ -15,33 +16,39 @@ import { LastUpdated } from "./components/LastUpdated";
 import { AboutPage } from "./components/AboutPage";
 import "./styles/layout.css";
 
-type View = "dashboard" | "about";
-
-function readHashView(): View {
-  return window.location.hash === "#/about" ? "about" : "dashboard";
+function readView(): View {
+  return window.location.pathname === "/about" ? "about" : "dashboard";
 }
 
 export default function App() {
   const [snapshot, setSnapshot] = useState<Snapshot | null>(null);
   const [error, setError] = useState<string | null>(null);
-  const [view, setView] = useState<View>(readHashView);
+  const [view, setView] = useState<View>(readView);
 
   useEffect(() => {
     loadSnapshot().then(setSnapshot).catch((e) => setError(String(e)));
 
-    const onHashChange = () => {
-      setView(readHashView());
+    const onPopState = () => {
+      setView(readView());
       window.scrollTo(0, 0);
     };
-    window.addEventListener("hashchange", onHashChange);
-    return () => window.removeEventListener("hashchange", onHashChange);
+    window.addEventListener("popstate", onPopState);
+    return () => window.removeEventListener("popstate", onPopState);
   }, []);
 
+  useEffect(() => {
+    setRouteMeta(view);
+  }, [view]);
+
   const goToDashboard = () => {
-    if (window.location.hash) {
-      history.pushState("", document.title, window.location.pathname);
-    }
+    history.pushState("", "", "/");
     setView("dashboard");
+    window.scrollTo(0, 0);
+  };
+
+  const goToAbout = () => {
+    history.pushState("", "", "/about");
+    setView("about");
     window.scrollTo(0, 0);
   };
 
@@ -84,7 +91,7 @@ export default function App() {
       <div className="topbar">
         <header className="wordmark-bar container">
           <span className="wordmark">bowser</span>
-          <Nav />
+          <Nav onAbout={goToAbout} />
           <LastUpdated generatedAt={snapshot.generated_at} />
         </header>
       </div>
