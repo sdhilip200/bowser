@@ -3,6 +3,7 @@ import { motion } from "framer-motion";
 
 import { loadSnapshot, type Snapshot } from "./lib/snapshot";
 import { setRouteMeta, type View } from "./lib/head";
+import { trackPageView } from "./lib/analytics";
 import { Hero } from "./components/Hero";
 import { CrudeChart } from "./components/CrudeChart";
 import { PumpPriceCards } from "./components/PumpPriceCards";
@@ -38,6 +39,7 @@ export default function App() {
 
   useEffect(() => {
     setRouteMeta(view);
+    trackPageView();
   }, [view]);
 
   const goToDashboard = () => {

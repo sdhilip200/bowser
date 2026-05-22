@@ -5,6 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 
+    <!-- Google Analytics (gtag.js). send_page_view is off — page views are
+         sent from React on every route change so the initial load and the
+         /about navigation are both counted exactly once. See lib/analytics.ts -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YRCLTM6CEX"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      gtag("js", new Date());
+      gtag("config", "G-YRCLTM6CEX", { send_page_view: false });
+    </script>
+
     <title>bowser — New Zealand fuel prices &amp; the global crude oil story</title>
     <meta
       name="description"
