@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-05-22T18:12:26+00:00",
+  "generated_at": "2026-05-22T19:45:13+00:00",
   "fx": {
-    "nzd_per_usd": 1.705876,
-    "as_of": "Thu, 21 May 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.703603,
+    "as_of": "Fri, 22 May 2026 00:02:32 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 104.19,
-      "latest_date": "2026-05-21",
-      "delta_1d_pct": -0.79,
-      "delta_30d_pct": 8.62,
+      "latest": 103.96,
+      "latest_date": "2026-05-22",
+      "delta_1d_pct": 1.35,
+      "delta_30d_pct": 9.2,
       "series": [
-        {
-          "date": "2025-05-21",
-          "usd": 64.91
-        },
         {
           "date": "2025-05-22",
           "usd": 64.44
@@ -1021,20 +1017,20 @@
         },
         {
           "date": "2026-05-21",
-          "usd": 104.19
+          "usd": 102.58
+        },
+        {
+          "date": "2026-05-22",
+          "usd": 103.96
         }
       ]
     },
     "wti": {
-      "latest": 97.53,
-      "latest_date": "2026-05-21",
-      "delta_1d_pct": -0.74,
-      "delta_30d_pct": -0.35,
+      "latest": 96.8,
+      "latest_date": "2026-05-22",
+      "delta_1d_pct": 0.47,
+      "delta_30d_pct": 0.24,
       "series": [
-        {
-          "date": "2025-05-21",
-          "usd": 61.57
-        },
         {
           "date": "2025-05-22",
           "usd": 61.2
@@ -2041,45 +2037,49 @@
         },
         {
           "date": "2026-05-21",
-          "usd": 97.53
+          "usd": 96.35
+        },
+        {
+          "date": "2026-05-22",
+          "usd": 96.8
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-05-21",
+    "as_of": "2026-05-22",
     "regular_91": {
-      "avg": 3.239,
-      "min": 2.979,
-      "max": 3.519,
-      "count": 68
+      "avg": 3.27,
+      "min": 2.989,
+      "max": 3.529,
+      "count": 74
     },
     "premium_95": {
-      "avg": 3.406,
-      "min": 2.989,
-      "max": 3.729,
-      "count": 27
+      "avg": 3.467,
+      "min": 3.029,
+      "max": 3.747,
+      "count": 41
     },
     "premium_98": {
-      "avg": 3.495,
-      "min": 3.229,
-      "max": 3.609,
-      "count": 5
+      "avg": 3.598,
+      "min": 3.389,
+      "max": 3.759,
+      "count": 7
     },
     "diesel": {
-      "avg": 3.154,
-      "min": 2.799,
+      "avg": 3.174,
+      "min": 2.919,
       "max": 3.479,
-      "count": 88
+      "count": 85
     },
     "lpg": {
-      "avg": 1.959,
-      "min": 1.959,
-      "max": 1.959,
-      "count": 1
+      "avg": 3.064,
+      "min": 1.897,
+      "max": 4.9,
+      "count": 4
     },
-    "observations_today": 93,
-    "observations_yesterday": 89,
+    "observations_today": 32,
+    "observations_yesterday": 172,
     "observations_older": 7
   },
   "mbie_waterfall": {
@@ -8614,12 +8614,6 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOanN4bVg0UEFFNnBvejNTejlDdktZa1ZYRDg0Sjd4Slc4ZU1ydlhyU2FFRngtUmI4NGJTbTlvTW1kcGtoZkRHVHMyUGdxX19jUGJIVUIyN191eU13NTMwQVU4TVhsV3NOZTNXelQ0LUpmbnNTYmdKbDluc0FaSVRTZHFUOUVyU1Yw?oc=5"
       },
       {
-        "title": "The new normal: High fuel prices may be here to stay - The Press",
-        "source": "The Press",
-        "published": "Wed, 20 May 2026 16:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcVdaV2VoZmk2OWpwcFdTSWtWaXFtOW4wZ1ZIbGI4Ym5laGotZVhQSjZobnBmY205dXZQQnRyUUNydnlEaEpMaHNfRTUzM2RzRmE5alNXQnZWcFRCMzNLRmFtVzBWOUxBZXVPY1lUcElNWWVMelRsWDhfR0JnNlZBTXliZzZSanotTVFYUnN2VjhTV1J6?oc=5"
-      },
-      {
         "title": "Not just petrol: How rising oil prices will hit household spending - 1News",
         "source": "1News",
         "published": "Wed, 20 May 2026 07:23:36 GMT",
@@ -8636,15 +8630,15 @@
         "source": "The Post",
         "published": "Wed, 20 May 2026 02:33:25 GMT",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSlVhWWtoNjlEdUxlN2JjTGxyQUxMVnpTcHpaY0duaXB2LUotR2VOZ1ZuZnlsMzNTTFg3S2t4N21Bcm9WdHBVZDdGdFFwVE9JN1dQRTNpdG9ISlFmMlQ3bnVrZXFscjk0RjNGbHo1eE82NlJxSHk3VHI4OVRFZW55d0NaWVE2ZjZ3SDFCc3h6bDBIN0RvM2dlREk1dHlOcFJDMHZvcjA5b1RhbTdWclE?oc=5"
+      },
+      {
+        "title": "Heavy vehicle rules loosened as Govt prepares for fuel crunch - 1News",
+        "source": "1News",
+        "published": "Wed, 20 May 2026 02:18:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdEhWRi1ydXpDZ2FtRGJQekgyY1FQMkFzOEZtWl9JUTN0YzBaNE5NN3VCN0xBaXJORmVNTUVycmNDazNDOFJ3TzZrc2VCYzZ5RVMwTEMxTGVpUU5lQ3owOHpkRXNzRzk5M3Z1SEZ2eVgxcXBXLTMzei1kWFF2NGd0OEVvZkVKQWY2TmFBZWFBdXhEYU8tRl95b3BUNlRoZw?oc=5"
       }
     ],
     "global": [
-      {
-        "title": "ICE Brent & WTI Perpetual Futures to Launch on OKX - Markets Media",
-        "source": "Markets Media",
-        "published": "Fri, 22 May 2026 17:33:56 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQajJDaEdaTm1PREhNbVB6NXUzbV9HSF9JVFpEbFgtQkpCbmU3NzY2ek5lQmF1bVNTR2w4eGh0WEhLNjBiNDdUb1VMelBVcmd3VW0wTkRoLUNNc1NMeVVWemVuUnZobWt0VkthWVJ4cXB1cHNrZm9USjRyTzVHaTQyaHhmSi0?oc=5"
-      },
       {
         "title": "Synthetic motor oil shortage threatens dealership service lanes and new-vehicle production - Automotive News",
         "source": "Automotive News",
@@ -8652,10 +8646,10 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWS1UVG1DN1lmRDJVZTVYVDhMQ2NaQThvQUI0NWJsSDJVSFdNUy0tVU5DTFhha1h5VlJ0cnZqa3djWXlvNEY3Mlh1Mm1CT19adWVMaTRveFA3T1hfZ2pvdWlGQ0NpSGhfQWEyNkxKbGd1c2Y2d0dlZEdnbi1Cbk0xZG9Xd0huRDBLYzNkbQ?oc=5"
       },
       {
-        "title": "Gas prices near highest level in 4 years ahead of Memorial Day - ABC News - Breaking News, Latest News and Videos",
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "published": "Fri, 22 May 2026 16:32:10 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcjdTY3pUY1dCenRYdkNEeExiam5McTVaWVpuY2R6WVVrcWpEUmpxVnVVUjdHbmpnbFBMZGl1VmgwUnRfTUlHNUJOTmJxaFNCS0lmcHRWVVM2dUtyRmNZQ0N0UklwWEZKRWxCblBqdV9oa1FqQzgzcVVxd2lXaFlPalJqdC1ZVC03akw3VXpxUnlBY03SAZgBQVVfeXFMUFlHOTI0UkR4YV92RnZNVkkwOUVYVllyR3VQRzJIOXpPRGV4ejVVaVo3N3BxRXFLQjBEQkk1UG0yQVBkcWdYa00xWVpJRHFQX3BVdzVVaFloVjhvU2RfRGh3ei1jWVRHR2ZsdkFIdjB6S2wyMXVRNmYwV09kTEJVT1dodVFLQ2czaWZiWGc3RERmZ3ZCczhEVmQ?oc=5"
+        "title": "Energy ETFs to Keep Shining Amid Elusive Peace Deal and Supply Risks - TradingView",
+        "source": "TradingView",
+        "published": "Fri, 22 May 2026 16:12:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONThhUnNZZmFmakxRM0Jyb05FNHRJMWtrcmgzWG53WlJvTkxGTy1VcG1MeWNoSi1kQ25pd3F4NVFvQmsyb1RUcGh6RENuUTJoOHVvTlFLWU11cmhwZnRRN1RvbUVtZlhoTTBnQU5pWlduTE5ZWkJEUFhiMHhZUjVHdzJNV2g0Rjk3MFc1czB6YXZkZzBiaXJ4bUNXY3BZYlJaLTRFcmhfOUV6SXFKS0FEVVBQdE5TZjNBVHZVemxtWk1zUQ?oc=5"
       },
       {
         "title": "India's tryst with oil shocks: How crude prices shaped economy and policy in last five decades - The Times of India",
@@ -8686,6 +8680,12 @@
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Fri, 22 May 2026 14:30:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSmRfcF9kSkZCYVMzUWtiTkRtdzdRSjNpQmN2RmRwOVJfOWdyTFgzVWF5dm14ejRoanh1ODZiQUNxR1BaSnhlWFprYzZtTmRQdVd6NjNkQ29hbzFnbkxiSWJkNXRDU2Nab3dPb093bHY3T1YzZGpHVU92NmZuZnFVWXVZSXhfSG1JQ2NxVzBOeHZHZ0lKa1U3dlFlejVqWV92Y0M1Nktkam5fcm9KYmpSdnVOTW4yS212NVZCTdIBwgFBVV95cUxNTHpiaklFSldUVWhhclZ3VVhsRF9JMEh5cXNLbWpQZ0hpcWowUUFfVDM5Mk1KTHB4Nm1HTms5cGJoQjBaMEt4M2xxZGFtTTI3dXdQV2VaRndfZzdqZElQclpQSUZDaWs0MTJmdnBlME85SUE0cW5GT1g1My1ncWdXd2FPNEUteGFnN1hTeW15ZHd6aHFLUnFHTzAwMDZraHNIUDBpbEhPZm1jRFNvTmNMb0FuamktcmM4bmtHNGNCNTZuZw?oc=5"
+      },
+      {
+        "title": "NYSE, Crypto Exchange to Offer No-Expire Oil Futures - Transport Topics",
+        "source": "Transport Topics",
+        "published": "Fri, 22 May 2026 14:23:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zOHllTmZVRXI1YjZmV2I5UGhNVERNOUVHQWJDQ1YzYThGVVRtMmpmOFY2bEZrMElQNWY5YjhaZVZhc2NxOFVHbFpGUHA1WEQzWDBpdFliYXY2SzVScUJHQ19SbjNtUQ?oc=5"
       }
     ]
   }
