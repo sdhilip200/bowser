@@ -1,14 +1,176 @@
 <!doctype html>
-<html lang="en">
+<html lang="en-NZ">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="description" content="The global fuel story, told from New Zealand. Brent, WTI and NZ pump prices with the MBIE weekly waterfall." />
-    <title>bowser — the global fuel story, told from new zealand</title>
+
+    <title>bowser — New Zealand fuel prices &amp; the global crude oil story</title>
+    <meta
+      name="description"
+      content="Bowser connects global crude oil markets to New Zealand pump prices: Brent and WTI futures, MBIE retail data, and where every fuel dollar goes."
+    />
+    <link rel="canonical" href="https://www.bowser.nz/" />
+    <meta
+      name="robots"
+      content="index, follow, max-image-preview:large, max-snippet:-1"
+    />
+    <meta name="author" content="Dhilip Subramanian" />
+    <meta name="theme-color" content="#faf6f1" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Bowser" />
+    <meta
+      property="og:title"
+      content="bowser — the global fuel story, told from New Zealand"
+    />
+    <meta
+      property="og:description"
+      content="A public dashboard connecting global crude oil markets to New Zealand pump prices."
+    />
+    <meta property="og:url" content="https://www.bowser.nz/" />
+    <meta property="og:image" content="https://www.bowser.nz/og-image.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta
+      property="og:image:alt"
+      content="Bowser — the global fuel story, told from New Zealand"
+    />
+    <meta property="og:locale" content="en_NZ" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:title"
+      content="bowser — the global fuel story, told from New Zealand"
+    />
+    <meta
+      name="twitter:description"
+      content="A public dashboard connecting global crude oil markets to New Zealand pump prices."
+    />
+    <meta name="twitter:image" content="https://www.bowser.nz/og-image.png" />
+    <meta name="twitter:creator" content="@sdhilip" />
+
+    <!-- Structured data: site -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Bowser",
+        "alternateName": "bowser.nz",
+        "url": "https://www.bowser.nz/",
+        "description": "A public dashboard connecting global crude oil markets to New Zealand pump prices, built on free public data.",
+        "inLanguage": "en-NZ",
+        "publisher": {
+          "@type": "Person",
+          "name": "Dhilip Subramanian"
+        }
+      }
+    </script>
+
+    <!-- Structured data: dataset -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Dataset",
+        "name": "New Zealand fuel prices and global crude oil — Bowser",
+        "description": "Aggregated daily Brent and WTI crude oil futures, New Zealand retail pump prices, the MBIE weekly fuel price waterfall, and fuel stock days-of-cover.",
+        "keywords": [
+          "New Zealand fuel prices",
+          "petrol price",
+          "diesel price",
+          "Brent crude",
+          "WTI crude",
+          "MBIE fuel monitoring"
+        ],
+        "spatialCoverage": "New Zealand",
+        "temporalCoverage": "2016/..",
+        "isAccessibleForFree": true,
+        "url": "https://www.bowser.nz/",
+        "creator": {
+          "@type": "Person",
+          "name": "Dhilip Subramanian",
+          "url": "https://www.bowser.nz/about"
+        }
+      }
+    </script>
+
+    <!-- Structured data: author -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Dhilip Subramanian",
+        "jobTitle": "Data & AI practitioner",
+        "url": "https://www.bowser.nz/about",
+        "homeLocation": {
+          "@type": "Place",
+          "name": "Wellington, New Zealand"
+        },
+        "knowsAbout": [
+          "Data engineering",
+          "Data visualisation",
+          "D3.js",
+          "AI products",
+          "Python",
+          "React"
+        ],
+        "sameAs": [
+          "https://x.com/sdhilip",
+          "https://www.linkedin.com/in/dhilip-subramanian-36021918b/"
+        ]
+      }
+    </script>
   </head>
   <body>
     <div id="root"></div>
+    <noscript>
+      <div
+        style="max-width: 680px; margin: 64px auto; padding: 0 24px; font-family: Georgia, serif; color: #3b2f2f; line-height: 1.6;"
+      >
+        <h1>bowser — the global fuel story, told from New Zealand</h1>
+        <p>
+          Bowser is a public dashboard that connects global crude oil markets to
+          New Zealand pump prices, built entirely on free public data.
+        </p>
+        <p>The dashboard has six sections:</p>
+        <ul>
+          <li>
+            <strong>Global crude</strong> — Brent and WTI front-month futures
+            over the last twelve months.
+          </li>
+          <li>
+            <strong>NZ retail</strong> — current pump prices for regular 91,
+            premium 95 and diesel.
+          </li>
+          <li>
+            <strong>Ten-year history</strong> — a decade of MBIE weekly retail
+            prices.
+          </li>
+          <li>
+            <strong>The waterfall</strong> — where each dollar at the pump goes:
+            importer cost, ETS, excise and GST.
+          </li>
+          <li>
+            <strong>Fuel supply</strong> — how many days of cover New Zealand
+            holds, by fuel type.
+          </li>
+          <li>
+            <strong>News</strong> — New Zealand fuel news alongside global oil
+            and geopolitics.
+          </li>
+        </ul>
+        <p>
+          Bowser is built and maintained by Dhilip Subramanian, based in
+          Wellington, New Zealand.
+          <a href="/about">Read more about the project</a>.
+        </p>
+        <p>
+          This dashboard requires JavaScript to display its interactive charts.
+        </p>
+      </div>
+    </noscript>
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>
