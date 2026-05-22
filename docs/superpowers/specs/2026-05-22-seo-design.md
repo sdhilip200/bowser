@@ -172,9 +172,10 @@ real path.
   listener with a `popstate` listener. Navigation between views uses
   `history.pushState`.
 - **`Nav.tsx`** — the About link becomes `href="/about"`; its click handler
-  calls `preventDefault`, `history.pushState`, and notifies App to switch view
-  (via a callback prop or a custom event). The in-page section links
-  (`#crude`, `#pump`, …) are unchanged — they are scroll anchors, not routes.
+  calls `preventDefault`, `history.pushState("", "", "/about")`, then invokes an
+  `onNavigate` callback prop passed down from `App` (App owns the `view` state).
+  The in-page section links (`#crude`, `#pump`, …) are unchanged — they are
+  scroll anchors, not routes.
 - The "back to dashboard" controls (`AboutPage.tsx` buttons, wordmark) push
   state back to `/`.
 
