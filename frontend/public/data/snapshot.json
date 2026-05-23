@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-05-23T18:45:56+00:00",
+  "generated_at": "2026-05-23T19:10:14+00:00",
   "fx": {
-    "nzd_per_usd": 1.703603,
-    "as_of": "Fri, 22 May 2026 00:02:32 +0000"
+    "nzd_per_usd": 1.708437,
+    "as_of": "Sat, 23 May 2026 00:02:32 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 103.96,
+      "latest": 103.54,
       "latest_date": "2026-05-22",
-      "delta_1d_pct": 1.35,
-      "delta_30d_pct": 9.2,
+      "delta_1d_pct": 0.94,
+      "delta_30d_pct": 8.76,
       "series": [
-        {
-          "date": "2025-05-22",
-          "usd": 64.44
-        },
         {
           "date": "2025-05-23",
           "usd": 64.78
@@ -1021,20 +1017,16 @@
         },
         {
           "date": "2026-05-22",
-          "usd": 103.96
+          "usd": 103.54
         }
       ]
     },
     "wti": {
-      "latest": 96.8,
+      "latest": 96.6,
       "latest_date": "2026-05-22",
-      "delta_1d_pct": 0.47,
-      "delta_30d_pct": 0.24,
+      "delta_1d_pct": 0.26,
+      "delta_30d_pct": 0.03,
       "series": [
-        {
-          "date": "2025-05-22",
-          "usd": 61.2
-        },
         {
           "date": "2025-05-23",
           "usd": 61.53
@@ -2041,46 +2033,46 @@
         },
         {
           "date": "2026-05-22",
-          "usd": 96.8
+          "usd": 96.6
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-05-22",
+    "as_of": "2026-05-23",
     "regular_91": {
-      "avg": 3.27,
+      "avg": 3.276,
       "min": 2.989,
-      "max": 3.529,
-      "count": 74
+      "max": 3.589,
+      "count": 83
     },
     "premium_95": {
-      "avg": 3.467,
-      "min": 3.029,
-      "max": 3.747,
-      "count": 41
+      "avg": 3.473,
+      "min": 3.179,
+      "max": 3.65,
+      "count": 53
     },
     "premium_98": {
-      "avg": 3.598,
+      "avg": 3.569,
       "min": 3.389,
-      "max": 3.759,
-      "count": 7
+      "max": 3.879,
+      "count": 13
     },
     "diesel": {
-      "avg": 3.174,
-      "min": 2.919,
-      "max": 3.479,
-      "count": 85
+      "avg": 3.163,
+      "min": 2.939,
+      "max": 3.589,
+      "count": 83
     },
     "lpg": {
-      "avg": 3.064,
-      "min": 1.897,
-      "max": 4.9,
-      "count": 4
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 32,
-    "observations_yesterday": 172,
-    "observations_older": 7
+    "observations_today": 0,
+    "observations_yesterday": 218,
+    "observations_older": 14
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
