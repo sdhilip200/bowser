@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T15:14:07+00:00",
+  "generated_at": "2026-05-23T16:30:45+00:00",
   "fx": {
     "nzd_per_usd": 1.703603,
     "as_of": "Fri, 22 May 2026 00:02:32 +0000"
@@ -8590,12 +8590,6 @@
   "news": {
     "nz": [
       {
-        "title": "New Zealand Fuel Prices Aren’t Just About Crude Anymore - Finimize",
-        "source": "Finimize",
-        "published": "Fri, 22 May 2026 05:37:42 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNFU2WUVaRHhRUWdIVDhuYVBIR3dSa1p1dFp1emVCQUl1NWlwUzAtMGdlSktxWU5IaTA2cDJ4dE8xX1Z0MG44Q3JYbTU5VVN0RFRITi1CYVVFYzByWlhDaE5BRzEzWTdRUnlRODFXU1ZpbXJENDZwMlVBZDI2X0FfREFSMFU5QVpJR2k4?oc=5"
-      },
-      {
         "title": "Soaring fuel prices lead to sharp increase in patient no-shows at Northland GPs - RNZ",
         "source": "RNZ",
         "published": "Thu, 21 May 2026 18:02:25 GMT",
@@ -8606,6 +8600,12 @@
         "source": "Stuff",
         "published": "Thu, 21 May 2026 00:45:24 GMT",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOanN4bVg0UEFFNnBvejNTejlDdktZa1ZYRDg0Sjd4Slc4ZU1ydlhyU2FFRngtUmI4NGJTbTlvTW1kcGtoZkRHVHMyUGdxX19jUGJIVUIyN191eU13NTMwQVU4TVhsV3NOZTNXelQ0LUpmbnNTYmdKbDluc0FaSVRTZHFUOUVyU1Yw?oc=5"
+      },
+      {
+        "title": "Not just petrol: How rising oil prices will hit household spending - 1News",
+        "source": "1News",
+        "published": "Wed, 20 May 2026 07:23:36 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUlJN3VlMG05eS00N0Nia1hpdjhHR05DU0RLdDlrNE0xYzQ3UXYyM045b1lHRG9UMzZxd3k1cl9rQVNkQnJVaVBZM2k3bldyOTdYbEE3Tjg2M2RsczZWV0lXVHhILWl5Y3ktQmVYbmU1Vm9LNHJOSE1NcFdMbVlxMGpFYUlWYmxyOVIyTVhIamdmTXRoYmFRdWdjOC1uSGU1LUxJ?oc=5"
       },
       {
         "title": "Latest fuel stock update shows drop in petrol en route to NZ - BusinessDesk | NZ",
@@ -8640,6 +8640,12 @@
     ],
     "global": [
       {
+        "title": "Oil Stocks 2026: Top Energy Picks as Brent Crude Hits $105 Amid Iran Conflict - Intellectia AI",
+        "source": "Intellectia AI",
+        "published": "Sat, 23 May 2026 16:07:30 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTX21JTk9MQ3lETk9WVC1KR0pySEQ2aVE3cDNkMldLUmlLMGlPM1ZseE9zRkJFTmxnTzhpcFE4X0d0Q0hlSmxJdERydHdGaXVteG4zNUVKd3NmZEFNMU1femxJX1N6ZkZN?oc=5"
+      },
+      {
         "title": "Bullish Introduces WTI Perpetual Futures Following Unprecedented Oil Supply Disruptions - Crowdfund Insider",
         "source": "Crowdfund Insider",
         "published": "Sat, 23 May 2026 13:32:55 GMT",
@@ -8664,12 +8670,6 @@
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
       },
       {
-        "title": "Global Oil Prices Slightly Rise amid Concerns over Delay in US-Iran Peace Talks - KBS WORLD Radio",
-        "source": "KBS WORLD Radio",
-        "published": "Sat, 23 May 2026 05:04:01 GMT",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YQ1YtdTM5TkRBdVEtRE1wY1lSSDlRXzNUNjJBQ3Ayd3FwLXYyeFppYnc0U01uUjdpa0puY25PSjVRTm12ZFp2emE0bWlIZGs2QUcxN3ZseWFxYjJucmxHdUg5cHFZejg0VURxVmRHVWFUUHk1WjVZ?oc=5"
-      },
-      {
         "title": "OPINION: Iran conflict a threat to Alaska’s oil supply - Juneau Empire",
         "source": "Juneau Empire",
         "published": "Sat, 23 May 2026 01:15:45 GMT",
@@ -8682,10 +8682,10 @@
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMDI2QjRTTzRNRjRJVnBQTFFmR2habjUxYkdMWDNIajI4dnZuc094NTFHTDRlYnNla21ZcE1mamZrMWJsLUVzcEM3aUJZT3h1YjhGaEhJZFBTS3N0RnI5V3lzd3RVOVVFdUFkZFdyVU1RbjJnZFczYW1IRW84VXFpdTlMSFEwZw?oc=5"
       },
       {
-        "title": "ICE and OKX to launch perpetual Brent and WTI oil futures - Crypto Briefing",
-        "source": "Crypto Briefing",
-        "published": "Fri, 22 May 2026 21:59:34 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yeE1FMkY5VkpPNER6UUZqTnEyRHQwZm1FMW8xV09oUFlMRUFxNFY3Z2t1RUh0UFJFaU96SGZiUzBEZFJ1YXJmQkFDaGl6RG92eC1yX1ZOUVNlUUtVNzYweXBIQlktS0FZ?oc=5"
+        "title": "The timing of the impending crude crisis - Brookings",
+        "source": "Brookings",
+        "published": "Fri, 22 May 2026 20:26:16 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZHBWQmRsM0FhcFVudXFTMmZ0cUY3T2x4a2VoZngxdXN3VFpLSGE3S0kyT0M3OGZpR3BoUTBPOWRjMUJsS3FpeG1sREQ5dEVrZkt5dTNXblM5OWNBTzc1SXhCSzY1TkZ6S3c0cnlPNGVDZnZhaFk1alcxWjhJUlhhZlhB?oc=5"
       }
     ]
   }
