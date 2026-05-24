@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T14:06:04+00:00",
+  "generated_at": "2026-05-24T15:41:15+00:00",
   "fx": {
     "nzd_per_usd": 1.708437,
     "as_of": "Sat, 23 May 2026 00:02:32 +0000"
@@ -8582,6 +8582,18 @@
   "news": {
     "nz": [
       {
+        "title": "New Zealand Fuel Prices Aren’t Just About Crude Anymore - Finimize",
+        "source": "Finimize",
+        "published": "Fri, 22 May 2026 05:37:42 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNFU2WUVaRHhRUWdIVDhuYVBIR3dSa1p1dFp1emVCQUl1NWlwUzAtMGdlSktxWU5IaTA2cDJ4dE8xX1Z0MG44Q3JYbTU5VVN0RFRITi1CYVVFYzByWlhDaE5BRzEzWTdRUnlRODFXU1ZpbXJENDZwMlVBZDI2X0FfREFSMFU5QVpJR2k4?oc=5"
+      },
+      {
+        "title": "Air NZ boss defends new routes amid reduced services elsewhere - RNZ",
+        "source": "RNZ",
+        "published": "Fri, 22 May 2026 02:25:30 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONElpVlRMa0RjcEtKNXpSZnRDTmRWbXp0anF6NHBrNWZ1WVZKM2JlbGhWNTNxN2tGUmdkdXdvRnlCanZVRW1Ja3JRckN1Q0REY1FLbEJLUUdnUnJNRDBkMmxnaDVHc1d3OEV0alFFelVqUUNraHlRRk0zTGxiM0l3ejFaLVI3SW9EckxfZUhQN19BSnBLcE9xZzRIUXc0ZXdELTkzSU1USno?oc=5"
+      },
+      {
         "title": "Will petrol prices ever go back to $2.50 a litre? - Stuff",
         "source": "Stuff",
         "published": "Thu, 21 May 2026 00:45:24 GMT",
@@ -8616,26 +8628,32 @@
         "source": "RNZ",
         "published": "Wed, 20 May 2026 01:40:48 GMT",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORTZZVUNvWWpaNHhDUDJRX3JqZFZDUjVaaVNOdU9MNUhpRUZ4WlY3TmxnaEozdmxjcHBmQjk1a0pSM0JyenhoV1NwZTRpdWZ1c2ZNbExQeXZwV2twZVd3SzFPcnVGTFk1Q1F3RTdyZUhMQUhxTFNCazhZYVVyQ25PblAxVHk4VVJUbTZHcw?oc=5"
-      },
-      {
-        "title": "Big jump in jet fuel stocks as major delivery arrives in New Zealand - Stuff",
-        "source": "Stuff",
-        "published": "Wed, 20 May 2026 01:30:56 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVE1UUWN3aHVxSHBwTzFTOEZsVmd1N3ZsaEcwaDZtYkM4cllXUXhNT2ZGU1VmOGctRk5SU1l2NUZMWXhDLVNUeXhwM0dvWVhXUU1WMTYyQVVuSVNkZXZzcWU1cUpyRWY5UWhRQ2VLbEJnMFFnRHFRa010elQ3QkdfTkFUX0NDR1B3QldoT3NmUW9SUThLNGpXcWJBU0l3WU4tWktz?oc=5"
-      },
-      {
-        "title": "Petrol stocks drop nearly three days in latest fuel update - 1News",
-        "source": "1News",
-        "published": "Mon, 18 May 2026 01:53:21 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTHdpZjRMeG5xTGtqamlJbFUxYlg5amdLR0w5VmpVZWFlMTV1a3lrMTlfY1U0MS1QUjQ5dTJGeGtjRXlTQ0RQN2tRNVhVOFBQRjZaaE5tUmhUTUR5RkdwZjBHeGZ1WWNYcVJadTRBUERFb1Q2eE80LTNDTlpSVFVfUHY4b2Z6QlBWR3BuTDVKeWk1a1ZxT2kzdmpR?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Global oil inventories to fall below 100 days of demand on Hormuz blockade - Nikkei Asia",
+        "source": "Nikkei Asia",
+        "published": "Sun, 24 May 2026 15:33:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOUR3ZWd5MnVjby04Mnk0dmVxbm5Gb2pFRnJ2dGYtMkxoNDZ4cFI1LXZlLWY4MzhxaEdkYXM4Q2VTZG13X0s1NmhnTVJ2Zks2ZU9DMU9tZy1EM3Uyb0E5cXIwY09USi04UzJBXy1pN2l5WEsyWHhfY3NuWnBXR0w0T1ppYkhqLTFILUtuS1JlSERLdnRNS2tLVVpXUVBrdHo2TFp6VlJKN28xMDYtMTFXem10UUw?oc=5"
+      },
+      {
+        "title": "Crude Oil Weekly Outlook: WTI Risks Pullback as US-Iran Deal Nears Completion - FOREX.com",
+        "source": "FOREX.com",
+        "published": "Sun, 24 May 2026 15:12:12 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNllUT1I1WVhuYmUzSjNEYzF5QS1EcUZoTnRKSzBRX3JXQkstM0FTNXFGX1NmV3NBOFVBb0o5eFlnZHFJODdCS3o3enh5cHFHSndsTnp2S053VWhhZWh6Z3JObGQxanRqRUJNeWtzbHAxczVoMzJwMFBLSmxPaDdwdk0xeWZmcVhlekRwRTgwS2dwdU5EMGhwZ20wdmhSMHp2VzBWTkJkMC1udmZLamtjSWRXbmRTRkFkdFBNVy1IT3HSAcwBQVVfeXFMTXdHUUVnbFM0QjU3TWdjNDBnR29KNTQ3SlRsN2FTY2hVZ3dYMXV5b3pBNUpfbkFzV1VpR2FubExfSGtXSEJyNGRDalVYbXhNUUhURjlyd2Y1RzcyTEYwamV2WXZDSFB3Z29SNGMxSm5JaG50M21QTTlCeTVBSkZaNWV3d2M0OWs1VExJOTVyMDhmY3V6Xy14eGNKWkNHdDVyMnhTNVg0MjhLS0RkcFU0M3hldEZoeGtzbXVhcjBYMzdtOWFzazhNSlBpN01N?oc=5"
+      },
       {
         "title": "US, Iran make contradicting claims on peace deal, clash on nuclear issue - The Jerusalem Post",
         "source": "The Jerusalem Post",
         "published": "Sun, 24 May 2026 10:22:33 GMT",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SSEVnTUZiU3VFcThqX3d5Z1VUelZzSjlHWm50NHdGZzdJblpGRl9XMm5sUTF6ZkFKUmd0R2FCQ2NlbFNPemVaSVRrQ0dTNWdBWGZyRV96SlY0aURzcG54VHhWSzQ5MXdoc1E?oc=5"
+      },
+      {
+        "title": "US-Iran draft deal: Proposed framework aims to end hostilities and lift oil sanctions - Egypt Independent",
+        "source": "Egypt Independent",
+        "published": "Sun, 24 May 2026 09:07:17 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcVNwYlNoM0NaeXYzUkgxbzNOcmpLVzgwRnhHM1dhZTYycTlpYUE2bGR6YWFFa2FkazZMaWdrMW9COGhMTVEtQjdEMlhFRGFuT2dQTm01RWlrNGI1RXVKQWhSdGxUeWZ6djFnV09kRUR4QnpwVzVvNF9hY1pBem5JWnpYTkFRamlNWEI3T3RIdlI1aWdaZnZwLWtEekYyTzd1MDlRZUhMSzBuaGFvNlVZTzdfaWFqX1pBdEE?oc=5"
       },
       {
         "title": "Mozambique, Ethiopia, Burundi Face Fuel Shortages As Middle East Conflict Disrupts Supplies - Arise News",
@@ -8660,24 +8678,6 @@
         "source": "Daily Forex",
         "published": "Sun, 24 May 2026 07:43:51 GMT",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOG40S1BRN29SSUtGa1pVWnRwVUktZzNFRDRjQi1FSGEwRXpqVHFQNzU0cGY2S3hlLXVobFZFTjd2dkNiem9zclBpQ0tiWElKcEF0OFNVTjVUcjlIRXB3Yk84YjBxQzBfMlU3R0VSRGNJSFAtZEZWVmN0VXFhb1g2b2NDYWNZd2t3akVvVjQ2ZFVBMVh5Nzhia3hDVHZWUlNBWC10ZkF3YXdaYWxLOGFOVlB3Z24zenlCV0E?oc=5"
-      },
-      {
-        "title": "Oil Sanctions Waiver Part of Possible Iran-US Understanding - WANA News Agency",
-        "source": "WANA News Agency",
-        "published": "Sun, 24 May 2026 06:55:56 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQlA5UVU0TDJ3NDN0ZDhSdFhjVGV5bkhJbGlBbHlZRS1RcF9zS0FhLWFxQW5MMXRvRFNFQjVHUmhwY0JwRUxfcm1iSmZmam9XaXRENlJ6aEZqY1czRmRlSUU1VDFZZE13cUhQdHlTZkItczg3Z0sxX3dmaXJTcGFWaFNzdXE5Zw?oc=5"
-      },
-      {
-        "title": "WTI and Brent crude crashes on Hyperliquid as Trump announces Iran deal - TradingView",
-        "source": "TradingView",
-        "published": "Sun, 24 May 2026 04:55:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMnB5RTR2WWZLYjRwNW13a1VhTDFMRmw4aElVQURka0dqQVlpTnhsZm5vVHFtcFRybm11WVg5ekZBVGgybXdyemFlVU9zUXlsWVRXdFA1YXpheEVCcnFaanNrenltMHEzbWtzWG9YTGR2V0VKRmQwWXdZbUdiWDJKX2lyeWNTOEZTZVhIVk9KRzZQeDg1a2xnYy1wQlNCOFVQTG9xRmNJNUxuczdqNXltZzg4Q3ROMUlwM1NmX2xuV0ZQODF5OGM4?oc=5"
-      },
-      {
-        "title": "Exclusive: What's inside the Iran deal Trump is close to signing - Axios",
-        "source": "Axios",
-        "published": "Sun, 24 May 2026 03:03:06 GMT",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KaXpnNk8yODVTQ2FWMWY0VnZDUFoyQWktY19NTElzdWk1dU1KdEtBRlBIMFFvMlZPNnBsNVFla0ZlaFR6OG96RFpXU3RJMTNNaUctcHdLdVVfNTdJYVNDTXZxRkZLUGxucEFnSm5Lb2VtSnd3VnZwWTFULUxIWkU?oc=5"
       }
     ]
   }
