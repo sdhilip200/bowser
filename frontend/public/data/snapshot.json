@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-05-24T17:45:18+00:00",
+  "generated_at": "2026-05-24T19:17:27+00:00",
   "fx": {
-    "nzd_per_usd": 1.708437,
-    "as_of": "Sat, 23 May 2026 00:02:32 +0000"
+    "nzd_per_usd": 1.708237,
+    "as_of": "Sun, 24 May 2026 00:02:32 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 103.54,
+      "latest": 100.21,
       "latest_date": "2026-05-22",
-      "delta_1d_pct": 0.94,
-      "delta_30d_pct": 8.76,
+      "delta_1d_pct": -2.31,
+      "delta_30d_pct": 5.26,
       "series": [
-        {
-          "date": "2025-05-23",
-          "usd": 64.78
-        },
         {
           "date": "2025-05-27",
           "usd": 64.09
@@ -1017,7 +1013,7 @@
         },
         {
           "date": "2026-05-22",
-          "usd": 103.54
+          "usd": 100.21
         }
       ]
     },
@@ -1027,10 +1023,6 @@
       "delta_1d_pct": 0.26,
       "delta_30d_pct": 0.03,
       "series": [
-        {
-          "date": "2025-05-23",
-          "usd": 61.53
-        },
         {
           "date": "2025-05-27",
           "usd": 60.89
@@ -2039,40 +2031,40 @@
     }
   },
   "nz_retail": {
-    "as_of": "2026-05-23",
+    "as_of": "2026-05-24",
     "regular_91": {
-      "avg": 3.276,
+      "avg": 3.268,
       "min": 2.989,
-      "max": 3.589,
-      "count": 83
+      "max": 3.499,
+      "count": 66
     },
     "premium_95": {
-      "avg": 3.473,
+      "avg": 3.443,
       "min": 3.179,
-      "max": 3.65,
-      "count": 53
+      "max": 3.608,
+      "count": 27
     },
     "premium_98": {
-      "avg": 3.569,
+      "avg": 3.556,
       "min": 3.389,
-      "max": 3.879,
-      "count": 13
+      "max": 3.659,
+      "count": 6
     },
     "diesel": {
-      "avg": 3.163,
-      "min": 2.939,
-      "max": 3.589,
-      "count": 83
+      "avg": 3.178,
+      "min": 2.959,
+      "max": 3.479,
+      "count": 74
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 1.897,
+      "min": 1.897,
+      "max": 1.897,
+      "count": 1
     },
-    "observations_today": 0,
-    "observations_yesterday": 218,
-    "observations_older": 14
+    "observations_today": 37,
+    "observations_yesterday": 95,
+    "observations_older": 42
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8582,22 +8574,28 @@
   "news": {
     "nz": [
       {
+        "title": "Soaring fuel prices lead to sharp increase in patient no-shows at Northland GPs - RNZ",
+        "source": "RNZ",
+        "published": "Thu, 21 May 2026 18:02:25 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOXFGLW03T1FRYWpLLUE4SVgxZzNPSjFONjV4RU1JRTgtSUxmUTlQM2hUNjN3QXFwQW90Uk1lODk2T0g3a09RdnByUElfXzBnR0lUWmNqc2s2UEpnV2RQQl9rUFJRTUhIclVla2g4aXZ2aVlHek1iWGpxRWlQcDRCUkl4TkgyZFhNdTJIRy1uZXRWTFU5VktwbUs4Z3JvMzRNQjNDNDh5bTRYV1NFMVBXajJFXy0wamJwTkNhUg?oc=5"
+      },
+      {
         "title": "Will petrol prices ever go back to $2.50 a litre? - Stuff",
         "source": "Stuff",
         "published": "Thu, 21 May 2026 00:45:24 GMT",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOanN4bVg0UEFFNnBvejNTejlDdktZa1ZYRDg0Sjd4Slc4ZU1ydlhyU2FFRngtUmI4NGJTbTlvTW1kcGtoZkRHVHMyUGdxX19jUGJIVUIyN191eU13NTMwQVU4TVhsV3NOZTNXelQ0LUpmbnNTYmdKbDluc0FaSVRTZHFUOUVyU1Yw?oc=5"
       },
       {
-        "title": "Not just petrol: How rising oil prices will hit household spending - 1News",
-        "source": "1News",
-        "published": "Wed, 20 May 2026 07:23:36 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUlJN3VlMG05eS00N0Nia1hpdjhHR05DU0RLdDlrNE0xYzQ3UXYyM045b1lHRG9UMzZxd3k1cl9rQVNkQnJVaVBZM2k3bldyOTdYbEE3Tjg2M2RsczZWV0lXVHhILWl5Y3ktQmVYbmU1Vm9LNHJOSE1NcFdMbVlxMGpFYUlWYmxyOVIyTVhIamdmTXRoYmFRdWdjOC1uSGU1LUxJ?oc=5"
-      },
-      {
         "title": "Latest NZ fuel stocks official data – updated graphs and trends - 1News",
         "source": "1News",
         "published": "Wed, 20 May 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY2NuZjJmdzVucTZrRkgtZl83WDc4UzM1UktHdHFvYTFTcmZ6V3UwanpEa0FRY2lDcEd1anpmb0M4YmJGTG1GZDFMUHE3S0RfV3JVMnRPX3VEU19MRl9WalhTX3RtcU91LW5reHVEN180dnNlTEVad21pMzZQME9XSmdObjIzT25LRW0zWHF0LXlwZDJnanBlTU01LW1Ydw?oc=5"
+      },
+      {
+        "title": "Latest fuel stock update shows drop in petrol en route to NZ - BusinessDesk | NZ",
+        "source": "BusinessDesk | NZ",
+        "published": "Wed, 20 May 2026 03:35:57 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRHV0LXVKcV9lYkVoQ2o1U1JnY0JtWGFvRVhPTExVNzBSbU9IT1dMRWRUaEZGaU9nUldKRE94OXNRS3NDUzBqTEU4aHRORDZUOUNOYzFRdEQ2a3dxdGpuVlBnTWRuOGk3YzNDT1JXTy1qejBwS1ZKX1R5MWR2UUxXckxvYnJUaHptUWt1eUVKNTAwVDF0aURQSHBCcE51eTVUbUwzbVF5VWl4OC1WUnc?oc=5"
       },
       {
         "title": "Petrol and diesel stocks dip, jet fuel rises in weekly fuel stocktake - The Post",
@@ -8622,12 +8620,6 @@
         "source": "Stuff",
         "published": "Wed, 20 May 2026 01:30:56 GMT",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVE1UUWN3aHVxSHBwTzFTOEZsVmd1N3ZsaEcwaDZtYkM4cllXUXhNT2ZGU1VmOGctRk5SU1l2NUZMWXhDLVNUeXhwM0dvWVhXUU1WMTYyQVVuSVNkZXZzcWU1cUpyRWY5UWhRQ2VLbEJnMFFnRHFRa010elQ3QkdfTkFUX0NDR1B3QldoT3NmUW9SUThLNGpXcWJBU0l3WU4tWktz?oc=5"
-      },
-      {
-        "title": "Petrol stocks drop nearly three days in latest fuel update - 1News",
-        "source": "1News",
-        "published": "Mon, 18 May 2026 01:53:21 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTHdpZjRMeG5xTGtqamlJbFUxYlg5amdLR0w5VmpVZWFlMTV1a3lrMTlfY1U0MS1QUjQ5dTJGeGtjRXlTQ0RQN2tRNVhVOFBQRjZaaE5tUmhUTUR5RkdwZjBHeGZ1WWNYcVJadTRBUERFb1Q2eE80LTNDTlpSVFVfUHY4b2Z6QlBWR3BuTDVKeWk1a1ZxT2kzdmpR?oc=5"
       }
     ],
     "global": [
