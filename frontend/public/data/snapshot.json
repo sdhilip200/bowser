@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T16:44:30+00:00",
+  "generated_at": "2026-05-24T17:45:18+00:00",
   "fx": {
     "nzd_per_usd": 1.708437,
     "as_of": "Sat, 23 May 2026 00:02:32 +0000"
@@ -8582,18 +8582,6 @@
   "news": {
     "nz": [
       {
-        "title": "New Zealand Fuel Prices Aren’t Just About Crude Anymore - Finimize",
-        "source": "Finimize",
-        "published": "Fri, 22 May 2026 05:37:42 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNFU2WUVaRHhRUWdIVDhuYVBIR3dSa1p1dFp1emVCQUl1NWlwUzAtMGdlSktxWU5IaTA2cDJ4dE8xX1Z0MG44Q3JYbTU5VVN0RFRITi1CYVVFYzByWlhDaE5BRzEzWTdRUnlRODFXU1ZpbXJENDZwMlVBZDI2X0FfREFSMFU5QVpJR2k4?oc=5"
-      },
-      {
-        "title": "Air NZ boss defends new routes amid reduced services elsewhere - RNZ",
-        "source": "RNZ",
-        "published": "Fri, 22 May 2026 02:25:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONElpVlRMa0RjcEtKNXpSZnRDTmRWbXp0anF6NHBrNWZ1WVZKM2JlbGhWNTNxN2tGUmdkdXdvRnlCanZVRW1Ja3JRckN1Q0REY1FLbEJLUUdnUnJNRDBkMmxnaDVHc1d3OEV0alFFelVqUUNraHlRRk0zTGxiM0l3ejFaLVI3SW9EckxfZUhQN19BSnBLcE9xZzRIUXc0ZXdELTkzSU1USno?oc=5"
-      },
-      {
         "title": "Will petrol prices ever go back to $2.50 a litre? - Stuff",
         "source": "Stuff",
         "published": "Thu, 21 May 2026 00:45:24 GMT",
@@ -8628,9 +8616,27 @@
         "source": "RNZ",
         "published": "Wed, 20 May 2026 01:40:48 GMT",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORTZZVUNvWWpaNHhDUDJRX3JqZFZDUjVaaVNOdU9MNUhpRUZ4WlY3TmxnaEozdmxjcHBmQjk1a0pSM0JyenhoV1NwZTRpdWZ1c2ZNbExQeXZwV2twZVd3SzFPcnVGTFk1Q1F3RTdyZUhMQUhxTFNCazhZYVVyQ25PblAxVHk4VVJUbTZHcw?oc=5"
+      },
+      {
+        "title": "Big jump in jet fuel stocks as major delivery arrives in New Zealand - Stuff",
+        "source": "Stuff",
+        "published": "Wed, 20 May 2026 01:30:56 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVE1UUWN3aHVxSHBwTzFTOEZsVmd1N3ZsaEcwaDZtYkM4cllXUXhNT2ZGU1VmOGctRk5SU1l2NUZMWXhDLVNUeXhwM0dvWVhXUU1WMTYyQVVuSVNkZXZzcWU1cUpyRWY5UWhRQ2VLbEJnMFFnRHFRa010elQ3QkdfTkFUX0NDR1B3QldoT3NmUW9SUThLNGpXcWJBU0l3WU4tWktz?oc=5"
+      },
+      {
+        "title": "Petrol stocks drop nearly three days in latest fuel update - 1News",
+        "source": "1News",
+        "published": "Mon, 18 May 2026 01:53:21 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTHdpZjRMeG5xTGtqamlJbFUxYlg5amdLR0w5VmpVZWFlMTV1a3lrMTlfY1U0MS1QUjQ5dTJGeGtjRXlTQ0RQN2tRNVhVOFBQRjZaaE5tUmhUTUR5RkdwZjBHeGZ1WWNYcVJadTRBUERFb1Q2eE80LTNDTlpSVFVfUHY4b2Z6QlBWR3BuTDVKeWk1a1ZxT2kzdmpR?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "US, Iran make contradicting claims on peace deal, clash on nuclear issue - The Jerusalem Post",
+        "source": "The Jerusalem Post",
+        "published": "Sun, 24 May 2026 16:40:31 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SSEVnTUZiU3VFcThqX3d5Z1VUelZzSjlHWm50NHdGZzdJblpGRl9XMm5sUTF6ZkFKUmd0R2FCQ2NlbFNPemVaSVRrQ0dTNWdBWGZyRV96SlY0aURzcG54VHhWSzQ5MXdoc1E?oc=5"
+      },
       {
         "title": "Brent Crude Oil Price Falls On Hyperliquid As US And Iran Move Closer To A Deal - Benzinga",
         "source": "Benzinga",
@@ -8650,10 +8656,10 @@
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOUR3ZWd5MnVjby04Mnk0dmVxbm5Gb2pFRnJ2dGYtMkxoNDZ4cFI1LXZlLWY4MzhxaEdkYXM4Q2VTZG13X0s1NmhnTVJ2Zks2ZU9DMU9tZy1EM3Uyb0E5cXIwY09USi04UzJBXy1pN2l5WEsyWHhfY3NuWnBXR0w0T1ppYkhqLTFILUtuS1JlSERLdnRNS2tLVVpXUVBrdHo2TFp6VlJKN28xMDYtMTFXem10UUw?oc=5"
       },
       {
-        "title": "US, Iran make contradicting claims on peace deal, clash on nuclear issue - The Jerusalem Post",
-        "source": "The Jerusalem Post",
-        "published": "Sun, 24 May 2026 10:22:33 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SSEVnTUZiU3VFcThqX3d5Z1VUelZzSjlHWm50NHdGZzdJblpGRl9XMm5sUTF6ZkFKUmd0R2FCQ2NlbFNPemVaSVRrQ0dTNWdBWGZyRV96SlY0aURzcG54VHhWSzQ5MXdoc1E?oc=5"
+        "title": "With oil markets nearing the danger zone, a US-Iran deal can’t come soon enough | Heather Stewart - The Guardian",
+        "source": "The Guardian",
+        "published": "Sun, 24 May 2026 09:32:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYXBSRnFaOFhBWFdQaTF5TG1KWTV4clAteUxSNVhWdWo5LTlyV1pnbG9UcmtpMkdUSEhuWHd0eTFkcWNLLVVMdHk2VG8yeENkTkxMNzhud19tM0E2UkQ4SU8xOUpsSGRkbUZaaW1RVXZmWFVlZzl5Q2xocEZDV0hQWnZjUHdqdWxWTTlSQ3ZB?oc=5"
       },
       {
         "title": "Mozambique, Ethiopia, Burundi Face Fuel Shortages As Middle East Conflict Disrupts Supplies - Arise News",
@@ -8672,12 +8678,6 @@
         "source": "تسنیم",
         "published": "Sun, 24 May 2026 07:46:31 GMT",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNV9yWDF0NXFSUUlWWEdQaGNoWm9wcEpyd2Jaa1ZLSzY1WmVTTUdGU1BuVmFEQkVHX0JpMzNvTTZZTUdFeVFvZXYzd29ob2gtdzJ4dEM1ZnFwbWNlc0JVS0dzZGJRb3VOY3hON2tZV1pQNmxCRHdtN2RrUHFBNmJUcG5iZkthVnZkTkI5dlNaRDFVclZzTm5CVFJGVlBMd3hOdFNHdFVBa2J1Yi1fUERfYnFjRVhUUWlkX1JSM3FVRVdUaWdfcVRWdNIBzgFBVV95cUxPQlN2SkFWUDdmYzFIZE5fTG1iaHM1WnF0V1ZVNWQ3Q3F2SWZRRHJzaFA3QlBxTnhScVdZT2ZpNWpvdklkNDFFcVJXSmsxZ2R3OFhOd1p0YThKOFZ6cFFsRVhTTmhSV2VCMUtJOFJ3TlJLRUE5N21BcWNwbjNUeERiTnNBQmR4VWNlVEw1Y2pNQWFpVDBWTWRBU0E0Z1pqX0tiaGZoLWlscDVlaHhPcEUxMDQ1LVBVc1MzT29CakVqc0IwSmRnSWwzdXNnWDRuUQ?oc=5"
-      },
-      {
-        "title": "Crude Oil Weekly Forecast - 24/05: Critical Week (Chart) - Daily Forex",
-        "source": "Daily Forex",
-        "published": "Sun, 24 May 2026 07:43:51 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOG40S1BRN29SSUtGa1pVWnRwVUktZzNFRDRjQi1FSGEwRXpqVHFQNzU0cGY2S3hlLXVobFZFTjd2dkNiem9zclBpQ0tiWElKcEF0OFNVTjVUcjlIRXB3Yk84YjBxQzBfMlU3R0VSRGNJSFAtZEZWVmN0VXFhb1g2b2NDYWNZd2t3akVvVjQ2ZFVBMVh5Nzhia3hDVHZWUlNBWC10ZkF3YXdaYWxLOGFOVlB3Z24zenlCV0E?oc=5"
       }
     ]
   }
