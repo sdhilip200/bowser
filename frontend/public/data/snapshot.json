@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-25T18:17:03+00:00",
+  "generated_at": "2026-05-25T19:40:06+00:00",
   "fx": {
-    "nzd_per_usd": 1.708237,
-    "as_of": "Sun, 24 May 2026 00:02:32 +0000"
+    "nzd_per_usd": 1.703549,
+    "as_of": "Mon, 25 May 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
       "latest": 100.21,
-      "latest_date": "2026-05-22",
-      "delta_1d_pct": -2.31,
-      "delta_30d_pct": 5.26,
+      "latest_date": "2026-05-25",
+      "delta_1d_pct": -3.22,
+      "delta_30d_pct": 0.86,
       "series": [
         {
           "date": "2025-05-27",
@@ -1013,15 +1013,19 @@
         },
         {
           "date": "2026-05-22",
+          "usd": 103.54
+        },
+        {
+          "date": "2026-05-25",
           "usd": 100.21
         }
       ]
     },
     "wti": {
       "latest": 96.6,
-      "latest_date": "2026-05-22",
-      "delta_1d_pct": 0.26,
-      "delta_30d_pct": 0.03,
+      "latest_date": "2026-05-25",
+      "delta_1d_pct": 0.0,
+      "delta_30d_pct": -2.5,
       "series": [
         {
           "date": "2025-05-27",
@@ -2026,45 +2030,49 @@
         {
           "date": "2026-05-22",
           "usd": 96.6
+        },
+        {
+          "date": "2026-05-25",
+          "usd": 96.6
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-05-24",
+    "as_of": "2026-05-25",
     "regular_91": {
-      "avg": 3.268,
-      "min": 2.989,
-      "max": 3.499,
-      "count": 66
+      "avg": 3.282,
+      "min": 3.119,
+      "max": 3.599,
+      "count": 64
     },
     "premium_95": {
       "avg": 3.443,
-      "min": 3.179,
-      "max": 3.608,
-      "count": 27
+      "min": 3.209,
+      "max": 3.899,
+      "count": 31
     },
     "premium_98": {
-      "avg": 3.556,
-      "min": 3.389,
+      "avg": 3.519,
+      "min": 3.41,
       "max": 3.659,
-      "count": 6
+      "count": 5
     },
     "diesel": {
-      "avg": 3.178,
-      "min": 2.959,
-      "max": 3.479,
-      "count": 74
+      "avg": 3.172,
+      "min": 2.909,
+      "max": 3.999,
+      "count": 80
     },
     "lpg": {
-      "avg": 1.897,
-      "min": 1.897,
-      "max": 1.897,
-      "count": 1
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 37,
-    "observations_yesterday": 95,
-    "observations_older": 42
+    "observations_today": 77,
+    "observations_yesterday": 92,
+    "observations_older": 11
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8592,6 +8600,18 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONXIxQVJuWnN5eWdadGVOcVVzZ3cxVGlFY25sWXRUaEF5OEFWV1IyMlctcmxYcGhVdnRnZThVM2xtX2hXSm1nQWlxbTV4bkg0eGxXd2lDa1pHQlZlMkk2LUpEQ2tDVTVWN1c0eXUxLW1NWmp4ci1wMlEyY1NwVDItLWRVUTVITWNGQVExanhZS3ZidUVuMVQzV0pPWEpWd3pGeHdNWGVzQQ?oc=5"
       },
       {
+        "title": "New Zealand Fuel Prices Aren’t Just About Crude Anymore - Finimize",
+        "source": "Finimize",
+        "published": "Fri, 22 May 2026 05:37:42 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNFU2WUVaRHhRUWdIVDhuYVBIR3dSa1p1dFp1emVCQUl1NWlwUzAtMGdlSktxWU5IaTA2cDJ4dE8xX1Z0MG44Q3JYbTU5VVN0RFRITi1CYVVFYzByWlhDaE5BRzEzWTdRUnlRODFXU1ZpbXJENDZwMlVBZDI2X0FfREFSMFU5QVpJR2k4?oc=5"
+      },
+      {
+        "title": "Soaring fuel prices lead to sharp increase in patient no-shows at Northland GPs - RNZ",
+        "source": "RNZ",
+        "published": "Thu, 21 May 2026 18:02:25 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcUhDRUxMNHNOWXhpZ1ZvTXZEWTA1OGhfZDBjWF9jcHhUSnlCN2RTdUYycTg0N3hQazBMLVp0eFBhX1V3Z0hULXloMjJxa3hxemU0ZGVfRzExOTNMeGVKUThDYXZ3TDFOUWloNGxFWmxnemwwbWQ1cEZ0SWNLdE56RHMyRlZ3Z21ZOXJuNlRvLUxPc1VjaTZ1MldaMFp4OVhiVkVZbWRqMjhSS3Iya18tTEpqTkgzdTlaQlZsa3lacw?oc=5"
+      },
+      {
         "title": "Will petrol prices ever go back to $2.50 a litre? - Stuff",
         "source": "Stuff",
         "published": "Thu, 21 May 2026 00:45:24 GMT",
@@ -8608,26 +8628,14 @@
         "source": "1News",
         "published": "Wed, 20 May 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY2NuZjJmdzVucTZrRkgtZl83WDc4UzM1UktHdHFvYTFTcmZ6V3UwanpEa0FRY2lDcEd1anpmb0M4YmJGTG1GZDFMUHE3S0RfV3JVMnRPX3VEU19MRl9WalhTX3RtcU91LW5reHVEN180dnNlTEVad21pMzZQME9XSmdObjIzT25LRW0zWHF0LXlwZDJnanBlTU01LW1Ydw?oc=5"
-      },
-      {
-        "title": "Latest fuel stock update shows drop in petrol en route to NZ - BusinessDesk | NZ",
-        "source": "BusinessDesk | NZ",
-        "published": "Wed, 20 May 2026 03:35:57 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRHV0LXVKcV9lYkVoQ2o1U1JnY0JtWGFvRVhPTExVNzBSbU9IT1dMRWRUaEZGaU9nUldKRE94OXNRS3NDUzBqTEU4aHRORDZUOUNOYzFRdEQ2a3dxdGpuVlBnTWRuOGk3YzNDT1JXTy1qejBwS1ZKX1R5MWR2UUxXckxvYnJUaHptUWt1eUVKNTAwVDF0aURQSHBCcE51eTVUbUwzbVF5VWl4OC1WUnc?oc=5"
-      },
-      {
-        "title": "Petrol and diesel stocks down, jet fuel up - RNZ",
-        "source": "RNZ",
-        "published": "Wed, 20 May 2026 01:40:48 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORTZZVUNvWWpaNHhDUDJRX3JqZFZDUjVaaVNOdU9MNUhpRUZ4WlY3TmxnaEozdmxjcHBmQjk1a0pSM0JyenhoV1NwZTRpdWZ1c2ZNbExQeXZwV2twZVd3SzFPcnVGTFk1Q1F3RTdyZUhMQUhxTFNCazhZYVVyQ25PblAxVHk4VVJUbTZHcw?oc=5"
       }
     ],
     "global": [
       {
-        "title": "Brent Hits 4-week Low - TradingView",
-        "source": "TradingView",
-        "published": "Mon, 25 May 2026 16:57:52 GMT",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPYzlXSFdaX2s1WFlXdThUNTJNTy1zVjM4WXZzZFplQkJZUmRIemY3MV9GS3VFRmNPWjJrUUxXazN2RG4wN3VxYURpU29IdjZhZDNPdENYMWc2RHdXLXJjU3hXeUhTUWN5eHJJaHhRSEJTWTY3VFNVVjBvYjM?oc=5"
+        "title": "WTI Technical Analysis - The Strait Of Hormuz Is To Be Opened In 30 Days, Oil Down 7% - Seeking Alpha",
+        "source": "Seeking Alpha",
+        "published": "Mon, 25 May 2026 19:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU3VhMTBXYnhac3ZTdkRXWjZaenFxdGZqMFpvN083OWhuaHExU3dCNHY0cEtjdjlqM2s3djdIci1WLVNOclVVREg1X0hoSG45c3ZnMFdPWF9wb3h3cmlfTThiYXZ4M3pnbkRVT2t0Ty1VZHZOdU5ySllkZ3Z3ZXlCeEV3elUyUDJyc1FMRENycUw4eHNyM0pUaEtwNktNQlhsQUd6bzFRT2lJTlZ4cDIzSg?oc=5"
       },
       {
         "title": "Crude Oil Futures Prices Plunge 5% - Tempo.co English",
@@ -8636,10 +8644,10 @@
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01SmFiY2pvM0hoZ2EyYUlMdFRTLUxpNjl0WEhydHZScWV5UElXQ1A2Zk1ZUGMxamZmM28yNEVuRDM0T25RYW52bi0wc2VxdGpENmtfbzhCNkFFbWpuYnM3enNlOENqU0hud1MzUHJzZnQ0Z0xE?oc=5"
       },
       {
-        "title": "Oil Prices Fall Sharply on News of Possible Iran Deal - The New York Times",
-        "source": "The New York Times",
-        "published": "Mon, 25 May 2026 16:48:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HR1A4RDAyRW9DaWlGWVh4dHNUMHMtbWk0OWlNWnFBVDdaalJTOXRBZlJuV2JTZ0xtQnl0VGYtMklTc1BEVWlvOXE5YjBMMncwek1KcFVONWdrcHJXVnZfRWs2NjJkaUlBa1NhRGJhMVM?oc=5"
+        "title": "Oil Prices Drop on Prospect of Iran Deal, but Investors Aren’t Celebrating Yet - WSJ",
+        "source": "WSJ",
+        "published": "Mon, 25 May 2026 16:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ1pYMGprSjVZUlM3ZTUzd1VzZmZqcTgycWJzci1hVlltV0p6Rk95TzB5N3JsMmN3WmNjMW1SMHpoMzdzQkcxcXdjQ3FBNzNyWEdOaXk3c2c0QWV1VHVTX2NNVUhrRHAtTkNrYTFaUHp0b2pQT1p2VlFSR3FQZjFlTDlzRFVDTFhXZnR4YlM4SzlyTEp6dmloeUlLcUlWMVNGblY3MkRSRGhfNFFYQWltY1UtZw?oc=5"
       },
       {
         "title": "Iraq's Oil Collapse Sparks Race for New Export Routes - Crude Oil Prices Today | OilPrice.com",
