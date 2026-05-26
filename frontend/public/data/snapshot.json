@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-26T19:47:10+00:00",
+  "generated_at": "2026-05-26T20:08:55+00:00",
   "fx": {
-    "nzd_per_usd": 1.703549,
-    "as_of": "Mon, 25 May 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.70417,
+    "as_of": "Tue, 26 May 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 100.21,
-      "latest_date": "2026-05-25",
-      "delta_1d_pct": -3.22,
-      "delta_30d_pct": 0.86,
+      "latest": 96.56,
+      "latest_date": "2026-05-26",
+      "delta_1d_pct": -6.74,
+      "delta_30d_pct": -2.82,
       "series": [
         {
           "date": "2025-05-27",
@@ -1016,16 +1016,16 @@
           "usd": 103.54
         },
         {
-          "date": "2026-05-25",
-          "usd": 100.21
+          "date": "2026-05-26",
+          "usd": 96.56
         }
       ]
     },
     "wti": {
-      "latest": 96.6,
-      "latest_date": "2026-05-25",
-      "delta_1d_pct": 0.0,
-      "delta_30d_pct": -2.5,
+      "latest": 93.63,
+      "latest_date": "2026-05-26",
+      "delta_1d_pct": -3.07,
+      "delta_30d_pct": -5.5,
       "series": [
         {
           "date": "2025-05-27",
@@ -2032,37 +2032,37 @@
           "usd": 96.6
         },
         {
-          "date": "2026-05-25",
-          "usd": 96.6
+          "date": "2026-05-26",
+          "usd": 93.63
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-05-25",
+    "as_of": "2026-05-26",
     "regular_91": {
-      "avg": 3.282,
-      "min": 3.119,
-      "max": 3.599,
-      "count": 64
+      "avg": 3.278,
+      "min": 3.111,
+      "max": 3.519,
+      "count": 65
     },
     "premium_95": {
-      "avg": 3.443,
+      "avg": 3.437,
       "min": 3.209,
-      "max": 3.899,
-      "count": 31
+      "max": 3.65,
+      "count": 24
     },
     "premium_98": {
-      "avg": 3.519,
-      "min": 3.41,
-      "max": 3.659,
-      "count": 5
+      "avg": 3.565,
+      "min": 3.497,
+      "max": 3.619,
+      "count": 3
     },
     "diesel": {
-      "avg": 3.172,
-      "min": 2.909,
-      "max": 3.999,
-      "count": 80
+      "avg": 3.171,
+      "min": 2.918,
+      "max": 3.479,
+      "count": 73
     },
     "lpg": {
       "avg": 0.0,
@@ -2070,9 +2070,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 77,
-    "observations_yesterday": 92,
-    "observations_older": 11
+    "observations_today": 97,
+    "observations_yesterday": 61,
+    "observations_older": 7
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8612,16 +8612,16 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONXIxQVJuWnN5eWdadGVOcVVzZ3cxVGlFY25sWXRUaEF5OEFWV1IyMlctcmxYcGhVdnRnZThVM2xtX2hXSm1nQWlxbTV4bkg0eGxXd2lDa1pHQlZlMkk2LUpEQ2tDVTVWN1c0eXUxLW1NWmp4ci1wMlEyY1NwVDItLWRVUTVITWNGQVExanhZS3ZidUVuMVQzV0pPWEpWd3pGeHdNWGVzQQ?oc=5"
       },
       {
-        "title": "Soaring fuel prices lead to sharp increase in patient no-shows at Northland GPs - RNZ",
-        "source": "RNZ",
-        "published": "Thu, 21 May 2026 18:02:25 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcUhDRUxMNHNOWXhpZ1ZvTXZEWTA1OGhfZDBjWF9jcHhUSnlCN2RTdUYycTg0N3hQazBMLVp0eFBhX1V3Z0hULXloMjJxa3hxemU0ZGVfRzExOTNMeGVKUThDYXZ3TDFOUWloNGxFWmxnemwwbWQ1cEZ0SWNLdE56RHMyRlZ3Z21ZOXJuNlRvLUxPc1VjaTZ1MldaMFp4OVhiVkVZbWRqMjhSS3Iya18tTEpqTkgzdTlaQlZsa3lacw?oc=5"
-      },
-      {
         "title": "Latest NZ fuel stocks official data – updated graphs and trends - 1News",
         "source": "1News",
         "published": "Wed, 20 May 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY2NuZjJmdzVucTZrRkgtZl83WDc4UzM1UktHdHFvYTFTcmZ6V3UwanpEa0FRY2lDcEd1anpmb0M4YmJGTG1GZDFMUHE3S0RfV3JVMnRPX3VEU19MRl9WalhTX3RtcU91LW5reHVEN180dnNlTEVad21pMzZQME9XSmdObjIzT25LRW0zWHF0LXlwZDJnanBlTU01LW1Ydw?oc=5"
+      },
+      {
+        "title": "Petrol and diesel stocks dip, jet fuel rises in weekly fuel stocktake - The Post",
+        "source": "The Post",
+        "published": "Wed, 20 May 2026 02:33:25 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSlVhWWtoNjlEdUxlN2JjTGxyQUxMVnpTcHpaY0duaXB2LUotR2VOZ1ZuZnlsMzNTTFg3S2t4N21Bcm9WdHBVZDdGdFFwVE9JN1dQRTNpdG9ISlFmMlQ3bnVrZXFscjk0RjNGbHo1eE82NlJxSHk3VHI4OVRFZW55d0NaWVE2ZjZ3SDFCc3h6bDBIN0RvM2dlREk1dHlOcFJDMHZvcjA5b1RhbTdWclE?oc=5"
       },
       {
         "title": "Petrol and diesel stocks down, jet fuel up - RNZ",
@@ -8662,6 +8662,12 @@
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQTYxVHVsMnpJZmF1eGRfaUl4N1lOY1BrNlp4UjV4c09GVkFGQ1h2Ykh6MzFpeGV5M0JwcVRTTXp6YzIyOG83SEhlZy04Q1V5THpHa2VfcUN5bFBtd1lQQTQ0YnJ1N1U1TkRZUmZhSzVJU011OVptVldRTElhRG84dXllX0hscUczWFVfSGFidEZiTXRw?oc=5"
       },
       {
+        "title": "Gas Price Dip but Oregon Drivers Still Paid the Highest Price Ever for Gas over Memorial Day Weekend - AAA",
+        "source": "AAA",
+        "published": "Tue, 26 May 2026 17:45:37 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZGpSaWs5bDJ0REVxQWo4dGhQOXVmVjFuTFFBdFlEdFFBSXBiVnVZVkRyZHd2M0NYMzc2YlZEdzhpdDFUOFdBYXdoUEM1YWpIa1F1VGxlOHFkZ1dhWWRlLU5rRVRnN0hyT2hmVHhadE9EMUlCWnJVME90bUlsc3VWRlQ0M3U2TjQ2dVRwSjI0aFF3TkVSZFIxZFVCam5RMDFQaW9kLTY5aEg5dWRRZGpfQ0hCcnVYMVFsN2tuWl9aMkZhNTFockdNMA?oc=5"
+      },
+      {
         "title": "India crude processing falls 8.9% in April; Middle East supply shifts weigh on refiners - The Times of India",
         "source": "The Times of India",
         "published": "Tue, 26 May 2026 17:19:00 GMT",
@@ -8672,12 +8678,6 @@
         "source": "MITechNews",
         "published": "Tue, 26 May 2026 17:12:31 GMT",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZk5fTWp2WnlxZjI4aGgwZmh2VU4xUmt2SVRjazFvTnhUa1lIbGo4eXhwNXpLdENUOEJhdHBfeVJSbjNPWnZNdnRJQkJaNmNlZUkyVGs0X281TW5BcE1aTG4zaEw4ejZmY1VueDlSOXRDOW96NVpFQWJ2cVlSSm9CM19RNFlqT3ZmTUhvb3dUT3ozUXlWRUFkc05Wb2N0WFp1eEhxQmtHV0lvZFFWOUQ0VkRjOFo1bVV2bVk4eg?oc=5"
-      },
-      {
-        "title": "Transmission Fluid and Synthetic Oil Reserves Could Run Dry in June, Supply Chain Problems Signal a Long Wait for Normalcy - Yahoo Autos",
-        "source": "Yahoo Autos",
-        "published": "Tue, 26 May 2026 16:45:07 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM3ZSQ3FmNlFPZ1dDM19SVlEwbWV2c1ppZEJWM1NibjVBNjBLanlnd2RDVk9URWsxaEszOHotOGt4MWZUTDFTUmZ2cmZzWExuQzF6dU1Db2cxU1FMYVRoV0dSVzN0YTVJd3Z2TXVTc3Y2cXF2eGs3d1lzOFlFRktnbElVbmE0bGUwYkZaSkthUW9kcHFBVW9VMkstZU52ME1KTFRfNHBaODdaM25XOU5TbjJB?oc=5"
       }
     ]
   }
