@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-27T19:49:46+00:00",
+  "generated_at": "2026-05-27T20:18:33+00:00",
   "fx": {
-    "nzd_per_usd": 1.70417,
-    "as_of": "Tue, 26 May 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.712118,
+    "as_of": "Wed, 27 May 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 96.56,
-      "latest_date": "2026-05-26",
-      "delta_1d_pct": -6.74,
-      "delta_30d_pct": -2.82,
+      "latest": 92.85,
+      "latest_date": "2026-05-27",
+      "delta_1d_pct": -6.76,
+      "delta_30d_pct": -2.05,
       "series": [
         {
           "date": "2025-05-27",
@@ -1017,15 +1017,19 @@
         },
         {
           "date": "2026-05-26",
-          "usd": 96.56
+          "usd": 99.58
+        },
+        {
+          "date": "2026-05-27",
+          "usd": 92.85
         }
       ]
     },
     "wti": {
-      "latest": 93.63,
-      "latest_date": "2026-05-26",
-      "delta_1d_pct": -3.07,
-      "delta_30d_pct": -5.5,
+      "latest": 89.36,
+      "latest_date": "2026-05-27",
+      "delta_1d_pct": -4.82,
+      "delta_30d_pct": -2.1,
       "series": [
         {
           "date": "2025-05-27",
@@ -2033,46 +2037,50 @@
         },
         {
           "date": "2026-05-26",
-          "usd": 93.63
+          "usd": 93.89
+        },
+        {
+          "date": "2026-05-27",
+          "usd": 89.36
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-05-26",
+    "as_of": "2026-05-27",
     "regular_91": {
-      "avg": 3.278,
-      "min": 3.111,
-      "max": 3.519,
-      "count": 65
+      "avg": 3.275,
+      "min": 3.11,
+      "max": 3.529,
+      "count": 70
     },
     "premium_95": {
-      "avg": 3.437,
-      "min": 3.209,
-      "max": 3.65,
-      "count": 24
+      "avg": 3.452,
+      "min": 3.229,
+      "max": 3.699,
+      "count": 26
     },
     "premium_98": {
-      "avg": 3.565,
-      "min": 3.497,
-      "max": 3.619,
-      "count": 3
+      "avg": 3.538,
+      "min": 3.35,
+      "max": 3.679,
+      "count": 9
     },
     "diesel": {
-      "avg": 3.171,
-      "min": 2.918,
-      "max": 3.479,
-      "count": 73
+      "avg": 3.161,
+      "min": 2.919,
+      "max": 3.999,
+      "count": 78
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 1.959,
+      "min": 1.959,
+      "max": 1.959,
+      "count": 1
     },
-    "observations_today": 97,
-    "observations_yesterday": 61,
-    "observations_older": 7
+    "observations_today": 112,
+    "observations_yesterday": 64,
+    "observations_older": 8
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8632,6 +8640,12 @@
     ],
     "global": [
       {
+        "title": "Middle East Crisis Accelerates U.S.-Thailand LNG Supply Talks - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Wed, 27 May 2026 20:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd0l1M2xGcDZ2YW5yRDdSU0xjc0hFSVdFOFZSZUdyWmxhdmFNQ1FReVN0Rl9qRUJGTWROem5PZWxSWm5IeHVIMDZRY1FWM0ZXQzBfM2ZJbmVqbHFzbWFJZkhnM0dKbHBPdG9RQXlYVFlzMlduMEp6S1NtWGI5dmN4WWp1MS1JRzdTNEFEd2V3dVZkMm9kOWVid0ljbk54X0ZlZ0pwMXJkbTluY3PSAbABQVVfeXFMTzE5c1JQY1FTa1NTR2cyN21xUDhsQUU5TEVQZHJKdWZqdnBDb3psaUo4TDF6ZDg5MmZUQnJLNFhFYjR4UHRFN2JwRmg0N0tBaDJHTUU4QWlDa2NtcFRFN3N6VlJUQm5sUlp2SUpub0t4am8tMWpyeHg1RmE2Zy1hbURIbXQzdFZfX2pEaGNaZmJXS3MwUDd4SndlVTU1cUdaaDZIQXBZQWl0RkM4SExkMWs?oc=5"
+      },
+      {
         "title": "The Hidden Reason Crude Oil Prices Keep Surging Overnight - vocal.media",
         "source": "vocal.media",
         "published": "Wed, 27 May 2026 19:42:24 GMT",
@@ -8650,6 +8664,12 @@
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT3lKbUkzLThIY0lta3pXUmxJRlZFeHQwX0hURWlsOTdaZ0hNeHVaZFRmazNjZmFUX3JWTHBTdXc5emtEaEY4YlpBbDJhTkNzejdhRXRGQVhMcWRPUUQwSnlRYTRvckFmUjBfaUt0NlB0SktRSktHM3VoZ1pEMVJ0cFZ2aTJ4OEk0WlJlMjJTSndZMm8?oc=5"
       },
       {
+        "title": "Jones Act Waiver Reshapes U.S. Oil Trade as Foreign Tankers Flood Domestic Routes - gCaptain",
+        "source": "gCaptain",
+        "published": "Wed, 27 May 2026 18:16:35 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUGM4elVSS3hBQkIyUHQ0THdwUXBsYWxCVVlXeXBLbGFlaWFGT19QUEtvdG1kcVdiQmFFTENTaVpKYlN4NUM3bkw3WF9wdlpCazBud1I2WThSMUl0Tm1GM2dySll3VzN0elR4d3p0akVnNW5YRGxqUGlwQ0ZVc3UtaXlxWk84cHFKcTVKNVpwLV9saUNZMGRVRWx4SXVVOWlybjRsag?oc=5"
+      },
+      {
         "title": "US Capline oil pipe flows surge as Iran war keeps global supply tight - Quantum Commodity Intelligence",
         "source": "Quantum Commodity Intelligence",
         "published": "Wed, 27 May 2026 18:02:45 GMT",
@@ -8662,22 +8682,10 @@
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWndPSmpuNHdmRWltTUZDY3h6NGZMdlhuZ19uWjlwSnNsS245SnRGWmJLS19KMGd0Vk5sQms4T0lOcnhNeFRrd3ZxRnJua1NPNnFDUTJfMUZYOXQwZ1RiWmhfcjlVMmI5d0pINzFwenZhVF9pOXBPWkoyTktTYkdrQWdOTldKWTdUSFg4dkFxOGt3Zk9sQWpQWENncFpTMzBkMUxoaEdXOXVmUl9VRUhjLXNvR1R0c3c5SEHSAb8BQVVfeXFMTWdsanl6M1JXcmpmY1hsVjJpNzZqV280UFZsWFVfQ3FTZjIxQ3g5OXY2RWFBUUluajZsaHBzRU80Q1NJN3BfaGlDbldoMk04c3NOYzkxQlJLdGpLUG5fclZER2lxeC1EaDl0bUlVT3dBUFh4SkxReERHUXIwMVN1Q0hac1lCcmdRcXY3MFplakg5Slgzb3VGMkxPaW5IUGtNWTRrQ1YxRUpEMWhDclR2SVM0bkM4MDFWTURCZVR1WEk?oc=5"
       },
       {
-        "title": "Oil Prices Fall Despite Mixed Messages on Peace Talks Between the U.S. and Iran - Barron's",
-        "source": "Barron's",
-        "published": "Wed, 27 May 2026 15:58:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWU5oWENYcHNZQWpVZS0zaXlrZkdVX2kzdHBOTzlHcDZ4Wm85UUFjM2NIZGFPdTFXYjJ1YUlXRWNLVElualQxSmRwZVlHcnpsX3UzMnB5RVRiMEdhOTh3eTlrcW96bEdOXzI5cU9RRTlwTTVZNTY3T0FaVlRDUkNGb0Rn?oc=5"
-      },
-      {
-        "title": "U.S. Supply of Synthetic Oils Reportedly in Danger Through Mid-2027, Due to Middle East Conflict - Yahoo Autos",
-        "source": "Yahoo Autos",
-        "published": "Wed, 27 May 2026 15:33:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTy1iYjRjRTgwYU9rNmJMOFhEcktBNEYzSkNreUZ6dlhrVVpoS0tBWVJyX2t3MkNLdFYzRTBlUXBfNU55VlJNUUZaaWNSOUJyN3ZIRUVZU3BZekRwVEZ2TjJNbnBuV1NTTExKd1pFN0RXS2xtREZYaEVSeWF0endibW5TYzFYMHZVMkdkYkZnZ3p1MU9jMDRYN1Z2dkZFMXJXYnd2Q1pXbGU?oc=5"
-      },
-      {
-        "title": "WTI Crude Lowest in Five Weeks - TradingView",
-        "source": "TradingView",
-        "published": "Wed, 27 May 2026 15:03:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSmdUZEpDTWx5ZVU4R0lBYXp6SmFyWm5yb3FFc0RKVWNYQms2d3hWNV8ydUVwampVSVpaNUR5clNCbUlWbVBROFN6dkhabUlUenFkOV9MZUlTR3BwVWttMmdwb05mdFRjSjc1SFZJMjBBYUhGMnB5ZzdnY0hlRXZRQXVxYmpyV3hVZzJBTDVkMA?oc=5"
+        "title": "Tokyo Reverses Crisis-Era Benchmark Shift as Dubai-Brent Spread Narrows - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Wed, 27 May 2026 16:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcHdWakNtQ1NyR01qWlZoOTgxVTIxb0VvaTJ0NktiQkR0d1FYeEVRcUpGeHBuOFIyN1lROUVDQXV2Ri1VT3lTSGRuaDZqU000cUdRXzV5WXU1ZjdxMW9wN1FKOVJTODFRSWNKaEd0OGo0dnB1eFVxcnJ0VDQxMnl4c05zUEhIWGlzcmNQQlR3X1YxNEctVlNWY184RWpwdzFTSnNNVmZJczg3WlRJa1VjQnpXQTNYNDFueFZmd0hPYXRXcG1ld1HSAcsBQVVfeXFMTXpobUxMMTJKamExQ1JTeVBucXJkNG0tTVVVSzctemthT2pBUDlMeFlfS3hCVGRxVC1iTVdXWHFmVW9uUGozelpLUW4xSGx2ZEpfZWRncWoxUWNmUzk5cDdPZGQ1REt2UHhpZE4xUnIzLXVfbTI1ZEQtb3FCczI1d3VNRi00RWFyc191bXc3QmpGZERrQVgxSl84dE1jQlA4bVFXRHZkaTVjN2F4VzhmZDNvN2ZBYm9pSS1pMllXeDRhRWhiLVlhOHBISDQ?oc=5"
       }
     ]
   }
