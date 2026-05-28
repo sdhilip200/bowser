@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T14:08:39+00:00",
+  "generated_at": "2026-05-28T17:47:30+00:00",
   "fx": {
     "nzd_per_usd": 1.712118,
     "as_of": "Wed, 27 May 2026 00:02:31 +0000"
@@ -8590,6 +8590,12 @@
   "news": {
     "nz": [
       {
+        "title": "News / Fresh funds for fuel - Autofile",
+        "source": "Autofile",
+        "published": "Thu, 28 May 2026 17:01:24 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pUUpVb2g5aE1uV19ZNVc2YXllSUVrb3F0dEc4SFhFRjdOT0ZRbElsMVNzeDk0NG91c1F6eDlwdkg5R1BjWjhmem9yQmlyd2pFb1R3dWZrTQ?oc=5"
+      },
+      {
         "title": "New Zealand’s 2026 Fuel Reserve Expansion: Budget Strategy Explained - Discovery Alert",
         "source": "Discovery Alert",
         "published": "Thu, 28 May 2026 08:35:18 GMT",
@@ -8630,15 +8636,45 @@
         "source": "NZ Herald",
         "published": "Tue, 26 May 2026 04:29:42 GMT",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdWF0MXNZSnY3d3RjbHBYWWt4VjFIemEzd3Q3LThlaWpwZ19MUXk1c256SlRLdWVxMWlXMjItWUlpVGJIZ1R1X3Y3b0Q4UXFDSHdkV1ZvTGx4Z01ENzJPVDI2aGhycmhmcXd0UEhmSHYzR09iMDlZNnJNTmFFaWFUaFBySWhaTnd1dG9sVm9YS3dTSnRORmlWMWFiRUVIOHVWeGxiMWw2WGRKRjhhcEZTcjMzY0xfaEg4cmduLWVCVWZib2JodnhCZkdXVklCWWVsX2w3bmI1c1FKbzVGTnpCQjJSdWhMWlU?oc=5"
-      },
-      {
-        "title": "Air NZ changes more flights after Pacific disruptions - Stuff",
-        "source": "Stuff",
-        "published": "Mon, 25 May 2026 22:25:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTU1kNXhUQUdHRGJtWnVwdkJmbDNocy1GdGUtRVJaVFVoTTZ6UlhjUXc5amZSX3VKdFcwS2xIT0luMnp4UmNLUnFHNWJDZE5HaUVIX01qTldaNEhUSFR1RlBBRE4yd3ZhMHR2TzNaNjE0RHp4QVFNS0RQZl9FQUxRX29IMUtIQVVZcVoxaVJLck1YQmM0ZHlzZzdqNUhuS2JmNHI4RmV6c1BES3V5WlpyM3VKUDM?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Iowa Weekly Fuel Report - KSCJ 1360",
+        "source": "KSCJ 1360",
+        "published": "Thu, 28 May 2026 17:08:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nV0RLWnpJcjVnZlpQN3BsM2dhc2lnY2tpZ2NaTFZqYmtsemNFYmMzbnprc2tVX1RuNzk1bUJsQ1FYV01Ec2t2M0lJUVhkVkRMcnc0WXJZOThZVmw0V1k3YkRB?oc=5"
+      },
+      {
+        "title": "Hormuz Shipping Freeze Pushes Brent Toward $100 as Delayed Inflation Pressures Hit Rate-Sensitive Assets - Crux Investor",
+        "source": "Crux Investor",
+        "published": "Thu, 28 May 2026 16:48:21 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdm92X1FVZkdWUVk5b3VMMExFWmt0VFBMaGNzOVBYMW1YaHB5RVk0U0pmT2ZKOG1VQWlReHVvMWZ4Qi1oYldNZmJ0dl9jMWtXSXhSUmwxbDYtckV3dWswUlE1MnFfREpvZDVxNEhseDlFUTZtSnN0TThtdmM1NTBNUlhYX2J3bUlPN0tKVlhEMFNfRWllOUctRTE1UWNSUE1zRWxsS29TOHBhWlg3WnZDeUhHZXZIN1ZBbFBKaHJBcHhaaXJ6WnZfd2p2cnM4eDZZZVpSVg?oc=5"
+      },
+      {
+        "title": "WTI reverses gains as hopes for US-Iran agreement improve sentiment - FXStreet",
+        "source": "FXStreet",
+        "published": "Thu, 28 May 2026 16:32:30 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdG03QmZiSFdfMkZ6OTRZMHJGRzVFV0xyUmhJTjF4OXRhc0UtTE11WVlzVHM4WFN0QzlJRFh5V2szTEZ1SGtHMW5nWExCaHZVS3hmVVhGZThfQ2FpalNzbTl1b2xIRVpjS1VDTW1Ua2pQb0xIU3h0TTU0b3ljMUhUQThyR2x2TlhfZ3JGVFFNbXEzSFdoN0R3aE13WE5qVW1aQk5XaXZOOURYTzVoclJB?oc=5"
+      },
+      {
+        "title": "US Crude Oil, Gasoline Inventories Continue Freefall - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Thu, 28 May 2026 16:08:35 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa3BwdVFMdEl0Zjdzd21tenBtazJnX1dzM0FBczZ5SjJsVXlsQk5RbDNUS3QwV2xhNU5VWHFhRXk2WUZ6RlhSdjYwSGlUQzNJbDE0UVlZUXdkR0d0ajV1amlIR1R4aFFSOUpVT2g1NW52alRacFhTTmRYVXdBOFhpd3dSVElLY2J5OW9TeFVhWWl1c2IyOThRdkNn?oc=5"
+      },
+      {
+        "title": "US attacks on Iran drive oil price surge amid geopolitical tensions - Crypto Briefing",
+        "source": "Crypto Briefing",
+        "published": "Thu, 28 May 2026 15:03:28 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMmxCUXlkazBXeFNKQ0xLanloQ1hlRjdGZXo0U1diTktrN3puZDZtMEJLTUhsUzZHem1sQmd4bzhJTEJ6ZUg1dVowLXZvV2dyWlJmS0wtZm84clN5Z3pXMFZJdzYxak10ZjRDeE81dnFubzd4Nm5lSHRDLVpXbkMwWm5JU21pUGNWVGtIcS1NYlJIQXU5emFSbUVHZw?oc=5"
+      },
+      {
+        "title": "Oil prices fall after report of breakthrough in US-Iran talks - BBC",
+        "source": "BBC",
+        "published": "Thu, 28 May 2026 14:45:46 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vdWpUMXVBcWRfWUNOUUFEemM1RXhmZU9zdm1yZGp4ZkpncnZyRVo3cFYtMllWdUNtTjNrMDJPZFZ6V1Rad2p2alVpN0ROSU1IcnFPX1l5RGFQdw?oc=5"
+      },
       {
         "title": "Oil Prices Climb on Renewed Hostilities in Middle East - The New York Times",
         "source": "The New York Times",
@@ -8650,42 +8686,6 @@
         "source": "Crypto Briefing",
         "published": "Thu, 28 May 2026 13:27:12 GMT",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iZTczY21PSmpjbW5mWkFYSjY5UnFjSURPU0NZNV9aQ0NRM3BibUlVR25sd1l4LWlvUURoVUlkRndQUWwtUVhJZ3p0ZW5Rck1hYTVzcE9HS04zcVFmRklFOWg3NFFtUDZkUGF3?oc=5"
-      },
-      {
-        "title": "Current price of oil as of May 28, 2026 - Fortune",
-        "source": "Fortune",
-        "published": "Thu, 28 May 2026 12:59:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95NEh5cnVlR2pPck9nQWNjSkNVX09LaWNVRDFJNFlxdDRFdVN6VExHTlZOTlBSQnNDTlVNT0dOdEZuTm5wVlpxSDVpMk55aGl1ejloaldXa0ZVZzlmN2IwU2hn?oc=5"
-      },
-      {
-        "title": "US Brent Oil Fund (BNO) posts April 2026 net income and NAV data - Stock Titan",
-        "source": "Stock Titan",
-        "published": "Thu, 28 May 2026 12:31:10 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQkluMFo2aU1pWFFpSnRJeGtXbE02SlJZSERlMjk0cWg4MjV0eWozenNlZWstai1sZnlhbGF5ZjM4dUVtcHNuT21JTkZYWG1lSHBvRHgtRlFab3RHUk05SkdFbGl0Vl9VQXl5Rlg3dUdnb3Bnb19sclhENnZrY1cweW1EWFFqM2VvTm1PbjNoMnNUV19SdFVzWGhQUkpvNXFTdjJaeFk3RVoyajBMRG85d2t2S002NnVFMEpv?oc=5"
-      },
-      {
-        "title": "Iran war: Oil shortages threaten global energy security - dw.com",
-        "source": "dw.com",
-        "published": "Thu, 28 May 2026 11:44:44 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeVo0djl3dEROZXFGWkx3OHA4eDNDZndObTlIUU81cEthOWZNa1dKaHFxTllMdnhxM20xcnVuU2x6YmlVR1AwMV9oTi1vOEhkWGxQaFZSb3Q0QzVpVmZ0eVJNZnJ1M1NMdk4ydzU0Z0VqOHRuSGR0Z1RrdEc1Q1B2Mk1XaU11ZDdvOUlmMUpQM0HSAZABQVVfeXFMUGVpajIyVXBEZWswUWx0VHMya0pNbWNyR3h0M3ZfX1pwcndEUlY1N254aGFGMmg5aGFuWkZRMkhCeVRsUDdMdlRiNC1mQW5hZ0F2TWF6bDl6R00tVktQZ2VkU1R3YlJaWWpCRmd1dGR6M29LQzBSX1pOMkJJbjFodkV4bjJCTWwtdmJaWWZ1LWYt?oc=5"
-      },
-      {
-        "title": "WTI Crude Oil Futures Climb 2.1% to $90.52, Brent Jumps 2.2% to $96.37 Early Thursday - marketscreener.com",
-        "source": "marketscreener.com",
-        "published": "Thu, 28 May 2026 11:06:09 GMT",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSEYtR2xEVjJpQ0NQS3YwUEczbVFQaDB4OTVnbmltb0lJdmw0X1Ezb05hU09neVdnTTV4LUo0dks0QTBWVGlLTmRWbzdhWWRqU2I3NG50VEUtVUpMNkdvOVZRU1hyYkotdmpJT0JqN1h3bFNQYk1DYzhnQW0ycVdPMW1zOGdGX3dtY3NWWW9hT1NYbnczYkE5M2xQXzlPVEJjcEZsTWxNSEcySG5wYUVuNTdQX0RmT1A5dGpSZnJBUEQ4V2NaT09qRjFJNHpWdw?oc=5"
-      },
-      {
-        "title": "WTI, Brent Crude Oil Futures Jump Pre-Bell After Tehran Hits American Airbase Following US Strikes on Iranian Targets - Moomoo",
-        "source": "Moomoo",
-        "published": "Thu, 28 May 2026 10:51:24 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSVhzUDB3MzRJNjVfeGF0YTIyT0dRZjJmN181VlFXem16ZEdrVnRPVkEtOVQxRGk5WkF4UXNlY3FyVzI5MWZEdWw5NTNDZHJYQTlXU0tLbkpWeVhNU3J6R3hxT3RwM1E0ejBIMDVRR3BjQTdudXduZFNIbDlhRy1OZ2ppMFpLOTdsRmozSTVqQVFIQUVwbGJaSUQzNmc?oc=5"
-      },
-      {
-        "title": "WTI Consolidates Ahead of Key Data as Refinery and Shipping Stress Remain Elevated - Investing.com",
-        "source": "Investing.com",
-        "published": "Thu, 28 May 2026 10:49:55 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcUFlN3JYOEpvOVZKS2JZclNSZnVqYndmTjUyVnp2dGtaSTZFc1VDZWhHbjRPYWd0TUlhN2U2Q09aTWdIWmVPNTdaYnJTUUZ5YzZ1U3VkeVhFTXhYLUdqaXhVWmo2N2F3dllzR2k1ZVBKNkxadm9HbU5xX1pOb2VHUmtJVzNxQ1c5Z1Q1T05MeXZvakZ3VmFFQVJ2SmhjYlBmSEtWUThjaDZqRDNKOGpDLTRUV05xTmxSS0VIRUNYeXhjek15?oc=5"
       }
     ]
   }
