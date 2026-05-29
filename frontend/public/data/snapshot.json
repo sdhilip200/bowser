@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T20:25:41+00:00",
+  "generated_at": "2026-05-29T21:02:36+00:00",
   "fx": {
     "nzd_per_usd": 1.687651,
     "as_of": "Fri, 29 May 2026 00:02:31 +0000"
@@ -8608,12 +8608,6 @@
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLUpDa1d6TTZlU2pnMUNfdl9vSkFFdkdjUlVPdUpRVk1PUW1TbzlwU1MwMmtpVC1NUUIwUllOVzFNWW9scWd2TldyM3pvZjdDY3NGbzAxZnFyYmVtYjR3TGp5QlliRXZUR19lc1dVNmpNaWlqNUdfN2ZBUkprTFMtNTVRSzEzUExNVGQzT3dSZw?oc=5"
       },
       {
-        "title": "Budget 2026: So are fuel taxes being hiked next year or not? - 1News",
-        "source": "1News",
-        "published": "Thu, 28 May 2026 04:44:41 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOURCbVRHTkdMc1ZlYTJtSHBaV1BxaXlmM2daSWd3QkVhU2QwaU5MaGw5LXV1VUpTS2dPU1JoY2N1a2dsbnFKVktxenlHTDlGTXR4X2I5THA1cnJTX3dlcS1yZWtjY0lON3hheHBTaWxoZC1sN3ZNcmhqWHh4VGcyb1VmclI4ZUNlRVpsZ3NBb1FVdHExRUduM3ZR?oc=5"
-      },
-      {
         "title": "Budget 2026: Govt creates almost $500m stash to address fuel crisis, fuel price forecasts revealed - NZ Herald",
         "source": "NZ Herald",
         "published": "Thu, 28 May 2026 01:56:00 GMT",
@@ -8636,9 +8630,33 @@
         "source": "Stuff",
         "published": "Mon, 25 May 2026 22:25:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTU1kNXhUQUdHRGJtWnVwdkJmbDNocy1GdGUtRVJaVFVoTTZ6UlhjUXc5amZSX3VKdFcwS2xIT0luMnp4UmNLUnFHNWJDZE5HaUVIX01qTldaNEhUSFR1RlBBRE4yd3ZhMHR2TzNaNjE0RHp4QVFNS0RQZl9FQUxRX29IMUtIQVVZcVoxaVJLck1YQmM0ZHlzZzdqNUhuS2JmNHI4RmV6c1BES3V5WlpyM3VKUDM?oc=5"
+      },
+      {
+        "title": "Ipsos New Zealand 32nd Issues Monitor - Ipsos",
+        "source": "Ipsos",
+        "published": "Mon, 25 May 2026 19:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YTEtRMkE4UHpnRy05MldrWVpwT29QMzZKREtkeHJQYzR1Tkg4N2I0ay1SNTZpaEpQeWRZaUVlV3pFTFBFMVRRdHQ1SjF0V2h3clFuNTBOZldDOHl4Q3ZjYnVVTkZscXdFRG85RzFJNG9qSUk?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Middle East conflict strains energy supplies, impacting crude oil prices - Crypto Briefing",
+        "source": "Crypto Briefing",
+        "published": "Fri, 29 May 2026 20:36:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbC14V3JXWFZRT3c1OTByckc1NWJ6NWUtdTdHdjNiclY0SDlISTZwSVNYQVVEMWFLZV9IZzFEOVY1WFVJaU9WaUt6UkNwejhzRWItam15Z2NMNzg3MnBBeVhiZ1VyS0dyX05TT3owckJTUDBkV19jR1ZwRFUwT0ttZDZzcHVyZUpBNUFXSmVkclowN3dzQTdGbTA3V0xmenJJ?oc=5"
+      },
+      {
+        "title": "Oil records its biggest one-month drop in six years, bringing consumers some relief - NBC News",
+        "source": "NBC News",
+        "published": "Fri, 29 May 2026 20:02:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONzNzdHBrTkRjY3EwN3A2amJaRGtqV0NJSERHSkZ4cHY0dlBNTEZOZmc5aExwbUtLdXFfZnNhY29NNGZ1T2NvQVc1SERobV9Od3M0ZVVHeFRkZGhQVkpEdTUxRTRlMF9HcHBxay15cXBibmZfV2FseDgycExoanFUWnZKMENTQkl2NTZF?oc=5"
+      },
+      {
+        "title": "IMF, World Bank, others warn Middle East war is straining energy supplies - The Straits Times",
+        "source": "The Straits Times",
+        "published": "Fri, 29 May 2026 19:59:47 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVzl3Wm8zUUlveGdicnJuMjJNaTB5S19UZmNRUzlMZ2lhMnJtUWZXMjFtaGMyTmJoMkJOeVM4T3A5dndfWEptQjdUSHZaNEEwWmtPN0dCOWtld2kwbzY3cG1SMERUb29ydy1Mc0VxbmpLQ2J3U3pFTldyMU5CcnZmY2ItRFVFVzRTNHNMTGpxLVZpc2pCRG51RExGTWRDbDd4UndZRzF6MmpEejB1d3ZLUmJYblZySXREVFE?oc=5"
+      },
       {
         "title": "US Adds Sanctions on Tankers and Iranian Oil Awaiting Trump’s Decision - The Maritime Executive",
         "source": "The Maritime Executive",
@@ -8668,24 +8686,6 @@
         "source": "Investing.com",
         "published": "Fri, 29 May 2026 18:07:08 GMT",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QVUZmbEFLek45c2FDcW5MdnIwVUE5c2p4Q21nUVU4a0NOZzd2QTdxSGRQS3A1QTk2M1cwVFNfd0JVUFZYMnVBa01IeWJzNy1HZmR3cFJXZk1zdVNSRGJONkI3MEJ4RDQ3VjlocXhYdHc?oc=5"
-      },
-      {
-        "title": "Kansas Fed Pres Warns Oil Price Shock Might Not Be Transitory - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Fri, 29 May 2026 17:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS2gxdVJGbW0yOWQybXJfZnViRGJvQzd4OWZYanZ5dWFadzZVeHFRaGI4SWN4U3FNMFlTeGFrOTlycGUxREJ6X2ttbFJkdkVXT1A2WWJqWUd5THhmblNHdURzRWVmbnZKdFRoMU1LbE5RaFZnTF9SUlA5YmNmdEJGSnVoZUMtX1pqUzZLQ0lOcktXZ1RlenpLTXU0UVd3cTRncDJ2YlhTU1REU21zNlRWS1licm0wSmhT0gG-AUFVX3lxTFBVdUZ2aWhGdEN0d0hiSlZhNzRZQ3g2eXo3amRKME1Td1FkbTdwdXRkZ25aR2RtVnhaNE10R0tXb09VLTJ1eVNFWTk5aE56LU1CTThLWGROa3FrdEVlR0RnNG0tX29kYUdvSDlKYk9hNG5MWnZ5aEVCSzlXdmtsYTRLUGZ6ZjhUZDUwT3hPNTE5RzRuSTZYbDBIWGU0MVhZeEVfZF9OZ1d1ZTNvOHpWbG51bmlNOHBlYzV5VEw1bFE?oc=5"
-      },
-      {
-        "title": "The High-Seas Black Market That Keeps Iran’s Illicit Oil Flowing - WSJ",
-        "source": "WSJ",
-        "published": "Fri, 29 May 2026 17:28:31 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdElfcHNHRUl0ck9qSkZ0bGduTkRYQ1RIdzdhUGlIZ2FKZlNqUC1KM3hYSDhUY0V0eFJkSWVuRDVNUUNSajkwYkpzX1RvM0pxU0ZRZWc4NVBYYlBMdDk5YklZOWZVRDNjUnpnSmwya3lxZ3pSYy16T0tHaWhSYjZUck1RVFJvWDRyUnJMQw?oc=5"
-      },
-      {
-        "title": "Private capital eyes oil and gas comeback as deal activity lags but long-term growth signals build - Pensions & Investments",
-        "source": "Pensions & Investments",
-        "published": "Fri, 29 May 2026 17:28:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSFRaODRDbVBJTDkySWFGeVNENHc2eno0YWZvNEpNbkpMSHN5MVl0Mkd4bEVpZFhIb1M0Sy1tbjk0RU4xSkloNnh5Y0VCV1NpVlZGVVk5Q1R6OGE3d3FHRS10dTJsTXRPNUxhUjFiNVdFbm00bVh6T3BoMXlNcHdNbmNZbTlRaHQtZFQ1T2xaZUlCa2xGOGtKdDVxYw?oc=5"
       }
     ]
   }
