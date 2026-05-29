@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T08:31:16+00:00",
+  "generated_at": "2026-05-29T11:57:08+00:00",
   "fx": {
     "nzd_per_usd": 1.696874,
     "as_of": "Thu, 28 May 2026 00:02:31 +0000"
@@ -8590,6 +8590,12 @@
   "news": {
     "nz": [
       {
+        "title": "How Fuel Price Shocks Rattled a Remote New Zealand Village - The New York Times",
+        "source": "The New York Times",
+        "published": "Fri, 29 May 2026 09:00:19 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR0M1WGMzaVVRdEpKUU9LeHcxWE9FTkoxTFBqLVJXaFE2bTNiLUFhWG1PSllqcjlZOGcyWkxkZEZuZ2RNWjBLM1RQM1ZEVURsMnJMWTN6YWgzQm94Tm8wcE1HUllXOWdPbGwtSVIzeS1fdlVjUDNtT01NZXJNM2ZaakxaLVR2SzhEWnQyTjhLek9hWFc3NG9xLVJfcw?oc=5"
+      },
+      {
         "title": "News / Fresh funds for fuel - Autofile",
         "source": "Autofile",
         "published": "Thu, 28 May 2026 17:01:24 GMT",
@@ -8630,62 +8636,56 @@
         "source": "Stuff",
         "published": "Mon, 25 May 2026 22:25:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTU1kNXhUQUdHRGJtWnVwdkJmbDNocy1GdGUtRVJaVFVoTTZ6UlhjUXc5amZSX3VKdFcwS2xIT0luMnp4UmNLUnFHNWJDZE5HaUVIX01qTldaNEhUSFR1RlBBRE4yd3ZhMHR2TzNaNjE0RHp4QVFNS0RQZl9FQUxRX29IMUtIQVVZcVoxaVJLck1YQmM0ZHlzZzdqNUhuS2JmNHI4RmV6c1BES3V5WlpyM3VKUDM?oc=5"
-      },
-      {
-        "title": "Fuel price spikes as key issue for Kiwis, immigration dips amid India FTA debate - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Mon, 25 May 2026 20:01:32 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTGgyTVhiSDVWdUZpZHdaMUhjMG9IS21mYml1ZktrcDdXcTFnRGhfZWNwSWxhUzh5VGFpOGFFTUpGeEQzd1dyV3lyOGhlNHpKSDFnMVhfc2tfaWFjdzN5M3h5RURQN2VydjFrWS0zcWJWdmNVWjZtV1lTSTNTR2dmd0xVXzNvS2FCaVp6OUJseHQ0WDEzcHliTGZPd3VEa0lrSjZ2QjlVenZQTTg1WUdGNGdWOExPYV9KTHJxV1JpRnFRNHdSYkpyNTF6Mk15VVg1T0JHdTVBR3FuQ2c0RDVj?oc=5"
       }
     ],
     "global": [
       {
-        "title": "Markets Wary as U.S. and Iran Edge Closer to Agreement - The New York Times",
+        "title": "Oil falls, stocks hit records on U.S.-Iran ceasefire deal - qz.com",
+        "source": "qz.com",
+        "published": "Fri, 29 May 2026 11:36:40 GMT",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95WnprdWlBNTZGbjlfTFRic1BJU25Jc1lHcVBENjVNVl9QVVlhMTdBWnZFMWcyd1VOUkVEODJVNmJBS2FFN3N6V3lFOXBUeHhCTm5BcjJHSzY4QnVtTVlRRDhNdmloWmJaQlRWbGxB?oc=5"
+      },
+      {
+        "title": "US-Iran nuclear talks progress could lower WTI Crude Oil prices - Crypto Briefing",
+        "source": "Crypto Briefing",
+        "published": "Fri, 29 May 2026 11:36:38 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUlNpUEZVNnF5dkMtckNfNm1hOTJZQ0l0TDFERnA0b1hHVW9fdm1WamprTVhCa21QU2s3QzBhdEFOTmpZRjFwTng3QXk3M0s1NTFOUnphMGdGMFlJZEY0RFBiVmZ1SDhnOWh6a2didGduaUowUERCbHU4WW5FbnVyeXZYdW5FRVlydW5DV3M4SWlSVFpjeWc?oc=5"
+      },
+      {
+        "title": "China-backed 'shadow fleet' helps Iran skirt US oil sanctions - Fox News",
+        "source": "Fox News",
+        "published": "Fri, 29 May 2026 11:09:11 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Qc29oalVPRkFpbmlZNlB6RVBUUFFUYmpRTzZMSHZ3VGFOd2M2NGRsWlpXYmZXN0FWYnE2a0drd0hndjlUaDJZRWpQcl9FRUZUZHluaDZn?oc=5"
+      },
+      {
+        "title": "Oil Prices Fall as U.S. and Iran Edge Closer to Agreement - The New York Times",
         "source": "The New York Times",
-        "published": "Fri, 29 May 2026 08:23:00 GMT",
+        "published": "Fri, 29 May 2026 11:05:22 GMT",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81alNPQmtOd1RoUzRXemJhbDFkeGNmVmpiLUdDOGxiVGVTVGwxUl9aWXhOR1FsT2NTSVY1d0xrWXpxUHNjR0dwS210OER3dVBPa3ZqdGEweFNUXzVJT1ZFeld0MUg4WnZuYTBXVDEtbDBkVTVIbVZV?oc=5"
       },
       {
-        "title": "US accuses Swiss firms of helping Iran dodge oil sanctions - SWI swissinfo.ch",
-        "source": "SWI swissinfo.ch",
-        "published": "Fri, 29 May 2026 08:01:05 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOeUFlVzF3c0dGUWo4SnhqTzU5Ry1hNlhlMmhnTF9oSnJNOWMzeEhqU0NKcjFoaGtqYjY0Y09fMTl5MU96TUFjOHNhRlpzX3ZBV0ZvdDZvX0lab3VqMHN0MnIxcWhSaExJVWVkS19PQ0JsVDNITktVbVh4eFpXQUJpTV8xaERteGUxWFJmU0d1Qy1uTGM5VXdEcmtnaEJuTHk4NUZuakkxYi16bWY1aVdYS0RxUW5XTWJuYW1KSDZxQ3VpV1ZDVXBPWGZoSVM1S2h1MldUSHBYeHlKa0MzUnpFMS1fX21qZHM4OFpUY0pueWdUalRLeU9Nb0JnNGZWSjAzQnM4eGlLSmFSbzhhSEFfWFRpV3pDc2o5UXRycHNNQTB6dlpCOW5iVmV5VDJGVndZYzMyMWo3Z3BYZ2E2dUZVRlIwYWFKQ00tMjhJOFFSaXNEd1dDeWpRZg?oc=5"
+        "title": "Oil drops 20% from 2026 peak on optimism over U.S.-Iran ceasefire talks - CNBC",
+        "source": "CNBC",
+        "published": "Fri, 29 May 2026 10:51:33 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV05jSjE0MGtuY1dIUUhSekpqZW5tR2dYN3ZqQXMzVkxfS1FvZ1pab3ZKNzVqTF9NT1ZRRVlpd1ZLcU5rZ214ZlNEa1g4Z08tN3BXNUJYUEVNaUhaZkpWVDN1a3BkSm5zQzBhQlByaU9oQ3BvNVptOVlGMjhybXkxQW8xU0hBZndGbWkzbmdTbG9IZUdhSDJzX3JtbngtTzDSAaQBQVVfeXFMUHBjTTlGS0x0amN2WFpyZ2V2MmJtWGN6TmlPenViX1JpMUtkU1B6UUxTQjYyQm1XbG9zNEhLZXA5ODFEeXhlNEVHZEVQYUFvSmtmSk9jN3VuOEJYbXhvT3pJYlBKVWdxR24wejBKQjQzLVdFeEpYbC1OZDExbW80OWN1eFAwcWpoZi1wWmtXRHI5d3NoWkxtTkllYTBjU2IwOFZjSnc?oc=5"
       },
       {
-        "title": "US extends Lukoil asset-sale license as sanctions pressure Russia’s oil giants - TVP World",
-        "source": "TVP World",
-        "published": "Fri, 29 May 2026 08:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUG5xZG9aYk1JX1dLemFQTC1zVmNvdjhZX0lHbU4zdy1JYVY4N0tJT2N3czRZM3FxelhOcU5IVHFneVRVY2k4aEZzTDhXdWk4Vm81YWw3V0xaanJzS1ZhMzB0Z1ljdkRjeFNkb3I3Vzh1Y01pYTlWQWtfN2tjanNVZ3BMaw?oc=5"
+        "title": "The US/Israel-Iran conflict has fundamentally changed oil supply chains - Offshore Technology",
+        "source": "Offshore Technology",
+        "published": "Fri, 29 May 2026 10:46:40 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMV8zUVR4OTRZVTFCZDl6NGU4YVhhMm1tZF84ZG5oTjZTVTkwTDl4MFN6cEpwYWtYeDQ5SVRIbUlTNnNVSXhZb1NOMjdSSGN6Y01wWG5JYnNJY1dqVzJMX1VzSGprSVc2TDV6Y1M2VjBiak8wSkI2MFJoTFhHb3QyMmh1cw?oc=5"
       },
       {
-        "title": "Crude oil on track for second weekly loss amid Hormuz deal hopes - Yahoo! Finance Canada",
-        "source": "Yahoo! Finance Canada",
-        "published": "Fri, 29 May 2026 07:48:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY19DdnpnUGdLWENiZHJBdjFPOG5SZ1VZU05hTlNFMXhmN2Q3RzhkTUI4TWVBZVc0UkswLWl2ckxwakhPYmFKckVUTGY4em5PUVJEd2dNaG44eU8yREdTX2lIYjdyMjBWcF9Uam1mbWFMcGNCZUxCcDBCOEplbFZMZ3FLU24?oc=5"
+        "title": "Trump weighs potential deal with Iran as US orders new sanctions tied to Iranian oil - Straight Arrow News - SAN",
+        "source": "Straight Arrow News - SAN",
+        "published": "Fri, 29 May 2026 10:43:36 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaVctSW5QTk9XaTdPRkJFQllFbjVWMHBCaXhvQUduYkFZSEMzUXFlZVl5T1A5a3dfandXd3pKRWpJOVFzYUVnQ2ZlRGFEZGNYdXgtY3JMT0s4MDJFUmkyV244bFUtWC1VaU1Db3Q3WEVyT3ZyOGo2QVFrbWQ0S2VZY0RUVjVGd1VIUENMSF9VZmdVeFZPSE5nMDJtN2E2UURSMjdsWi01UQ?oc=5"
       },
       {
-        "title": "Japan’s crude oil imports plunge 66% amid Middle East supply disruptions - TradingView",
-        "source": "TradingView",
-        "published": "Fri, 29 May 2026 07:38:36 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLU9Jc2V3TGxaMnhEenJnRDdXNnhPQjFuS2VWRkFCa3JwT0JmRGJmanlYdkJPTzFMMHlWWjdkUXVNMzRZZjNxYkRkWGhYYm0zaGs0ZXJfMEF2cDJOZ19UVkhCRld3S3VVbTd5QktTdDRud3pjZWpQWEFwLUtUYjc5ZU54b3BwaVRIMmVNNEs0MnJpMHE1MUNkcDRqTjRBOXIxblpJMG1Ed2dlaldISGRpTnZOWnQzcVI0NmNzeWo3czRIQWIyZEIw?oc=5"
-      },
-      {
-        "title": "US sanctions 8 vessels and over 15 entities in Iranian oil trade - Türkiye Today",
-        "source": "Türkiye Today",
-        "published": "Fri, 29 May 2026 07:20:21 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbHBSUTQ3M1ZuaXdpaHMwdjM2eVBKa2I4d1pudUtDSXVJSnJFS096cTZReFN5V2VJamNOUjZYclpxSFoxUkNRT3Z3bkgwaDFVOTZleGRuOXBxLUR5amE2aFpOazVRLUdTTi1zQk55N0dGWnVtX0p1akJoek9ZYWVHT0xLM2E0ZlJLMmw5eE9LNnJxV2NreXlCTkhGSDBuR0s2QnhNWV9zajJjQXJq?oc=5"
-      },
-      {
-        "title": "The ‘imminent’ oil crisis isn’t at the pump—it’s under your hood - Fortune",
-        "source": "Fortune",
-        "published": "Fri, 29 May 2026 07:06:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOejdsckZjME50XzFPZE91LVVqR3dRcVBjVnZNRVJaR2F1TmVTUlJ1SkkxOVFKNk81eVNjQjlQSG4ySVkzc0FGY1pVVm1XYlU2WU95Q3E2SU10UzhRM1Z5MkxFVmlvOEdjc3FPeFpMN3NwUXFLQU5QR2JSLXJaWGh1OTFSeFFIVFMy?oc=5"
-      },
-      {
-        "title": "Japan's Oil Imports Plummet Nearly 66% Amid Middle East Supply D - GuruFocus",
-        "source": "GuruFocus",
-        "published": "Fri, 29 May 2026 07:04:47 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYUNtYkVFRnY3RVAwWThtNGY5U1A0TDk2bEpheUM4RVh5YnNscVQxbGU5T0dLYjRUWHNYQ04zSW9BRDJpZGpRdUpMWU9zYXZ0NExVbmxWTGx1MEJ5dUdjWDVDaG9tRG05Y3RuMUpVMTNoV19feGdtQzd0OVhNRWx0SXpqOGtJZUpWR0U0aElXUXlwUUZ2aERqb1F2b1V3LWE2OHlLWmpRa1VSdnluTU00?oc=5"
+        "title": "Saudi Arabia Expected to Slash Oil Prices Again - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Fri, 29 May 2026 10:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcUloMERqMmxCUndjWlBYemVFU2k3cGVCeHZyd2FTWTJwTjJNQ2VPWkVVUUxDaVdSemVYS21GS042dnlGRk5hZXFZZ2xUQ1ZzSHBoeEVqSUxaRHpSY1g4TE5KZVJQZ0VnZFNKRUVVcloyOVd4dk1MWFlieThUWkltdGUzaFFMejhWSjAtNjVySGNSN1M3ZmtkSW9LZnBYTUlGRkVTa05n0gGrAUFVX3lxTE1ieGYyMGhwSmVTRmFVbDZBUEo5V0V5S2JOUWtNS2F3d2hBTWd3Q2RkTGl6LXdENmJuVWhHaVRBVzIwZEhkeFh2RkJ4RWNLSndJSGsybS04WjRlazB1X0RvMy1PUXN6QTFYbW4zUEUtWkhyVG50YzFTaWhMLU5sVmtWdEFIRTJpbS1xVFI3VVBnRzlyMnFiT0EwME1FdlF0V01ZRWM0Vzhpdmo2Zw?oc=5"
       }
     ]
   }
