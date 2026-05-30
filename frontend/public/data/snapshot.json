@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-05-30T18:12:02+00:00",
+  "generated_at": "2026-05-30T19:16:03+00:00",
   "fx": {
-    "nzd_per_usd": 1.687651,
-    "as_of": "Fri, 29 May 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.671674,
+    "as_of": "Sat, 30 May 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 91.6,
+      "latest": 92.05,
       "latest_date": "2026-05-29",
-      "delta_1d_pct": -2.25,
-      "delta_30d_pct": -7.84,
+      "delta_1d_pct": -1.77,
+      "delta_30d_pct": -7.39,
       "series": [
-        {
-          "date": "2025-05-29",
-          "usd": 64.15
-        },
         {
           "date": "2025-05-30",
           "usd": 63.9
@@ -1021,20 +1017,16 @@
         },
         {
           "date": "2026-05-29",
-          "usd": 91.6
+          "usd": 92.05
         }
       ]
     },
     "wti": {
-      "latest": 87.73,
+      "latest": 87.36,
       "latest_date": "2026-05-29",
-      "delta_1d_pct": -1.32,
-      "delta_30d_pct": -7.35,
+      "delta_1d_pct": -1.73,
+      "delta_30d_pct": -7.74,
       "series": [
-        {
-          "date": "2025-05-29",
-          "usd": 60.94
-        },
         {
           "date": "2025-05-30",
           "usd": 60.79
@@ -2041,46 +2033,46 @@
         },
         {
           "date": "2026-05-29",
-          "usd": 87.73
+          "usd": 87.36
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-05-29",
+    "as_of": "2026-05-30",
     "regular_91": {
-      "avg": 3.274,
+      "avg": 3.27,
       "min": 2.989,
-      "max": 3.539,
-      "count": 57
+      "max": 3.619,
+      "count": 79
     },
     "premium_95": {
-      "avg": 3.471,
+      "avg": 3.463,
       "min": 3.18,
-      "max": 3.899,
-      "count": 35
+      "max": 3.689,
+      "count": 52
     },
     "premium_98": {
-      "avg": 3.502,
+      "avg": 3.584,
       "min": 3.349,
-      "max": 3.579,
-      "count": 4
+      "max": 3.88,
+      "count": 17
     },
     "diesel": {
-      "avg": 3.15,
+      "avg": 3.137,
       "min": 2.909,
-      "max": 3.349,
-      "count": 66
+      "max": 3.299,
+      "count": 85
     },
     "lpg": {
-      "avg": 3.529,
-      "min": 3.529,
-      "max": 3.529,
+      "avg": 1.959,
+      "min": 1.959,
+      "max": 1.959,
       "count": 1
     },
-    "observations_today": 66,
-    "observations_yesterday": 89,
-    "observations_older": 8
+    "observations_today": 0,
+    "observations_yesterday": 197,
+    "observations_older": 37
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8590,9 +8582,15 @@
   "news": {
     "nz": [
       {
+        "title": "Auckland, New Zealand as Air New Zealand Extends Flight Reductions as Global Fuel Crisis Reshapes Aviation Industry - Travel And Tour World",
+        "source": "Travel And Tour World",
+        "published": "Sat, 30 May 2026 01:47:47 GMT",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qMU1TZ2R1dXhfbkR6QjllYXNxTzl6SFBTSENBcERjd3U5NGJqb0Q1LS1DSTNTR2hsSG5rcmNQckJ2Y200bTIwellENFJtV01jbGlxekpWajFLbHUtNXJ4QlBTRE9jODRjMjF1WUpB?oc=5"
+      },
+      {
         "title": "How Fuel Price Shocks Rattled a Remote New Zealand Village - The New York Times",
         "source": "The New York Times",
-        "published": "Fri, 29 May 2026 09:00:20 GMT",
+        "published": "Fri, 29 May 2026 14:12:54 GMT",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR0M1WGMzaVVRdEpKUU9LeHcxWE9FTkoxTFBqLVJXaFE2bTNiLUFhWG1PSllqcjlZOGcyWkxkZEZuZ2RNWjBLM1RQM1ZEVURsMnJMWTN6YWgzQm94Tm8wcE1HUllXOWdPbGwtSVIzeS1fdlVjUDNtT01NZXJNM2ZaakxaLVR2SzhEWnQyTjhLek9hWFc3NG9xLVJfcw?oc=5"
       },
       {
@@ -8602,16 +8600,16 @@
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pUUpVb2g5aE1uV19ZNVc2YXllSUVrb3F0dEc4SFhFRjdOT0ZRbElsMVNzeDk0NG91c1F6eDlwdkg5R1BjWjhmem9yQmlyd2pFb1R3dWZrTQ?oc=5"
       },
       {
+        "title": "Budget 2026: Prudent approach to fuel crisis - NZ Doctor",
+        "source": "NZ Doctor",
+        "published": "Thu, 28 May 2026 07:42:46 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLUpDa1d6TTZlU2pnMUNfdl9vSkFFdkdjUlVPdUpRVk1PUW1TbzlwU1MwMmtpVC1NUUIwUllOVzFNWW9scWd2TldyM3pvZjdDY3NGbzAxZnFyYmVtYjR3TGp5QlliRXZUR19lc1dVNmpNaWlqNUdfN2ZBUkprTFMtNTVRSzEzUExNVGQzT3dSZw?oc=5"
+      },
+      {
         "title": "Budget 2026: So are fuel taxes being hiked next year or not? - 1News",
         "source": "1News",
         "published": "Thu, 28 May 2026 04:44:41 GMT",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOURCbVRHTkdMc1ZlYTJtSHBaV1BxaXlmM2daSWd3QkVhU2QwaU5MaGw5LXV1VUpTS2dPU1JoY2N1a2dsbnFKVktxenlHTDlGTXR4X2I5THA1cnJTX3dlcS1yZWtjY0lON3hheHBTaWxoZC1sN3ZNcmhqWHh4VGcyb1VmclI4ZUNlRVpsZ3NBb1FVdHExRUduM3ZR?oc=5"
-      },
-      {
-        "title": "Prudent approach to fuel crisis - NZ Doctor",
-        "source": "NZ Doctor",
-        "published": "Thu, 28 May 2026 02:17:55 GMT",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wNmRuQl9pZkdRVXdlZV9iYlk3LWQwOExzMFQyNzNETFliTGxpbDJ1SEkwZ1B4QmNqcEFScUFSdGVRMWN3aEx0WGtkQ0RKaVA2el9WWmh5YVpfUmh2SlNXSTJVOG9qWFFEZGl0Q1NvdUV6ZDV2TnhlMURWZDBRc00?oc=5"
       },
       {
         "title": "Budget 2026: Govt creates almost $500m stash to address fuel crisis, fuel price forecasts revealed - NZ Herald",
@@ -8620,25 +8618,25 @@
         "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdUpBNW1hbE90YUZGbkhkblltZDRfRTF3anNGVjdHYUo4S05SYUt1cjl3QlJFZjk0N2ktaE5MM2tTNVRPN1BLODRydDRWZVlaVTZETWNTNGhzbWhUanEtOTY2UGxNdHJTcEdRTXpUR3FRX01Zakpnc3JFYlROY1hTM2RlUVFyTDYzZVl1TlRnOFdZR2RnYndxUmJVZkpOdTVhRmctZ3l5ZGxkaTAzeVBzdlJxNHFucE0zRkZ2TTZCdTBIVGluQ1RvajNjVW5oLVpvVy1Md0xBRFp6QlJNSWFCSkJEOUJsSkx0TmFVTVFBNG9QYzB2?oc=5"
       },
       {
+        "title": "Air NZ to cut more flights as jet fuel price volatility bites - b2bnews.co.nz",
+        "source": "b2bnews.co.nz",
+        "published": "Tue, 26 May 2026 23:01:19 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb0J0bV9Wc1JKOWh0emJWTzlwclZkUzBzby1TNGNGVFB2bUF1UHVNRGJLaWNheTJsS1RiN19qdFg3dXlRWlpTdXd4eUNZZ3lUa0VxU0dtWXdxOThBS3VYcW42eUUwLVB6bVlnZ2pzeTRDNGRIQThtTUNnbWlGcnJLNC1NUXlCdFo5aWQ3ZlZ3S0FvNkE?oc=5"
+      },
+      {
         "title": "Air NZ to cut more services, saying jet fuel price forcing ‘adjustments’ - NZ Herald",
         "source": "NZ Herald",
         "published": "Tue, 26 May 2026 04:29:42 GMT",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdWF0MXNZSnY3d3RjbHBYWWt4VjFIemEzd3Q3LThlaWpwZ19MUXk1c256SlRLdWVxMWlXMjItWUlpVGJIZ1R1X3Y3b0Q4UXFDSHdkV1ZvTGx4Z01ENzJPVDI2aGhycmhmcXd0UEhmSHYzR09iMDlZNnJNTmFFaWFUaFBySWhaTnd1dG9sVm9YS3dTSnRORmlWMWFiRUVIOHVWeGxiMWw2WGRKRjhhcEZTcjMzY0xfaEg4cmduLWVCVWZib2JodnhCZkdXVklCWWVsX2w3bmI1c1FKbzVGTnpCQjJSdWhMWlU?oc=5"
-      },
-      {
-        "title": "Ipsos New Zealand 32nd Issues Monitor - Ipsos",
-        "source": "Ipsos",
-        "published": "Mon, 25 May 2026 19:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YTEtRMkE4UHpnRy05MldrWVpwT29QMzZKREtkeHJQYzR1Tkg4N2I0ay1SNTZpaEpQeWRZaUVlV3pFTFBFMVRRdHQ1SjF0V2h3clFuNTBOZldDOHl4Q3ZjYnVVTkZscXdFRG85RzFJNG9qSUk?oc=5"
-      },
-      {
-        "title": "Fuel prices become fourth-biggest issue for New Zealanders, poll finds - RNZ",
-        "source": "RNZ",
-        "published": "Mon, 25 May 2026 17:14:06 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUXFmQzY0ZEpYRnMzUnpsbXhtSlJtLWN3VVp3WDk5Q0RkN2FYb0lUbVJwRWRtcWI4N3drVENZQV9hNGJmMGt6VDh1LWpJN01JbmlKdnBfbW83ZWZOVFNuOG9ac1lmSzFxRGxrVkU4UGFfMGdZLXM1dG9DeFpJeS1Vbm5NLWhsWWNpcWlhZVJYNlVpY2J0V2V0TjB6Q2lQcUxZOGZPdktQVlFRa0c5UkdlNXFHQQ?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "US imposes fresh sanctions on Iran amid speculation of interim deal over Strait of Hormuz - Peoples Dispatch",
+        "source": "Peoples Dispatch",
+        "published": "Sat, 30 May 2026 17:42:29 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNnpEWTNYM1NITkpHUUVKRUZsdm51QUc0ZFdlOVdOd0lianBDaTNIdWFmN2NYV1ZTME5nUTB5VVhiVmJRQzlEa1VGaFczN3pMeVdPOW11cXAwTTZUVjloNFpseE8wRWNWY3RJZjlBR2hqNDhIMDdfWElRVk53eGctY1lYQ2k2dVl3UDg5LWxJY0l5UDE4NENOcHIyclRwbUNJaGR4ekNwOUM0TWFmSG9waGMwc3BkdWZmeEk3NFR0Qm1fUGNvcFNHTw?oc=5"
+      },
       {
         "title": "Crude Oil WTI Futures Chart - Investing.com",
         "source": "Investing.com",
@@ -8652,10 +8650,16 @@
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN1JRaUdpODZjdFo5SmQ0TnA3eGt5UG14WFVBTVh1UDMxbngyZElIajV5NHp2U19pQXlEWHp6Vnl3U1kyNDQ5Z1NFNGtPbjhFcEZJR1ZCLWs3dzJ5dFFfcG9EVzM2dDg2cUUwYnpyaXpBblZXY0JGSXJPU2JjQ0JwbkFhSmlwZmNUejlN?oc=5"
       },
       {
-        "title": "Oil falls, stocks hit records on U.S.-Iran ceasefire deal - qz.com",
-        "source": "qz.com",
-        "published": "Sat, 30 May 2026 04:47:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95WnprdWlBNTZGbjlfTFRic1BJU25Jc1lHcVBENjVNVl9QVVlhMTdBWnZFMWcyd1VOUkVEODJVNmJBS2FFN3N6V3lFOXBUeHhCTm5BcjJHSzY4QnVtTVlRRDhNdmloWmJaQlRWbGxB?oc=5"
+        "title": "Core Differences Between West Texas Intermediate (WTI) and Brent Crude and the Affect of the Iran War - EnergyNow.com",
+        "source": "EnergyNow.com",
+        "published": "Sat, 30 May 2026 07:36:13 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1ZOVFVuUnFFYUstVktuczhxdzBYN1lUbUlqbTIwZEVnX2lCclN2dDZyeVJxUnFPLXdLLWhHcTd1MUUyM0kxTFBUZWJZSVlfN2RCZkRlRXhqT3ZfdUJTQkFjSkR1dDFsQ2Rmc19VTERhc1hsV2Nka2RDVEFvZ0FUcFdJQ0dCR21lcm5mZU12UzJZZHlyOFh3WGEzVWpCVDlUeHc?oc=5"
+      },
+      {
+        "title": "How is the Middle East Conflict Impacting Global Oil Prices - Kavout",
+        "source": "Kavout",
+        "published": "Sat, 30 May 2026 03:38:28 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZGFmdmVfRzNSLVNHa2s2TzI3ZDJORXotV0NKaFdrZzV3dEpiU1VkN0tsMVF1OXV6WndHWS12VmpPWE9pODc5QUk4T0pmS3FzRFhTQ0lQOWRrc3hTWDVhdU1zZ0NDWEdzRC1NUHFXWDVzbXFfa1NnT1JvQnhNSEswa1NPbnJ0U29NckxVRUQ5UVp1cDB4Wll2bmZ3?oc=5"
       },
       {
         "title": "Japan Crude Oil Imports Drop 65.7% in April 2026 – Lowest Since 1979 | METI Data - News and Statistics - IndexBox",
@@ -8674,18 +8678,6 @@
         "source": "Curzio Research",
         "published": "Fri, 29 May 2026 22:34:41 GMT",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWEE5eFgzMVktdkN4WlpKTUZQa3E3aWZWLW41elBoSWxVX2lGellPczVmR3JWWUxUR3I1VTlYZmhob013b3RuNTZVa3ozOGF2LVBJd0dQOW9mdTN2U2xFWGJXSVNwekxHVFJwbGZCTFI5SnBIQnVFSXB6NDhtMUlGRXVyQ0dVQ21tMUZR?oc=5"
-      },
-      {
-        "title": "Middle East conflict disrupts Strait of Hormuz, impacting global oil supply - Crypto Briefing",
-        "source": "Crypto Briefing",
-        "published": "Fri, 29 May 2026 21:42:46 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUmFTNC01bVVrNG5aSmE0VjBRRlhPMnotY1ZyN1VmSWNvZEVCOE5Ic0ZoZHByZ0YydXRJWnlDblpuSHFjc1N5dHNKUl9wSWRBaXJCUXNvb0lNbkVMMjZDSU1oOXBSX2Vxa1FRSFRWM2JWdndEZXF2ZVBmUUJVU3U1YkcyU1VFa2c1dUxYaDR3T29pLU9VLWRVX3BzeTc3aU1CcWY0VA?oc=5"
-      },
-      {
-        "title": "Oil Declines Lift Stocks to Fresh Records - WSJ",
-        "source": "WSJ",
-        "published": "Fri, 29 May 2026 21:32:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSkhLRHZKVjYzdnhFM3p4Yi1kMGhJZExxWFkwaTMzX3A2cW9ObkVEVno0UURXOWZwM3hDZkx1TXBPRWtNb3JrN1JYTkI2bTBabERfNEktdzJfb0NFXzcySGtMVnFkSW5CS0Y2ckdVakhYTGlTa2hDQlc4dXh1U3EtOHhLZ3ZmYW9GZWREcy1n?oc=5"
       }
     ]
   }
