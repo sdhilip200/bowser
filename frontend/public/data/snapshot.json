@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T23:55:48+00:00",
+  "generated_at": "2026-05-30T04:13:17+00:00",
   "fx": {
     "nzd_per_usd": 1.687651,
     "as_of": "Fri, 29 May 2026 00:02:31 +0000"
@@ -8590,9 +8590,15 @@
   "news": {
     "nz": [
       {
+        "title": "Auckland, New Zealand as Air New Zealand Extends Flight Reductions as Global Fuel Crisis Reshapes Aviation Industry - Travel And Tour World",
+        "source": "Travel And Tour World",
+        "published": "Sat, 30 May 2026 01:47:47 GMT",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qMU1TZ2R1dXhfbkR6QjllYXNxTzl6SFBTSENBcERjd3U5NGJqb0Q1LS1DSTNTR2hsSG5rcmNQckJ2Y200bTIwellENFJtV01jbGlxekpWajFLbHUtNXJ4QlBTRE9jODRjMjF1WUpB?oc=5"
+      },
+      {
         "title": "How Fuel Price Shocks Rattled a Remote New Zealand Village - The New York Times",
         "source": "The New York Times",
-        "published": "Fri, 29 May 2026 09:00:20 GMT",
+        "published": "Fri, 29 May 2026 14:12:54 GMT",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR0M1WGMzaVVRdEpKUU9LeHcxWE9FTkoxTFBqLVJXaFE2bTNiLUFhWG1PSllqcjlZOGcyWkxkZEZuZ2RNWjBLM1RQM1ZEVURsMnJMWTN6YWgzQm94Tm8wcE1HUllXOWdPbGwtSVIzeS1fdlVjUDNtT01NZXJNM2ZaakxaLVR2SzhEWnQyTjhLek9hWFc3NG9xLVJfcw?oc=5"
       },
       {
@@ -8630,20 +8636,38 @@
         "source": "Ipsos",
         "published": "Mon, 25 May 2026 19:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YTEtRMkE4UHpnRy05MldrWVpwT29QMzZKREtkeHJQYzR1Tkg4N2I0ay1SNTZpaEpQeWRZaUVlV3pFTFBFMVRRdHQ1SjF0V2h3clFuNTBOZldDOHl4Q3ZjYnVVTkZscXdFRG85RzFJNG9qSUk?oc=5"
-      },
-      {
-        "title": "Fuel prices become fourth-biggest issue for New Zealanders, poll finds - RNZ",
-        "source": "RNZ",
-        "published": "Mon, 25 May 2026 17:14:06 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUXFmQzY0ZEpYRnMzUnpsbXhtSlJtLWN3VVp3WDk5Q0RkN2FYb0lUbVJwRWRtcWI4N3drVENZQV9hNGJmMGt6VDh1LWpJN01JbmlKdnBfbW83ZWZOVFNuOG9ac1lmSzFxRGxrVkU4UGFfMGdZLXM1dG9DeFpJeS1Vbm5NLWhsWWNpcWlhZVJYNlVpY2J0V2V0TjB6Q2lQcUxZOGZPdktQVlFRa0c5UkdlNXFHQQ?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
+        "source": "LiteFinance",
+        "published": "Sat, 30 May 2026 00:51:50 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
+      },
+      {
+        "title": "Saudi Arabia Expected to Cut July Crude Oil Prices for Asia Amid Weak Demand | Reuters Survey - News and Statistics - IndexBox",
+        "source": "IndexBox",
+        "published": "Sat, 30 May 2026 00:22:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZGx0cHVsRFpjc0c2X1NMZmluY0FaSXhoeHBRSmZwOU4wOXVSanRyQ04ycll4S0VLb2g0TFRPY0ZETG90WXZXMEpGNG5BY0lDWjVCaUNBdkhUWVdsQ3U2U3d3LVN0U3gzOGVOekdTellqQlVCbDV3NXRoY0RsYjVxUXpScGNMN2pLdUstdWtubGh3cHhlLV94b0xjbEhUYU1YRWhjZGlPQnhhZw?oc=5"
+      },
+      {
+        "title": "Japan Crude Oil Imports Drop 65.7% in April 2026 – Lowest Since 1979 | METI Data - News and Statistics - IndexBox",
+        "source": "IndexBox",
+        "published": "Sat, 30 May 2026 00:21:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVnJWMFo2NFliTk42UlNFV1dOazk3czNSWk5ZekF4bjR2Y1p6aDB2aFpaYmZ1YjBpUUpHcDZFc21NVUtuNTVyY191M0NXQU51VlFqeVBKTWtuS2hmb196UVlPTFJuaTdYZXZBdEhwYURIeDBvSU5CVU8zUUtxNmcxX2JsbmFGSGwxRkhmX0tBa3lDOU9uTkVUYlNtQ0lLTGhZREhCdndIbl8?oc=5"
+      },
       {
         "title": "The latest sanctions won’t stop the Iran oil machine - Curzio Research",
         "source": "Curzio Research",
         "published": "Fri, 29 May 2026 22:34:41 GMT",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWEE5eFgzMVktdkN4WlpKTUZQa3E3aWZWLW41elBoSWxVX2lGellPczVmR3JWWUxUR3I1VTlYZmhob013b3RuNTZVa3ozOGF2LVBJd0dQOW9mdTN2U2xFWGJXSVNwekxHVFJwbGZCTFI5SnBIQnVFSXB6NDhtMUlGRXVyQ0dVQ21tMUZR?oc=5"
+      },
+      {
+        "title": "Brent bullish bets recede as focus pivots to progressing US-Iran talks - Quantum Commodity Intelligence",
+        "source": "Quantum Commodity Intelligence",
+        "published": "Fri, 29 May 2026 21:47:12 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNmpzckJkLUt5ZTAxdV9HR1B3WlhFZEtGZnlpQU5icDhrT1NkQmxEd0Z1SnFpTjRnODJTeHh5YktjT2xFV0NzZEhDLTJBMFZzR01CS1piLXN5NWlEbDNqTnV1VWYtblV1NENDZWhrSENCclMtNFpGaUhXWnJpSnVCdS1EaUZyREM1ZkJBS0xwYnZWMURQb3hwa19QT2d4LWtvbU5fTW5oNFJjeGltNWozWGVhdw?oc=5"
       },
       {
         "title": "Middle East conflict disrupts Strait of Hormuz, impacting global oil supply - Crypto Briefing",
@@ -8662,30 +8686,6 @@
         "source": "Crypto Briefing",
         "published": "Fri, 29 May 2026 20:36:32 GMT",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbC14V3JXWFZRT3c1OTByckc1NWJ6NWUtdTdHdjNiclY0SDlISTZwSVNYQVVEMWFLZV9IZzFEOVY1WFVJaU9WaUt6UkNwejhzRWItam15Z2NMNzg3MnBBeVhiZ1VyS0dyX05TT3owckJTUDBkV19jR1ZwRFUwT0ttZDZzcHVyZUpBNUFXSmVkclowN3dzQTdGbTA3V0xmenJJ?oc=5"
-      },
-      {
-        "title": "Oil records its biggest one-month drop in six years, bringing consumers some relief - NBC News",
-        "source": "NBC News",
-        "published": "Fri, 29 May 2026 20:02:32 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONzNzdHBrTkRjY3EwN3A2amJaRGtqV0NJSERHSkZ4cHY0dlBNTEZOZmc5aExwbUtLdXFfZnNhY29NNGZ1T2NvQVc1SERobV9Od3M0ZVVHeFRkZGhQVkpEdTUxRTRlMF9HcHBxay15cXBibmZfV2FseDgycExoanFUWnZKMENTQkl2NTZF?oc=5"
-      },
-      {
-        "title": "US Adds Sanctions on Tankers and Iranian Oil Awaiting Trump’s Decision - The Maritime Executive",
-        "source": "The Maritime Executive",
-        "published": "Fri, 29 May 2026 19:15:20 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZDhRM1p5cmpWTnRkaTJzaENlajEyLWxJdkppbWhuOXR2NXJZYi03VXJFYndFempHMkhUdGRscG5acWV0WElSbVBfX2tuMlN0dGV4eWJlWEFUbDJHUDQ1RlBEUV9fblFtX1I1SU9GVi1wcmVvTi1UV3RoNmxjNXdpOUJ3SV8xN1FMbXNLN3NGbkUwSDl6S2NoT2hJeUFWWkY3MXI3Vl9MRE9QTTNpQkE?oc=5"
-      },
-      {
-        "title": "U.S. slaps new sanctions on Iran’s shadow oil network in maximum pressure push - Florida’s Voice",
-        "source": "Florida’s Voice",
-        "published": "Fri, 29 May 2026 18:37:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaDBwN3U1UlBvRGp6dFpDamR2eXEzV2JkNFF2S1JWOXJMVkpvTU10R0pGVXlZbmxrOEdxNlVXX3JZWVpUeWhQNzVLVXhwSVhFRmZULVdiVDJRVjFORlVYeV92cGJLT3hpTlRUMm8xT24wTUVRWWdPeXhzMGlsRThDX0YtR2lRODNRNlVjNFVELWpsQzdVdzVRQmNaSlBtLXVTMGpJ?oc=5"
-      },
-      {
-        "title": "Oil market nearing a breaking point, Exxon executive warns - Chron",
-        "source": "Chron",
-        "published": "Fri, 29 May 2026 18:27:49 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUjhjU2hpMF9UZF9uVVdnUG9UcEdhNEJEYUMwYXBXODM3M3YyOGhyNWtPNTU4SktiUHJvZHF1VmhSTDVUTEsyQ3k1X2VHVDVYMU1KRGRpaTZNaVo1Q1RUeVloUy1QbWl6MEpLSTJUMF82U013ZnpKOHpKNEpfZm1DYUlrWktRVXlXWHdv?oc=5"
       }
     ]
   }
