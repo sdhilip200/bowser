@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-05-31T18:52:51+00:00",
+  "generated_at": "2026-05-31T19:17:37+00:00",
   "fx": {
-    "nzd_per_usd": 1.671674,
-    "as_of": "Sat, 30 May 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.67339,
+    "as_of": "Sun, 31 May 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 92.05,
+      "latest": 91.12,
       "latest_date": "2026-05-29",
-      "delta_1d_pct": -1.77,
-      "delta_30d_pct": -7.39,
+      "delta_1d_pct": -2.76,
+      "delta_30d_pct": -8.32,
       "series": [
-        {
-          "date": "2025-05-30",
-          "usd": 63.9
-        },
         {
           "date": "2025-06-02",
           "usd": 64.63
@@ -1017,7 +1013,7 @@
         },
         {
           "date": "2026-05-29",
-          "usd": 92.05
+          "usd": 91.12
         }
       ]
     },
@@ -1027,10 +1023,6 @@
       "delta_1d_pct": -1.73,
       "delta_30d_pct": -7.74,
       "series": [
-        {
-          "date": "2025-05-30",
-          "usd": 60.79
-        },
         {
           "date": "2025-06-02",
           "usd": 62.52
@@ -2039,40 +2031,40 @@
     }
   },
   "nz_retail": {
-    "as_of": "2026-05-30",
+    "as_of": "2026-05-31",
     "regular_91": {
-      "avg": 3.27,
-      "min": 2.989,
-      "max": 3.619,
-      "count": 79
+      "avg": 3.277,
+      "min": 3.099,
+      "max": 3.499,
+      "count": 77
     },
     "premium_95": {
-      "avg": 3.463,
-      "min": 3.18,
-      "max": 3.689,
-      "count": 52
+      "avg": 3.47,
+      "min": 3.219,
+      "max": 4.338,
+      "count": 59
     },
     "premium_98": {
-      "avg": 3.584,
+      "avg": 3.555,
       "min": 3.349,
-      "max": 3.88,
-      "count": 17
+      "max": 3.699,
+      "count": 12
     },
     "diesel": {
-      "avg": 3.137,
-      "min": 2.909,
-      "max": 3.299,
-      "count": 85
+      "avg": 3.152,
+      "min": 2.759,
+      "max": 3.399,
+      "count": 86
     },
     "lpg": {
-      "avg": 1.959,
-      "min": 1.959,
-      "max": 1.959,
-      "count": 1
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
     "observations_today": 0,
-    "observations_yesterday": 197,
-    "observations_older": 37
+    "observations_yesterday": 214,
+    "observations_older": 20
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8641,7 +8633,7 @@
         "title": "EU mulls freezing Russian oil sanctions as fuel shortage looms - IntelliNews",
         "source": "IntelliNews",
         "published": "Sun, 31 May 2026 17:42:37 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVVhiN2VxdE4yd0YtV0hxeWY4N2NiTDZET2g0QTNaS2xQQWlEb2lNV1VLSTgzMnpTNHdXYmItMzl0eFIzZk40cmp6YUo3Y2wzOUJTbm05Mzdlb1FPek5HZ0F0enMwYjlFMEprRVhBajE5RWRnRktiWXVmbHd6dHA1Nlhvc0ZTRGQ3a3ZLYzRkNkpaMFptYThoNTZEWDd6Q1U0WTdGRnZBVkE1dVM4YW4zZFB3?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLWF4Y1JXcTQzNzVob1ZjaUUyWlRickZHQnVKOGUtSjV4SHM5S0FrTHVXeDllWjk0a1BPY0QwQnJsTnhXYjJvcGZ6X1FGZy1sX2dqbWgwZFJERDl1Q1ZKWEh3aUpqYlk3WlRKNXJiZmJOb3AyaTlKLTJlRnJMUUJ5T0hpZDFSdEZhZXR5Mi1tSURTeUwwSzcxcVBnazFGdTA?oc=5"
       },
       {
         "title": "AI Agents and Crude Oil Trading: How Geopolitical Shocks, Inventory Draws, and Machine Learning Are Reshaping WTI Strategy - FXEmpire",
