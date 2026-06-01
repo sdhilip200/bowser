@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T23:48:01+00:00",
+  "generated_at": "2026-06-01T05:09:15+00:00",
   "fx": {
     "nzd_per_usd": 1.67339,
     "as_of": "Sun, 31 May 2026 00:02:31 +0000"
@@ -8574,6 +8574,36 @@
   "news": {
     "nz": [
       {
+        "title": "Fuel stocks remain steady, extra diesel en route to NZ - 1News",
+        "source": "1News",
+        "published": "Mon, 01 Jun 2026 03:13:17 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcWVNNDFUWWJ6Y0pUM3o0cFBBWFJrdGxjZkgwOHY2bFNSUXBITkxLdXVsNUxQQXR4TXJsRjczaDRQUXdsSWRKRDdXRUJxTE5QVzQ1dE9KWXZXWERkcTVXaksyX0NfNER2c1AzUF9rWGZIV2tJY1BwN19lZjhtb2RlWHB2RTRGcnN1ZzZ1WUFObU9hQVE?oc=5"
+      },
+      {
+        "title": "NZ fuel security risk: MBIE says stocks fine but no plan B - b2bnews.co.nz",
+        "source": "b2bnews.co.nz",
+        "published": "Mon, 01 Jun 2026 02:39:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb0F1WnM2X25OdFlhVmRWNl90QWRXUnd6cWZqell1Z0Iwa2F3SDRsWGVERlV2bXJNX1A2MGtTTTB1S3JEX05DZ2N2UnhfelRCd01CVkFMRXdLSXQ5NXVqWnFMTE5nWllVc2o4WHdRQVZ5YUZqX3VQVkE3QTFYVVdFYUxuMTZCR3ctdFBMRXh3?oc=5"
+      },
+      {
+        "title": "New Zealand’s fuel stocks ‘well above’ minimum as shipment of reserve diesel on its way - Stuff",
+        "source": "Stuff",
+        "published": "Mon, 01 Jun 2026 02:39:02 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVmFwSWpfc09td0Zncnp0Y2o3X0dkckNzTmE1Y08tby1DS21SS1UwY205LVlHVFVDQ3dBV0gyZER5dmVza3lCel9WVnVTeXBreVk4VTFqOF9FZ3NIcXI2MFk1VFEwU1ZSbWl6dTdJYjVrWE1QN2ctRVAwR2x5bjlnMVZLTzRYZE9IT3V4NEhNc2QzU2Jrd3dEamdKM0JIeEU3ZDVObm1MVC13LTVYTlA5OUpSc0h3V0ZCMGc?oc=5"
+      },
+      {
+        "title": "How NZ’s fuel stocks are holding up amid global tensions - Newstalk ZB",
+        "source": "Newstalk ZB",
+        "published": "Mon, 01 Jun 2026 02:27:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSmotMG82dGNqTmI4LWVqdnNFZVc0V0NMUWNsdjFhM2RpN2JLNVhGOWc4bGVjV0VvNzE4OFZaSzJWUjZST2dmbF9Gbkdfc3NOVzN5UmxQY2E1OERpLTBzLTV2VHVTTnVJb0I4SkY2eW4tOHpTUmVyRnl2eEdTbHFqZUN6SXlDX0ZWU3lHa1NrVVVaV3U3aHZvX2Q0QjkzaHozcmlOdHAtQ3p3QkM4ZV9NTHpkYzZ4REhrRXJHS090UEdiZEw3LVE?oc=5"
+      },
+      {
+        "title": "How NZ’s fuel stocks are holding up amid global tensions - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Mon, 01 Jun 2026 02:20:31 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQM3dfYktPLTdOUE5ucGFKMUVnVjBYTVFXMVdjZkJZTHpiR1JPdlJqRTZ2QVFnOWpDYzdOT2JwR3IzQ0NIRFlxMmhhMW1tLXNPa3Z4NzkwbE1BaGVKQlFrY2JteGlVcXRLbmdxMmhud2Y5WkRDRjMyWHNBZUlRSk56bjZwckkybEl1ZlZpcU96cmFPTld4bmU2UEdxNk12bjIxVHktZzF2SU0wcjQxek5KRUJxcjRTQ01vREFYZENtTGNCRFI0S0VvVkYtNmtKWXRYNTlza3J5R3A?oc=5"
+      },
+      {
         "title": "How Fuel Price Shocks Rattled a Remote New Zealand Village - The New York Times",
         "source": "The New York Times",
         "published": "Fri, 29 May 2026 09:00:20 GMT",
@@ -8590,86 +8620,56 @@
         "source": "NZDoctor",
         "published": "Thu, 28 May 2026 07:42:46 GMT",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLUpDa1d6TTZlU2pnMUNfdl9vSkFFdkdjUlVPdUpRVk1PUW1TbzlwU1MwMmtpVC1NUUIwUllOVzFNWW9scWd2TldyM3pvZjdDY3NGbzAxZnFyYmVtYjR3TGp5QlliRXZUR19lc1dVNmpNaWlqNUdfN2ZBUkprTFMtNTVRSzEzUExNVGQzT3dSZw?oc=5"
-      },
-      {
-        "title": "Budget 2026: So are fuel taxes being hiked next year or not? - 1News",
-        "source": "1News",
-        "published": "Thu, 28 May 2026 04:44:41 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOURCbVRHTkdMc1ZlYTJtSHBaV1BxaXlmM2daSWd3QkVhU2QwaU5MaGw5LXV1VUpTS2dPU1JoY2N1a2dsbnFKVktxenlHTDlGTXR4X2I5THA1cnJTX3dlcS1yZWtjY0lON3hheHBTaWxoZC1sN3ZNcmhqWHh4VGcyb1VmclI4ZUNlRVpsZ3NBb1FVdHExRUduM3ZR?oc=5"
-      },
-      {
-        "title": "Budget 2026: Govt creates almost $500m stash to address fuel crisis, fuel price forecasts revealed - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Thu, 28 May 2026 01:56:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdUpBNW1hbE90YUZGbkhkblltZDRfRTF3anNGVjdHYUo4S05SYUt1cjl3QlJFZjk0N2ktaE5MM2tTNVRPN1BLODRydDRWZVlaVTZETWNTNGhzbWhUanEtOTY2UGxNdHJTcEdRTXpUR3FRX01Zakpnc3JFYlROY1hTM2RlUVFyTDYzZVl1TlRnOFdZR2RnYndxUmJVZkpOdTVhRmctZ3l5ZGxkaTAzeVBzdlJxNHFucE0zRkZ2TTZCdTBIVGluQ1RvajNjVW5oLVpvVy1Md0xBRFp6QlJNSWFCSkJEOUJsSkx0TmFVTVFBNG9QYzB2?oc=5"
-      },
-      {
-        "title": "No new fuel and cost-of-living relief - money tucked away if crisis worsens - Stuff",
-        "source": "Stuff",
-        "published": "Wed, 27 May 2026 09:04:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMFBYR1BMam0zOWFGS3dlTng2dDU1azMxcm1LWWpxa2RXbnlTRUFfZ1ExQks3SVg1SHllZk9HZXc3dUowcUI4V0NzWkJUa3JNeVQ1VGxwdkRxbUl5My1UX2VOa3RyZ29sTXIxcW1IcjNXUmhSWGVPckUtNEg5dGM4UTFQeU9qVlAwT2t2S0xaZ3g1X3FzMHh4Wi0wbVhjNWdaZENpNnFmUFN6V2QxcU5HOQ?oc=5"
-      },
-      {
-        "title": "Air NZ to cut more services, saying jet fuel price forcing ‘adjustments’ - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Tue, 26 May 2026 04:29:42 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdWF0MXNZSnY3d3RjbHBYWWt4VjFIemEzd3Q3LThlaWpwZ19MUXk1c256SlRLdWVxMWlXMjItWUlpVGJIZ1R1X3Y3b0Q4UXFDSHdkV1ZvTGx4Z01ENzJPVDI2aGhycmhmcXd0UEhmSHYzR09iMDlZNnJNTmFFaWFUaFBySWhaTnd1dG9sVm9YS3dTSnRORmlWMWFiRUVIOHVWeGxiMWw2WGRKRjhhcEZTcjMzY0xfaEg4cmduLWVCVWZib2JodnhCZkdXVklCWWVsX2w3bmI1c1FKbzVGTnpCQjJSdWhMWlU?oc=5"
-      },
-      {
-        "title": "Ipsos New Zealand 32nd Issues Monitor - Ipsos",
-        "source": "Ipsos",
-        "published": "Mon, 25 May 2026 19:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YTEtRMkE4UHpnRy05MldrWVpwT29QMzZKREtkeHJQYzR1Tkg4N2I0ay1SNTZpaEpQeWRZaUVlV3pFTFBFMVRRdHQ1SjF0V2h3clFuNTBOZldDOHl4Q3ZjYnVVTkZscXdFRG85RzFJNG9qSUk?oc=5"
       }
     ],
     "global": [
       {
-        "title": "China orders companies to ignore US oil sanctions - Fox News",
-        "source": "Fox News",
-        "published": "Sun, 31 May 2026 23:01:48 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TbHExOF9VdWZLcVJTYzFBeFJ2QThBT3E4TVZTV1RzOXRzYTNycjE0ZzVDNXcxb2JlR2VZZFJVeGFzazM3eEFhd2c1NTFfdVdUUWx0eWtn?oc=5"
+        "title": "Oil Jumps 2% as Israel Expands Lebanon Operations - Gotrade",
+        "source": "Gotrade",
+        "published": "Mon, 01 Jun 2026 03:16:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMnk2NXVDYUxjQ0huY0k4amt1Vm96eW9rNnBuWWxDcmo4ak9Sdi13ZkVBbjBCanM1d2RubVNnalhickoyV0ZYRXlZYnJVc3JidE16amg4cjF3S0dibGtETWZ3QVdtVGlDVDluVkZET0pwVFUwLVR0R3ZiaER1OWM4NkkydWlGaW9IMkRHb2MyUzM5dw?oc=5"
       },
       {
-        "title": "WTI expected to face further downside pressure - The Business Times",
-        "source": "The Business Times",
-        "published": "Sun, 31 May 2026 23:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNUJsRmJCV2ZuUWNmcG9oQXpNSUVwM0U1ZTUwajJ0dTNIRXVfdTNWVGI4c0UtVk15bVdoSXVLZEVYdGtLNGxJZjBnWDRoOGU0b1lndFJTMkhoWWtsSFpqanVvbFBfMzNIdEpNSkZUTXE2MkJFb3NOTDFGd3ZSZ243RDVhc3BkVlRUaXAzUUk4elZvbWt5WW9Fcmp3?oc=5"
-      },
-      {
-        "title": "Wall Street may have solved a nagging mystery in global oil markets as doomsday scenarios have yet to arrive - Fortune",
-        "source": "Fortune",
-        "published": "Sun, 31 May 2026 22:40:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWFpVMVVkRnNxZnJpVldhaTVaaWxsMjFxZ3VzeHEyVFBnXy1pbE1kU1ZKaFdoZnNPY2Z5OXRib3pNR0htdEp5bzNEQjBJR05iZkJEVUxiMTlRUWo0RGRMNm1mbUxlRk9IRkwzTm8wLTVoV1FGdWswdmxWUFZEWE1XVkh0R0tjRXpGajNUSWcycm5lQkJMcHo0SWVkQ2NSOTl2VWZJWkRBaDNVWlpETFlNbmJn?oc=5"
-      },
-      {
-        "title": "The Iran War's First 90 Days Upended Energy Markets - Crude Oil Prices Today | OilPrice.com",
+        "title": "Oil Prices Rise as Israel Expands Lebanon Offensive - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Sun, 31 May 2026 21:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa2hDcVpRWEY3andmZjBWbmVpelptSXZTVDVCRk5ldGNnUmNKNUlub2ZiSDRiX2F0UXhqOGFuRnNwcUE0VTAwMnRhNVQxZzg3LVN5RnJHYUlYbndnbmYtNl9yZDRSSXZPZ0xwYlZ5SHpRMUdLZnE1MENHemVKLXNaWHBIRExtbGE0bFhUNUZDbzd1Yk9wNGJKcTZ3bkNKa1nSAaQBQVVfeXFMT1BoS3cxUXVUVzRCZzY4dXRsRmpndkwzbDRRUDBCdVlTVlR6aURVRm5KdERfZmNINlppbXltOXFYU3QxUEh3UGJDLVoyREZBd1VYRERhcGRVR0hMTy1NSElGb0dGaVdQRjVKS0ZrZ21OM3hCbTl3TW9OQzVUaGY1aXdWdWpPakRsOVh0ZUk1Tm5NZXd4QkM5cmZ5R1RaakE5eXdmd28?oc=5"
+        "published": "Mon, 01 Jun 2026 02:52:09 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYlBJYTRtc2NLSGw5UzhTX3ZaZHl6ZG4ySGUxa2lzZVdFeEJEUlJ1MXowa1ZuUFhmQ1ViU3czQVA5ZHVrR2hCNkotMWNzZzhfMzRNcVlCSnlOa3NoT2MwalRmdDZ5Sldxd0lCM2FGNjl1bTZ0NDExZS01UTNnYm1PMGpoSGgwT2hOZHVJZ2o5cE5YVm9jXzEtaUU2Z0Y0SlJDc0ktM1JnOVJwbjjSAbABQVVfeXFMUDNfNF83N2xOWHBodG9rTktlTUR0bzZzUFlQLUVNTXlOcXRUVWFKaVZsT2huQ01hLTF1OHZvQWJ3d05fVExOWjRmT0oycmRTcXB4bXpQdFotdjVrcDlZQ0syLVF0SmY4SHFpT3RxRVBmbUxrUG1TM3BWV1JJQnp3Y09SWElHM1lwa0pVVU84SktmZE9kRHRWUTRBd2NIS0hMNkYwNTk5ak9iOERfRDZaQ0o?oc=5"
       },
       {
-        "title": "EU mulls freezing Russian oil sanctions as fuel shortage looms - IntelliNews",
-        "source": "IntelliNews",
-        "published": "Sun, 31 May 2026 17:42:37 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLWF4Y1JXcTQzNzVob1ZjaUUyWlRickZHQnVKOGUtSjV4SHM5S0FrTHVXeDllWjk0a1BPY0QwQnJsTnhXYjJvcGZ6X1FGZy1sX2dqbWgwZFJERDl1Q1ZKWEh3aUpqYlk3WlRKNXJiZmJOb3AyaTlKLTJlRnJMUUJ5T0hpZDFSdEZhZXR5Mi1tSURTeUwwSzcxcVBnazFGdTA?oc=5"
+        "title": "Oil prices today: Crude jumps over 2% after Israel intensifies attacks in Lebanon despite ceasefire - The Times of India",
+        "source": "The Times of India",
+        "published": "Mon, 01 Jun 2026 02:43:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPY19NOWl6Ym1tbFl6dF9CNGpBajY1YkY0ZHk2YU9ReHZkU2ZVeFNIU1Y0MGpzWGJhTmYyTGcycFRsZk5Vekg3N1FOcmMtRzloMkdxZU9MQmZGUExZU09NMVV3Y1g3VjMyeWdTeGpZNW1yeUx3dmxoOUFWeUVvQU55Nmt5SzZwT1dyb0lWNVVxQWhDcGxYUmQxb2tZTUtyT1JKaXBXUnpfVUFXaWwtLXBMRXd1NWhqYnVKZ19pV085OFN2NjVhZFNCY1lEbmM3M3JGRndmUXRGT3NYMlM2dDQyYmJ3YWtmRTZnb3pBRzk2WUFKTkpva3BWem9NeFg0dXBKNFpUMVZPTXRwZThiX2lObUxaNGhBRzlZeHVBRjBZZmZtUnBEZlZzYjRJQ3rSAbICQVVfeXFMT2RUWTI2eU1KSVI4UTJvU0hCOC1zVGRSczF6ZjZIN0hWTW1SUzhhQXo1NGl0Y3BYUmhuZS0xU3hyazBlSkpneUhmTm56NVFTdkVOT1VIM3dxZGFFU01VaE5KcFU1RWdjZXF1X1prLUhRZURqcm15bEdHVUNQay1pTkJYaGhDQ1dwWEtrUXVFMjFGYlp0eFQ4c1k5VThtZ001ZVRjRVpCejlYUWxGbFRQWnNKTjI2UWZWU21DbWY3TndMaHU2djVzX2RQb1hPS21pbVJSLUxMUDF0Q1hKUlZCMUYzZFpWQzNsYWlDNGg5anB2STljTlhYUFZuejBVWWlSeW9kbFpiTFQ0TjQyVWRTWnQtUWEzdVpwZ3dqNVdHUG1TQXdLNzJwTkR2N2RVeHNPRGtR?oc=5"
       },
       {
-        "title": "AI Agents and Crude Oil Trading: How Geopolitical Shocks, Inventory Draws, and Machine Learning Are Reshaping WTI Strategy - FXEmpire",
-        "source": "FXEmpire",
-        "published": "Sun, 31 May 2026 17:09:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWXBqOTdiZEJzZGY1cHExMTRzNU5qN0FzYm1yNVZzeTJTZHVET3RZazdXUExMeXJkT3lxbG1GUnFySVJQbjJMYmVLY3l5NEl5WndlYWt2NWhNek1XcDM5VmFOY2prYmdyS3hVS09RNUt4SEFBQVJwZUtlX3NpNlRKWTJTS1RlaHpyTVNXb0VVWEVjclQ5M3dqRDBKY2FXQWMyMUMtTnh0SkdNQmRaUnZQOFdMcXRaTm5nc3F4Wk16S21HMHFRb2FRb0l3ck5uTi1VSVp3WVk1Sm5SaHExY21JM09tbThNaEkzVXo3czhSTk1TVl8tMUphRk9MX2RTc3c?oc=5"
+        "title": "Oil Price Today (June 1): Crude oil gains over 2% as Israel attacks Iran-backed Hezbollah. What are expert - The Economic Times",
+        "source": "The Economic Times",
+        "published": "Mon, 01 Jun 2026 02:00:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNaGFfemp5dmh1bXJtdUIycW9fWVRXa2I1cHBoRlNNTm9WNV9NTXhxZmF0V3ZoLWV4RFRRV090N0xpSDBaSHJpOFd6MUtnV05KLVlNZ0dMcTNBcFZYWnhIdEQzaDFPUzZzNjhLZFpSZ1dMWFdYUk45R1lfdFpMNVNBZzBQRXBTY1pMa21HYUMzNVNLXzFPMVJTcDNmRUNkQ2M2Z1hRVk1CNXRGbTVKYXM0bWJxdUtLQ1dmQmtCZlU0akQzLVhVSWFiaHBoUTBBUjF3NUY5RHpNVHdNYXRZZUxZUEpvZlBYY0xqN1lwM3l6UndiUE10eENWVEVHMGprZlNhWlZxRGlRSDhyeEtxNUQ3YTBjcTI3LUHSAZwCQVVfeXFMTmxMS2VfT3NLWDVTTmtmUEpXUUktUlF6OE1Ec0MwZmUzMS1yOHFvNkxpZEdWMkx2MUFoai1MbTlnLVl6aUlSOVNUN0JnSENuOF94cEs5RE9kRkdnRC1oakhEdzFUYWVaeVotalFmeFNzdlpjakVtS2o4bXNoNHU3bUVSUXM4N1lTUnBELTlHcmthY0gyeC1IZ1VuRjZHVF9RRmFWck14bFh3OEFxTTgxOHIzcm5ITUl6eloxc2pBU1lpQmdoenc3LTNjVXZRcUVYRzNWUi1FZ2hWQ0lTXzUwRS1mNjcwWTlVZnNNVlZvUm1JUmRJNEF2a2ZhR0EyMUNUNXU0dlQ1d0t6Z3VVYUQ2cEJZVU5vNVpJRFdSeTg?oc=5"
       },
       {
-        "title": "Russian oil tanker arrives in Japan as Middle East supply concerns grow - IntelliNews",
-        "source": "IntelliNews",
-        "published": "Sun, 31 May 2026 15:39:09 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNem5RUlZTRG5BRTU1bFRZU2pIbVI0QndxU1g3amZVV2Vpb2d2YmZWSTg3b2YwVWp3TXlFS1l4S0MwVjZFSmI1dzBxZU9qVElEQVJha1RHMWVISXpxcl9kbkduTmZhd1l0ZndEXzRMQU5YNENPVGFPYXFUa3EwdG5rOV90ZHZqVGFOdFM0LUw5dl9sSVRoRUp5MFpET1dpbVpUYzFFVTNPSUYxZ00?oc=5"
+        "title": "WTI Crude Oil Wave Analysis - Action Forex",
+        "source": "Action Forex",
+        "published": "Mon, 01 Jun 2026 01:52:25 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU0FoOW1jdWpvM3RmbnRNQUNLU0ZNQndXMV9mNjhsSVYteWlxS1hpUHZLdzFKbHlFWEpDbHA0TUVVRXRYV3Z3SU1OVzZxVkxwN1pTSmRGWU0ycmNldXdXWnBCY3I3bmdRVXRSWnpnSkdJeGltZXlqMzVuanJhWUNlbFBzX19iUk5aY0FIRUh0WTVyNXZ2ejRyc1VHSDVtZ00?oc=5"
       },
       {
-        "title": "Sanctions Stall: EU Weighs Freezing Oil Price Cap to Keep Pressure on Russian Urals - Kyiv Post",
-        "source": "Kyiv Post",
-        "published": "Sun, 31 May 2026 13:01:18 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE95Yk9SdXJuZHpXVnp1eXJ0a0hUNV93eU5MYlBuV1lWb3dLTGV4VFEyR1hIa2trMk1zQ2FuTXlZYWhnRVRnYkxjenZXMA?oc=5"
+        "title": "Crude Oil WTI Futures Chart - Investing.com",
+        "source": "Investing.com",
+        "published": "Mon, 01 Jun 2026 01:00:50 GMT",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QVUZmbEFLek45c2FDcW5MdnIwVUE5c2p4Q21nUVU4a0NOZzd2QTdxSGRQS3A1QTk2M1cwVFNfd0JVUFZYMnVBa01IeWJzNy1HZmR3cFJXZk1zdVNSRGJONkI3MEJ4RDQ3VjlocXhYdHc?oc=5"
+      },
+      {
+        "title": "Oil jumps 2% as Israel expands Lebanon offensive, rattling ceasefire hopes - CNBC",
+        "source": "CNBC",
+        "published": "Mon, 01 Jun 2026 00:57:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNktxcXVYTnFVQnJnODhmaGRYVkNOMW1CM2xMUVhhTHNsWng5N05maGh4dlFFdG83T3dSWFFQUkd3b0FEZ280Y25wdDUzeFBmU0IwX3RIbDZLVlkxTzU2dzFrLV9iSm9HWUZabUlrT0l4T1JXVU5sX2luaHRRdVZpaU9vaTNDNXN0WkpDMXZRZXdRZDByazh0VVNIR29YWTIzZy16TdIBqgFBVV95cUxOaHBLSGZRb2hjOGxmRW5HeWswdTRablBqLVgtQ05LcWViY1l0ZjZzT2ZEdGwxWjVrbGFvR1lmZG8yQU1xcVIxQWtYSXRjNEdua0YwVENSZTZ4QU1qMmV1RC1pSUpoTno2eDFhUnJweUhoNWRMOG8tSTJxOHFiSTZsRUNoNUxFcjJjbDNJd1JxRXpWZ19XLURQem41ejM1QldYWWhlUnQ5SHBHdw?oc=5"
+      },
+      {
+        "title": "Brent Rises on US-Iran Deal Uncertainty - TradingView",
+        "source": "TradingView",
+        "published": "Sun, 31 May 2026 23:38:42 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcjdzNkhlSHFpLVd2WTFhZXotSDNXcmdHRndLU243cGtXRDJtYVN5cEdPV2NCdE9XXzNhYnFJSnA0eTAzbW9EQzB3UzN2UGJ4SlhZcS1FSVlCd0NoOWZfXzZZd3diTW01MXJ5cW5nYUJaTFVET1doVWR4RWFhOU1NV0VTRGVtZEhrZ05DNUFiRHZKVFpS?oc=5"
       }
     ]
   }
