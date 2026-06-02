@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T23:07:15+00:00",
+  "generated_at": "2026-06-02T01:43:28+00:00",
   "fx": {
     "nzd_per_usd": 1.672389,
     "as_of": "Mon, 01 Jun 2026 00:02:31 +0000"
@@ -8582,16 +8582,16 @@
   "news": {
     "nz": [
       {
+        "title": "Fuel stocks remain steady, extra diesel en route to NZ - 1News",
+        "source": "1News",
+        "published": "Tue, 02 Jun 2026 00:24:40 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcWVNNDFUWWJ6Y0pUM3o0cFBBWFJrdGxjZkgwOHY2bFNSUXBITkxLdXVsNUxQQXR4TXJsRjczaDRQUXdsSWRKRDdXRUJxTE5QVzQ1dE9KWXZXWERkcTVXaksyX0NfNER2c1AzUF9rWGZIV2tJY1BwN19lZjhtb2RlWHB2RTRGcnN1ZzZ1WUFObU9hQVE?oc=5"
+      },
+      {
         "title": "Fuel prices still on the up; diesel run out on Cooks' Penrhyn Island - RNZ",
         "source": "RNZ",
         "published": "Mon, 01 Jun 2026 20:47:29 GMT",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbzlvWlJmbmpnRHM5d25rbTUzYWROTFRIMXJJSmtRR0RyZ1BJY3hWWlJob3huWEZyWkZ1NERpOTJXd2xLbi1iaWRMb2xzWTcwZWhzazc4azQtMHViVVFDcUZKSnZ1WTZtTlBOT0h2X2FkZWpha2FiU1ZhQ0dPUkVUdXN2eTd3TjFRdFBxWVNVcUEwRnhrTlBJSWU1UGYtcTRjRFhtTFNzeUJzMS0y?oc=5"
-      },
-      {
-        "title": "Fuel stocks remain steady, extra diesel en route to NZ - 1News",
-        "source": "1News",
-        "published": "Mon, 01 Jun 2026 20:35:11 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcWVNNDFUWWJ6Y0pUM3o0cFBBWFJrdGxjZkgwOHY2bFNSUXBITkxLdXVsNUxQQXR4TXJsRjczaDRQUXdsSWRKRDdXRUJxTE5QVzQ1dE9KWXZXWERkcTVXaksyX0NfNER2c1AzUF9rWGZIV2tJY1BwN19lZjhtb2RlWHB2RTRGcnN1ZzZ1WUFObU9hQVE?oc=5"
       },
       {
         "title": "How will New Zealand's emergency fuel strategy work? - Latest news from Azerbaijan",
@@ -8626,11 +8626,17 @@
       {
         "title": "How NZ’s fuel stocks are holding up amid global tensions - NZ Herald",
         "source": "NZ Herald",
-        "published": "Mon, 01 Jun 2026 02:20:31 GMT",
+        "published": "Mon, 01 Jun 2026 02:18:50 GMT",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQM3dfYktPLTdOUE5ucGFKMUVnVjBYTVFXMVdjZkJZTHpiR1JPdlJqRTZ2QVFnOWpDYzdOT2JwR3IzQ0NIRFlxMmhhMW1tLXNPa3Z4NzkwbE1BaGVKQlFrY2JteGlVcXRLbmdxMmhud2Y5WkRDRjMyWHNBZUlRSk56bjZwckkybEl1ZlZpcU96cmFPTld4bmU2UEdxNk12bjIxVHktZzF2SU0wcjQxek5KRUJxcjRTQ01vREFYZENtTGNCRFI0S0VvVkYtNmtKWXRYNTlza3J5R3A?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Reducing oil demand through electric vehicle adoption could boost Japan’s energy security - IEEFA | Institute for Energy Economics and Financial Analysis",
+        "source": "IEEFA | Institute for Energy Economics and Financial Analysis",
+        "published": "Tue, 02 Jun 2026 01:16:54 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT3puX0FzUzNlWEdUR3hnUnNLU1VCcTB0UzRaNEF5dnp5ZFlIWWJvc25nMWJsVk5HZHl3ZjFDRXlGSEV0b0pyZk5xNDkzQWRVOGhsWUg1STdKNWRQSmE2WTJESENCSF82TnBsbkExbHRkMElnOUNCRi1XcWdJakFLT0RNRGk1eGNoRk1yRUJKME9yWWlDbFQ1T0hWRzZTTFNrWmlhXzI0NmJNN00xdk00RmY3SW9ueVU?oc=5"
+      },
       {
         "title": "Oil Prices Surge Amid Middle East Supply Concerns - GuruFocus",
         "source": "GuruFocus",
@@ -8642,6 +8648,12 @@
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Mon, 01 Jun 2026 22:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeHgxNkhOTjhLTE4ydlJucmxZMUdDS3hibFJWX2hWeHVtUmdUc0hlQ1ZNVTIyeWhFemRuMnE3WHp4ZnFlOFFpc3FIR0pPbkNXYTUtZ3ZLWWVkbmhLbTN1YmFCRVVvRDViUWoxZW55TVpEMzR0SnhGNlJWNHZmbzhWb2R2RlZNVEFVOW9fZWc4VjQ3NHZLOGVaanZkb9IBoAFBVV95cUxQVXVKSFFPd05ESmFrLW8zRFAzMEVtQmEwT0R4amZZazdtX2pFaVVkYjMzbDREdHNlamduMG9NdGRkR3lsUE9mYm9yaXgzOXlZZ0ZOZmR5LTJ3YUFzX0drcDNJSnpxVXVNa2RDc2JLdmsxWmMzTW03VTFLUjZVbWJ1SldKcU1JZVhyQ2xJVGhxRGpydHNXcGtCZ0htWGQzbWJt?oc=5"
+      },
+      {
+        "title": "Oil prices rise, but not by enough to keep Wall Street from more records - Florida Politics",
+        "source": "Florida Politics",
+        "published": "Mon, 01 Jun 2026 21:57:29 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNkZ6Sk91UU5qWFFpRGNUOVVaM21ueElTblBKRVJwYldFWVlYQWNJWTI4TmtUZFRFRFQ4NjNxWU1iRFN2STFqaVdZNTFReDFOZ2phRUJJSjdibUdJamVUYkVlOE51aE44V3ZLY3BQb3AzYTVzRTdUbTZQeDRpdjdzcDMwaXNoQ0hXLWdJRWFNREpmS2Y2cHJqSlV3SjJkWVV6SXNxN0FoQXRkSDdvdU05Ung5b3pvc1E?oc=5"
       },
       {
         "title": "Why are oil prices up today and will Brent and US WTI crude futures continue to drop or rise again? Oil pr - The Economic Times",
@@ -8666,18 +8678,6 @@
         "source": "Yahoo Finance",
         "published": "Mon, 01 Jun 2026 19:38:14 GMT",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYUZrYjlYYUNJYXVwYVZTbnZQWTVJMHFaY0UxbnNadHQxY01jU1d2WnZvX0xQVEcwNmFWRkpTcmsxdDY1YnhMTkRiRk9xZ2Y1QlFqUkxYSVBobkFuSGxEeDg4SGRTVjNWVE00Um9qVE81RUE3b0NHbzNaRGRjQWJOMUt0cXpPV3JFLWxSeldfUmI?oc=5"
-      },
-      {
-        "title": "Back from another trip to Ukraine, Blumenthal pushes for Russian sanctions - WSHU",
-        "source": "WSHU",
-        "published": "Mon, 01 Jun 2026 19:19:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZTRhc0Y3dUdKbWFQa0JOOVZkWHJBd0ZfWmhMZFVOTGpBTGp3alIzNmpnakgwZVhCZjk3MkluRXViX0xIVU5NbkpTbS1iUVAtZWlnZlFOU0NCVXY2bFdvN3pZUWdWZVk5c2lHeDFNSm5TMXFWYU1yYklMM0FIdlo0UXNLUFhBV0Rzd1V4Ujk5aTlrUG9RWTZjUA?oc=5"
-      },
-      {
-        "title": "Oil Futures Rise On Concerns About U.S.-Iran Talks - WSJ",
-        "source": "WSJ",
-        "published": "Mon, 01 Jun 2026 19:07:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOGFKUlVNZXlYa1FTV3VJeS1jelhsakdHVDEzVHRJX0lQV0VpWHFLclFxVVBJb3Q0d0NtVUpTN0MzZzdPVHFOdlI2QXJWUnpzc3JsalNCZWo1Uy1JUkNIcEpQVnZtQkQ0SWV0d1dmcUhicjBqUG1CYUtXSXhSbUpmMHpEdkVCVUE2amFnUFZ5LTBYbFVWT1BCUGJjU1FqX3VWcGQ3MmhmNndWemtLOENFdmNB?oc=5"
       }
     ]
   }
