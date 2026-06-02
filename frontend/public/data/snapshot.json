@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-02T19:04:08+00:00",
+  "generated_at": "2026-06-02T20:49:29+00:00",
   "fx": {
-    "nzd_per_usd": 1.672389,
-    "as_of": "Mon, 01 Jun 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.684057,
+    "as_of": "Tue, 02 Jun 2026 00:02:32 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 95.3,
-      "latest_date": "2026-06-01",
-      "delta_1d_pct": 3.53,
-      "delta_30d_pct": 5.44,
+      "latest": 95.78,
+      "latest_date": "2026-06-02",
+      "delta_1d_pct": 0.84,
+      "delta_30d_pct": 0.31,
       "series": [
         {
           "date": "2025-06-02",
@@ -1017,15 +1017,19 @@
         },
         {
           "date": "2026-06-01",
-          "usd": 95.3
+          "usd": 94.98
+        },
+        {
+          "date": "2026-06-02",
+          "usd": 95.78
         }
       ]
     },
     "wti": {
-      "latest": 92.47,
-      "latest_date": "2026-06-01",
-      "delta_1d_pct": 5.85,
-      "delta_30d_pct": 10.28,
+      "latest": 93.39,
+      "latest_date": "2026-06-02",
+      "delta_1d_pct": 1.33,
+      "delta_30d_pct": 4.22,
       "series": [
         {
           "date": "2025-06-02",
@@ -2033,36 +2037,40 @@
         },
         {
           "date": "2026-06-01",
-          "usd": 92.47
+          "usd": 92.16
+        },
+        {
+          "date": "2026-06-02",
+          "usd": 93.39
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-06-01",
+    "as_of": "2026-06-02",
     "regular_91": {
-      "avg": 3.263,
-      "min": 3.099,
-      "max": 3.529,
-      "count": 69
+      "avg": 3.264,
+      "min": 3.029,
+      "max": 3.499,
+      "count": 72
     },
     "premium_95": {
-      "avg": 3.427,
-      "min": 3.219,
-      "max": 3.599,
-      "count": 30
+      "avg": 3.44,
+      "min": 3.209,
+      "max": 3.65,
+      "count": 35
     },
     "premium_98": {
-      "avg": 3.542,
+      "avg": 3.533,
       "min": 3.349,
-      "max": 3.609,
-      "count": 9
+      "max": 3.619,
+      "count": 6
     },
     "diesel": {
-      "avg": 3.135,
+      "avg": 3.097,
       "min": 2.759,
-      "max": 3.299,
-      "count": 82
+      "max": 3.3,
+      "count": 76
     },
     "lpg": {
       "avg": 0.0,
@@ -2070,8 +2078,8 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 147,
-    "observations_yesterday": 9,
+    "observations_today": 144,
+    "observations_yesterday": 37,
     "observations_older": 0
   },
   "mbie_waterfall": {
@@ -8632,6 +8640,24 @@
     ],
     "global": [
       {
+        "title": "Oil Market Risks May Be Underpriced, Says Vitol Bahrain Chief - Global Banking & Finance Review",
+        "source": "Global Banking & Finance Review",
+        "published": "Tue, 02 Jun 2026 19:41:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUG1JOWdnS0dVLVp4N0FnTmpUaXZuN3A5cjFJQVNQQjJqUDhrMDFLQXFkeXJtTGpxS200U25nOENTT2dEQmN3cjhaaVc5bHZjQU1LUGtTOWVzVGJkQ0ZBZkJzTUh1NmNVSVlmV09IYnlpOHp4TjFKODJhOHJYYzVMVzRpZ3FNdXItcE9hOVF0dUNROW9OdUE?oc=5"
+      },
+      {
+        "title": "Why are oil prices up today, and will Brent futures and US WTI crude prices continue to rise or decline ag - The Economic Times",
+        "source": "The Economic Times",
+        "published": "Tue, 02 Jun 2026 19:36:31 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOZmZWSTRISGczUTBULWJ4bExfdTI5d0dWZTBIV1luakZwR29fdTg2T3BoWmMwb3dZN0hvb29HX1NvcFBTWUcwVUxNbzlfX0JFb3c0Tm5UaWlPVHFHSXJtMzZwZHliZHFtckdHc29BYnkyMngzUW56SWVtanJwLWZiN3lpajZaSTNWcUxJOW9SbUxiRVZ4NzZveEI0X1pERmdrMVVTOFllZE9pRG80MTZwbGJxZ0Y3U1NiZkxIQXYxSmhORFFVNWcyOE9Ka2wtQ1pHNm9aR21iOUZGY0xvamd2Y0xvQ3BldUd2cjRiSndtRE5COGJPLUpjQmdwNzAyM0JwYkJPTzBnM3VsUGlacnBud0FaWHBFTnY2UVVhZE9XSEg0QVpvb1hlelRiS0taamxQeEREWC1MR20tNGc4WHFON2V6NTRlalFyMUdySlFoNnJCWElSZ1JNWS1NMkU4a0ZGMW1ZNHJzSjBFVUdRUDVVTXQwR0NaS2Fa0gH-AkFVX3lxTE5KWHB5eGxPTWZlVXFkX1Z4cjRKYU8tamNHeGwwNUtCTkU0VGNpSFFMQ29qeXVuNUZJalVEVEJWTjR3TV9oMXdLWFgwLWlodzRPcGlUWlpaMHpZU25xR3dHNFgzdTBQckx3dDRWSGdqVFZUMzMwQnEtT01hY245Qlk0c0hnelcwcVZETEhkcElCRzNLSXp2OFdHU1BPYVEzOERqYWEtWnRURTdWd2p6WS1oNDRVcWlacFVLR2hXY0t6d0VtX3FmajBTUWl4Y2s4cS12bC1zNmh2RnhSbmtQVEZQY2hxWmxUeVBIbWVlRXhLNmx1NEdHUlpKN2ROSDViWlo5RlhMYzNaamFKN2wzTFpOTGFrVDZQNWVRR1N0T2QzUEowbmExTFhWTlZ1bnFGNno3NVBETWFXaThuOHZmeG4yaGRnQUNxamxLT1dLR3ppZ1BGMmxlbTdKU2RNOW1TRmdmQ3U3WnljZlRLMkR3RzBGeGF3cmZaUmV0N05tTEE?oc=5"
+      },
+      {
+        "title": "What Hormuz Is Teaching Traders About Utilities - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Tue, 02 Jun 2026 19:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcEdVM0ExZ3NoODFDMVFUSDdzbnNXOHZEZktObFBxSHpmR3ZIaGVvNkJJT1plcVR4RTl5Unc3NkwtN2pLSzBTQmhMS2h5dU93Tk9HbWdFdk4xZ2MzUmh2dFR0el85NW5zbjRsRkdTVXg1NVlmWURDWlNYRXctdGFvTHkyeGstUF9sYnV1ZVBoYzVjaW5YR0o1dFU4a9IBoAFBVV95cUxQbGpiVkltRHk5OTFGY0J2UUFlWmU5UDdWZmthWlFvSXRnZ3RIQ1Y2RkhnSGcyZjVsb3dGMUozYmZ1NVBnLXNaUU1sRU9naHFIOENVME5hdGFrcmtPMmVXc2NaQ1gzZkpRaTVLLVNYeGJ0Ui1QSlZZVTYxREV0NnA1VDNWQTNoYVpHR0dFbi1nZ1Z0czZMTjFqcktqd2NDbFZr?oc=5"
+      },
+      {
         "title": "July WTI Crude Oil Contract Closes Up US$1.60; Settles at US$93.76 per Barrel - marketscreener.com",
         "source": "marketscreener.com",
         "published": "Tue, 02 Jun 2026 18:44:13 GMT",
@@ -8660,24 +8686,6 @@
         "source": "NDTV",
         "published": "Tue, 02 Jun 2026 17:41:09 GMT",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2x6WVRSN2s3ZUZwMDNuM2ZxaGVyMHZON0NGZGUzaVNfZHk3SHV3MU43NEY5THVwNjM2WFlHYkxGQ0E1MUpreW9Ea0VrZ1JzQTJkdWNMT0YzY1dud0RBdjF3MWJocE9BVHc3a3dhMElqRjk4RzZxTmlqT0JBZWN1Q3JjeFdXdGVDamtrUkExRjh4SndkRVdQTnhZdFRPeUtJNjhObU0waFp2UTBUeGtrd2JR0gG6AUFVX3lxTFA0YWNYNkRXMUR1bzVaa0dVSjdJUmJnYkMyczk3U25fLU02Smp3ZmJRMzRSM0p2a0IyR0Q3RWhpQ0dPUEdta0JsSXRNY0QyX25tUmt0bEhyY0VWb29PcmhNVmtuMnZPeXl1MXVsYVI0Uk5pRGxyVnVQMWh2dnY2STdlNnc2ZGZ2MnZQYjhRY1g4OVVOd1lRS1pmX1VqNVI1MHVoc2NrNFdkLVdfNElGd1lsV2dMRHJkNWJydw?oc=5"
-      },
-      {
-        "title": "Some Relief for Drivers as Pump Prices Fall in all 50 States - AAA",
-        "source": "AAA",
-        "published": "Tue, 02 Jun 2026 17:17:45 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbWNucFE4cF83WXNDdXkyalRFMGhkU3hmM295REREakRWaUlMOGZOMHZXZ2RaNVQ4R1Q3N1VfTlJud0N1STduLVF6YkUzVHNNZ2tJYjFCZEZldGdLa0JXcENVcm14eXVpT0t1NmFreWJXUjVtMllGQWtnLUlteVRWbXl3ai1YMGczMmluT1RjandKZ0U?oc=5"
-      },
-      {
-        "title": "US wants to end waivers on Russian oil sanctions as soon as possible, Rubio says - Українська правда",
-        "source": "Українська правда",
-        "published": "Tue, 02 Jun 2026 17:05:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1bDRlX05fZERHY2sxOS1aV0hOdXRnaTNpMmlsYW1aQkxMb09pbFlPd2c5WG1jaVo0eC1RVVk1aHhNSFRDcUViZnEtZEFJMUJtbHJRb25lQW9pelQtUjZYM042b1nSAXBBVV95cUxQeS1zMklUV093dGVaVmhiVWlEcGpLb0haelR5anMxTEtfQ05NV2dmaUU2Qk1nck1UaXhBYU5oeTRQMFU3RWlYNjdqWG5EYlJnUXprWE1qZjF5a0FJR0theTNFV1hGWWp4UVFVUXRidzk0?oc=5"
-      },
-      {
-        "title": "Why Goldman Sachs Expects Brent Near $90 Even After the Strait of Hormuz Reopens - Crux Investor",
-        "source": "Crux Investor",
-        "published": "Tue, 02 Jun 2026 15:49:32 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd2lEZXpUaW5BTkNNaHJ6Uy1QZGQ5ZEd2M2FhRVUzZVVZVVVJOGdCNG1PdzVnajRveWFlVy1xTzFrV3hmV1BZbjEzU1E5ZFhibll4VmllQ3NuNE1vb2daWXpUUDF3NGFXN1hZSEljU1lGY2ZLeGhQNkZ3d29ldnFsdkluMnN3QnA3U0lYcjU2cDBrck9mZkdYeVBHZDlrc0hnMDVvM3RHdm4yemt6V3V1WUpqTnQ?oc=5"
       }
     ]
   }
