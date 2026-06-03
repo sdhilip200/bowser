@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T22:04:15+00:00",
+  "generated_at": "2026-06-03T23:58:44+00:00",
   "fx": {
     "nzd_per_usd": 1.687836,
     "as_of": "Wed, 03 Jun 2026 00:02:31 +0000"
@@ -8640,6 +8640,18 @@
     ],
     "global": [
       {
+        "title": "US oil stockpiles hit lowest level since 2004 amid Middle East tensions - Crypto Briefing",
+        "source": "Crypto Briefing",
+        "published": "Wed, 03 Jun 2026 23:54:07 GMT",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeGNaV21ZRF9obW11MFp5azZhSEpoZjFmZzBkVzZIRU9kclhxQUhXVDVmeWR3bURPQlBWbjdhLWlWc0RZQmFQU2daeEs2U0RLMEJOMzY5dEtwOVBfWkg5R2dabzUwUFVNTDdFQ2p4TFRSTzFydnVQT0R2UXZoVWVNUkE5dFlHZWVVd0dITVM1WE1hRlR5cmstQkZnNFF4bzNf?oc=5"
+      },
+      {
+        "title": "CME : WTI Crude Oil futures reached 97 amid Middle East tensions. - marketscreener.com",
+        "source": "marketscreener.com",
+        "published": "Wed, 03 Jun 2026 21:47:23 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRlEwRjRRR2FWMUdKU0FMWHFaTXNHSkQ3cm5kc0lScUJub1A5cXNSRkx6RFZhUndvWFFNWGJlVnlIZWlESklLNnBVZjZEUmtDaGVQLUJ5S3ZsMklSbk1zT1c2V295TlQtUUktSUU1d1NydHYwVjFuMkhjcWo2VkEwa0VKOFQ4ZlBvNTZvZWFITEpselIySGttbzhtY2toTkN6ZzBZdk9qbHlKcXMyYmxXZGJ6dVNCZw?oc=5"
+      },
+      {
         "title": "Oil Rises for Third Day as Middle East Tensions Escalate; WTI Tops $96 - bloomingbit",
         "source": "bloomingbit",
         "published": "Wed, 03 Jun 2026 21:46:13 GMT",
@@ -8650,6 +8662,12 @@
         "source": "Energy Intelligence",
         "published": "Wed, 03 Jun 2026 21:18:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yRERKSFZza2w4TTVub0k0bzFyRGJ6NnpVT0RkWkVBRDE4TVJ6UTU0VVFtU2VYaloyZmNyZEh5V3M0aUt0WW1qUkd2a0NBcFM3UVcxSTdYR2NDcWttRllmX3E3eXNrdEZpSkRhWU1pdGEzUQ?oc=5"
+      },
+      {
+        "title": "Oil Prices Rise as Iran and U.S. Exchange Strikes - The New York Times",
+        "source": "The New York Times",
+        "published": "Wed, 03 Jun 2026 20:16:39 GMT",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UckRQYmRvV3dFNEJHU3RFUWJRSi1hcWVTMmFLRk1xZXVnTnN6MEswMXJmdXYxSnZuOVF4YkY4YU1hWEp0ZHBLY0hwX2RQTHpPTnRDODA5Z1pwNmR2ZENnYzJHdUxEaUtKdmZZZUFUOTNDZERob2Z3?oc=5"
       },
       {
         "title": "A Barrel Trapped Behind Hormuz Isn't Spare Capacity - Crude Oil Prices Today | OilPrice.com",
@@ -8664,28 +8682,10 @@
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcGpkYWNVaDB0SXVPZ2loR2xxcURiVzQwTmVPUncwZldSMEl4YzZjN1Q1S18zS2lQNXlPU3BRR09ISWxsYlVPOXRDdjRlZkh0YXE5Ym12S0l0MXVlZ2g3WW1vSV9xbW9Tak5ZV09LSnZJSkhYSkZhZWg0YTdLMmxLM0FyNmItaEY4QkhvUGRB?oc=5"
       },
       {
-        "title": "Russia’s Oil Is Getting Hammered - persuasion.community",
-        "source": "persuasion.community",
-        "published": "Wed, 03 Jun 2026 19:00:58 GMT",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1seThpa2RVWk15WXlzOEFITFZvdlJ0MHpqTDJGbFNiNFRtd3JfRDUxUWJBX0o3Zm9sRzhBM3JacXZmb1p5YmJvUlR1ZzBObWVxZTF0c19iM0RUbFZXNlhrU2ItWUd3S3lrYWZsS0cxaklrQnVC?oc=5"
-      },
-      {
-        "title": "July WTI Crude Oil Contract Closes Up US$2.26, Settles at US$96.02 per Barrel - marketscreener.com",
-        "source": "marketscreener.com",
-        "published": "Wed, 03 Jun 2026 18:40:26 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWm5sdDljdF9aaVoxUEV6blhSMWlJNDlyT2hLcFhRY3M3bzdhWHpvWnN5TExPRk51clpzeWotWGRwQkU1Zl9wakEtWm9MVTJkY05qM1IxY3M2eXFPWWFWRGlocTJfNmh5U1ZmNDZrMTY0SF94THRjVU5YSmp6akMta0tZbXdIV2xKMTdIQkNXYldHQkVycVlIa3ZoNUY5Y1E3NFdRQ0FUb2NZNmhHTlo3a3EtY0RHWXZpUVVsd3pvRFlZRWtXdjRJYw?oc=5"
-      },
-      {
         "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
         "source": "LiteFinance",
         "published": "Wed, 03 Jun 2026 18:34:08 GMT",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
-      },
-      {
-        "title": "WTI Crude Oil rises to near two-week high on US-Iran uncertainty, EIA stockpile draw - FXStreet",
-        "source": "FXStreet",
-        "published": "Wed, 03 Jun 2026 18:27:08 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeFBSRWdBVC1YajNaZ3hpRllOdnhvU2lkUkJweFB6LTRhcFVMRlo5M1FfYkhMX3FhSnc1bG9Nak11T01rX1ZBcHIwWVNPR0pvVDItNlJkdzFnWk53WV95N3RGRXFUSlR2eUNXcnUtRmdfaFI4cmttT0tPRXFGb2ttUjlHLWNqZTNlcUNnVkF3WXEzempfdmg5TlU3Q2I3WlNqMDR3MXBZZGdKSXFicTctY0huV1A2Y1ZneEdYTlFrbTBWcHhH?oc=5"
       }
     ]
   }
