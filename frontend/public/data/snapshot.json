@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T23:59:53+00:00",
+  "generated_at": "2026-06-03T05:06:32+00:00",
   "fx": {
     "nzd_per_usd": 1.684057,
     "as_of": "Tue, 02 Jun 2026 00:02:32 +0000"
@@ -8590,6 +8590,12 @@
   "news": {
     "nz": [
       {
+        "title": "Diesel stocks fall sharply, but government reserve shipment now bound for NZ - RNZ",
+        "source": "RNZ",
+        "published": "Wed, 03 Jun 2026 02:37:11 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaGhGdjRjazVzbGkwOEFHYVY0SXdDcm12QzNIMk5QZ0huOHVEMElHVWY5d3M5Qm1sYTBTUnVDZDVsUzFpZ2VWbkZpQ21nQUNxdGVuc29hUVhhemh0Slo3NVFjZGlaMmdZQWEyY3VtM0c4d0FNZlJEREc3d2xqQkpTcHZqaUJrUjNrcEdkNWxxeEhyUDY1MzBHT0FEY1dNU3pYWVpyZm54VlZXTEFJTkdnSTdPZWFxUnEwLWJJ?oc=5"
+      },
+      {
         "title": "Fuel stocks remain steady, extra diesel en route to NZ - 1News",
         "source": "1News",
         "published": "Tue, 02 Jun 2026 23:17:39 GMT",
@@ -8600,12 +8606,6 @@
         "source": "RNZ",
         "published": "Mon, 01 Jun 2026 20:47:29 GMT",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbzlvWlJmbmpnRHM5d25rbTUzYWROTFRIMXJJSmtRR0RyZ1BJY3hWWlJob3huWEZyWkZ1NERpOTJXd2xLbi1iaWRMb2xzWTcwZWhzazc4azQtMHViVVFDcUZKSnZ1WTZtTlBOT0h2X2FkZWpha2FiU1ZhQ0dPUkVUdXN2eTd3TjFRdFBxWVNVcUEwRnhrTlBJSWU1UGYtcTRjRFhtTFNzeUJzMS0y?oc=5"
-      },
-      {
-        "title": "First shipment of extra diesel reserve bound for NZ - The Post",
-        "source": "The Post",
-        "published": "Mon, 01 Jun 2026 05:09:02 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONkJLdkVBM2lDQWRaUjBpb3JNMm5idEdwbXp1dFlxT2M2cnhLZDlpM3ZGYnk0a0EwY3UxUXdUazJKa0VaUUlGMkhHX2R5Y3I0LXVMcjJKX0Q0aEdlTk9WREhZNE5mVzJnbzNuV0xlUS1pNGR4UENUaTRGcHlnWkRVRGNNT3dJaDMyR2MwSFl0bmJkaW8?oc=5"
       },
       {
         "title": "NZ fuel security risk: MBIE says stocks fine but no plan B - b2bnews.co.nz",
@@ -8640,52 +8640,52 @@
     ],
     "global": [
       {
-        "title": "China Draws Down Billion-Barrel Stockpile as Iran War Cuts Imports in Half - Crude Oil Prices Today | OilPrice.com",
+        "title": "Brent nears $100 as Middle East conflict rattles markets - Middle East Eye",
+        "source": "Middle East Eye",
+        "published": "Wed, 03 Jun 2026 04:41:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWVBfdjN3NjktZE9DOFVuZ1VxUEhCaGVoYjVwdlBSMlNWM0Zld3ZLNG9SVk5Ub1I2ZGltb1VKVHRTV0JhMVBiRjZFNTh0REZFTHZqRTExNElJTkRGSmpfTWdlN193Z05hUFY2Q3pOZE4zRlBBenFNSE5YTEFSdmh1dkNTYnJQb3RYbEk3NDlrN3VWWGlZbDB1Z25oSUJQeGFQVkROYXNsVFJNUmczWkVxX0kzUVhxektweUZYazJEQjZqeHc3WFZqNW5YWkJaUlNiTVdacmZoSERFU0tVWEY1ZnNaMXYtVVY1QUtPMmNn?oc=5"
+      },
+      {
+        "title": "Brent Climbs for Third Straight Session - TradingView",
+        "source": "TradingView",
+        "published": "Wed, 03 Jun 2026 02:50:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNmwxeWZ3TTIxTURqbTBOR2hDRHRkSzFUa21oUnNTTVN4S1AtZkdzTDBpcDA0SmVudy1nbFE4SFNuN0VROUkyM0dpLUw1bG51cDhyZUx3T2QtNG9OeExuLWlGOFBrV090RDgxTGFJN0ZvWENUNGpXZ0p0QXNIQlVZbUxKVjVFNXVqNzloT2c2QjBiTzhK?oc=5"
+      },
+      {
+        "title": "ADNOC: Global oil prices could rise again in August - IDNFinancials",
+        "source": "IDNFinancials",
+        "published": "Wed, 03 Jun 2026 02:20:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeUo5VmFrWmJSa0hSYVJySlJQcWN3Vk1tS0ZPemYyb3BTcHZWOFh0MDNvLUIzT2VKTDJ6R3lyOFpOSEthWV9rZGhSZVpqTTBEaTNPbkM0ZGQxWmlvOW5GWHFJdHRfbk1CMm1tdXM2a2ljRHVVd0Y0OERoSmUyZmppVGd6RkY5QlFlR0h1a3ZyaHdQN3JJb0E?oc=5"
+      },
+      {
+        "title": "Oil Hits One-Week High as Brent Tests Path to $100 - Gotrade",
+        "source": "Gotrade",
+        "published": "Wed, 03 Jun 2026 01:43:29 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdlFLdzVvcnBYVVhRVUpYSC1XQllXM21aVm96eDF4V1lkTXA2MGxOcnpuUElNWHc0UjJvQ21vQmRoOERWMUphRkJfOVhxcUtRSDI5c1M4U0d3NDVQZjNQWEdYZzg1SDZ0eW9lZC1rbXdvbDJqM3Jlb2FkRDZuY0lNVjZDMjRrMEV2TEtaYw?oc=5"
+      },
+      {
+        "title": "Oil Prices On June 3: Brent Crude Nears $97 As Stalled US-Iran Talks Revive Supply Concerns - NDTV Profit",
+        "source": "NDTV Profit",
+        "published": "Wed, 03 Jun 2026 01:05:36 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQ2IxaVVvbk1OZE1ubHI5ZEZTMmJXY2ptNlprUmlLV2IwOFBKZ3RHRHVFQVpBT3hGLURRUE1ZR25IMlVXdWZOQXJOWlJpN0tMYkswV2ZfMGN1RlJXYURuamdnYWVDWjVqR2VWNlFJZ0RTaFdnLVRYZk5jX0MxS29nTjdITlNYR0YxVTV3bFRKRkVRQnl2ZW4xS09EZVFDMnNKSFViWUJIRUgxdEdkVDNYVGtmS2diUEhtc0pQRm9sQkV3WkVacEVwZll2UFNEZ9IB1gFBVV95cUxQLVRfY2dON1N6YnA5eVYxdmp4MFVvcER4Q1FabkJNOUJPXzdjcV9uclNidG1rWWlMSmdPb3pDNU9WTGlJdndNTG1naDN3WnNqYThjNmlaOTcwZ2ZHVmtVQlNJcVh3NWdqQjNPQV9vdEloVXZldWMzTkVQX3lKdVNzV0EyZ254dTZDelBkTjN0eGZ0X2did3pJVnZKMmpINEoxamRYYU8tR1RxV21LSEdFWGdmMGh5R2FmTkJocHNwU3FHcFFSWmVYajRySVpxZi1jTTRrWHln?oc=5"
+      },
+      {
+        "title": "Energy markets on edge as Middle East conflict escalates - Latest news from Azerbaijan",
+        "source": "Latest news from Azerbaijan",
+        "published": "Wed, 03 Jun 2026 00:55:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX08wWUI4ZDZTU0dJZkdpelFBb21XaE9QS2FmUUFJRVY3OG9JRFpaLXFrYVhSekcwd0E4ZTduWGZPYzZIc2dUMWtZalhzRklwMWtKejJGRUhCTTE0RUp3VjRPc2NFNGNVUzZ3U3FrOVAzYWNxcnhPUW8xdjJvZ1poX2thUQ?oc=5"
+      },
+      {
+        "title": "Oil extends gains as Middle East hostilities flare and talks stall - Reuters",
+        "source": "Reuters",
+        "published": "Wed, 03 Jun 2026 00:36:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRktPRENWZHRDVGluSHgybDl4djZHUEhxNDJOdzVFRjR0NzFNV3BlemJvLUxCSTBfeElPN0lBQ2FWVnNra1owTi0tR05NM3JaVnhDQzBxMDVUTVJhQ2ZPQUY5QldBa3hfbnJRLTlINk5BQkN3djFuVWlUVTFSUFJjd0Y4eWpCbXFmZ2k4b0xoRFhjcVAzLXd1MFZlSXJ0b0kxOUppUEwtN0JSdU91ZWVzM1RtMA?oc=5"
+      },
+      {
+        "title": "How Long Can Demand Destruction Keep a Lid on Oil Prices - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Tue, 02 Jun 2026 22:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbTZxQUdpcWNDVkx0Q0NMVTF4ZS1YeWRkVlpaYUt3WjVkdVAyYl9sNVlXSXhrVTZsTGhORDdQQUIwT1VQQUx4Z280MEVQbkNmbzl6X3RIQlVPT2FNUGlFM1JiR3pNTW9NOHJEZzB2U2pZTGw5bTFfdmJwX0FQM3dTdDFKLVJoNFQ2SW05OGZySm5tMUFHY2VoalBOUGo1QnV3X1N5eW4xN1VGY0FYbzhVdnFJbTJSXzlP?oc=5"
-      },
-      {
-        "title": "Rubio: U.S. eager to reinstate Russian oil sanctions - The New Voice of Ukraine",
-        "source": "The New Voice of Ukraine",
-        "published": "Tue, 02 Jun 2026 21:19:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUFhUSEtMellyQ3JPdjZkcUFjbVlIdUhyRmVhSm5Vd2liSzhqMkdlMEpXbkhOTTJ5dmxYNlZJUGZxa040WENnSDRmLU1sTm9zYXB4eWgyTGxmTk5yUGRrWG5TVUFNSkJrUnV2LVRvaVI3dFFhb3J6UzhuVmpjYWg5b1R0R21VSV96NmxORmt0a29UQWJvTjg3ddIBlAFBVV95cUxOeW4xNTVKTUlOMy15R2FzZWUzVGN2aUxwZjl2SnQzS1Z4NUZySnltTG5QOUpoY05uNEF3MmRkYzJqNk5vUlNPclhwM0JqNGpicnZrM1JmZ1liRGMtTGdUWXFab2hpeVFZWDVURC1kNUpWTVFqQW53V3hieDdIWGpVaVhub2RWZk5pd2RKd0dWM0NvVDBY?oc=5"
-      },
-      {
-        "title": "US Crude Oil Inventories Continue Downward Plunge But Gasoline Surprises - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Tue, 02 Jun 2026 20:59:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWFZMRFR5cVUtcWhfdkJNMVo5Ynl3WkEyb2pfTEJ6bzdTckNqcWFDRmZMRVBBWVpPd1hfUkl2RmtwT3kyWHlkVGNLanBwLWdSNmVFX1dia3hibnpfQjhqMjdwZW5La3ZaTGo3b0FDX0doV2hUN3RIZEZCYVRBV25hX2VLTlhYa2hITzU4Z21mOTNTSnhIWjFRS0Y0OXNlcEFWZHZXYTlTTjhkVVRwTV9LS19ZSXF0UdIBuwFBVV95cUxOM1BETzlMcE1JdFpRXzRHempmbDZSQjhua1k4U1A5RHhndENjdFZGWk5jRzJvUWJTUjlabXZLdHZKWDR0X0RiVlRYRGNmVlZXQTE5X1lUMzUzcXk4dDEtMXRkbXU0dkFfODN3d0ExS2pudmF2MFVzNW1lYnF5QTItZHdYMldJM0FXUlVxQ3VQZzRuOS1EelNfUnp4VXhoSklSeWZxbFNqX0l4OV9takVvTjYxYjIwLTZnSnc4?oc=5"
-      },
-      {
-        "title": "U.S. Propane-to-Crude Ratio Rebounds to Start June - RBN Energy",
-        "source": "RBN Energy",
-        "published": "Tue, 02 Jun 2026 20:38:17 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUFg2eF9iT0RaejlDZGRJQ0VkcFhHajdhWXllYkh2bDFWa1l1RXZkMThrR2s5SzVQQnRxMGRHUk5tclljNGFITW9WNng1TTZkck5rYWFQc0pFUkVwRHB2Rk4tVzh3TEtJcUVSR1Y0alhoTHI5YjV6UDNHUVhLTjZ3QnRjeWVDX19YemNlQmM1VGNWemxrSF93?oc=5"
-      },
-      {
-        "title": "US wants to end Russian oil sanctions waiver: How it will hit India - India Today",
-        "source": "India Today",
-        "published": "Tue, 02 Jun 2026 20:27:20 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRHJ5SDZSbk02Qkt2dWZTdWNHY1NTcUpVNzk3Z3h4MWJJdlNIN0RTRTVGU0JPVDB5SEJ3VDdyYWJPWk01X0ZkRzJMMWI0aTkxd0VOX3hPRVNtd1FWUDBHN1RDTFVKQ0RtNFNXRjN2bldodl85R25XQ1VkNDRXU1pPUjJHUzZBUEl2YUZpMXBTTllIajFuT0pLRGdEREtENU9GUTFmaWxqVHQtWWhUbGh1YVVLM09VMkREc1NyNDRNR2lpT2ZhY3BvaE5LQWluWVQ4NHM5X0djT2wxNk1CS0xublJKbnJ4Y0pRT3fSAe8BQVVfeXFMUE40S3pjTlFLZkQzMldjRzJ6VjhVRExIdENQdVdWcFpya3BmSHhuZjhYbDdKZlprOVNRWkdxTXc4dlVSWVhDMFlUUFROMDdBUXRzV2RIRHVVb0Q1aTBPWUNMZzI2SnRxSU1jbXVtTW5QbDlHWWNYV3F1cUNaUmVRTlRzNU1xMkVlaTFMMkxxSEdtVDljTm5sb1dYN3ZEMUFSWTNqWEdRcFhxcW1UQ3RoZGZkNGotMFpTY011MXQ3blZ4Zzh3WFFTdU5pS0lNMzVFMy1wYlpLQjRDajFGNlFqRkR2eXhHTEJxWFFEUl9ZOGs?oc=5"
-      },
-      {
-        "title": "July WTI Crude Oil Contract Closes Up US$1.60; Settles at US$93.76 per Barrel - marketscreener.com",
-        "source": "marketscreener.com",
-        "published": "Tue, 02 Jun 2026 18:44:13 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU0ozM0N1QzZoLTUxbWtxMklOSzg1QnBjazc1dWZfTTEySnNfVDBSWHQ5aW9kaWFTWGZFN1hmajV5YWh3UUZjb0FUekRyWldwd09wZ1prQ0pnSmVoQ21yZ2VtTVlRUnBqMGlOcTZod2tYTVlzdnNyQzM4ZkMwcE00cDRuWnR1TnZVMDJmUjRqbHhPcHZlYk1ZckFWd0pqc0d1RWxrUEVQUEpIaHAtaThtdGRTR2ZvUVNZWEZ4V0pGRGZQSXhJWUg5Mg?oc=5"
-      },
-      {
-        "title": "Vitol executive warns West is ‘asleep at the wheel’ on oil supply crisis - World Oil",
-        "source": "World Oil",
-        "published": "Tue, 02 Jun 2026 18:33:05 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdEJ1TWloZk5ZdGtOVDFQQmNjQTk1WDZJYnQxVk5xcHd4a3I1ZnNMRlVHV0dhVEdwS2Y0T1BPZEt0Q3Z3c0pMRFhNeldSakFDLU5nak1ncU1PVTdKSE9zbGlPU1Bpd1pZVkVhUGFUSVVCQWdjbEx6VElobDd2ZUVRaFN1eGNXWWI4Tml2U1hYSEd1Q0dMM2wwVjdHSmc1Q0ItcnNHck82NnVXUQ?oc=5"
-      },
-      {
-        "title": "Oil tops $100 as South Africa withdraws fuel relief, exposing motorists to a new energy shock - Business Insider Africa",
-        "source": "Business Insider Africa",
-        "published": "Tue, 02 Jun 2026 18:13:35 GMT",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbkl0ZVpjdHJYWVhUWXlsb2xwa1REM1ZKdXBVQUkxOGxfSi1Vd3JaS1JMcTN6M25obXRZWGFfSkFsTGVhek5mdGpEM1dya3F6V1p5LXNCR1RmTzRCQ3YyNjFpWjU1a1NOakxnRndPd2gzODNVOWx0c0sxcUVRYkZvanp5aW9iR0hpaU9jRlVjXzA3enFLV2lWSWlVS1c5Q2tfMEJzWkV6RWw4TnFaeUh5QUd0QVRXdmY3dGstNEV0VWNnTnNtOU1BeWZFSU5LQQ?oc=5"
+        "published": "Wed, 03 Jun 2026 00:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNmd6OW1wSWVlM0FIeWc1QWlRa3FDelN2NlBqOHg0by1hdkhLcDV3UGVibEdiNkhUM0I3UVBnZ0FVb0Q3MUo3SVYyWXhlWkpCcmNBaVhUYmp6WTJJdDdiT3JPemFzc0pjVnVPcXF5U0NCeDY3eHFzbFlSMTJLZUpaSDlweWFtZ3N1b081TGVSTmRNNnU5eFhPdEt3dEppdzYtV1HSAacBQVVfeXFMTTdQVjFCYmtkbjc3dGZfT3VoaEkwaU5qT0dBRFNxM0RtMjdfNmUwMkFURkEzVGJ6czdJT1ItZERoV0FfTE9fLXQ4RlUxdk42azhXUWgzZWpLb2s5ZDFnSnd6WFQ5TnlPT3VXRWN2NndYRE9VU0lPdEtpa0dOYTk0OHY3YVhSX1RLQXZ1Wko0WHJ0aFFRdkdneThPQnp5S3dsMGRYN0paQlU?oc=5"
       }
     ]
   }
