@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-06-03T19:05:00+00:00",
+  "generated_at": "2026-06-03T20:55:44+00:00",
   "fx": {
-    "nzd_per_usd": 1.684057,
-    "as_of": "Tue, 02 Jun 2026 00:02:32 +0000"
+    "nzd_per_usd": 1.687836,
+    "as_of": "Wed, 03 Jun 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 95.78,
-      "latest_date": "2026-06-02",
-      "delta_1d_pct": 0.84,
-      "delta_30d_pct": 0.31,
+      "latest": 98.07,
+      "latest_date": "2026-06-03",
+      "delta_1d_pct": 2.16,
+      "delta_30d_pct": -0.42,
       "series": [
-        {
-          "date": "2025-06-02",
-          "usd": 64.63
-        },
         {
           "date": "2025-06-03",
           "usd": 65.63
@@ -1021,20 +1017,20 @@
         },
         {
           "date": "2026-06-02",
-          "usd": 95.78
+          "usd": 96.0
+        },
+        {
+          "date": "2026-06-03",
+          "usd": 98.07
         }
       ]
     },
     "wti": {
-      "latest": 93.39,
-      "latest_date": "2026-06-02",
-      "delta_1d_pct": 1.33,
-      "delta_30d_pct": 4.22,
+      "latest": 96.41,
+      "latest_date": "2026-06-03",
+      "delta_1d_pct": 2.83,
+      "delta_30d_pct": 4.65,
       "series": [
-        {
-          "date": "2025-06-02",
-          "usd": 62.52
-        },
         {
           "date": "2025-06-03",
           "usd": 63.41
@@ -2041,36 +2037,40 @@
         },
         {
           "date": "2026-06-02",
-          "usd": 93.39
+          "usd": 93.76
+        },
+        {
+          "date": "2026-06-03",
+          "usd": 96.41
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-06-02",
+    "as_of": "2026-06-03",
     "regular_91": {
-      "avg": 3.264,
-      "min": 3.029,
-      "max": 3.499,
-      "count": 72
+      "avg": 3.248,
+      "min": 2.941,
+      "max": 3.407,
+      "count": 67
     },
     "premium_95": {
-      "avg": 3.44,
-      "min": 3.209,
-      "max": 3.65,
-      "count": 35
+      "avg": 3.413,
+      "min": 3.169,
+      "max": 3.599,
+      "count": 32
     },
     "premium_98": {
-      "avg": 3.533,
-      "min": 3.349,
-      "max": 3.619,
-      "count": 6
+      "avg": 3.62,
+      "min": 3.419,
+      "max": 3.879,
+      "count": 8
     },
     "diesel": {
-      "avg": 3.097,
+      "avg": 3.114,
       "min": 2.759,
-      "max": 3.3,
-      "count": 76
+      "max": 3.998,
+      "count": 75
     },
     "lpg": {
       "avg": 0.0,
@@ -2078,8 +2078,8 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 144,
-    "observations_yesterday": 37,
+    "observations_today": 139,
+    "observations_yesterday": 34,
     "observations_older": 0
   },
   "mbie_waterfall": {
@@ -8596,12 +8596,6 @@
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPay0xNDluTW4wOU1sb0ZvWlFyYVYwaUtzYS12WXpCUU9iZVlxVE5zdHFPM1FhQWRHckgxUzNXaGY0STBSOURSc1B3bnZQa0JFQjBTWkloUUZ1VnE4b0tGSEt5clpBMTNOaG55QjB4MlhFbnk1WHpWQV9sN1RWdEp4NGhJQTZBVUIzVV9sWnBEQTRlZ29jUUx4UFJIMzIyZw?oc=5"
       },
       {
-        "title": "Aussies help ‘prop’ up Auckland tourism in 2026 amid global fuel prices fears - NewsCop",
-        "source": "NewsCop",
-        "published": "Wed, 03 Jun 2026 04:00:26 GMT",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zNUZ2M1dRd0tFbDZMeWxzZnBXa1hhelBZRmtLRUwxVmpBWENQYU1ISXR1OUJFTkpJTWwxRTNRb2xRck9JZW1yTHNvVE91Q1hheHhtVlZocjcteElVb1JOWWI1dVNNVnItNXFzdzhPOHZENnlYRFE?oc=5"
-      },
-      {
         "title": "Diesel stocks fall sharply, but government reserve shipment now bound for NZ - RNZ",
         "source": "RNZ",
         "published": "Wed, 03 Jun 2026 02:37:11 GMT",
@@ -8620,12 +8614,6 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbzlvWlJmbmpnRHM5d25rbTUzYWROTFRIMXJJSmtRR0RyZ1BJY3hWWlJob3huWEZyWkZ1NERpOTJXd2xLbi1iaWRMb2xzWTcwZWhzazc4azQtMHViVVFDcUZKSnZ1WTZtTlBOT0h2X2FkZWpha2FiU1ZhQ0dPUkVUdXN2eTd3TjFRdFBxWVNVcUEwRnhrTlBJSWU1UGYtcTRjRFhtTFNzeUJzMS0y?oc=5"
       },
       {
-        "title": "First shipment of extra diesel reserve bound for NZ - The Press",
-        "source": "The Press",
-        "published": "Mon, 01 Jun 2026 05:09:02 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTFZFSDhLZFM3WmIzTHJBVTJXZnVwNGYtam9CV28zZ1UtQ0JnN1ltSkltUmM1ekxuLWlDZmUtZ1RtWF9DY29fU2pwSER6LVFPQ2Vfc2lOemVNRDVGYUljXzZGNm8tZlVGbERNTEQzSE5ZUl9iM0oyVnhMeGJROHdTLTI3cW9sc2VBdGxZTTBXekFDcmhF?oc=5"
-      },
-      {
         "title": "NZ fuel security risk: MBIE says stocks fine but no plan B - b2bnews.co.nz",
         "source": "b2bnews.co.nz",
         "published": "Mon, 01 Jun 2026 03:04:19 GMT",
@@ -8636,9 +8624,27 @@
         "source": "Stuff",
         "published": "Mon, 01 Jun 2026 02:39:02 GMT",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVmFwSWpfc09td0Zncnp0Y2o3X0dkckNzTmE1Y08tby1DS21SS1UwY205LVlHVFVDQ3dBV0gyZER5dmVza3lCel9WVnVTeXBreVk4VTFqOF9FZ3NIcXI2MFk1VFEwU1ZSbWl6dTdJYjVrWE1QN2ctRVAwR2x5bjlnMVZLTzRYZE9IT3V4NEhNc2QzU2Jrd3dEamdKM0JIeEU3ZDVObm1MVC13LTVYTlA5OUpSc0h3V0ZCMGc?oc=5"
+      },
+      {
+        "title": "How NZ’s fuel stocks are holding up amid global tensions - Newstalk ZB",
+        "source": "Newstalk ZB",
+        "published": "Mon, 01 Jun 2026 02:27:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSmotMG82dGNqTmI4LWVqdnNFZVc0V0NMUWNsdjFhM2RpN2JLNVhGOWc4bGVjV0VvNzE4OFZaSzJWUjZST2dmbF9Gbkdfc3NOVzN5UmxQY2E1OERpLTBzLTV2VHVTTnVJb0I4SkY2eW4tOHpTUmVyRnl2eEdTbHFqZUN6SXlDX0ZWU3lHa1NrVVVaV3U3aHZvX2Q0QjkzaHozcmlOdHAtQ3p3QkM4ZV9NTHpkYzZ4REhrRXJHS090UEdiZEw3LVE?oc=5"
+      },
+      {
+        "title": "How NZ’s fuel stocks are holding up amid global tensions - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Mon, 01 Jun 2026 02:18:50 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQM3dfYktPLTdOUE5ucGFKMUVnVjBYTVFXMVdjZkJZTHpiR1JPdlJqRTZ2QVFnOWpDYzdOT2JwR3IzQ0NIRFlxMmhhMW1tLXNPa3Z4NzkwbE1BaGVKQlFrY2JteGlVcXRLbmdxMmhud2Y5WkRDRjMyWHNBZUlRSk56bjZwckkybEl1ZlZpcU96cmFPTld4bmU2UEdxNk12bjIxVHktZzF2SU0wcjQxek5KRUJxcjRTQ01vREFYZENtTGNCRFI0S0VvVkYtNmtKWXRYNTlza3J5R3A?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "A Barrel Trapped Behind Hormuz Isn't Spare Capacity - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Wed, 03 Jun 2026 20:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOHpPUTlQY1VYZjNWYVViSnV5QVFTWlhoN2xjZm5ZYzZUZTdwWXNJUUdRc05pamVpRzY0VmJLZVYwWkxNeDRfdElBaHEzSXdSZE40YmYtLXlMTUtqOFRWRXRCdDlKRENjNlRqbFEyTDdHNllRVTBFbWlrRkUxYnpxSHotQ3dNdlFoNWZxRU1PZU15MUZ1Rld6M9IBngFBVV95cUxONHN5WUdIN01MbklVdWR3b0pLRHV5bGRXcHd6YkVoNjkzV0dSMUJqcXJ4eXpTLWtGa3VrczZpamNWUldrdVdVZ0wyRDc2NTR6TzVxTS1KY01wN1dZb1VDTG1LaTZGY1ZpY3c5ZWQ3M2lNN005ME9hRTJLYjF0OFFlS0h4bXdzdkZuM1p4LUMyM19nd1RnZ0QxbDB5Q3Judw?oc=5"
+      },
       {
         "title": "Brent Crude Nears $100 as Middle East Tensions Escalate - Caspian Post",
         "source": "Caspian Post",
@@ -8646,10 +8652,22 @@
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcGpkYWNVaDB0SXVPZ2loR2xxcURiVzQwTmVPUncwZldSMEl4YzZjN1Q1S18zS2lQNXlPU3BRR09ISWxsYlVPOXRDdjRlZkh0YXE5Ym12S0l0MXVlZ2g3WW1vSV9xbW9Tak5ZV09LSnZJSkhYSkZhZWg0YTdLMmxLM0FyNmItaEY4QkhvUGRB?oc=5"
       },
       {
-        "title": "WTI Crude Oil rises to near two-week high on US-Iran uncertainty, EIA stockpile draw - Mitrade",
-        "source": "Mitrade",
-        "published": "Wed, 03 Jun 2026 18:42:23 GMT",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbzVPejRYX2ZOYUphLW1nMzQwbXhiTnVfdjI0NEU4aGNVdlVnRW43Nk1iT0VEeXRQWGduajdqNlVNU0pSdHFiaEJsMHlHT0ZhYmQ0QmtRYkJ2ZzhXRXp4VXg5Qnl5OXlacUNOTFRIWklUcjE4TU5VUWhWTzJxMlBmX2xWQQ?oc=5"
+        "title": "Russia’s Oil Is Getting Hammered - persuasion.community",
+        "source": "persuasion.community",
+        "published": "Wed, 03 Jun 2026 19:00:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1seThpa2RVWk15WXlzOEFITFZvdlJ0MHpqTDJGbFNiNFRtd3JfRDUxUWJBX0o3Zm9sRzhBM3JacXZmb1p5YmJvUlR1ZzBObWVxZTF0c19iM0RUbFZXNlhrU2ItWUd3S3lrYWZsS0cxaklrQnVC?oc=5"
+      },
+      {
+        "title": "July WTI Crude Oil Contract Closes Up US$2.26, Settles at US$96.02 per Barrel - marketscreener.com",
+        "source": "marketscreener.com",
+        "published": "Wed, 03 Jun 2026 18:40:26 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWm5sdDljdF9aaVoxUEV6blhSMWlJNDlyT2hLcFhRY3M3bzdhWHpvWnN5TExPRk51clpzeWotWGRwQkU1Zl9wakEtWm9MVTJkY05qM1IxY3M2eXFPWWFWRGlocTJfNmh5U1ZmNDZrMTY0SF94THRjVU5YSmp6akMta0tZbXdIV2xKMTdIQkNXYldHQkVycVlIa3ZoNUY5Y1E3NFdRQ0FUb2NZNmhHTlo3a3EtY0RHWXZpUVVsd3pvRFlZRWtXdjRJYw?oc=5"
+      },
+      {
+        "title": "WTI Crude Oil rises to near two-week high on US-Iran uncertainty, EIA stockpile draw - FXStreet",
+        "source": "FXStreet",
+        "published": "Wed, 03 Jun 2026 18:27:08 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeFBSRWdBVC1YajNaZ3hpRllOdnhvU2lkUkJweFB6LTRhcFVMRlo5M1FfYkhMX3FhSnc1bG9Nak11T01rX1ZBcHIwWVNPR0pvVDItNlJkdzFnWk53WV95N3RGRXFUSlR2eUNXcnUtRmdfaFI4cmttT0tPRXFGb2ttUjlHLWNqZTNlcUNnVkF3WXEzempfdmg5TlU3Q2I3WlNqMDR3MXBZZGdKSXFicTctY0huV1A2Y1ZneEdYTlFrbTBWcHhH?oc=5"
       },
       {
         "title": "Marathon Petroleum jumps as oil and fuel markets tighten amid renewed Middle East supply concerns - Quiver Quantitative",
@@ -8664,28 +8682,10 @@
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUGVBN1EyZ0xKOURvRndfTkhLMkZWNW5seHVaNGNvWE9TV0dJa0hjQ05ZQzA3TGlpQWk0R2s1bnROQmVnamJ1YkFKM25sTGpIbmRldjRybW02YXlLMFcyNEs4VF9OYVBERUk2M3JLaEkwSGhKM244cTJ5WG5HNjRNTDU1eTQyZmd3TVhCZVczbWVreWd3WmJSS1IzRUl0VzUtYmxORER2U1pyQnJ2Z1F4UFhWRmlGWHdvZzRoRmpqeVZzdWNsaDdpTFBn?oc=5"
       },
       {
-        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
-        "source": "LiteFinance",
-        "published": "Wed, 03 Jun 2026 17:02:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
-      },
-      {
         "title": "U.S.-Iran Draft Deal Includes Easing Port Blockade, Phased Oil Sanctions Relief - CryptoRank",
         "source": "CryptoRank",
         "published": "Wed, 03 Jun 2026 16:44:24 GMT",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOUZKMFpsMVl2ZTdBR0dLTHlyZmZYYlIyRGF0eUJPM0NwdlhVaXhVcV9ERUpSWnRMcUpOTUcxSHoxajdMcnJVNWVCeDV4WG1JaHVXTlUwU0JQN041SG9ybllVSEt6ejhMNVJ3OXN2SlZaRjhuVEE1dUs2S1pGYVg3b0tUaWVmVHo5UUkyOA?oc=5"
-      },
-      {
-        "title": "Plunging global oil supplies threaten to push fuel prices even higher - The Washington Post",
-        "source": "The Washington Post",
-        "published": "Wed, 03 Jun 2026 16:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSW8yR0hNY1dpcVJiR25SUE1CRnZCTGh3Ynk4WTBueUtIZG1WMkpaZGdwbE1ueVh4LWtXd0h0U1hrMEc2S0p0X3k4czJjX09BOFE5Qi1DbE83blZ0Zm02UXFneDROS3lpWnhWa3ZPa3Q0UUZBZlZ1SDVTcFUyOWItT0pKQ3U1SGNBY3lzZE1YSThycGk3UVhWVUFEWEhTSmxTN1lqdFgzRlNYMmxXSXFteFZzRk5JOUE?oc=5"
-      },
-      {
-        "title": "US Crude Oil Inventories in Freefall EIA - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Wed, 03 Jun 2026 14:40:06 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNWhqeXF4QUU0Z1ljODhnWEQ4SmlwVlZNOW9weFVkUGd3bkgxRXBXd3dvVHhoRnlDaDAxUzZyUFpnU3ZWNUZiZWJHN21uQm12eTlTLWlyQ3dYQ1ZqRFp4NTJYSlZUZEVCZzlHVEVJN1VWeFZ3NDBXbDdmWlVYV09LdWRsMFFfWW9HLTJV0gGQAUFVX3lxTE5GbUVNdWNNRWlXUnR1ZjNNQzBjbU5lUXdOZXUydE41dmNRdlIxZjgydGZiZmdJUHd0UXRHellYekliMDFNSlBGLXlheEh2Snd4RjdJbFh6bzBRTXBmc001ZUVnX1FzeTFLWGZMTG9fMDFPbjQ2QVN4SDJyS1o0R0R3NEFienhTTzZ0c1pzMFdiTQ?oc=5"
       }
     ]
   }
