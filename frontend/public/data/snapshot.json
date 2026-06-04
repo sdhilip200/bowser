@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T23:58:44+00:00",
+  "generated_at": "2026-06-04T05:00:21+00:00",
   "fx": {
     "nzd_per_usd": 1.687836,
     "as_of": "Wed, 03 Jun 2026 00:02:31 +0000"
@@ -8590,6 +8590,12 @@
   "news": {
     "nz": [
       {
+        "title": "New Zealand new-vehicle sales May: fuel crisis 'now part of the purchasing environment' - Driven Car Guide",
+        "source": "Driven Car Guide",
+        "published": "Thu, 04 Jun 2026 04:52:18 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV3hhZ0g5SHdPazFPYllhRWxZdFh0X0tXcDhyNkQwMjVHN1otVFpYZE16a25acE1BVmVBT09HdXhiWENodUNQbFBHc2ZLbU9kSG1LcG5qcFh6Qy1jVThWdDZuZXNKQ1hzczZ5UkZ1bXVpc0VqZVNVcEhPNTlMRFNNa1NBM3ZycWdqckJMbVFoSGhjdVpFd1hKZTFsQlJaMk5tT3VucS1zMVFGZFBPZHlYR1RwR2tDY2x5a0tScS1WVWY?oc=5"
+      },
+      {
         "title": "Is the fuel crisis over? Why experts say we may face a new crunch - Stuff",
         "source": "Stuff",
         "published": "Wed, 03 Jun 2026 16:00:00 GMT",
@@ -8614,18 +8620,6 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbzlvWlJmbmpnRHM5d25rbTUzYWROTFRIMXJJSmtRR0RyZ1BJY3hWWlJob3huWEZyWkZ1NERpOTJXd2xLbi1iaWRMb2xzWTcwZWhzazc4azQtMHViVVFDcUZKSnZ1WTZtTlBOT0h2X2FkZWpha2FiU1ZhQ0dPUkVUdXN2eTd3TjFRdFBxWVNVcUEwRnhrTlBJSWU1UGYtcTRjRFhtTFNzeUJzMS0y?oc=5"
       },
       {
-        "title": "First shipment of extra diesel reserve bound for NZ - The Press",
-        "source": "The Press",
-        "published": "Mon, 01 Jun 2026 05:09:02 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTFZFSDhLZFM3WmIzTHJBVTJXZnVwNGYtam9CV28zZ1UtQ0JnN1ltSkltUmM1ekxuLWlDZmUtZ1RtWF9DY29fU2pwSER6LVFPQ2Vfc2lOemVNRDVGYUljXzZGNm8tZlVGbERNTEQzSE5ZUl9iM0oyVnhMeGJROHdTLTI3cW9sc2VBdGxZTTBXekFDcmhF?oc=5"
-      },
-      {
-        "title": "NZ fuel security risk: MBIE says stocks fine but no plan B - b2bnews.co.nz",
-        "source": "b2bnews.co.nz",
-        "published": "Mon, 01 Jun 2026 03:04:19 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb0F1WnM2X25OdFlhVmRWNl90QWRXUnd6cWZqell1Z0Iwa2F3SDRsWGVERlV2bXJNX1A2MGtTTTB1S3JEX05DZ2N2UnhfelRCd01CVkFMRXdLSXQ5NXVqWnFMTE5nWllVc2o4WHdRQVZ5YUZqX3VQVkE3QTFYVVdFYUxuMTZCR3ctdFBMRXh3?oc=5"
-      },
-      {
         "title": "New Zealand’s fuel stocks ‘well above’ minimum as shipment of reserve diesel on its way - Stuff",
         "source": "Stuff",
         "published": "Mon, 01 Jun 2026 02:39:02 GMT",
@@ -8636,9 +8630,45 @@
         "source": "Newstalk ZB",
         "published": "Mon, 01 Jun 2026 02:27:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSmotMG82dGNqTmI4LWVqdnNFZVc0V0NMUWNsdjFhM2RpN2JLNVhGOWc4bGVjV0VvNzE4OFZaSzJWUjZST2dmbF9Gbkdfc3NOVzN5UmxQY2E1OERpLTBzLTV2VHVTTnVJb0I4SkY2eW4tOHpTUmVyRnl2eEdTbHFqZUN6SXlDX0ZWU3lHa1NrVVVaV3U3aHZvX2Q0QjkzaHozcmlOdHAtQ3p3QkM4ZV9NTHpkYzZ4REhrRXJHS090UEdiZEw3LVE?oc=5"
+      },
+      {
+        "title": "How NZ’s fuel stocks are holding up amid global tensions - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Mon, 01 Jun 2026 02:18:50 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQM3dfYktPLTdOUE5ucGFKMUVnVjBYTVFXMVdjZkJZTHpiR1JPdlJqRTZ2QVFnOWpDYzdOT2JwR3IzQ0NIRFlxMmhhMW1tLXNPa3Z4NzkwbE1BaGVKQlFrY2JteGlVcXRLbmdxMmhud2Y5WkRDRjMyWHNBZUlRSk56bjZwckkybEl1ZlZpcU96cmFPTld4bmU2UEdxNk12bjIxVHktZzF2SU0wcjQxek5KRUJxcjRTQ01vREFYZENtTGNCRFI0S0VvVkYtNmtKWXRYNTlza3J5R3A?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Oil Price Forecast: WTI Eyes $100 as Iran Tensions Lift Brent - FXEmpire",
+        "source": "FXEmpire",
+        "published": "Thu, 04 Jun 2026 03:52:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQmEyZmFUQmwxQUN4dE5tWVF0eGhHd3hjRXlGQzhESnJaaUFTaEhsT2cxakRGd3FIbFloNEw2OFAtMWNPU25iY0N1d19CVmpUekhlb1A3WXBIRUNtWTBnZDItUUJTdDhyMlJmbzlyX1IyUnpWQ0pXVFBsam5tWHNCLUN4VHdzSmVqY09mQjhFNnlsMjVTSWcxQmtLRzJPdXkwZ2lPNFRmdjFxLXgxRElj?oc=5"
+      },
+      {
+        "title": "Oil Nears USD100 as Middle East Tensions Escalate - Gotrade",
+        "source": "Gotrade",
+        "published": "Thu, 04 Jun 2026 03:25:31 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZGp2VlE0d2VGZHdtOEk5Mk0tRUNFZld0Mk5ZTy00X0tRYnFXcFJBQmwxLTFyTXlkVGVnSjFOWTRydzc4WFBXTkN5Q2xJdVdPSjNUckpaSERqTjk5SjFFVEd2elRMcERHTHctOTVJb3VkQ0JaZXFpMjJnRGtoVDVqWQ?oc=5"
+      },
+      {
+        "title": "Brent Approaches $100 Again as US Stockdraws Gain Speed - Energy Intelligence",
+        "source": "Energy Intelligence",
+        "published": "Thu, 04 Jun 2026 02:58:51 GMT",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yRERKSFZza2w4TTVub0k0bzFyRGJ6NnpVT0RkWkVBRDE4TVJ6UTU0VVFtU2VYaloyZmNyZEh5V3M0aUt0WW1qUkd2a0NBcFM3UVcxSTdYR2NDcWttRllmX3E3eXNrdEZpSkRhWU1pdGEzUQ?oc=5"
+      },
+      {
+        "title": "US wants sanctions back on Russian oil as soon as possible, Rubio says - Shipping Telegraph",
+        "source": "Shipping Telegraph",
+        "published": "Thu, 04 Jun 2026 01:01:55 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ3hTeUdfWGN1dkVoU3BWd05ZWmdZdEdaR1hGY0xmR2ZsVjNqcGtTNUdQdUFDMVpaRlNwdU1PN3p5Ung4RmtreXJqT1FuUlVhRDJnbUJySFBzYjg1LXM2Z01veVF6bW9QajhqTWhwc1NOVG0ydmlTdC1KNjl6MTNVTUxJUnphd2pob045RnBRSWxiUWxmUkpoZkNoMFZOSUtkZWR4TUJBZW9mYVlWbk5vQy1CNWVkTHhq?oc=5"
+      },
+      {
+        "title": "Impact of the Middle East conflict on Asia-Pacific power markets - Norton Rose Fulbright",
+        "source": "Norton Rose Fulbright",
+        "published": "Thu, 04 Jun 2026 00:06:09 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRXNOMW9zUFFHbkhtd3duYVJUQ0x6ZFdpT25VQlptc3lHSWlBZ1dRcTFzSG5EaUpaV1Z2alZwT3k3dElSbUoxYVI4d3VFZXFNQnZ2MUJlZlIxazRrZFZpSEdfQWtRMjRaS2drQVFTWGVTNWRSdUtJTE1BbkRuRWpFYUpBdTZQREtCNWpBb1ZpRjM4cU9CV3lCTjVpR1pmOU9KV1VoV2hhZ2t2bkpzc2RRb0RPcWxaU3BtdVEwUndJcDZIZG9QeWJ3aTFkODlNUmVW?oc=5"
+      },
       {
         "title": "US oil stockpiles hit lowest level since 2004 amid Middle East tensions - Crypto Briefing",
         "source": "Crypto Briefing",
@@ -8646,46 +8676,16 @@
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeGNaV21ZRF9obW11MFp5azZhSEpoZjFmZzBkVzZIRU9kclhxQUhXVDVmeWR3bURPQlBWbjdhLWlWc0RZQmFQU2daeEs2U0RLMEJOMzY5dEtwOVBfWkg5R2dabzUwUFVNTDdFQ2p4TFRSTzFydnVQT0R2UXZoVWVNUkE5dFlHZWVVd0dITVM1WE1hRlR5cmstQkZnNFF4bzNf?oc=5"
       },
       {
-        "title": "CME : WTI Crude Oil futures reached 97 amid Middle East tensions. - marketscreener.com",
-        "source": "marketscreener.com",
-        "published": "Wed, 03 Jun 2026 21:47:23 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRlEwRjRRR2FWMUdKU0FMWHFaTXNHSkQ3cm5kc0lScUJub1A5cXNSRkx6RFZhUndvWFFNWGJlVnlIZWlESklLNnBVZjZEUmtDaGVQLUJ5S3ZsMklSbk1zT1c2V295TlQtUUktSUU1d1NydHYwVjFuMkhjcWo2VkEwa0VKOFQ4ZlBvNTZvZWFITEpselIySGttbzhtY2toTkN6ZzBZdk9qbHlKcXMyYmxXZGJ6dVNCZw?oc=5"
+        "title": "Brent Crude Oil Price Jumps After Attack on Iran’s South Pars Field - EnergyNow.com",
+        "source": "EnergyNow.com",
+        "published": "Wed, 03 Jun 2026 22:48:47 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON1BJTnRPVzRvWThVQmxiYVA5SDRZc1lJVXhCeENHMGVpaThRRTVJN0hvbGtXaWsxZmc2VEctOE1SRjhhR0lRcUVWeVdtdGJZbzVIWUpNelVha0M2aFctTEZzYUxKOHpiVkpvMlp6LVotLXF1MVlrWTNFemRsVjlmcE1Rd2hoT2FTUElLLUVCUEN1ZUhXTjRjdDNoZw?oc=5"
       },
       {
-        "title": "Oil Rises for Third Day as Middle East Tensions Escalate; WTI Tops $96 - bloomingbit",
-        "source": "bloomingbit",
-        "published": "Wed, 03 Jun 2026 21:46:13 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0M1ZkQU5RbWNXMFN2Z0N4N2lSQklaLXdFS0hBZ3NVeXZMazRmTExlMG5mN1g5LVVpRGtBNWhVOU1uVl91enY1RDktWmU4Q0ppODQ5VA?oc=5"
-      },
-      {
-        "title": "Brent Approaches $100 Again as US Stockdraws Gain Speed - Energy Intelligence",
-        "source": "Energy Intelligence",
-        "published": "Wed, 03 Jun 2026 21:18:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yRERKSFZza2w4TTVub0k0bzFyRGJ6NnpVT0RkWkVBRDE4TVJ6UTU0VVFtU2VYaloyZmNyZEh5V3M0aUt0WW1qUkd2a0NBcFM3UVcxSTdYR2NDcWttRllmX3E3eXNrdEZpSkRhWU1pdGEzUQ?oc=5"
-      },
-      {
-        "title": "Oil Prices Rise as Iran and U.S. Exchange Strikes - The New York Times",
-        "source": "The New York Times",
-        "published": "Wed, 03 Jun 2026 20:16:39 GMT",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UckRQYmRvV3dFNEJHU3RFUWJRSi1hcWVTMmFLRk1xZXVnTnN6MEswMXJmdXYxSnZuOVF4YkY4YU1hWEp0ZHBLY0hwX2RQTHpPTnRDODA5Z1pwNmR2ZENnYzJHdUxEaUtKdmZZZUFUOTNDZERob2Z3?oc=5"
-      },
-      {
-        "title": "A Barrel Trapped Behind Hormuz Isn't Spare Capacity - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Wed, 03 Jun 2026 20:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOHpPUTlQY1VYZjNWYVViSnV5QVFTWlhoN2xjZm5ZYzZUZTdwWXNJUUdRc05pamVpRzY0VmJLZVYwWkxNeDRfdElBaHEzSXdSZE40YmYtLXlMTUtqOFRWRXRCdDlKRENjNlRqbFEyTDdHNllRVTBFbWlrRkUxYnpxSHotQ3dNdlFoNWZxRU1PZU15MUZ1Rld6M9IBngFBVV95cUxONHN5WUdIN01MbklVdWR3b0pLRHV5bGRXcHd6YkVoNjkzV0dSMUJqcXJ4eXpTLWtGa3VrczZpamNWUldrdVdVZ0wyRDc2NTR6TzVxTS1KY01wN1dZb1VDTG1LaTZGY1ZpY3c5ZWQ3M2lNN005ME9hRTJLYjF0OFFlS0h4bXdzdkZuM1p4LUMyM19nd1RnZ0QxbDB5Q3Judw?oc=5"
-      },
-      {
-        "title": "Brent Crude Nears $100 as Middle East Tensions Escalate - Caspian Post",
-        "source": "Caspian Post",
-        "published": "Wed, 03 Jun 2026 19:02:23 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcGpkYWNVaDB0SXVPZ2loR2xxcURiVzQwTmVPUncwZldSMEl4YzZjN1Q1S18zS2lQNXlPU3BRR09ISWxsYlVPOXRDdjRlZkh0YXE5Ym12S0l0MXVlZ2g3WW1vSV9xbW9Tak5ZV09LSnZJSkhYSkZhZWg0YTdLMmxLM0FyNmItaEY4QkhvUGRB?oc=5"
-      },
-      {
-        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
-        "source": "LiteFinance",
-        "published": "Wed, 03 Jun 2026 18:34:08 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
+        "title": "Brent Price, Hormuz, Iran: Dramatic Rise to $97 - Inspenet",
+        "source": "Inspenet",
+        "published": "Wed, 03 Jun 2026 21:47:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qd1FzRVdEallVeDZsc2NCOG9XSnZMM3lPeU5pWkZlOGtlVkNLNE1iamxZUzh2TjA2SDBFSmxodmtoME9zTDJ6VjJGcUlSc0lGTzFoNmNmSXFYejFtdkFSbHNWOXYzRzZteXI0OHVheUd5Um9XLUxLcUU0c21zUQ?oc=5"
       }
     ]
   }
