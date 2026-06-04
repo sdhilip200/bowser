@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-06-04T18:28:03+00:00",
+  "generated_at": "2026-06-04T20:05:39+00:00",
   "fx": {
-    "nzd_per_usd": 1.687836,
-    "as_of": "Wed, 03 Jun 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.702608,
+    "as_of": "Thu, 04 Jun 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 98.07,
-      "latest_date": "2026-06-03",
-      "delta_1d_pct": 2.16,
-      "delta_30d_pct": -0.42,
+      "latest": 95.33,
+      "latest_date": "2026-06-04",
+      "delta_1d_pct": -2.54,
+      "delta_30d_pct": -6.46,
       "series": [
-        {
-          "date": "2025-06-03",
-          "usd": 65.63
-        },
         {
           "date": "2025-06-04",
           "usd": 64.86
@@ -1021,20 +1017,20 @@
         },
         {
           "date": "2026-06-03",
-          "usd": 98.07
+          "usd": 97.81
+        },
+        {
+          "date": "2026-06-04",
+          "usd": 95.33
         }
       ]
     },
     "wti": {
-      "latest": 96.41,
-      "latest_date": "2026-06-03",
-      "delta_1d_pct": 2.83,
-      "delta_30d_pct": 4.65,
+      "latest": 93.19,
+      "latest_date": "2026-06-04",
+      "delta_1d_pct": -2.95,
+      "delta_30d_pct": 0.25,
       "series": [
-        {
-          "date": "2025-06-03",
-          "usd": 63.41
-        },
         {
           "date": "2025-06-04",
           "usd": 62.85
@@ -2041,36 +2037,40 @@
         },
         {
           "date": "2026-06-03",
-          "usd": 96.41
+          "usd": 96.02
+        },
+        {
+          "date": "2026-06-04",
+          "usd": 93.19
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-06-03",
+    "as_of": "2026-06-04",
     "regular_91": {
-      "avg": 3.248,
-      "min": 2.941,
-      "max": 3.407,
-      "count": 67
+      "avg": 3.202,
+      "min": 2.869,
+      "max": 3.499,
+      "count": 62
     },
     "premium_95": {
-      "avg": 3.413,
-      "min": 3.169,
-      "max": 3.599,
+      "avg": 3.352,
+      "min": 3.009,
+      "max": 3.799,
       "count": 32
     },
     "premium_98": {
-      "avg": 3.62,
-      "min": 3.419,
-      "max": 3.879,
-      "count": 8
+      "avg": 3.477,
+      "min": 3.188,
+      "max": 3.619,
+      "count": 9
     },
     "diesel": {
-      "avg": 3.114,
-      "min": 2.759,
+      "avg": 3.083,
+      "min": 2.597,
       "max": 3.998,
-      "count": 75
+      "count": 77
     },
     "lpg": {
       "avg": 0.0,
@@ -2078,8 +2078,8 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 139,
-    "observations_yesterday": 34,
+    "observations_today": 108,
+    "observations_yesterday": 63,
     "observations_older": 0
   },
   "mbie_waterfall": {
@@ -8640,10 +8640,40 @@
     ],
     "global": [
       {
+        "title": "US may issue country-specific waivers on Russian oil sanctions, says Treasury Secretary - The New Indian Express",
+        "source": "The New Indian Express",
+        "published": "Thu, 04 Jun 2026 19:34:55 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWnhBZnBIMEV6eHlVOXU1NGZ5Q2tOYmQwOEhwOEJpYzMyV2YwLXJLUWQ3WWpESlByZFdCWWxNYXV6Z2xWQ3dncGktOF95MjUwOENCTG5lMWRUQTVlMFhrbFd4NTd0bWhuUG5Xc0VvX05JLTNCSkk2N0xTc0tSX1FmdjB5SHZxY05PRjNJOEN2RlQ2OTl1SVp6UExHS0lvSWZ4R2FBZHdORUZLQzU3WjVlVENsRTItNVhjTWJVMVNQeUNWY1dtZ2UtSDNOOUVtWXM5V09R0gHgAUFVX3lxTE9KRjF0YklMb29rNHJ5dGhqcHl1X3V1ZGwyWUlLUU9STTBnSDV2NmdyUE5SelFWQW5oM1VEWHVWVXJvMndaRWtOb0FGRDhHMEVZbDNJWUFuUS1pYWR6MlYyYlRjVzVJMDR0MlBJR1FkM0lMWHl6MjZZMUswVGVvaTk5bFpqcHphX3paYUdSaXFMaXFWazVoYk9GLUFxaUNBV3UxRjl2M1VDMGV2VDYxSUVJVGNNTXdtdlBfM0dsRkJ4SzFRZjU1RW93clBBVVdYZnZPa25pdmxLdkVEQUZkbzlM?oc=5"
+      },
+      {
+        "title": "Iran's Oil Exports Collapse to Six-Year Low as Blockade Tightens - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Thu, 04 Jun 2026 19:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLXh5VkJnbDhGVkdmOXc3NjZNUzB6dEs2ZllmWkM0b0VmUk5JWXYzLUc0ZW5uSE8wdzM1QUJFdldOSjNrQzVUQkxFNFZBRS1RTFhyUktqcVhCQWFjcktXLTZYUHpXQUN6YlNBSjh6WTdLaERBUmJJYkJjakFXQnRveVM5ZlFlMFp1eFZIQUV3U3RSZkdXNEUycXhrYjQzOGV0LWdreTJYTl9mMnpaSXd2TW4yUVJqNElKcWln0gHAAUFVX3lxTE9tU21JYjcwaU9yTFp1VGRraTNFYW11ZEZTcXNId3BPZS1Ydlh1LW1rcm96YnRrTzlPVlc3ZG1fOU9kVDZ2WTJjVTVGS3JDR3V4OHNHbTRBdVNIZFpBX2hZcmNjZ19KN05MSEtpa2Y5cmo0bEM1dXZNb3RmVzdYOUVHaVVOWmx1aUREdUZtNldtRV9sWGdfeDhEQ29vMHJ2Q2hOOUN4YTVfSHk5OHpRVEZZVEtTSi12T19RMHZNYVFncg?oc=5"
+      },
+      {
+        "title": "July WTI Crude Oil Contract Closes Down US$2.98; Settles at US$93.04 per Barrel - marketscreener.com",
+        "source": "marketscreener.com",
+        "published": "Thu, 04 Jun 2026 18:40:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdl9iVzNhUXBmWW5rY3o1RWFjLTcySGhwdEpic0VqbGgwc2NwNlZOTjNPb3Fhd2hYVGZWcVl2ZDhTQThzQmNfTE1RcjRaX1lWaGdHVm5GYjJpTGVtNEtuOThqdTBIa2h2SUFseGgzY0hJYmhod2tZeVF1RDVRXzFtMDJIZGlIMVQzMm5wNGJBMmF4RGcxVEp6TUE5bVZqQzNkM2lDczYtTXdfUWpqYnZVNHpOdUZiRG1aWFgxQ0VYYmpPc3RQX3FJQnhMRQ?oc=5"
+      },
+      {
+        "title": "WTI declines as Israel-Lebanon ceasefire eases tensions in the Middle East - FXStreet",
+        "source": "FXStreet",
+        "published": "Thu, 04 Jun 2026 18:40:16 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalFYQTM2cEoxRW5ZOU9HLXJYMEN5RnBOVEo2c2wzbzlyQVpHR0xEYUZwZjExcTBaVjdSQTAwcTF3OC16NVdJSnprNmFOWUpZQWlzNXVOaW90NFhpTTJyRzdOZkRuSElFcmRFR2NZeGpSemlDZGJWRF95dFFUaEVUNzluQzEwOUhuakF3Zm05bFJkc3RXWlRnTzNPSDFDb0dCMlY5S1g3LS1tUmlyRWQ1NnlCOE42aTlh?oc=5"
+      },
+      {
         "title": "WTI Crude Oil Futures Fall 4%. Reports Say Trump Unwilling to Restart Full-Scale War With Iran. - TradingKey",
         "source": "TradingKey",
         "published": "Thu, 04 Jun 2026 18:03:45 GMT",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZktMQ2JwY1hTRFZHZVN0Rno4ZVQwc3Blb19nSlFZQTVoU1RxSHk4QURXY0tsRk55MDRPTlp0YXNTWUk5aTJIWExzTnFDWWp5V01PYWE4Sl9HTGFVVVJhdTdOYmhtbWM3aHk0V2RGUDN6ak5ZSjhjQURWM1pLS09xbEcxNW5Eb1R4YVdxS04tRzBtNWJsdDc2dTVRaVpzY3Q4TEU0bzRFTlNGU2xqWkliNjRocHY?oc=5"
+      },
+      {
+        "title": "U.S. Oil Shocks Don't Hit Like They Used To, Fed Study Finds - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Thu, 04 Jun 2026 17:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdFU3ZHJZeXVoVjNUMlZkcFZXaVNPd0hUT2pIbG94X3pfeEhyMkcwR0dMWEMyV04tS1RXSWNLYVc1c2wzN1VCeFR0Sk0yUmwtbzVFZ09JaU0zUFIyN2lPYk5TbWpaa0FsajJSTnBJOFV1VVFmOGxubWZaZmhrUGcydklmQlVoaGJtWFQxZmI0QnlRTVREZW03cnYxQlZZWnZ6Z3VEdXJBbEdWZ0JvdUQzMFBB0gG3AUFVX3lxTFBBVUlBVzEtZmwyMlN3VnhyR2NKcWNiTFNSMkY0MVhQR3J5R1QzZ3psclhQODZHQkZMWUY4REFObEpwY0N1MDJmelZ6MktYVmxxRkg2VGx4alY2bDlWZTNwZHJUZ2ViSnRjQmQtWGdIcjRSS3JFUUdMaGtyX1QzeEdtZURwNWY1Mjc2NkhvSExRRzJwcXNIaDdqRXYxNDE4TVV3N0plc1BvdGlUUXdUaTJlVEZJd09Qbw?oc=5"
       },
       {
         "title": "Brent, WTI Crude Prices, Jun. 4, 2026 - Energy Intelligence",
@@ -8656,36 +8686,6 @@
         "source": "Gotrade",
         "published": "Thu, 04 Jun 2026 15:48:22 GMT",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa2gyWHliRmZKTGx5UjdxcThxZUh3X25zU0RSVlFBUk4yb0hVRnJNc01TWjlGQVFncFhTSWNienpReW1YXzlPUkx1dUZ6YTBhUXZPc2JGOFdnR3ROS2psdUFTX2E3Tkh2SW9lYjQya0V6N29LTFFwdl9PT2cyRFpYVXZCZVlScnR2V3pOUTJB?oc=5"
-      },
-      {
-        "title": "India sees ‘perfect complimentarity’ with Venezuela in energy trade amid Gulf crisis - WTVB",
-        "source": "WTVB",
-        "published": "Thu, 04 Jun 2026 13:27:43 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMGUyMWNjcUtvSGZsLUIwM0g1UXpXYU9mZjdXSGdkeDl0T0FiTWxmcVZtZU5qSWRBcW4xSzhpVVB1bEJDM2ZqQTZIVWJOblhCUUNFQ0xLel9lX3YyVmRWektFUzh2alp2bE5pWHByUG1TVTQ2ajNoMkw5SmtrQzFkQm50UWJXQjJMRnQtdWF1QkdFaVBHXzFJOXVfSzBjSWNXaXdVSkRrYk5pZzZFMmtIRS0xVQ?oc=5"
-      },
-      {
-        "title": "Current price of oil as of June 4, 2026 - Fortune",
-        "source": "Fortune",
-        "published": "Thu, 04 Jun 2026 13:22:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96dEFzbDhVOXY4cGNPMTVEdUh2MjFwbldxSXA5ajZJN2dqYm1sNDRKSllTcFpPWGJta1Q3cUFVbGU2S280c056Y1B6aVJDVDFFalFtU29rNGc3UHo3ZVhuX1Nn?oc=5"
-      },
-      {
-        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
-        "source": "LiteFinance",
-        "published": "Thu, 04 Jun 2026 12:51:46 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
-      },
-      {
-        "title": "Brent Crude Down to $94 - TradingView",
-        "source": "TradingView",
-        "published": "Thu, 04 Jun 2026 12:13:16 GMT",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PUHIwSUFaQzlicGJmT2xXMWczaVQwaF84bkFNcEtpMGxGNVRPR1dUWjB2NnVBZVUybjJNQ2tRTkJUSjg0dWsyWXVEOVBZWGJhUy12U1hWRmVZUUN3LVU4SHJPNVVMRlVXcnV0NFo3elFvSi1aS1RlTDdVSVotUQ?oc=5"
-      },
-      {
-        "title": "Consumer products giants cite rising costs, supply chain pressures from Middle East conflict - Plastics News",
-        "source": "Plastics News",
-        "published": "Thu, 04 Jun 2026 11:59:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVnRhS0VTUGNUMUNJTDNVUnMwUlFMZlNCak9qOW85YUFmSXViV0NaNHVYR25Sem01bXg5YWpCbnBQd1lRUnJMai1ERHd1V0ZQSGhYbWhiVGhsZ2RxNVF1NGRqZjlsdlBSd0VMWXd3V19TcmNBNkFpeHpIWmFwaE8wTVRpdk91bVNSbTlnSW9wcDgtY29yMFNpNkZDMVpLd2puMlJZMFZFTQ?oc=5"
       }
     ]
   }
