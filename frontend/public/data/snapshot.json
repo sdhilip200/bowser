@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T21:08:08+00:00",
+  "generated_at": "2026-06-05T22:39:10+00:00",
   "fx": {
     "nzd_per_usd": 1.702662,
     "as_of": "Fri, 05 Jun 2026 00:02:31 +0000"
@@ -8590,12 +8590,6 @@
   "news": {
     "nz": [
       {
-        "title": "Strait of Hormuz closure significant but not massive blow for NZ economy, new analysis shows - RNZ",
-        "source": "RNZ",
-        "published": "Wed, 03 Jun 2026 21:45:46 GMT",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWFFBLWJsNDVTR2toNHpLRlpMSkxWdEtreV9aTUtySGZabDFqMXRQYnpCU21zNi1nWlllZHg3VHZ6WEdFaFlwNlNyb2xtZFF6bEo2c2ZmaElEY3I3UnJmbXV6dlBFRmN5ZVJybkQwblNnUEFueVQxNHVRa09Cc2hlaVZHbEJxeEpVUTdiTDBmZUR6Z08tdmFuZ08zblB0SU8tYmRjZEhhS2VxVEFSUXVVa1JQN2c2eWtxQlRFWVN5Vmg5SE5Jbko0VWYtY3JqLVE?oc=5"
-      },
-      {
         "title": "Is the fuel crisis over? Why experts say we may face a new crunch - Stuff",
         "source": "Stuff",
         "published": "Wed, 03 Jun 2026 16:00:00 GMT",
@@ -8636,9 +8630,33 @@
         "source": "1News",
         "published": "Mon, 01 Jun 2026 02:33:53 GMT",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcWVNNDFUWWJ6Y0pUM3o0cFBBWFJrdGxjZkgwOHY2bFNSUXBITkxLdXVsNUxQQXR4TXJsRjczaDRQUXdsSWRKRDdXRUJxTE5QVzQ1dE9KWXZXWERkcTVXaksyX0NfNER2c1AzUF9rWGZIV2tJY1BwN19lZjhtb2RlWHB2RTRGcnN1ZzZ1WUFObU9hQVE?oc=5"
+      },
+      {
+        "title": "How NZ’s fuel stocks are holding up amid global tensions - Newstalk ZB",
+        "source": "Newstalk ZB",
+        "published": "Mon, 01 Jun 2026 02:27:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSmotMG82dGNqTmI4LWVqdnNFZVc0V0NMUWNsdjFhM2RpN2JLNVhGOWc4bGVjV0VvNzE4OFZaSzJWUjZST2dmbF9Gbkdfc3NOVzN5UmxQY2E1OERpLTBzLTV2VHVTTnVJb0I4SkY2eW4tOHpTUmVyRnl2eEdTbHFqZUN6SXlDX0ZWU3lHa1NrVVVaV3U3aHZvX2Q0QjkzaHozcmlOdHAtQ3p3QkM4ZV9NTHpkYzZ4REhrRXJHS090UEdiZEw3LVE?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Goldman Sachs says global oil demand takes big hit, sees risks to price forecast - KITCO",
+        "source": "KITCO",
+        "published": "Fri, 05 Jun 2026 21:42:57 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYUJ6M0hfajJkeWFENHVRVkVSVkFSenRoZk40b001WkkwQlBJb2N3aEUyQmtQUnFkYVNXeWJ4VjloTVJyTGRXcEVweEpacTJCOFduY1A5UlphYmZBUThCM3dKMFYtUlNuOHlKTTZNX3pGV3drOU00WTI3S1MwMjZQbGlDWGJxQXZ3NjdHbTNIMWhSOExiOXE3Z3lsWkZja2ZBVk5OWXdfVnZEQ0JQcTB5a0VkMmhUTFc4VlE?oc=5"
+      },
+      {
+        "title": "Why Western Sanctions Haven't Cut Off Russia's Oil Revenue — and What It Means for Gas Prices - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "published": "Fri, 05 Jun 2026 21:24:42 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS0ZpREd3T2daWnRhaHlBQXJYU1BWUGw3Wjd2QmNSaDJJRExET0poZUdJei12T3ZQOEQyTmh5T0ZNTXZHSmFMYlR2WTA4ODRUdkJVLUEtaXd1eHVGSHFzNVQ4UHZ5ZlBNUV9ndDVFZXRYT25FSW5yTDhQVC1WbndKY0xwbW45S2M5ejJjQXhTanhTMDEyZXRLLUFaOWFpdw?oc=5"
+      },
+      {
+        "title": "Oil Retreats on Global Demand Fears - Rigzone",
+        "source": "Rigzone",
+        "published": "Fri, 05 Jun 2026 20:43:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN0hLem41bExqV1p4bXI5YUZhR1V3amx0d0xwQldONVoyOFZ4UU44bjJrTnNzZTJveU11WEpkTUFLeUZmaWVjeWI4WnR3QThlY3o5WHFaVGNQTm5DR0NWcnJwYWVRYW1lWUl2MHRpTGxWQndvRnpCWlNEUTl2bWtxajFFQTJNVUliNXhrT0dqNFIyUjhDc3l2QmFtanQ1UQ?oc=5"
+      },
       {
         "title": "Iran's threats against this Red Sea chokepoint are a big vulnerability for the oil market - CNBC",
         "source": "CNBC",
@@ -8652,10 +8670,10 @@
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcDVyblQ5RWx2U1ZuUHRzUTc1YXliV2hmOE9IMm0tc1hYOG00LS1McWtGdTJCb0lwS1JlWXFxdkRWekNrN0FZZzh5QjFFTEtKUlBTVmo5UXoycXFHbUQ3RHE0OVJNX1pSR2VDUFZRc0hidTc3N0ZIbnNaek9wWW9JZ2gtNG9WNkVEd0FPNGhWMFRkUWxmLWJ0TWFMMVRac3ly?oc=5"
       },
       {
-        "title": "Oil Retreats on Global Demand Fears - Rigzone",
-        "source": "Rigzone",
-        "published": "Fri, 05 Jun 2026 19:45:16 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN0hLem41bExqV1p4bXI5YUZhR1V3amx0d0xwQldONVoyOFZ4UU44bjJrTnNzZTJveU11WEpkTUFLeUZmaWVjeWI4WnR3QThlY3o5WHFaVGNQTm5DR0NWcnJwYWVRYW1lWUl2MHRpTGxWQndvRnpCWlNEUTl2bWtxajFFQTJNVUliNXhrT0dqNFIyUjhDc3l2QmFtanQ1UQ?oc=5"
+        "title": "Trump’s Blockade Is Zeroing Out Iran’s Oil Exports - Foundation for Defense of Democracies",
+        "source": "Foundation for Defense of Democracies",
+        "published": "Fri, 05 Jun 2026 18:55:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORzdTeWdZM1dqeHJ1V1FtY1dZVGUwakVBSFcybGV1aHVXSll1d3JMM1VoTml5cEFoRVNoM1RXYlRpblhNcG1McTNRZVJlakNWQzdRU0hyd0FVUGxWZHMtbVVVSHhydEFCOUZNRXVtRkhPTE0yVUZSR05ac1gzSDVfTWhqU2J6Y0FVdmtrNll5V29SM3c?oc=5"
       },
       {
         "title": "US Treasury sanctions network of front companies smuggling Iranian oil - JNS.org",
@@ -8664,28 +8682,10 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb18wajMyQXhmc1BUT283bTNJNHdBTnZQMGV6WE5aM0ZVRWVvUzlhR084QXNQaUxVLTJGLXF2RFhRNnhQUDBsdGgwTEVxYWZQeVBhbjlIX21IOHZFaDRad0ktLXlyLVlUMWtiZVl5SFhzdHpDbUIza095cUpSMFFVWWpNWFBOVnlaTDJuYkEtRVZyQ1V0ZVNBc2NNVEtJTV9CaURTU1g2bw?oc=5"
       },
       {
-        "title": "Trump’s Blockade Is Zeroing Out Iran’s Oil Exports - Foundation for Defense of Democracies",
-        "source": "Foundation for Defense of Democracies",
-        "published": "Fri, 05 Jun 2026 18:46:52 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORzdTeWdZM1dqeHJ1V1FtY1dZVGUwakVBSFcybGV1aHVXSll1d3JMM1VoTml5cEFoRVNoM1RXYlRpblhNcG1McTNRZVJlakNWQzdRU0hyd0FVUGxWZHMtbVVVSHhydEFCOUZNRXVtRkhPTE0yVUZSR05ac1gzSDVfTWhqU2J6Y0FVdmtrNll5V29SM3c?oc=5"
-      },
-      {
-        "title": "Natural Gas, WTI Oil, Brent Oil Forecasts – Oil Retreats As Dollar Rallies After NFP Report - FXEmpire",
-        "source": "FXEmpire",
-        "published": "Fri, 05 Jun 2026 18:40:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSTlnRkY4d0otTThzekw4OXVGSEN1Q1YxZ1Nod2dtbDJQcERSZ1paTmp6ME5zcjRRMzJ2YmYxYWJCMkhacUR2d0M5cjJ2b1U2VnZ0eGEzRjBYcUtGcWRJNkV5ZTk4bFk0SDBIVXl0NjVkRElzYmdsel9qZC1WQVduS18xNVNveHpWQ0prMk14clRtY3dBUmRha1dRRm00VkN2UWVvMEJ3SnVsck9zVjh2RE11ZjRHdnd1S2lYcU53a1IzWkJDbFd0eEF3VU16NnNEMEVOTg?oc=5"
-      },
-      {
         "title": "July WTI Crude Oil Contract Closes Down US$2.50; Settle at US$90.54 per Barrel - marketscreener.com",
         "source": "marketscreener.com",
         "published": "Fri, 05 Jun 2026 18:34:13 GMT",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOenlOYy1adm10Y1drUDh1akNLSTEwbDBZMHdINXZtRGViUlhyQlRKRGdLdFdQNUZCM3FFOVV2X3g0dVFOaFRGRUJqVE14WkY1eTdXMjdOZUlYRllReXBxOXRRb1RwUS0xWGZ2LVc4bXcybFljXzYtSEFYeVZTaVZVb1RoQ29YWHdkVGItSmo3ZnBuUExpcGFXcVlqUzkxTHdYWkVvNlIyY3pfWDdnWi1zREowSWd1ai01Yll6TEJtaG9mdHV3Y0VsTTZn?oc=5"
-      },
-      {
-        "title": "SPR Borrowers Owe Uncle Sam 40 Million Extra Barrels - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Fri, 05 Jun 2026 17:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVVplclBRaGViWlF3Yjl1dzRPbnp4ZEpxTTM2RlFlYVB3N2NuMVFzTDlCbjVENU5fYWVNYkRkS3dkTVR4ZF9FX1RMUWhhUlh6YUpoMTlIMHhRLVhKcEJ6NHpuLUlyQk9VYmliWjdPdlY2Unc4a0J2NVota1FnNDg0M3Z0ZnRGNHRkaVNhRDRXNHViYjJXRnVlUHJib3NON3lCY19BTzBmMzA0cDU30gGyAUFVX3lxTFBtcldGZ2NxV21IMmhvTFUxcXJmcmxmSC00T3dITjU2V2ZZSnlKcVA4dnl5cmJ2dDhWODlXRE0xMWNsV200YXpxQllNOXhRamhZeERPZElwdGhXdVBDVVdLa1gwcDNpTV9fTjNpbnJhTE9aNFBubXRfNjlLUUI0TlJ1aG1HTlNhTTE4cGc2MUdGYXJwRnhsVnMycXBmT1ZUU3M5WGdreFdJa1FGUUtjM2FKMFE?oc=5"
       }
     ]
   }
