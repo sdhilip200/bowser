@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-06-05T19:23:50+00:00",
+  "generated_at": "2026-06-05T19:55:07+00:00",
   "fx": {
-    "nzd_per_usd": 1.702608,
-    "as_of": "Thu, 04 Jun 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.702662,
+    "as_of": "Fri, 05 Jun 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 95.33,
-      "latest_date": "2026-06-04",
-      "delta_1d_pct": -2.54,
-      "delta_30d_pct": -6.46,
+      "latest": 92.96,
+      "latest_date": "2026-06-05",
+      "delta_1d_pct": -2.18,
+      "delta_30d_pct": -11.53,
       "series": [
-        {
-          "date": "2025-06-04",
-          "usd": 64.86
-        },
         {
           "date": "2025-06-05",
           "usd": 65.34
@@ -1021,20 +1017,20 @@
         },
         {
           "date": "2026-06-04",
-          "usd": 95.33
+          "usd": 95.03
+        },
+        {
+          "date": "2026-06-05",
+          "usd": 92.96
         }
       ]
     },
     "wti": {
-      "latest": 93.19,
-      "latest_date": "2026-06-04",
-      "delta_1d_pct": -2.95,
-      "delta_30d_pct": 0.25,
+      "latest": 90.31,
+      "latest_date": "2026-06-05",
+      "delta_1d_pct": -2.93,
+      "delta_30d_pct": -5.78,
       "series": [
-        {
-          "date": "2025-06-04",
-          "usd": 62.85
-        },
         {
           "date": "2025-06-05",
           "usd": 63.37
@@ -2041,36 +2037,40 @@
         },
         {
           "date": "2026-06-04",
-          "usd": 93.19
+          "usd": 93.04
+        },
+        {
+          "date": "2026-06-05",
+          "usd": 90.31
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-06-04",
+    "as_of": "2026-06-05",
     "regular_91": {
-      "avg": 3.202,
-      "min": 2.869,
-      "max": 3.499,
-      "count": 62
+      "avg": 3.248,
+      "min": 2.989,
+      "max": 3.82,
+      "count": 83
     },
     "premium_95": {
-      "avg": 3.352,
-      "min": 3.009,
-      "max": 3.799,
-      "count": 32
+      "avg": 3.435,
+      "min": 3.179,
+      "max": 3.689,
+      "count": 52
     },
     "premium_98": {
-      "avg": 3.477,
-      "min": 3.188,
-      "max": 3.619,
-      "count": 9
+      "avg": 3.635,
+      "min": 3.459,
+      "max": 3.819,
+      "count": 5
     },
     "diesel": {
-      "avg": 3.083,
-      "min": 2.597,
-      "max": 3.998,
-      "count": 77
+      "avg": 3.102,
+      "min": 2.759,
+      "max": 3.999,
+      "count": 92
     },
     "lpg": {
       "avg": 0.0,
@@ -2078,9 +2078,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 108,
-    "observations_yesterday": 63,
-    "observations_older": 0
+    "observations_today": 21,
+    "observations_yesterday": 198,
+    "observations_older": 13
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8602,10 +8602,10 @@
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPay0xNDluTW4wOU1sb0ZvWlFyYVYwaUtzYS12WXpCUU9iZVlxVE5zdHFPM1FhQWRHckgxUzNXaGY0STBSOURSc1B3bnZQa0JFQjBTWkloUUZ1VnE4b0tGSEt5clpBMTNOaG55QjB4MlhFbnk1WHpWQV9sN1RWdEp4NGhJQTZBVUIzVV9sWnBEQTRlZ29jUUx4UFJIMzIyZw?oc=5"
       },
       {
-        "title": "Diesel Stocks Fall Sharply, But Government Reserve Shipment Now Bound For NZ - Scoop - New Zealand News",
-        "source": "Scoop - New Zealand News",
-        "published": "Wed, 03 Jun 2026 07:02:43 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSlBWMWdRblU4aG9QYlFPdndzb2NpTkRFdE44R1pDV25HTXhkV1l6QzhEQTk3UjZ0STlnNzRQeUhLRjg0b1A3amlaal9SSkpuX29lNk45VlJudnc5YlQ3RFFvZmFKbTcxTl9xU3J6YlV4OU1aMWtPR0lfM2dVaWdYWk1tVGtRYW1TUTdlMmZ1ekVBbHBQb195VzB4UlNZeWJMWmZRNWNVUF9kX3pBZjRCYVJncFhkSGc?oc=5"
+        "title": "Diesel stocks fall sharply, but government reserve shipment now bound for NZ - RNZ",
+        "source": "RNZ",
+        "published": "Wed, 03 Jun 2026 02:37:11 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaGhGdjRjazVzbGkwOEFHYVY0SXdDcm12QzNIMk5QZ0huOHVEMElHVWY5d3M5Qm1sYTBTUnVDZDVsUzFpZ2VWbkZpQ21nQUNxdGVuc29hUVhhemh0Slo3NVFjZGlaMmdZQWEyY3VtM0c4d0FNZlJEREc3d2xqQkpTcHZqaUJrUjNrcEdkNWxxeEhyUDY1MzBHT0FEY1dNU3pYWVpyZm54VlZXTEFJTkdnSTdPZWFxUnEwLWJJ?oc=5"
       },
       {
         "title": "NZ diesel stock levels slip to lowest level since US-Iran war began - 1News",
@@ -8646,21 +8646,9 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb18wajMyQXhmc1BUT283bTNJNHdBTnZQMGV6WE5aM0ZVRWVvUzlhR084QXNQaUxVLTJGLXF2RFhRNnhQUDBsdGgwTEVxYWZQeVBhbjlIX21IOHZFaDRad0ktLXlyLVlUMWtiZVl5SFhzdHpDbUIza095cUpSMFFVWWpNWFBOVnlaTDJuYkEtRVZyQ1V0ZVNBc2NNVEtJTV9CaURTU1g2bw?oc=5"
       },
       {
-        "title": "July WTI Crude Oil Contract Closes Down US$2.50; Settle at US$90.54 per Barrel - marketscreener.com",
-        "source": "marketscreener.com",
-        "published": "Fri, 05 Jun 2026 18:34:13 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOenlOYy1adm10Y1drUDh1akNLSTEwbDBZMHdINXZtRGViUlhyQlRKRGdLdFdQNUZCM3FFOVV2X3g0dVFOaFRGRUJqVE14WkY1eTdXMjdOZUlYRllReXBxOXRRb1RwUS0xWGZ2LVc4bXcybFljXzYtSEFYeVZTaVZVb1RoQ29YWHdkVGItSmo3ZnBuUExpcGFXcVlqUzkxTHdYWkVvNlIyY3pfWDdnWi1zREowSWd1ai01Yll6TEJtaG9mdHV3Y0VsTTZn?oc=5"
-      },
-      {
-        "title": "New US sanctions target Iran LPG and shadow banking system - Gulf News",
-        "source": "Gulf News",
-        "published": "Fri, 05 Jun 2026 17:06:21 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaEtGMFh3ejZCeFUxb1RRU0NISk1MUFVjZVg5QUZydGh0czJQbWhpcXlQTjNsMFhDeFRUV1VZWGY5UHBJWmthVEktSnFjTXFfV3JMdktYWHFvUnBTdjdOT0M1ZXI4Ni1HdDVMcEpjVDRiM3cxSTVQX1RvNmZGNEVkMW9wOV8yZEJ4N0l1N2lfV2dHdFEzdk5fZHNEUnBEaXVMdmh3WQ?oc=5"
-      },
-      {
         "title": "Western Countries Put Russian Oil Sanctions on Back Burner - Energy Intelligence",
         "source": "Energy Intelligence",
-        "published": "Fri, 05 Jun 2026 17:01:52 GMT",
+        "published": "Fri, 05 Jun 2026 17:09:57 GMT",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tNC1EV3RscEkxanliVl9sSEhnUDZ1STJZcnFKekVweUd6VTg2ckEwS0F1LS1tY0M5eXdOS3NWSjctbnJDaFVEcUc4WGJnT3J0bFc1aUV2T0VNUmpMRFJXM3pXQldFWnhMVFNEdi1BQUZlUQ?oc=5"
       },
       {
@@ -8682,10 +8670,22 @@
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmRmU1VxaVRaWHBXMGVRNjBVdUVva1poMENDNTFIcl9OdmJfbU5PV3VaYlZCaFoyY0NyQXdETGhXdnpUSUY3aF9KdFlVYWpXUk5IVEYxbGp5cl9MOUNiRjlyZ01GVlFZY082S2FUWkRvNExUNDdzYnpGaTZ0dVdFRG1sWlRkei12Q0FGSFZCV1RQZ2hidkM2ZHdqM0JYQTBLYjlpcGNCbVc5Rk0?oc=5"
       },
       {
-        "title": "Crude Oil Prices: Brent, WTI Hold as Traders Watch US-Iran Negotiations - Coinpaper",
-        "source": "Coinpaper",
-        "published": "Fri, 05 Jun 2026 15:05:13 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWHFJandMOEZ4OVVNRW1HZUJFemZ3ZE1GMGpYVUloaFJJcVFJQm4yZGRyYzVOR2x2VWRQVzVpbGRDdVJ3V3QydzVGbUlCYUw4VVQwQ2lqVkx5VWNkYU5nd3FCbWJ4c2FaVi0zN2t4REVPeHFZdFkzQzZzYmphSnV3RkM3X2gwbjczWXNJa3NEQW5MeDMwTGxWRTVSOWw1UQ?oc=5"
+        "title": "US wants sanctions back on Russian oil as soon as possible, Rubio says - Shipping Telegraph",
+        "source": "Shipping Telegraph",
+        "published": "Fri, 05 Jun 2026 14:24:25 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ3hTeUdfWGN1dkVoU3BWd05ZWmdZdEdaR1hGY0xmR2ZsVjNqcGtTNUdQdUFDMVpaRlNwdU1PN3p5Ung4RmtreXJqT1FuUlVhRDJnbUJySFBzYjg1LXM2Z01veVF6bW9QajhqTWhwc1NOVG0ydmlTdC1KNjl6MTNVTUxJUnphd2pob045RnBRSWxiUWxmUkpoZkNoMFZOSUtkZWR4TUJBZW9mYVlWbk5vQy1CNWVkTHhq?oc=5"
+      },
+      {
+        "title": "Current price of oil as of June 5, 2026 - Fortune",
+        "source": "Fortune",
+        "published": "Fri, 05 Jun 2026 13:01:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4XzZJRHQ0RXpYdWswdE4zb1RTanZxb1kzQTRfRjFaNzAwcUc2UkcwYTYxTG16c1QyaU4yNWd0V09xZWF5anJfeDZpTjJ6WUN2aUVtRW1DUUxCY0JFdzg3cXR3?oc=5"
+      },
+      {
+        "title": "Oil Executives Warn White House Of Imminent Crude Price Spike As Global Inventories Hit \"Tank Bottom\" - foreignpolicyjournal.com",
+        "source": "foreignpolicyjournal.com",
+        "published": "Fri, 05 Jun 2026 12:01:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM19qSHM5d0t4djA3TmZlRnZNMmNlbjNGSjdybU1CS0tsV1dTS2J2Mk1QVFpoR3FxbjQwZERrZGIwbXZhZzFqeDFLUGVmODRHTmxyUmc0Umk0ZkhBS042aXlOeV96WHZfZ0F1dTZad0Y5TzNQajJjX0ZUbFBhZWlEQ1YzRHNuRUxlMGh0cUxqaVJuY3RfS0tiTFNBWjJySk9wcmVuNWFZUVcyekplSVYwWXppTkRFVkloQTRlZEtFTWExMDJSNzdEYTQ4dThvV05NWUhPQ2lIVzFIUGlYbXdpVS1R?oc=5"
       }
     ]
   }
