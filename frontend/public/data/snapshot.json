@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T14:50:52+00:00",
+  "generated_at": "2026-06-06T16:16:30+00:00",
   "fx": {
     "nzd_per_usd": 1.702662,
     "as_of": "Fri, 05 Jun 2026 00:02:31 +0000"
@@ -8590,6 +8590,12 @@
   "news": {
     "nz": [
       {
+        "title": "Air New Zealand plans for elevated fuel costs into 2027 - Reuters",
+        "source": "Reuters",
+        "published": "Sat, 06 Jun 2026 15:15:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWGxiR2M3aXdFeldjZnBPeFBiLUhHYTU4dVR1ZlU3MUZ4RnpqTVdyTTZ1OG1kdTNQbDdtZm0zbHgxMWdlVVdBQlB4R0pCa3BEWjMxSXF4X1RtRE5xSzM5TzJob3MtSVlpcVJVeTU3WkRad3RkTmhramZ0M2J1MlZsU3dNSjNaUU52c0kyVDZ2S0podUlsdlNvZ3Z0NGFIaWRQUk9hZ2E3a25ybGJjV0dnSkh6MEE?oc=5"
+      },
+      {
         "title": "Is the fuel crisis over? Why experts say we may face a new crunch - Stuff",
         "source": "Stuff",
         "published": "Wed, 03 Jun 2026 16:00:00 GMT",
@@ -8626,24 +8632,30 @@
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONkJLdkVBM2lDQWRaUjBpb3JNMm5idEdwbXp1dFlxT2M2cnhLZDlpM3ZGYnk0a0EwY3UxUXdUazJKa0VaUUlGMkhHX2R5Y3I0LXVMcjJKX0Q0aEdlTk9WREhZNE5mVzJnbzNuV0xlUS1pNGR4UENUaTRGcHlnWkRVRGNNT3dJaDMyR2MwSFl0bmJkaW8?oc=5"
       },
       {
-        "title": "New Zealand’s fuel stocks ‘well above’ minimum as shipment of reserve diesel on its way - Stuff",
-        "source": "Stuff",
-        "published": "Mon, 01 Jun 2026 02:39:02 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVmFwSWpfc09td0Zncnp0Y2o3X0dkckNzTmE1Y08tby1DS21SS1UwY205LVlHVFVDQ3dBV0gyZER5dmVza3lCel9WVnVTeXBreVk4VTFqOF9FZ3NIcXI2MFk1VFEwU1ZSbWl6dTdJYjVrWE1QN2ctRVAwR2x5bjlnMVZLTzRYZE9IT3V4NEhNc2QzU2Jrd3dEamdKM0JIeEU3ZDVObm1MVC13LTVYTlA5OUpSc0h3V0ZCMGc?oc=5"
-      },
-      {
-        "title": "Fuel stocks remain steady, extra diesel en route to NZ - 1News",
-        "source": "1News",
-        "published": "Mon, 01 Jun 2026 02:33:53 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcWVNNDFUWWJ6Y0pUM3o0cFBBWFJrdGxjZkgwOHY2bFNSUXBITkxLdXVsNUxQQXR4TXJsRjczaDRQUXdsSWRKRDdXRUJxTE5QVzQ1dE9KWXZXWERkcTVXaksyX0NfNER2c1AzUF9rWGZIV2tJY1BwN19lZjhtb2RlWHB2RTRGcnN1ZzZ1WUFObU9hQVE?oc=5"
+        "title": "NZ fuel security risk: MBIE says stocks fine but no plan B - b2bnews.co.nz",
+        "source": "b2bnews.co.nz",
+        "published": "Mon, 01 Jun 2026 03:04:19 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb0F1WnM2X25OdFlhVmRWNl90QWRXUnd6cWZqell1Z0Iwa2F3SDRsWGVERlV2bXJNX1A2MGtTTTB1S3JEX05DZ2N2UnhfelRCd01CVkFMRXdLSXQ5NXVqWnFMTE5nWllVc2o4WHdRQVZ5YUZqX3VQVkE3QTFYVVdFYUxuMTZCR3ctdFBMRXh3?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Why oil’s not at $200 after the biggest supply shock in history - The Economic Times",
+        "source": "The Economic Times",
+        "published": "Sat, 06 Jun 2026 14:50:07 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNR1FtOWxwcXRYb05ISkw0RU01aUhuMFNKM2ZONWlYTXFNVFZ0RGZGUXB1QVhfc3lydDZZYkg2U21vQ2NaRUl5X0U5aGhLVjhvTWROUDRoNE9sYm9BZTZIdVZtM0hzQVk4M0wtQ2k5Rm1YQ19va0JMelZUajRzeEZMVFNrR08wRnZ5bEU4U2hRdTBzd18tM1dLMHd5Z0NWU1pPa0tMbTZGQmVaY1YyM0t5SlpUVUQwbEQwdUwtTVdWUVFQYlI1eG4xOVd0bGxOUDBtZjkyZGdSQnjSAeABQVVfeXFMUFpuQUhIMGNSQlA5S2xMTWRxV0tSSS0xUHJ4aDliVzdTQzVqb29HYWxTWWpZMVBtWjFJWjR2TGdlaVhva2hTNWlMeGY0TTRETXc2OW56YjZ5NE5yazhRV01aWElKaFA0eWZCYks0enJaQUJlSFBCTC1ZQ1dXMTRDZGxqNDhTTmR4d213dGRsYnRWc25WNVY0ZHRveUV6V2VHUGhVODlmMHNONXAxeWFwQnd4T2d2Qi03dWw5eXlIdnd6QnBrTDVxNy15UDRkckZCRmxjLWM4WXFvS3ZqMWo5ME8?oc=5"
+      },
       {
         "title": "Market News: The Biggest Oil Supply Shock in History Didn't Send Prices to $200 — Here's Why, and Why That May Not Last - Binance",
         "source": "Binance",
         "published": "Sat, 06 Jun 2026 13:17:03 GMT",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyY3JBVzlySnlIRGNnNUdwZkpQRGZRbjJkaExYdTFhOFdHc1lzY1BoTUdxMFVYM0REUEdvUFFRZll0SVV1X2tXdVAxWUhxOG5OcmdpclF0YmJIT3c5Y3dTaUxjV0o?oc=5"
+      },
+      {
+        "title": "Goldman Sachs Says Global Oil Demand Takes Big Hit, Sees Risks to Price Forecast - EnergyNow.com",
+        "source": "EnergyNow.com",
+        "published": "Sat, 06 Jun 2026 12:41:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN3Y1MVB3RUk0OFhpLWdlR1I2YlQwc21jQWRFdnNBakh3SGhVZ2ZPZU1rNVZwNWxBMHpOcHZIRjBNalZNXzMya2xraFN6cDNCYlBKUVp0TDFockxGbThyMmhEWWZJNTdkcUxIb2ttQnZCZk1pNnVrUWgwWWMyLXpxYWlodFdnVUpqZWdaUVFESy1RY1lDLVZ5a2JjS1pKZk5tWEZ5U1BqWl9ydVNPOFRv?oc=5"
       },
       {
         "title": "The shadow fleet: How Iran keeps its oil flowing despite sanctions and war - The Times of India",
@@ -8652,16 +8664,16 @@
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMjVpUDkxd25XZEhaX0c4UlEydjByNUN5b0xxZjhBUEpUczNib3dDaVd4bW1JX3VuaWxMS01HV2QyTlhmV3FGX3d3RW1ENGhGOHdCRXJ6cmFrLXZyaWI2NkxEYVctOHBaRFVERmRCNnhWZmhMdDF6c3hNREtvREt0XzBnajUxS0hZMGdZOXhEbWlXNjczcXhQeWd2YXdUdmZ0ejhtcER4Y1ROZWluSW1JZlNtTVJHdjBnWGZubDBGbnpOTGhXT054VjZaTUNrVGNabmVDOVVRRTJCVU40UU9Mbjhmd2hrWkl4cWdDeXFB0gHzAUFVX3lxTFBaOWdlaTFCZ3E1MG1CS0QyQzVjTEFtTDhLVHQyc21wX3kwcWd3alQ1RUdhZXFNa2xMV1U3WjAxMDhidG9OY05BbUVvcDFhc3Z6OUdQclZ4cXRSRmVGTER6VjM1U3NoRlgzM0Q2dko3dWlubFZCaS1fME9kaS1tWmYtZVZVUkFLUE5aX1NTVnlyMVVsd1B2bHNudVhsOXltWHBIZ0tzSUJCRV8xel9TbERZWFpUdFNWTjBqNkJXUnZ2TENqdzVzcklKRlQtZzdQVEFDTTNDYndvLW1ldVpkVmdYTFBNZEhuTnJGYkFheEdzaEs0VQ?oc=5"
       },
       {
-        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
-        "source": "LiteFinance",
-        "published": "Sat, 06 Jun 2026 00:51:45 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
+        "title": "US Oil, Fuel Inventories Fall to Lowest Since 2004 as Middle East Disruptions Drive Export Surge - bloomingbit",
+        "source": "bloomingbit",
+        "published": "Sat, 06 Jun 2026 02:11:30 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03b05iRVB1M25EZFNaS2dYaEZXZFRpUjI3dDM1MVBlYzFiUzZVbWdIUndVYlY4Y00wZGtrd29DSnU0TXRHMldURVUtempZNkxkT0hZSg?oc=5"
       },
       {
-        "title": "From Gaza to Global Markets: The Economic Fallout of Middle East Tensions - shockya.com",
-        "source": "shockya.com",
-        "published": "Sat, 06 Jun 2026 00:02:55 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb1dEQTR3eHo3TmV0dUFPMmg1aW9oUXpPdWVZU3lHVzBiVHlYNkN1Q1Z1QnFyWEsyd2EwN2UtbXBUVktGTmttRDI1YWRqSlV6dm5GTmcwT3M0VllZWlhkVFpqTUtzY3Q0MjY3cFJRRk44NkVMRTRoMW9SVDZST1VaWUhZaDFvX2ZTQ2VxNklkT0xVU0hxZ1dPZTU4Q2dCMjBMYnh3ekU2MzhNSW0wMHVGYU55UQ?oc=5"
+        "title": "Iran’s crude oil exports plunge 84% in May amid US blockade - Crypto Briefing",
+        "source": "Crypto Briefing",
+        "published": "Sat, 06 Jun 2026 02:10:53 GMT",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pMU0wbHljdnQzTVA1enlDNW9YZWJpZGRxdWpMZzJJN3FVbXkyRHhDTjBtclZka29SQmQtcEd0Z0RLMGlHUUtCd212di1VS3Nnc3FELUtoYkhGTzVpa2VJZjBJaldZS3UyRk9adzhIN3FMbDcxMWswYw?oc=5"
       },
       {
         "title": "WTI Crude Oil futures eased from highs on strong jobs data. - CME Group",
@@ -8674,18 +8686,6 @@
         "source": "Yahoo Finance",
         "published": "Fri, 05 Jun 2026 21:24:42 GMT",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS0ZpREd3T2daWnRhaHlBQXJYU1BWUGw3Wjd2QmNSaDJJRExET0poZUdJei12T3ZQOEQyTmh5T0ZNTXZHSmFMYlR2WTA4ODRUdkJVLUEtaXd1eHVGSHFzNVQ4UHZ5ZlBNUV9ndDVFZXRYT25FSW5yTDhQVC1WbndKY0xwbW45S2M5ejJjQXhTanhTMDEyZXRLLUFaOWFpdw?oc=5"
-      },
-      {
-        "title": "Iran's threats against this Red Sea choke point are a big vulnerability for the oil market - CNBC",
-        "source": "CNBC",
-        "published": "Fri, 05 Jun 2026 19:55:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTnBLWWpVNnVHUHhYR29iaHVOekM2a1laaWgyczBhMjF5bldEc2xQQ0lRc21vNEZBQUU0cHlzUHY0T2Q0TjlyeFowNWtibmNCRko3UlJLdWxJZjJkX19KZXloaU9oejBYY0JxdURKbkhwOTJjOHRDR1pGSWpHc29jOWwyLU9MUVdDNGVmSWVURzFkV3N2QjdzNnJB0gGfAUFVX3lxTFBFTGwyVUtGcXhvbkpMYk16R2d0eGZQWWhzcDM5dThmaXFXQ0Z3cEVnWFJJeE1SVGU5SDVtSXRMNTNuOFlKaTVqdGdvS0pHSzAtWGxPSDV4WURPOWdsOS1UMjFvbURVTVJVN1k3Z2F4R19hdGJhbzVZZ0FzOXUtRG5vd2VtZWRBT0RGUHlXbW12NUJrYTBkcVA0eXJWU2ZBVQ?oc=5"
-      },
-      {
-        "title": "Brent crude oil drops to $97.44 per barrel on June 5, down from earlier highs - eciks.org",
-        "source": "eciks.org",
-        "published": "Fri, 05 Jun 2026 19:51:13 GMT",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92cHhyUmxCUE8xM29PTEZBR19rVHRhYlc3UjhSajlhRmlsVjFVaHpiVVRBSERHX2RFbF9CNzNNcm0yNlliS3Z4c19kdDd0Szd0a3VydmNfRFhMcXd5V3pLRnhuczN5RzdYT3Fnd0hjdUVRdG54?oc=5"
       }
     ]
   }
