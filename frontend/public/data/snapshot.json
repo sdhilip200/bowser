@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-06-06T18:55:09+00:00",
+  "generated_at": "2026-06-06T19:23:13+00:00",
   "fx": {
-    "nzd_per_usd": 1.702662,
-    "as_of": "Fri, 05 Jun 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.721624,
+    "as_of": "Sat, 06 Jun 2026 00:02:32 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 92.96,
+      "latest": 93.09,
       "latest_date": "2026-06-05",
-      "delta_1d_pct": -2.18,
-      "delta_30d_pct": -11.53,
+      "delta_1d_pct": -2.04,
+      "delta_30d_pct": -11.4,
       "series": [
-        {
-          "date": "2025-06-05",
-          "usd": 65.34
-        },
         {
           "date": "2025-06-06",
           "usd": 66.47
@@ -1021,20 +1017,16 @@
         },
         {
           "date": "2026-06-05",
-          "usd": 92.96
+          "usd": 93.09
         }
       ]
     },
     "wti": {
-      "latest": 90.31,
+      "latest": 90.54,
       "latest_date": "2026-06-05",
-      "delta_1d_pct": -2.93,
-      "delta_30d_pct": -5.78,
+      "delta_1d_pct": -2.69,
+      "delta_30d_pct": -5.54,
       "series": [
-        {
-          "date": "2025-06-05",
-          "usd": 63.37
-        },
         {
           "date": "2025-06-06",
           "usd": 64.58
@@ -2041,46 +2033,46 @@
         },
         {
           "date": "2026-06-05",
-          "usd": 90.31
+          "usd": 90.54
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-06-05",
+    "as_of": "2026-06-06",
     "regular_91": {
-      "avg": 3.248,
+      "avg": 3.244,
       "min": 2.989,
       "max": 3.82,
-      "count": 83
+      "count": 63
     },
     "premium_95": {
-      "avg": 3.435,
+      "avg": 3.421,
       "min": 3.179,
-      "max": 3.689,
-      "count": 52
+      "max": 3.599,
+      "count": 41
     },
     "premium_98": {
-      "avg": 3.635,
-      "min": 3.459,
-      "max": 3.819,
+      "avg": 3.503,
+      "min": 3.447,
+      "max": 3.539,
       "count": 5
     },
     "diesel": {
-      "avg": 3.102,
+      "avg": 3.078,
       "min": 2.759,
       "max": 3.999,
-      "count": 92
+      "count": 81
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 4.6,
+      "min": 4.6,
+      "max": 4.6,
+      "count": 1
     },
-    "observations_today": 21,
-    "observations_yesterday": 198,
-    "observations_older": 13
+    "observations_today": 9,
+    "observations_yesterday": 145,
+    "observations_older": 37
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8602,10 +8594,10 @@
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPay0xNDluTW4wOU1sb0ZvWlFyYVYwaUtzYS12WXpCUU9iZVlxVE5zdHFPM1FhQWRHckgxUzNXaGY0STBSOURSc1B3bnZQa0JFQjBTWkloUUZ1VnE4b0tGSEt5clpBMTNOaG55QjB4MlhFbnk1WHpWQV9sN1RWdEp4NGhJQTZBVUIzVV9sWnBEQTRlZ29jUUx4UFJIMzIyZw?oc=5"
       },
       {
-        "title": "Diesel Stocks Fall Sharply, But Government Reserve Shipment Now Bound For NZ - Scoop - New Zealand News",
-        "source": "Scoop - New Zealand News",
-        "published": "Wed, 03 Jun 2026 07:02:43 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSlBWMWdRblU4aG9QYlFPdndzb2NpTkRFdE44R1pDV25HTXhkV1l6QzhEQTk3UjZ0STlnNzRQeUhLRjg0b1A3amlaal9SSkpuX29lNk45VlJudnc5YlQ3RFFvZmFKbTcxTl9xU3J6YlV4OU1aMWtPR0lfM2dVaWdYWk1tVGtRYW1TUTdlMmZ1ekVBbHBQb195VzB4UlNZeWJMWmZRNWNVUF9kX3pBZjRCYVJncFhkSGc?oc=5"
+        "title": "Diesel stocks fall sharply, but government reserve shipment now bound for NZ - RNZ",
+        "source": "RNZ",
+        "published": "Wed, 03 Jun 2026 02:37:11 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaGhGdjRjazVzbGkwOEFHYVY0SXdDcm12QzNIMk5QZ0huOHVEMElHVWY5d3M5Qm1sYTBTUnVDZDVsUzFpZ2VWbkZpQ21nQUNxdGVuc29hUVhhemh0Slo3NVFjZGlaMmdZQWEyY3VtM0c4d0FNZlJEREc3d2xqQkpTcHZqaUJrUjNrcEdkNWxxeEhyUDY1MzBHT0FEY1dNU3pYWVpyZm54VlZXTEFJTkdnSTdPZWFxUnEwLWJJ?oc=5"
       },
       {
         "title": "NZ diesel stock levels slip to lowest level since US-Iran war began - 1News",
@@ -8632,10 +8624,10 @@
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONkJLdkVBM2lDQWRaUjBpb3JNMm5idEdwbXp1dFlxT2M2cnhLZDlpM3ZGYnk0a0EwY3UxUXdUazJKa0VaUUlGMkhHX2R5Y3I0LXVMcjJKX0Q0aEdlTk9WREhZNE5mVzJnbzNuV0xlUS1pNGR4UENUaTRGcHlnWkRVRGNNT3dJaDMyR2MwSFl0bmJkaW8?oc=5"
       },
       {
-        "title": "NZ fuel security risk: MBIE says stocks fine but no plan B - b2bnews.co.nz",
-        "source": "b2bnews.co.nz",
-        "published": "Mon, 01 Jun 2026 03:04:19 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb0F1WnM2X25OdFlhVmRWNl90QWRXUnd6cWZqell1Z0Iwa2F3SDRsWGVERlV2bXJNX1A2MGtTTTB1S3JEX05DZ2N2UnhfelRCd01CVkFMRXdLSXQ5NXVqWnFMTE5nWllVc2o4WHdRQVZ5YUZqX3VQVkE3QTFYVVdFYUxuMTZCR3ctdFBMRXh3?oc=5"
+        "title": "New Zealand’s fuel stocks ‘well above’ minimum as shipment of reserve diesel on its way - Stuff",
+        "source": "Stuff",
+        "published": "Mon, 01 Jun 2026 02:39:02 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVmFwSWpfc09td0Zncnp0Y2o3X0dkckNzTmE1Y08tby1DS21SS1UwY205LVlHVFVDQ3dBV0gyZER5dmVza3lCel9WVnVTeXBreVk4VTFqOF9FZ3NIcXI2MFk1VFEwU1ZSbWl6dTdJYjVrWE1QN2ctRVAwR2x5bjlnMVZLTzRYZE9IT3V4NEhNc2QzU2Jrd3dEamdKM0JIeEU3ZDVObm1MVC13LTVYTlA5OUpSc0h3V0ZCMGc?oc=5"
       }
     ],
     "global": [
@@ -8658,16 +8650,10 @@
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMjVpUDkxd25XZEhaX0c4UlEydjByNUN5b0xxZjhBUEpUczNib3dDaVd4bW1JX3VuaWxMS01HV2QyTlhmV3FGX3d3RW1ENGhGOHdCRXJ6cmFrLXZyaWI2NkxEYVctOHBaRFVERmRCNnhWZmhMdDF6c3hNREtvREt0XzBnajUxS0hZMGdZOXhEbWlXNjczcXhQeWd2YXdUdmZ0ejhtcER4Y1ROZWluSW1JZlNtTVJHdjBnWGZubDBGbnpOTGhXT054VjZaTUNrVGNabmVDOVVRRTJCVU40UU9Mbjhmd2hrWkl4cWdDeXFB0gHzAUFVX3lxTFBaOWdlaTFCZ3E1MG1CS0QyQzVjTEFtTDhLVHQyc21wX3kwcWd3alQ1RUdhZXFNa2xMV1U3WjAxMDhidG9OY05BbUVvcDFhc3Z6OUdQclZ4cXRSRmVGTER6VjM1U3NoRlgzM0Q2dko3dWlubFZCaS1fME9kaS1tWmYtZVZVUkFLUE5aX1NTVnlyMVVsd1B2bHNudVhsOXltWHBIZ0tzSUJCRV8xel9TbERZWFpUdFNWTjBqNkJXUnZ2TENqdzVzcklKRlQtZzdQVEFDTTNDYndvLW1ldVpkVmdYTFBNZEhuTnJGYkFheEdzaEs0VQ?oc=5"
       },
       {
-        "title": "US Oil, Fuel Inventories Fall to Lowest Since 2004 as Middle East Disruptions Drive Export Surge - bloomingbit",
-        "source": "bloomingbit",
-        "published": "Sat, 06 Jun 2026 02:11:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03b05iRVB1M25EZFNaS2dYaEZXZFRpUjI3dDM1MVBlYzFiUzZVbWdIUndVYlY4Y00wZGtrd29DSnU0TXRHMldURVUtempZNkxkT0hZSg?oc=5"
-      },
-      {
-        "title": "Iran’s crude oil exports plunge 84% in May amid US blockade - Crypto Briefing",
-        "source": "Crypto Briefing",
-        "published": "Sat, 06 Jun 2026 02:10:53 GMT",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pMU0wbHljdnQzTVA1enlDNW9YZWJpZGRxdWpMZzJJN3FVbXkyRHhDTjBtclZka29SQmQtcEd0Z0RLMGlHUUtCd212di1VS3Nnc3FELUtoYkhGTzVpa2VJZjBJaldZS3UyRk9adzhIN3FMbDcxMWswYw?oc=5"
+        "title": "From Gaza to Global Markets: The Economic Fallout of Middle East Tensions - shockya.com",
+        "source": "shockya.com",
+        "published": "Sat, 06 Jun 2026 00:02:55 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb1dEQTR3eHo3TmV0dUFPMmg1aW9oUXpPdWVZU3lHVzBiVHlYNkN1Q1Z1QnFyWEsyd2EwN2UtbXBUVktGTmttRDI1YWRqSlV6dm5GTmcwT3M0VllZWlhkVFpqTUtzY3Q0MjY3cFJRRk44NkVMRTRoMW9SVDZST1VaWUhZaDFvX2ZTQ2VxNklkT0xVU0hxZ1dPZTU4Q2dCMjBMYnh3ekU2MzhNSW0wMHVGYU55UQ?oc=5"
       },
       {
         "title": "WTI Crude Oil futures eased from highs on strong jobs data. - CME Group",
@@ -8686,6 +8672,12 @@
         "source": "CNBC",
         "published": "Fri, 05 Jun 2026 19:55:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTnBLWWpVNnVHUHhYR29iaHVOekM2a1laaWgyczBhMjF5bldEc2xQQ0lRc21vNEZBQUU0cHlzUHY0T2Q0TjlyeFowNWtibmNCRko3UlJLdWxJZjJkX19KZXloaU9oejBYY0JxdURKbkhwOTJjOHRDR1pGSWpHc29jOWwyLU9MUVdDNGVmSWVURzFkV3N2QjdzNnJB0gGfAUFVX3lxTFBFTGwyVUtGcXhvbkpMYk16R2d0eGZQWWhzcDM5dThmaXFXQ0Z3cEVnWFJJeE1SVGU5SDVtSXRMNTNuOFlKaTVqdGdvS0pHSzAtWGxPSDV4WURPOWdsOS1UMjFvbURVTVJVN1k3Z2F4R19hdGJhbzVZZ0FzOXUtRG5vd2VtZWRBT0RGUHlXbW12NUJrYTBkcVA0eXJWU2ZBVQ?oc=5"
+      },
+      {
+        "title": "Western Countries Put Russian Oil Sanctions on Back Burner - Energy Intelligence",
+        "source": "Energy Intelligence",
+        "published": "Fri, 05 Jun 2026 19:38:29 GMT",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tNC1EV3RscEkxanliVl9sSEhnUDZ1STJZcnFKekVweUd6VTg2ckEwS0F1LS1tY0M5eXdOS3NWSjctbnJDaFVEcUc4WGJnT3J0bFc1aUV2T0VNUmpMRFJXM3pXQldFWnhMVFNEdi1BQUZlUQ?oc=5"
       }
     ]
   }
