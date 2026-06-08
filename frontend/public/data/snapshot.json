@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T17:32:38+00:00",
+  "generated_at": "2026-06-08T19:52:57+00:00",
   "fx": {
     "nzd_per_usd": 1.721185,
     "as_of": "Sun, 07 Jun 2026 00:02:31 +0000"
@@ -8574,16 +8574,16 @@
   "news": {
     "nz": [
       {
+        "title": "Air New Zealand Will Cut Some Flights Due to Fuel Costs - marketscreener.com",
+        "source": "marketscreener.com",
+        "published": "Mon, 08 Jun 2026 17:15:25 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdWtVeDkxZTlCRm1HaDRSdnZreFVLMGhDc2dkVFR0ZUFfVFRXRndTUzZVNTEwVlZyR3A1ekExa1pJN194UmdvQ2hDV3ptTnFySFo4MWM5Y1phQkF5QnlEaWVrNHNKbU94ZGtCSjJ1aldqTnFZUERqWGVMMFFmNUZVWi1CSVUtTzUwZWhOb3dkT0tFcmNZdlk3Z1FVaHlqUWVjWERzdU03bkU1b1BJ?oc=5"
+      },
+      {
         "title": "NZ fuel stocks ‘within normal range’ in latest update, diesel storage ready - The Post",
         "source": "The Post",
         "published": "Mon, 08 Jun 2026 02:22:43 GMT",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObWJKVEZXTjBZbWRWZ0F2OVlvVEFuSlFmUVZJTDZhNjJxS3pNZzZjejNpcW9pdFdUUnlyNFh0MmRlOXdiY2lEYmlIV2pUNUh3RXhTVW5XNWtzd2dKc29lYm9KckRGVjdwd1AzZjU0STM5dGJPY0QtUFdpWjVzMmVXTUtYdEMxUHN0QWpRSUJ2WnJOQnkwNWhNWmhrOWhqLUR6UlV4S29Pa2FHOFVIZ1VUaEdqVQ?oc=5"
-      },
-      {
-        "title": "Watch Air New Zealand Will Cut Some Flights Due to Fuel Costs - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "published": "Mon, 08 Jun 2026 00:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQelcyQVpVUVZGajllSGxVWUMydDkxV0FMTFZWNGx5NkM1NW1zSFE0SFBkUFV2QTB6WmZrVm1QN0s5THRHaElRMEZmcmstM1JONGxmdllCN2F5Tmtya1NLSDdtSXlNcFVNVXEzaVpsSmlPZm9Hdks2OEJfYmRiVmx4THNhVHl6UVhCMndhenFkenJqMVhwV1lzVnZhWEl3VHVEdzUwSnBobUJyVUxtM2tn?oc=5"
       },
       {
         "title": "Air New Zealand plans for elevated fuel costs into 2027 - Reuters",
@@ -8624,16 +8624,28 @@
     ],
     "global": [
       {
+        "title": "Geopolitical tensions eased, narrowing gains; WTI crude oil prices rose sharply before retreating. - 富途牛牛",
+        "source": "富途牛牛",
+        "published": "Mon, 08 Jun 2026 19:00:14 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSUl0Mm0xSzhzMEFrdlpUdGFYaGlWWUN6VTN4N2t3c3BXWFJqZnZrWTJ2M2NQbUxzWVlObUlwdXlnbjBYaHhualBqSUVWQzVNSmlraHhpcVdueTFZOFM3X0w2U3gtdm1pNS1UYWJrRXh2TmEya0hERWZkR25UOGJJNmdfdm1vcFlWc2RrWmZBdl9qb0IxeGhnd2U1SElQU2doZDB6OVJKV3JOQWRBa0dv?oc=5"
+      },
+      {
+        "title": "Global Oil Market Latest Update | Oil prices fall - The Daily Star",
+        "source": "The Daily Star",
+        "published": "Mon, 08 Jun 2026 18:43:17 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdktLVHRJZG44aHpKZzRGUXR3dFpOUjFJc0lGNFF0Y0hrUGdiRzFubTNqaUtxamdST0VlZFhwbWxLRTBmLWYxT1UtZ05lUUlfOHF6WlBtbGZ2bF9rZ0FnSGtRZVlXbGh3R3JxaVNYbnRmU0EyLUpFWEZsVUlSUlR3Y2h2Q19vVkRO?oc=5"
+      },
+      {
+        "title": "SLB jumps 3.9% as oil rebounds on renewed Middle East supply-risk fears - Quiver Quantitative",
+        "source": "Quiver Quantitative",
+        "published": "Mon, 08 Jun 2026 17:36:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNamlJaU5lWHA4VlBrWDNDTXU4UngtVUswWG5LWVVuemhwRHgzS3EyWVR3UHJoSllLVk82c1g0ZjZwSy1NV05SMEdXN3FNb0pIREkySkxYV3pwcXJNa2ZNcFFfVV9qdDNKX1k1UmcyTVJubTlyXzVGaEwxRHNLUkI2T3ZSQnRKYjhfTE1vMm5YaHJ2OHh1bFMtd1FIWkp6V3lVNGVTOTFSTHNpQQ?oc=5"
+      },
+      {
         "title": "WTI Oil climbs as Middle East tensions overshadow OPEC+ supply boost - FXStreet",
         "source": "FXStreet",
         "published": "Mon, 08 Jun 2026 17:07:13 GMT",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTG1yOGdTTkI0QXRjS29FTGphTkd2WGZaU2V0U1Jqem9NM0FrZ3lJaEo0cTA0aWE4QzU4QVE1Xy0yTjFGQjZ1SGxsVjdzNkNiQWZxVWpJbkpidkV0T254NmN6eU81c0FXT0tIRXBpUmFaSm54RVJJQzJyQ3huNWdYTXRienEyNk5DY2VzeXROMjFCSWJNcGNXb01zcnJXdUFYaE9vM2FwZEtkcGV4eXpvcmNVZw?oc=5"
-      },
-      {
-        "title": "EU announces Hormuz-related sanctions on Iran - Quantum Commodity Intelligence",
-        "source": "Quantum Commodity Intelligence",
-        "published": "Mon, 08 Jun 2026 16:50:43 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeEdTMkJ2blR0cjJfTE5qbDJBd2ZGNWE4am5yVTJXQkpwcTdtVmlYbmN3Mzh5SHJ2U09fcDB2OUxDc0NoWGpRN1pPTFRBMHZwX2xMUTZjUWdHWC15dkRaTWV4T0ptYnczWFVrVTYzbEQtQjlYSWZDVzJLOG5pclUtbUpIWFl0YzBaWU5nYjZfZThRQQ?oc=5"
       },
       {
         "title": "WTI Crude Oil Falls to $90 Level. Iran Situation Cools Suddenly, Strait of Hormuz June Opening Seen Unlikely - TradingKey",
@@ -8642,10 +8654,10 @@
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNFNONGdSRlpUWUxkNDh1R0ljZS1nWGY2bFNUNXYxSDFGWU5MNjZLLTBWY2dOWnRHeldCYXdFZXFhWFhwcVY2RHRxT05CRE5YRWlZcE1aVzR2Yl9oNUxWb2xXRFVmcVdRbVBMRkw5d1otN2piM0s1TUlTVVgxVmNySnRVZDk1ZWhFRWxNaldUaHdTRU1vTUp3ZTV4Y2h4REZkUEtKWEtBN2FOME9CYklaUWxIQ28?oc=5"
       },
       {
-        "title": "Oil Surges as Iran and Israel Exchange Strikes, Shattering Fragile Ceasefire - Kurdistan24",
-        "source": "Kurdistan24",
-        "published": "Mon, 08 Jun 2026 16:25:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZXhmREU0RS1KbW9xcFh3cDB0MUU2N1U4TXVXamJWTFhHTmZEbW1kVi1BSVh4MDNkM21uRm5IMHFFYld1SlBwd0diY3gxenVmTUFOQWkzRG9mV0xaczFSNkNpTEkxVDFhVm5yNy1UOGhLX1Q5YnBXbzVFcTVURllPZWJsUjRrUXlmVk5kd09SWHl2UFRKaFVtMFFUUElQTENzMk9OeVMwZTBLRE9hdjlzQ1QtWlJjT2kxMTVn?oc=5"
+        "title": "Weak Chinese Demand Forces Cuts to Iranian Crude Prices - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Mon, 08 Jun 2026 16:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaC1sVGdzTk51ZkxTekxmYVlkalFlSlZKLS0zUVBNbW1kNFVkQ3pySjlFYUlLUnZmSTNObUZMZnZVX2ZBWXpUSFcwWEF4UlFPdDhGVFJlWXJsTVpwT3JXQUNwd0p6eXczUm94REFKV0E5X2xnOFozQ0syWEMxR1NXV25HMF96aXlMU0ZVbXg3S0xiYzBnNTZNVFpkSDlzaWY1bUpMaS1HYm1vaVMwbkc0S9IBtgFBVV95cUxNLXVud2ZObkJxWTJwUWc2UmVWbmJ3LTdVNlhoR2M1NzlXTF9tbExBVFJqZ3VmZjJOZjVKdHdHS1VfUV83blRheTF0V0RGZmdRbnBaMDVqNDZPdXdSdEZJdkhkN2pqTDVUTUpMd3RVbnVDUWNuWEYzSmt6TmdxdUZwTUJpM0R6OUNjUExCejJPTkdXaE5xR2Q5aGFJU3d4ek55SWZ5UTEwMlJ1VVdPUGYwLTVWRFFsZw?oc=5"
       },
       {
         "title": "ENERGY WATCH: Mideast flare-up - Reuters",
@@ -8658,18 +8670,6 @@
         "source": "FXEmpire",
         "published": "Mon, 08 Jun 2026 16:16:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNE1FYXJRY0x1MHd3RHFWT09aN1ZaWGRKV2JfNXdHTFVpUVo4LUZjTWdrQ00wLTJraXk1MjFqWl95MU1vNlVVY0dnSmZfTGVJMzIteE5lbnFab3BoRVBFWng5TG1uRVdPMHFhWEwzdjVRaU5aWFJqVS1QQ3daMVc5Znk4ZnRSNExsTmNxWWMycEU5WG9BRUkzMl9zc0dsUWl5QVJjeUp4NUZkSzYtYk4wWFo4XzV6MVlibWFFTVdn?oc=5"
-      },
-      {
-        "title": "TETRA Technologies and Core Laboratories Shares Skyrocket, What You Need To Know - StockStory",
-        "source": "StockStory",
-        "published": "Mon, 08 Jun 2026 16:02:10 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd0JsSFFDUGluS1lzVHdCUXpmbEJramY4VngxR2E0VzJOU09WODh6WnptZXVHQ1I4WGFqS2lRWTYwb0hIXzJFclE1YjVGVXJjRDUzTjQ0S3B1MW56VHFna2VUTi1XMzNqVjM4N0NyaWFXZTN1MVBGTk0tdHA2emdKRGEwbENQdVBtVll0R014Y2hUbDh0d09HbjBlV2F6RVlCMmw0Y2NScnVUY2J5bWpSU25pMHlRdmNFSnBnaXhMeHhLR01kUEwteWY3RmpLRUFoRmh6dA?oc=5"
-      },
-      {
-        "title": "Crude Oil’s $114 Spike Changes Everything - 24/7 Wall St.",
-        "source": "24/7 Wall St.",
-        "published": "Mon, 08 Jun 2026 15:25:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObHlwX1I4b01fbS10aGZBRjdUaC0zOWtnakV0b2MySFRkNURJdXk5bS1SdTdlUlB4cWNwUW9yaEZRZkNmd056SHIxbEs2SHpYanN0OE81Rm9OakJ1WDNmVE9ya3hVelZEeHQ4dzltT05SbDRITnRvQmVLOHBlNlBOaUNHbmg4YVJNaGJn?oc=5"
       }
     ]
   }
