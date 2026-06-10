@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-06-10T18:39:01+00:00",
+  "generated_at": "2026-06-10T20:30:32+00:00",
   "fx": {
-    "nzd_per_usd": 1.721026,
-    "as_of": "Tue, 09 Jun 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.7195,
+    "as_of": "Wed, 10 Jun 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 91.7,
-      "latest_date": "2026-06-09",
-      "delta_1d_pct": -2.71,
-      "delta_30d_pct": -15.27,
+      "latest": 93.8,
+      "latest_date": "2026-06-10",
+      "delta_1d_pct": 2.57,
+      "delta_30d_pct": -15.69,
       "series": [
-        {
-          "date": "2025-06-09",
-          "usd": 67.04
-        },
         {
           "date": "2025-06-10",
           "usd": 66.87
@@ -1021,20 +1017,20 @@
         },
         {
           "date": "2026-06-09",
-          "usd": 91.7
+          "usd": 91.45
+        },
+        {
+          "date": "2026-06-10",
+          "usd": 93.8
         }
       ]
     },
     "wti": {
-      "latest": 88.43,
-      "latest_date": "2026-06-09",
-      "delta_1d_pct": -3.14,
-      "delta_30d_pct": -8.24,
+      "latest": 90.9,
+      "latest_date": "2026-06-10",
+      "delta_1d_pct": 3.06,
+      "delta_30d_pct": -9.04,
       "series": [
-        {
-          "date": "2025-06-09",
-          "usd": 65.29
-        },
         {
           "date": "2025-06-10",
           "usd": 64.98
@@ -2041,45 +2037,49 @@
         },
         {
           "date": "2026-06-09",
-          "usd": 88.43
+          "usd": 88.2
+        },
+        {
+          "date": "2026-06-10",
+          "usd": 90.9
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-06-09",
+    "as_of": "2026-06-10",
     "regular_91": {
-      "avg": 3.231,
-      "min": 2.949,
+      "avg": 3.203,
+      "min": 2.999,
       "max": 3.82,
-      "count": 76
+      "count": 72
     },
     "premium_95": {
-      "avg": 3.363,
-      "min": 3.029,
-      "max": 3.899,
-      "count": 32
+      "avg": 3.392,
+      "min": 3.099,
+      "max": 3.789,
+      "count": 34
     },
     "premium_98": {
-      "avg": 3.465,
-      "min": 3.16,
-      "max": 3.659,
-      "count": 5
+      "avg": 3.536,
+      "min": 3.397,
+      "max": 3.71,
+      "count": 8
     },
     "diesel": {
-      "avg": 3.042,
-      "min": 2.709,
+      "avg": 3.023,
+      "min": 2.719,
       "max": 3.999,
-      "count": 90
+      "count": 80
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 1.959,
+      "min": 1.959,
+      "max": 1.959,
+      "count": 1
     },
-    "observations_today": 103,
-    "observations_yesterday": 87,
+    "observations_today": 114,
+    "observations_yesterday": 68,
     "observations_older": 13
   },
   "mbie_waterfall": {
@@ -8640,52 +8640,52 @@
     ],
     "global": [
       {
-        "title": "Brent Oil Just Fell Below $90 a Barrel. 3 Top Oil Stocks to Buy Now. - The Globe and Mail",
-        "source": "The Globe and Mail",
-        "published": "Wed, 10 Jun 2026 18:12:48 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOanoxYTFJVjgwODRiR2FITXdEZVlqWmNQSVViT1puNFhXMi03VE10cGlZRWloazBwbnViRGkyak90QVBqaXVNeVEtcE1ObXpydjVidmQ0bHg3T1dsdXhYLTNfUkh3Qm50ODhkVjBpNTBiN093QWlaSzljM2JOaF9xWE9sVEFLZDJvZlVWSVJlanR0cHQ0QTYwTDl5ekx4SlVqbFhPUHVESENXSnBQdUViTmRWaGhLS3FaV3QwVzZTVlRUdVY5Tndobm1Va000UnJhRUdBSTBuYjItUHpVTzJHTWV3?oc=5"
+        "title": "Oil Prices Are Up. Investment Isn't Following - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Wed, 10 Jun 2026 20:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ2YzQ21qVWJ5MEs0ejh5S2VUZ3k4ZHJJeFBJU0dIbUp6UUhlWE04SnNrX2JmU0tFbzIzSTB4Qm9aYnE0ZFBMR0N3V1hGN0RVbE0zcEZKR3RYOHF6eGtHOXJnSFRBSEptZ3JKZHpidXFCZkRKU1cxSHF5QzFaWWVBMXM1M2pBRHp0Y2VUZFZfNNIBlAFBVV95cUxPOE05MEJyQTlfSFdleHE2azRCaUxub2JjbXU3UUQ1bzdqTTBHOHRDNFkzaXVoc1hoOUp4UmNOSlh6eFd5Vjl4VE1zWUNJRDdnanhJY2I4YXhWNFg1cnY0eHdkR0FTM3pydk51TWZoQ1VIeEpFQXRobjN6c2t3Qnp4d0RzSEItX1BiM1p3WTRJWWZWOS0x?oc=5"
       },
       {
-        "title": "Brent Oil Just Fell Below $90 a Barrel. 3 Top Oil Stocks to Buy Now. - The Motley Fool",
-        "source": "The Motley Fool",
-        "published": "Wed, 10 Jun 2026 18:07:02 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVFhwWEJqVDMtN0pPVmxfRnV1TTRKbVhFNWRkTmtIZXNNaEw0NEI4WnRjdGhBeWhVUGtHYzdqZnRob0lVLXFXMFNOSGUtUExJQk44N283RUVzZm9RUEptSk84VGpMTkF1dUNDM0p3Tm1Ma0xCTVV0eURqZEFoSXhrRGh3Qm1nY2JzOXpILUs4bDQtcWtxNjAw?oc=5"
+        "title": "Iowa gas prices down 13 cents from last week - KCRG",
+        "source": "KCRG",
+        "published": "Wed, 10 Jun 2026 19:10:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRaDZyVVhlV3RfbFJxYWFiajQzenkxRVEzOUpJdjJRTDRSWENMOEdfOE5KWDJWSTFGVjFGRHVOM2poQlFPVUtZYVppUTBSbmNocGNEbFlBaDkyeDdzVGFHVmdvTTRNS2FpbjlGMkNEdXFIdVNsdkYwcVBDTm0?oc=5"
       },
       {
-        "title": "US hits China- and Hong Kong-based entities with sanctions over Iran weapons - Al-Monitor",
+        "title": "Natural Gas, WTI Oil, Brent Oil Forecasts – Oil Gains Ground As Trump Says U.S. Will Hit Iran Hard - FXEmpire",
+        "source": "FXEmpire",
+        "published": "Wed, 10 Jun 2026 19:02:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQTZxaEZJNUphQ2Jya21zbzlCbVN3emFBTmhFcjJfU3lncGw4N3ZjS29YM1FIaDhvUm9uTEJmRDNZWnRRdEppMk4wYW93Qkl2NG5taHo1UlVkZTZSRVBVclI1SWZTUkkySWgwX3VuM1k3Y1c3UzFGb3QxSjJCSVU1MkFKUGlNWFBIN3p2am16bUZ6eU5HR1lLbVNPY3Z1UkU3TUZfWXoxakVZdlZvTUJ5eWVxNVN5WFNlV0xKOWhCdzFJdjBUQnp5V2w1OTkzVjhhNkR3dUV0N2JUVXcz?oc=5"
+      },
+      {
+        "title": "Update: WTI Oil Rises as Iran and the U.S. Trade Attacks While U.S. Oil Inventories Fall Again - Moomoo",
+        "source": "Moomoo",
+        "published": "Wed, 10 Jun 2026 18:45:35 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWVowMFlVbW5wTkp0SzRvT01uLXN4dlFOZllIcnZoY0I5cDdoNmU4RURrMjI3SUItaGZSUURSX2hBWlBOamNNck1FZ3R1ckNjNWM3WmJJOXY4bWFDX1RzRkRXUUx0WWtUS1FUT0Q1b3FJRU5wUmtldnoybmpTZm5IbnZuZ0RqQlZ3d29GeXBJX2w?oc=5"
+      },
+      {
+        "title": "Oil futures: Crude higher as US, Iran tensions flare up again - Quantum Commodity Intelligence",
+        "source": "Quantum Commodity Intelligence",
+        "published": "Wed, 10 Jun 2026 18:37:42 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNDRpTkoxRTdzMThtdXIwNU5qS19BTTZMdEsxcnR6N3pkcENfMFZKdmNiV0VmMnBUV0dUWkdvUEtwdG5hNks5UDNsSGVWckkxRXBaTmFxSUREaXVkMUczTEdsMmdIbW81OV8wN3FMVGZxOWdfUDJuR2hsREF5Szk0WVpvWWRoVHZQQW9GU1FTWno1U0VnbjJiMENiZUZXdHFGU1d0Xw?oc=5"
+      },
+      {
+        "title": "July WTI Crude Oil Contract Closes Up US$1.83; Settles at US$90.03 per Barrel - marketscreener.com",
+        "source": "marketscreener.com",
+        "published": "Wed, 10 Jun 2026 18:34:33 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaW5kcFVxNktvakF0a0hxNHZVSnlzMkQ3U24xc1hhaXhvM2MyRnoyOGZSem1pZjZIRHVmNktKTDNFSEEyMXZpMl9fN2tUYVF3OFhTU05UR0EwZ2xfM0N6amRBRUJ5b1plcG1mUFpUSGM1WkExaXNyQ1RPa3ZDRm41VEc5bFFZbTRzZzhHc2lWMi1iOHA3YjlaN09VeWNzU3hfMVg2T3NsUFFyYjBlM0lkRU1yazlMS2RrMUd0eUJVNnpSZ1Bjc1h4VA?oc=5"
+      },
+      {
+        "title": "US issues more Iran sanctions as Trump says strikes will resume - Al-Monitor",
         "source": "Al-Monitor",
-        "published": "Wed, 10 Jun 2026 17:08:43 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPanMxRXpkaXd3R0hmTEhieDhBNFpoMEpPRm51TmQ5UHhSN0w5dnFYamlaZ3NZVUhpYjFlMjJGbXZGTGY1MkNtY2tQOGtwRktmeVJiZzJFNVl4Q1J0b0dHZkh0YXZBMGM4cm1SZ3NCNmV0Tm13X0VJb2drYlZkOEd6VEtyQjJzdWhVU1RWejFMR056ZHpvOG9ESloxcXVPWnJ3ZjBtRldscy1pWkJMXzRoNi1HNXlQZw?oc=5"
+        "published": "Wed, 10 Jun 2026 18:33:57 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOekhHcWY2WGR6WUlNRFRUTFBuRDFFM1EzOW5DMENyYU5wQlhodlk4Sk9nZTNNbWNBdk9XRElINHFVOGNTM042dS1lc2o2YUpMd1czeUNJSDlJT3ZEVHllV21yMlJLSXNHbXBOM0g1QTZaMHVGRkVEUm9zcFEzUl95dlNITF9ZeURweVRQR0JUd2dlbFE4UXV6MURkQU10THFaQm83RG9YdzY?oc=5"
       },
       {
-        "title": "WTI Oil holds near seven-week lows sub-$87 despite US-Iran tensions - FXStreet",
-        "source": "FXStreet",
-        "published": "Wed, 10 Jun 2026 14:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWnc5eXRQYXZCSVFiZFY5SVZYdnRBTkwweGVMbl9LbUdydEpINGFMZ2JnNGNQZ3dXejdEVmhuWTBGb0lZWFp4VWJQR2tnT2JmY3JtMWlMNWVSN09KLWZpeWw5RllJbWNIamNOWEl3Q3FQMjcwLU5nZHhuY0dRdm5pU1dyMVFReHJydE9kSEUwTkxrSUQwUDFIZ2h1TXkxS01reGFvaUJOUExheXJHbnc?oc=5"
-      },
-      {
-        "title": "Global Crude Oil Prices Rise As Donald Trump Issues Latest Threat To Iran - Open Magazine",
-        "source": "Open Magazine",
-        "published": "Wed, 10 Jun 2026 14:26:23 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUVBvSG8tLTdUeUl2RHhUZGl6cDhaOFFwVzVmZTNMZlc1U0lYTGV1ZU9YSHA0VVZncEFJM1F5ZThuT1drM2Zhcm5xVGppRXlPUEVkSWN3bl9uVUlKb2JPMW5QaUJiWjlxMHI2UkZId3IxdXVnUUFacXM5Q01PYWNxUE5xUGxwbHJ0Yk15ejctc3dua3ZzeEJwUzV3OTNhUlhOMkVoT1JsNUtDYXc?oc=5"
-      },
-      {
-        "title": "Current price of oil as of June 10, 2026 - Fortune",
-        "source": "Fortune",
-        "published": "Wed, 10 Jun 2026 13:04:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qRmJQbFJvdnA4RXlGTDZpTDFCd1c5bk5wYUR6Z1pCZFVPYlMySnhfQzNxUnlxbDh5M2hKbXNzTXE1V3hSdDZMXzY0ZjZuOG9wT2VPNDNKaFNlaVFDcjdKRzhR?oc=5"
-      },
-      {
-        "title": "Crude oil forecast: WTI could return to $100 amid re-escalation - FOREX.com",
-        "source": "FOREX.com",
-        "published": "Wed, 10 Jun 2026 12:55:40 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcHc1RkpoZUc0cnQ5Ukx3ZWFSZS1uWGRRb3FSUmg1b25VQWNlX1YxRHdqbUZGY0ZlRzV6bEU3NUx2aHNyV2dxbFdEd1lYUUJ0aHhBYnZzMWhFZlhBZ1I2NzNYSUR4TjBHbDBzR01lQXVEalRsV2xIYjRENS1DUzFXMWNrVmRWS0I2VWpLRmxHLXltZ255UjctYTYyZzlfY055RlQ5ZGNYVTJVSGlh0gG4AUFVX3lxTE1BNERQVVN4MHM2ZzQzU1pNV01PbS1yWFFfVFV0QnhITnlYSWJXMmhUSUxUZ1p0Z1hqVTFub2hoVmtmVUNIV0luS1k1WHBfUkRsR0d2bzNZUlNpNWRDZnczcmhfcUJzZC02LUd4ZE1pTzkwZ05LLUx0dFZDQjN6OTBGeEpYMXc1clBFSEhFNmNpamRVbkpBaU5vOTdkbS1tak5hLU5RQk1vbkNjTE94SUx1UE4xY2JCSXE?oc=5"
-      },
-      {
-        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
-        "source": "LiteFinance",
-        "published": "Wed, 10 Jun 2026 12:39:17 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
+        "title": "Crude Oil WTI Futures Chart - Investing.com",
+        "source": "Investing.com",
+        "published": "Wed, 10 Jun 2026 18:19:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QVUZmbEFLek45c2FDcW5MdnIwVUE5c2p4Q21nUVU4a0NOZzd2QTdxSGRQS3A1QTk2M1cwVFNfd0JVUFZYMnVBa01IeWJzNy1HZmR3cFJXZk1zdVNSRGJONkI3MEJ4RDQ3VjlocXhYdHc?oc=5"
       }
     ]
   }
