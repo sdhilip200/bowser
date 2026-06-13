@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-06-13T18:20:30+00:00",
+  "generated_at": "2026-06-13T19:25:18+00:00",
   "fx": {
-    "nzd_per_usd": 1.721092,
-    "as_of": "Fri, 12 Jun 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.715115,
+    "as_of": "Sat, 13 Jun 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 86.81,
+      "latest": 87.33,
       "latest_date": "2026-06-12",
-      "delta_1d_pct": -3.95,
-      "delta_30d_pct": -23.86,
+      "delta_1d_pct": -3.37,
+      "delta_30d_pct": -23.4,
       "series": [
-        {
-          "date": "2025-06-12",
-          "usd": 69.36
-        },
         {
           "date": "2025-06-13",
           "usd": 74.23
@@ -1021,20 +1017,16 @@
         },
         {
           "date": "2026-06-12",
-          "usd": 86.81
+          "usd": 87.33
         }
       ]
     },
     "wti": {
-      "latest": 84.38,
+      "latest": 84.88,
       "latest_date": "2026-06-12",
-      "delta_1d_pct": -3.8,
-      "delta_30d_pct": -19.69,
+      "delta_1d_pct": -3.23,
+      "delta_30d_pct": -19.22,
       "series": [
-        {
-          "date": "2025-06-12",
-          "usd": 68.04
-        },
         {
           "date": "2025-06-13",
           "usd": 72.98
@@ -2041,46 +2033,46 @@
         },
         {
           "date": "2026-06-12",
-          "usd": 84.38
+          "usd": 84.88
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-06-12",
+    "as_of": "2026-06-13",
     "regular_91": {
-      "avg": 3.17,
+      "avg": 3.167,
       "min": 2.884,
-      "max": 3.357,
-      "count": 71
+      "max": 3.359,
+      "count": 76
     },
     "premium_95": {
-      "avg": 3.384,
+      "avg": 3.396,
       "min": 3.129,
-      "max": 3.527,
-      "count": 41
+      "max": 3.899,
+      "count": 57
     },
     "premium_98": {
-      "avg": 3.523,
+      "avg": 3.528,
       "min": 3.349,
-      "max": 3.699,
-      "count": 7
+      "max": 3.7,
+      "count": 16
     },
     "diesel": {
-      "avg": 2.991,
+      "avg": 2.975,
       "min": 2.689,
       "max": 3.999,
-      "count": 80
+      "count": 87
     },
     "lpg": {
-      "avg": 1.959,
+      "avg": 2.734,
       "min": 1.959,
-      "max": 1.959,
-      "count": 1
+      "max": 3.51,
+      "count": 2
     },
-    "observations_today": 36,
-    "observations_yesterday": 158,
-    "observations_older": 6
+    "observations_today": 0,
+    "observations_yesterday": 207,
+    "observations_older": 31
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8602,6 +8594,12 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObWJKVEZXTjBZbWRWZ0F2OVlvVEFuSlFmUVZJTDZhNjJxS3pNZzZjejNpcW9pdFdUUnlyNFh0MmRlOXdiY2lEYmlIV2pUNUh3RXhTVW5XNWtzd2dKc29lYm9KckRGVjdwd1AzZjU0STM5dGJPY0QtUFdpWjVzMmVXTUtYdEMxUHN0QWpRSUJ2WnJOQnkwNWhNWmhrOWhqLUR6UlV4S29Pa2FHOFVIZ1VUaEdqVQ?oc=5"
       },
       {
+        "title": "Air New Zealand plans for elevated fuel costs into 2027 - Reuters",
+        "source": "Reuters",
+        "published": "Sat, 06 Jun 2026 15:15:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWGxiR2M3aXdFeldjZnBPeFBiLUhHYTU4dVR1ZlU3MUZ4RnpqTVdyTTZ1OG1kdTNQbDdtZm0zbHgxMWdlVVdBQlB4R0pCa3BEWjMxSXF4X1RtRE5xSzM5TzJob3MtSVlpcVJVeTU3WkRad3RkTmhramZ0M2J1MlZsU3dNSjNaUU52c0kyVDZ2S0podUlsdlNvZ3Z0NGFIaWRQUk9hZ2E3a25ybGJjV0dnSkh6MEE?oc=5"
+      },
+      {
         "title": "Diesel Stocks Fall Sharply, But Government Reserve Shipment Now Bound For NZ - Scoop - New Zealand News",
         "source": "Scoop - New Zealand News",
         "published": "Wed, 03 Jun 2026 07:02:43 GMT",
@@ -8630,15 +8628,15 @@
         "source": "1News",
         "published": "Mon, 01 Jun 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcWVNNDFUWWJ6Y0pUM3o0cFBBWFJrdGxjZkgwOHY2bFNSUXBITkxLdXVsNUxQQXR4TXJsRjczaDRQUXdsSWRKRDdXRUJxTE5QVzQ1dE9KWXZXWERkcTVXaksyX0NfNER2c1AzUF9rWGZIV2tJY1BwN19lZjhtb2RlWHB2RTRGcnN1ZzZ1WUFObU9hQVE?oc=5"
-      },
-      {
-        "title": "NZ fuel security risk: MBIE says stocks fine but no plan B - b2bnews.co.nz",
-        "source": "b2bnews.co.nz",
-        "published": "Mon, 01 Jun 2026 03:04:19 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb0F1WnM2X25OdFlhVmRWNl90QWRXUnd6cWZqell1Z0Iwa2F3SDRsWGVERlV2bXJNX1A2MGtTTTB1S3JEX05DZ2N2UnhfelRCd01CVkFMRXdLSXQ5NXVqWnFMTE5nWllVc2o4WHdRQVZ5YUZqX3VQVkE3QTFYVVdFYUxuMTZCR3ctdFBMRXh3?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "UK Sets January 2027 Deadline for Ban on Fuel Made From Russian Crude - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Sat, 13 Jun 2026 17:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMFM0eUdHZzVoWVpNb1U0U3NPQkxnRmpsdk9yWEJBd2hFMXVyTVlUN0xNbXhzTnRzUDUwRGY4NDdBcTZQWmJGUF9OdXBoTjlVd1AyeWw2RDlZVGhqOFl3b1psYXNvNUZ0SjhmeTFVZkxJUERlOUNORU1GWDQ5ZERLRkJWUUxybzR0ckhacFpfMlJ4RXI1S3pqUEJ4UEdybTFIdHR6Qi1obzZWaHpmQlJwSGh6NWllbzh3bnlkUklNLW9TTTjSAcgBQVVfeXFMTkpSNG1rRS1JT3RGdm9LeUduSEpPQ3BzTGxlZ1o2VFJzY25aSkd1V3htWEdJRHhPTDFzOE1Pem9CUzNmdDJ0UG9SdWZEYzFZWmlqcnpwRHA3VmI2bmg4eXpTUnhDSXRCVkc5R09UQ25oRzREOGhYNDctb0k3dEUtb2ZmOFA2WUgtYU1WNjRIdXdJSEJkQldjQnFtQjcwb0hhRU1RVHhKeDdfUHE2Y1VVMkZZRkxmOEk1V2hkLXdVM2N0X2JmYU14T2U?oc=5"
+      },
       {
         "title": "The mystery of how China is keeping down the world’s oil prices - vox.com",
         "source": "vox.com",
@@ -8656,12 +8654,6 @@
         "source": "IndexBox",
         "published": "Sat, 13 Jun 2026 00:42:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRFo5YUlWTGdVS0VWRzhsRURSbmJfdXc3a2gxY0xDQW9JVzAzZEJQMnZOUFFKTFRkOUtDbjdBbXRzVF82VFlhbUxlOGpOaDVsSnItNVZpa2o3a21Tb25EdmpoRGoxVUs2N3NlNWZNTGFJSURyLUh5Xzh0VHdfbzl6Tm91V1dRV09oRjlZeUFwQkNKN2dzdFh5aTlGNkJoQjQ?oc=5"
-      },
-      {
-        "title": "The Oil Market Could Be Weeks From a Breaking Point - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Fri, 12 Jun 2026 23:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU2pWZ1Q4eEhYaTJXOFRrUFNYRnVtMWtDTWtZOEYxVXNVZUZTV2Z4MklPOGg2eVdaZFUwa0FNRmtURXlienQ5b01YYl9DUnpnWS1SdWdLTkNOQzlmbEQ1S0dVNXNfVVh4T3JxalFRQ0pVRDhndWhKV0dqeFVXd2gyWGZGdFNnSFh2aS1ZeVNyVVRuWEkzR1ZoQkln0gGfAUFVX3lxTE41aWJ2VWxLeF9BLVhCRVdfZk80cGFBc1VNeWprOUtnNDJOTWR2Yk81ZFUydkNUY25uTG9HSXN4cnBTYmRBY0dUajFhSWZvbmg4V3hIMXZXRXh4RjBXRS1zcjRUU2RvSmJlYTkycmdBcTZORFBLellqNzNHTDZsMC1jZUt5MmtjbWFOam04bWNxbXBKZVRhcVlMOHJNWlFjYw?oc=5"
       },
       {
         "title": "Oil Drops to Four-Month Low - Rigzone",
