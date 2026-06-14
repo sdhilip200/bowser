@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-14T18:20:52+00:00",
+  "generated_at": "2026-06-14T19:26:32+00:00",
   "fx": {
-    "nzd_per_usd": 1.715115,
-    "as_of": "Sat, 13 Jun 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.715374,
+    "as_of": "Sun, 14 Jun 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
@@ -11,10 +11,6 @@
       "delta_1d_pct": -3.37,
       "delta_30d_pct": -23.4,
       "series": [
-        {
-          "date": "2025-06-13",
-          "usd": 74.23
-        },
         {
           "date": "2025-06-16",
           "usd": 73.23
@@ -1028,10 +1024,6 @@
       "delta_30d_pct": -19.22,
       "series": [
         {
-          "date": "2025-06-13",
-          "usd": 72.98
-        },
-        {
           "date": "2025-06-16",
           "usd": 71.77
         },
@@ -2039,40 +2031,40 @@
     }
   },
   "nz_retail": {
-    "as_of": "2026-06-13",
+    "as_of": "2026-06-14",
     "regular_91": {
-      "avg": 3.167,
+      "avg": 3.172,
       "min": 2.884,
-      "max": 3.359,
-      "count": 76
+      "max": 3.469,
+      "count": 54
     },
     "premium_95": {
-      "avg": 3.396,
+      "avg": 3.35,
       "min": 3.129,
-      "max": 3.899,
-      "count": 57
+      "max": 3.499,
+      "count": 19
     },
     "premium_98": {
-      "avg": 3.528,
-      "min": 3.349,
-      "max": 3.7,
-      "count": 16
+      "avg": 3.412,
+      "min": 3.318,
+      "max": 3.569,
+      "count": 3
     },
     "diesel": {
-      "avg": 2.975,
-      "min": 2.689,
+      "avg": 2.961,
+      "min": 2.699,
       "max": 3.999,
-      "count": 87
+      "count": 64
     },
     "lpg": {
-      "avg": 2.734,
-      "min": 1.959,
-      "max": 3.51,
-      "count": 2
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 0,
-    "observations_yesterday": 207,
-    "observations_older": 31
+    "observations_today": 60,
+    "observations_yesterday": 50,
+    "observations_older": 30
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8588,12 +8580,6 @@
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX0p3QzBuVWlLcDZMNEYxSG1uQWdYVUhCTGQ2d3U3bm5iYU5rb0d6cVhzaXUyMU15OXI1eG5odTNIR25ZT0hpNnF5b3ZINEpXaUZNRUJZS01EUDRSX0p5OXlPQW8wSFdaRE9uZ1FSXy1NSC1tUnJrdExXWlE4V2Q0UUJkWVBOMW1JU0xUZmtrZnA2Zw?oc=5"
       },
       {
-        "title": "What Australia does next is built into NZ’s fuel crisis playbook - SBS Australia",
-        "source": "SBS Australia",
-        "published": "Thu, 11 Jun 2026 19:00:56 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMjhYQURzZXFnU2NyUkRHV0gxajhtU2lWcXFZZE9zSGtGX1BkZV9PMTI1Z0dpM3oxR2Jnc1FyNzRqd3hDNWpqb1c3SVR0aXpubkJ5RlpXbGExNWN4NGdfZ1B5a3EzaGJTbjVKVFhlSjBpSlZiTGNHN2ZLWDRwZVBHYnBiX3k5RHNoNFhPZmVLS0ZlQW1CNjMtQXpvMDhJYkhGX0k5OVBKdXVGNTNlaVE?oc=5"
-      },
-      {
         "title": "Travel insurance might not help if high fuel prices cancel your flight - RNZ",
         "source": "RNZ",
         "published": "Tue, 09 Jun 2026 02:21:07 GMT",
@@ -8612,31 +8598,31 @@
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWGxiR2M3aXdFeldjZnBPeFBiLUhHYTU4dVR1ZlU3MUZ4RnpqTVdyTTZ1OG1kdTNQbDdtZm0zbHgxMWdlVVdBQlB4R0pCa3BEWjMxSXF4X1RtRE5xSzM5TzJob3MtSVlpcVJVeTU3WkRad3RkTmhramZ0M2J1MlZsU3dNSjNaUU52c0kyVDZ2S0podUlsdlNvZ3Z0NGFIaWRQUk9hZ2E3a25ybGJjV0dnSkh6MEE?oc=5"
       },
       {
-        "title": "Diesel Stocks Fall Sharply, But Government Reserve Shipment Now Bound For NZ - Scoop - New Zealand News",
-        "source": "Scoop - New Zealand News",
-        "published": "Wed, 03 Jun 2026 07:02:43 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSlBWMWdRblU4aG9QYlFPdndzb2NpTkRFdE44R1pDV25HTXhkV1l6QzhEQTk3UjZ0STlnNzRQeUhLRjg0b1A3amlaal9SSkpuX29lNk45VlJudnc5YlQ3RFFvZmFKbTcxTl9xU3J6YlV4OU1aMWtPR0lfM2dVaWdYWk1tVGtRYW1TUTdlMmZ1ekVBbHBQb195VzB4UlNZeWJMWmZRNWNVUF9kX3pBZjRCYVJncFhkSGc?oc=5"
-      },
-      {
         "title": "Is the fuel crisis over? Why experts say we may face a new crunch - Stuff",
         "source": "Stuff",
         "published": "Wed, 03 Jun 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPay0xNDluTW4wOU1sb0ZvWlFyYVYwaUtzYS12WXpCUU9iZVlxVE5zdHFPM1FhQWRHckgxUzNXaGY0STBSOURSc1B3bnZQa0JFQjBTWkloUUZ1VnE4b0tGSEt5clpBMTNOaG55QjB4MlhFbnk1WHpWQV9sN1RWdEp4NGhJQTZBVUIzVV9sWnBEQTRlZ29jUUx4UFJIMzIyZw?oc=5"
       },
       {
-        "title": "NZ diesel stock levels slip to lowest level since US-Iran war began - 1News",
-        "source": "1News",
+        "title": "Diesel stocks fall sharply, but government reserve shipment now bound for NZ - RNZ",
+        "source": "RNZ",
         "published": "Wed, 03 Jun 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRE9WcEg5ZGdINjZtVEpSSWR5WEFaSmgxd1B6NXVmM1lvMi1kUWQ2SU1BN3JibkdBSDV3c0cxeVdock90SndoZmE1bmtpanM5YmZvTUl2VjdlMm9yOVdXcFZLTm1KM21ya2lKNWd6Q09IV2lRMElCRm5KS045UjB2YUgzeEtSTUhIMzJSY2g4c1VraXJnUXlzdmZFN3pjX3pEV19JSkhR?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaGhGdjRjazVzbGkwOEFHYVY0SXdDcm12QzNIMk5QZ0huOHVEMElHVWY5d3M5Qm1sYTBTUnVDZDVsUzFpZ2VWbkZpQ21nQUNxdGVuc29hUVhhemh0Slo3NVFjZGlaMmdZQWEyY3VtM0c4d0FNZlJEREc3d2xqQkpTcHZqaUJrUjNrcEdkNWxxeEhyUDY1MzBHT0FEY1dNU3pYWVpyZm54VlZXTEFJTkdnSTdPZWFxUnEwLWJJ?oc=5"
+      },
+      {
+        "title": "Fuel prices still on the up; diesel run out on Cooks' Penrhyn Island - RNZ",
+        "source": "RNZ",
+        "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbzlvWlJmbmpnRHM5d25rbTUzYWROTFRIMXJJSmtRR0RyZ1BJY3hWWlJob3huWEZyWkZ1NERpOTJXd2xLbi1iaWRMb2xzWTcwZWhzazc4azQtMHViVVFDcUZKSnZ1WTZtTlBOT0h2X2FkZWpha2FiU1ZhQ0dPUkVUdXN2eTd3TjFRdFBxWVNVcUEwRnhrTlBJSWU1UGYtcTRjRFhtTFNzeUJzMS0y?oc=5"
+      },
+      {
+        "title": "Fuel stocks remain steady, extra diesel en route to NZ - 1News",
+        "source": "1News",
+        "published": "Mon, 01 Jun 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcWVNNDFUWWJ6Y0pUM3o0cFBBWFJrdGxjZkgwOHY2bFNSUXBITkxLdXVsNUxQQXR4TXJsRjczaDRQUXdsSWRKRDdXRUJxTE5QVzQ1dE9KWXZXWERkcTVXaksyX0NfNER2c1AzUF9rWGZIV2tJY1BwN19lZjhtb2RlWHB2RTRGcnN1ZzZ1WUFObU9hQVE?oc=5"
       }
     ],
     "global": [
-      {
-        "title": "US-Iran peace deal in doubt after Israeli strikes on Beirut - Euronews",
-        "source": "Euronews",
-        "published": "Sun, 14 Jun 2026 18:15:42 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObV9wcXV0U1QtZ2tJRDhvUVVCWFNBUnVldU9sc0ZjYk92c0N6OVpYOGNPN0pKNTlMazlyb0pPdjFtRUJvQVlDZEdpSXRwZjNGNTlCdkJOTWk4b2dtMlBUUFJNZTUxZ2VpMml5a2NENEU2NW9pYXRBaHJOSUFScWlfZldPRUp4X1RobUdYb3ZzNUk0QU5relhaMHlNRkNsTGJaTEFFc20tQ3FKVlBDdDBz?oc=5"
-      },
       {
         "title": "Iran and US finalize memorandum draft, agree to reopen Strait of Hormuz and lift oil sanctions - mezha.net",
         "source": "mezha.net",
@@ -8644,9 +8630,15 @@
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqZmlqanNNVm4wbUtxZFp2TlEtVGpuUXdmeGVBTk9lWGU2OG1Mc3pWTnlKX2xUbXI3TEpxUXdnNTdDRXNPdDl0OUZWMG42M1h5bWNnWHdwNl9TZ3k5dlV5a1d2YnVpZWc0aVE?oc=5"
       },
       {
-        "title": "Iran-US Draft Deal Would Reopen Hormuz, Free $25 Billion, Waive Oil Sanctions: Report - Stocktwits",
+        "title": "Iran deal draft surfaces with sanctions relief, nuclear limits as signing timeline clashes - eciks.org",
+        "source": "eciks.org",
+        "published": "Sun, 14 Jun 2026 12:47:26 GMT",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0waFRWN0I1aGM5MjYwcGlpS2J1bk1pR3R6TTVqODFnZHk0QUdLV2xlRFIwYTBRNkdSNG9NSERHOWl3UzdvV2dyUGdOS1I5Zk1Cb2FhWkZWTGxqbVZzUkM5Wl9fR2JhMW5XSzRmVTdEWjZFWnlGSkZDTw?oc=5"
+      },
+      {
+        "title": "New Iran-US Deal Could Reopen Hormuz And Lifts Oil Sanctions - Stocktwits",
         "source": "Stocktwits",
-        "published": "Sun, 14 Jun 2026 12:21:00 GMT",
+        "published": "Sun, 14 Jun 2026 12:22:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX2hvQTNDaHV5Um1JZHA2OWhGUTNXUm5UbUN5eVBKVW5KTk5KeW50Sl9wdUd5RTJZMTEyRmEtZC1zdXZGWVlTdEdPYWxCal9XZ19QM2w4ZzFrMC1DdGpra0dnYUxrLWNSWTlJVksyNUJnbDhhUXV6b0JCZF9aaFRWRjBvZlJYWHJWcXFlY2JmaEgxUTZNQ2pfTXB2Smg?oc=5"
       },
       {
