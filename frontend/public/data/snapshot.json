@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-16T19:23:29+00:00",
+  "generated_at": "2026-06-16T20:51:13+00:00",
   "fx": {
-    "nzd_per_usd": 1.709601,
-    "as_of": "Mon, 15 Jun 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.71447,
+    "as_of": "Tue, 16 Jun 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 83.56,
-      "latest_date": "2026-06-15",
-      "delta_1d_pct": -4.32,
-      "delta_30d_pct": -22.75,
+      "latest": 79.39,
+      "latest_date": "2026-06-16",
+      "delta_1d_pct": -4.54,
+      "delta_30d_pct": -30.63,
       "series": [
         {
           "date": "2025-06-16",
@@ -1017,15 +1017,19 @@
         },
         {
           "date": "2026-06-15",
-          "usd": 83.56
+          "usd": 83.17
+        },
+        {
+          "date": "2026-06-16",
+          "usd": 79.39
         }
       ]
     },
     "wti": {
-      "latest": 81.2,
-      "latest_date": "2026-06-15",
-      "delta_1d_pct": -4.34,
-      "delta_30d_pct": -20.35,
+      "latest": 75.78,
+      "latest_date": "2026-06-16",
+      "delta_1d_pct": -6.15,
+      "delta_30d_pct": -28.79,
       "series": [
         {
           "date": "2025-06-16",
@@ -2033,36 +2037,40 @@
         },
         {
           "date": "2026-06-15",
-          "usd": 81.2
+          "usd": 80.75
+        },
+        {
+          "date": "2026-06-16",
+          "usd": 75.78
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-06-15",
+    "as_of": "2026-06-16",
     "regular_91": {
-      "avg": 3.127,
-      "min": 2.809,
+      "avg": 3.139,
+      "min": 2.884,
       "max": 3.399,
-      "count": 69
+      "count": 60
     },
     "premium_95": {
-      "avg": 3.291,
-      "min": 2.949,
-      "max": 3.489,
-      "count": 27
+      "avg": 3.272,
+      "min": 2.969,
+      "max": 3.459,
+      "count": 30
     },
     "premium_98": {
-      "avg": 3.345,
-      "min": 3.229,
-      "max": 3.449,
-      "count": 7
+      "avg": 3.48,
+      "min": 3.349,
+      "max": 3.619,
+      "count": 9
     },
     "diesel": {
-      "avg": 2.886,
-      "min": 2.548,
+      "avg": 2.86,
+      "min": 2.539,
       "max": 3.999,
-      "count": 75
+      "count": 74
     },
     "lpg": {
       "avg": 0.0,
@@ -2070,8 +2078,8 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 137,
-    "observations_yesterday": 35,
+    "observations_today": 131,
+    "observations_yesterday": 36,
     "observations_older": 6
   },
   "mbie_waterfall": {
@@ -8588,10 +8596,10 @@
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ0ZfUlFsbE03bDVGemd1Vjk5aDEyQWJrck1IU3paRXhMQ0c0WjFWTEVCZ1BvSUJHMXUydER1dmNoeVBkS0xBbDFobjFNSTQtQnhfckx1c1FZb21TZ29IWmpLWXctYS1WbEFHS2E3Z0VPb0l6b1BBVkFEQmtadlk2N2gzTVNvWElSX1dZSVFIczJtVzNHR0ZScnN3?oc=5"
       },
       {
-        "title": "How soon Kiwi drivers could see cheaper fuel after US-Iran peace deal - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Tue, 16 Jun 2026 05:41:33 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRjd3RENpd3pvdWlLZzBNUkx1RnNpSzA0d1ZORW9xX0RRWk9vbTFTV2tvbnZwcTFtRjg0eU1JeVF1VDU3eEZTN2JpRENRNUREQ1Q4NHA4am9mNTEtWmpoZGdvclZXS3pqRWY3NlZvV3Z3WFRkS1d0T3VHcTZDd1FTMGxfbHVfdHJSNGloTUV0dy1BU2t1bWFyLTJ5QmIzZThraU5Na1VJTFRtODY2aHlSVXdvb2s1dlp6cnBhTml3cE85dw?oc=5"
+        "title": "How soon Kiwi drivers could see cheaper fuel after US-Iran peace deal - Newstalk ZB",
+        "source": "Newstalk ZB",
+        "published": "Tue, 16 Jun 2026 02:46:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMEJ2OUdyYjd4T3ZlVzZteHV3VVU1X1lVRWk4UTYwSTNQSFBxaGFqRnM2aHhrQkRnSnRQNDZnSEs1ekFtbmdrQnRmY2hZX0hmeG50NW9iQlh6amlrWXpVLXRiRnptak1KLXdhM1d6QzJsWEExbktaME96VFdJZVFDVU53ZnVFUGpJYmUxU1VfVV93eHNiQUU1Y2pqaWZUZE5UcUlITnNTWQ?oc=5"
       },
       {
         "title": "NZ Economists Trim Inflation Forecasts, Still Expect Rate Hikes - Bloomberg.com",
@@ -8618,19 +8626,43 @@
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQb3hFNm1QMmdDc0FpcENaUzh4TFpLenJ2alN2M3NCMTBWdmw1dUd2SnpfRXVzUmpWZm5DeWdJTGJzN1JWYWRTNHAtc2lIajIwaUltYjVMYUZLd1dTUzJDckp1OHNrenlDSzBXN0dsX2VMaXNLeEI1NnZHRHNERHhHZ2JuNGtRaml6UUF1ZmNsRlV4UWwwRDVrVmF5eTdzNG1PeHZTV0I4UjJTeEk1OWpPYWQtM0RJMGZJV0VjU3YwbjdjbmdBSi1DNXNMZ1lBSGVoZ04xZkM2OHJqaHM?oc=5"
       },
       {
-        "title": "Fuel company to lower prices in wake of Trump's Iran deal - 1News",
-        "source": "1News",
-        "published": "Mon, 15 Jun 2026 21:09:27 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbXh4cDhzUXZJdmxNVXlCODZ5RWtad2J4UDZQb2EwSm1wdHJ4VTAyTG04ejc0VHA4d0dHUWQ2em8weGNYdWc0T0VHam1qa1dTN0dObWYya2lFZEJlSzBzcUFxcW1MUUVET1pqNzBnMnJsM2tfejZ4ZTdvdkdabUhWY1JGak5lTmw3S204OW53a3J3NXJKZVNr?oc=5"
-      },
-      {
         "title": "New BMW X5 to offer petrol, diesel, plug-in hybrid, EV and hydrogen power - Auto Trader NZ",
         "source": "Auto Trader NZ",
         "published": "Mon, 15 Jun 2026 20:51:40 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM1M3RmpTckk5V3RHb245R2p4ZGJ6a1pJOGVEVWpKR3lqUm5FVVdQNmRWbHhzUUdJQ1NuekpmVzZNMVpsTmFYNTB6RmdSNmNZeGYzMzdLb3BrTnFrd2NmUTNna0UtOF93NG5iR2lUQXZrN0ItTVVoTVhGbVlDUlZ4OXNGcUpkVXlVOFJpS0lsVG8yM0NPdnlDMWt2LW41aGtCOFE?oc=5"
+      },
+      {
+        "title": "Thin jet fuel tanker pipeline masks healthier NZ jet fuel stocks - BusinessDesk | NZ",
+        "source": "BusinessDesk | NZ",
+        "published": "Mon, 15 Jun 2026 05:15:13 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU2Zzb0gzeldMeFBjSU1VZC1adm9uLWpLREhmY0pVUWRIYlVxSDlfX2xkcFZpekl1QW5iUkJpQzBJbHVZbDVJcmp2LUkxOURyTEQtcTVNWEhSZ2g1ZkRCRmFfX2FNRll3RHRfTldwRmc5VFl6NVc5T0NaNjFZZkRYNHlWbHhBck43QWRjcnhCWGdCc2dHQWh3Ri1ib09BZVgzX3JQVlYzbjkxeEJCbHhQbXF0Yw?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Business - Trump suggests US can swiftly reimpose sanctions on Russian oil - France 24",
+        "source": "France 24",
+        "published": "Tue, 16 Jun 2026 20:33:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbURoWXcwRVczc0p4WWlydXFqMGw4UUxiOFZLdDl0MXFLVjVkZ0d6M0hMMDFsc09kOGd5UUZUVV9Jb19TM3QtQWNxc3hlSUM3dU91Q0pjeVFkZklWdmQ4UHBWbEduLWY1bHdVVS1LOE9Ob2JNLUVrT1NwY0NUUTRBNjhmU1ZNcm5ieTZWVmtRR01YRHZYM2s2UnZPYTJXdVlaQllnNkJBdmdhUzZubTVvQTd5M1ZJYWU4bnc?oc=5"
+      },
+      {
+        "title": "US lifting oil sanctions could hand Iran $100 billion within two years - www.israelhayom.com",
+        "source": "www.israelhayom.com",
+        "published": "Tue, 16 Jun 2026 20:26:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMC1YUlZnYjZhcGlnRXphbzdEbjBoMTRCbkloQ1drcHBvQ3hmeFNVY2RiZlJsRnlUNHhrdnZmRWJzWWJNWWRJVFF4cGJJd1lzeThTVXE4dVhaVzZZM0g1eDRKQXQ0dzZLbnBmUmp3U1FFYlNrRW5SeFM3YmN6OXRIZUpJR3l0UjlkUjZTa0lEcnZySThzNVJVWFlrT2dNajd4VVhENTNsUjZadFQ4Qnc?oc=5"
+      },
+      {
+        "title": "G7 Leaders Agree to Escalate Sanctions on Russian Oil and Gas Exports - UNITED24 Media",
+        "source": "UNITED24 Media",
+        "published": "Tue, 16 Jun 2026 20:20:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSXJTbDIzaC1aNTVBNjF3RDAwY2t1cEEyMDlEbTgwZjBvbzdxS1B5WmFiaGtNUmhMQ2twdWp0ajRoY0J3NWtxMFRleTR0d3FSUEJmc21mRk5peTdMVFUtejdERUgycms1T2R5TnNSZ2t4RzJTY2FQWE5HSmE5cFRDTmZRYXpWYXlrZU1nX2ctdWpJS0lwUGdSamVFalVOT0N0b2VrTHlwRnZGNnc?oc=5"
+      },
+      {
+        "title": "Exclusive | The Trump-Iran Deal Allows Tehran to Immediately Sell Oil - WSJ",
+        "source": "WSJ",
+        "published": "Tue, 16 Jun 2026 19:53:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMkZkdDV6TzE3dGF5Rlc5dTVGSGdQMC1vZ1hYX3dVaVFDTlRhbFJkcTNlS2Eza3NMSjRLQzBRaVlDS2NYaFNwdUstSG02T0lIQjBsY2RleWV1ekt2UFBiVEtWY1JYa3B1V0NtdFdrQm1UQThFcEJGT3hBREQ4QVNqX1UzQXJmZG1reWR3RDIzTTloa2dGcEFTaEhRQVBidkVuaWlGOVR4QQ?oc=5"
+      },
       {
         "title": "Trump Administration to Immediately Lift Iranian Oil Sanctions Under New Agreement - gCaptain",
         "source": "gCaptain",
@@ -8638,46 +8670,22 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaG5veHdZR3hvcTBCcEduYWJXQV92cGFycEstQ3ZxcU41NWpZZm1QSEhtTFhEYVl6OGlHUEJ3TjhaaGVFdTN3bmZkc2pROU56ZmxSdWtYelktbFFCLTM0V29QLUVrNm5TTktuMlQtRVlvZWNkNndyQ2tLT1ktaS0zSmljcl9OYXJuaWQ2RWlDQnlrd1UzVWtKbHZJV3pHbTBkd2EySFc5WQ?oc=5"
       },
       {
+        "title": "Oil drops below $80 per barrel, while tech stocks weigh on a mixed Wall Street - Boston Herald",
+        "source": "Boston Herald",
+        "published": "Tue, 16 Jun 2026 19:04:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVE56dVVlN0hWRmtGYUVBRG5iYVhaNVlsOWhGSWxjQVRtYkFCc3ZPUDlZU3AwTnBmTVlWNkZHVER1T25ScHdlR3psWDF4STZrcXFPUGozelBFRlZGdlUyX19VSy1ZWF84M1ZuQmN1RTZkWVlXUWdwNFdrMGZoZGViVU5YZTM?oc=5"
+      },
+      {
+        "title": "Costa Rica Fuel Price Relief Could Take Time After Global Oil Drop - The Tico Times",
+        "source": "The Tico Times",
+        "published": "Tue, 16 Jun 2026 18:45:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRV9lQWwzUktsRTRMelNpYnVwZ2FMd3c4TmlZVWZWMUxyQlkydjlVa1JGWXR4Zi00eUhFc1JXRGlacGFSQV9uZUdsMVZ5NS1uWlRwWGg0WW85SWZ5QXY3SEE1cTE5V0FyM2dyeVo5N1VsYjJXM2V6RG85ODBCX0NSdktPTDA3RGhjSXlhN1RLTmV4a1dINEdsNDFuTUNzRHVv?oc=5"
+      },
+      {
         "title": "Oil Prices Crash as Traders Bet the War Is Over - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Tue, 16 Jun 2026 18:30:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTmVXXzIxTDRtckdWd1piVDJ3S0lfNUZRdERtTUJxQWRvcU1XYk9DRE1jRV96eTlfRnNlUEctX0djRThTektGS1NJZWNGMlgxaUtLODlkYkRvLS1scXRWQmZVRVNyTWRLeVQ4eWZMZU1wbXpvZmg5a0RqS3IzdUxZX0k2WmhFWmloNDNSaGJnRmtiX2hmUjloWnBIV2NGbFdZdmtVa2tB0gGrAUFVX3lxTE1xNmUxbEV2WlFsMGl3QnpfbGpzcmR1c0NEMHVEYzZOcERTdUxBTVFTU2s4NmtyeE05SDVOSkVoRnpoLTBOSHZuYURJZkhOVjhKZENpc3hwNGIyZ0MxMjZETDhiWFg0LVlBQnJzNTZmM2FRZDUxUko5dlhmTDlrempPOHBKdXpjeEtfMlVQOU9xZXN6dHM5VEhvUk55bE5haVFGVWU0ZDVKVWk2Yw?oc=5"
-      },
-      {
-        "title": "The Debate - Ukraine back in favour? At G7, Trump threatens return of Russia oil sanctions - France 24",
-        "source": "France 24",
-        "published": "Tue, 16 Jun 2026 18:09:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMkJQalZ6NzFpRVZQbG5JQzJndkxpR1gtQnlYVkl1SmY0cGx5WUhqcnR4bjI4SEF5OVA2NHV4Ny11bkJsM0dNRnJ5RmN0WXRyYjhlQzAweXZfcWdXTGxiSEZoRXRhY3hQWUNYVkFBbnI0OTJaeXZ2MXFzLWxheVlhRER4U2xRY0Rhc3hjSmtfMkRma01xSFJUQmFHeVdDRjBsa2xENFVoWlNGSjBWZVpPNmZMZEp2ZFRTd2xSZ0ludUk3bDczY2tNaE8zVTU?oc=5"
-      },
-      {
-        "title": "Trump signals swift return of sanctions on Russian oil as G7 refocuses on Ukraine - AP News",
-        "source": "AP News",
-        "published": "Tue, 16 Jun 2026 18:08:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQckhNTFdNSlJ2WjJYeVBYUVd4RDhZRTV6Wk9IRHRIX3d2M19ZN1M1OEhPcWhmdnhqb1FtLUdQdkJjRmN5MkRTZG90Zk9tSDBRbC1SZmg1b3VNS01tYWJIQnJtTDRTbk0wR0ktUUJlQzFUbXpDX3g4R19YVDV3eHFFMmNaTjh4NHp2RXE5UmwwN2lYVlVuNW5WTnBSbXppc1E?oc=5"
-      },
-      {
-        "title": "Tehran can immediately sell oil upon signing US-Iran deal, US official says - Reuters",
-        "source": "Reuters",
-        "published": "Tue, 16 Jun 2026 17:53:04 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMF8zSlRJcE1kRDQ1Y0VlSmRwMEV1YmYzbi1jZS1Ha2lPd0hocXBMMThndVRPRVk1dXlGQlhYam14c1VUTmUzaTBKQllGdkw1Zlo4bGFhRFRiU3p2b2Y2T05MY3Nfcm5Ja1BDX2gwTlhPbzFubnczOENYaWZrY0RzeTd5QlNRRTV5UmYtZDlsMDJyaTFFTXFreFRNTXpzaW1CUGxnZUg1UGpuTzU3ZUdYQQ?oc=5"
-      },
-      {
-        "title": "Trump suggests oil sanctions for Russia at G7 summit - KRCG",
-        "source": "KRCG",
-        "published": "Tue, 16 Jun 2026 17:43:18 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSU91X1hmUGR1ejl3bEdWYjBBWVR0LVE2LTdVT2xJTFB2Y2h0aXpVSDhDUVJCcWZZcHNqblR0SzVGS2pGSHFQMndQZy1fekxKVFZ5WjhnUS1RMnpnQW14US1OdTlLSHItUWtGd0U1NzVYTW9mMm83QndYUUx2c0pRYmg1eGJxUU5fTWo1Q3Z4UmhNRGhLOWN3OGNrSzZEUEJwdC1mbHRtY1F3aWZfaExaVDRNX29Pb2dPQmFUMUxMeDRod2dNRllKNHpST0NLYW9QS2c5M2ppMkt0X3VjRmh5NzVBSXg1dw?oc=5"
-      },
-      {
-        "title": "Crude Oil Prices Plummet to Three-Month Lows on U.S. – Iran Deal - AAA",
-        "source": "AAA",
-        "published": "Tue, 16 Jun 2026 17:39:49 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaWRtc3I0WVVLOGhMdXJvUTRoM0QyQ0xnblBzRDY3bUdTUGVVa3ZnU25PSGhtNlcwMXQtQXAtWUEzZjFXNkhYRm5TN2M2R0w3Vm9PLXFNTFh3MkItSU0yYmV3dkFlbnhWUFpZTW04enhkS2ktX1IzLTM1UURkMmZsSEpHcDA0Sm9IY0lvYTdzLVJubEZn?oc=5"
-      },
-      {
-        "title": "Trump suggests oil sanctions for Russia at G7 summit - WJAC",
-        "source": "WJAC",
-        "published": "Tue, 16 Jun 2026 17:39:47 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYVZyU2Y2YkNGVzQtX1l5Q1BQTzdNUFZXcFdDUjBwREMyMEZDVmFQNzZteWphM25nSEFzdE5ackFCeVBKTktWZjEtdmxMOW1odDZlcktRenBhd3Q0MGp1S2s0MjhtX2ZsNXhLdjFsU2FuMXFNcmV2MnBOUUFCdXJGZlF0QVA3cWhYR3BVM3N1QWVHdjlDQ3lfVjFSMUM2NWNYa0x2dG9VdkdXZmpMdnV2LWRqY0tfamN4Q0ZsczBXb1ZXeEpmMGdmclplc3F6STl0Z0xoOUdPRHp4dVNxeVZ3dG5WWEMzZw?oc=5"
       }
     ]
   }
