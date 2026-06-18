@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-06-18T19:56:29+00:00",
+  "generated_at": "2026-06-18T20:25:54+00:00",
   "fx": {
-    "nzd_per_usd": 1.714444,
-    "as_of": "Wed, 17 Jun 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.725753,
+    "as_of": "Thu, 18 Jun 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 78.91,
-      "latest_date": "2026-06-17",
-      "delta_1d_pct": -0.06,
-      "delta_30d_pct": -28.18,
+      "latest": 79.46,
+      "latest_date": "2026-06-18",
+      "delta_1d_pct": -0.11,
+      "delta_30d_pct": -21.54,
       "series": [
-        {
-          "date": "2025-06-17",
-          "usd": 76.45
-        },
         {
           "date": "2025-06-18",
           "usd": 76.7
@@ -1021,20 +1017,20 @@
         },
         {
           "date": "2026-06-17",
-          "usd": 78.91
+          "usd": 79.55
+        },
+        {
+          "date": "2026-06-18",
+          "usd": 79.46
         }
       ]
     },
     "wti": {
-      "latest": 75.36,
-      "latest_date": "2026-06-17",
-      "delta_1d_pct": -0.91,
-      "delta_30d_pct": -26.31,
+      "latest": 75.59,
+      "latest_date": "2026-06-18",
+      "delta_1d_pct": -1.56,
+      "delta_30d_pct": -20.5,
       "series": [
-        {
-          "date": "2025-06-17",
-          "usd": 74.84
-        },
         {
           "date": "2025-06-18",
           "usd": 75.14
@@ -2041,45 +2037,49 @@
         },
         {
           "date": "2026-06-17",
-          "usd": 75.36
+          "usd": 76.79
+        },
+        {
+          "date": "2026-06-18",
+          "usd": 75.59
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-06-17",
+    "as_of": "2026-06-18",
     "regular_91": {
-      "avg": 3.111,
-      "min": 2.884,
-      "max": 3.299,
-      "count": 63
+      "avg": 3.06,
+      "min": 2.719,
+      "max": 3.359,
+      "count": 67
     },
     "premium_95": {
-      "avg": 3.283,
-      "min": 3.019,
-      "max": 3.499,
-      "count": 26
+      "avg": 3.209,
+      "min": 2.839,
+      "max": 3.519,
+      "count": 32
     },
     "premium_98": {
-      "avg": 3.459,
-      "min": 3.359,
-      "max": 3.699,
-      "count": 6
+      "avg": 3.317,
+      "min": 3.119,
+      "max": 3.569,
+      "count": 4
     },
     "diesel": {
-      "avg": 2.838,
-      "min": 2.539,
+      "avg": 2.787,
+      "min": 2.359,
       "max": 3.999,
-      "count": 73
+      "count": 78
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 1.897,
+      "min": 1.897,
+      "max": 1.897,
+      "count": 1
     },
-    "observations_today": 103,
-    "observations_yesterday": 59,
+    "observations_today": 109,
+    "observations_yesterday": 67,
     "observations_older": 6
   },
   "mbie_waterfall": {
@@ -8640,6 +8640,12 @@
     ],
     "global": [
       {
+        "title": "Oil Prices Fall as U.S.-Iran Deal to Reopen Hormuz Takes Effect - The New York Times",
+        "source": "The New York Times",
+        "published": "Thu, 18 Jun 2026 20:17:37 GMT",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hdFlRc3c4UkdBd0hBMXdnLUZOZ2hrcllYV04xYXEyVXVPUHlRYzFMcDlUZk40UjBpVk5UdVRTNW42Q0ZvMjZnSUJ3aHNUaVFqNUU3Zk1OdVpWYWVqbTZRMlpyUVRWVU5VOG0wbXk2OTBmQ0w5anBJ?oc=5"
+      },
+      {
         "title": "Update: WTI Oil Falls as US, Iran Sign Preliminary Peace Deal - Moomoo",
         "source": "Moomoo",
         "published": "Thu, 18 Jun 2026 19:32:59 GMT",
@@ -8680,12 +8686,6 @@
         "source": "Reuters",
         "published": "Thu, 18 Jun 2026 16:08:38 GMT",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbDd0MllvMmVzLXhIVVhYcERSVkwweHlXM3ZJZFNQLUU5VEJQUFFGeHpFcmFySGVvejBFZjVIeHdaQ0tNcjM1LVh6bmJZaVdTdk5yYnJsNDVpVmV6T2dwem5XOExEdktkVnI3U240bFpMUVVydXdGbkR6U0s0ZkJQWFcwREdpdnp5X25pYlg5UXRETFRNaHJaUkNkMWdidHJwX2RIUl9R?oc=5"
-      },
-      {
-        "title": "Brent, WTI Crude Prices, Jun. 18, 2026 - Energy Intelligence",
-        "source": "Energy Intelligence",
-        "published": "Thu, 18 Jun 2026 16:00:25 GMT",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHWC01ZmZtMDM0amNhRWtvX3FNeUplT1JxNGlwSldEYWdROUl0Q1ZlY1VEUnc5QzRudVZlOXphTkdDS1l6VUlQcHdLbF9QZ19jZ0d5UXdacVYxMTYwdEJNY282OHpjVDQ2SU9KM1N4bXdVdw?oc=5"
       }
     ]
   }
