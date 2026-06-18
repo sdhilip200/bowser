@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T06:29:29+00:00",
+  "generated_at": "2026-06-18T11:02:13+00:00",
   "fx": {
     "nzd_per_usd": 1.714444,
     "as_of": "Wed, 17 Jun 2026 00:02:31 +0000"
@@ -8588,104 +8588,55 @@
   },
   "fuel_stocks": null,
   "news": {
-    "nz": [
-      {
-        "title": "Oil price falls, will airfares follow? - RNZ",
-        "source": "RNZ",
-        "published": "Thu, 18 Jun 2026 02:37:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbnctWWlvNFlXT21TTEJpMk1DdzRjQ1k2SHl3VmsyRERKR3RBSHdIeExxYmttRW5maXVYXzJuZHVFZFNSTTFZU002TnRITG1DaTY0aGEwXzAyVzlLMVNOcEZFX0hmTmM0SW1lZloxazdRQ3NTck91VUdyOTEyOUdBMVlSMFMtdw?oc=5"
-      },
-      {
-        "title": "Economy Picking Up Pace Before Fuel Price Spikes - supermarketnews.co.nz",
-        "source": "supermarketnews.co.nz",
-        "published": "Thu, 18 Jun 2026 01:24:01 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU3Q0dW4yOUM3STk3U1ZwQWk5eENFZXF1dmJQcHZpWEluQ0ctZmlibUFDd3pwMGhhOWpoVGNwcjJ1M0VJR0tHRjNjMkM1RjJLdVZjWHFrUWR2clZ3TnJKQWdCUW1Qa3BkV1MxOGlNT3djY0FtYloyYXN5YXo5QTJEVVJjU1JvRWswSnR4V1JjaXI?oc=5"
-      },
-      {
-        "title": "Economy grew 0.8% before oil crisis hit, new data shows - 1News",
-        "source": "1News",
-        "published": "Wed, 17 Jun 2026 23:03:36 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYlU1WnZmd3BnNzFiMmFIdlJrR2x6YXRHWXJXMWlaNG9oQjI0V2JQX084UzQ0d0J3dEpNTHZvb1paazZuRzU5RWk2Z01KMEk5YVdDY1FTSTBySU9YRVZ3eWdXQnNMYmF2eU1CVFZrYVM3V0VJbkVPRWk0QUh2QllxRkk4RmlzTnVBQW84ckVPTEk3UQ?oc=5"
-      },
-      {
-        "title": "Should New Zealand follow Australia's lead on the fuel crisis? - RNZ",
-        "source": "RNZ",
-        "published": "Wed, 17 Jun 2026 10:02:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZVNrQS1xUHlNcWxnSm1LN3hFWEJ4ekFBNFpMMkU5a3c1VWNZNnF0NWtkemlCM0VZWFAxUGFhVWlTRnlXbVRqU0hxQjZiMkFXbHRRRFE0QUFFVUdiT2ZBQ2xBYkxOVkJKMzU3d2pMUE84MG9rOENWZTJwS2lDazFwYmdvQ1dvYkFVOUxYNk5ZbmExZDdSZi1fdDhIVy02bHd4QTUwUjF0MA?oc=5"
-      },
-      {
-        "title": "New Zealand's fuel stocks drop but remain stable - RNZ",
-        "source": "RNZ",
-        "published": "Wed, 17 Jun 2026 09:52:32 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRW5fR19hSXhoUmozUVZteS03T2lGMmlJXzFuV0dPRHE5VTFUZ1JIU1p0VUpLYkJLckhGOXpSbjZwbHBZMkpsNGxXVDFfTXR5c3p3bkp1OVRsX2h3NG94TFFINkg5TlhrSTU4ZDRsTUdGZ0w4ZHFtMFRxd25waEhmajJ3X3A2QnBLemtOVE5sa042c1hTWXc?oc=5"
-      },
-      {
-        "title": "What does Iran war deal mean for New Zealand interest rates? - RNZ",
-        "source": "RNZ",
-        "published": "Wed, 17 Jun 2026 05:43:03 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY1F5VmljdGROU0UzNXdfQkZEamVtNkoxNVQxVkdaSGZyU1QwUlg3VnJSYU5ZcGthdU5xWEpFRG10VzRXN3RjbEk5TkRRZnpHMG9yWndkRXN6cFJkOTVhU1l6RnVxS2p0aTNGTHFqemNYaVQ4ZGNjUnY4bUduMlhuM2Q1bExVcDR1Nk05dUZGUnp0b2lNeGYtaTR4S0p4ZnlSd1Y4ZA?oc=5"
-      },
-      {
-        "title": "New Zealand Fuel Prices Fell In May, But Annual Costs Rose - Finimize",
-        "source": "Finimize",
-        "published": "Tue, 16 Jun 2026 11:10:27 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON082czhwLWNRT3ZYcEdRYnJqM0RXODZIM2ZKWGxKeXpITUxQOVdaUXVtMHVRanllS0RONDJ4M3cwN2pZZVJETk1PUnItbnN0SFExMW9VMnRXdkNmcjNTTnRpSzB2cEZWWGtFeVFlcHNtV0p0ZmN6R2U5WTFFZTRZc3p1Q2lPaGF3T0doVGpiWQ?oc=5"
-      },
-      {
-        "title": "How soon Kiwi drivers could see cheaper fuel after US-Iran peace deal - Newstalk ZB",
-        "source": "Newstalk ZB",
-        "published": "Tue, 16 Jun 2026 02:46:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMEJ2OUdyYjd4T3ZlVzZteHV3VVU1X1lVRWk4UTYwSTNQSFBxaGFqRnM2aHhrQkRnSnRQNDZnSEs1ekFtbmdrQnRmY2hZX0hmeG50NW9iQlh6amlrWXpVLXRiRnptak1KLXdhM1d6QzJsWEExbktaME96VFdJZVFDVU53ZnVFUGpJYmUxU1VfVV93eHNiQUU1Y2pqaWZUZE5UcUlITnNTWQ?oc=5"
-      }
-    ],
+    "nz": [],
     "global": [
+      {
+        "title": "Mapping the Market: Tumbling global oil price could fall further - Reuters",
+        "source": "Reuters",
+        "published": "Thu, 18 Jun 2026 10:06:14 GMT",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RS1RKUDhRenhRcUhfRENIY0RtanRjaDNYR2Rfdks0cFljUTFaQk5OZ2RhWW1NdVdLV1h4eDQwUW8wX25YclZ4bElhWURVc3M2cGNIdXhpcWNlR3pvT0NhbTVXdDZLMUgtNHVOR2FHV0hINEtXaXNMcA?oc=5"
+      },
+      {
+        "title": "Trump and Iran’s president sign initial deal to end war, open Strait of Hormuz and ease sanctions - NBC News",
+        "source": "NBC News",
+        "published": "Thu, 18 Jun 2026 08:48:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd3hyU3FuSlhkMVRjZHJ1eEQ2VmNZMWl5Y3I3QkFTeFh4YlhQazAwdTY0dHhpMDVYYXpsWmpYMTk1clhHOVZWUlpFU2JPQU1QTkdFM0RtM2VZVlVlaldtLWQyaWJBb0ppS1dCWmNYV2hKVmwxY2Nvc2RRVHZxUWhHbkNWSzdxbHl6RVYxYm9oWmVPS2kyd3NMWFA2T05fQXp3UGpnZUxkdDRBTGE4QWg0RGZ1TjlvZw?oc=5"
+      },
+      {
+        "title": "Hormuz reopening to release wave of oil supply, depress prices - Reuters",
+        "source": "Reuters",
+        "published": "Thu, 18 Jun 2026 08:25:11 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQenZmRHpWRlpzMTVrZ0xtVTBEdGMxNVY1OVNjUWJyR01yd05YTGMyYkVVRkZramRfNnUxVVRmTEJoMG9Fbzd3VE4zODUzWks3MXZlS3I0UzlPLU9GeS1tMGVudFlIZDhOaEtUN1ZNNUpibjVjQWVSSlFVc1Z5a2M0YkNWNFcxbUhadi1BblJ1MC03dHVCRWhuc1VzLW9LdkZiVllLX08ySWhERmc?oc=5"
+      },
+      {
+        "title": "Oil Drops to 3-Month Low as US-Iran Deal Signals Supply Return - Marine News Magazine",
+        "source": "Marine News Magazine",
+        "published": "Thu, 18 Jun 2026 08:01:18 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSFRyRWRQWWQ3cXJLQzVkaUVnZldwaGI2Uy1HeTcyVzZzQkNUYzkxcVJteHZ1MDN6VndsUFpELXhicENUYkRfYnU5cnAtbEJRZm5KMWVNcHRfdmRKNlhyUngzSU9XYXNFQ001WklEZDlCOEtGZkpYRHpHOUkwZW04WVFWNDY?oc=5"
+      },
+      {
+        "title": "Oil Prices Fall as U.S.-Iran Deal to Reopen Hormuz Takes Effect - The New York Times",
+        "source": "The New York Times",
+        "published": "Thu, 18 Jun 2026 07:08:13 GMT",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hdFlRc3c4UkdBd0hBMXdnLUZOZ2hrcllYV04xYXEyVXVPUHlRYzFMcDlUZk40UjBpVk5UdVRTNW42Q0ZvMjZnSUJ3aHNUaVFqNUU3Zk1OdVpWYWVqbTZRMlpyUVRWVU5VOG0wbXk2OTBmQ0w5anBJ?oc=5"
+      },
+      {
+        "title": "U.S.-Iran MoU does not mean oil supply returns immediately: Argus Media - CNBC",
+        "source": "CNBC",
+        "published": "Thu, 18 Jun 2026 06:52:21 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTFdnX1dnTDktRDVZUjFFNGFWa21tV0NOYnVqYTFmVjBmMXN2MmxVcFRvbG1UYWNyckk1WFdOb2dKYjlvVW1zaFNNZ2hQQTRVTEtsdXZVaGI0MExmdFBOY0lBa1MyZkdvWU9TTXRoQzBQR1ZCSU9jZGlQSGEyY2FzUjM0RXdhZlZpS2ozdUk4cmxnQzNmMF91dWVsdElmbFZwckQxLTdmTlpSRmtmMlE?oc=5"
+      },
+      {
+        "title": "Oil prices fall, stocks rally as US, Iran sign framework to end war - Al Jazeera",
+        "source": "Al Jazeera",
+        "published": "Thu, 18 Jun 2026 06:20:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN2p4U3V5MHpKTHNITFJNTDZxa3libWZYNjN4TXRUZzdIZlpiM3JWUWZ1V3pBOU9HdWJtQU5va3B4enY3T2VOVXh2UlFHYmNRRFE4M0h2QjBBTFJWSWNiWFl5UGJUQzFrd0ptT2xrZG53SGxVZ1JodGRfcm91Z093ZV9qa2xNLThiREdXb29saU5OR1Qzd1FiRVVudVlXWGluRFZ1WmJZN29McDJGVUHSAbMBQVVfeXFMTXRfcnlNNHVyOXF2WGd1emdEVF9md2JrVVF6elpWTHRtZkIzU0tKN1p0ektiRkVfN3NDbHZ3b2hRU2J1MDJ3RWhhMVdZcEg0WmV4S3VIRlRmRzRrLVFOakF4c3F1X2NNWUVuY1RxTnlPanF1M3llZnNoZjhlSi14eldsSHlhdmlpbTY2cDVjRktLY1Y4LWZjckNKVUlNSGRZZnZTU2R5SkpHNUVCMHVCakczQ28?oc=5"
+      },
       {
         "title": "WTI Crude Holds Above $75 Ahead of Fed, Iran Deal Talks - TradingPedia",
         "source": "TradingPedia",
         "published": "Thu, 18 Jun 2026 06:06:13 GMT",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTEt2cmd5UmFqQVNVNUZDNkMzcDRZVnFYYlpZamM2b01IQ1NrcjEzVzhxRHREZUEtRXpFUzczTmwyZGV4alZldmV0LUJ0SXk2SVZ0dEVaTUpQWDIwU0xqSllORDkyeTFBX2VpWXY1aGVPUzZtRGNzVjhRQUdNc0FmdTRDdG5Ic1pVTVQ5ekNadGxTWHVCbUt1M0JR?oc=5"
-      },
-      {
-        "title": "Hezbollah’s Iranian Oil for Venezuelan Gold Scheme - Small Wars Journal",
-        "source": "Small Wars Journal",
-        "published": "Thu, 18 Jun 2026 06:02:03 GMT",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iNURsZUltekZYU3ljeUdpUi1vaExSUDItb0dVTDJJX3I0Vlc1aDNsZk1IVXVObTJib2dGWlREakdRY2E3V0FGNUhzN1JURUg3RUJKeWNMRmd5emxGNU5rdlpYTUpTZENFVzcyejdLd0x5dzhDN0kzUWlqWEw?oc=5"
-      },
-      {
-        "title": "US officials say Iran deal calls for diluting uranium at minimum, waiving sanctions, opening strait - ABC7 Los Angeles",
-        "source": "ABC7 Los Angeles",
-        "published": "Thu, 18 Jun 2026 05:32:47 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY1lNV1plbG52VlZWNnJFS1RJUUJWMUZDSUl6TVhHWVJwZlBJTl9TWHd2T2w2aTFyU0doTHJXMlFJUWg2dy1DdXB3MWJJdWFfdjY2TUo1RVdvNHdsMUdrUndNbG5ZWFJtTUdvNHY4SHkwZmNNZG0wOVJsSFl4SWVsR3hic2RvanQ4Um5wZWlKejRYclItbVNjSy02aGpoRldDXzlpYUF4Z9IBrAFBVV95cUxQajc1QVpVOGpHUU15MHNPd3VudmNwR3VTX3ZNQnA0MEY3WWxZRVprOVJxWVJaYXVVNEVEcks3YjFVN2lDYlJMbEU4VnJjbXRmMEVmY2dHRzVlVFVlblNEeS1tSDNFenQyYXJWRTFtNktCUF9LazlGOVVHX2pjaHAxT3ptZTFYU055aWFwSDlaYmNyaHk5c080aFFtbjRHQjhxRU1VdHQ3WDYwNTB5?oc=5"
-      },
-      {
-        "title": "US and Iran sign initial deal to end war, ease sanctions and open strait as nuclear talks continue - AP News",
-        "source": "AP News",
-        "published": "Thu, 18 Jun 2026 04:49:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzhJLTNmdndOU3pZcnk5NHo0eTlWSXd1OTNGenFWRDUxbGVuZnhXLUN4QWs4RTAwUEpvT0xtd29yZ1J3U1d5Q0hhWkpBZ2U3MGx5QkltNGl3SkdvRWY2aGU2dmZCMnZ0aU5Td0xidVZ4VHExdnBkQmJYeEhYUjFWTXUxMlJKaFVwcFJfNHI3eDJqcnYtX09wM09YcmN5U2JjbkE?oc=5"
-      },
-      {
-        "title": "Oil prices fall, stocks rally as US, Iran sign framework to end war - Al Jazeera",
-        "source": "Al Jazeera",
-        "published": "Thu, 18 Jun 2026 03:48:27 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN2p4U3V5MHpKTHNITFJNTDZxa3libWZYNjN4TXRUZzdIZlpiM3JWUWZ1V3pBOU9HdWJtQU5va3B4enY3T2VOVXh2UlFHYmNRRFE4M0h2QjBBTFJWSWNiWFl5UGJUQzFrd0ptT2xrZG53SGxVZ1JodGRfcm91Z093ZV9qa2xNLThiREdXb29saU5OR1Qzd1FiRVVudVlXWGluRFZ1WmJZN29McDJGVUHSAbMBQVVfeXFMTXRfcnlNNHVyOXF2WGd1emdEVF9md2JrVVF6elpWTHRtZkIzU0tKN1p0ektiRkVfN3NDbHZ3b2hRU2J1MDJ3RWhhMVdZcEg0WmV4S3VIRlRmRzRrLVFOakF4c3F1X2NNWUVuY1RxTnlPanF1M3llZnNoZjhlSi14eldsSHlhdmlpbTY2cDVjRktLY1Y4LWZjckNKVUlNSGRZZnZTU2R5SkpHNUVCMHVCakczQ28?oc=5"
-      },
-      {
-        "title": "Oil Price Forecast: WTI Breaks $80 as U.S.-Iran Deal Hits War Premium - FXEmpire",
-        "source": "FXEmpire",
-        "published": "Thu, 18 Jun 2026 03:24:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPendYQ2kxOXB5Nlp3bVQ4Y0l5UkN4VVM2Z0lHMzdEakw4Z3hGREtGbVVqdWo2SFo0dHZ6MEdGeUZIVk5hMC1pel84REhjbzNzNDg4a2lndUprM1VCbG1BT25kLVZuVUdBbXZjQ1c1WGZmb01VX2RxeUNpSFVvemlka0JOazZQTjNBdlR4eG9uS0VPbnU3eEZzNWEtQ1FHamxuVVpNQzc4VTRCeE4zTFlaV1I3Qk9UZTZE?oc=5"
-      },
-      {
-        "title": "WTI Crude Oil May Struggle to Recover as Sellers Stay Active - Action Forex",
-        "source": "Action Forex",
-        "published": "Thu, 18 Jun 2026 03:19:18 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbVdsU05PeDIyYnpPTXJxNkFPakR0d1lieWt2SG8zS05JM1pRZEMySFQwRW85WUZ0T2JEYnNGUFRYZVh5Yjhkczk0ZnhrcXhaQTg5UWF6Q3BhVDBEb2R1ZWw4M3JqRl90Mi1hQU5uNFdra1dqTzJraHNrMU9mQTZEMEI5cnFlNWk4eTBtN09qUlNpM21hWkJMeDctUXY3amlUQUctbzE2Q0lNbkVYSXVUN3VZQlhreEJBYkk1WFRaN0hyY0ZUV2Zv?oc=5"
-      },
-      {
-        "title": "Oil down 2% after US, Iran sign ceasefire agreement - Reuters",
-        "source": "Reuters",
-        "published": "Thu, 18 Jun 2026 00:56:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZU5Zdm80MlhXLVFYajFEdy1GcU9zNGNaa2FvM2ExTmZkZXJieS10V1ZjQ3NqTndMcG1hT1hpb0FGYTN5M1ZMY2VFRG9QNDZkVGhxVEJTcUVpakJGQWNtODJYOTJpSFJOM0hwN01DT21ZaUxKN2FBa2czX3ZFUHlTMXpuUnZpa1dNOFUtOXFFaUx1LTJwN1E?oc=5"
       }
     ]
   }
