@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T22:22:58+00:00",
+  "generated_at": "2026-06-19T00:09:07+00:00",
   "fx": {
     "nzd_per_usd": 1.725753,
     "as_of": "Thu, 18 Jun 2026 00:02:31 +0000"
@@ -8590,22 +8590,16 @@
   "news": {
     "nz": [
       {
-        "title": "New Zealand just posted its best economic results in three years. But there’s a catch - The Spinoff",
-        "source": "The Spinoff",
-        "published": "Thu, 18 Jun 2026 06:46:38 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa09OR1ZqdDF2VmQ1aVM5T29LTU1ERzh4eW90T0h6Z1dYamdKWVE3TFZ4djJXNTFpSEtxOUp4T1ZaRDNpemRtR0ZMdWhQd2pBRVNXMGYxaTJTTkd1cHNVN3c5VUdVcWNyNHFxWWtyRkpVTF85UU5vUEFJaXpxVFlCM1duOWQySndOem8yZ3JSMjBkRlRCV2xiY1J2NDJaVkxWb1ZnMkFrWDRZY0lkbmJIbjl0X05JaVNiNnNjQXBNQU1LYmppaVdz?oc=5"
-      },
-      {
         "title": "Oil price falls, will airfares follow? - RNZ",
         "source": "RNZ",
         "published": "Thu, 18 Jun 2026 02:37:30 GMT",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbnctWWlvNFlXT21TTEJpMk1DdzRjQ1k2SHl3VmsyRERKR3RBSHdIeExxYmttRW5maXVYXzJuZHVFZFNSTTFZU002TnRITG1DaTY0aGEwXzAyVzlLMVNOcEZFX0hmTmM0SW1lZloxazdRQ3NTck91VUdyOTEyOUdBMVlSMFMtdw?oc=5"
       },
       {
-        "title": "New Zealand's fuel stocks drop but remain stable - RNZ",
-        "source": "RNZ",
-        "published": "Wed, 17 Jun 2026 09:52:32 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRW5fR19hSXhoUmozUVZteS03T2lGMmlJXzFuV0dPRHE5VTFUZ1JIU1p0VUpLYkJLckhGOXpSbjZwbHBZMkpsNGxXVDFfTXR5c3p3bkp1OVRsX2h3NG94TFFINkg5TlhrSTU4ZDRsTUdGZ0w4ZHFtMFRxd25waEhmajJ3X3A2QnBLemtOVE5sa042c1hTWXc?oc=5"
+        "title": "Economy grew 0.8% before oil crisis hit, new data shows - 1News",
+        "source": "1News",
+        "published": "Wed, 17 Jun 2026 23:03:36 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYlU1WnZmd3BnNzFiMmFIdlJrR2x6YXRHWXJXMWlaNG9oQjI0V2JQX084UzQ0d0J3dEpNTHZvb1paazZuRzU5RWk2Z01KMEk5YVdDY1FTSTBySU9YRVZ3eWdXQnNMYmF2eU1CVFZrYVM3V0VJbkVPRWk0QUh2QllxRkk4RmlzTnVBQW84ckVPTEk3UQ?oc=5"
       },
       {
         "title": "What does Iran war deal mean for New Zealand interest rates? - RNZ",
@@ -8636,6 +8630,12 @@
         "source": "1News",
         "published": "Mon, 15 Jun 2026 21:09:27 GMT",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbXh4cDhzUXZJdmxNVXlCODZ5RWtad2J4UDZQb2EwSm1wdHJ4VTAyTG04ejc0VHA4d0dHUWQ2em8weGNYdWc0T0VHam1qa1dTN0dObWYya2lFZEJlSzBzcUFxcW1MUUVET1pqNzBnMnJsM2tfejZ4ZTdvdkdabUhWY1JGak5lTmw3S204OW53a3J3NXJKZVNr?oc=5"
+      },
+      {
+        "title": "New BMW X5 to offer petrol, diesel, plug-in hybrid, EV and hydrogen power - Auto Trader NZ",
+        "source": "Auto Trader NZ",
+        "published": "Mon, 15 Jun 2026 20:51:40 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM1M3RmpTckk5V3RHb245R2p4ZGJ6a1pJOGVEVWpKR3lqUm5FVVdQNmRWbHhzUUdJQ1NuekpmVzZNMVpsTmFYNTB6RmdSNmNZeGYzMzdLb3BrTnFrd2NmUTNna0UtOF93NG5iR2lUQXZrN0ItTVVoTVhGbVlDUlZ4OXNGcUpkVXlVOFJpS0lsVG8yM0NPdnlDMWt2LW41aGtCOFE?oc=5"
       }
     ],
     "global": [
@@ -8646,10 +8646,22 @@
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CR0RDVEdrc3hjb3VDeG85RE9aMVAzb2RScXBhOTV6alBReWVidUt5MmloLWFGUldkN1Z1RmhzUTdoUndyb3F6OG02bjdGUUlfN1lBZTd2QjNzQ1FPby1VWjlEQ1hKRXRleEhOcjk0V0luQQ?oc=5"
       },
       {
+        "title": "Oil Prices Fall as U.S.-Iran Deal to Reopen Hormuz Takes Effect - The New York Times",
+        "source": "The New York Times",
+        "published": "Thu, 18 Jun 2026 20:17:37 GMT",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hdFlRc3c4UkdBd0hBMXdnLUZOZ2hrcllYV04xYXEyVXVPUHlRYzFMcDlUZk40UjBpVk5UdVRTNW42Q0ZvMjZnSUJ3aHNUaVFqNUU3Zk1OdVpWYWVqbTZRMlpyUVRWVU5VOG0wbXk2OTBmQ0w5anBJ?oc=5"
+      },
+      {
         "title": "Oil Prices Settle Near Prewar Prices, Gas Falls Below $4 After Iran Deal Is Signed - Barron's",
         "source": "Barron's",
         "published": "Thu, 18 Jun 2026 20:11:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iTXMwN1loRlJQUXVvVS1pMk0yZTN4ai1VcERaSTRlV2tWc1FOWGpEeXFsV0xzRUVWeXEtdWg5Z0czNE5tay1ueHZzMUkxVlJCbDZqcU1HOXEzMDlhOTZDRTlhY2cxd0ljNHZHYWJ0cGY1X1AxNWc?oc=5"
+      },
+      {
+        "title": "The Iran oil shock taught traders these key lessons about demand and China - MarketWatch",
+        "source": "MarketWatch",
+        "published": "Thu, 18 Jun 2026 19:38:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMDN2YVlGdEZraUJ5QTByNVNvajkybnpsS0JlR25KbFlHYWlQTkFjT09YSjJhanE0OFlOaWdqY05vQXdvUkRDUUozc0w0R0luZWRRNmotdld1Q3FHS29nYjk2aFdTa3RSS3Y0bE1lVTNyRzd2ZkJGVWhnQV9lNkd4dWhUbnBoaFUyUXNWOG5LdXV2cDd2dVJxU0dMZFQ0azVXTnJRaDRlY1ZZaUhvRkNERkl5WXg4dnl5?oc=5"
       },
       {
         "title": "Update: WTI Oil Falls as US, Iran Sign Preliminary Peace Deal - Moomoo",
@@ -8658,34 +8670,22 @@
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU20yaFhmaDlxZWxocUtORDJFOWkxRFpZaHRSd2doeU9mRkVGOWNaYXBVaXBQa0VRLTltdDZZaHkySUdiVUhPYkdydDZZYTlQU1IyTkFPZE9jei1uSnNvM2cwbGZXaHJPcnRvMDFvWlFHazk5bGlNMGo3M3hKdGdjSzN5QVZNcFZ3RUE4MjZiWGJZVTZaaXQyZFpuc1Y?oc=5"
       },
       {
+        "title": "Why Oil Prices Could ‘Grind Lower’ Amid the US-Iran Deal - Goldman Sachs",
+        "source": "Goldman Sachs",
+        "published": "Thu, 18 Jun 2026 19:01:04 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTkJrRnMtakJ2M1NYbnVzdk4yc1VtaEh0N21QR1dLdXhiOUVWVmFYMWdWX002ZHd2c1N6LTlXRTBpLVp6REtkVWlVaGEzLWUwazdOWXpQNnU4VjU5ZC03TXZDSGtHNklEVTRObDE3SlVHSE1jc0c3cVJWYUk4TjY3dmhpX2J5Q2szNWk4VUxnbHR6LVhvOGRoRDRGSkU2ZVNDeDNR?oc=5"
+      },
+      {
+        "title": "Oil Prices Fall After Trump Signs Iran Peace Deal: Trade on Kalshi Crude Oil Markets - Federal News Network",
+        "source": "Federal News Network",
+        "published": "Thu, 18 Jun 2026 18:41:09 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMG55X0U2UkV5Z0w1NGpTVU02aDBsbGlLZU5oUGZ3WTVkRUgybmtEOTNfd2N6Rmk0SUF1SkdFc2tzcFFOaXVFMjZiWjEwZVNBZUlTbzJYX09hMmtJVDJFYXdha1NMdHJQbkxOWm56cTVnb1B5SFFYNDVjUFlZOEEwY0ZzakgwUGNoWDZLeGVoT1JUWHV1NUM2dGpqZjNDb3oxSEw3NVE3SU4zbDFXNVk4cnVlZUFHVGJJREZpMXAzSTVMUUVh?oc=5"
+      },
+      {
         "title": "Oil prices keep falling as Vance says ships are moving through the Strait of Hormuz - qz.com",
         "source": "qz.com",
-        "published": "Thu, 18 Jun 2026 18:57:18 GMT",
+        "published": "Thu, 18 Jun 2026 18:27:18 GMT",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mNDQwTVBkR3VrRmwzaURhU2FTUjhRLUJzSlJLdVk2RzBDVnZINWpoWDZyWFhhNEFrYk8xa2s0WlhUSGV6MzNfX3Fyb0hLLTFxWWVfalFMU3B1a3pjYTZMaEZqUmhXdWs0MmRwOTJDelM?oc=5"
-      },
-      {
-        "title": "Average Brent crude prices could fall with Strait of Hormuz open - Baird Maritime",
-        "source": "Baird Maritime",
-        "published": "Thu, 18 Jun 2026 17:36:07 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWpScmN1Q1VaZzhjUzNiSU5rQ21kOFluSGZkckwySWU1RXpFUW5ReXVFQnBSX3AyLTZKNlNCWjBIWjBkZThJWm1udUdFS3UtNmZnVEhyTXFWR2Jtb0hYMHlRckdnX0dqTTdVVFRiOHJ2UUwwcU9GUVh0SkxEZ2swLUZnMmNiUGk3VjYxLU83dm1oZE1pSGZtbEdlcUJYUV9tZ2g3N3JLYUVURU5lRW1adNIBvgFBVV95cUxPRGFRdXRqaG1ZRjJfM3ZheW0ybGhnV05iNnBfanUzS0NYTlUwRmY5Z3ItYmdtUllEU25mbDNmREt6a2g0ZzhMX3JFMzVVRVhVVk8wcFE4TGo5bWtRanhWVUg2Szd4SmpRN3lDMU5peTZqdERzTWItTDFNaHNodXI5MEQ4aFM5akp2RXB6eGRpR19XRm5yS1dIZE5sZmRWa0RkSVZlZWVjZTJUUDlFUG9rNFdGeFRfMXRDUVoxcVRR?oc=5"
-      },
-      {
-        "title": "Oil Prices Are Crashing. Inventories Tell A Different Story. - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Thu, 18 Jun 2026 17:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWG1lOHBfTXV1SkFVQWtneXNDTVBiVXk0cEltMWlHMWl5T3VveThQS0c0Z0VKVlA0VndveU9fWm5Jb0pYMUJ0UHJYQTA5MHZLWExiNmVZdHdpUFVYaVVtNGZ4b2NhZU5sNGhJd3hNcTQ4M21ELWpTcVFrM05tQTJvRXRVQXJxRlNNOWpRTmpscUxYVzVOZkxyRmNwcTlwQ1dRSFNfZ0cyVmJRVVNSNVEzQWFYNk3SAboBQVVfeXFMTkdpU0REYjhtV2hndzh0d2FBWURheHlqT3BEUkZpdWp3bmhpSkhaUTQ0N21EQXRCZkNBTWhPSkRrQ0VfQVlEclFMRm1pWk1YVk5LQXB5dGp4U0xTaThVR3E3SHFaSWVyRHhMc0J6MHZFQkZmeWZDLUZ2NUFDX295VldfbXNSN1gtcGZoZE5sR1lYaTF1WDJfX1c2dXVaWWQ4dzVkemVUaXl6M0VFNTBWQlRwS2tGQ0Z0X2ln?oc=5"
-      },
-      {
-        "title": "Oil Prices Retreat as Brent Drops Under $77 - Caspian Post",
-        "source": "Caspian Post",
-        "published": "Thu, 18 Jun 2026 17:01:43 GMT",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JckRpSFVmalBtdm1uNUpadUtqeWpfN2t3YmZ1Q0tUaTlHWUh0Z1RqRllxdTlfZTAxQk9LVThlb2Jydk53d1IzcmhJbDFORFY0Tzg5Yk0zU1RmbXpTLVE1bjJHOHg0QjlmQnBvOWl1a0xlM2hJS3F2aGJyZVFxZw?oc=5"
-      },
-      {
-        "title": "Vance ‘confident’ Treasury can waive Iran oil sanctions without Congress - The Hill",
-        "source": "The Hill",
-        "published": "Thu, 18 Jun 2026 16:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa09LVGJxU2ctYmpyOXlzcVFheHROdmRBSTJmeWt1Vm9lU3dmYnRNZkZhM0FFMWRhRDlSbzNISkpCN1VfU3NRcWU4dHV0a3FGUG9FTHFVR0pELWUta2d0cHp2V3JZQU9XdkhLU0x3QjdwYjlaeDlyQ3RmYlNRNFg0eFZFakZ0bEdNQ3fSAY8BQVVfeXFMUHpKa0lHSzZtekpSeWJ3MEpva19xN0Flc3F0YlBYYzBDOEdrWVFPSFY2SUlFa2JUb1BYNS1hcG9ET2JHanlXNEdTRVZ6MGRnd1R3VlFCSkdQQ25QSjNWRTFZbkt3aGVWb2dXRU5RSk1kTEtkMVZqbW81enEtZ2U3NUMwSnVoR21UR3Q2WW1yZUE?oc=5"
       }
     ]
   }
