@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T16:07:38+00:00",
+  "generated_at": "2026-06-20T17:52:20+00:00",
   "fx": {
     "nzd_per_usd": 1.736322,
     "as_of": "Fri, 19 Jun 2026 00:02:32 +0000"
@@ -8590,12 +8590,6 @@
   "news": {
     "nz": [
       {
-        "title": "New Zealand just posted its best economic results in three years. But there’s a catch - The Spinoff",
-        "source": "The Spinoff",
-        "published": "Fri, 19 Jun 2026 17:10:56 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa09OR1ZqdDF2VmQ1aVM5T29LTU1ERzh4eW90T0h6Z1dYamdKWVE3TFZ4djJXNTFpSEtxOUp4T1ZaRDNpemRtR0ZMdWhQd2pBRVNXMGYxaTJTTkd1cHNVN3c5VUdVcWNyNHFxWWtyRkpVTF85UU5vUEFJaXpxVFlCM1duOWQySndOem8yZ3JSMjBkRlRCV2xiY1J2NDJaVkxWb1ZnMkFrWDRZY0lkbmJIbjl0X05JaVNiNnNjQXBNQU1LYmppaVdz?oc=5"
-      },
-      {
         "title": "Air New Zealand’s Tech-Savvy CEO on AI and the Limits of the Machine - Skift",
         "source": "Skift",
         "published": "Fri, 19 Jun 2026 09:35:12 GMT",
@@ -8608,10 +8602,22 @@
         "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZU1hY0FaZ0hDNE9ycDA1bThQWjRjUnB6ckVtai16STFxMnpjVUdZRVV0eTBNcnBWYnhmQWwzZkdDMVh1eDlrRG9CUC1EeG1yN1lFNll3Mi1VLTZSdUl4WUpYdk1kNkhYckVIWWh0cTJqUTV3MnlCVGVWWUx6bEhlNHUxcTlBS1B2NEZKYjRseVh6cjNLN19KVnpneGxVOWpvd3pHMnlkUWRKQ0syeUlQS2tCcE4wWW9Nb3VkbjNuYm5BeWpYRTRIUWtrYWp2NFJBWjdyWXd4R2kwdFVlU2FuVHVzRzF2eWs5bXJrc1F4UnhfbVdGVmFhN2V0NENiLWxGRGdaeXVteGxDVW8tQ3c?oc=5"
       },
       {
+        "title": "New Zealand just posted its best economic results in three years. But there’s a catch - The Spinoff",
+        "source": "The Spinoff",
+        "published": "Thu, 18 Jun 2026 16:01:47 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa09OR1ZqdDF2VmQ1aVM5T29LTU1ERzh4eW90T0h6Z1dYamdKWVE3TFZ4djJXNTFpSEtxOUp4T1ZaRDNpemRtR0ZMdWhQd2pBRVNXMGYxaTJTTkd1cHNVN3c5VUdVcWNyNHFxWWtyRkpVTF85UU5vUEFJaXpxVFlCM1duOWQySndOem8yZ3JSMjBkRlRCV2xiY1J2NDJaVkxWb1ZnMkFrWDRZY0lkbmJIbjl0X05JaVNiNnNjQXBNQU1LYmppaVdz?oc=5"
+      },
+      {
         "title": "Oil price falls, will airfares follow? - RNZ",
         "source": "RNZ",
         "published": "Thu, 18 Jun 2026 02:37:30 GMT",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbnctWWlvNFlXT21TTEJpMk1DdzRjQ1k2SHl3VmsyRERKR3RBSHdIeExxYmttRW5maXVYXzJuZHVFZFNSTTFZU002TnRITG1DaTY0aGEwXzAyVzlLMVNOcEZFX0hmTmM0SW1lZloxazdRQ3NTck91VUdyOTEyOUdBMVlSMFMtdw?oc=5"
+      },
+      {
+        "title": "New Plymouth District Council fuel costs soar, but not expected to affect rates - RNZ",
+        "source": "RNZ",
+        "published": "Wed, 17 Jun 2026 18:45:30 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdUFuLUZ6T2xvY3dmcDJVYldVaU9FUk5SMXAyLV9CR3NIOThwY2VxaUk5azdvVXJ5M3Foc0ZBWXdkR1VyNEFWTEtLa3B4eTdqbFZuNWFSeklSM3dMeHlyRUNlbm16eldSZVQwLUkxZFBhNXFMQmFwVHRGM1VtRlYxMGNsWHE5TVpUM3JNVU9pVXVIMmpNSVlmRkVpSmJOeXh2ZU5DTzZCM1RoMXcxNkZ6cmVyb3FFU3BMVU0yMWpNQVA5UTlqRXR3eQ?oc=5"
       },
       {
         "title": "‘Strong sense of optimism’: Fuel price drop boosts confidence - The Post",
@@ -8630,15 +8636,15 @@
         "source": "RNZ",
         "published": "Wed, 17 Jun 2026 05:43:03 GMT",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY1F5VmljdGROU0UzNXdfQkZEamVtNkoxNVQxVkdaSGZyU1QwUlg3VnJSYU5ZcGthdU5xWEpFRG10VzRXN3RjbEk5TkRRZnpHMG9yWndkRXN6cFJkOTVhU1l6RnVxS2p0aTNGTHFqemNYaVQ4ZGNjUnY4bUduMlhuM2Q1bExVcDR1Nk05dUZGUnp0b2lNeGYtaTR4S0p4ZnlSd1Y4ZA?oc=5"
-      },
-      {
-        "title": "New Zealand Fuel Prices Fell In May, But Annual Costs Rose - Finimize",
-        "source": "Finimize",
-        "published": "Tue, 16 Jun 2026 11:10:27 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON082czhwLWNRT3ZYcEdRYnJqM0RXODZIM2ZKWGxKeXpITUxQOVdaUXVtMHVRanllS0RONDJ4M3cwN2pZZVJETk1PUnItbnN0SFExMW9VMnRXdkNmcjNTTnRpSzB2cEZWWGtFeVFlcHNtV0p0ZmN6R2U5WTFFZTRZc3p1Q2lPaGF3T0doVGpiWQ?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Trump’s Fears About Economy Undercuts US Leverage in Iran Talks - Bloomberg",
+        "source": "Bloomberg",
+        "published": "Sat, 20 Jun 2026 16:33:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT08zLVZ5RklVSnFNYzRmMEFyVDA5VzJJenRzRWIxUGVuMkZ3czk4Q1FoR3ZRblNrSDlaSFpXZUlYRjJXVXR2R0MyNGwtajExNEZHbGRSQWJHLVc5VEc2S0Zqc0tjOUFRNkdqRzFlaG1BMDRlaWVmTUl2V0VQNDhWeGk5VUoxSDMwVFlYVVYyME14dUlIOWhpSlkwZXppUVNtUDlWM1liaUZpUnpkRkVZdENuQUk?oc=5"
+      },
       {
         "title": "Crude Oil Price Pops As Iran Closes Strait Of Hormuz - Benzinga",
         "source": "Benzinga",
@@ -8680,12 +8686,6 @@
         "source": "The Korea Post",
         "published": "Sat, 20 Jun 2026 03:27:24 GMT",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CbG1YbjNEM2JFN1hvaFd4NE5ScUNjMGRtQVlfSlJ3OEtJaEx1YW12NjVwb3V4ejJJT2N2Y0Q0MVdaM0Nlb1RNMjdMTE1TWnEwYW5uQ20taFBEdngzNE9wTW5la1kwZ3ZEMHfSAW5BVV95cUxQTUVSeC1iMlVvazR0ZTlfNDZPc1lYOGRJcXBiVldmeFpBdVVMZ1ZOUmhQTnJ3a243eE13TWpNUkRWYzVNbW1kOFVsTWV6N1RDYzU4MC10b09vMUlROHVxOGJPV0owS2haekFRR3hmQQ?oc=5"
-      },
-      {
-        "title": "Iranian Guards' business empire to win big if U.S. sanctions lifted - Reuters",
-        "source": "Reuters",
-        "published": "Sat, 20 Jun 2026 03:08:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeTVOWlpubWVJN3A4Rl9Wai1TNWRycWQwS1RrbXJCQndDZXIxaklsWV9idkhkRXI2SmN6cldIelBCNGVJNVNYWXhmUjNzeUx1VWhDbkNTdVJLNmwweUtzNmpobW5DSHNVc1BQM2xTc3plMzBpNVV6akI2X1AtVGkyN1l1Q0VIanZGNkctczJvSFM0WEtTdnZmNFlLdWg2LTVtUUxYTC00aEs0cG5qcERYSXBya1Y4dw?oc=5"
       }
     ]
   }
