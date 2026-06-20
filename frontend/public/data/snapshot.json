@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-20T17:52:20+00:00",
+  "generated_at": "2026-06-20T19:26:20+00:00",
   "fx": {
-    "nzd_per_usd": 1.736322,
-    "as_of": "Fri, 19 Jun 2026 00:02:32 +0000"
+    "nzd_per_usd": 1.742016,
+    "as_of": "Sat, 20 Jun 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
@@ -2047,40 +2047,40 @@
     }
   },
   "nz_retail": {
-    "as_of": "2026-06-19",
+    "as_of": "2026-06-20",
     "regular_91": {
-      "avg": 3.074,
+      "avg": 3.07,
       "min": 2.819,
-      "max": 3.399,
-      "count": 83
+      "max": 3.359,
+      "count": 84
     },
     "premium_95": {
-      "avg": 3.279,
+      "avg": 3.285,
       "min": 3.009,
-      "max": 3.539,
-      "count": 46
+      "max": 3.489,
+      "count": 51
     },
     "premium_98": {
-      "avg": 3.455,
-      "min": 3.359,
-      "max": 3.599,
-      "count": 5
+      "avg": 3.392,
+      "min": 3.299,
+      "max": 3.651,
+      "count": 14
     },
     "diesel": {
-      "avg": 2.776,
-      "min": 2.489,
+      "avg": 2.753,
+      "min": 2.459,
       "max": 3.999,
-      "count": 87
+      "count": 84
     },
     "lpg": {
-      "avg": 1.839,
-      "min": 1.78,
-      "max": 1.897,
-      "count": 2
+      "avg": 4.9,
+      "min": 4.9,
+      "max": 4.9,
+      "count": 1
     },
-    "observations_today": 14,
-    "observations_yesterday": 200,
-    "observations_older": 9
+    "observations_today": 0,
+    "observations_yesterday": 192,
+    "observations_older": 42
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8590,12 +8590,6 @@
   "news": {
     "nz": [
       {
-        "title": "Air New Zealand’s Tech-Savvy CEO on AI and the Limits of the Machine - Skift",
-        "source": "Skift",
-        "published": "Fri, 19 Jun 2026 09:35:12 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc3J6bUxWRnFHN1RtUW5LOTh1Y21PcGZQWC1YV0xLWXJBWk9UTWhfVmlFbC04Z0FRME45b1lLSjl2LVZKTXcxSm54UUgwbFdUd1ZWaVBtbkNHSm5EaDAtRlc5cUFCbUZ1Y1NWZ2l0QTloZk9UU3VYSy0tY0RxSjBMTjUzcUJ0R19QOFljNE05WWx3TkdQTU1uRmgwc2Z0UQ?oc=5"
-      },
-      {
         "title": "Z Energy boss on why NZ dodged fuel shortages — and why pump prices may stay high for a while - NZ Herald",
         "source": "NZ Herald",
         "published": "Fri, 19 Jun 2026 03:30:57 GMT",
@@ -8636,12 +8630,18 @@
         "source": "RNZ",
         "published": "Wed, 17 Jun 2026 05:43:03 GMT",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY1F5VmljdGROU0UzNXdfQkZEamVtNkoxNVQxVkdaSGZyU1QwUlg3VnJSYU5ZcGthdU5xWEpFRG10VzRXN3RjbEk5TkRRZnpHMG9yWndkRXN6cFJkOTVhU1l6RnVxS2p0aTNGTHFqemNYaVQ4ZGNjUnY4bUduMlhuM2Q1bExVcDR1Nk05dUZGUnp0b2lNeGYtaTR4S0p4ZnlSd1Y4ZA?oc=5"
+      },
+      {
+        "title": "New Zealand Fuel Prices Fell In May, But Annual Costs Rose - Finimize",
+        "source": "Finimize",
+        "published": "Tue, 16 Jun 2026 11:10:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON082czhwLWNRT3ZYcEdRYnJqM0RXODZIM2ZKWGxKeXpITUxQOVdaUXVtMHVRanllS0RONDJ4M3cwN2pZZVJETk1PUnItbnN0SFExMW9VMnRXdkNmcjNTTnRpSzB2cEZWWGtFeVFlcHNtV0p0ZmN6R2U5WTFFZTRZc3p1Q2lPaGF3T0doVGpiWQ?oc=5"
       }
     ],
     "global": [
       {
-        "title": "Trump’s Fears About Economy Undercuts US Leverage in Iran Talks - Bloomberg",
-        "source": "Bloomberg",
+        "title": "Trump’s Fears About Economy Undercuts US Leverage in Iran Talks - Bloomberg.com",
+        "source": "Bloomberg.com",
         "published": "Sat, 20 Jun 2026 16:33:41 GMT",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT08zLVZ5RklVSnFNYzRmMEFyVDA5VzJJenRzRWIxUGVuMkZ3czk4Q1FoR3ZRblNrSDlaSFpXZUlYRjJXVXR2R0MyNGwtajExNEZHbGRSQWJHLVc5VEc2S0Zqc0tjOUFRNkdqRzFlaG1BMDRlaWVmTUl2V0VQNDhWeGk5VUoxSDMwVFlYVVYyME14dUlIOWhpSlkwZXppUVNtUDlWM1liaUZpUnpkRkVZdENuQUk?oc=5"
       },
