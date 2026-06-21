@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T16:21:25+00:00",
+  "generated_at": "2026-06-21T18:02:51+00:00",
   "fx": {
     "nzd_per_usd": 1.742016,
     "as_of": "Sat, 20 Jun 2026 00:02:31 +0000"
@@ -8590,6 +8590,12 @@
   "news": {
     "nz": [
       {
+        "title": "New Zealand just posted its best economic results in three years. But there’s a catch - The Spinoff",
+        "source": "The Spinoff",
+        "published": "Fri, 19 Jun 2026 17:10:56 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa09OR1ZqdDF2VmQ1aVM5T29LTU1ERzh4eW90T0h6Z1dYamdKWVE3TFZ4djJXNTFpSEtxOUp4T1ZaRDNpemRtR0ZMdWhQd2pBRVNXMGYxaTJTTkd1cHNVN3c5VUdVcWNyNHFxWWtyRkpVTF85UU5vUEFJaXpxVFlCM1duOWQySndOem8yZ3JSMjBkRlRCV2xiY1J2NDJaVkxWb1ZnMkFrWDRZY0lkbmJIbjl0X05JaVNiNnNjQXBNQU1LYmppaVdz?oc=5"
+      },
+      {
         "title": "Air New Zealand’s Tech-Savvy CEO on AI and the Limits of the Machine - Skift",
         "source": "Skift",
         "published": "Fri, 19 Jun 2026 09:35:12 GMT",
@@ -8600,12 +8606,6 @@
         "source": "NZ Herald",
         "published": "Fri, 19 Jun 2026 03:30:57 GMT",
         "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZU1hY0FaZ0hDNE9ycDA1bThQWjRjUnB6ckVtai16STFxMnpjVUdZRVV0eTBNcnBWYnhmQWwzZkdDMVh1eDlrRG9CUC1EeG1yN1lFNll3Mi1VLTZSdUl4WUpYdk1kNkhYckVIWWh0cTJqUTV3MnlCVGVWWUx6bEhlNHUxcTlBS1B2NEZKYjRseVh6cjNLN19KVnpneGxVOWpvd3pHMnlkUWRKQ0syeUlQS2tCcE4wWW9Nb3VkbjNuYm5BeWpYRTRIUWtrYWp2NFJBWjdyWXd4R2kwdFVlU2FuVHVzRzF2eWs5bXJrc1F4UnhfbVdGVmFhN2V0NENiLWxGRGdaeXVteGxDVW8tQ3c?oc=5"
-      },
-      {
-        "title": "New Zealand just posted its best economic results in three years. But there’s a catch - The Spinoff",
-        "source": "The Spinoff",
-        "published": "Thu, 18 Jun 2026 16:01:47 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa09OR1ZqdDF2VmQ1aVM5T29LTU1ERzh4eW90T0h6Z1dYamdKWVE3TFZ4djJXNTFpSEtxOUp4T1ZaRDNpemRtR0ZMdWhQd2pBRVNXMGYxaTJTTkd1cHNVN3c5VUdVcWNyNHFxWWtyRkpVTF85UU5vUEFJaXpxVFlCM1duOWQySndOem8yZ3JSMjBkRlRCV2xiY1J2NDJaVkxWb1ZnMkFrWDRZY0lkbmJIbjl0X05JaVNiNnNjQXBNQU1LYmppaVdz?oc=5"
       },
       {
         "title": "Oil price falls, will airfares follow? - RNZ",
@@ -8640,16 +8640,22 @@
     ],
     "global": [
       {
+        "title": "Sanctions waivers for Iranian oil to be issued soon, says Iranian negotiator - The Times of Israel",
+        "source": "The Times of Israel",
+        "published": "Sun, 21 Jun 2026 17:09:08 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaTJodFQ0ZG42cm9lQXQwWjlSX2drSjNQczlxMjNuQ2hNZ3cyTkRvY0Zla0ZNMzhBVWRBeGhWd1BCQXZsMjAtcEN0NlZNSWtqd1VYdTB2QU5MaGs0ZDcxQkJZVDRqUnBOR21lS3cybUNKc1JGdV84SWR0VHZkODZDcXpVbngtSWFUa1JhelJGX20yY3l2LWlhUW1aZTRoNGZpcWlWUVVTdjZhY3puSTE5dVdDUlRNMjNqVi1hcmln?oc=5"
+      },
+      {
+        "title": "Brent Set for 8% Weekly Fall as Hormuz Exports Restart - Pipeline and Gas Journal",
+        "source": "Pipeline and Gas Journal",
+        "published": "Sun, 21 Jun 2026 16:29:56 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMWFxdGluRzhGbUFhMm1fY3RtZ3dPUmE5X0t0U1V2UDd0d2NueGhncndyVnM3ejdwWmhPUWpVWmt3WDE2R1dWQWdBNUNXaGFqT0pxckZlajZPZVZtdUZrNGFVNHhleTJ0amlXdVZsV3Q4Wm5lZm9RcjZWUjJEM2ZKelJzMnRWWjZxZXF6RGgwZ0kyS2dC?oc=5"
+      },
+      {
         "title": "Energy briefs–Low oil supplies, no more blockade - Oklahoma Energy Today",
         "source": "Oklahoma Energy Today",
         "published": "Sun, 21 Jun 2026 12:55:18 GMT",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa2RoTjgyNmhWSHctVGliZEw5eHJodUpvSFdyRkkzREx0YktXTWpPT2FoR0trMjJiMEhYamQ2eVpuV0V4ZGhxdjgxRGRkV3d2cVRHeFdzOHc1NjdBVmdZMHJwOFpSb0ZLXzBRYlI5YTA3eDdUQ2c0MktVanA1SFFwYlVKak04X0pEOFE?oc=5"
-      },
-      {
-        "title": "Brent crude to stay sticky near-term before softening in 2027 on supply recovery: ICICI Bank Research - The Tribune",
-        "source": "The Tribune",
-        "published": "Sun, 21 Jun 2026 09:23:33 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPV1NqNGNBemowNllhTGU1WGlnbnRxYmlHQkN5aDZuZklFejNYbEpOYUl4MFJmQjl3OXJJaWFDYl9Fb2VPcXl0dW1qWWJUTl9BdzZ2Y2pxcHIyc255ZnBnVHZGMERxVkh3TmJaMTlWYXRaMjhLSEFTS0g5R1djVXFLWDZ2VHhfNUdGbEtnOHFtNHBhQktMOFZsRWNoY1AyQ2tTWHhqTVhNc0ZRMU02Q25PWGp6Q2ZYTTRneGY3cy0tQjU1ZXFqY1BaTTVTYUhJT0JPQnZldHBWNDMtLUMx0gHgAUFVX3lxTFAzckNjZnFQRnBid2E3WHkzMUZkUGJydWljVzNkRkJfZUtWQkFlWGhXeXNMS1czZHdOSHl6WmJFN1IxcE5lYVVrZG9kVzBmTWhqMjNjNDJ2SEFsWHdkZUJVTFVXYmZ6aEtMcGpiSmxGLW9qZmVGbi1CcFMycmg1eWgtcGc4cndXcFJzV3N5NHRib3RSWGJpbkdpTnItSlc4eDB1MkQ5Z2c4anZPcFMzWjg5MnJhM0R2T3J6Q2NFd1p6Y25zMHNaWk41Slh6SW10aUxVTVhtRUNyNWxZY3FQeWY4?oc=5"
       },
       {
         "title": "Crude Oil Weekly Forecast - 21/06: Reacts to Hormuz (Chart) - DailyForex",
@@ -8680,12 +8686,6 @@
         "source": "World Oil",
         "published": "Fri, 19 Jun 2026 20:45:46 GMT",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSDU3MVA0Yzhuc1Y4dWw0cW5DUXVvdHk0T3h3S0pRaUdQTVRKbjFMZFFabFZrUnJZOGgxb1ZSbm5scm1TMC13S0tkNkJMTllNVVpSVjgwR01nSmhnQ3RtRUJqOGRaZWRub2FsaDNHUjhxb2cyWmVKOHFOVi11VDFTQ3REN0RWRklESkFLRHVtZnAwMkRXX3VNQlA3c0p5aVBfTjM5bElnLUJLQzZDLWc?oc=5"
-      },
-      {
-        "title": "Brent set for 8% weekly fall as Israel, Hezbollah agree ceasefire - Reuters",
-        "source": "Reuters",
-        "published": "Fri, 19 Jun 2026 20:27:18 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcG8wSGhHblhWdlppN2pVNUt0WFExeHM3a2xOS19weUVYRmEtSnQtVlRMNnBxY0hoZkF4b181N0FmTTQyNkFfYTduYUJHSGlreF9vSC1Ib1RPRFU1RERHRngtYWUwTEt0ZkpPSFdlOHBZMF9BN1JMenpYTzcwZ0RzOENHQ2Q1VTc2R0poVWdaTUNLc1lJbjMzRmttWW9LOC1FMWtHU0ZlTQ?oc=5"
       }
     ]
   }
