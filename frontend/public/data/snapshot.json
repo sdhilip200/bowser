@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-21T18:02:51+00:00",
+  "generated_at": "2026-06-21T19:41:34+00:00",
   "fx": {
-    "nzd_per_usd": 1.742016,
-    "as_of": "Sat, 20 Jun 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.741949,
+    "as_of": "Sun, 21 Jun 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
@@ -11,10 +11,6 @@
       "delta_1d_pct": 0.93,
       "delta_30d_pct": -19.46,
       "series": [
-        {
-          "date": "2025-06-20",
-          "usd": 77.01
-        },
         {
           "date": "2025-06-23",
           "usd": 71.48
@@ -1032,10 +1028,6 @@
       "delta_30d_pct": -19.27,
       "series": [
         {
-          "date": "2025-06-20",
-          "usd": 74.93
-        },
-        {
           "date": "2025-06-23",
           "usd": 68.51
         },
@@ -2047,39 +2039,39 @@
     }
   },
   "nz_retail": {
-    "as_of": "2026-06-20",
+    "as_of": "2026-06-21",
     "regular_91": {
-      "avg": 3.07,
+      "avg": 3.071,
       "min": 2.819,
-      "max": 3.359,
-      "count": 84
+      "max": 3.297,
+      "count": 55
     },
     "premium_95": {
-      "avg": 3.285,
+      "avg": 3.294,
       "min": 3.009,
-      "max": 3.489,
-      "count": 51
+      "max": 3.65,
+      "count": 31
     },
     "premium_98": {
-      "avg": 3.392,
-      "min": 3.299,
-      "max": 3.651,
-      "count": 14
+      "avg": 3.354,
+      "min": 3.319,
+      "max": 3.399,
+      "count": 4
     },
     "diesel": {
-      "avg": 2.753,
-      "min": 2.459,
+      "avg": 2.72,
+      "min": 2.479,
       "max": 3.999,
-      "count": 84
+      "count": 58
     },
     "lpg": {
-      "avg": 4.9,
-      "min": 4.9,
-      "max": 4.9,
-      "count": 1
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 0,
-    "observations_yesterday": 192,
+    "observations_today": 79,
+    "observations_yesterday": 27,
     "observations_older": 42
   },
   "mbie_waterfall": {
@@ -8640,6 +8632,18 @@
     ],
     "global": [
       {
+        "title": "Iran says draft of oil sanctions waiver is finalized - Breakingthenews.net",
+        "source": "Breakingthenews.net",
+        "published": "Sun, 21 Jun 2026 17:44:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaW14RDZ3MkdxUkljbUFHTkVuU19VUmNJYk5YWnNNdDlneEl2MU4tSU1YVGcyNXBYeklLOVhVWEhDLUNvVW1mM3F3TmdDd3otZ0tTenhUQXhNVnhZN2Qyc2FKbHpXdzJua0JnbXpnZFB6Yi10ZllvZDd1N2NHMS1ORThycTNUNS1LMGZaNzZMb2hmaFhVWWtfTzdIdW9NQQ?oc=5"
+      },
+      {
+        "title": "Sanctions waivers for Iranian oil to be issued soon, says Iranian negotiator - Middle East Eye",
+        "source": "Middle East Eye",
+        "published": "Sun, 21 Jun 2026 17:27:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLXRCcmk2RVJkQmtrTFpFdG5FNmlnM1YydmJYRk9fSUJRak85VG11LWJBU1JtVUpnWEZHSkhQN0lxRjgwZ2lXUDVRWDI4T2p0eFNuOTNqMjFyY3RLSGZaZmxXdUFhdEF3RE1mTE9xSFJWakozd0RWWnQ1ZEh2REtBemowalZ3alVXWG44UFUtWm02TmxFMnNXREd1dlFHUXFMYUFzakVQNnJwRmk2eFV1ak1YaW9IZ0J0YTZsc0dGT2RZUHc?oc=5"
+      },
+      {
         "title": "Sanctions waivers for Iranian oil to be issued soon, says Iranian negotiator - The Times of Israel",
         "source": "The Times of Israel",
         "published": "Sun, 21 Jun 2026 17:09:08 GMT",
@@ -8674,18 +8678,6 @@
         "source": "ایران اینترنشنال",
         "published": "Sat, 20 Jun 2026 08:37:28 GMT",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKUEZwcFpjV2VOVWlRckJYempFZUdSMXhVNlBvUUM5NkVVY3F6ZXhGNUhfeGNlTVNyZU5vS1RmbXhfb1FTZm9uUnJOcDA2eUFpRXc?oc=5"
-      },
-      {
-        "title": "Trump signals swift return of sanctions on Russian oil as G7 refocuses on Ukraine - Chronicle-Tribune",
-        "source": "Chronicle-Tribune",
-        "published": "Sat, 20 Jun 2026 04:38:07 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOektLS1dWbWllZ0x1TUx4bDVpZHVqYnpwa2pDMlMzZVNualJnZXktazhPQkhNcTNLMGxWbTRVc2wtN3c5Qk1QSnhldlNkVjBJUTJSZ1hLR3ZVakdHQjJkOFBKWkdSRy0zek1iX2NHUFV3S3JaS0s5T2VBVHdDRFZNa3QzU1NvVnNPYVM2M1YtNU5Jak9EWHBnRjJaNjFDSmdhNHp2RTQ2aVRvWXdSVVROMnlNSXIyNDVNM2ZUeGR2UWQ4TzQ2Rm9Vcy1vSmRpYlcxTmlWNzVzcU9tRW9SRjVGN3JONllEN0R3SFRoLVJQYklOdTZVeldwdWhOVVhsSFpTZmoycFR3?oc=5"
-      },
-      {
-        "title": "Hormuz reopens, but obstacles remain as oil markets seek path to normalcy - World Oil",
-        "source": "World Oil",
-        "published": "Fri, 19 Jun 2026 20:45:46 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSDU3MVA0Yzhuc1Y4dWw0cW5DUXVvdHk0T3h3S0pRaUdQTVRKbjFMZFFabFZrUnJZOGgxb1ZSbm5scm1TMC13S0tkNkJMTllNVVpSVjgwR01nSmhnQ3RtRUJqOGRaZWRub2FsaDNHUjhxb2cyWmVKOHFOVi11VDFTQ3REN0RWRklESkFLRHVtZnAwMkRXX3VNQlA3c0p5aVBfTjM5bElnLUJLQzZDLWc?oc=5"
       }
     ]
   }
