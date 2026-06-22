@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T05:38:48+00:00",
+  "generated_at": "2026-06-22T11:22:22+00:00",
   "fx": {
     "nzd_per_usd": 1.741949,
     "as_of": "Sun, 21 Jun 2026 00:02:31 +0000"
@@ -8582,18 +8582,6 @@
   "news": {
     "nz": [
       {
-        "title": "New Zealand built a 90-million-liter diesel buffer, and the first shipment shows why energy security still comes down to giant tanks - Vozpopuli",
-        "source": "Vozpopuli",
-        "published": "Sun, 21 Jun 2026 20:45:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPeEdEMHVGZ1d5SU9BTTBtMThnXzlNUldqY1I4RDdZeFA2R2tqMTVxSlctRncxbGo5R1pxRGlpOFVlQ0RUb1BiSG01c25sa09OeXhnSTRPeE5hb3FvSXh0YmZBQVFfVlNQbTZSWHRCam5sVWJsUFNuSjZJNDVCMHd6TVJXNDU1T2k2OVZyc3NkYlVUMkhCN3BaOEdXUDhJaUZUSGtVRFcyQ092ekdzQ2llWjlqTmZzdmtSODBnOU5oVVRodHN6X01wd0p5bFFLZFBmY0w3dDBXNUdLbnU1TXpSbHZMbi1LSm9leGE4WUFTSVptNUFXTjV5Y29CdGprZS11Q3c?oc=5"
-      },
-      {
-        "title": "Air New Zealand’s Tech-Savvy CEO on AI and the Limits of the Machine - Skift",
-        "source": "Skift",
-        "published": "Fri, 19 Jun 2026 09:35:12 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc3J6bUxWRnFHN1RtUW5LOTh1Y21PcGZQWC1YV0xLWXJBWk9UTWhfVmlFbC04Z0FRME45b1lLSjl2LVZKTXcxSm54UUgwbFdUd1ZWaVBtbkNHSm5EaDAtRlc5cUFCbUZ1Y1NWZ2l0QTloZk9UU3VYSy0tY0RxSjBMTjUzcUJ0R19QOFljNE05WWx3TkdQTU1uRmgwc2Z0UQ?oc=5"
-      },
-      {
         "title": "Z Energy boss on why NZ dodged fuel shortages — and why pump prices may stay high for a while - NZ Herald",
         "source": "NZ Herald",
         "published": "Fri, 19 Jun 2026 03:30:57 GMT",
@@ -8628,56 +8616,68 @@
         "source": "Reuters",
         "published": "Wed, 17 Jun 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZVBoOVNKbzFEN2wtd1hNVDFQQTFFeVZwbXZUN2NDaG5tYXYxRE1ickxPZ1hGMXFpSUoxa3FuXy03Zi1FMnNaX29vWG9abk9SVUtlZS1jeG85TjZkbEpSV2lxUE1aUnVzanlIbWl5YUMxNmlFYl9XOE5OaW1LSW95YXN5WEpEMEVCLTY1cjBQemVoeExLQnAySy1JdFlhdnFiQWFWYmU3aWpSRTJfeDBFT0V0c1lPMFdJRnc?oc=5"
+      },
+      {
+        "title": "What does Iran war deal mean for New Zealand interest rates? - RNZ",
+        "source": "RNZ",
+        "published": "Wed, 17 Jun 2026 05:43:03 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY1F5VmljdGROU0UzNXdfQkZEamVtNkoxNVQxVkdaSGZyU1QwUlg3VnJSYU5ZcGthdU5xWEpFRG10VzRXN3RjbEk5TkRRZnpHMG9yWndkRXN6cFJkOTVhU1l6RnVxS2p0aTNGTHFqemNYaVQ4ZGNjUnY4bUduMlhuM2Q1bExVcDR1Nk05dUZGUnp0b2lNeGYtaTR4S0p4ZnlSd1Y4ZA?oc=5"
+      },
+      {
+        "title": "New Zealand Fuel Prices Fell In May, But Annual Costs Rose - Finimize",
+        "source": "Finimize",
+        "published": "Tue, 16 Jun 2026 11:10:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON082czhwLWNRT3ZYcEdRYnJqM0RXODZIM2ZKWGxKeXpITUxQOVdaUXVtMHVRanllS0RONDJ4M3cwN2pZZVJETk1PUnItbnN0SFExMW9VMnRXdkNmcjNTTnRpSzB2cEZWWGtFeVFlcHNtV0p0ZmN6R2U5WTFFZTRZc3p1Q2lPaGF3T0doVGpiWQ?oc=5"
       }
     ],
     "global": [
       {
+        "title": "Iran-USA negotiations: oil opens - Libnanews",
+        "source": "Libnanews",
+        "published": "Mon, 22 Jun 2026 11:08:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KWk9zZG9qVEdCMVBxeFRORm10TGc1NXRXRmpKWnhVaFI5MmQxcU1uaXRaQmVKb3JIMi16R3hHR01PVFhDdVhfNjNlaDJCbkZpcjRLdlJtSGZXMGNUVFFCRTRtdzg?oc=5"
+      },
+      {
+        "title": "The Bond Market Warns of $140 WTI Crude Oil Ahead - FXEmpire",
+        "source": "FXEmpire",
+        "published": "Mon, 22 Jun 2026 11:02:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZEhwN1lEek5TejVJOGJzREl0aF83VzFfM0Z4NkFHbXEwcmVnUGN1REdSR3NKZ1ptSUNxZjBWOXhnWUFVYXAwWHhCSkFBb0ZYeUZURld6YVh5cDNsWlRSNVhCVDNnZ2JUN04wRWpFZ19vVGhGYlBEc3hoZG5JRkNDaUJscG4yeFRfLVUzM2ZRSXBtZlVpN3dlQXg5ai1rMEtpcjAwRzQ1ZmNiNXM?oc=5"
+      },
+      {
+        "title": "Progress Made on Iran’s Asset Release and Oil Sanctions Relief - WANA News Agency",
+        "source": "WANA News Agency",
+        "published": "Mon, 22 Jun 2026 10:06:13 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN2RqVDRHUUxXNXVncDBCdWFvWkZGNDJhVTRMaDMwZmJfblhqZHJpZndDM2lzbnVKdEJBbzJOWmk5d0thamYwU3M2OHFpaW5DV1hDWGVPT0ZNSjFOcFE4enE4U2NKalVEcmxoM3RMMUtKbThDR01hdWhWbVlKd1IyS2R5WVllWVdN?oc=5"
+      },
+      {
+        "title": "Brent crude falls below $80 after Iran secures export waivers - Offshore Technology",
+        "source": "Offshore Technology",
+        "published": "Mon, 22 Jun 2026 09:55:04 GMT",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUMnRPV0cwM0ZxWWJaNEdJTjVEVjNBbms2X2xIbVdzRUNvbjhCUUJiUVZpa0ZhY2ZlX3l0WmtzOUhxN1FqdGJlXzhNRzQyc3VYdTBFR2prLXN4djhzNXRCcDJvdU1yTTJ2dXhkYk5oWHN0NFAxWHdSdmpYRzAwUQ?oc=5"
+      },
+      {
+        "title": "Back to the Future: Where to Invest If Oil Slumps - Barron's",
+        "source": "Barron's",
+        "published": "Mon, 22 Jun 2026 09:55:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdVNOVzZiTnRSNnJTUlllakkzeHVGOXFYOF9IejNLSng0TDlfUGJmcHlyNUFyanBhSDZzYVlIX0M2d1RmOTZJMUVkZnNrdW85TnFGdmVJUE5HYkNqLTV1SmpaSVNxaWVfOEFxMnJaN0ZwUUI0d2JfU3cxbkJicW82dg?oc=5"
+      },
+      {
+        "title": "Cooling crude oil prices temper Vietnam's oil and gas stock rally - Vietnam Investment Review - VIR",
+        "source": "Vietnam Investment Review - VIR",
+        "published": "Mon, 22 Jun 2026 09:51:18 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWE54UHUtVUo0RmJaLXNhVUNicHQwcVlZVzdNc19uV2NGVzl1bUtPSnhWZXEtcnpZRGtDR2FZd0lhRDc4cEZYN001UU9mUzBEcEFEY2o4MFlSUkZHUXhmLWNuSGRsd1lUYWY2NHdDSkM2ekVBZmRLM0hFYlZYQW91R2p3aF9HRzJBbWdCUnBNUHh0MXQ4cV9GajE1aw?oc=5"
+      },
+      {
+        "title": "Oil Prices Fall as Mediators Ease U.S.-Iran Tensions After Hormuz Closure - Barron's",
+        "source": "Barron's",
+        "published": "Mon, 22 Jun 2026 09:38:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaDVBdy1BVWVyTl9OODB2M1RaNUw0UW9uSEtNNUtleFRtZFl4b3pWNGFhcm1JNGxOM0VFSlpmSkdYbFQ1T3hlSlNOczNWd2RLYmtoRkFXQUM2UDFQdGRQR0N4TldTY0c0NVRaV3RXa1BQUUZ3a2dpU1h5THl5V2Q2ajBQQ01FVkZDZ1hVOWxtbXFPU2ktWXNUcTV4NGFtVmlCWkExYjlUUm1JQWVVbXB2QVF5ZHljV2x4Z0tyazNXcXE0VktWTUo1UE9BQkpKUzh5RnB6RmdjLXRPVW4zNVFud2FJWGxrb1YxV2o5T3p0TlJYd1ZIZnZZSVV3?oc=5"
+      },
+      {
         "title": "Oil Prices Fall as U.S.-Iran Talks Show Signs of Progress - The New York Times",
         "source": "The New York Times",
-        "published": "Mon, 22 Jun 2026 04:34:11 GMT",
+        "published": "Mon, 22 Jun 2026 09:09:56 GMT",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxdE1qUGxOQ2JFUFVNMTlfZ0NKVl8xSUtCWF9oTmRjb0FzdkpXZlJta3pKSkFIM1FjeWN4Z1FkU3BGT2l1ekp6WDcyaXQ0cWNxeHdfbmp5SDFONk1XNlVPV2FwRTVqRXVwYzlKNENIUTRNdzVSOVE?oc=5"
-      },
-      {
-        "title": "Japan Secures Stable Crude Oil Supply Through March 2028 - SME & Entrepreneurship Magazine",
-        "source": "SME & Entrepreneurship Magazine",
-        "published": "Mon, 22 Jun 2026 04:28:02 GMT",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SQnd1aEJuRGEtLWNkV2lLNVlndGdZLVFUOG81VzNMSjhpWEtKdVFCWHFqMlRPYk1MRm9UcWJfWFM4S2YteDc4TVlQNFR4UGZuVWJIZzlrcWVJbUtBWXdwdC1NQjFsbk5xU2M5QzBUM1Vjay1Rai1RZEYza2ptd00?oc=5"
-      },
-      {
-        "title": "Brent crude rises to $81.66 amid supply concerns - Qazinform",
-        "source": "Qazinform",
-        "published": "Mon, 22 Jun 2026 04:17:18 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSE5YN0M4TG1TQkNkRjBSQXF0TzItRHhSWE42UV8yV1dBeU9fUVhycTBqU0QxYkNERnU3R0dsNnZIVWozVmJya1VGVjYtVjJEeG1WVWo4bkNaemxYdW1mdVM0VkJhd3FLa0V4UXBJQ0VpWkE5X1dRVE1FVzdzTXE3OVM1SjdURkHSAYcBQVVfeXFMTnVfXzVtUThtM1JaSFFBLVM1VGdiQm5zZU9ZaHRKMGRZQzVrZE5zam1VcHVlRGV1cnpieEJ6SkdOY1ByQl8yVW44RWNLdDFpNFJzTHRNZ0NDWXBMS0RSclo3YllyTjJJY2JUUXZmYU5iYW10VUxmdTlWc3JTdzZyekdleHV0X3F3?oc=5"
-      },
-      {
-        "title": "Oil rises after Iran shuts Hormuz again, Trump threatens new attacks By Reuters - Investing.com",
-        "source": "Investing.com",
-        "published": "Mon, 22 Jun 2026 02:12:20 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTEhqMzFRNXY5Wm0zM21TVk04N2ZvQmhDNmpNLXlyNzZST3VtNERJd1NEbEZXa2FldWVwX1d4YTRhbUlFc0llYTB4TnBmV2xpMXh1dnEwOHlBM2JDQ3ZETnE5VDRoQTU5eWtySWRhWEVvYWFOeWNkSWRqRDNMVHdvaWdFRkNsVm9vY1k4RTdYSGZtZmMybk9oUF9VN3A4WVlvZW5TMGZuejctQVl6cFkwODlxNzUyVDlNdGp6RUNxRkFPOTY3?oc=5"
-      },
-      {
-        "title": "Oil Price Today (June 22): Crude oil rises above $80 as Iran shuts Strait of Hormuz again. What are expert - The Economic Times",
-        "source": "The Economic Times",
-        "published": "Mon, 22 Jun 2026 02:12:16 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQdUViaTlENjdaQTU5VzNZN0YzUlppWGVaWFhSNjhTUWZpUXlqb2NlcGczNUpjdWxYR0JWTk1ZSGlRS3I2UjYzZUFNZnBfLUhFVUdaNjNfc1RjUzRnMm1OMXQwT2J1Z2VTang2bExpWlFpVXJLQlU0ajhjNmR3OUxMamRwSWU3VThDajRwMVZhUDFvM1BJN01WMlN3dC01ZEpaOWM4NFUzaGtqNkxqMzB5NDZKV0JBZFU0aWUwbHhpNV9aMXZYWS1mUDA0LXFBOWp0SzlyRm41a3dIMnNEZloyV3Y5cFAxZ2lGanBoWktaTVdiUzd6ektZdGctX05RcWdUWFZqcXd6bm5pUTVFeXB0X09DbUZ5dWvSAZwCQVVfeXFMT0xkRG8zS3VkcWkzQXhMemczcVZCM2hTU216d0Y5Z3lEWmtaajdBOF9DNVNUdzZsVFhKVnd4bFBPSnFXRnE1UVBqQnJob3RoR2ZuQWtWd0puVWR3RlRocjBKbGoyV2JZdzFSd1RSZEN3b0ljV2lDS1JWUkZSdWZZYmJuaEM3c0dIYmlwSkZMSVEyaFNnLWkxa1I2TmphbEZ3SzdCVjc0YlRFS25nLTZqS2xkNnFZY3hVNm1fZS02UHdSd2dHR2JYTi00SmhFWU1zZkFDSHhQTmRwMTVGTHBJaF8wTVFtVTJaR0d0cGZCMXNoOUczOGJwQzY5alZsRmZCRnFSQUFVZjh0ZkpBczhIS0ZtTTgwX2xVRTFtZE8?oc=5"
-      },
-      {
-        "title": "Oil Prices On June 22: Brent Crude Slips To $79 As US-Iran Talks Ease Hormuz Concerns - NDTV Profit",
-        "source": "NDTV Profit",
-        "published": "Mon, 22 Jun 2026 00:59:27 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc0hwZlhNMlNOV2Z3ejRpanh6NGxkX2VTS3FfQ3M1aFVtTm5VaUZwRWYzdnRpb2o5eTZCMkJteVYzdHlNRmtUSDhuTGhoY3ZlVlliWWN6aE56cmlmQjNpRXRoUFd5YmlYV090SG9aWGVodGtuYjBrRzZmS2VwSjZfZEpnTEFQVmdST0w0NGJ4ejhteTExUmVha1VkbFF2bnZGWGF2aGhWY2x2Z2Z4cHM3ZHZtQjBWSjFzT25wMjN3S0M2SjlPcEVnUWJ5QzZjak1nV1HSAdoBQVVfeXFMT2NQaDk5NXliMEYtTDhNNUxEem9VNkN6N0ZGNzR2MkhlaGZYZ2d1UXp5U05BLUU3N2hmUk5tN2cyRGlPSnFOUmROUzFKZzUxc1dLRktyNnktMUM0N1pYTWtkZFEwR2lWa29fMm9YR1dQNXczdHdMM0lvVHpiajc5U0ZfQWJjMmk4eVFPV2N1aVV6UFAzZmZlNno0UTBYTHpVNVMyQ2Rub1JLYWhaYUw0a1BqbUFaWXl5c0FjUTljdEo3a0diVk1Id2FaZEpta2ZabE9KQ0dkUDFBZlE?oc=5"
-      },
-      {
-        "title": "Oil Prices Rise as Doubts Over U.S.-Iran Peace Deal Grow - WSJ",
-        "source": "WSJ",
-        "published": "Mon, 22 Jun 2026 00:55:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZXJJX05QWEtlRnkwX285cU1uUG9oUlNDVHlwclhNcmhwZThZNnZZRkd0cUtGVTYtWktZSjdqTDNfR0RhbnNNRGl4aVRhZWFvUDFGTHZNei11SkpEdE5tblNzUDBDYXA1cVlSLXVCajhvSGY1ZmtFMHh3dXI4Z0RwQldXakdEOXY4ZG1ia0xaa0JwM3ZBZk5xeDZZZl9EZWRpVFh5Sk5vdE5KNzhleG4tendB?oc=5"
-      },
-      {
-        "title": "Brent crude slips as Qatar, Pakistan announce 60-day roadmap for U.S.-Iran deal - CNBC",
-        "source": "CNBC",
-        "published": "Mon, 22 Jun 2026 00:05:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcDF3eWNGVGlZNEZwQVZvX0hwV0QyTGlYMDJfQ1BRempseTlFVVdieUs2V2xoWGZZNUxta2lPSExWMEZ3MWNwT3U4ZWZsR3dWQ1Myem14UEdTWWdNMUo5MkhETTl2Ql9HOXhadllCcGhlQ0lBSzJYb1B2UVRQVVhZeHczSlNiNFl0WGFQMXI4aEI4WkFsYmpvRk1DZGJWS2gycXU3Xy1R0gGrAUFVX3lxTE96el92MG1ndHhodHlFZXN4MEF4dHhOTGNIUDBOaWVrVGdfSHpULVBMQVZEVEh2QXlWRDE4aXg2ajBqX3p0dk9EVXdTUmVwSEliRzgxRE1TdFpPdXBJdXg4eG5xNDlCbVhoS21UdHk4WVFoaGwya1N3V1hRb2FCeTFLTUtFb1pBbTRTeDNOcFJWT3EzSng0M1ZxM1JKVktsWDBlam1SZUhjZ2Qycw?oc=5"
       }
     ]
   }
