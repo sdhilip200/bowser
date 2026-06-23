@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-23T19:15:36+00:00",
+  "generated_at": "2026-06-23T20:05:40+00:00",
   "fx": {
-    "nzd_per_usd": 1.741949,
-    "as_of": "Sun, 21 Jun 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.7492,
+    "as_of": "Tue, 23 Jun 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 77.99,
-      "latest_date": "2026-06-22",
-      "delta_1d_pct": -2.33,
-      "delta_30d_pct": -22.06,
+      "latest": 77.1,
+      "latest_date": "2026-06-23",
+      "delta_1d_pct": -1.03,
+      "delta_30d_pct": -23.88,
       "series": [
         {
           "date": "2025-06-23",
@@ -1017,15 +1017,19 @@
         },
         {
           "date": "2026-06-22",
-          "usd": 77.99
+          "usd": 77.9
+        },
+        {
+          "date": "2026-06-23",
+          "usd": 77.1
         }
       ]
     },
     "wti": {
-      "latest": 74.07,
-      "latest_date": "2026-06-22",
-      "delta_1d_pct": -3.3,
-      "delta_30d_pct": -21.88,
+      "latest": 73.33,
+      "latest_date": "2026-06-23",
+      "delta_1d_pct": -1.99,
+      "delta_30d_pct": -23.15,
       "series": [
         {
           "date": "2025-06-23",
@@ -2033,45 +2037,49 @@
         },
         {
           "date": "2026-06-22",
-          "usd": 74.07
+          "usd": 74.82
+        },
+        {
+          "date": "2026-06-23",
+          "usd": 73.33
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-06-22",
+    "as_of": "2026-06-23",
     "regular_91": {
-      "avg": 3.035,
-      "min": 2.749,
-      "max": 3.289,
-      "count": 66
-    },
-    "premium_95": {
-      "avg": 3.204,
-      "min": 2.889,
-      "max": 3.479,
-      "count": 30
-    },
-    "premium_98": {
-      "avg": 3.29,
-      "min": 3.069,
-      "max": 3.409,
-      "count": 8
-    },
-    "diesel": {
-      "avg": 2.672,
-      "min": 2.359,
-      "max": 3.999,
+      "avg": 3.058,
+      "min": 2.86,
+      "max": 3.279,
       "count": 78
     },
-    "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+    "premium_95": {
+      "avg": 3.239,
+      "min": 2.899,
+      "max": 3.579,
+      "count": 36
     },
-    "observations_today": 138,
-    "observations_yesterday": 35,
+    "premium_98": {
+      "avg": 3.33,
+      "min": 3.069,
+      "max": 3.409,
+      "count": 7
+    },
+    "diesel": {
+      "avg": 2.69,
+      "min": 2.288,
+      "max": 3.999,
+      "count": 82
+    },
+    "lpg": {
+      "avg": 3.199,
+      "min": 3.199,
+      "max": 3.199,
+      "count": 1
+    },
+    "observations_today": 100,
+    "observations_yesterday": 95,
     "observations_older": 9
   },
   "mbie_waterfall": {
@@ -8632,6 +8640,12 @@
     ],
     "global": [
       {
+        "title": "Oil Futures Extend Decline in Cautious Trade - WSJ",
+        "source": "WSJ",
+        "published": "Tue, 23 Jun 2026 19:15:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdk93T0ZzdFg0Tld3RjVhYTBMSkh4V2l2a0stRzNQNFlvcV9pakx1TXVsQktoMy1MUW9HRXdjdVpzOFRWM04zUU5FMFNuOE1EcUtvTGlQZmFOcTduYlRXY1daSlFwVS11dGNOUmhCSExPQVpXMk0yMElSUTd5a2RhRkx0eDdGSGNCN09zanR6dGgtOFh4alZkcUQzMllUX3hjNzZ3Wg?oc=5"
+      },
+      {
         "title": "Tightening the Vise: E.U. Continues Sanctions Pressure Against Russian Origin Oil - Foley Hoag",
         "source": "Foley Hoag",
         "published": "Tue, 23 Jun 2026 18:46:57 GMT",
@@ -8650,10 +8664,10 @@
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUWlUVkFaRGsxQXpIWGZ5cC1WdUtOcjg1cExMb0RnMWZra2Npdmo2VjdMel9TV2FKRjlBQmFEajRucmMzUDZYbGdyY2ZqZzZpaEtfc2hYcWpNSXRPelBSVndWdTlFOWxSdkd1Z0RydWdGUVpjZFYwT3hBVTlPQkl6Q3NUczZNNnp5MFI5YUtvTTdXQ083QjE2MjhEcUhyM2lvRW1sUjVCMTlLTGh1VWN3MEszRlpaMS02UWZZWVhBNUkxdw?oc=5"
       },
       {
-        "title": "Oil Futures Decline on Prospects of Increased Supply - WSJ",
-        "source": "WSJ",
-        "published": "Tue, 23 Jun 2026 13:43:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdk93T0ZzdFg0Tld3RjVhYTBMSkh4V2l2a0stRzNQNFlvcV9pakx1TXVsQktoMy1MUW9HRXdjdVpzOFRWM04zUU5FMFNuOE1EcUtvTGlQZmFOcTduYlRXY1daSlFwVS11dGNOUmhCSExPQVpXMk0yMElSUTd5a2RhRkx0eDdGSGNCN09zanR6dGgtOFh4alZkcUQzMllUX3hjNzZ3Wg?oc=5"
+        "title": "Oil futures rebound after Iran sanction waivers, Hormuz uncertainty - qz.com",
+        "source": "qz.com",
+        "published": "Tue, 23 Jun 2026 15:09:42 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTFFLMy1SOThpdWZwNFlGb2RBcjJEVmdkWnJ6YkVnVldaWlQ3a09DZ2RhZzRIc05IM0IwakIwNHQ4VEIzWTVXcDE1aXE1ckxGOXhaUlZZckRaSTlkUWRWa1BVUkdzQm1rczFMTVJNbkIyNFp5YmMyeGJzajl2NGJpWGQtZWlWVU0?oc=5"
       },
       {
         "title": "Current price of oil as of June 23, 2026 - Fortune",
@@ -8672,12 +8686,6 @@
         "source": "BBC",
         "published": "Tue, 23 Jun 2026 12:14:58 GMT",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZRnY0QjZ2NEVVYTNtQU55X1ZNdjN2ZUVhcUFjY2V6ZGhoaVNVOGltNGkyV0JZXzJwN3UxX2NXMmM4NmozaW5rb092SG9nekxmVV9GOFI5NWRQQQ?oc=5"
-      },
-      {
-        "title": "Oil Prices Continue to Fall on Hopes for Iran Deal - Transport Topics",
-        "source": "Transport Topics",
-        "published": "Tue, 23 Jun 2026 12:08:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWVjk4RXNnQjVLMGZiWTY0RFJEcklmVDQxeE5IVTFEeXVFLXdOalRYc2xtLWRDcGNWdUx4dW1rc2dVWldUV1A4bFBGTmJ1Z2NRVDBOVHhna0dlc2NVX1V2TEFrM3NpdmM?oc=5"
       }
     ]
   }
