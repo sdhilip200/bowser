@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T05:50:26+00:00",
+  "generated_at": "2026-06-24T09:48:19+00:00",
   "fx": {
     "nzd_per_usd": 1.7492,
     "as_of": "Tue, 23 Jun 2026 00:02:31 +0000"
@@ -8590,22 +8590,16 @@
   "news": {
     "nz": [
       {
+        "title": "Air New Zealand maps recovery from engine and fuel challenges - FlightGlobal",
+        "source": "FlightGlobal",
+        "published": "Wed, 24 Jun 2026 08:03:36 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYnlYXzZoZnc5TGQ5MVkwZk5BSEJmU1U5RkNnWW96ek1TUzAyWXpUX3E5bklTSnRwQ0VLTWZNN1djTl9kNFZyelBTZHJxS0ZTbWZ0bmNhcGRlbF82bXpMVHJ1WmloMllFYXlucHNNRG1aVUpMYUhoY0JoemZxSVJwQVdZbXcwYzRVbkw4dU9iYWQ4bVF5SjltZmdQZDk3aVhrZDg5bjBYTjFoc3U2?oc=5"
+      },
+      {
         "title": "Falling fuel prices could drive inflation, not ease it, economist warns - RNZ",
         "source": "RNZ",
         "published": "Wed, 24 Jun 2026 00:03:31 GMT",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNXy04VzVTWkU4WklDTXN1UmRtN3lYRTVzX041TFlOaXBJWVk4N2FmUzZZQ0U4RHJGY0RZekYyRXZIV1hwTGM5T1NpaTJhazNCbW9tYjMtTWZ6TDctREZncC1uNFAxNEhQbkFCV0thdnBOS2lmWFpUUEZCX1FiX0lGd3ZZaThmeTc0djNZNUdUQzdVNk9OWFJUS0hYbnh0ZzFNTmdhcDVtLTNDWnl5elBNWGVn?oc=5"
-      },
-      {
-        "title": "Falling jet fuel price but slower airfare drop - PressReader",
-        "source": "PressReader",
-        "published": "Fri, 19 Jun 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVZHRktSOW1zYVR0QlZCb1h1SS1sdmZEVW5FbE1yd2xNdHY1ZEd3cWstQjRmODZnSzd4OVJ6aGJlRTFuX1lCMndseXRDNTY1dXZDRzRhdWF4LW5aQVl0UEVQaVVucmhKMWJpVDdxNFBVd0FlSkVYWWpWNDJIZ2lFaVp6MDFKS3FNWENLZmFWZFU?oc=5"
-      },
-      {
-        "title": "Z Energy boss on why NZ dodged fuel shortages — and why pump prices may stay high for a while - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Fri, 19 Jun 2026 03:30:57 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZU1hY0FaZ0hDNE9ycDA1bThQWjRjUnB6ckVtai16STFxMnpjVUdZRVV0eTBNcnBWYnhmQWwzZkdDMVh1eDlrRG9CUC1EeG1yN1lFNll3Mi1VLTZSdUl4WUpYdk1kNkhYckVIWWh0cTJqUTV3MnlCVGVWWUx6bEhlNHUxcTlBS1B2NEZKYjRseVh6cjNLN19KVnpneGxVOWpvd3pHMnlkUWRKQ0syeUlQS2tCcE4wWW9Nb3VkbjNuYm5BeWpYRTRIUWtrYWp2NFJBWjdyWXd4R2kwdFVlU2FuVHVzRzF2eWs5bXJrc1F4UnhfbVdGVmFhN2V0NENiLWxGRGdaeXVteGxDVW8tQ3c?oc=5"
       },
       {
         "title": "Oil price falls, will airfares follow? - RNZ",
@@ -8614,78 +8608,84 @@
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbnctWWlvNFlXT21TTEJpMk1DdzRjQ1k2SHl3VmsyRERKR3RBSHdIeExxYmttRW5maXVYXzJuZHVFZFNSTTFZU002TnRITG1DaTY0aGEwXzAyVzlLMVNOcEZFX0hmTmM0SW1lZloxazdRQ3NTck91VUdyOTEyOUdBMVlSMFMtdw?oc=5"
       },
       {
-        "title": "How soon Kiwi drivers could see cheaper fuel after US-Iran peace deal - Newstalk ZB",
-        "source": "Newstalk ZB",
-        "published": "Tue, 16 Jun 2026 02:46:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMEJ2OUdyYjd4T3ZlVzZteHV3VVU1X1lVRWk4UTYwSTNQSFBxaGFqRnM2aHhrQkRnSnRQNDZnSEs1ekFtbmdrQnRmY2hZX0hmeG50NW9iQlh6amlrWXpVLXRiRnptak1KLXdhM1d6QzJsWEExbktaME96VFdJZVFDVU53ZnVFUGpJYmUxU1VfVV93eHNiQUU1Y2pqaWZUZE5UcUlITnNTWQ?oc=5"
+        "title": "Petrol and diesel prices see slight monthly decrease, food prices increase led by milk - Interest.co.nz",
+        "source": "Interest.co.nz",
+        "published": "Mon, 15 Jun 2026 23:31:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOXZCYkpCWVJRQVN1R0xhWnFKSjh3WEtQUXFtYUpSZlF5bTVYVGJkNElaWEZ2X2F0UEhWUTA2MHZNWXpGS1o2QUJPa2dkY2JtNHpPQTVaZm5iR3pQTFQ0S1VMZm9kT3c2N0xFMk5nMW4zSWVaS1c0VmlFMmVMaG04dWF6Y2lmVEs2SXY0dUZueXFueXNiU1hkZEZHcUFQa1p5RmwzNEdicVhvNm1oU011SC1BU3MwVEFXZUU1bDhFbFpIQQ?oc=5"
       },
       {
-        "title": "Fuel company to lower prices in wake of Trump's Iran deal - 1News",
+        "title": "Diesel stocks fall sharply, but government reserve shipment now bound for NZ - RNZ",
+        "source": "RNZ",
+        "published": "Wed, 03 Jun 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNamhsTW1sWVp1S2VjUDNnajdxelNKTWk5TTlpRnQxcXpnSEtZeTRpUFU3blB5Z0o1c0VGVldPNjNOV2NfMkIzRXJLWHI1bHgwck9rMTBtdk9jNzQ4UVpIYXJVb2dEbnV1bGFFUVdkYjBIQnRidkVIYXdVTk9hSUtUN1V3OGN2Yk90RmQ4YU1CVmJZaDJ0RUg4N0o5RFZhYjRBUUQzT0dUR3p6czNwSG55Q3ptUWJpZDVnU0E?oc=5"
+      },
+      {
+        "title": "NZ diesel stock levels slip to lowest level since US-Iran war began - 1News",
         "source": "1News",
-        "published": "Mon, 15 Jun 2026 21:09:27 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbXh4cDhzUXZJdmxNVXlCODZ5RWtad2J4UDZQb2EwSm1wdHJ4VTAyTG04ejc0VHA4d0dHUWQ2em8weGNYdWc0T0VHam1qa1dTN0dObWYya2lFZEJlSzBzcUFxcW1MUUVET1pqNzBnMnJsM2tfejZ4ZTdvdkdabUhWY1JGak5lTmw3S204OW53a3J3NXJKZVNr?oc=5"
+        "published": "Wed, 03 Jun 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRE9WcEg5ZGdINjZtVEpSSWR5WEFaSmgxd1B6NXVmM1lvMi1kUWQ2SU1BN3JibkdBSDV3c0cxeVdock90SndoZmE1bmtpanM5YmZvTUl2VjdlMm9yOVdXcFZLTm1KM21ya2lKNWd6Q09IV2lRMElCRm5KS045UjB2YUgzeEtSTUhIMzJSY2g4c1VraXJnUXlzdmZFN3pjX3pEV19JSkhR?oc=5"
       },
       {
-        "title": "Iran peace deal could see petrol under $3 a litre - economist - 1News",
+        "title": "Fuel prices still on the up; diesel run out on Cooks' Penrhyn Island - RNZ",
+        "source": "RNZ",
+        "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbzlvWlJmbmpnRHM5d25rbTUzYWROTFRIMXJJSmtRR0RyZ1BJY3hWWlJob3huWEZyWkZ1NERpOTJXd2xLbi1iaWRMb2xzWTcwZWhzazc4azQtMHViVVFDcUZKSnZ1WTZtTlBOT0h2X2FkZWpha2FiU1ZhQ0dPUkVUdXN2eTd3TjFRdFBxWVNVcUEwRnhrTlBJSWU1UGYtcTRjRFhtTFNzeUJzMS0y?oc=5"
+      },
+      {
+        "title": "Fuel stocks remain steady, extra diesel en route to NZ - 1News",
         "source": "1News",
-        "published": "Mon, 15 Jun 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ0ZfUlFsbE03bDVGemd1Vjk5aDEyQWJrck1IU3paRXhMQ0c0WjFWTEVCZ1BvSUJHMXUydER1dmNoeVBkS0xBbDFobjFNSTQtQnhfckx1c1FZb21TZ29IWmpLWXctYS1WbEFHS2E3Z0VPb0l6b1BBVkFEQmtadlk2N2gzTVNvWElSX1dZSVFIczJtVzNHR0ZScnN3?oc=5"
-      },
-      {
-        "title": "Air New Zealand plans for elevated fuel costs into 2027 - Reuters",
-        "source": "Reuters",
-        "published": "Sat, 06 Jun 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWGxiR2M3aXdFeldjZnBPeFBiLUhHYTU4dVR1ZlU3MUZ4RnpqTVdyTTZ1OG1kdTNQbDdtZm0zbHgxMWdlVVdBQlB4R0pCa3BEWjMxSXF4X1RtRE5xSzM5TzJob3MtSVlpcVJVeTU3WkRad3RkTmhramZ0M2J1MlZsU3dNSjNaUU52c0kyVDZ2S0podUlsdlNvZ3Z0NGFIaWRQUk9hZ2E3a25ybGJjV0dnSkh6MEE?oc=5"
+        "published": "Mon, 01 Jun 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcWVNNDFUWWJ6Y0pUM3o0cFBBWFJrdGxjZkgwOHY2bFNSUXBITkxLdXVsNUxQQXR4TXJsRjczaDRQUXdsSWRKRDdXRUJxTE5QVzQ1dE9KWXZXWERkcTVXaksyX0NfNER2c1AzUF9rWGZIV2tJY1BwN19lZjhtb2RlWHB2RTRGcnN1ZzZ1WUFObU9hQVE?oc=5"
       }
     ],
     "global": [
       {
-        "title": "Oil extends decline as Trump accuses oil firms of 'gouging' consumers - CNBC",
-        "source": "CNBC",
-        "published": "Wed, 24 Jun 2026 05:09:35 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOHJWOEdWNjBvR0dIQXR3ZDRXZ2h4bU1aSExNTDNjRFJld0tsZml3enBXMFNVNFdNSHU3aHAtTC1VdkJoTS11Q1k3MlVWbkRUNjR6TEZlWEZadFpYdE0ybjRHWGVON05abDlhOHprVzh4VFA0VmhmazN1WER5U0xkSkVEUU0zai1UeFNpNjl3ek4wRTJRTmdtd0hxSDRZclRnUGVxQmpncFotQdIBrwFBVV95cUxOVlRVeWp1MkNiUURtOTVwTHpMeDZ5aTlCQ3dXYTRLcmZ3VU9DUHR3WXcxd3gtQndRVTlCcFRFNGtadnVvYXI1UUdXMEoweENjcHJ4eVdiV1VmYzRmYUNhbWFJUVFwRHdVeXRNYXptS3J1VkNDUDFmWDh1RHMzaVJJR2RiaW11UDJXNDF6YzFTcHZWVkY5UTlpU01WQmlfeGRob3Y0Z2VpRklpd0YyZlBN?oc=5"
+        "title": "Brent Crude At $75: Oil Prices Fall To Lowest Level Since US-Iran War Began - NDTV Profit",
+        "source": "NDTV Profit",
+        "published": "Wed, 24 Jun 2026 09:09:26 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUTRUSlVtYVZsUDN5dG95YlE3MGw4NEc1a2FyRHF0MjJuNlhRaFgwaS13NTE2bXhVS0dRRkxSblppeGhmaU9TT2Z0OHE1ei0yU2Z2Z0ZyeXRaWHR2dzZkWTgzZjVZQTZtSExnMWpXT3FEUTVtT3RzaXA1ZEJVZVRrZFpLbExjeENOZjhKRkZhNk9qdnNyRFhKT0J2UGZPZU1rQjZiNTktYzEweWkxV0pyTERQeWVxUVRC0gHAAUFVX3lxTE82VWdtWVNHVzdnamtTTTRYSlJzTzczRHZYTzNBalZDM1N2em02a3V0bjVYdUYxRk44Zk5mUnhWQW1LUHowbE1COXlBRmU1LWdhZEtLLXNxVl9Yd1lwYmIxSWlQRGRFYWVmSUdFeFBobGliNVVoazIySmRfakc0NWRGMkRnTm4yNVoxY2hNSHB2RThxdm1UT1B0aS14STNtaUNCeF93YVJydDF5QkRNdnpJOGRmajVpV2ZXdUxmcW93LQ?oc=5"
       },
       {
-        "title": "Explainer: Brent, WTI and Middle Eastern crude -- key differences and why they matter - Xinhua",
-        "source": "Xinhua",
-        "published": "Wed, 24 Jun 2026 04:13:15 GMT",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5IVFpOOWEwSTl1Nlc5UjBfeVhJMmZoVGxWNTQwZVFXUlRlbnI3MmtYMWRERDBmNVJNOUpUZ1BxWDYxNUdNS1N1V1dhbUE2WmE1T2ZGNzFlVGo3VGNJVkMyazhOZnhiUmlHZkdiaV9zMXVTclp2SFd5eXRBb3E?oc=5"
+        "title": "Oil prices today: Crude falls to four-month low as Hormuz traffic improves, Iran supply outlook weighs on - The Times of India",
+        "source": "The Times of India",
+        "published": "Wed, 24 Jun 2026 08:56:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQUzVQdGpvazV6TTdNN19qRGFtYjhvN3VOVVM0NmNkTDg2d2VRQm9Wa3BOdjZ1d3kwNzBDVkEwcHd2WGh3SWFkMVFVNEUtcmpORlJMUTgwQmlzYndpQzl6ZW05RWtuSUNqLWRPM2RPNEZZQkdnNHVJYkVVM3k4bXhHNGZkNXdBcWk1M2RPLTJsTktjd1dUcTF3MkxpcnNicUR4WjlxU2J1QXdLcmVEMUJrZ1VDdGhsQW1KbklkeW5tNm9JLUlzNlJVN2Y2TnhPeVhQWGhfVE9Mc1k1aU5ycFJBZllWa2VmdmVVM0tsRV80M2pWaTFTbTdPdndiUnFEM3ZDbXY3TVJFSUowMlNlTkY3cmN6YnJILWswLTlhSUNtUXliS0J2V1E5V09nWnNBMDZuRm5UZDFMTVdOMXBod3fSAcMCQVVfeXFMUENpZTc4dUpTWFpUUG5Zb0VyXzJ6RzZVSXgyUTFDREhUYVplR1BCMFF6YVV2RGZDYzNRZ1NsaktrUFRqR1ItUHV1NW1wWTBITEFxRXVISkVDVUZjeThYWEdtN1V1QXlwYllPNmwtQmkwNjYzTFBLQUE1X0p5VTdrYUVNektEb082dWc3UF80V0EyNkJQMHV1c0NoOWstSS1pdHpxT2QzUldWRFVrUlhXVU95MXl4ZVoxYzBHeFhtM1hTWmRlai0zMmtCSi1LMjg5SVVJam1aa0hXSGZRTHd6RV9jZzROTkNCeWVaVW55NDRSOEhzOGt5aFpGb3psZGVybkpnVk5fd3JYWl9Hb1Y0aU1kWHhNN2ZUenNhMmdoaU1MSzhKY0JldDRvMXdDcWpVQkotQ3dGV3NpVm9TRGxybDAwUTg?oc=5"
       },
       {
-        "title": "Oil extends slide on expectations of smoother crude flows via Hormuz - Reuters",
+        "title": "Macquarie cuts oil price outlook as Middle East supply risks ease - Indonesia Business Post",
+        "source": "Indonesia Business Post",
+        "published": "Wed, 24 Jun 2026 08:37:20 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVmYzLVhyX09TazhiQ0RBa1ktMFRlTVBMR1JBbDAyQUYwX05Land4N1dUcTFTdXV0YzNfRkZuOTE0TlFTZEZjY1dIbWNEUEJzTXFfQ0lvWFExeG91QlRwTzZaRkhEQUVjXzNvVE16LUM5RHkwVUlPMTVxeGtBM0QwVmtFMVZMcFNxXzZzdGNOQ3VSNUU2RVgzbzh0b0g0YUZpMkRaX0pCU3pOWjhaT2ZfWU5sNTB3OEFHTS1Ja0ZoY0ZOZw?oc=5"
+      },
+      {
+        "title": "WTI Oil drifts below $72.00 as Iran eases the grip on the Strait of Hormuz - FXStreet",
+        "source": "FXStreet",
+        "published": "Wed, 24 Jun 2026 08:23:25 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOWJnZDhCZ1hPRU00MDBNa2V3VTFkYkl5RmRWTnJJcFJ0Q3pjbnVlNHo5eTd6MGYtcG14ZzlPVnBpYWdaM3d2QVdMSFNETlpNRHVBTm84UUt0UVVWUl9TeFd1cXpQdzV6Qmdva2JEYzBtOTdIcUNiVmwxQndPaGhGZVRrX2IyTElqeUtXVmZRUU1kdVNCak9QZmQ2LUswNmpEOTMzZnkwVWRfSVdwdDZwSmFoOHpfZw?oc=5"
+      },
+      {
+        "title": "Global physical crude markets mired in discounts as Middle East ramps up supply - Reuters",
         "source": "Reuters",
-        "published": "Wed, 24 Jun 2026 01:17:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSjlBc1JxN0hPX3MwaDU1UDMyeEE1SG1tRS1ma1FpSENKVVdpVzY3eUNoeUJvdGtVVDZtRm84UG1jTjBwV0s0RTExRHZCczB3TnBYN05CSlJueGNLSU1zeUstS0U0NTBBa0NhUU00VE0wQWFWU0ZfWGtiT2tfeVBpdWV1NmZ3UlBvTmxwRXU3WlVPNGdDU3VWNXJMOWJfNWM1ZEtyNS1YV3JlY2xEeTZmczZsRmdrd1AzMVhZTEFVdw?oc=5"
+        "published": "Wed, 24 Jun 2026 08:16:14 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLXUxZVlBdXJnZm1yZjBMY0p2LXNzMGdBTFliN0trUVU3eExBM1h3Zmd2T0tTX0VOdm5OOWFZMFJBaEc4cVRUOHlfSnQ4bWJlT0tzWjVCaUt2WU1tV0JwMDZRd3VWMFhZM2d2RkVVdGh0d0t4ZmcxTWQwUkQzSnZBOUxDTXMxbEtLUXpTYk9CUGJudGxiazlNR2owQ2VpNDhDVHJiXzRWQ3hhd2kza2ZNMDVrTjdjbWl0eWFXUFlndHlubmM?oc=5"
       },
       {
-        "title": "Brent Crude Price Outlook: US-Iran MoU and Strait of Hormuz Reopening Risks - News and Statistics - IndexBox",
-        "source": "IndexBox",
-        "published": "Wed, 24 Jun 2026 00:42:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY1VjUFJQSk10bVRfMHBwT2o4bmdibXZMUlBWdkxpRTNNcTFjMjhtaG5LQ2hGQUJYNDM5RFVJTEh4MlFmc01wSDBLOU40REdiN2hVaS04Y1VCX0FPYUF0c0x0M1dubVdvOHVhX28yaUVfZDdjeG9ldUNBMkVnMjFTS2xBY1Znc2tCazJxSlNUT1d4Wm9FSWMtSkRTUzBZRjZT?oc=5"
+        "title": "Asian refiners slow Middle East crude buying as Hormuz fears ease and supply swells - Moneycontrol.com",
+        "source": "Moneycontrol.com",
+        "published": "Wed, 24 Jun 2026 07:52:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUnRWN29WZjFkamNZb1pxRE9FcXZIb2lPVU5fR0lkcEsxdHkyRTFxLU9LYWxLenJ2QWd3TnMtaXNzSXZidFNnakpadnpqb3owODFpVXlRUTdBeEMyLUZrMUlweEdJOURCR2FlSjFoVEF6cUR3ak1jNkNuLUNfM3B4T2JUc051VzVSWDJwaDRlMWJEb0Q2aFMwOUpoeDJIU2x0NFZQaUFMa1VpdFp3RWV6ckVMTTg2c0FSdE41SUZETWZNT3psQkdYbjZoYnVyODQ0OUU5LUMwRy1mNFNBZkRKUnpib1hzWFnSAewBQVVfeXFMT2xWTE5LSHB0NFQyVVNRc05VMFJJa3RCdVpWN1Zwa0tzREFJT1BCYVNCYUF0QjY4VWgxRnhobFctRjFQdURFTmdKYmt0TmdMZ0puWEQ2MmpwdmRUTGpCNnJyU1JHTHF1VTJTOVVzS212N2txU1pGLVNZRGozOERDX2RuS2lKVVlsb2kxSHBTeEg0WTc0UHhVWVpVa0JnSldmRUVRN3oxVjdoVXBaRlRWM1hjbWl2dVZFeFZ0SU95b1lVb1ZXbm8zODdRUEZOdFBlUVRCX2tpbTFBNFRrTWNzYnYtTjZWVVR3RlQtajg?oc=5"
       },
       {
-        "title": "Reopening of Hormuz Rewrites Inflation Narrative! Macquarie Slashes Brent Crude Outlook After Calling for $200 Oil - 富途牛牛",
-        "source": "富途牛牛",
-        "published": "Tue, 23 Jun 2026 23:56:36 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONExnZmNsUEdXRUFVZU5pZkFhU0Y3elFHSnRhNGFaVUpzQlFUX0xSMFdLWHoyZkZodG1yc3VKQUdoVEpVaDVUZEtSYmp2VVd3M1NHaXNHMHVvS1VhSklldTNLTV9ETk03NkFlSVhPRzlZTTRiUEdyVmd0WlF2Y0ozZDR6dHc2OC1LOG5zY0htRDFDdjJaWUZqbF9HRE10d092Yl9rcDdieWg3aEJsRmhFb0JFUV9vWm90cTRn?oc=5"
+        "title": "WTI Crude Stabilizes Near $72.50 After 3-Month Low Hit - TradingPedia",
+        "source": "TradingPedia",
+        "published": "Wed, 24 Jun 2026 07:23:21 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPODdkRXlpS2JzcUZzUG0weWdjMXBMWXh6enE3c3ktUWNERDQ0eXJRaWxIZlpzS25EZnpTd0lHRXBRTEVXNDJaYzhxLWJqWGhlRHJLcGZZYWxpM1JZNEVZemI3Xy1VN29ONm4tREcyWWVWVzM3QVJWb09oSnV1WmgwRkp4dGxYcmd1a2JjaWZHaHZjQlpCaXlnd2dR?oc=5"
       },
       {
-        "title": "Crude oil extends decline on prospects of increased Middle East supply (USO:NYSEARCA) - Seeking Alpha",
-        "source": "Seeking Alpha",
-        "published": "Tue, 23 Jun 2026 23:44:45 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYzZOcTB3a2ZnLXZyV0ZmSkNUN2MtX2xzOHRtOGljNVRSdEdlZlRNWmY2b2FxQlZwVFZoTFZUVnEtXzZtTDlYMG1WTjVHdWtUQlpBV1NDbDFXZUx1LVVPcXNTUXZ3aWE1bTdlMzkxaGlGLVh2LVFWRkI4ZDZKQVJ5bkNXUWZCb3RQdnoxSUhGQ0x3TFFSRy1hNnowMVBHclRCUHhjZ3JIV0VmR3Z1?oc=5"
-      },
-      {
-        "title": "Why the Next Billion Barrels of Oil Demand Could Come From Storage - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Tue, 23 Jun 2026 23:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmhhdlkyZDVyWkhVblh2MTdVaEpfeS1zU3FEX2VwTGR3eG9ORnFwN2VwS2dCM0F0QnBteS00UFJveXB4Wkk2OF9TNTdfZHdKWTMyOFpzbHl5ODl1bWdjTUdvUTMyNF9VbkdTM01jMHJKMWUzMFQ3eXhkdzUwaTVCR2RpaV9TclAxckNjT3YzTkRkNG41RGpOMVVheThrMVFQb0lvZk1RT29DbVV5UnfSAbMBQVVfeXFMTzd1ZXBSMWxKSmRlZVRpSTZMczRuLWlNZmpVSUgzLTU1STE5cEFFNlZhMFdBVFBKS3N3cHkzS01qVHZldC11ZDc3RWFleXZTdUgwQzVrcVdwZmtFbU05TmlaUElUclBKQjBteHlic294MDRUUm5keW9oeFhuUlVSMF9RVDh0X0xZVlBpd3U5dXlnM2d1di04blVuZm9zZHNFbkFGUUY1OEk3RVYwdU1lUVo2Ulk?oc=5"
-      },
-      {
-        "title": "Brent Settles at Lowest Price Since War Began. Iran Weighs Fees to Cross the Strait of Hormuz. - Barron's",
-        "source": "Barron's",
-        "published": "Tue, 23 Jun 2026 21:25:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaWF0aEFmSExNZEZ6aEduQVAwRTRCU2RTajE1cnQ3U2xZMmhMOV9UeGd6ZWdwcURwcXJ2d0h6aGdDV016RU1LSTVXcDV3NHF6RFBVMnozUlVwdGhsaWE4cTVqZ21UbnZydUY1VVJWRnUzelNERjJpbm9tV2FvaVk4RVFsYkExZkU?oc=5"
+        "title": "US to probe petrol price gouging claims, Trump says - BBC",
+        "source": "BBC",
+        "published": "Wed, 24 Jun 2026 07:09:04 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zM3NrelgwZXVINzJzc2tfMkVyOGMwYnNuRTBuelduUVZmbmc0QXdjU2xPSEd5UmlVcl9RVVNlbldNOEFLWlRWN1dMcGplMDEzd3pYZDRTNXFqZw?oc=5"
       }
     ]
   }
