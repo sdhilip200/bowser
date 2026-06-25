@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T20:01:20+00:00",
+  "generated_at": "2026-06-25T20:30:44+00:00",
   "fx": {
     "nzd_per_usd": 1.771197,
     "as_of": "Thu, 25 Jun 2026 00:02:31 +0000"
@@ -8588,7 +8588,105 @@
   },
   "fuel_stocks": null,
   "news": {
-    "nz": [],
-    "global": []
+    "nz": [
+      {
+        "title": "Fuel prices drop - and what's going on in Wellington? - RNZ",
+        "source": "RNZ",
+        "published": "Wed, 24 Jun 2026 23:25:39 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTUE2cHB4ODBNbW1PSWJKcGZncmlQVkR3V2ZvM2Q3U3hCSlQxZ3BSR1oxZTZmY1RBNEh1V3FZMzdMM2JFZHg4Vk5qOFlsQTBFRUhKZ0p3RXhkSnJQODZManhEaFpHZzQ5d0JmVnZITkJKeEcxbWJoNDNtd0owRWY2bXlzOVhNNEIyUmpZTWI3TzZ6dGVrZ0hiMg?oc=5"
+      },
+      {
+        "title": "Economic growth returns despite fuel price surge - Stuff",
+        "source": "Stuff",
+        "published": "Wed, 24 Jun 2026 23:10:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeUllQUFtUDRsSWhWclRQQUxxRU5xMHlBbDJWWi1wOXBpWUxWR2wzM3FhampyWFFKN2p1MktWM2dJbGQ3WnBQcFhMTHJmdzRMNnd5QjJJbFh0UUlLNFdoUGhjQUwzX1pmUU9RYXY3NS1wNEMyREpVRnhRd3VRTG1OOC1rV0VpQTdGTjJ6TlFESTNsRnpq?oc=5"
+      },
+      {
+        "title": "Air New Zealand maps recovery from engine and fuel challenges - FlightGlobal",
+        "source": "FlightGlobal",
+        "published": "Wed, 24 Jun 2026 08:03:36 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYnlYXzZoZnc5TGQ5MVkwZk5BSEJmU1U5RkNnWW96ek1TUzAyWXpUX3E5bklTSnRwQ0VLTWZNN1djTl9kNFZyelBTZHJxS0ZTbWZ0bmNhcGRlbF82bXpMVHJ1WmloMllFYXlucHNNRG1aVUpMYUhoY0JoemZxSVJwQVdZbXcwYzRVbkw4dU9iYWQ4bVF5SjltZmdQZDk3aVhrZDg5bjBYTjFoc3U2?oc=5"
+      },
+      {
+        "title": "Falling fuel prices could drive inflation, not ease it, economist warns - RNZ",
+        "source": "RNZ",
+        "published": "Wed, 24 Jun 2026 00:03:31 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNXy04VzVTWkU4WklDTXN1UmRtN3lYRTVzX041TFlOaXBJWVk4N2FmUzZZQ0U4RHJGY0RZekYyRXZIV1hwTGM5T1NpaTJhazNCbW9tYjMtTWZ6TDctREZncC1uNFAxNEhQbkFCV0thdnBOS2lmWFpUUEZCX1FiX0lGd3ZZaThmeTc0djNZNUdUQzdVNk9OWFJUS0hYbnh0ZzFNTmdhcDVtLTNDWnl5elBNWGVn?oc=5"
+      },
+      {
+        "title": "What does Iran war deal mean for New Zealand interest rates? - RNZ",
+        "source": "RNZ",
+        "published": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY1F5VmljdGROU0UzNXdfQkZEamVtNkoxNVQxVkdaSGZyU1QwUlg3VnJSYU5ZcGthdU5xWEpFRG10VzRXN3RjbEk5TkRRZnpHMG9yWndkRXN6cFJkOTVhU1l6RnVxS2p0aTNGTHFqemNYaVQ4ZGNjUnY4bUduMlhuM2Q1bExVcDR1Nk05dUZGUnp0b2lNeGYtaTR4S0p4ZnlSd1Y4ZA?oc=5"
+      },
+      {
+        "title": "NZ fuel stocks ‘within normal range’ in latest update, diesel storage ready - The Post",
+        "source": "The Post",
+        "published": "Sun, 07 Jun 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObWJKVEZXTjBZbWRWZ0F2OVlvVEFuSlFmUVZJTDZhNjJxS3pNZzZjejNpcW9pdFdUUnlyNFh0MmRlOXdiY2lEYmlIV2pUNUh3RXhTVW5XNWtzd2dKc29lYm9KckRGVjdwd1AzZjU0STM5dGJPY0QtUFdpWjVzMmVXTUtYdEMxUHN0QWpRSUJ2WnJOQnkwNWhNWmhrOWhqLUR6UlV4S29Pa2FHOFVIZ1VUaEdqVQ?oc=5"
+      },
+      {
+        "title": "Is the fuel crisis over? Why experts say we may face a new crunch - Stuff",
+        "source": "Stuff",
+        "published": "Wed, 03 Jun 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPay0xNDluTW4wOU1sb0ZvWlFyYVYwaUtzYS12WXpCUU9iZVlxVE5zdHFPM1FhQWRHckgxUzNXaGY0STBSOURSc1B3bnZQa0JFQjBTWkloUUZ1VnE4b0tGSEt5clpBMTNOaG55QjB4MlhFbnk1WHpWQV9sN1RWdEp4NGhJQTZBVUIzVV9sWnBEQTRlZ29jUUx4UFJIMzIyZw?oc=5"
+      },
+      {
+        "title": "Diesel stocks fall sharply, but government reserve shipment now bound for NZ - RNZ",
+        "source": "RNZ",
+        "published": "Wed, 03 Jun 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNamhsTW1sWVp1S2VjUDNnajdxelNKTWk5TTlpRnQxcXpnSEtZeTRpUFU3blB5Z0o1c0VGVldPNjNOV2NfMkIzRXJLWHI1bHgwck9rMTBtdk9jNzQ4UVpIYXJVb2dEbnV1bGFFUVdkYjBIQnRidkVIYXdVTk9hSUtUN1V3OGN2Yk90RmQ4YU1CVmJZaDJ0RUg4N0o5RFZhYjRBUUQzT0dUR3p6czNwSG55Q3ptUWJpZDVnU0E?oc=5"
+      }
+    ],
+    "global": [
+      {
+        "title": "Oil Prices Jump After Attack Halts Shipping in Strait of Hormuz - The New York Times",
+        "source": "The New York Times",
+        "published": "Thu, 25 Jun 2026 20:27:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LVUhIM3paR19xLUFyZ3cyZl9nMlRnQ0tBdTFnOVROblVDM1Z3SncyVVplY3JoMGhjU1oyUlFEanRvaVZIT25GeFBBOTFmakhReGxfcjJvM0lPaTVLbV8tQkRqZ3JNMk9BYXFkejR4QkcwTnFGM0JV?oc=5"
+      },
+      {
+        "title": "August WTI Crude Oil Contract Closes Up 2.3%; Settles at US$71.92 per Barrel - marketscreener.com",
+        "source": "marketscreener.com",
+        "published": "Thu, 25 Jun 2026 18:36:25 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZkhkVzRHN3JsWWh2NjhtOUY3dlhvaXRWT01DVnZOUnBMdDhKekpNVEt2UnhPVjhVSWpucm1XQktPam1PQU1Nb2dLTkZTNGQteDVlZWV1QU5NNGNxOWh2LXBxeG4yUEJlNXYzTzZWczBoTkVqUEExU2dtZTA0WTZ6eUZURE5CTWZqRExlQUxJM202MnV4ZXp6QzlWWTNDemxqdEdVdFA3akk3R2ExQ25BbFRNQTV2Mml4RWM5RGxqSXRYSmFwTUE?oc=5"
+      },
+      {
+        "title": "UBS lowers Brent price forecasts amid rising Middle East oil supply - Crypto Briefing",
+        "source": "Crypto Briefing",
+        "published": "Thu, 25 Jun 2026 17:04:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zNTNSY2ZhVC1NQmYwby1sSUFWNlAzVjFkOUczSm9acVJoYUFDcjMtd2RoVjZqZzVtNkJfMm5DV2ZIQ21ndEh3OVI5SFd3cm1MWWZVZmVVNVdRc182d2pkTllzekZNOVB4N2FGd2pvdVJpWnJIeFkwaHozRy0?oc=5"
+      },
+      {
+        "title": "Goldman Sachs expects an average of $75/bbl for Brent as markets project surplus (CO1:COM:Commodity) - Seeking Alpha",
+        "source": "Seeking Alpha",
+        "published": "Thu, 25 Jun 2026 16:58:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa2xJbDhoWnR2dHZTaUNyZWlraUdXLV9maE1GTzhEY2gzbGtiTnp3MmQwOWRnQUlCQzktZVdBVlh4NGh5OVJiMVZJZ205dTd4bHBza1JKNThzWlBhRVZ2R2NpYWNZMDJ0OFNsM2hobHNoYURNbmhFTmpRODcxdHJQYjlURUM3Nk5nZGVyemFPVnhVUEQzc0JldTdiTnNwSDZUbkZLN0RjWWNGYjg4M0JKRTFsczhxZjQ?oc=5"
+      },
+      {
+        "title": "Oil prices seen at pre-war levels as Middle East supply continue to rise - New York Post",
+        "source": "New York Post",
+        "published": "Thu, 25 Jun 2026 16:03:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWWg3d185dU82c2h5UzczRERhVlo1Y3VBbTN0TDZnSWFnQlhUMGItSmdCenRIWHk5cGVjQnA4N0xZR0dFMm1Hb3RvZEZMaDV1V1lqVlNIM0V1Z2Y2SVJVc0tUUUNjZ3pHMnRmR01VeTFWZnpXUXRNQ3Z5TWZHaW5sQnlIUk4yOGs4OXpxaklKdVhubTRvQ1N2Y2dlTEI?oc=5"
+      },
+      {
+        "title": "Brent Oil Erases Wartime Gains as Hormuz Reopening Boosts Supply - Bloomberg",
+        "source": "Bloomberg",
+        "published": "Thu, 25 Jun 2026 15:58:10 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVlVnZWwteTh6c29uZlVNWnh4akJnOUdaenVnYlVwRTFzMEFQNW9zbnk3ZWUydm9QdnRLNnJocTV6NzNoYlJfLUlaRnhXM3MtNXo2N3I3X01EN3NpLS1ZcXdDVjFOaGdzdkVabmVYdU1Cd0Q5aXJvV04ySzJXX0RTNW40cTdCS1A5ZDBKYnAwN1A4b3dFTVIzN1VUZWRiRDA?oc=5"
+      },
+      {
+        "title": "Oil falls to pre-war levels on rising Middle East supply - mediaselangor.com",
+        "source": "mediaselangor.com",
+        "published": "Thu, 25 Jun 2026 14:42:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zUUN4a0ZGYTJOTFBncWVQSFMzQnBqU29VTUhxVXFpTmdKSTlqMEtoY0dHNHRhb2xKcjRISXNfZlZoT1JvR2xMTVlSNTU3R3RPaEx4TXpR?oc=5"
+      },
+      {
+        "title": "Middle East oil supply predicted to recover by end of ‘26, faster than expected – Rystad Energy oil market note - American Journal of Transportation",
+        "source": "American Journal of Transportation",
+        "published": "Thu, 25 Jun 2026 14:36:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX01uZnFjRE53XzJ5aWtjNG9WT0VJQ0ZxS1h1UEZtR1g2eXhlVk13UkhWSWRZYnhTTXhESHdiM2dJSWI4REk0cGRmQzQ4N21xbzEtNHgzQ0VSQmxCeFVQdzhlQWRaOG1wZklINzNCWG1BbDZsVmhpQ1lpTHpFLTVZel9Eb3BPRkFJNHVVYnZpZFhrMG95LUpZempickw1dXdPSWp2aVlXVGJlYXNQOFoxSnp3SGw3clNxM2E0Z0E3dnBIN2wwLWVvUlVvdTNZZw?oc=5"
+      }
+    ]
   }
 }
