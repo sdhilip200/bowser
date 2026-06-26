@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-06-26T18:01:13+00:00",
+  "generated_at": "2026-06-26T19:48:09+00:00",
   "fx": {
-    "nzd_per_usd": 1.771197,
-    "as_of": "Thu, 25 Jun 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.771745,
+    "as_of": "Fri, 26 Jun 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 75.54,
-      "latest_date": "2026-06-25",
-      "delta_1d_pct": 2.44,
-      "delta_30d_pct": -29.91,
+      "latest": 72.64,
+      "latest_date": "2026-06-26",
+      "delta_1d_pct": -3.48,
+      "delta_30d_pct": -31.23,
       "series": [
-        {
-          "date": "2025-06-25",
-          "usd": 67.68
-        },
         {
           "date": "2025-06-26",
           "usd": 67.73
@@ -1021,20 +1017,20 @@
         },
         {
           "date": "2026-06-25",
-          "usd": 75.54
+          "usd": 75.26
+        },
+        {
+          "date": "2026-06-26",
+          "usd": 72.64
         }
       ]
     },
     "wti": {
-      "latest": 71.97,
-      "latest_date": "2026-06-25",
-      "delta_1d_pct": 2.32,
-      "delta_30d_pct": -29.57,
+      "latest": 69.3,
+      "latest_date": "2026-06-26",
+      "delta_1d_pct": -3.64,
+      "delta_30d_pct": -31.4,
       "series": [
-        {
-          "date": "2025-06-25",
-          "usd": 64.92
-        },
         {
           "date": "2025-06-26",
           "usd": 65.24
@@ -2041,46 +2037,50 @@
         },
         {
           "date": "2026-06-25",
-          "usd": 71.97
+          "usd": 71.92
+        },
+        {
+          "date": "2026-06-26",
+          "usd": 69.3
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-06-25",
+    "as_of": "2026-06-26",
     "regular_91": {
-      "avg": 3.031,
-      "min": 2.689,
-      "max": 3.979,
-      "count": 75
+      "avg": 3.034,
+      "min": 2.809,
+      "max": 3.649,
+      "count": 68
     },
     "premium_95": {
-      "avg": 3.179,
-      "min": 2.829,
-      "max": 3.699,
-      "count": 29
+      "avg": 3.215,
+      "min": 2.919,
+      "max": 3.549,
+      "count": 40
     },
     "premium_98": {
-      "avg": 3.219,
-      "min": 3.069,
+      "avg": 3.325,
+      "min": 3.189,
       "max": 3.519,
-      "count": 4
+      "count": 5
     },
     "diesel": {
-      "avg": 2.578,
-      "min": 2.109,
-      "max": 3.159,
-      "count": 85
+      "avg": 2.567,
+      "min": 2.259,
+      "max": 3.179,
+      "count": 79
     },
     "lpg": {
-      "avg": 4.0,
-      "min": 4.0,
-      "max": 4.0,
-      "count": 1
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 93,
-    "observations_yesterday": 93,
-    "observations_older": 8
+    "observations_today": 24,
+    "observations_yesterday": 161,
+    "observations_older": 7
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8614,6 +8614,12 @@
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNXy04VzVTWkU4WklDTXN1UmRtN3lYRTVzX041TFlOaXBJWVk4N2FmUzZZQ0U4RHJGY0RZekYyRXZIV1hwTGM5T1NpaTJhazNCbW9tYjMtTWZ6TDctREZncC1uNFAxNEhQbkFCV0thdnBOS2lmWFpUUEZCX1FiX0lGd3ZZaThmeTc0djNZNUdUQzdVNk9OWFJUS0hYbnh0ZzFNTmdhcDVtLTNDWnl5elBNWGVn?oc=5"
       },
       {
+        "title": "New Zealand just posted its best economic results in three years. But there’s a catch - The Spinoff",
+        "source": "The Spinoff",
+        "published": "Thu, 18 Jun 2026 16:01:47 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa09OR1ZqdDF2VmQ1aVM5T29LTU1ERzh4eW90T0h6Z1dYamdKWVE3TFZ4djJXNTFpSEtxOUp4T1ZaRDNpemRtR0ZMdWhQd2pBRVNXMGYxaTJTTkd1cHNVN3c5VUdVcWNyNHFxWWtyRkpVTF85UU5vUEFJaXpxVFlCM1duOWQySndOem8yZ3JSMjBkRlRCV2xiY1J2NDJaVkxWb1ZnMkFrWDRZY0lkbmJIbjl0X05JaVNiNnNjQXBNQU1LYmppaVdz?oc=5"
+      },
+      {
         "title": "Petrol and diesel prices see slight monthly decrease, food prices increase led by milk - Interest.co.nz",
         "source": "Interest.co.nz",
         "published": "Tue, 16 Jun 2026 07:00:00 GMT",
@@ -8630,20 +8636,32 @@
         "source": "RNZ",
         "published": "Mon, 15 Jun 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ0VKZGczMlBrQ1lENjIyMXE4bDNwUXZvMXNEcXhfTkc4RU05NDdOQ2piSlNUVjE3ZG5NSEtzdHBTOFpkRXI0M0xleUxiQWV6YjFGdnJKeFQ2b1ZGU3llc3k5RzYwcmU1ZTJnYW5DLUpHbkNFVUdyenBjamdNQklOWEluVWFHLUFrZmpodjRxVVR5QQ?oc=5"
-      },
-      {
-        "title": "Suspicious fuel takes on farms continue - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Mon, 15 Jun 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQb3hFNm1QMmdDc0FpcENaUzh4TFpLenJ2alN2M3NCMTBWdmw1dUd2SnpfRXVzUmpWZm5DeWdJTGJzN1JWYWRTNHAtc2lIajIwaUltYjVMYUZLd1dTUzJDckp1OHNrenlDSzBXN0dsX2VMaXNLeEI1NnZHRHNERHhHZ2JuNGtRaml6UUF1ZmNsRlV4UWwwRDVrVmF5eTdzNG1PeHZTV0I4UjJTeEk1OWpPYWQtM0RJMGZJV0VjU3YwbjdjbmdBSi1DNXNMZ1lBSGVoZ04xZkM2OHJqaHM?oc=5"
       }
     ],
     "global": [
       {
+        "title": "Serbia's Russian-owned NIS oil firm seeks another sanctions waiver from U.S. - Reuters",
+        "source": "Reuters",
+        "published": "Fri, 26 Jun 2026 19:33:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR201dDdqN1NMNW9UWlVDYnAxRmpndmNaQUNueWloQWhvUm1DSTRYd2FOLU5Bd1VrakNleDI3eTJ1eHZzZGxWejdQZHBtZ1hDbWd4MTBqTUw0N0pBLTRBTndCUU9SQ1lSbkFGbTV6QWZKUnpabE4yMHJCeDUxalBWZEhCTE9zaWNtRThKQ1N6cktIbi1ZYlYweEhBN3Y4NzBYZGtaZFVjZDB6NXRzZmpvaFJ1TTlCMVlYZm5WQg?oc=5"
+      },
+      {
+        "title": "Update: WTI Oil Hits a Four-Month Low as Strait of Hormuz Shipping Resumes - Moomoo",
+        "source": "Moomoo",
+        "published": "Fri, 26 Jun 2026 19:21:20 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ3duZHRjSWZScmhUOHpCbE5fbVJWT3BjUUhKUkJ2c2d5TWtpWkNqVEFkcVZLYm1EZUFzRlBmQVhTY1RQRkpaZmR1eWVManQwWTBGWlBjVkdIRjdEd3Y4V1IyZldQbEhCZGlZSGlFMVdMMDk0VWxVUEZuQVZZZ28zbl95TEI2ekg1RVFKcUNZNHE3QQ?oc=5"
+      },
+      {
         "title": "Oil Prices Return to Prewar Levels After Four Months - The New York Times",
         "source": "The New York Times",
-        "published": "Fri, 26 Jun 2026 17:01:20 GMT",
+        "published": "Fri, 26 Jun 2026 18:40:58 GMT",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZVFBVG0xbVNkUlBOWnAzbEZvMllFSUlpclhndUxRY1RZUGo0SlMtWDBqWTZlT1FzNDV2SDljWWdPYkJmdi1WUllJWHh1NmxjSGJYVDVNNi14VlBZRms2clVzSXdrYWdiZVJxaE1KeWJSd0lndUdsMkJmUFF6dGo2RE5vWDgxSzRQTjg0Ym8wa2E?oc=5"
+      },
+      {
+        "title": "August WTI Crude Oil Contract Closes Down 3.7% to US$69.23 per Barrel - marketscreener.com",
+        "source": "marketscreener.com",
+        "published": "Fri, 26 Jun 2026 18:36:25 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUUlFYkgtVVUzdVpaVWZROUY0aHRMNW1OeDlQUzdvVE1pNUFWWjRNOVRfUkU0WG5YaFl2T05mVFR1RjFaVnpNMjlEbDJoODJSdE9DYnRtLUhWTENUcS1rcElodmFXZS1iUkpBTEQ0NWN5aFotbkFQOXhadk1tZVZjVlRVc0FvUUw2ZGZYR1dmUDVKWlNWeG9xRUlaX2hHU1RZanpsQTJzdzB6Y09hMVctaGk1b1ZjSFJEZXNyWVRR?oc=5"
       },
       {
         "title": "Brent Erases Iran War Premium as Hormuz Flows Show Signs of Recovery - Crude Oil Prices Today | OilPrice.com",
@@ -8668,24 +8686,6 @@
         "source": "RBC-Ukraine",
         "published": "Fri, 26 Jun 2026 15:25:11 GMT",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTkE0UTZXWGdwd1RxbGxqWFBVNllySFlsWFh3dnJxR3dsVGNvcW9penhvTXZ4Z3EtLUxPUVZnelp5Ylg2NmV3Z2o3VmJrRndUUUZWOHJycjV4NXJ1aGpOUDMxZlBlbV9IeG12MEF2UEtLSlBueGl3a2NRR18yWnJOX2pzN2E0LUtYRW0zV3BIY1ZfZw?oc=5"
-      },
-      {
-        "title": "Brent Crude Oil is down by 5.03% - TradingView",
-        "source": "TradingView",
-        "published": "Fri, 26 Jun 2026 15:20:08 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeUZpb2NNNm9lODNsTHlZNDdqam1FREhvYUo0dXdxT2Y5MTZlWk5CVDVTZ1RmUENaejBRYVp6YnlvUzlWRVlodFhmX2JqVjI4VGNwWGlOa2lNdG9HT0ZmR3ZUTmdhWTB5Mi1pQnphcm52NzNIY0FRXzNGSy1WMGlKYUNyZUFHbi1KaXc?oc=5"
-      },
-      {
-        "title": "Barclays cuts Brent price forecasts for 2026 and 2027 - Reuters",
-        "source": "Reuters",
-        "published": "Fri, 26 Jun 2026 14:51:06 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVUtIOGN4Vk9xTXVOSUFucDhJZndHb0U2M0d5QXFTMS0tTm5TWlVLZnMxMm53MmN0TjRQUXVFZTRycjNKOUlLQmttWWlGeHdQOHNZaXlwYmZwVmtTT0dNV3dSUm1FNi1xVGxoMDFvUlN3YVNYbERJM1kyU08zWG1HZ240RXdZZ0lYZUJQM0RhWTRDN1VHemdlNHhTVkJwUQ?oc=5"
-      },
-      {
-        "title": "Current price of oil as of June 26, 2026 - Fortune",
-        "source": "Fortune",
-        "published": "Fri, 26 Jun 2026 13:36:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FQzFQVGtCaXFQNGRNNGN4SGNob0lWdEViRnV0SGZFX0xUNWNrOUlJUkplT2hLdV9kWnV3bnVTbnNHMWw2cHBham1SRkQtLTBxdFI5dXIxQ0RVZzNJM081UnFR?oc=5"
       }
     ]
   }
