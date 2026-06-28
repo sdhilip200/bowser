@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-06-28T18:44:09+00:00",
+  "generated_at": "2026-06-28T19:19:43+00:00",
   "fx": {
-    "nzd_per_usd": 1.772247,
-    "as_of": "Sat, 27 Jun 2026 00:02:32 +0000"
+    "nzd_per_usd": 1.771789,
+    "as_of": "Sun, 28 Jun 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 71.99,
+      "latest": 72.6,
       "latest_date": "2026-06-26",
-      "delta_1d_pct": -4.34,
-      "delta_30d_pct": -31.85,
+      "delta_1d_pct": -3.53,
+      "delta_30d_pct": -31.27,
       "series": [
-        {
-          "date": "2025-06-27",
-          "usd": 67.77
-        },
         {
           "date": "2025-06-30",
           "usd": 67.61
@@ -1017,7 +1013,7 @@
         },
         {
           "date": "2026-06-26",
-          "usd": 71.99
+          "usd": 72.6
         }
       ]
     },
@@ -1027,10 +1023,6 @@
       "delta_1d_pct": -3.74,
       "delta_30d_pct": -31.47,
       "series": [
-        {
-          "date": "2025-06-27",
-          "usd": 65.52
-        },
         {
           "date": "2025-06-30",
           "usd": 65.11
@@ -2039,30 +2031,30 @@
     }
   },
   "nz_retail": {
-    "as_of": "2026-06-27",
+    "as_of": "2026-06-28",
     "regular_91": {
-      "avg": 3.019,
+      "avg": 3.01,
       "min": 2.809,
-      "max": 3.529,
-      "count": 78
+      "max": 3.419,
+      "count": 58
     },
     "premium_95": {
-      "avg": 3.216,
+      "avg": 3.205,
       "min": 2.919,
-      "max": 3.559,
-      "count": 52
+      "max": 3.519,
+      "count": 27
     },
     "premium_98": {
-      "avg": 3.294,
+      "avg": 3.387,
       "min": 3.189,
-      "max": 3.379,
-      "count": 16
+      "max": 3.679,
+      "count": 6
     },
     "diesel": {
-      "avg": 2.544,
+      "avg": 2.522,
       "min": 2.259,
-      "max": 3.259,
-      "count": 77
+      "max": 2.789,
+      "count": 65
     },
     "lpg": {
       "avg": 0.0,
@@ -2070,9 +2062,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 0,
-    "observations_yesterday": 191,
-    "observations_older": 32
+    "observations_today": 47,
+    "observations_yesterday": 66,
+    "observations_older": 43
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8618,19 +8610,31 @@
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNXy04VzVTWkU4WklDTXN1UmRtN3lYRTVzX041TFlOaXBJWVk4N2FmUzZZQ0U4RHJGY0RZekYyRXZIV1hwTGM5T1NpaTJhazNCbW9tYjMtTWZ6TDctREZncC1uNFAxNEhQbkFCV0thdnBOS2lmWFpUUEZCX1FiX0lGd3ZZaThmeTc0djNZNUdUQzdVNk9OWFJUS0hYbnh0ZzFNTmdhcDVtLTNDWnl5elBNWGVn?oc=5"
       },
       {
+        "title": "New Zealand just posted its best economic results in three years. But there’s a catch - The Spinoff",
+        "source": "The Spinoff",
+        "published": "Fri, 19 Jun 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa09OR1ZqdDF2VmQ1aVM5T29LTU1ERzh4eW90T0h6Z1dYamdKWVE3TFZ4djJXNTFpSEtxOUp4T1ZaRDNpemRtR0ZMdWhQd2pBRVNXMGYxaTJTTkd1cHNVN3c5VUdVcWNyNHFxWWtyRkpVTF85UU5vUEFJaXpxVFlCM1duOWQySndOem8yZ3JSMjBkRlRCV2xiY1J2NDJaVkxWb1ZnMkFrWDRZY0lkbmJIbjl0X05JaVNiNnNjQXBNQU1LYmppaVdz?oc=5"
+      },
+      {
         "title": "‘Strong sense of optimism’: Fuel price drop boosts confidence - The Post",
         "source": "The Post",
         "published": "Wed, 17 Jun 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT0FSYVpfS1ZyUjloQlRBTzY2dHVUX0gwTlhWQ2xyejIyTzZleHZJOVZxQ0piYnZGZXVISmZXeDhheXotV292SXl3bjJmYld3Z2c2TWVCWlpTVXlRMThRdGxGRnEtV1J1OFBQcUtzMVhKY3I5cE51enJ6SHJFTThxckFPVTNSbDdLOWRPdVAwSDBhY3Q4dE9vbnpEUUhfVE92?oc=5"
-      },
-      {
-        "title": "Fuel company to lower prices in wake of Trump's Iran deal - 1News",
-        "source": "1News",
-        "published": "Tue, 16 Jun 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbXh4cDhzUXZJdmxNVXlCODZ5RWtad2J4UDZQb2EwSm1wdHJ4VTAyTG04ejc0VHA4d0dHUWQ2em8weGNYdWc0T0VHam1qa1dTN0dObWYya2lFZEJlSzBzcUFxcW1MUUVET1pqNzBnMnJsM2tfejZ4ZTdvdkdabUhWY1JGak5lTmw3S204OW53a3J3NXJKZVNr?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Trump’s U-turn on Iran sanctions would unravel decades of curbs - Fortune",
+        "source": "Fortune",
+        "published": "Sun, 28 Jun 2026 18:44:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVzljd0FqcjBVZ2F2RE1HUVNQZi1FajRieEFhOG5JVTJHRXJGckpFTk1HSXhjdEFMZlN1SjlGc0MzbVp3Qnc4d0NKdU5ZMlpKMHJWdFJCNU9jb080MDlmZl9uTUMybk5ZeUhrR2h3VkUtMEdTakVDdHVQc09vZHg1RHVMSnNZR3M3STlBNTRfWQ?oc=5"
+      },
+      {
+        "title": "Ukraine's drone assault ignites major Russian oil refinery, as Putin acknowledges 'difficult period' - PBS",
+        "source": "PBS",
+        "published": "Sun, 28 Jun 2026 17:35:34 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa3o0SlB1R2FBeTBaa3hKajRNMFgtZ0Q5bFk2R2x0X3Q4NFdTbmxRWDFkb18wdDdiUEZpVUI4dmNCS0tEVnhoM0VNVGNNbWRreFRGVjVPS2w2UlFzYlp1ZjhoT0lZTkU4c2FsaXZRTVF5WUZwQ2R4bW1jYkdyeVVRZFFfcVIwZ1RYY2owNlQ4Yl81NDNsUFM0SHFGSjQzeWo0SmVyTmNxMlpZMndDOFItaHFDMHZ2UGVGS3RFQzJHWTVGWTdhYVF0MGJsMNIB0AFBVV95cUxQOXplUFljYWlyQ3BBd3FiejIzclNUeDBPSTc3TnBXdkp6NThNN19FQ0R6SGJmMDM2bWdWVlQ4RExEc1RTdnFScGlvSWltdC1lNGNTRkw5cmNoQTl1dVN0blFvd1hCTmViQnEzbWNYSTRLYkpPMVp6Z3ZBZnNRYW4ycjd3WlB4dTEtX0xJTjlOWjQtOE43MkdWLUtOa182YjlkNFF3ZndGZmVJU2xFWUxKdm9qNlRNcHpOWjlmRk9Zc1prYkxXSmpXcDVSWlI3RU1C?oc=5"
+      },
       {
         "title": "Brent Drops 4.57% as Traffic Through the Strait of Hormuz Resumes - energynews.pro",
         "source": "energynews.pro",
@@ -8666,18 +8670,6 @@
         "source": "instagram.com",
         "published": "Sat, 27 Jun 2026 17:15:20 GMT",
         "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkbXVtTHRrOFBrejFzRE9aOXdqbVA4UVROVXE1MTFlbF9adk9tSUJIQkU0MkwydUo0cE1MZkNidklUYTNVXzc4djc2WXcxLS11MXFaMmx3?oc=5"
-      },
-      {
-        "title": "Core Differences Between West Texas Intermediate (WTI) and Brent Crude and the Affect of the Iran War - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Sat, 27 Jun 2026 12:35:42 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1ZOVFVuUnFFYUstVktuczhxdzBYN1lUbUlqbTIwZEVnX2lCclN2dDZyeVJxUnFPLXdLLWhHcTd1MUUyM0kxTFBUZWJZSVlfN2RCZkRlRXhqT3ZfdUJTQkFjSkR1dDFsQ2Rmc19VTERhc1hsV2Nka2RDVEFvZ0FUcFdJQ0dCR21lcm5mZU12UzJZZHlyOFh3WGEzVWpCVDlUeHc?oc=5"
-      },
-      {
-        "title": "WTI Crude Oil futures fell on easing supply concerns. - CME Group",
-        "source": "CME Group",
-        "published": "Sat, 27 Jun 2026 04:43:43 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMFA2T0pOVlFtZW1jZFlIcnBYeDNSMzVrbzZBUFdNeUZSckY0NmxqRkVaMHNFNXc0T3R0ck1ta0VDS09ic2ZnM3JrMWJGbW5wSG5vSkxUZzJlVk1VMFU3V2VZcVJ5YWh3M2FTVmNFM0pPNUU5Y0daYXREU244eTBMOWEyelNZSk1ZZ3E5Qm1GbEhMUG5SaHRULTVsLTdYUWJZOUg3TjFtN2dzYjVMNFk4ZUE4anRSak11c1JaNGhWazNtR3hYempN?oc=5"
       }
     ]
   }
