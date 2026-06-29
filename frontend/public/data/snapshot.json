@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-29T19:19:35+00:00",
+  "generated_at": "2026-06-29T19:57:36+00:00",
   "fx": {
-    "nzd_per_usd": 1.771789,
-    "as_of": "Sun, 28 Jun 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.772346,
+    "as_of": "Mon, 29 Jun 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 72.6,
-      "latest_date": "2026-06-26",
-      "delta_1d_pct": -3.53,
-      "delta_30d_pct": -31.27,
+      "latest": 73.66,
+      "latest_date": "2026-06-29",
+      "delta_1d_pct": 2.32,
+      "delta_30d_pct": -30.33,
       "series": [
         {
           "date": "2025-06-30",
@@ -1013,15 +1013,19 @@
         },
         {
           "date": "2026-06-26",
-          "usd": 72.6
+          "usd": 71.99
+        },
+        {
+          "date": "2026-06-29",
+          "usd": 73.66
         }
       ]
     },
     "wti": {
-      "latest": 69.23,
-      "latest_date": "2026-06-26",
-      "delta_1d_pct": -3.74,
-      "delta_30d_pct": -31.47,
+      "latest": 70.38,
+      "latest_date": "2026-06-29",
+      "delta_1d_pct": 1.66,
+      "delta_30d_pct": -30.43,
       "series": [
         {
           "date": "2025-06-30",
@@ -2026,35 +2030,39 @@
         {
           "date": "2026-06-26",
           "usd": 69.23
+        },
+        {
+          "date": "2026-06-29",
+          "usd": 70.38
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-06-28",
+    "as_of": "2026-06-29",
     "regular_91": {
-      "avg": 3.01,
-      "min": 2.809,
+      "avg": 2.979,
+      "min": 2.721,
       "max": 3.419,
-      "count": 58
+      "count": 61
     },
     "premium_95": {
-      "avg": 3.205,
-      "min": 2.919,
-      "max": 3.519,
-      "count": 27
+      "avg": 3.141,
+      "min": 2.839,
+      "max": 3.639,
+      "count": 25
     },
     "premium_98": {
-      "avg": 3.387,
-      "min": 3.189,
+      "avg": 3.321,
+      "min": 3.139,
       "max": 3.679,
-      "count": 6
+      "count": 5
     },
     "diesel": {
-      "avg": 2.522,
-      "min": 2.259,
-      "max": 2.789,
-      "count": 65
+      "avg": 2.529,
+      "min": 2.169,
+      "max": 3.299,
+      "count": 80
     },
     "lpg": {
       "avg": 0.0,
@@ -2062,9 +2070,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 47,
-    "observations_yesterday": 66,
-    "observations_older": 43
+    "observations_today": 83,
+    "observations_yesterday": 79,
+    "observations_older": 9
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8586,6 +8594,12 @@
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSVM1QWRnWWxWLXR3VENXVUJFMjJLeWVWY2YzS0o1ZUpmbFdTRHd6UEFzaW1NUTNEekFQVlgyeFloWnBaZFdTeU5LT3dPbUkyM0RfS21QRzdGUUxWZ05XWGI3TzJKbFdlRmV0dmVVSWdOMUdZU0pjWWZpdXYydWExcjRqQTg2cXA5cTBKYVloLU82b09tMUE?oc=5"
       },
       {
+        "title": "What’s going on with petrol prices – and will they fall enough to turn the economy around? - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Sat, 27 Jun 2026 21:16:40 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdTVUR1djWGV3V2p3aVhxSG5fQ3duS3hvcGtyTUw4dlVodU5rd3c5WUVka2hid19jSzJKLXVhaGMtZndwejg1ZmplbFFxeTNVWWMwRnlHN0pNODI0Rk9TUmtIN1lUdURLTGRoZ2tnWEtnTjFUTl96ZHB6XzNwTTl1dTZWSUcwT0xxZVl5UE1oUkZVdWtOeldxZU5oN3ZUWHNCejc0cHR6bG1hOU9FTnNpV3BCbU9VX01xQXBJVENkZFc1VnJmSnJ3akVWMEw2ODFuSmpTTEptc1NQUENOaVNMVEp2bHFDV3VYX2E5dUMxYnRTRVNYaXg0SElPS1FwdjBESHc?oc=5"
+      },
+      {
         "title": "GWM Tank 300 Ultra PHEV review: plugged in and powered up - Driven Car Guide",
         "source": "Driven Car Guide",
         "published": "Thu, 25 Jun 2026 19:57:17 GMT",
@@ -8604,25 +8618,25 @@
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeUllQUFtUDRsSWhWclRQQUxxRU5xMHlBbDJWWi1wOXBpWUxWR2wzM3FhampyWFFKN2p1MktWM2dJbGQ3WnBQcFhMTHJmdzRMNnd5QjJJbFh0UUlLNFdoUGhjQUwzX1pmUU9RYXY3NS1wNEMyREpVRnhRd3VRTG1OOC1rV0VpQTdGTjJ6TlFESTNsRnpq?oc=5"
       },
       {
+        "title": "Air New Zealand maps recovery from engine and fuel challenges - FlightGlobal",
+        "source": "FlightGlobal",
+        "published": "Wed, 24 Jun 2026 08:03:36 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYnlYXzZoZnc5TGQ5MVkwZk5BSEJmU1U5RkNnWW96ek1TUzAyWXpUX3E5bklTSnRwQ0VLTWZNN1djTl9kNFZyelBTZHJxS0ZTbWZ0bmNhcGRlbF82bXpMVHJ1WmloMllFYXlucHNNRG1aVUpMYUhoY0JoemZxSVJwQVdZbXcwYzRVbkw4dU9iYWQ4bVF5SjltZmdQZDk3aVhrZDg5bjBYTjFoc3U2?oc=5"
+      },
+      {
         "title": "Falling fuel prices could drive inflation, not ease it, economist warns - RNZ",
         "source": "RNZ",
         "published": "Wed, 24 Jun 2026 00:03:31 GMT",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNXy04VzVTWkU4WklDTXN1UmRtN3lYRTVzX041TFlOaXBJWVk4N2FmUzZZQ0U4RHJGY0RZekYyRXZIV1hwTGM5T1NpaTJhazNCbW9tYjMtTWZ6TDctREZncC1uNFAxNEhQbkFCV0thdnBOS2lmWFpUUEZCX1FiX0lGd3ZZaThmeTc0djNZNUdUQzdVNk9OWFJUS0hYbnh0ZzFNTmdhcDVtLTNDWnl5elBNWGVn?oc=5"
-      },
-      {
-        "title": "New Zealand just posted its best economic results in three years. But there’s a catch - The Spinoff",
-        "source": "The Spinoff",
-        "published": "Fri, 19 Jun 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa09OR1ZqdDF2VmQ1aVM5T29LTU1ERzh4eW90T0h6Z1dYamdKWVE3TFZ4djJXNTFpSEtxOUp4T1ZaRDNpemRtR0ZMdWhQd2pBRVNXMGYxaTJTTkd1cHNVN3c5VUdVcWNyNHFxWWtyRkpVTF85UU5vUEFJaXpxVFlCM1duOWQySndOem8yZ3JSMjBkRlRCV2xiY1J2NDJaVkxWb1ZnMkFrWDRZY0lkbmJIbjl0X05JaVNiNnNjQXBNQU1LYmppaVdz?oc=5"
-      },
-      {
-        "title": "What does Iran war deal mean for New Zealand interest rates? - RNZ",
-        "source": "RNZ",
-        "published": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY1F5VmljdGROU0UzNXdfQkZEamVtNkoxNVQxVkdaSGZyU1QwUlg3VnJSYU5ZcGthdU5xWEpFRG10VzRXN3RjbEk5TkRRZnpHMG9yWndkRXN6cFJkOTVhU1l6RnVxS2p0aTNGTHFqemNYaVQ4ZGNjUnY4bUduMlhuM2Q1bExVcDR1Nk05dUZGUnp0b2lNeGYtaTR4S0p4ZnlSd1Y4ZA?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "US-Iran Doha Talks See Divergence, Trump Says Iran Requested Negotiations, WTI Crude Returns to $70 Mark - TradingKey",
+        "source": "TradingKey",
+        "published": "Mon, 29 Jun 2026 18:47:14 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVE05OTl3cWQxcEZwOXFBWHZ2NWViV3JLRlQzWWpIcUp3TXRxalNvN3N6b1NkOGo2NzNVaV9PZC0wQjh2UlRLZ1BFNmREb3AzaTVFd1NlUjJOVEwyTnZQMXNwR1FCRlBNLUVva1dEbGNkNFNUMlAyTFdsdHdiSnYzbzR3T0dLbGFVNTd0QnhZLXE1X3dvZ0tINm45MHg1T2EybzVLWkl5OUY?oc=5"
+      },
       {
         "title": "August WTI Crude Oil Contract Closes Up 2.2%; Settles at $70.75 per Barrel - marketscreener.com",
         "source": "marketscreener.com",
@@ -8633,25 +8647,19 @@
         "title": "Energy ETFs to Buy as Oil Price Slides to Pre-Iran War Level - The Globe and Mail",
         "source": "The Globe and Mail",
         "published": "Mon, 29 Jun 2026 18:43:36 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeVBUdlN1eVNNbFUyVUx6aXphRUY0LXgyaGJnMm5Lb21QajUybkcxUWx6SzJmS0ZmUWxyNm5MZllNY2dYT1kwb29PXzQ0ZGU1SVlKS1QwZ0x4azNNb2ZCbmFuUzJ6RnVvX2J6VWItTmJiWlRDeWItdEJVYzRvRGZhZWFGNkdyOW0zMGVybHlPR25WcG5NV2JMWFlDdUR1VktoVHF2dDRvSlJiOVprd21qN2U5YkRzZXRYZ3FMMmFZRGFPQ3hCS2lUai1qQ1M3TFJpdUF4NEp5eV9pUUNv?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWVdDOG4xbVlfU3E3UVl2M0hDQWZtUnp1QmU2VUtaY0lDZDZPSFp5YWMydkFXV2xMZElpbExtYjY3aC1qMTcyTkRpTjJoQnBLSEVDTzNzLXptV29VZnFyNF84VFVieC12RnlaT3ROT0VQUUxTeVh5NHE3SW5FZWJHSEI3bWhtU283elpfQmlKRjF0YkRCS3FxbjhVcWdDaDJlZ0hMeURiUG5reUdCMG1ybFpsYzlJV1ZIcmU1UC0yTFFIcUhXUWQ5R0d2YjdVa1VJNTJtWEdld2xuajAtQ1E?oc=5"
+      },
+      {
+        "title": "Brent Crude: A Multi-Decade Technical Turning Point Is Forming - Investing.com",
+        "source": "Investing.com",
+        "published": "Mon, 29 Jun 2026 18:42:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR3VsT3VRNnNxMHNCT2picXdwMlNpZ3o4YWRuVGczekw5TERwazhLNmgtd3J1R0VBMUFaTmRCVERMSXJzUU4zWFM5S0tEWk9oVE1HM25nWnZfVzgzVERnM2hob1RrRVVFZ2hNREVDMkd3NmF1ZC1mbGZ6cUhtUTdBZkFPWHdjWDZuUlZ4dDNnYklwMGtJbUtwdHBCS0l6bWh0NXFPYkUzWQ?oc=5"
       },
       {
         "title": "ING Oil Prices Have Overshot To The Downside - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Mon, 29 Jun 2026 18:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbXk0M09ROUZmd2loeEpXa0pOWFhaVXp6LVMwdXdCMG5hVWNtN2xMTDQ1NkEtWGhMQjB0X0RwX2VBZkEwXzJVbjd1QUNUOE9tZHVCVVpnSHlHTUZmeHQxbHlsS3AtRk56cHk0QzdRUGpzVmo1cXFLdGF0V2MxUjBvbjluMU40TkFDczZjZE4xQzBwelRvcW5tajVTblJfMmZScEHSAacBQVVfeXFMT2RTWDlnMWdyQ2ZPZHJ5YlZCSXV1M3Y0YVRJdGlPVk1ULWRiYWx4QzBmUHhzMUJXRW1HYXVFeUROY200Skg4dmtJeXNhVV9CdUxZMk5YbkFleWlmOWZKeThKRlFGSkYzemNsOXVVbS1yaFhKWjJfbmZVaVpEN0JfcHZUSFpVXzJaaHRHcGpzdmRaTjZHZENWMGZ6UVczSDJpdFl4MmVLWEU?oc=5"
-      },
-      {
-        "title": "Why Wall Street Thinks Cheap Oil Is Here to Stay - Barron's",
-        "source": "Barron's",
-        "published": "Mon, 29 Jun 2026 16:55:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQkpkS2NhNGl6SDZzUk5XVThIeGpob0d3amUxMTR3NDNDR1VOS3VyRWw1M2tVRmVLNE1VZXkyYmZuV1VmZWt0bkdMTm54cE5JNVhUYllMeUdBUDVMR1EwaWp1UUlQbGJJWWpLZG9maExIWThKS2lTYkQtcHY5bUxnekc5TkxxYmdCRVFiX1FJN2M?oc=5"
-      },
-      {
-        "title": "Crude Oil Price Forecast for 2026, 2027, 2028–2030 and Beyond: WTI and Brent Outlook - LiteFinance",
-        "source": "LiteFinance",
-        "published": "Mon, 29 Jun 2026 15:57:32 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmdYNGNXYXk4UEdoY0txN0hKa205N0dTWk1Fd2VSSGM2LWNtdlJtMXhJanZSRXZQT1l5QWxLRF9mdlJVOWV3M3lJejlxSTl2Y29yRG1xSkVNWV9YSlg5WC1admhGYW15ZUppRTlULWkxYkVaN0VFUHgzY1I4RlN0cjgyRDI0M2lw?oc=5"
       },
       {
         "title": "Nigeria orders crackdown on petrol pricing as crude oil drops from $120 to $72/barrel - Business Insider Africa",
