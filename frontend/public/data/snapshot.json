@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-30T19:16:13+00:00",
+  "generated_at": "2026-06-30T19:58:04+00:00",
   "fx": {
-    "nzd_per_usd": 1.772346,
-    "as_of": "Mon, 29 Jun 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.769527,
+    "as_of": "Tue, 30 Jun 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 73.66,
-      "latest_date": "2026-06-29",
-      "delta_1d_pct": 2.32,
-      "delta_30d_pct": -30.33,
+      "latest": 73.41,
+      "latest_date": "2026-06-30",
+      "delta_1d_pct": 0.36,
+      "delta_30d_pct": -32.81,
       "series": [
         {
           "date": "2025-06-30",
@@ -1017,15 +1017,19 @@
         },
         {
           "date": "2026-06-29",
-          "usd": 73.66
+          "usd": 73.15
+        },
+        {
+          "date": "2026-06-30",
+          "usd": 73.41
         }
       ]
     },
     "wti": {
-      "latest": 70.38,
-      "latest_date": "2026-06-29",
-      "delta_1d_pct": 1.66,
-      "delta_30d_pct": -30.43,
+      "latest": 70.08,
+      "latest_date": "2026-06-30",
+      "delta_1d_pct": -0.95,
+      "delta_30d_pct": -33.52,
       "series": [
         {
           "date": "2025-06-30",
@@ -2033,34 +2037,38 @@
         },
         {
           "date": "2026-06-29",
-          "usd": 70.38
+          "usd": 70.75
+        },
+        {
+          "date": "2026-06-30",
+          "usd": 70.08
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-06-29",
+    "as_of": "2026-06-30",
     "regular_91": {
-      "avg": 2.979,
+      "avg": 3.006,
       "min": 2.721,
       "max": 3.419,
-      "count": 61
+      "count": 70
     },
     "premium_95": {
-      "avg": 3.141,
-      "min": 2.839,
-      "max": 3.639,
-      "count": 25
+      "avg": 3.134,
+      "min": 2.869,
+      "max": 3.339,
+      "count": 26
     },
     "premium_98": {
-      "avg": 3.321,
-      "min": 3.139,
-      "max": 3.679,
-      "count": 5
+      "avg": 3.282,
+      "min": 3.209,
+      "max": 3.319,
+      "count": 3
     },
     "diesel": {
-      "avg": 2.529,
-      "min": 2.169,
+      "avg": 2.527,
+      "min": 2.259,
       "max": 3.299,
       "count": 80
     },
@@ -2070,8 +2078,8 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 83,
-    "observations_yesterday": 79,
+    "observations_today": 85,
+    "observations_yesterday": 85,
     "observations_older": 9
   },
   "mbie_waterfall": {
@@ -8606,18 +8614,6 @@
         "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdTVUR1djWGV3V2p3aVhxSG5fQ3duS3hvcGtyTUw4dlVodU5rd3c5WUVka2hid19jSzJKLXVhaGMtZndwejg1ZmplbFFxeTNVWWMwRnlHN0pNODI0Rk9TUmtIN1lUdURLTGRoZ2tnWEtnTjFUTl96ZHB6XzNwTTl1dTZWSUcwT0xxZVl5UE1oUkZVdWtOeldxZU5oN3ZUWHNCejc0cHR6bG1hOU9FTnNpV3BCbU9VX01xQXBJVENkZFc1VnJmSnJ3akVWMEw2ODFuSmpTTEptc1NQUENOaVNMVEp2bHFDV3VYX2E5dUMxYnRTRVNYaXg0SElPS1FwdjBESHc?oc=5"
       },
       {
-        "title": "GWM Tank 300 Ultra PHEV review: plugged in and powered up - Driven Car Guide",
-        "source": "Driven Car Guide",
-        "published": "Thu, 25 Jun 2026 19:57:17 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWlpMc1UzcGt0bXdjcjZDczJvNG4wMWJDbG5sQTh5bmZLdEVfYzlnZVVFYU9TaUhiMWhfS2xodnRCVjJEenVDSVp6OVc0d1Q3bXBfbDVkZWwwN0xrT2d2bFh0LWN5ek9yVEpCWS16b096VmRZLUxqVTBVVWc1aDRTR0ZCVHRiX0RybXBCLXJKVzNpSEx0N3ItRDNYR3FJelU?oc=5"
-      },
-      {
-        "title": "From airlines to banks: Australian, New Zealand firms feel heat of Gulf crisis - Reuters",
-        "source": "Reuters",
-        "published": "Thu, 25 Jun 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNmYzRXZDRFdvTVR5ZWZlMmp4UjJ6RDdkcF82czIydjR2dmJpMGJQYlRyOVpYSVBMaDJUdmxESGdXQTVRMFVaYlJ6TS10MDdWSWNjUTM4UzVhd0Vuc0RsU0UweTY4Q3V1blA0QncweHpfYUFYZUk0ZDctRlk0M3JZZnFNdUFiMEY1ODJzMVNtMXlIY3JZT1Njb2RmNWlfNEl6bUhyZTB3eXZBNFBqaVFNVWdlT1NHWk9TU0E?oc=5"
-      },
-      {
         "title": "Fuel prices drop - and what's going on in Wellington? - RNZ",
         "source": "RNZ",
         "published": "Wed, 24 Jun 2026 23:25:39 GMT",
@@ -8628,6 +8624,18 @@
         "source": "Stuff",
         "published": "Wed, 24 Jun 2026 23:10:43 GMT",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeUllQUFtUDRsSWhWclRQQUxxRU5xMHlBbDJWWi1wOXBpWUxWR2wzM3FhampyWFFKN2p1MktWM2dJbGQ3WnBQcFhMTHJmdzRMNnd5QjJJbFh0UUlLNFdoUGhjQUwzX1pmUU9RYXY3NS1wNEMyREpVRnhRd3VRTG1OOC1rV0VpQTdGTjJ6TlFESTNsRnpq?oc=5"
+      },
+      {
+        "title": "Falling fuel prices could drive inflation, not ease it, economist warns - RNZ",
+        "source": "RNZ",
+        "published": "Wed, 24 Jun 2026 00:03:31 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNXy04VzVTWkU4WklDTXN1UmRtN3lYRTVzX041TFlOaXBJWVk4N2FmUzZZQ0U4RHJGY0RZekYyRXZIV1hwTGM5T1NpaTJhazNCbW9tYjMtTWZ6TDctREZncC1uNFAxNEhQbkFCV0thdnBOS2lmWFpUUEZCX1FiX0lGd3ZZaThmeTc0djNZNUdUQzdVNk9OWFJUS0hYbnh0ZzFNTmdhcDVtLTNDWnl5elBNWGVn?oc=5"
+      },
+      {
+        "title": "Oil price falls, will airfares follow? - RNZ",
+        "source": "RNZ",
+        "published": "Thu, 18 Jun 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbnctWWlvNFlXT21TTEJpMk1DdzRjQ1k2SHl3VmsyRERKR3RBSHdIeExxYmttRW5maXVYXzJuZHVFZFNSTTFZU002TnRITG1DaTY0aGEwXzAyVzlLMVNOcEZFX0hmTmM0SW1lZloxazdRQ3NTck91VUdyOTEyOUdBMVlSMFMtdw?oc=5"
       }
     ],
     "global": [
@@ -8644,16 +8652,16 @@
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0NQaHZVT0NSR0hPSEJlNWR2aGs2ZWNBNm84N2VzdEF6cjdLU0NrM0ZlcnphSEVPeDZ6eWFObC1hckw4U0NwRVVLcHFRODdsSTRPRElNenQxZXN1a1pPNlAzN1pSRTZJeUZTQlMybU56UUdLMWdUYjk3NnBmVWhsM2tRRFJGY2c1ZzFmR1ZZQnRrR2g0WFQxeFUtSktfZ2VSZDdTY1hWYXhYckhHcVRUVW1YM2RGTkFoOG1jMFVZdnJ5ekdM?oc=5"
       },
       {
-        "title": "Oil is set for the largest quarterly price drop in 6 years as historic supply crunch eases - MarketWatch",
-        "source": "MarketWatch",
-        "published": "Tue, 30 Jun 2026 18:36:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT2g4UDlSZ24zTUJSMERUelQxdk9ZY2dtYW80UGFpUmp5dGR4MGxtdVN5QnIxU1RTNVdXdkljb2xjMjVITXFZR1U3N1MzdEdHSWRnb2UyUmtqNDJ3cWVEUUtvNEU1cTlIN3VQa0RNcUQtZGc0ZVhmc19kRUdMalZ2c09ZSVVNa1cwckI1TTd6WFA2dGNYcHQ0UVhXNlpPT1FhZXZOQTRRQTlkMDVDWXg3S2dTeGtPTF9EQnJaN0RlWWhfcWhJSU80LWRDN0Zodw?oc=5"
-      },
-      {
         "title": "The Oil Benchmark Named Brent Is Losing Its Brent - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Tue, 30 Jun 2026 18:30:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY2JxbldhQU8tTC1yT2Mtam5ITW9CanJUUkE2a3piSXlLVEUtWlJIbF9sM2xFM24tTjd2aEpXeDc2U2Flek1mV3gzRnlzbl9HVWNXQUhON3QtMVhnbGdYVG1wZk1VbXB4U3p2T1c3RjIyeHlQWkJoV2pTZnZMVGhycElkcnRJYVBBV0pSaG0yN3ZYUDdLSlBHT0JSLVpfQ3VzMGhOdU5xT0_SAa4BQVVfeXFMTTZGZUZTa1FfUGZTZTBfQi1qRS1tTElpVHNHRkRkeWF3MGI3ZU1XWjVRdlFDdlRRamFBSVhtZ2U2bUhEbU1nQVgwRmc5LVc0NXRJNG4tT3Z1eDhQRElvNHp6eTNERjdRUDE5ZEIzX1FmaUFMeUN0R2lnLWxRdkRuVnJWeWlMOHoyUFpUNHdVdjczY0RQLWRUUFo4M3dhOW9RcmdhOU1rczhzOU1wUFVR?oc=5"
+      },
+      {
+        "title": "US Crude Output Sets New Monthly Production Record - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Tue, 30 Jun 2026 17:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNWxUYWMwdjJOQ0RnQmhhOGd1ZldkdEVQNHhsVzBVckdXWld3eHNUY05JVWF0TzdjWVhaempERzlRMFNzeW1FWnhzd1ZfUHdlUVlxcTVGMlFPamNZcHBMM1RmQVhCdkNZdUF1VFNETEc1X3ZSRzkzc1AweXNmVVBXSXRpVTNJcHFKT3l4LWpBcmRyNzNpSVZEbXBIRHVPU0F1eFluck5ZSmdzZ9IBrwFBVV95cUxQSzYyUl94QUxJLVNfcU1MOEdMWUxvTEhDZ2lRV283dTgwMEE5MXVoX2xaVHg3cjBRa0xqWkY4dl93SUY2Y3BrdDFaSkVDNmVqNGdJbktNN2hud0NyRkNibHNuSGgteUJIcEVqVFUyTnB1US12VTlFeUk2LUZZSmRUZXBqZU80amF5a2tjQkFBVTAzNFhlZnYzeWFUNUFaTlZ4VHFabm9qR2xCWUlUOWVv?oc=5"
       },
       {
         "title": "Pump Prices Fall as Record Travel Begins for Independence Day - AAA",
