@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-07-01T19:23:55+00:00",
+  "generated_at": "2026-07-01T19:55:37+00:00",
   "fx": {
-    "nzd_per_usd": 1.769527,
-    "as_of": "Tue, 30 Jun 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.763291,
+    "as_of": "Wed, 01 Jul 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 73.41,
-      "latest_date": "2026-06-30",
-      "delta_1d_pct": 0.36,
-      "delta_30d_pct": -32.81,
+      "latest": 71.26,
+      "latest_date": "2026-07-01",
+      "delta_1d_pct": -2.28,
+      "delta_30d_pct": -36.43,
       "series": [
-        {
-          "date": "2025-06-30",
-          "usd": 67.61
-        },
         {
           "date": "2025-07-01",
           "usd": 67.11
@@ -1021,20 +1017,20 @@
         },
         {
           "date": "2026-06-30",
-          "usd": 73.41
+          "usd": 72.92
+        },
+        {
+          "date": "2026-07-01",
+          "usd": 71.26
         }
       ]
     },
     "wti": {
-      "latest": 70.08,
-      "latest_date": "2026-06-30",
-      "delta_1d_pct": -0.95,
-      "delta_30d_pct": -33.52,
+      "latest": 68.15,
+      "latest_date": "2026-07-01",
+      "delta_1d_pct": -1.94,
+      "delta_30d_pct": -37.28,
       "series": [
-        {
-          "date": "2025-06-30",
-          "usd": 65.11
-        },
         {
           "date": "2025-07-01",
           "usd": 65.45
@@ -2041,36 +2037,40 @@
         },
         {
           "date": "2026-06-30",
-          "usd": 70.08
+          "usd": 69.5
+        },
+        {
+          "date": "2026-07-01",
+          "usd": 68.15
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-06-30",
+    "as_of": "2026-07-01",
     "regular_91": {
-      "avg": 3.006,
-      "min": 2.721,
-      "max": 3.419,
-      "count": 70
+      "avg": 2.993,
+      "min": 2.78,
+      "max": 3.649,
+      "count": 68
     },
     "premium_95": {
-      "avg": 3.134,
-      "min": 2.869,
-      "max": 3.339,
-      "count": 26
+      "avg": 3.181,
+      "min": 2.849,
+      "max": 3.459,
+      "count": 29
     },
     "premium_98": {
-      "avg": 3.282,
-      "min": 3.209,
+      "avg": 3.231,
+      "min": 2.999,
       "max": 3.319,
-      "count": 3
+      "count": 4
     },
     "diesel": {
-      "avg": 2.527,
-      "min": 2.259,
-      "max": 3.299,
-      "count": 80
+      "avg": 2.472,
+      "min": 2.229,
+      "max": 2.799,
+      "count": 87
     },
     "lpg": {
       "avg": 0.0,
@@ -2078,9 +2078,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 85,
-    "observations_yesterday": 85,
-    "observations_older": 9
+    "observations_today": 96,
+    "observations_yesterday": 84,
+    "observations_older": 0
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8626,16 +8626,16 @@
         "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOdTVUR1djWGV3V2p3aVhxSG5fQ3duS3hvcGtyTUw4dlVodU5rd3c5WUVka2hid19jSzJKLXVhaGMtZndwejg1ZmplbFFxeTNVWWMwRnlHN0pNODI0Rk9TUmtIN1lUdURLTGRoZ2tnWEtnTjFUTl96ZHB6XzNwTTl1dTZWSUcwT0xxZVl5UE1oUkZVdWtOeldxZU5oN3ZUWHNCejc0cHR6bG1hOU9FTnNpV3BCbU9VX01xQXBJVENkZFc1VnJmSnJ3akVWMEw2ODFuSmpTTEptc1NQUENOaVNMVEp2bHFDV3VYX2E5dUMxYnRTRVNYaXg0SElPS1FwdjBESHc?oc=5"
       },
       {
+        "title": "Petrol dips below $3 but questions linger over price drop speed - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Tue, 30 Jun 2026 04:55:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObjhGVURkMTQxYzFzSWdaOXN2cElraEZndG5KUzg3dnhVejRlQ2JaVlEtWHJBQmRKQnlfVmw4N1Q1YzlKTUI0WVhtcW1aMVZkWVBvUW1WTWZjVHM5ZzBkaERzRG1oeWdWWHBFQTQ1RUxZbkZNVTkwbUh1ZGw3NUhHWkpXNkpyaGJwOWZmejlGZ29BdWZzLWJVdkhxLXpabmdYbmUySlpzYzQyNko5cEQtWDJSbWVjNjhtSFhSczBYTEFMOHFkel9J?oc=5"
+      },
+      {
         "title": "Motorists could soon see petrol at $2.50 a litre - AA - 1News",
         "source": "1News",
         "published": "Mon, 29 Jun 2026 20:03:33 GMT",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTzBPNGR2TW1jSWR6TjAxNGpKWUl1YmVKUVFld29OYmN6bTFqNTdqeW05S1B0bkFYSkdvZTZyU0dWaTM2SFdLbVVmZjNwSHQyLWQwS2MwSGNLeWFIaTBJMmxubFlCNHpxVTdjdV9pcm9xczZMVGJXUnJrQnQ5MWctMk5QTE9CY1dVVVRTeGln?oc=5"
-      },
-      {
-        "title": "'Incredibly volatile' - long road to travel before fuel relief payments stop, says PM - RNZ",
-        "source": "RNZ",
-        "published": "Mon, 29 Jun 2026 17:47:13 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcWR2d3A5SGVXTnVSdk5WM3BLTTJrenJqVjQyOXlrLTFFNUlDMk04Z2NyV3U5YmNvWEJWWHkwX1dONENhcldzUjJZOWpadmZDcUZxZGtBczl6UEYyVjJLT21PYy0xeHdaWFdTQlpQZXJQNnZ2VV9UeV9rdWR5UUlhblZWbHdhdmNIZDFTNlQzX3lxWl9CaTZEclRqS19OZHJucUN5M2ZZSlJSX1UyNHd1OG5HVXhqeklLaXpCY3lKSzk?oc=5"
       }
     ],
     "global": [
@@ -8670,6 +8670,12 @@
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ01wNGJuNW5Dck5TUmVkV1NLRTk5aDR4LU1JUkFEYUZYVWlhc3pqamhHV0FWZWM4dTJfYTFxcTMyb2hDaEp3MGloekNQOHRPYzBXdHBMWVNacjdMbnhaVWtKUzlKYy1BbzlkTnZldDVhWmJUMkhLel9WTEtwNnZhYW9rd0JnYjJaakE?oc=5"
       },
       {
+        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
+        "source": "LiteFinance",
+        "published": "Wed, 01 Jul 2026 10:24:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
+      },
+      {
         "title": "Goldman Sachs Warns Oil Inventory Rebuild Won't Prevent 2027 Supply Glut - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Wed, 01 Jul 2026 09:30:00 GMT",
@@ -8680,12 +8686,6 @@
         "source": "CNBC",
         "published": "Wed, 01 Jul 2026 08:34:42 GMT",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84NFprZ2x2NVJUeWFTSWhwME5lZWF0TlVLZGRlcHhZRXVLcmJFXzQxM0t1QXRSTmRLOFBzVmxTTkZ3bExIbGtpYi12R1NCWTMtNUpocEg4WHp4NlJXeWp5bWF5UG5LZ1A0OVJ4d0Q4Q3hCNnJUSlRwbmpoYVpOWFXSAYQBQVVfeXFMUE41elFEWXRjNmxCaXdJamtTVWxoYkZwQnJsQXl1bEgxX0RFS3RRTlEtR2dhemtZOGxiV0R3ZzNSbnp6aTViQ0xtR2llUDN5anZscTlnemQ5cGJKUm1JdVA5alE2UzYyOW9SWGhZSHl1TEFQYnVkcGllSnBkTHlseEVabG16?oc=5"
-      },
-      {
-        "title": "Crude oil prices drop 4% after US-Iran ceasefire, boosting European equities - Crypto Briefing",
-        "source": "Crypto Briefing",
-        "published": "Wed, 01 Jul 2026 07:14:56 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdzVRNTNYV0dFQkxwd0hJM1lFZjNhZnlZZFZzZ3NRQzd1S1NmNTR0WFZNOTNaeml6ZUt5V0lfX1hJaS1SdXpyUG5laFNWOHk5X0JTRWpTakhuZmFaQ2o3dmRLNTFma3UtOU9QMDVmVW5yT2pwRkI2ZGZ4OVlsUGpUMHZ1eTNsZV9WOHRNQk1sM014SDY1clFzV184OF9hdFU2YmRmdw?oc=5"
       }
     ]
   }
