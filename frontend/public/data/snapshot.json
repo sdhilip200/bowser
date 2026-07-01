@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T05:00:25+00:00",
+  "generated_at": "2026-07-01T08:53:39+00:00",
   "fx": {
     "nzd_per_usd": 1.769527,
     "as_of": "Tue, 30 Jun 2026 00:02:31 +0000"
@@ -8590,6 +8590,18 @@
   "news": {
     "nz": [
       {
+        "title": "A ‘reset’ and a new phase: Air New Zealand looks to turn the corner on challenges - FlightGlobal",
+        "source": "FlightGlobal",
+        "published": "Wed, 01 Jul 2026 06:31:50 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWU5FZTg4NEloNEx6a0lhTEpzeEc3b3dDaGFVcGs3UjhnQ1FVaDlnRVBBbjJhRi1RaXdUOHlDRXRMTVdLcVh6LVZCaEF0SjRjRHBiVzdQQWpSRkVCQ0tPeVhlY3FWLWdmTjZFSzNDcHA4NWR5UHBWSG55LWNaSnRNcDhaTjJKYU9DZlZGa255ekRxeEdFX29VMDljRkNHbURmeExQeHdHbVBMRzBrV2ZNVHQ3VF9sVWp1UUJQNi1jLXBKUDA?oc=5"
+      },
+      {
+        "title": "Forestry sector sees signs of recovery as fuel costs ease - farmersweekly.co.nz",
+        "source": "farmersweekly.co.nz",
+        "published": "Wed, 01 Jul 2026 06:08:19 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRFpHbVB3Um4tTFI4Z1Y0U09SYkFSYlRRSHAybU1meDRQTlFzcTl6ejRyUFBXdUlZMTROY3pKbXVFS2pTMURxLXZrMG4teWJTQzZMdE56N2Z0TlZtYUxSTkdxS0JZMTRMQmxmcTFrYk9iQmNBY1NHYlJYLTBDQnB5cTBBZjN1WEZYaldIUndHXy1GRWFLQ2Jpc3RPNHdQc3M?oc=5"
+      },
+      {
         "title": "X appeal: Electric, petrol PHEV and diesel X5s signed for NZ - Motoringnz",
         "source": "Motoringnz",
         "published": "Wed, 01 Jul 2026 00:34:28 GMT",
@@ -8624,21 +8636,39 @@
         "source": "NZ Herald",
         "published": "Mon, 29 Jun 2026 03:55:27 GMT",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdUhmWUlfTlhLYm5kTEpkZndYY2Mxb08tRmpnd281aXVJMXdNU2p6T1lxRTc4UG9sVEhMN3FFYVpNR1NxMG5SU0tHd05IdEwtQlhESGRreVNTVXNyWHRSSVBRVnZ1R1BsaGNhRnhEVWQyUEtHdU15aUlXaDF1ank0UFVVdC1zRHdjMHRVMVQwRTl6NHhiZEdwQVpZVkI5X05WWXZpajVua0hmWkVxYXhKUWdtV1J6cDJib3lFdlVFaW04LWNqTmZxZHBLci1jOFIzV0FtbGxuTlhyUk1QanNmdQ?oc=5"
-      },
-      {
-        "title": "GWM Tank 300 Ultra PHEV review: plugged in and powered up - Driven Car Guide",
-        "source": "Driven Car Guide",
-        "published": "Thu, 25 Jun 2026 19:57:17 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWlpMc1UzcGt0bXdjcjZDczJvNG4wMWJDbG5sQTh5bmZLdEVfYzlnZVVFYU9TaUhiMWhfS2xodnRCVjJEenVDSVp6OVc0d1Q3bXBfbDVkZWwwN0xrT2d2bFh0LWN5ek9yVEpCWS16b096VmRZLUxqVTBVVWc1aDRTR0ZCVHRiX0RybXBCLXJKVzNpSEx0N3ItRDNYR3FJelU?oc=5"
-      },
-      {
-        "title": "From airlines to banks: Australian, New Zealand firms feel heat of Gulf crisis - Reuters",
-        "source": "Reuters",
-        "published": "Thu, 25 Jun 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNmYzRXZDRFdvTVR5ZWZlMmp4UjJ6RDdkcF82czIydjR2dmJpMGJQYlRyOVpYSVBMaDJUdmxESGdXQTVRMFVaYlJ6TS10MDdWSWNjUTM4UzVhd0Vuc0RsU0UweTY4Q3V1blA0QncweHpfYUFYZUk0ZDctRlk0M3JZZnFNdUFiMEY1ODJzMVNtMXlIY3JZT1Njb2RmNWlfNEl6bUhyZTB3eXZBNFBqaVFNVWdlT1NHWk9TU0E?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Oil prices wobble as breakdown in U.S.-Iran talks casts doubt over peace process - CNBC",
+        "source": "CNBC",
+        "published": "Wed, 01 Jul 2026 08:34:42 GMT",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84NFprZ2x2NVJUeWFTSWhwME5lZWF0TlVLZGRlcHhZRXVLcmJFXzQxM0t1QXRSTmRLOFBzVmxTTkZ3bExIbGtpYi12R1NCWTMtNUpocEg4WHp4NlJXeWp5bWF5UG5LZ1A0OVJ4d0Q4Q3hCNnJUSlRwbmpoYVpOWFXSAYQBQVVfeXFMUE41elFEWXRjNmxCaXdJamtTVWxoYkZwQnJsQXl1bEgxX0RFS3RRTlEtR2dhemtZOGxiV0R3ZzNSbnp6aTViQ0xtR2llUDN5anZscTlnemQ5cGJKUm1JdVA5alE2UzYyOW9SWGhZSHl1TEFQYnVkcGllSnBkTHlseEVabG16?oc=5"
+      },
+      {
+        "title": "Crude oil prices drop 4% after US-Iran ceasefire, boosting European equities - Crypto Briefing",
+        "source": "Crypto Briefing",
+        "published": "Wed, 01 Jul 2026 07:14:56 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdzVRNTNYV0dFQkxwd0hJM1lFZjNhZnlZZFZzZ3NRQzd1S1NmNTR0WFZNOTNaeml6ZUt5V0lfX1hJaS1SdXpyUG5laFNWOHk5X0JTRWpTakhuZmFaQ2o3dmRLNTFma3UtOU9QMDVmVW5yT2pwRkI2ZGZ4OVlsUGpUMHZ1eTNsZV9WOHRNQk1sM014SDY1clFzV184OF9hdFU2YmRmdw?oc=5"
+      },
+      {
+        "title": "Sanctions, Oil, and the New Battle for Iran’s Economy - Jerusalem Center for Security and Foreign Affairs",
+        "source": "Jerusalem Center for Security and Foreign Affairs",
+        "published": "Wed, 01 Jul 2026 06:56:26 GMT",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BaE55T3dabGpYbm5pR0k4RkFoTDlmZ0NLZ3pyX2hoVkxrMzdZVEtWRTJ2b245MXptemlPdGl2WWlwM2JzT0VoNUp4WWJhZERfMTEzME9pcUZyX1RiNng4SVJBZnF5d3E3OU1JeWtCbG1aLTE1YzBV?oc=5"
+      },
+      {
+        "title": "Zelenskyy confirmed \"long-range sanctions\" against the oil refinery in Ufa and a Russian military-industrial complex facility in the Penza region - Українські Національні Новини (УНН)",
+        "source": "Українські Національні Новини (УНН)",
+        "published": "Wed, 01 Jul 2026 06:35:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZDNCOXNfSXZhU2RtUEloYzlpTDRGN1BubUpsLS1UZVRLcEJUMlJKZ2lZaFNhYWlORjNGVDcyTlV4ekNOUFRkU21IQnpzajdwWjBHbWM1dlFqZGdoV2NVMmdUanBkT2JNbl85QjdLYXh4RWtvT3BYalVEQkg2WXY5bGVrdTNCakxrZ2NQdkFxaExsbjBNa3o3R1ItMlRlc2tqb3RmN1lNbG1BMVQ4ajktWmZSRHBzYmJUeFpsV01hZ3dDR3VvaXdZOE5BaGp3TEllUHM0a2ZETUNCSjM0QnNDTTNmbVBjR0NBekkzOXZvaG9UMjZjcGxRai1R0gH4AUFVX3lxTE1HVWVrYmxoOHBKZmYyVEVZbmk0QnU2V3huNzZfTUgtb1B5N21UTU51OC1jeU9RcF8wY1NtbEw3d29kajM0NmxRTDNHa3p4LXVLUjVyVU5SWVFvUnVob1FCc3oxTVBFb05PRjZ3WURaX0NtcTRIWjVraHlRSHpQSEl5cUlvcjU5LU12TmlkNHZrTWNXZWEySThQS3JpR0lGdGlLcjYyaTdsVDduQkMtdld0WEk2Zy1ETHFJMGwtempQUnhpZldfMVIybkRPZGlEcndNYnQ5cUVWTWxLUUpUUjNOQmJ4Ykhoa2JNU1FMT0dpWXhYWVpoVk8w?oc=5"
+      },
+      {
+        "title": "Oil Prices Reflect Optimism That Hormuz Has Yet to Justify - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Wed, 01 Jul 2026 06:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbVVYX2Z6eUNxQUxYLXJidi02T3BqcFpCY1VzeE5wMThXdTBFX3VKTFJOOFFQUTBGVmxpMmwxVHkzbTF0aTN2SEZPMDF3dl9CdkJubE5ybGhRQXNiWHZjM2Y3VDhCenJKZG45ZENyWWlRS2w2bnk4YTJvVDZ4N29JaWg5RmNLaGJ0NDVLcVhVUzRfQzJTdm0weHlyNUk1enUwNGdSejUxOUhZNm50S2hsTl9ncWzSAboBQVVfeXFMTTRTRDBSTnA2OGtZcVg1X3lDdm1rdlNDZVRhMDZUYldfTXRtX0NYMi1RZmRXZXdkVGlWNEFJT3lmZHp0R1FyemthUUg3VkprZzFzUDZkUEVITFZ5c3lJQ3FCOXpNWl9taG5wRzhvNlp4Q0JGRTlHdFFDZmRzZ2F3RnJXdHFYaTJXNVdZdFVOWTFaQTNaNGE0bHJQbkw2SG1iSjlxQU0wY0dzc2EtQlFRVDk2Qy01bW1LVFln?oc=5"
+      },
       {
         "title": "Oil prices rise above $73 as stalled U.S.-Iran talks fuel supply worries - Economy Middle East",
         "source": "Economy Middle East",
@@ -8646,46 +8676,16 @@
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZTBuWXRGclk2TVh6dlF1SkxZeVNvV3p1UkUxVk95OTh0NGJHSm54Z3NTNTNUdi1MWnpHYlVhNmtzLWJ4Q1JOV1BYNGhXVDc0aGIweVZDZDJqTE9UWWQ0SmpoRzUtWkJsZlNpNk5zMHJUbThXWE94NjJIQkVjMGRZMklRS0dIUl8yMWFWb3JUemhNazA5M2NqWGRsNG5TNjNZLXp6S1YxYWE?oc=5"
       },
       {
-        "title": "US-Iran deal could revive Trump's trade war - The National",
-        "source": "The National",
-        "published": "Wed, 01 Jul 2026 03:11:15 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYURaNUJWcXZ1UUQ3bURoN3Y3NUwwaFRJUHd5eEl4TWxyQ1ZuTVVHbmpXSGhDMUllcktKdGdvNEVlUXE0NG4zbzhTbDBTcDRVbzcxdE5uZkYwWHZBVUtCbU5NZy1WQTZTbl9NczJ0WmRJSDlOXzBBemdFZHhMYm96VkFFU3c0d1FoVVN1TkFlVjhOcVk3clNuSjNPMGpHZmRUQ2JmMjVB?oc=5"
+        "title": "Oil prices rise as breakdown in Iran-US talks raises supply concerns - CNBC",
+        "source": "CNBC",
+        "published": "Wed, 01 Jul 2026 04:23:24 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV2JLVmRzTnhTS1VJNlRJWDRZT3lZc1dhSWIycjdNR0syam0tczYxRlY5M1VGYVRyeEp0NmtPaXRFT3NRcFQ2QXZWR0VtNnU5OGNYY1J0SXVieHNNcWpERXFzbXlkNFhtb2RWeE9CTG43VGluSkc4UzZQUlRWYnRQRk00ZTY3NkpZYnM2MGhXTjA4YVlJN1h5OVpjdjZ4Sl93clhwWENsb2vSAa4BQVVfeXFMTjRXMmZJeGVpV2g2V2c3STVqVzIwUHhwM1QzeExvZTFZOUFPRExkTFJoTFVHRUdBNWdXdjVtN1J1N0ZuOGkyT2N4aV9DdEJxVmE0bzcwbjJrd3V4ZGtGV1ZFQS1VbzROMXFabEN5WkVEMzgyd0RCdDlUQi1LUlB1djRfWHEtenJzckFuNUJ1Wm84X0dnMFhVMTA2TnVXLXNZWUtuM0ZvQzNhVGxxczRn?oc=5"
       },
       {
         "title": "WTI crude holds near $70, while Brent stays below $73 amid US-Iran talks - Українські Національні Новини (УНН)",
         "source": "Українські Національні Новини (УНН)",
         "published": "Wed, 01 Jul 2026 02:57:06 GMT",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOXlpMThSM2tBaDE2YUJ1NFpYZFo2LWtGT3lFTmVXcU1JSmhXbnFpTml5dlpXNTF6VUxDWGQ1TjZxbGxuampFSVM3VWJ2c2pKSDNITG93VDRaOGtYbVpSR3lVUDlJWmZNaHJvajJmdUxwZjg2U0poZENoWGxwa3h3SmZGZ1FLemZ6TjItSGYzaFA3VHNwTkZ5TmxiRFItWnJLVnVmb3B5VdIBpgFBVV95cUxOdmJMS0ROdHp1N0w2YVA3QWk4SUdmVm1EdHRESF9PS1Z1OVR2emlqMDVWdVJpTU94ZjV1eldHZFVrNXJOeTNKTUF1VDFMSHYxdnQtVVEyT0V3OGhxM3VYaDl3TzRDa29qQWJGdUgxa19VZUJWYU9TT242UFRxdTZUU1pfeDNyZUhqMEZiQnRjaENwelFxY3dRamFoZndWT01Bc2I5TFdn?oc=5"
-      },
-      {
-        "title": "Core Differences Between West Texas Intermediate (WTI) and Brent Crude and the Affect of the Iran War - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Tue, 30 Jun 2026 21:52:06 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1ZOVFVuUnFFYUstVktuczhxdzBYN1lUbUlqbTIwZEVnX2lCclN2dDZyeVJxUnFPLXdLLWhHcTd1MUUyM0kxTFBUZWJZSVlfN2RCZkRlRXhqT3ZfdUJTQkFjSkR1dDFsQ2Rmc19VTERhc1hsV2Nka2RDVEFvZ0FUcFdJQ0dCR21lcm5mZU12UzJZZHlyOFh3WGEzVWpCVDlUeHc?oc=5"
-      },
-      {
-        "title": "Oil posts largest quarterly price drop in 6 years as historic supply crunch eases - MarketWatch",
-        "source": "MarketWatch",
-        "published": "Tue, 30 Jun 2026 21:28:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT2g4UDlSZ24zTUJSMERUelQxdk9ZY2dtYW80UGFpUmp5dGR4MGxtdVN5QnIxU1RTNVdXdkljb2xjMjVITXFZR1U3N1MzdEdHSWRnb2UyUmtqNDJ3cWVEUUtvNEU1cTlIN3VQa0RNcUQtZGc0ZVhmc19kRUdMalZ2c09ZSVVNa1cwckI1TTd6WFA2dGNYcHQ0UVhXNlpPT1FhZXZOQTRRQTlkMDVDWXg3S2dTeGtPTF9EQnJaN0RlWWhfcWhJSU80LWRDN0Zodw?oc=5"
-      },
-      {
-        "title": "Serbia's Russian-owned NIS oil firm gets another sanctions reprieve from US - Reuters",
-        "source": "Reuters",
-        "published": "Tue, 30 Jun 2026 21:27:52 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORkFjYjZsWkUzY2l1dFR5eEZmTXVnb0ZCSFYxcVU1Ym5TZ01MelpxQ3hVY3NDVVhvUjRKeTJ0dHQwdWQ0eGltczEtVDVNX1J1UHp1eElsaE1TbkRWT29jbFRoOHRldTgxTmR2Um9WSl94Qy1yUGR5YnIxYXMwNEJRaTdQc3FObXBCZGx2Zmh2d2tYOWhtODhueEY3UklZR0xVcVQwcnlrQ2dMUXN6dllOSGdpeC1aenBOc0NPSFBn?oc=5"
-      },
-      {
-        "title": "U.S. lifts oil sanctions on Iran amid chaotic talks - The Week",
-        "source": "The Week",
-        "published": "Tue, 30 Jun 2026 21:07:53 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQXzlSdkFvMHZWM29EcnM0TlRsckJLSjljRG5lRU1RVW40dWRQZ0NxUVMyczYxU1dMeEZNVjctWmlvbDUtdE5RdFIwZTAyaGlwNlp5SE1fUmZrQjI5eUZxUWpXcHg4bVVCNEhMeWVXUWgzTUlrWVVSMUpobF9KYVlvOEVmbmc?oc=5"
-      },
-      {
-        "title": "US Crude Oil Inventories Keep Falling As Hormuz Flows Slow To Start - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Tue, 30 Jun 2026 20:57:32 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTk1qYi1KUnZYSjJpQmt2YTI2U1BUNjd2eTUzOEt6amZGY04xS3BzcGx4ZTVReENsMTl5R2hKUm1nMUlIWlFBbTRHdGQ1WHRkcjJkSTVFTGlBTElBTXZTdlY0V1E0RUUzVERSWjBYMF9ucGR5VXQ3Q2ZGcFVJanBnc3dSclBiSmNfT2hUTFFlb3c4TFVWSHBaZjNtSXk4aG0xVmJDR2U1eUo1YXRuSnlOSEh6VFRmQ1pnVVA2NXlraWfSAcYBQVVfeXFMTUZZUW01SnBSYllUajRMWnVPZkwxQXNJTWduZGF0ZXBoRVY4d21iTFgwVWVId2ZTNHVIN0lwTzI1REZjSU1DUFY4NUxESy1hOFU2ZUJtZjVOSFBCSmZvLVZPUGlsOF9Fb000M2lQeWptVnBwcF95Q0ZSd0Q5OW1MTUI0NklvX2pwS0xvUnpXdGsxbnNCRzJnR0VoaHNLTjBaQkc4QlRNaG9aZFk2OG03ZUdpN18wNWVmTUVPS3hHZy1aMzNaSHRR?oc=5"
       }
     ]
   }
