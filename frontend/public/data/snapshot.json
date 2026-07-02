@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T20:35:26+00:00",
+  "generated_at": "2026-07-02T21:50:14+00:00",
   "fx": {
     "nzd_per_usd": 1.762131,
     "as_of": "Thu, 02 Jul 2026 00:02:31 +0000"
@@ -8588,105 +8588,7 @@
   },
   "fuel_stocks": null,
   "news": {
-    "nz": [
-      {
-        "title": "Treasury reveals its advice to government during early days of fuel crisis - RNZ",
-        "source": "RNZ",
-        "published": "Wed, 01 Jul 2026 16:39:42 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUXgtOFYtVkZqSGFodXpvdUFHNnREUGd5UzFhWjNMSnBtWnBFeGhkLW94M3ktaFBUcnczMHQwQkppSUJIWDM1bEFzNVI5dUhackhVU1J2UUM3eEpGQmpBNVRQMEFJUlVYdzlJbzhvVk4xamN2NUh2dXhveDVubXNlbHdVR3Z2eDB1VGJfMjk0VU12Q21XVmtDdldsTzB1dHRhSnh0bV9VWWZMZC1oSmhwWWhrTVVlQzJl?oc=5"
-      },
-      {
-        "title": "A ‘reset’ and a new phase: Air New Zealand looks to turn the corner on challenges - FlightGlobal",
-        "source": "FlightGlobal",
-        "published": "Wed, 01 Jul 2026 06:31:50 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWU5FZTg4NEloNEx6a0lhTEpzeEc3b3dDaGFVcGs3UjhnQ1FVaDlnRVBBbjJhRi1RaXdUOHlDRXRMTVdLcVh6LVZCaEF0SjRjRHBiVzdQQWpSRkVCQ0tPeVhlY3FWLWdmTjZFSzNDcHA4NWR5UHBWSG55LWNaSnRNcDhaTjJKYU9DZlZGa255ekRxeEdFX29VMDljRkNHbURmeExQeHdHbVBMRzBrV2ZNVHQ3VF9sVWp1UUJQNi1jLXBKUDA?oc=5"
-      },
-      {
-        "title": "Forestry sector sees signs of recovery as fuel costs ease - farmersweekly.co.nz",
-        "source": "farmersweekly.co.nz",
-        "published": "Wed, 01 Jul 2026 06:08:19 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRFpHbVB3Um4tTFI4Z1Y0U09SYkFSYlRRSHAybU1meDRQTlFzcTl6ejRyUFBXdUlZMTROY3pKbXVFS2pTMURxLXZrMG4teWJTQzZMdE56N2Z0TlZtYUxSTkdxS0JZMTRMQmxmcTFrYk9iQmNBY1NHYlJYLTBDQnB5cTBBZjN1WEZYaldIUndHXy1GRWFLQ2Jpc3RPNHdQc3M?oc=5"
-      },
-      {
-        "title": "X appeal: Electric, petrol PHEV and diesel X5s signed for NZ - Motoringnz",
-        "source": "Motoringnz",
-        "published": "Wed, 01 Jul 2026 00:34:28 GMT",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVXh2S1VBQXdXY2QtYl9zQm94Q2JQSm5yTzIwdnVEd29BN3pOM0MyMmhDM2x3X0FpMEx4WGphRl9Wcm1odXB4bVVudmN3N0l6MFg1T2szMG56UzlDYWg4cmdndWpxU0lqUTV1ek9pVXd1NEdPSC1GZS1ZLTBLcWNDVFBpNDZRSHVIemRlZHRMSTh4ekN3SWFla3EtcFNiVTFC?oc=5"
-      },
-      {
-        "title": "BMW unveils fifth-generation X5 with petrol, diesel, PHEV, and electric powertrains - AutoTrader NZ",
-        "source": "AutoTrader NZ",
-        "published": "Tue, 30 Jun 2026 20:07:01 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRHFVWjFXdHNiRzdyN2I1Y2VvbzFudmdNQ29meG5zdXFlRnR0Y1c5X1BuYk4tWFVWbkdVZjhDQWU1S1JQWkVGS0xEbllfVlR0U0llVVdTdmRuZm1ZRWE3dFZiaVhEQmxXd3R0OTVjU3FGbXBKOVNNYnB5WU41S2pFS25ZMnltbTQyX3J6Tzctc183Rk5HR29pUlN1b1J3OEVOcXpUWlNDbjFPdWRNRVVjU290Q3pqVjFyc2c?oc=5"
-      },
-      {
-        "title": "Petrol dips below $3 but questions linger over price drop speed - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Tue, 30 Jun 2026 04:55:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObjhGVURkMTQxYzFzSWdaOXN2cElraEZndG5KUzg3dnhVejRlQ2JaVlEtWHJBQmRKQnlfVmw4N1Q1YzlKTUI0WVhtcW1aMVZkWVBvUW1WTWZjVHM5ZzBkaERzRG1oeWdWWHBFQTQ1RUxZbkZNVTkwbUh1ZGw3NUhHWkpXNkpyaGJwOWZmejlGZ29BdWZzLWJVdkhxLXpabmdYbmUySlpzYzQyNko5cEQtWDJSbWVjNjhtSFhSczBYTEFMOHFkel9J?oc=5"
-      },
-      {
-        "title": "Motorists could soon see petrol at $2.50 a litre - AA - 1News",
-        "source": "1News",
-        "published": "Mon, 29 Jun 2026 20:03:33 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTzBPNGR2TW1jSWR6TjAxNGpKWUl1YmVKUVFld29OYmN6bTFqNTdqeW05S1B0bkFYSkdvZTZyU0dWaTM2SFdLbVVmZjNwSHQyLWQwS2MwSGNLeWFIaTBJMmxubFlCNHpxVTdjdV9pcm9xczZMVGJXUnJrQnQ5MWctMk5QTE9CY1dVVVRTeGln?oc=5"
-      },
-      {
-        "title": "'Incredibly volatile' - long road to travel before fuel relief payments stop, says PM - RNZ",
-        "source": "RNZ",
-        "published": "Mon, 29 Jun 2026 17:47:13 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcWR2d3A5SGVXTnVSdk5WM3BLTTJrenJqVjQyOXlrLTFFNUlDMk04Z2NyV3U5YmNvWEJWWHkwX1dONENhcldzUjJZOWpadmZDcUZxZGtBczl6UEYyVjJLT21PYy0xeHdaWFdTQlpQZXJQNnZ2VV9UeV9rdWR5UUlhblZWbHdhdmNIZDFTNlQzX3lxWl9CaTZEclRqS19OZHJucUN5M2ZZSlJSX1UyNHd1OG5HVXhqeklLaXpCY3lKSzk?oc=5"
-      }
-    ],
-    "global": [
-      {
-        "title": "With US sanctions temporarily lifted, is Iranian crude back on the menu? - Atlantic Council",
-        "source": "Atlantic Council",
-        "published": "Thu, 02 Jul 2026 17:06:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPejBRc0VScDdlZ3ZvYWhMc0xWb2pPRmxSam9lcXVoOXpNcXhfMEFiMWVqNDV0X0xNcnR2SGdtbWRITDB1ZGQ4NDNxZWJyc2hJUm5LSHFyS3J2Q1ZJaHlXZFlJeUZEVnFiZXlZNW0wcHdjb1dfSExST0dPbnFjY3VzdXVacVdqbHk1ckk5QktZMHM3SGNJYkdhbWdWU09vUFM0TF9UWWxuSjdOQ3BDNTYxV1Rod0pqZjhkdE5VMTJGYw?oc=5"
-      },
-      {
-        "title": "Brent, WTI Crude Prices, Jul. 2, 2026 - Energy Intelligence",
-        "source": "Energy Intelligence",
-        "published": "Thu, 02 Jul 2026 17:01:28 GMT",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2SFhMR2xKLUJvSGRodVRoWVZOaGpNUk9wNFZKWUZlN2VLMVZ0dkZTS092ZVFNejBZOTI4ajZiemhHakFGWlBYSGVkbDMwLURUTFVja3JEa1lGOFdiVzZoQVZqSXFDcldISXlXT2UtU0h5Zw?oc=5"
-      },
-      {
-        "title": "The MOU Is Paying Off Early for Iran - Foreign Policy",
-        "source": "Foreign Policy",
-        "published": "Thu, 02 Jul 2026 16:07:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPejNzMnNWcF8taF9mV0F0YllUc0c2SFRCS3NmbGpHOVZJTXpEMmRMdm5jNmRDSzVOT2lnNXJKX3VhNGdpTnNPd2NxdFRaODlpTERpOW9VWHVTeDlZWTVnTEFZeUFfQ3Y5cm54S2k1ZEZmOXVJeWdIR0p1bjdVcXBQR0otelFVRlNyLVNKa0VRVEVUY0VIaDdJSUxvd05iTi1GbHJZdEVRWQ?oc=5"
-      },
-      {
-        "title": "Oil Glut Calls May Be Getting Ahead of Reality - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Thu, 02 Jul 2026 16:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUllpdGpMbVhPenBxSmc1dldWV2Jsc0JBdEZzQVV3U1NBRnlFT203OHZzdko3aDdGM2h3eFZIMkNDa0FYejlpeGp2VksyblNlRVBvODFWREZvWDBfNGREbUJIYXZLZDNVQXp6MVY2R1V6QWg4VjdKX1o3MlBQY1h1czFRQm5JdW51d2VIQ1lfRVM2TlnSAZgBQVVfeXFMTUtzNjNhNWlSZm9LNkhuZVBxdEU2bFdGREFlejlmN196bFgtbDRDOFVCRHR1b2ZJVnp4UEhNMUJjVmxWZ3N2U19wS19vZVpmMmJmQWVKbE9EX1RzdkFYSVIxTDZ6WXUwSnZCVEw0U3o0OHZESmh2dVlSOWZCZnVQdWNTZnY1NWdBdHhDMXZpR25DVXgwM01feG0?oc=5"
-      },
-      {
-        "title": "Global Oil Prices Revert to Pre-Crisis Levels After Iran-US Peace Deal - IranWire",
-        "source": "IranWire",
-        "published": "Thu, 02 Jul 2026 15:47:31 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUE80ekI4ZGQ2OURadzFFRFRJdl9GREZLTVhhUGFCUVVYVlhnX1lBanFzcGZlVm5FbFNEREhSd1VweEpjeTVocU9ocFZ5RzFUNDZkNjg3VU0zY3JFMmlTVmtfZWh3MnFCY2J3cUtUV1NOemZBNlA4a2RNU3hfYmxEem5ONzYxbzFfY25TeVFRaTRFMWw4bUZwLXFQYVNVM3BkbHNlekxGUk9tNnM?oc=5"
-      },
-      {
-        "title": "Crude Prices Tumble as Global Oil Supplies Normalize - Barchart.com",
-        "source": "Barchart.com",
-        "published": "Thu, 02 Jul 2026 15:35:16 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZE9fdWNiOWdqNUw4YW9DWElZcFFjdWM5Wmo3X3l1UVA1NV9Nb1R2SElXV3hQd1JLZUF1bDV4TGlfdWhhY0xnVGczSk5QMlAzTlctRjdTeUdmeHZxMDc2VzJLTEw2U2c3Ujl3QjJ3cEFGWDNTSjlCVkVMMHdOT01CZDlwcXlMdm5UOFhqOF9sUkduVkQ0NzV1dWlidDE?oc=5"
-      },
-      {
-        "title": "Who is Iranian oil tycoon Shamkhani whose ship is stranded in Hormuz? - Al Jazeera",
-        "source": "Al Jazeera",
-        "published": "Thu, 02 Jul 2026 14:18:25 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ3lEMFVveU1ybFpJRTVNU2lIanYxZ2pZWVpvZUZMcEFxSU13aE5QeXFMWHpSQ3JDMHRmc3RrNURsdzZVZnFjRWRETUpNWGFpVno4VEVCbWtscTd2MElQMnp0Mmppd052WTBYUi04Zk1CYWtWQUFwTjRTQjdwQzFMa1MwdmRfemNqTjlWZGVKSzRaOU1SUGJMQWdEUmg4dnRKcl9xaXpSLWtOajFD0gGyAUFVX3lxTFBnM3psdll4bFVqWmNCMEdZbFd2NTZsUU1Bc2cyOVJHaFpZc1dpOU90V1FCdEpIOFJWRURienFkVXBxbzRrMk4yWG1iLXoxcENnYTZLT0tUV2wyVk03dW8wZDlyVDEyV0tFeWk3Y0tVUy1Ha3hKYkQ2S3hjdGdJREQ1X1BPNjJKRDZuTzVlM1dqY0x5UXk3TFRhVzdIN0FJRDJkdy1TMnl1QS0zYTFaVGFjYUE?oc=5"
-      },
-      {
-        "title": "Oil falls for a third straight day after US, Iran conclude talks - The Detroit News",
-        "source": "The Detroit News",
-        "published": "Thu, 02 Jul 2026 14:02:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTVhsb0txemZBS3ZaWGkzUlAxXzdFR2txZWNFSnZCaGhUQVEtVXFZSUdsQVYySV9Da3ZYTmRtOVdUMzJmZzRBX0UzcHFuQkZBcS1mQXNKUWIzdkRCaXJTcFo5Mi1xS3N0ck1uNGprOVUycTVIM2pvSTBpT0RiZ0NmMktWdjRoUUQ3OC1kenEyVWhFcXQ4c1BtNTJDQmJzMkpaYlZ4MDlFZUNOMEliaENORGgzdzdQUmdLaFR1V2xhMVVLajg?oc=5"
-      }
-    ]
+    "nz": [],
+    "global": []
   }
 }
