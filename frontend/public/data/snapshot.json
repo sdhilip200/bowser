@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T07:49:11+00:00",
+  "generated_at": "2026-07-02T10:49:44+00:00",
   "fx": {
     "nzd_per_usd": 1.763291,
     "as_of": "Wed, 01 Jul 2026 00:02:31 +0000"
@@ -8590,12 +8590,6 @@
   "news": {
     "nz": [
       {
-        "title": "Air New Zealand Cancellations & The Fuel Crisis: Everything Passengers Need to Know - Wego Travel Blog",
-        "source": "Wego Travel Blog",
-        "published": "Thu, 02 Jul 2026 05:09:47 GMT",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCRGpwcnNhZTltaEV6aXBvRGF4WlRXQmdtSnNGWHFtbHlJS18zZlZINmZGekhzWWNSRUhtcHF0c2hXMVkyemVfUmtHY1FvRUd1c29SdGs3ZHZPSXlrMHJVdGFOUERGTUZZOHJ6QW5NVF8tZw?oc=5"
-      },
-      {
         "title": "Treasury reveals its advice to government during early days of fuel crisis - RNZ",
         "source": "RNZ",
         "published": "Wed, 01 Jul 2026 16:39:42 GMT",
@@ -8636,26 +8630,50 @@
         "source": "RNZ",
         "published": "Mon, 29 Jun 2026 17:47:13 GMT",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcWR2d3A5SGVXTnVSdk5WM3BLTTJrenJqVjQyOXlrLTFFNUlDMk04Z2NyV3U5YmNvWEJWWHkwX1dONENhcldzUjJZOWpadmZDcUZxZGtBczl6UEYyVjJLT21PYy0xeHdaWFdTQlpQZXJQNnZ2VV9UeV9rdWR5UUlhblZWbHdhdmNIZDFTNlQzX3lxWl9CaTZEclRqS19OZHJucUN5M2ZZSlJSX1UyNHd1OG5HVXhqeklLaXpCY3lKSzk?oc=5"
+      },
+      {
+        "title": "Petrol prices drop under $3 a litre – but have they fallen quickly enough? - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Mon, 29 Jun 2026 03:55:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdUhmWUlfTlhLYm5kTEpkZndYY2Mxb08tRmpnd281aXVJMXdNU2p6T1lxRTc4UG9sVEhMN3FFYVpNR1NxMG5SU0tHd05IdEwtQlhESGRreVNTVXNyWHRSSVBRVnZ1R1BsaGNhRnhEVWQyUEtHdU15aUlXaDF1ank0UFVVdC1zRHdjMHRVMVQwRTl6NHhiZEdwQVpZVkI5X05WWXZpajVua0hmWkVxYXhKUWdtV1J6cDJib3lFdlVFaW04LWNqTmZxZHBLci1jOFIzV0FtbGxuTlhyUk1QanNmdQ?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Saudi Arabia Rushes Crude Exports Through Reopened Strait of Hormuz - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Thu, 02 Jul 2026 10:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYThENzYyU3RjcjhQZHVoX2g2MFlaMUg3OXNZZ3U1SW5uLXZ5ZV9xYU5HQUFRM0s2QVBEdGJyRmloRFdETjU4RklwclBjcUVtdDVqVkFrTWNLN0F6MkMtczdaSGtiQ2ZQMS1wdUJjOXFPek5nRDRCdm9NMVBOVFduTG9nWU1kM1liVlVUaWcwVGpBRFpFLXFzM2Z1ZHE4NHE4cjBHQ3dGclRERWlRLXVXMVpoU1ZZMk9KVjJzOTEwN0LSAcYBQVVfeXFMUFFLc2kzZ0hvVlY1Z3R6Z3R6ck1kR0NfbDI3OWpMQUJZS0VqNm5ZQ0l4WGpNVWVJUlhTc0RrLXl4ZjNuRml0cEpEckRGZjQ5TTV4N2Z0MmRtU1FmRmg2NC1TVnE0aDZzel9UT2g1cE5Fdm9nbjBzNWJWRTRTQ2NoNFVkRmZhd2dicW16NmhPWGFCZzRFUjR2OG1ZWFdaU0g5WGpWdUhyMDE1UEZpeGt2NlU0cW9Fd29lbHBvQmR2eE1lYjZzV1JR?oc=5"
+      },
+      {
+        "title": "WTI Crude Near Multi-Month Lows as Bearish Trend Deepens - TradingPedia",
+        "source": "TradingPedia",
+        "published": "Thu, 02 Jul 2026 09:52:19 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOTMyTUhZVHNEN1JiSks0TUl4WUhPUFgwUnd5SlhlRXZJV2FsUGxqOVVDYlFmY1dyekgyNm02UFNwSTQzS1BxTG0teHJmd0xnc1BwVFdZNGtENi0weU1kRjR2QnlmeTZXNDFyRjlwS3pmbTRkLW53M19pNjhQcFItdDI4WjFMYmgyWTJPYlRWRm1KQXNyc1otY0QtSGMwZw?oc=5"
+      },
+      {
+        "title": "UBS cuts Brent crude price forecasts on improved Hormuz oil flows - Reuters",
+        "source": "Reuters",
+        "published": "Thu, 02 Jul 2026 09:31:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNjVLbnY0TlctSzF6R1FUamhkeW40YnJkWHRpYzZEV1YwWC1rTTdkelozbWVwWk5abHJKamc0Q3NvZzllQ1hOckpWbnNaVFpUUWgwTjdsY0pEOVczT3EyWmJ1Z2h0MUR6ODJ5YVE4d1JxZ0wyZVhNWmhscFplX0xvV3BWUHlvRXQ2M3NtSjJjSWF5NkJieEt3WmQzT0RndVhtbUJhUms2dFBQTDNiVE5HZER2Zmc?oc=5"
+      },
+      {
+        "title": "Iran’s oil exports gain pace after US sanctions waiver - Middle East Eye",
+        "source": "Middle East Eye",
+        "published": "Thu, 02 Jul 2026 07:54:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObXQ5WmRYOXJqSzk0OGY3N3h4Zm53OE1wNVNvZjNjR3hyQ2h2bzdlMUtXQ3NueHhJbHhldlgzN3hlVXRyd2ZhVHZ1Q05vZnF6V1EzYVJ1ZzZZZlJmZEVycXdaTVB4VVZxOGs3bUoyeDhHSFEyNnAzczZNV1REY0NLOE1IMm5PUGF0V2hhU19FVnNsMWdzUjRneHJhUWh0STd1TUdILXgzeFd0SjMyMzR3?oc=5"
+      },
+      {
+        "title": "UBS lowers Brent crude oil price forecasts - TradingView",
+        "source": "TradingView",
+        "published": "Thu, 02 Jul 2026 07:47:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdGhKZExFRWp5V2pBcW9xTEtOQnltRFdyeUZfMlRmeFJpbzd2Rmc4bzZuV09XQnBTRTBjRnBNa1ZRNXVQUk5tcVVBQmUzWmdfYnZWTG9hM0R0dUZIRkNoSG50dEIybm44R1A4NDQ4T05TV25sODlkZ001X24tbDVoR3phU1JXbE92MzgtTlBTMnJHTVJnVUhWR0RLcFJXLUs5RXZQc3NfZXlLeUJEQVhvVWJB?oc=5"
+      },
       {
         "title": "Brent slips toward $70 as easing geopolitical tensions weigh on crude - Anadolu Ajansı",
         "source": "Anadolu Ajansı",
         "published": "Thu, 02 Jul 2026 06:57:25 GMT",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVXVYZDg0YndYWjF3TVFzbEpTcnhqeTdLclBjalJnLXl3eDhzNHFyRU1Yb2tnMWE3dWt0N0s5VncyN3RXd2pPRXRKbE1CcjkweTd5S1E0Nk9rSFVrT1dGd0NleTNCczNzVC1FZ2RqakkxYUsxZGxNRUdlbHAzM3ZuMzFXd19aQW5qQ0s5a0pJMEljZ0swVlNpSGwxNm9VMXVER1B6TUxYaU9lZm95a1E?oc=5"
-      },
-      {
-        "title": "Iran Exports Crude at 20% Premium Even as Unsold Barrels Pile Up at Sea - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Thu, 02 Jul 2026 06:03:54 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRU5QdEhlRC05QTBPcXlKUFJfak1LZk5PUzZNaG5DZEE4UEhKXzM3dUNoWEprZVVJSmkwMTVGNXhDOUY5eFRIOWVjcjBTQlJKNjdBMTk2OXlrakZsYU9SVkwzaEsxbWNCSzZDUjZIVGNMNU5PY19GVnZtdHpFUVctR0FCbUhrTnpxcllTTE9xT2xZQ2RHa2FkU3gwMHhYTlJaamkyeEFUbmNDQVB0YWlhWklVcUVMcWhlTVRIZFpaRUt2OVdi0gHKAUFVX3lxTFBHWWFNOTZnc0w4aGM0QVNsbmFacTljWVAweG9mbm0wRnc3MUxZV0RId09JbUFSNkEwQVpXbGNOYXhxR2ZLS2hhUDdia0h6RE9LOEhnNTEtN3lwTXExWTczaEpLaHBQNWZhU05QUlJBQzhHbU1MdUo3a2FBbjdSTC0zNlBSVE05am5aM3RHSDFWWnJsSnRSOEpRYzhGcmZTNUxyR1FiRHdLRUNZOU94RUlNNVMyaUpScXVPcmU2ODZtUFdtTS1ra0tZaVE?oc=5"
-      },
-      {
-        "title": "Oil Market Update: China’s Sharp Drop in Oil Imports and Its Impact on Global Demand - Anas Alhajji | Substack",
-        "source": "Anas Alhajji | Substack",
-        "published": "Thu, 02 Jul 2026 05:28:04 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQ0ZKQWM5UUJnemtpS1FGWXYtMkNheUU1bU5DdTNSVEgxVGttWE53eWRnc3JReGhMSGEtNENqOHBUVC01VDFoRkRBX1dOMlZnSjdwODJkNFhaOGxCS0xfSUk2cUJTb2VrUXJ3ZDVpbFA1Y3ZtRk43aU1NWGkzWjBuTi1MNThRcm92UTA0eUx0WG5fMFRfTlZ4bzBsMk52YWIyZzdEZ1lDYXo1U3dOZ0hNTnp1RGI2M3ptLVFVSWw0ckNJcFh2aFJtUlVrZjhrLXc3SC1ReFVpWEo?oc=5"
       },
       {
         "title": "Oil prices fall to levels not seen since start of US-Israel war on Iran - Al Jazeera",
@@ -8664,28 +8682,10 @@
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcDk4bXVmOUlaNVMtcTAzclZyS2Y4ZGNwOGdkMlpJemppTkRzNkMzcXRrdFd1ZS02TGxtMk1kTzk1bXRVZS1IbkMyQU04QmE1SHRhejFLeDdGdXVXWmRIeDA2aU81dFhLazlhdEktSmRZRGJfOFFmcnZuYXhXcEZqY0F3TUxHYVhQbzRqS3RPS0hlR3ZpcTVHcmVVZEhjZzZ0RnVWM3c2LWNHZEgwT1hZYTF5bTHSAboBQVVfeXFMT1I5SUFWdmJ0MUo2SGpSVzhaUkFiNEFmMnBJaTVpSVlwVTdxaEtDWENDcW42ekdNN2ktV2lGTkZUVmNfSC1wRmw2bWhwc2l2dFY4NURQX1hJWjFhREFLOHUySHNDTUJDdEFpN3pvd1VNS01VVE4tQlRjb2lnaWRlc3VMbHRDSTJyVTlpZUtGSnNMTmxlQnFNa3Z6YlJwVl85MmpiNTFMLXpwS1dweDZTbmQ2YkpOVU9LN1FR?oc=5"
       },
       {
-        "title": "Oil Price Forecast: WTI Selloff Deepens as Brent Tests $70 - FXEmpire",
-        "source": "FXEmpire",
-        "published": "Thu, 02 Jul 2026 04:49:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc3A5aEVDc05XYTFXYUVkSElaSHlfNDQ2bldyeWxvNU5SeWVsbjczTFJwaWRUMFNnblpkUFlic09nNWM4UjNtaDB6Nzh5LTROaDVXSUFra3puU3BEZlBPbFVpdGZHeVprTTdKejktWlpMNzA4bVpFSE0wTl9YSU5DUUdQRnFiTUs1VVpIZ1BwQUdwaVNlRE5WTEpQV2NlM0hUbV9wT3pOWGZRb3c?oc=5"
-      },
-      {
-        "title": "Brent crude drops to $70.65 as US-Iran ceasefire eases supply fears | July 2, 2026 - News and Statistics - IndexBox",
-        "source": "IndexBox",
-        "published": "Thu, 02 Jul 2026 04:20:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWFJGODRiSnp2Y0poUFp5RnFfMmZmT1ZXUW52aDhpQk4tMmFoZWNQdkJXaExNYVdJQm9DUk1xX0RhdmV0R2pZOGc3OUxkcnlwdTRXMF9IU3FhRWZmMUlJZE0yWTBhZXdabGdHSkxUOElPVEhTWUw1ZlpPWUY1SVdNd1hLQzdUV2xYd2dWUHlrUWx4aFUycjlZSHdQWl9hTEQyV2p6MDVOY1FZRXc?oc=5"
-      },
-      {
-        "title": "Brent oil slips to $70 as market keeps watch on US-Iran talks - thenationalnews.com",
-        "source": "thenationalnews.com",
-        "published": "Thu, 02 Jul 2026 03:38:03 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZGNtNkYwZFcyYlhFd0xZcGxZM21sSnh5RDZSVmZOUlNOQUwzNGs3cFZVTU1ZWWFEY0pWN2NycnJCeEJ6VzdhTDBzbFplWG5XQ2p4ZTYtYzZ5cWhJemJJQzc4XzVsVkRabGhwdllrazJTd1FZWjA2eW10YkZ5aE9UUEFFVFRFMUZZdlFPU2VwMTd4SDZGWFlWSXhzLUNsSkdPSWFjS0c2QWJvQVRzRmJubVBZbndxdE5TY0tlaA?oc=5"
-      },
-      {
-        "title": "- Cyprus Shipping News - Cyprus Shipping News",
-        "source": "Cyprus Shipping News",
-        "published": "Thu, 02 Jul 2026 02:42:40 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSVhwQ0hZMjJCQ3dmbVlFNG5RWk5hTnhuMmp5MWphT240OTBvc29WbmJFcUJmczVCaFdvUnhsWnhfSXN1TjVoTHJ5UjBDSkltUFVOOHdLTUZtRnlwd1ZMRHBvYm1XaXpEalp0aUlSbi0waXZjb0hORDNkSlRzc2RlY2MzcVhUOVBrMm5JM0wxS21mZ21ZNkJPcG04VjVDLVhJQWowc1o4VEZVWjY4Q2w1UEJSTTkwZ0lfUzBSTS1aU0wybmxQN3NzN0JmX0RrcWJ3Q2VxMXh2ak5DOE0?oc=5"
+        "title": "Oil prices fall over 1 percent to $70.82 as Iran and U.S. make progress in indirect talks - Economy Middle East",
+        "source": "Economy Middle East",
+        "published": "Thu, 02 Jul 2026 04:58:49 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdmM2elBTcVRXZklyR19wajJzMGxvLXYxb3VKdUFBVXBNTzFfOXMwZzlGUGlnV1dGdU5DbHZJbkZheF9uWnFCbzR3Sm5DNGJCMXlGLWNnZ1VPQ3puRm9lS0k1VjJQb0wxSl9MU25VVHBvQmxiSEtjenJnMTlGczR3SDhta09MOUZieVlJeXdhNGpubklZX1JITkhidWZSM3VXT0NKdldjQVpsTm5mX3UwTlNETkZDaUhJTkNCMUhCY1E?oc=5"
       }
     ]
   }
