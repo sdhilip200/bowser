@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-07-02T18:54:45+00:00",
+  "generated_at": "2026-07-02T19:24:23+00:00",
   "fx": {
-    "nzd_per_usd": 1.763291,
-    "as_of": "Wed, 01 Jul 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.762131,
+    "as_of": "Thu, 02 Jul 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 71.26,
-      "latest_date": "2026-07-01",
-      "delta_1d_pct": -2.28,
-      "delta_30d_pct": -36.43,
+      "latest": 71.54,
+      "latest_date": "2026-07-02",
+      "delta_1d_pct": -0.04,
+      "delta_30d_pct": -35.71,
       "series": [
-        {
-          "date": "2025-07-01",
-          "usd": 67.11
-        },
         {
           "date": "2025-07-02",
           "usd": 69.11
@@ -1021,20 +1017,20 @@
         },
         {
           "date": "2026-07-01",
-          "usd": 71.26
+          "usd": 71.57
+        },
+        {
+          "date": "2026-07-02",
+          "usd": 71.54
         }
       ]
     },
     "wti": {
-      "latest": 68.15,
-      "latest_date": "2026-07-01",
-      "delta_1d_pct": -1.94,
-      "delta_30d_pct": -37.28,
+      "latest": 68.45,
+      "latest_date": "2026-07-02",
+      "delta_1d_pct": -0.19,
+      "delta_30d_pct": -36.49,
       "series": [
-        {
-          "date": "2025-07-01",
-          "usd": 65.45
-        },
         {
           "date": "2025-07-02",
           "usd": 67.45
@@ -2041,36 +2037,40 @@
         },
         {
           "date": "2026-07-01",
-          "usd": 68.15
+          "usd": 68.58
+        },
+        {
+          "date": "2026-07-02",
+          "usd": 68.45
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-07-01",
+    "as_of": "2026-07-02",
     "regular_91": {
-      "avg": 2.993,
-      "min": 2.78,
-      "max": 3.649,
-      "count": 68
+      "avg": 2.933,
+      "min": 2.589,
+      "max": 3.65,
+      "count": 64
     },
     "premium_95": {
-      "avg": 3.181,
-      "min": 2.849,
-      "max": 3.459,
-      "count": 29
+      "avg": 3.056,
+      "min": 2.649,
+      "max": 3.348,
+      "count": 27
     },
     "premium_98": {
-      "avg": 3.231,
-      "min": 2.999,
+      "avg": 3.184,
+      "min": 2.929,
       "max": 3.319,
       "count": 4
     },
     "diesel": {
-      "avg": 2.472,
-      "min": 2.229,
-      "max": 2.799,
-      "count": 87
+      "avg": 2.414,
+      "min": 1.949,
+      "max": 2.739,
+      "count": 69
     },
     "lpg": {
       "avg": 0.0,
@@ -2078,8 +2078,8 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 96,
-    "observations_yesterday": 84,
+    "observations_today": 61,
+    "observations_yesterday": 95,
     "observations_older": 0
   },
   "mbie_waterfall": {
@@ -8590,12 +8590,6 @@
   "news": {
     "nz": [
       {
-        "title": "Treasury reveals its advice to government during early days of fuel crisis - RNZ",
-        "source": "RNZ",
-        "published": "Wed, 01 Jul 2026 16:39:42 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUXgtOFYtVkZqSGFodXpvdUFHNnREUGd5UzFhWjNMSnBtWnBFeGhkLW94M3ktaFBUcnczMHQwQkppSUJIWDM1bEFzNVI5dUhackhVU1J2UUM3eEpGQmpBNVRQMEFJUlVYdzlJbzhvVk4xamN2NUh2dXhveDVubXNlbHdVR3Z2eDB1VGJfMjk0VU12Q21XVmtDdldsTzB1dHRhSnh0bV9VWWZMZC1oSmhwWWhrTVVlQzJl?oc=5"
-      },
-      {
         "title": "A ‘reset’ and a new phase: Air New Zealand looks to turn the corner on challenges - FlightGlobal",
         "source": "FlightGlobal",
         "published": "Wed, 01 Jul 2026 06:31:50 GMT",
@@ -8636,6 +8630,12 @@
         "source": "RNZ",
         "published": "Mon, 29 Jun 2026 17:47:13 GMT",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcWR2d3A5SGVXTnVSdk5WM3BLTTJrenJqVjQyOXlrLTFFNUlDMk04Z2NyV3U5YmNvWEJWWHkwX1dONENhcldzUjJZOWpadmZDcUZxZGtBczl6UEYyVjJLT21PYy0xeHdaWFdTQlpQZXJQNnZ2VV9UeV9rdWR5UUlhblZWbHdhdmNIZDFTNlQzX3lxWl9CaTZEclRqS19OZHJucUN5M2ZZSlJSX1UyNHd1OG5HVXhqeklLaXpCY3lKSzk?oc=5"
+      },
+      {
+        "title": "Petrol prices drop under $3 a litre – but have they fallen quickly enough? - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Mon, 29 Jun 2026 03:55:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdUhmWUlfTlhLYm5kTEpkZndYY2Mxb08tRmpnd281aXVJMXdNU2p6T1lxRTc4UG9sVEhMN3FFYVpNR1NxMG5SU0tHd05IdEwtQlhESGRreVNTVXNyWHRSSVBRVnZ1R1BsaGNhRnhEVWQyUEtHdU15aUlXaDF1ank0UFVVdC1zRHdjMHRVMVQwRTl6NHhiZEdwQVpZVkI5X05WWXZpajVua0hmWkVxYXhKUWdtV1J6cDJib3lFdlVFaW04LWNqTmZxZHBLci1jOFIzV0FtbGxuTlhyUk1QanNmdQ?oc=5"
       }
     ],
     "global": [
