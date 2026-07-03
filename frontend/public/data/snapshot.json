@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-07-03T18:37:16+00:00",
+  "generated_at": "2026-07-03T19:22:15+00:00",
   "fx": {
-    "nzd_per_usd": 1.762131,
-    "as_of": "Thu, 02 Jul 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.755967,
+    "as_of": "Fri, 03 Jul 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 71.54,
-      "latest_date": "2026-07-02",
-      "delta_1d_pct": -0.04,
-      "delta_30d_pct": -35.71,
+      "latest": 72.13,
+      "latest_date": "2026-07-03",
+      "delta_1d_pct": 0.46,
+      "delta_30d_pct": -31.32,
       "series": [
-        {
-          "date": "2025-07-02",
-          "usd": 69.11
-        },
         {
           "date": "2025-07-03",
           "usd": 68.8
@@ -1021,20 +1017,20 @@
         },
         {
           "date": "2026-07-02",
-          "usd": 71.54
+          "usd": 71.8
+        },
+        {
+          "date": "2026-07-03",
+          "usd": 72.13
         }
       ]
     },
     "wti": {
-      "latest": 68.45,
-      "latest_date": "2026-07-02",
-      "delta_1d_pct": -0.19,
-      "delta_30d_pct": -36.49,
+      "latest": 68.78,
+      "latest_date": "2026-07-03",
+      "delta_1d_pct": 0.13,
+      "delta_30d_pct": -30.0,
       "series": [
-        {
-          "date": "2025-07-02",
-          "usd": 67.45
-        },
         {
           "date": "2025-07-03",
           "usd": 67.0
@@ -2041,45 +2037,49 @@
         },
         {
           "date": "2026-07-02",
-          "usd": 68.45
+          "usd": 68.69
+        },
+        {
+          "date": "2026-07-03",
+          "usd": 68.78
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-07-02",
+    "as_of": "2026-07-03",
     "regular_91": {
-      "avg": 2.933,
-      "min": 2.589,
-      "max": 3.65,
-      "count": 64
+      "avg": 2.961,
+      "min": 2.689,
+      "max": 3.389,
+      "count": 78
     },
     "premium_95": {
-      "avg": 3.056,
-      "min": 2.649,
+      "avg": 3.15,
+      "min": 2.849,
       "max": 3.348,
-      "count": 27
+      "count": 46
     },
     "premium_98": {
-      "avg": 3.184,
-      "min": 2.929,
-      "max": 3.319,
-      "count": 4
+      "avg": 3.279,
+      "min": 3.129,
+      "max": 3.489,
+      "count": 6
     },
     "diesel": {
-      "avg": 2.414,
-      "min": 1.949,
-      "max": 2.739,
-      "count": 69
+      "avg": 2.458,
+      "min": 2.169,
+      "max": 3.0,
+      "count": 88
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 3.249,
+      "min": 3.249,
+      "max": 3.249,
+      "count": 1
     },
-    "observations_today": 61,
-    "observations_yesterday": 95,
+    "observations_today": 15,
+    "observations_yesterday": 196,
     "observations_older": 0
   },
   "mbie_waterfall": {
@@ -8590,12 +8590,6 @@
   "news": {
     "nz": [
       {
-        "title": "Air New Zealand Reshapes Global Travel Ambitions As Boeing Supply Chain Delays, Fuel Price Pressures, And Premium Tourism Demand Drive Airline Profit Recovery Plan - Travel And Tour World",
-        "source": "Travel And Tour World",
-        "published": "Fri, 03 Jul 2026 14:13:57 GMT",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PX3NCZXNXclZtVmY5N0Fvdllfa2lESDVKdnBYUG45MGRUQnA0eXUzSWRsWklTWWFMd3FtUUpJSHVZUl9PTjNUd1IxM0lBY05kSG90QldqR1V0LWRsUnB0emQ5X2QxdUlIcll0WlpB?oc=5"
-      },
-      {
         "title": "Toyota NZ hybrids top petrol and diesel combined - B2B News",
         "source": "B2B News",
         "published": "Thu, 02 Jul 2026 21:38:07 GMT",
@@ -8606,12 +8600,6 @@
         "source": "RNZ",
         "published": "Wed, 01 Jul 2026 16:39:42 GMT",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUXgtOFYtVkZqSGFodXpvdUFHNnREUGd5UzFhWjNMSnBtWnBFeGhkLW94M3ktaFBUcnczMHQwQkppSUJIWDM1bEFzNVI5dUhackhVU1J2UUM3eEpGQmpBNVRQMEFJUlVYdzlJbzhvVk4xamN2NUh2dXhveDVubXNlbHdVR3Z2eDB1VGJfMjk0VU12Q21XVmtDdldsTzB1dHRhSnh0bV9VWWZMZC1oSmhwWWhrTVVlQzJl?oc=5"
-      },
-      {
-        "title": "A ‘reset’ and a new phase: Air New Zealand looks to turn the corner on challenges - FlightGlobal",
-        "source": "FlightGlobal",
-        "published": "Wed, 01 Jul 2026 06:31:50 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWU5FZTg4NEloNEx6a0lhTEpzeEc3b3dDaGFVcGs3UjhnQ1FVaDlnRVBBbjJhRi1RaXdUOHlDRXRMTVdLcVh6LVZCaEF0SjRjRHBiVzdQQWpSRkVCQ0tPeVhlY3FWLWdmTjZFSzNDcHA4NWR5UHBWSG55LWNaSnRNcDhaTjJKYU9DZlZGa255ekRxeEdFX29VMDljRkNHbURmeExQeHdHbVBMRzBrV2ZNVHQ3VF9sVWp1UUJQNi1jLXBKUDA?oc=5"
       },
       {
         "title": "Forestry sector sees signs of recovery as fuel costs ease - farmersweekly.co.nz",
@@ -8636,13 +8624,25 @@
         "source": "NZ Herald",
         "published": "Tue, 30 Jun 2026 04:55:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObjhGVURkMTQxYzFzSWdaOXN2cElraEZndG5KUzg3dnhVejRlQ2JaVlEtWHJBQmRKQnlfVmw4N1Q1YzlKTUI0WVhtcW1aMVZkWVBvUW1WTWZjVHM5ZzBkaERzRG1oeWdWWHBFQTQ1RUxZbkZNVTkwbUh1ZGw3NUhHWkpXNkpyaGJwOWZmejlGZ29BdWZzLWJVdkhxLXpabmdYbmUySlpzYzQyNko5cEQtWDJSbWVjNjhtSFhSczBYTEFMOHFkel9J?oc=5"
+      },
+      {
+        "title": "Motorists could soon see petrol at $2.50 a litre - AA - 1News",
+        "source": "1News",
+        "published": "Mon, 29 Jun 2026 20:03:33 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTzBPNGR2TW1jSWR6TjAxNGpKWUl1YmVKUVFld29OYmN6bTFqNTdqeW05S1B0bkFYSkdvZTZyU0dWaTM2SFdLbVVmZjNwSHQyLWQwS2MwSGNLeWFIaTBJMmxubFlCNHpxVTdjdV9pcm9xczZMVGJXUnJrQnQ5MWctMk5QTE9CY1dVVVRTeGln?oc=5"
+      },
+      {
+        "title": "'Incredibly volatile' - long road to travel before fuel relief payments stop, says PM - RNZ",
+        "source": "RNZ",
+        "published": "Mon, 29 Jun 2026 17:47:13 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcWR2d3A5SGVXTnVSdk5WM3BLTTJrenJqVjQyOXlrLTFFNUlDMk04Z2NyV3U5YmNvWEJWWHkwX1dONENhcldzUjJZOWpadmZDcUZxZGtBczl6UEYyVjJLT21PYy0xeHdaWFdTQlpQZXJQNnZ2VV9UeV9rdWR5UUlhblZWbHdhdmNIZDFTNlQzX3lxWl9CaTZEclRqS19OZHJucUN5M2ZZSlJSX1UyNHd1OG5HVXhqeklLaXpCY3lKSzk?oc=5"
       }
     ],
     "global": [
       {
         "title": "Oil prices steady as US-Iran talks offset rising Middle East supply fears - Invezz",
         "source": "Invezz",
-        "published": "Fri, 03 Jul 2026 18:14:01 GMT",
+        "published": "Fri, 03 Jul 2026 18:20:05 GMT",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOUo2VTdDTmx3WFJDeUJkcEF4aklCOWdwN2hIOFNYNlMxNGc5T253RGJCU2lpeWFlcTJIaU1la1VZT1Y5UmZKclZqbTVlQlNzU1pVSGJ0V2RoeDFfdnpBQzEyLVJZZW1wTnJjUXd6RDVFQXJmSXBxcGoyZUJjZ1JPN09IQmZzdUUyWTdmdkVGU3VMWS1VdTlualRWNk5DQ3pLNWl0N09kS3NzNS1LY19ha3ZB?oc=5"
       },
       {
