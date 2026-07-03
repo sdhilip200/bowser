@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T05:07:58+00:00",
+  "generated_at": "2026-07-03T08:31:26+00:00",
   "fx": {
     "nzd_per_usd": 1.762131,
     "as_of": "Thu, 02 Jul 2026 00:02:31 +0000"
@@ -8640,16 +8640,34 @@
     ],
     "global": [
       {
-        "title": "Georgian oil refinery in Kulevi that received “shadow fleet” vessels vows to stop processing Russian crude by September - theins.press",
-        "source": "theins.press",
-        "published": "Fri, 03 Jul 2026 04:58:46 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjVDMtZkVRc1BCVV8xRXhLLVRrLVBFTGN6TGpQNXNpRkp0bjZjWDBrOHVuUzdUT0d3N3J2VU9EdS1NZy1SU0E2WlhGMA?oc=5"
+        "title": "Oil Prices Hold Steady as Middle East Peace Efforts Show Progress - Global Banking & Finance Review",
+        "source": "Global Banking & Finance Review",
+        "published": "Fri, 03 Jul 2026 08:03:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVl9tVWVyOEtFVFJ3TEg4emNBUk9KOEhXWU11M2VIbno4a0ZVY2JlVjUzTExjRlNmSl9tcVB3Q0NMVnRzLWdUU01hZjdxM19FdDF4eDB1bUp0aEZsbWxfcVJQZk41Rk5QLUhYeTNublVabTA2dTZPeGVhUkY1X2hES0xVS1JfMmtZU2tSZXpuMGRueGdSeHl2dDd3?oc=5"
       },
       {
-        "title": "Citi expects Brent crude oil prices to fall to between $60 and $65 per barrel by year-end. - 富途牛牛",
-        "source": "富途牛牛",
-        "published": "Fri, 03 Jul 2026 03:17:14 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU19JUi1Cajctc193eHpkUEJmUHRmR1lHS0N3aU1KVks1R3JsS2xmMTB2MjdWaHgzdEF3eXZUY2NjUnZXLUloeW1CYnhBdlAxUmZjY0lQblFZSWZ2ODhtMjVFUmdwc0RCWlVMMFBjRzktUjhPRlRXZ1hVTVNlVGszM18wNUpUbThMWTVxOHpVMVZyMHhSd1R6c3A0MA?oc=5"
+        "title": "Brent to slide as low as $60 a barrel by Christmas, forecasts Citi - Financial Times",
+        "source": "Financial Times",
+        "published": "Fri, 03 Jul 2026 07:03:31 GMT",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RQ2FwWDhzVE5pVXFtYUoyRWttUjFOdTZGcXZ3a3BBSG80OWF5SnZPdERuT0sycTgwNWNlV3JFb3NTMWxkVWtUWVVMMmplVHFjWUlOSk9Cd3pTNmI1MWRqMW1zN1BaOFVzakk0c1ltbVE?oc=5"
+      },
+      {
+        "title": "The commodities feed: Oil under pressure amid rebound in Middle East flows - FXStreet",
+        "source": "FXStreet",
+        "published": "Fri, 03 Jul 2026 06:34:36 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZm1CMHBOV3NuazVRbWcwZkVGOFNtS0NfaGI0RER3cDd1N2pZOHBJekxxMU1SeHJYb1VFcFdTQTFoSEZMNDRXb1p6SVBQYnNjY2wtRi1pdGZTY0dBTjI5VG9rcU9DVnVCQ09oM1pGMVBJOVJGU0N5X2dEZHdxdFhnWGdUU3QtdS1BdVFPOUR0QXVsQ0RSLVZzYkpvUXh0QV9NZlI1Q0NTTVNFMXBxQzMyT25WdGpsTTB5eF9xRA?oc=5"
+      },
+      {
+        "title": "What caused the WTI recovery despite progress in US-Iran talks? - FXStreet",
+        "source": "FXStreet",
+        "published": "Fri, 03 Jul 2026 06:02:35 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVnFrTnJxcjlBdjgxUEpvZTV1QWYyYng0S2tSOXJnWXUySzdqTW81aGNmN091eHZhb0prRFJRZ3JkVXpDOEZPQ1Z2R1dBXy0zeEJaX1cxY3M4M2ktNFl0LUptZlkxbERiMGpaTGdkX2dMWDVzR2IteEdNNnFraWxOa1FDYUQ3blRhLWpaQVpqc1ZpbGdoZWc?oc=5"
+      },
+      {
+        "title": "Oil prices rise to $72.25 as cautious optimism grows over Middle East peace efforts - Economy Middle East",
+        "source": "Economy Middle East",
+        "published": "Fri, 03 Jul 2026 05:56:23 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNVFVLVVyWGIxU3ExdXlKamRPbUV1NFRQbmVnNXp4RDlicVlkRjQ1Z0VyQ2lRbTFVQ2ZLNFB1SkFTSmVXZmdkOEtMZWZvVm9PQkJ0aElYeGZVRTFncmJJOEwydXphb1paeDFLSGVhMno3T1NlTFdnVnpKUnFjRGl5bEJYOERndE9MMEZHbWxpeVYzME9aVFRrcm9kME10cHlkU3I1WTB4UTRkMU00NzFjRzcyakxNajgwRmc?oc=5"
       },
       {
         "title": "Oil Prices Dip Amid Easing Middle East Supply Concerns - GuruFocus",
@@ -8668,24 +8686,6 @@
         "source": "TradingView",
         "published": "Thu, 02 Jul 2026 20:48:11 GMT",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVG1pMlR3ZWhWUURkbUhucVJQWjVaMDdrSzJVNzRNOGs4bjFQWFhVc0xhTWxlRnYybnJBTkFnN2R0M3Z4OGEwOEt6eFdTdExQOXpULWpQMUExQklkZUxoU1VyQlNnX2Z6Y29ERGs4YXI0ZWxjVURaYnZmQ0YyRjBxSDRBeWFWcEZlTTJkU2Qtc2dkdVpic3c?oc=5"
-      },
-      {
-        "title": "Crude Oil Prices Recover as the Dollar Weakens - Barchart.com",
-        "source": "Barchart.com",
-        "published": "Thu, 02 Jul 2026 19:12:09 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWVjS3ZNU1BvaGVIMksyUlNNaWpHVDU1bXE4dmRvT2ZaM0RvUjlPV0pQN2QyemtRNE5HMVlIWjRnWDFIVWRNazU3RURkajBIUXpNbVdnMTRuVm9ZLVFVSHJoN1BEbEpUQlRRcmVRakRsaFh3blR6WUNOalBUYVZ6OXRpV1U1M2hqQXBRcGU5LWZKN2ls?oc=5"
-      },
-      {
-        "title": "Iran Tightens Grip on Strait of Hormuz Tanker Traffic - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Thu, 02 Jul 2026 18:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUhlWTBJWFdmNDdGc25DcjFsanZ2RGJ2MGdxVHdiMDBpbVJYU2FIeFNXQ3ExN1RrZl9pVXhQR1prZVlBaFVzQzdlS1lKN0ZIbVR5azlISEJlOThiNGUtaVdjVWo4N1VySDgtV3VmNWhudHVNNEVuVXdidnBNQU9aUXlyUnVTRzEwTVh4RTdhS21hMWt0R0x4akJJcEpkbnczWjhZYnQwUlc3SUp2eEHSAbMBQVVfeXFMT19xOVdmdXpfcVc1YWM3M09yQUtwdy0tYXp2bVg5eFhUdlpuN1hma0h0c010VEN5R2Y0d0xPNE1rakVTQ2tPaTdRcC1RZ0dwQ1MzRlNWNnZKWmE5cGZnOGFlRkpEcGZYZzBQblIyOHdrLWZZUXBOTV9NMktFQWh3Y016aWVBLTVhVjhFQ1A5RmhTRXBvS3JFWFZuVTlJWEw4SVRIcUY4SzA2TTVwNnZwREZ4dFE?oc=5"
-      },
-      {
-        "title": "With US sanctions temporarily lifted, is Iranian crude back on the menu? - Atlantic Council",
-        "source": "Atlantic Council",
-        "published": "Thu, 02 Jul 2026 17:06:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPejBRc0VScDdlZ3ZvYWhMc0xWb2pPRmxSam9lcXVoOXpNcXhfMEFiMWVqNDV0X0xNcnR2SGdtbWRITDB1ZGQ4NDNxZWJyc2hJUm5LSHFyS3J2Q1ZJaHlXZFlJeUZEVnFiZXlZNW0wcHdjb1dfSExST0dPbnFjY3VzdXVacVdqbHk1ckk5QktZMHM3SGNJYkdhbWdWU09vUFM0TF9UWWxuSjdOQ3BDNTYxV1Rod0pqZjhkdE5VMTJGYw?oc=5"
       }
     ]
   }
