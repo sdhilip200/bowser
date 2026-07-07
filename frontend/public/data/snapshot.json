@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-07T19:25:25+00:00",
+  "generated_at": "2026-07-07T19:54:47+00:00",
   "fx": {
-    "nzd_per_usd": 1.753158,
-    "as_of": "Mon, 06 Jul 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.755326,
+    "as_of": "Tue, 07 Jul 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 72.15,
-      "latest_date": "2026-07-06",
-      "delta_1d_pct": 0.49,
-      "delta_30d_pct": -31.3,
+      "latest": 75.61,
+      "latest_date": "2026-07-07",
+      "delta_1d_pct": 5.03,
+      "delta_30d_pct": -26.29,
       "series": [
         {
           "date": "2025-07-07",
@@ -1013,15 +1013,19 @@
         },
         {
           "date": "2026-07-06",
-          "usd": 72.15
+          "usd": 71.99
+        },
+        {
+          "date": "2026-07-07",
+          "usd": 75.61
         }
       ]
     },
     "wti": {
-      "latest": 68.74,
-      "latest_date": "2026-07-06",
-      "delta_1d_pct": 0.07,
-      "delta_30d_pct": -30.04,
+      "latest": 71.87,
+      "latest_date": "2026-07-07",
+      "delta_1d_pct": 4.84,
+      "delta_30d_pct": -25.41,
       "series": [
         {
           "date": "2025-07-07",
@@ -2025,36 +2029,40 @@
         },
         {
           "date": "2026-07-06",
-          "usd": 68.74
+          "usd": 68.55
+        },
+        {
+          "date": "2026-07-07",
+          "usd": 71.87
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-07-06",
+    "as_of": "2026-07-07",
     "regular_91": {
-      "avg": 2.938,
-      "min": 2.629,
-      "max": 3.199,
-      "count": 67
+      "avg": 2.97,
+      "min": 2.779,
+      "max": 3.65,
+      "count": 62
     },
     "premium_95": {
-      "avg": 3.082,
+      "avg": 3.109,
       "min": 2.699,
-      "max": 3.609,
-      "count": 23
+      "max": 3.299,
+      "count": 26
     },
     "premium_98": {
-      "avg": 3.241,
-      "min": 2.98,
-      "max": 3.319,
-      "count": 6
+      "avg": 3.189,
+      "min": 3.13,
+      "max": 3.219,
+      "count": 3
     },
     "diesel": {
-      "avg": 2.405,
-      "min": 1.999,
-      "max": 2.999,
-      "count": 80
+      "avg": 2.432,
+      "min": 2.149,
+      "max": 2.799,
+      "count": 77
     },
     "lpg": {
       "avg": 0.0,
@@ -2062,8 +2070,8 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 81,
-    "observations_yesterday": 87,
+    "observations_today": 79,
+    "observations_yesterday": 81,
     "observations_older": 0
   },
   "mbie_waterfall": {
@@ -8624,10 +8632,34 @@
     ],
     "global": [
       {
-        "title": "Official: US revoking sanctions relief on Iranian oil after 'wholly unacceptable' strikes on tankers - The Times of Israel",
-        "source": "The Times of Israel",
-        "published": "Tue, 07 Jul 2026 19:10:52 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNY2kxYlFWZHRZVjh5WUJPSU10NjNaemwzc2plMWRFZWthUDNUeGIwNkFOMmJLbTZsTDAyRUU5YTRnOVQ0eUZCbXk1NF93LUxfYlhIQzE0b1BJVjlITEpZRmdIMGtWVGdjVmgtUENzbWdQdHoydmJkMVR1MWFZXzZ0ZGYzQ1VVT2RXdzZfSk5Xc1E1V1REWXdMNnJTVzU3cmRhLXlpTGw2T0w4M0FCQjBPbXM5SmFRV3lSZk9lSDB6eUllZFFIOFRkRDNJQ1hxRWRXQjJ1bjdnQ2E?oc=5"
+        "title": "US revokes Iran oil sanctions waiver after Hormuz attacks - The New Arab",
+        "source": "The New Arab",
+        "published": "Tue, 07 Jul 2026 19:30:19 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ0c5SU5TTDNUV1JWWWlXckVVSXk4MjB5U21aU2pPQzMwb3loMXJKM240WndSLVlvRVBJWUw4SDIwSldwMnFVWndDSVkta0V3Qm5qV3YzazJxU1JjaU9QWmxHWWczdFF4SHVZNWI4NUk2ZGtyMnpHTy1MSExkRC1zMkhDRUFlR1ZTRWs0Zkd2OA?oc=5"
+      },
+      {
+        "title": "Trump admin reimposes oil sanctions after Iran strikes ships near Strait of Hormuz - CNN",
+        "source": "CNN",
+        "published": "Tue, 07 Jul 2026 19:27:35 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVUlvNklGWThNTUpUYVFBNVlTOE9fVXppWXMyakFFOUh4MjAyaTNsa21HaTQ5VUhvRGF3YXQyZHRBbVhESDltS1l2WlVPTjNGdVBpQmFyS0dNUlVLYU12bHkzT0xpRmxNczdzNkNEOTNBbHpaY0dGOUJ3ZnZWeEFTNXdKdWthUHcyNE1ORXlB?oc=5"
+      },
+      {
+        "title": "United States revokes license that authorized Iranian oil sales - Reuters",
+        "source": "Reuters",
+        "published": "Tue, 07 Jul 2026 19:27:14 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRF9kZUxkQm9QMzgwTWI4c0hrMXRiWkdFWGNOZk9KSkxfcFplSUxKLWlwZGFRWTVCYnRSZzdBRU82eXJMRHduenF5RTF4bVBVSVNVMWcwNkdjUElzd05RcjVya2hsRkplYWhRcnR4ajBhVWphWW5rdS1UZlNBSjFPNUVzcXlxSHhrUWdkZC1pcHVjQUtLV0pzUFd5UXhoY01DaE9zYUQ0V3FqemM1UW8wTm9LUlpreFJfdnBj?oc=5"
+      },
+      {
+        "title": "US revokes Iran oil waiver after Hormuz attacks - Al-Monitor",
+        "source": "Al-Monitor",
+        "published": "Tue, 07 Jul 2026 19:24:04 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdDVTSllUT0RkLWpEUnlsVTBkdlBTVHBiOWtGSXFVS3lBOUVLV3UtelNhWVNfN09wQzByZzBxd1BaeDRUMDlzb0ZOdzJPOVBlY1l1TDBJSWRpZ0g1cWJoTUpUOVlXRXFuSkR6LUNKUVpqNkZkTjVVMW0yVlI2aS1lamNlVmRpUkdhYVE3Z0FHbDNEeG1OS1JZ?oc=5"
+      },
+      {
+        "title": "Oregon Gas Prices Decline - News Radio 1190 KEX",
+        "source": "News Radio 1190 KEX",
+        "published": "Tue, 07 Jul 2026 19:13:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZmg4Z0VtaUNBVnlEZVlyS3pNbjlEUUE1X1dKUTA3QXdEa3pHalF4azFYaE1ieV81Z3FQUnJuTWRwMEF6eHdzLS1ORFIxdlFzV1RPRC0xUm0zY2tybXEyOGY5STFFVk5kdlE3UFlVaXNLc3ZvTFBvRGxHMGxvOWhCb21hOXU1MnpyZGdhLW5NYXoySEdRb3BqXzdjQm4tNUJQejQw0gGEAUFVX3lxTFBEYjBxT1Fhajg3OTl0UXMyakJSaTFyMXRXT01QZDVXUjdKU1BjeFc2WTlYYkVXejZxSDhRa3FBbjBPdTh1N0FCVDBENy1IZnVZWGFrRGtZMVk2N2V2WjR1dnl2cXhMYTc1RHpHb2hHSGZkTTNiNkNCc2JtbS1HN29ERlFOcg?oc=5"
       },
       {
         "title": "US reinstates Iran oil sanctions after tanker attacks in Strait of Hormuz - www.israelhayom.com",
@@ -8642,34 +8674,10 @@
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZVRxZXNWUFRGenJ0RXR2cDhVMk9kYUY1a3RaQ1dWT2RPaDMxT194b2Z5WHV3WUZOSktFY0RXTU91ZzZxaUJRZDlrTWZRYnppYUp4Qmpzd2xwQW5MbDhNYlRwLTBpcV9fdDhBdFBYM2F0Q3dodE45akJ4dVVFVVRjbWZTQmx5TldzUGNCTmxpWVhHUdIBlwFBVV95cUxPMDE4b0Zqd0dKVnFrUTZVc25ZTjFQWHkxTFVpTlpNLVlTc2w0Y1VkT3NmbFI5RHoxTWRtYjBpRVJnMmxpbTNvZ3lVeFVJYlEzNF9IZzdPWU9uRktfeHRMc2xFSW5TTFBfcnlTdjROSzItcUpfbDhmWDFNMTk5cG53Nms5ZExHbkpqNHZ4LWpkazQxVElSV00w?oc=5"
       },
       {
-        "title": "US revoking license that authorized Iranian oil sales, official says - Reuters",
-        "source": "Reuters",
-        "published": "Tue, 07 Jul 2026 19:01:57 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRF9kZUxkQm9QMzgwTWI4c0hrMXRiWkdFWGNOZk9KSkxfcFplSUxKLWlwZGFRWTVCYnRSZzdBRU82eXJMRHduenF5RTF4bVBVSVNVMWcwNkdjUElzd05RcjVya2hsRkplYWhRcnR4ajBhVWphWW5rdS1UZlNBSjFPNUVzcXlxSHhrUWdkZC1pcHVjQUtLV0pzUFd5UXhoY01DaE9zYUQ0V3FqemM1UW8wTm9LUlpreFJfdnBj?oc=5"
-      },
-      {
-        "title": "US revokes Iranian oil sanctions waivers after Strait of Hormuz attacks - Al Arabiya English",
-        "source": "Al Arabiya English",
-        "published": "Tue, 07 Jul 2026 19:01:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcTJNLXV1aWZmWWhTdGZKUjFqMlBRN3l5MDV0NXI1ZXZ2Z1V4QmcxRmFoZW1wV3BhQU4wTS1QTGs4TjFaU0JiS3U2ZUQ1eDBVWE5vUXVfUXpEdl9DSzFacmJZMkZmaVZZbkRwTkdJeHdfaEZpTkIxRGMxalJIcVRiR2pYNDMyTk9jSWVwOFVoU3E2WVVXSS1YR2lMWXpuR01yNnJKZDc3Z2NmczhxMER4OHN6MU8yWER2SDZZZW1KQkdYRkxIM2JBb9IBzgFBVV95cUxOTld3VXdHaG8tdVVzVnBQclVxUHZfZ09rdGlCNlpPSjVFcEdyZWt4QVBobzFQQ2RVOUpsMVJZeF9GWFJFZ0Z4RXFKVTliRHgxV0lnNXBrR1k4MXhHV3RUQU1xSE12dlV5MDRsMEtkNWtObzJ1aXhoZXBsVElZd2tUeHFrd2c3bFRRUXRzVVR1ajhxTG5DamFsSFBCLTZUelpkclM4YW9EMkdCZWloX3JBc3VSckstNVZMRUhTeUNzMFBZLUtCRWxZb21zOUwydw?oc=5"
-      },
-      {
-        "title": "Drivers Get Break at the Pumps as Gas Prices Continue Downward Trend - AAA",
-        "source": "AAA",
-        "published": "Tue, 07 Jul 2026 18:16:10 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRlJRSGhuZmhDUV9pTHJGcDRNbFVRWUtXRGxmVHVibWdjOUIyajBkY0dnZ0h2MnNkT2lwVXJPUDk1NUxQUzNXM3NJaG1lLW00LVRPaTlPN0FjRGRaVkpncXNtc2FjMTk5NXRPTThwMXNoQnJtSWs3dnZUaGVOWlFkN1FUNEZ6RHRIc2lWTUh2aGlxbnpCY0o3ZVZrZG5HZw?oc=5"
-      },
-      {
         "title": "Drone Strike Shuts Russia's Largest Refinery as Fuel Shortages Worsen - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Tue, 07 Jul 2026 17:30:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNXpyNE9zQ3RhaExQSENMM3BxQzlSc3BxMWtiV1RHVzJISUNqU0ZIWXJnRkJxYVRGYlE2VmU4RDBzVU5xcnphbDlyNndXd2Y3UEdBN3lCbkl4RHBEMWs4UGdVWW1nZlU5UFJPUnJIZGlrUHdMSml0NS1IZHNxdDg3SHRNb2lFWXh2cUpaZkp5aDhJR2ppSWhIYm1FZ1pqaUdOeVNIaHZtVnIxZ0VTR24yVjgxMU5oVUNQTFRPYzBTd0ZzZ9IBxwFBVV95cUxNSGRiVXRFTmU5c1UzOVlzMmJlQjNzNFRSZ3Z6OUNDd1pOeUV1Q0dzQ3FJbFktVFhxM0doZlZvWE9SMEV2ai1ERlpwZTduSUswcXRvV2pibzAwb0NuM1NQWTExTXZtR3FPc3lmWlkxNTJKcXd4ZGd6X3k4WGtVaXl6OGl5UFdwekJlUkhQN21mTUhzNUFwRjJicVctVTdHLTNKclZRWE1ZZGdCU3JQN0JSbGg0Zmt0MFhwXzZBd2ptV3hXN2dtcjJV?oc=5"
-      },
-      {
-        "title": "FG admits oil demand from US, Europe, Middle East outstrips supply - Business News Nigeria",
-        "source": "Business News Nigeria",
-        "published": "Tue, 07 Jul 2026 17:16:37 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRER3TGJvZC01TW1DeVV0aHZ0NTVMZ1NoVXRraHRZa3A2Z1lNQmZWbFQtTXYwSVJTUVJ2MEluRW1FOXJrTkhrVWk2LWZ5Z3BLUHBUQ2M3dmZmTEpZdUlDVjk4bUF4dFctV2hOcDhVbFU2ODBSMWZiUkh5SEptaXlYd3paVFQyMHVvZlFPSUQyc1hxdTBJMFJ1VjA4M1p4Q3V6TlRn?oc=5"
       }
     ]
   }
