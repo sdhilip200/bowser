@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-07-08T18:52:30+00:00",
+  "generated_at": "2026-07-08T19:24:54+00:00",
   "fx": {
-    "nzd_per_usd": 1.755326,
-    "as_of": "Tue, 07 Jul 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.759544,
+    "as_of": "Wed, 08 Jul 2026 00:02:32 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 75.61,
-      "latest_date": "2026-07-07",
-      "delta_1d_pct": 5.03,
-      "delta_30d_pct": -26.29,
+      "latest": 78.07,
+      "latest_date": "2026-07-08",
+      "delta_1d_pct": 5.27,
+      "delta_30d_pct": -24.6,
       "series": [
-        {
-          "date": "2025-07-07",
-          "usd": 69.58
-        },
         {
           "date": "2025-07-08",
           "usd": 70.15
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-07-07",
-          "usd": 75.61
+          "usd": 74.16
+        },
+        {
+          "date": "2026-07-08",
+          "usd": 78.07
         }
       ]
     },
     "wti": {
-      "latest": 71.87,
-      "latest_date": "2026-07-07",
-      "delta_1d_pct": 4.84,
-      "delta_30d_pct": -25.41,
+      "latest": 73.6,
+      "latest_date": "2026-07-08",
+      "delta_1d_pct": 4.49,
+      "delta_30d_pct": -23.81,
       "series": [
-        {
-          "date": "2025-07-07",
-          "usd": 67.93
-        },
         {
           "date": "2025-07-08",
           "usd": 68.33
@@ -2033,45 +2029,49 @@
         },
         {
           "date": "2026-07-07",
-          "usd": 71.87
+          "usd": 70.44
+        },
+        {
+          "date": "2026-07-08",
+          "usd": 73.6
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-07-07",
+    "as_of": "2026-07-08",
     "regular_91": {
-      "avg": 2.97,
-      "min": 2.779,
-      "max": 3.65,
-      "count": 62
+      "avg": 2.884,
+      "min": 2.539,
+      "max": 3.139,
+      "count": 60
     },
     "premium_95": {
-      "avg": 3.109,
-      "min": 2.699,
-      "max": 3.299,
-      "count": 26
+      "avg": 3.052,
+      "min": 2.648,
+      "max": 3.459,
+      "count": 27
     },
     "premium_98": {
-      "avg": 3.189,
-      "min": 3.13,
-      "max": 3.219,
-      "count": 3
+      "avg": 3.119,
+      "min": 2.959,
+      "max": 3.319,
+      "count": 4
     },
     "diesel": {
-      "avg": 2.432,
-      "min": 2.149,
+      "avg": 2.37,
+      "min": 1.949,
       "max": 2.799,
-      "count": 77
+      "count": 70
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 1.959,
+      "min": 1.959,
+      "max": 1.959,
+      "count": 1
     },
-    "observations_today": 79,
-    "observations_yesterday": 81,
+    "observations_today": 69,
+    "observations_yesterday": 85,
     "observations_older": 0
   },
   "mbie_waterfall": {
@@ -8632,6 +8632,24 @@
     ],
     "global": [
       {
+        "title": "IMF Downgrades Global Economic Growth Forecast To 3% Amid Iran War - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Wed, 08 Jul 2026 19:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNWxidFNlMXNQYnVTT2pvVDJLYUljblh5NUlhaVRENWkyVC14eVBucnNpLWZrTU10UWZncTVHTGt4N2JibjR5YXpSUGJ3ckdIX0N4d25fYXpRdkFTUlB3WERYZjhBM0l0MXY1Ukh4MkFvdTRhU3g5T08wRG9BSVNsXzFxRHEtUjVUbll2MnF4em9qYlNENFlsSGpyeFVJSFpRdVZPbERpY2NWUm1oT091TmdHSEpkLWp2SWo5Q1N30gHDAUFVX3lxTE15V0ZJV0Z6NzEwWGpReDg0UGFGQ0o5QlJLWUVkM0F0U1ZzeThJb3JvemY3OFIwTTlwaXZFRHNxUW1EMVZnbVgwcG9qRzZnZDMtVHlIWnczd0ZHUTN1UHQ3TEVTN0Y3S3dBdFljZlhhN0dPbS1mcVZDQmdXTkRNbzRKVFZrUU1hWDFoVTlXajk1eEtLQzJtbGQwSkd3YjJLdUNDZ3BFUDlWM2V5cjU5ZFctT1dXbmF1ZXl2QXU3ZVpZeFlwUQ?oc=5"
+      },
+      {
+        "title": "July WTI Crude Oil Contract Closes Up $3.08, or 4.4%; Settles at $73.52 per Barrel - marketscreener.com",
+        "source": "marketscreener.com",
+        "published": "Wed, 08 Jul 2026 18:36:14 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORzNlNXNxYUJBZXBfdUxuUzJJV2JSellSNUhKdGcxRTFaMEctMVVoYWNtbGg4UjFTMkhKQmNDVndRUXlsNG5YSl9yMkRXN2xQenRRbGtiU1A3U1NmeGtXNk9UYW4waFU0MFh3VzlYX09tRThrRUhZRWdZMW4tQjhibDRWQzBxZWdCUkgwT0NFQTRDS3ZJcXVQUVZ5Z3RIbjhpZnM4NzFGYWxSSlRPbkNhNllsYVZMR2VUWTdGZl9LbFJYODcyRXZLdHRn?oc=5"
+      },
+      {
+        "title": "Brent crude surged more than 7% at one point! Trump said it was 'no problem' that oil prices rose due to attacks on Iran, adding that there is currently an oil surplus. - 富途牛牛",
+        "source": "富途牛牛",
+        "published": "Wed, 08 Jul 2026 18:11:39 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd2Fwczd6b2U3a05NRnR4US1nRUtvME1wbXJLR1F4OHRUR1p5UFl0OXUzRTIxXzdIUFRoelZGUmx2WXlMcnJ0bUEyM1lzeUNkUk9qVzlGZzdNd0ZJOTN6ZDJFZHhYUWstNm15WEp6Wl9CX1QteG1kc0lWR1VDa2E2SUQ2Y1F4eTBJWXRyb0pKLUZQZGw4?oc=5"
+      },
+      {
         "title": "Oil prices jump as U.S.-Iran truce buckles under fresh hostilities - The Detroit News",
         "source": "The Detroit News",
         "published": "Wed, 08 Jul 2026 18:10:00 GMT",
@@ -8644,40 +8662,22 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS2lrWS1DSHFVdzNGdU1TcnJqNHpEYmxFU1J4T3prS09QaGNpTGE1SlA5LXZabUZIYXdaSWNuQjZZemxKMzlrbUV5dTh1OGZSSUFvdkNsX0prYlhNajAxNV9YRmwwQTIxcTgyV0xIeWpHVVZnejBJU3dnTnpQNW81SlNfek5IdjY2c29HdmdBUmhYTTBqMUtYdWRYTQ?oc=5"
       },
       {
-        "title": "Brent’s Surge Runs Into Options Levels That Could Fuel Gains - Bloomberg.com",
-        "source": "Bloomberg.com",
+        "title": "Core Differences Between West Texas Intermediate (WTI) and Brent Crude and the Affect of the Iran War - EnergyNow.com",
+        "source": "EnergyNow.com",
+        "published": "Wed, 08 Jul 2026 16:19:55 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1ZOVFVuUnFFYUstVktuczhxdzBYN1lUbUlqbTIwZEVnX2lCclN2dDZyeVJxUnFPLXdLLWhHcTd1MUUyM0kxTFBUZWJZSVlfN2RCZkRlRXhqT3ZfdUJTQkFjSkR1dDFsQ2Rmc19VTERhc1hsV2Nka2RDVEFvZ0FUcFdJQ0dCR21lcm5mZU12UzJZZHlyOFh3WGEzVWpCVDlUeHc?oc=5"
+      },
+      {
+        "title": "Brent’s Surge Runs Into Options Levels That Could Fuel Gains - Bloomberg",
+        "source": "Bloomberg",
         "published": "Wed, 08 Jul 2026 16:01:46 GMT",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWUtWWEpmWWE4VDgyazJ4aUpKLUJfcVg1N0xFUEtfQVV3bThuREY5YlBRN0VWSEJJbU05a2l6YTZ1Z0pmc2dHbUs3T2h6N0hIX2I5SU5ZZnJmaENjbldreVdHT0tWaE5RTy1ocjVwZkU1TEQtLW1rYUJKR3htcjljenZfeXR0dVdULUtVNlN6Slp1aDZrTEY5elBodkdQV2FfWERza2xIdmNKZVFvLXBRcg?oc=5"
       },
       {
-        "title": "Trump’s Iran strike comments shake markets, Brent crude hits two-week high - Al Jazeera",
-        "source": "Al Jazeera",
-        "published": "Wed, 08 Jul 2026 15:56:15 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjZSYVRjTmNGNGRvOTlRSzhta0pUZmxvTUZQZ2tNWjVxdVVxY3BOQ0ZLM3lJLTBPSzVQVDg3ZFhmT2RkZmJSUlRnODI4U3hVZXFRNHRsck1udDRZRVZtdEU5R3VXbzBJNEl4cUljdGt0b0FMYmFQYzQ0SUtsOWJTdVRtWGxxLVFLT2ZYaFBXNm5ZNVB0YlBFNnVleDlITmpqb0JwTDk5Xy10eVU4aWVFcFBsbDhGQdIBuwFBVV95cUxQRGV4ZEdvVEdvODRXUHJuNTFmQnFCcGxIWVNNRmhBN095RTJHMHZGTGFmemRaajdHenhxeEVkMW1EdDR2YjVydm1fR2NJSGxYeWFaWHRfZEw3XzM4bDBFZ09YcVJpNVcwQ3JRLVpNSmhHMUZWeHI0NkhHWF95cUoxc0lsNUNpdWNScHlFRnNlbXJINFppNUQ0Q3d6S3RLNjdqZlZpUlVtUHFSLXVNb2FfNGVTc2VYMTFpWjJR?oc=5"
-      },
-      {
-        "title": "Deal or no deal: Five energy market lessons from the Middle East crisis - Institute for Energy Economics and Financial Analysis (IEEFA)",
-        "source": "Institute for Energy Economics and Financial Analysis (IEEFA)",
-        "published": "Wed, 08 Jul 2026 15:33:16 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWm1uOVBJc2tVd05jbzdLOEptUEJmMmM4SnZxZ3EwYzhXNjBka1FBX1ljNjEtTzUzaUZDUjFONmhCLXVHb3Y4VnN6V19xWVFiYTBzbnl5VFVfSmVEVDVUakhjbDl0ZHlTQkw1SkpuTi1EQW13U2RqTGNBMDh1aDNUSDhZWllRSzVET0YyZ0U1b0V1VVU?oc=5"
-      },
-      {
-        "title": "Oil Prices Jump over 7% as Iran Ceasefire Declared 'Over' - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Wed, 08 Jul 2026 15:31:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0NFZG03MTV2b0NXNURla19GbGJOZ1ZUQkJKa1R4RVV0NGZMSUVuLU9Ed2ZGUFV5NURtVkF2djJKZXRyQ21sT1JTcnNLc1V5NVFPZDhhdWpIemtmc05QQXhfMDVaaVZTWDNtaVZfZEFQdFB0WHV2bFJwVXY2Mjl1OW1vUHFZRWpVQTBJZWJlU0g4U3Z4UVFSR2JXajlFU29pck0tVW9MQ2I4TDJYZkVz0gG0AUFVX3lxTE1tQ1dabERlNi10WWExXzdTVFVzcm9aQzNDWmpvcWN3bHlLVFZ4OW9TUnQ5QllpLUliNXZ1UlJSaC1zUENYc01ZMkpjd1NMcGFMMlNZbUxKaC1FMUZ3MFlRTlNaSllFaFhvbzJzSnp0Sy1Jb0ZtUHRiN0xBRDkyRnFYLWpzRnFzdWpsWjdzN3B5OE02dTUzSUlNRTQ4aFBEUTh1eHhhTkRIdHNaejZZeWhQLXBMMA?oc=5"
-      },
-      {
-        "title": "Brent crosses $80 per barrel as Trump says US-Iran deal is 'over,' threatens new Hormuz blockade - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "published": "Wed, 08 Jul 2026 15:22:29 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT0NyR2o5UHVPQWtJRWp2bnVrOGU5NXYxMUF2bXpOTEhiU0YyclZsS3ppbU5DdW56cFpWMmxobFZ0LUFqdU5sZjEwZXAyQk5adGZmYXRIZmpTZGpiVEN3WkpxTE5NRTRiMVdHczhjWWFQRG1FUUVYY0VmXzROMVFoWHJOWVc0aEJ2cGpVaU9GTE5sSEZVYk0wcV8zV2ZsZnRncldLN21WZkRabFktU0lCSkZ4blhUYko1STUxVjJzOGJoNTI3a001aVJQN0N0cVpkMEpHWjdQSXZSVUEzSTVzbXZ3Zw?oc=5"
-      },
-      {
-        "title": "Oil prices rise sharply after Iran launches attacks on tankers near strait of Hormuz - The Guardian",
-        "source": "The Guardian",
-        "published": "Wed, 08 Jul 2026 15:18:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTHZCN0g1UHJ1czVIT1dORUI2RW1sWWhYVFBrWFlCSlZaRFdjYW5STG9vMzZxZ1lGcUhubEdoV1Q5NFJTM1A3NnIzQ0pkM3VkazlycmdqLWpRRHEwRzdhc3J3M2RsSGlRNVh0Tk5MQ1dGUXliWk9PWkdzcV9JNHlEMnA4ZFB3empYN2x3VG5DZmFhbHdUUTlUbUZlVFBYbkk?oc=5"
+        "title": "Oil prices are up. Gas prices could 'soon' spike, too - USA Today",
+        "source": "USA Today",
+        "published": "Wed, 08 Jul 2026 16:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTHhLME54dnZKVFExaU9VTW9LNzdsX0staWxTblJUay1Dbk1ucTNuZk5VTTJBZUNWakxFM1hrNDM5Tkxvb0RWSkdKOXVhV2lpTTN6ZklNeENpdjZfc1JXTEhUT0ZvTzVMa0FJMF84OUNFSFZqQ1A2WVRQMkZiR040MHYzS2gtdGhHWk1nRVUwQXBHaXBjT0xHaWJFanNBSDdXMXRUbGNhVW1KalhvcERuS0NOZw?oc=5"
       }
     ]
   }
