@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T15:53:21+00:00",
+  "generated_at": "2026-07-10T17:56:30+00:00",
   "fx": {
     "nzd_per_usd": 1.752426,
     "as_of": "Thu, 09 Jul 2026 00:02:32 +0000"
@@ -8632,15 +8632,45 @@
     ],
     "global": [
       {
-        "title": "U.S. stocks and crude oil prices drift to a quiet finish of a bumpy week - Pittsburgh Post-Gazette",
+        "title": "Stocks and oil prices drift as global markets continue to calm - Pittsburgh Post-Gazette",
         "source": "Pittsburgh Post-Gazette",
-        "published": "Fri, 10 Jul 2026 15:39:13 GMT",
+        "published": "Fri, 10 Jul 2026 17:09:14 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSGVFUUdOUVhaRHdkbnBlaGZTd3ZrWFZ6Z0dqTk1mUk1RRmVKMnY0bjRVMDdRMFptMWJBUWNwQ1ZhVjdDZktKRE5TTFMwYWY4NTJpeXNNZFpHOXp4eUlhTUhSa0lfS21ZZWs3MUVUVE1vRlFKaHZHYjBwOGYyV1pWNS0tc2xHLXVyNlV5RTNnUVI3UHFFS1Jnck0wM0xqeWhyUE01SmZ6UE5FZw?oc=5"
+      },
+      {
+        "title": "Stocks Rise, Oil Prices Fall, While South Korean AI Darling SK Hynix Leaps in Its Wall Street Debut - U.S. News & World Report",
+        "source": "U.S. News & World Report",
+        "published": "Fri, 10 Jul 2026 16:56:56 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeHd3S19uSW56eGNWM3BtaTU4QnoxZ1hVSUp4cE9SQ2pMWXZoOEw5RE9yZTIzcjVTWHJWNV84U1haQnd2SVJ2X1duUlZUdUVqMjhiR1g4NnZndEZqd2RuRkpJZ3hNMktGWU5ualljOE4yYUo4ZVFTQ2NTc0Q4bC13bkZaNDVoQnpvc1p1M2JRSXA1QmlIMzNKRFBuNEhvdXhfYzNOXzU4LUVLMWUzZUZ3Q05zQWVuYUZWZ0dHdjJkN094TDBQRTBDOGhGTG5zZ2tKeVE?oc=5"
+      },
+      {
+        "title": "China Tightens Its Grip on Namibia's Next Energy Boom - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Fri, 10 Jul 2026 16:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLXk4TWRISGljOTlueFltS3NMUy1LMGw4MHY3dnE1M3JTbU9TLTIzZ1otb2VNTWt0M0JBR0NaTXRaQlRiSmFhTF9YbGt1LVlwT0pobmN1eWUteXgzRGQ1dE80RnVLb1ZvRFA1TjlPT09wMTlRR2Nld3JYZjVVVDdTU3o0YXdQbUFjY1VFbktSTHpfaVFycmJSQnh3VVRob1pxd1ZmRFZYX3NoTUR00gGyAUFVX3lxTE5tY29DOVdQM181cmEtOUpmRUVSVFlxV3ZXeVQ3VEZmclVyMUEtZTVSR0NGTUNqeWNjc1lKTy1pcXpJVTh2X3F3WlBQTmxkYUw3N3pZeWsyYWlQTFlyYnJzNlh2Tm8wQzY4a2NyNExYdmhoSkQ4MnI0VnZELUczblAtb1hSb1RlUnpzSmNuT0FvWDB1SjZyOUk4aGtnbXl3VXRYcTMyX21USWJ4WTZTbkNfcEE?oc=5"
+      },
+      {
+        "title": "Oil Futures Retreat as Trump Confirms Talks With Iran - WSJ",
+        "source": "WSJ",
+        "published": "Fri, 10 Jul 2026 16:12:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN2IwQnBOZmdWWjRjcDcteFZVdllOeUg2YkZuNFBwX21NQllGYTlqa0FMRlRucHRTOHB4Z2p0Rll2MnZnT0l4d2pxVEhpUXBsd2lZbnh6LWxSLXpwSFhtM2pPUUNPUENxc01ibGw0OURoUVFsRDZCZnVpM3F6aG1BNlVQM2dQanZGdjlDcENxOXFORUdnT3luNGN5a3hRZmhjdkhqOEk3UnNTbEZhR1IzN1JUdTE?oc=5"
+      },
+      {
+        "title": "Oil's Calm Is Over as Middle East Risks Return - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Fri, 10 Jul 2026 16:01:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSXFTT2FHejBSTjJyUGxoaDhpMFZGelU5NFhtbW5yRlVDRjQ5MllsbjE3N3dRYTFHTWpGYkpyVjhvSVY4b1k4eURNeFUwV0k3ZGsyWmg5MjBqR0tTbGJ1blJQZTJvWF91WVkwV21lNVdEbnpEUlFMTGVwd0dxaTNZbENUWDhzU0ZUUFFIR2VxU3laNzVYMTdtRtIBngFBVV95cUxORDFfRFJwOUZFVDZTeklhV09zWGRkVGg0MkI4VGZYLWJiYUZkSUJsM0EwYUYtTUF4d0VXYzI0c2d3Tm93ODFBMmplV3E3MHVZOE5HX1NWSk43Q0FSS0pBMDB5ZVdhbHktMEUtc1ZQZkJPUUJpMG1UMVJ3Q3lZd1BjSExEUDhndXpzQnVLOTVNN1ltVHVlV2pTNF9KWEdDdw?oc=5"
+      },
+      {
+        "title": "Brent Heads for Weekly Gain - TradingView",
+        "source": "TradingView",
+        "published": "Fri, 10 Jul 2026 15:52:10 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa0MzXzAxdHpQVmh1ejdpNWdNNW1oMTdWejE3WmhqRU02UU55cVYtalF3QzluZWJnaXR4YzZQVWZGVkxDZVg4ek9JYTJfUVY0azhyZmhQbGc1by1aSDlySWptdEZHcmJ2XzV4UjdEdnlyWU5INTdmRDVZNnZkLWk5VDN2Zy0?oc=5"
       },
       {
         "title": "US-Iran escalation threatens oil supply recovery, warns IEA - Al Jazeera",
         "source": "Al Jazeera",
-        "published": "Fri, 10 Jul 2026 15:11:15 GMT",
+        "published": "Fri, 10 Jul 2026 15:16:30 GMT",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUUFEYlNEcENmdkw0c3dKQVY3RUMtcjlfWDFFNnYwdEMwRmVwcGVrM0NHQld2SE05eXdSZlBqX1pHMGlVT05TRnpRUXN4NHBnQndvRVRTSzVRQ0djRlVZYkJiVDhxVHNDclJJLWc2UUJqNkpYRVdLbmR0ZDVXbjItcUtPZmxENUJKTGszdWNwZnFfOExZeXpaS19sa1c3aWti0gGmAUFVX3lxTE9DU2tuZkdWVG04LVRUX2JjT1pNWjlRMGxnd3A2SnlScUIya2FZbTFjV3BrY2VpRWFIeG8zRGNCdzlueDJUeV9GbGdpS3dNdE5oQl85VXFYVExLLTA4anpTaEw3bEd3eTlnNmZsWDB4ZExiMjhxcWt1bDBDWVJxRUpxc3ByaDA3elZERHlwbjE3YVNCN3pJUWs4bi1KZFF1blUzV1ljOWc?oc=5"
       },
       {
@@ -8648,36 +8678,6 @@
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Fri, 10 Jul 2026 14:30:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTUNDM0dxd2lYN0N1ZnpLSjJyLThNdE1oSFl2cWJwbjNsVlB1TkhUV01KZ0FjTlE1UndFUDRucXEtbTBFWFNJVW1memJESTN2c1IyTWN5bnl6QzVrZEQwb2ptMTFiTVpHUXJsUG5vTHB1amQ3ajFXVmZtNWNwd1VqZnFab2NnZ2NSS1YtVFhBMXFZdF9KLW1DUFhlZ1pzbnV5ZTBPR2FuNnhlbS1GSTgxV1ZOVzM1d2vSAbwBQVVfeXFMTWN4VzJpVEdfRGc3dUNrNVVVVUdDX2UtcjZETzA0ODBEUUgxcC1fZE5ON2hjcmJPMVk4ZWhJb0JVOEppWkxiUWUzODhGZkt5dGxvLVE4UEpIeVlCQzhVSEtkUGNQR3FKV3JMci0xRjNhdXNZTHB5cjBRd2NuRG40WFZ5RWtiWkI3UzJ0R3k4aS01bmJUYkZsTkVqWmpzX1RXYmc3QU9lSlJ5Ml9sNF91OC1SYWJvbnNfQWlzVDU?oc=5"
-      },
-      {
-        "title": "Stocks and Oil Prices Drift as Global Markets Continue to Calm - U.S. News & World Report",
-        "source": "U.S. News & World Report",
-        "published": "Fri, 10 Jul 2026 14:12:38 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeHd3S19uSW56eGNWM3BtaTU4QnoxZ1hVSUp4cE9SQ2pMWXZoOEw5RE9yZTIzcjVTWHJWNV84U1haQnd2SVJ2X1duUlZUdUVqMjhiR1g4NnZndEZqd2RuRkpJZ3hNMktGWU5ualljOE4yYUo4ZVFTQ2NTc0Q4bC13bkZaNDVoQnpvc1p1M2JRSXA1QmlIMzNKRFBuNEhvdXhfYzNOXzU4LUVLMWUzZUZ3Q05zQWVuYUZWZ0dHdjJkN094TDBQRTBDOGhGTG5zZ2tKeVE?oc=5"
-      },
-      {
-        "title": "IEA Cuts Russia's Oil Production Forecast Due to Ukrainian Attacks - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Fri, 10 Jul 2026 13:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLWU2aUpZeENERzFjamEzd255ZU93dUtFQ0U5NDBXbU9PekVLaHpQT01qd3FEQTM2YWN4dEpXYjhtaFg1R3JsUEJkQkNUdmdyUkxVaEo4eG1LdUVyMVU2WVBmemlEdGh4LW1FMndSX0kwSTYyWUdDdTU3cGlNUG9Yd0FBSGVNWGFhMXZGRllNQkdqbGJpNXI5VEJJdnVOQ3A3SzVPMXYwOHBVYmRELTM2aHZkM093ZXZ6anpkS0130gHDAUFVX3lxTE4zUFZuY1BTNTBVVXgtNkl3NHFYTWtvdmVhdDF4OExBb2dSNnRzVVUtdFdDY2tILTk0UVNWd01nWVVCNVpXME1keGtXejRPN0d1ZjVEUXVhLXZXQXM3b2t0dVhwS0dhTUZzVDFMUHdubXJVbFZsQWRjMTNFbUVKdFoxNG5LTHZ2RGFQRXVTRGZRT1FiXzJXbV9BWEtEdEhudHR0a2JrVVV1QnRxY29NZ21janpKZE9GUkNrWE54S3E0VWJKdw?oc=5"
-      },
-      {
-        "title": "WTI price holds near $72 as US-Iran talks offset Hormuz supply risks - FXStreet",
-        "source": "FXStreet",
-        "published": "Fri, 10 Jul 2026 13:23:34 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOckpDYTNKWXhKWjVmUnhHZ3lEcnBRTWxHMTdwLUhENHh3NWdvenhMbWlqVURfcHN4X1NGa25EY3JYUmliaVQxRDFPT2dxSFY1VHY5QjlIenB5S3dWXzlqVDRJSkFxMjN1U3d6RmNqRHZPTWxpODdDZXh4SGlhMnNHbWwyVVUxZFZiQno2aF8xdk9qVmdJbXVtUTc5SlQwb3B4NExRcXlTX2xEbldEQjJoelVZY2RsNUhMekdjeQ?oc=5"
-      },
-      {
-        "title": "Ukraine War, Day 1,598: More \"Long-Range Sanctions\" With Strikes On Russia's Oil Refineries - EA WorldView",
-        "source": "EA WorldView",
-        "published": "Fri, 10 Jul 2026 12:44:11 GMT",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSVFWWkVqUUhYdTViaW9UcFM0N2xtMWpzaWtsWnlpQ3ozYVgtQzBlS2szSGFBaXVYZmt4eUhnUWZ4WXZyNjh2QWh1aHR0dTBleFJTTHJDVWdKVmdfOXVkbDdfRjdCTFRLd0N0c1pTbVhka0lRbHFOMUtsUUtPM0dRY0ZGbw?oc=5"
-      },
-      {
-        "title": "Oil heads for weekly gains as Middle East supply risks persist - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "published": "Fri, 10 Jul 2026 12:35:13 GMT",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMb1Z5MktlNy16UUR6dmN2MVpmOUZ0d1E4S0FSc2E3alZIUWQ4Qjdkc0RGYnMzV19wWkhXVkV5bGx5a1AwVV9BSlVySW9vdWUzTzFGcGZxUjVobTl4WE0wUnhBVVh6QnV2dGx6UGdwVGRPLWxkVXFCNVBtU2pjVFE?oc=5"
       }
     ]
   }
