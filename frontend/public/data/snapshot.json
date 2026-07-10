@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T07:58:14+00:00",
+  "generated_at": "2026-07-10T11:15:14+00:00",
   "fx": {
     "nzd_per_usd": 1.752426,
     "as_of": "Thu, 09 Jul 2026 00:02:32 +0000"
@@ -8580,7 +8580,105 @@
   },
   "fuel_stocks": null,
   "news": {
-    "nz": [],
-    "global": []
+    "nz": [
+      {
+        "title": "Z Energy commissions 90m-litre NZ diesel reserve - B2B News",
+        "source": "B2B News",
+        "published": "Wed, 08 Jul 2026 21:40:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMXNpbWpjLS1jWVIyYjlRTGN4U3NMNkJTaFpDbUJwMmZGRlJoUDNGamM5RHBGNUFOUWZaVHplVm9QajdvcUs1azB4ZTZ5bjZSRmQzTXJQbnFSaU5PYkJVUkNUMTRCQmFxRHpKQ3lxUWFqXzhRal9HOC1kSzRrbkhBUGVB?oc=5"
+      },
+      {
+        "title": "Marsden Point tanks ready for arrival of diesel - RNZ",
+        "source": "RNZ",
+        "published": "Wed, 08 Jul 2026 09:29:50 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ0FOX1B2NHBvWFFlR3dkTHhuS1dCZzkyNHh2RnZvX1hlazdidHBKZW1DZDQtR0ZVdnp6U3NMelowQzl1dDFkWmhEaGlmNFNGSXhnN0lXbEk3dS1idUloalBrbXAxY2lUcUxrSzF6U3FQRlZ5dDE1eE9wZ29XcV9uMVNXX0pDODF0UEZxWGdzR2ZmRVdI?oc=5"
+      },
+      {
+        "title": "Rising fuel prices driving behaviour change but EV cost remains biggest barrier – Genesis - EVs & Beyond",
+        "source": "EVs & Beyond",
+        "published": "Tue, 07 Jul 2026 22:25:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMU0tUkZrUktoZjFFSlRtRER3OVdqSExULXRVVEFvUG1tTFJ0aHB4Rl9haERTZUZoODdDMWR6U0xTNTM3eGRzTTd4Z1JnbmpITDZFZkdnMko4c25FY0pEN1E3cFhIbHZEbnhpQldoM2hLOHprVTNpZFJBOVhCejJ1NFQ1LXpGWC1xdDF1REF1QVRzT084YWd0Y0JTV21jaDdsbjhVcGNqUzl5dzFVOUtvVHZ0OURSQQ?oc=5"
+      },
+      {
+        "title": "#economy: Strategic Diesel Reserve Goes Live as New Zealand Strengthens Fuel Security - Waatea News",
+        "source": "Waatea News",
+        "published": "Tue, 07 Jul 2026 20:35:33 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTTZ0S2JvOXFpcjJFREh2NWY3SWtsbHZMVGIyVXlSdUgwSTRKTmRxOU1CQkxRdTdlMTR2R3BOektiRHV4QTlPNHAzdTVVWjB1U1JxTXkxSUNEemZKdUJfTEFmTkxXMFVxODI3YTN6MUE4M0xTcno2aHNFN0U1NWNBa1NiVUhobGk2TC1vUGI1alNxV3NqbEVtakxkOHFsdXZycnZfLUx5RGVDZzZsTVEtRnZZcXQ2SURSc0E?oc=5"
+      },
+      {
+        "title": "The Big Dog is coming: GWM reveals expansion plans for New Zealand market - Driven Car Guide",
+        "source": "Driven Car Guide",
+        "published": "Sun, 05 Jul 2026 19:54:33 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWWR1TnpnM0wzMVEzdzdaSW5ETmFzck52ZzV3RF9DSFlONkxwSlBpWk1udTJuSUNxSEIyakVTNmpjQkV5MXBqRDdkZG1wV1EwV3VJaldVb3FERzVPYm5hcW1WblVMaEZzbjhXRE04Y3lsOG5pUXVOQXhueHpkQURSX21KU0FJQ0I3dlozNnY1NEdRSWRGaTdJRjY1djhrczVkX253MERPOERYdlRmMXR3Xw?oc=5"
+      },
+      {
+        "title": "Toyota NZ hybrids top petrol and diesel combined - B2B News",
+        "source": "B2B News",
+        "published": "Thu, 02 Jul 2026 21:38:07 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORmVoc3NDblRKajZpZzhrNmV0VFpMSTB2ZlBMLVlVQk5HNERLdktXWDBjY0g4eklIRU5GOUpEUFJaTXBRWnl0VXFuaWVweHp5Q1djZ1M5RDBPSU92X0lYa0lXUklCSDB2NUNXY3IyTXo0Ql90Ym8waFpUSWw0UlduaFhn?oc=5"
+      },
+      {
+        "title": "Forestry sector sees signs of recovery as fuel costs ease - farmersweekly.co.nz",
+        "source": "farmersweekly.co.nz",
+        "published": "Wed, 01 Jul 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRFpHbVB3Um4tTFI4Z1Y0U09SYkFSYlRRSHAybU1meDRQTlFzcTl6ejRyUFBXdUlZMTROY3pKbXVFS2pTMURxLXZrMG4teWJTQzZMdE56N2Z0TlZtYUxSTkdxS0JZMTRMQmxmcTFrYk9iQmNBY1NHYlJYLTBDQnB5cTBBZjN1WEZYaldIUndHXy1GRWFLQ2Jpc3RPNHdQc3M?oc=5"
+      },
+      {
+        "title": "X appeal: Electric, petrol PHEV and diesel X5s signed for NZ - Motoringnz",
+        "source": "Motoringnz",
+        "published": "Wed, 01 Jul 2026 00:34:28 GMT",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVXh2S1VBQXdXY2QtYl9zQm94Q2JQSm5yTzIwdnVEd29BN3pOM0MyMmhDM2x3X0FpMEx4WGphRl9Wcm1odXB4bVVudmN3N0l6MFg1T2szMG56UzlDYWg4cmdndWpxU0lqUTV1ek9pVXd1NEdPSC1GZS1ZLTBLcWNDVFBpNDZRSHVIemRlZHRMSTh4ekN3SWFla3EtcFNiVTFC?oc=5"
+      }
+    ],
+    "global": [
+      {
+        "title": "IEA Warns Renewed U.S.-Iran Conflict Could Upend Oil Surplus Forecast - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Fri, 10 Jul 2026 10:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVUNVRmxHNjBCZ013Nm01c1hZZkN4NGNtTmVaMExBZElpQzdPQzNVODdnbUhqYkpFSU5uY0RzLTlTWDNoNUV0Y2VfQkhRRWUtQkMybTMxMVZraHVFeWtCeVQwcy12aUlwdHdNT0ozNXB6c3FRNzB6Z0MxdEczVXNWSTl5RVlYMzZBLU9aSGxmR3ZwNy1WRXRvY3JReDgtZUN6QW9oVDBkOE5rdmdZTDI3NWJ0Ukt4UFQtVi01MkJXYULSAcYBQVVfeXFMTWxOMHZaaFdwMm50MTFDX2ZESVZ6bG9QR3Z5c19kS2hvVTlpTUItV3hvaWwyZkFJVXM5R0tIRHVpdWwxSHhMemJLOTQzNzdUTDdLa3Z3Z1BRaVFLVGhxYm80MjJnVWNGRWJmeklESDQzRzJxRnlFN3c1NjVuZXJKRE1GYjZVcExKTl84X2VRdVBDRUhVSm1pclp2c2JJRXZrdFNFd2pBRHk2QkFBQjdTZnlQYTNma2tkYTY4RnAycDJNVjhyWFN3?oc=5"
+      },
+      {
+        "title": "Current price of oil as of July 10, 2026 - Fortune",
+        "source": "Fortune",
+        "published": "Fri, 10 Jul 2026 10:17:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11QURZU1dYYUJReXI3bXl5VDhac0hnRzk4YkEyVEFqV3pTMFhIQlJSeG1mdUdsbFAydHFXMXZRQnJsOXhILWh6RGVycVVMZjlwMDVsVnZGMmVTUm5wZEg4OENn?oc=5"
+      },
+      {
+        "title": "Oil Prices Hold Firm as Traders Expect Middle East Conflict to Stay Limited - Yahoo Finance UK",
+        "source": "Yahoo Finance UK",
+        "published": "Fri, 10 Jul 2026 09:53:03 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV01lMU1aNlNzWDNvZ05MeklQQ0FjaHJfa1hweWQ3R0U5aS1oZWNHaW5FU3BsaUxmSlBkWkJXMWtlTm5ZaXJiaWcwTG1qc1dnbkx6WFplM1VOb0xfakVHQkxCUzltVHhUdU00YjFJYmZCRlN4eWFzcWtFajE2clNPRkxNRQ?oc=5"
+      },
+      {
+        "title": "June 2026 — Monthly analysis of Russian fossil fuel exports and sanctions - Centre for Research on Energy and Clean Air",
+        "source": "Centre for Research on Energy and Clean Air",
+        "published": "Fri, 10 Jul 2026 09:45:29 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ0JKc25RLVhfMEdtaHlZWHdIM00zX3VHcXdkREtpeTRhSnRBdUJpSWZxdEMyZWF4SjJjNE5xdjNQeHc2a194Z25YTXNLZnZHd3pPY2VzQlQ2YUZxRVBYUmdVRXFmc3lsa3phWlVndkE1ZTV4YVFwVGJjZUJoTnJVd2oybjFqbW1qTnVROGs4bzBHcUQ2dWp4RTYtUUJGWm1UbUk1Uw?oc=5"
+      },
+      {
+        "title": "A Tiny Island Near Singapore Has Become Asia’s Hub for Russian Oil - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "published": "Fri, 10 Jul 2026 09:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NLUVFX1AwWUlrOWhQZzJEX1BJQm5adEc5MjdHY1ExTkt3UEhMQnVCVXYxdWxXbGk3TGl4WERiOEJpUHlpbnFKYVJ2UFpmckdGVHh6TFYtYUQ2elJaWVhYajA2cjBkLWN4d1RoN2szaVRRVTgzdlRuZmRB?oc=5"
+      },
+      {
+        "title": "Oil Prices Head for Weekly Gain as Middle East Supply Risks Persist - thekabultribune.com",
+        "source": "thekabultribune.com",
+        "published": "Fri, 10 Jul 2026 08:59:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBza3E0SE5nUzJFeFhfSnh3Nm5oaTZSRnh6MmFFNVVobThORTRPRWlTRklEZFFvdXgyaEhjMVY0NEtVY2JSZ1dRSjJ3YUt5ZWc?oc=5"
+      },
+      {
+        "title": "Energy agency expects global oil demand to fall in 2026 - Middle East Eye",
+        "source": "Middle East Eye",
+        "published": "Fri, 10 Jul 2026 08:49:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVDFTYUpIMzJZaWh6UC15NkVSZkZPRXR5SFkzYVJxV0NJbE1HYWNFOFZpaFJKZkZBLXV0N1pUWTJDVzNadlhJQTRpZXdxZE4zU0p6NzBDWUNvQ2NhSkw4ZUY2VkdBdjlrTVQ1Q050REVtOVpMLXBiRGM5QjQtZFRhMENBR1AxRzlIeFdSTUM0TV9iUGk4TGw3Smw2R0l5NGhaa3hfckFRTnVnUQ?oc=5"
+      },
+      {
+        "title": "Brent Crude Oil Futures Fall 1% to $75.56, WTI Crude Oil Futures Decline 1.1% to $71.33 Early Friday - marketscreener.com",
+        "source": "marketscreener.com",
+        "published": "Fri, 10 Jul 2026 08:41:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPS2lvdXJmblNsTzFiTERRVVNxOFZXdmRCQUtoclRPMVR3Skk3RElzc1l0ZHJkSl9nODFPdlAwZkdQOGs5N3lteFlldm9LaTE2ZGRKU3k0bUZuRHdyTHBxQ1A1aUNJVUZKMHkzekNlMjEtMzE2UWNtU1QtV0l5ZEVVNlFpVlhodmNGUTRpS0V4U2lwWEdqSUZkLXVIc2VVc0xZWW91bFZuZFVxX1V6LXc5TVZicGxOU1FGbGJsYzlxTmVwX2hzd3JOVHdqMzNZV1Y4OHJEMEluaGIzN1FxY05DU3dn?oc=5"
+      }
+    ]
   }
 }
