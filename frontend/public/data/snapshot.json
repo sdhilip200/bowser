@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-12T18:40:47+00:00",
+  "generated_at": "2026-07-12T19:06:29+00:00",
   "fx": {
-    "nzd_per_usd": 1.734797,
-    "as_of": "Sat, 11 Jul 2026 00:02:32 +0000"
+    "nzd_per_usd": 1.734843,
+    "as_of": "Sun, 12 Jul 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
@@ -11,10 +11,6 @@
       "delta_1d_pct": -0.38,
       "delta_30d_pct": -19.39,
       "series": [
-        {
-          "date": "2025-07-11",
-          "usd": 70.36
-        },
         {
           "date": "2025-07-14",
           "usd": 69.21
@@ -1024,10 +1020,6 @@
       "delta_30d_pct": -19.47,
       "series": [
         {
-          "date": "2025-07-11",
-          "usd": 68.45
-        },
-        {
           "date": "2025-07-14",
           "usd": 66.98
         },
@@ -2031,40 +2023,40 @@
     }
   },
   "nz_retail": {
-    "as_of": "2026-07-11",
+    "as_of": "2026-07-12",
     "regular_91": {
-      "avg": 2.917,
+      "avg": 2.891,
       "min": 2.539,
-      "max": 3.949,
-      "count": 86
+      "max": 3.149,
+      "count": 62
     },
     "premium_95": {
-      "avg": 3.119,
+      "avg": 3.101,
       "min": 2.649,
-      "max": 3.399,
-      "count": 59
+      "max": 3.609,
+      "count": 42
     },
     "premium_98": {
-      "avg": 3.313,
+      "avg": 3.27,
       "min": 2.889,
-      "max": 3.649,
-      "count": 20
+      "max": 3.499,
+      "count": 10
     },
     "diesel": {
-      "avg": 2.39,
+      "avg": 2.361,
       "min": 1.949,
-      "max": 2.999,
-      "count": 86
+      "max": 2.679,
+      "count": 78
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 1.897,
+      "min": 1.897,
+      "max": 1.897,
+      "count": 1
     },
-    "observations_today": 0,
-    "observations_yesterday": 205,
-    "observations_older": 38
+    "observations_today": 34,
+    "observations_yesterday": 123,
+    "observations_older": 28
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8572,105 +8564,7 @@
   },
   "fuel_stocks": null,
   "news": {
-    "nz": [
-      {
-        "title": "Marsden Point tanks ready for arrival of diesel - RNZ",
-        "source": "RNZ",
-        "published": "Wed, 08 Jul 2026 09:29:50 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ0FOX1B2NHBvWFFlR3dkTHhuS1dCZzkyNHh2RnZvX1hlazdidHBKZW1DZDQtR0ZVdnp6U3NMelowQzl1dDFkWmhEaGlmNFNGSXhnN0lXbEk3dS1idUloalBrbXAxY2lUcUxrSzF6U3FQRlZ5dDE1eE9wZ29XcV9uMVNXX0pDODF0UEZxWGdzR2ZmRVdI?oc=5"
-      },
-      {
-        "title": "Motorists could soon see petrol at $2.50 a litre - AA - 1News",
-        "source": "1News",
-        "published": "Tue, 30 Jun 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTzBPNGR2TW1jSWR6TjAxNGpKWUl1YmVKUVFld29OYmN6bTFqNTdqeW05S1B0bkFYSkdvZTZyU0dWaTM2SFdLbVVmZjNwSHQyLWQwS2MwSGNLeWFIaTBJMmxubFlCNHpxVTdjdV9pcm9xczZMVGJXUnJrQnQ5MWctMk5QTE9CY1dVVVRTeGln?oc=5"
-      },
-      {
-        "title": "Petrol dips below $3 but questions linger over price drop speed - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObjhGVURkMTQxYzFzSWdaOXN2cElraEZndG5KUzg3dnhVejRlQ2JaVlEtWHJBQmRKQnlfVmw4N1Q1YzlKTUI0WVhtcW1aMVZkWVBvUW1WTWZjVHM5ZzBkaERzRG1oeWdWWHBFQTQ1RUxZbkZNVTkwbUh1ZGw3NUhHWkpXNkpyaGJwOWZmejlGZ29BdWZzLWJVdkhxLXpabmdYbmUySlpzYzQyNko5cEQtWDJSbWVjNjhtSFhSczBYTEFMOHFkel9J?oc=5"
-      },
-      {
-        "title": "Fuel prices drop - and what's going on in Wellington? - RNZ",
-        "source": "RNZ",
-        "published": "Thu, 25 Jun 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTUE2cHB4ODBNbW1PSWJKcGZncmlQVkR3V2ZvM2Q3U3hCSlQxZ3BSR1oxZTZmY1RBNEh1V3FZMzdMM2JFZHg4Vk5qOFlsQTBFRUhKZ0p3RXhkSnJQODZManhEaFpHZzQ5d0JmVnZITkJKeEcxbWJoNDNtd0owRWY2bXlzOVhNNEIyUmpZTWI3TzZ6dGVrZ0hiMg?oc=5"
-      },
-      {
-        "title": "Falling fuel prices could drive inflation, not ease it, economist warns - RNZ",
-        "source": "RNZ",
-        "published": "Wed, 24 Jun 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNXy04VzVTWkU4WklDTXN1UmRtN3lYRTVzX041TFlOaXBJWVk4N2FmUzZZQ0U4RHJGY0RZekYyRXZIV1hwTGM5T1NpaTJhazNCbW9tYjMtTWZ6TDctREZncC1uNFAxNEhQbkFCV0thdnBOS2lmWFpUUEZCX1FiX0lGd3ZZaThmeTc0djNZNUdUQzdVNk9OWFJUS0hYbnh0ZzFNTmdhcDVtLTNDWnl5elBNWGVn?oc=5"
-      },
-      {
-        "title": "What does Iran war deal mean for New Zealand interest rates? - RNZ",
-        "source": "RNZ",
-        "published": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY1F5VmljdGROU0UzNXdfQkZEamVtNkoxNVQxVkdaSGZyU1QwUlg3VnJSYU5ZcGthdU5xWEpFRG10VzRXN3RjbEk5TkRRZnpHMG9yWndkRXN6cFJkOTVhU1l6RnVxS2p0aTNGTHFqemNYaVQ4ZGNjUnY4bUduMlhuM2Q1bExVcDR1Nk05dUZGUnp0b2lNeGYtaTR4S0p4ZnlSd1Y4ZA?oc=5"
-      },
-      {
-        "title": "How soon Kiwi drivers could see cheaper fuel after US-Iran peace deal - Newstalk ZB",
-        "source": "Newstalk ZB",
-        "published": "Tue, 16 Jun 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMEJ2OUdyYjd4T3ZlVzZteHV3VVU1X1lVRWk4UTYwSTNQSFBxaGFqRnM2aHhrQkRnSnRQNDZnSEs1ekFtbmdrQnRmY2hZX0hmeG50NW9iQlh6amlrWXpVLXRiRnptak1KLXdhM1d6QzJsWEExbktaME96VFdJZVFDVU53ZnVFUGpJYmUxU1VfVV93eHNiQUU1Y2pqaWZUZE5UcUlITnNTWQ?oc=5"
-      },
-      {
-        "title": "Fuel company to lower prices in wake of Trump's Iran deal - 1News",
-        "source": "1News",
-        "published": "Tue, 16 Jun 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbXh4cDhzUXZJdmxNVXlCODZ5RWtad2J4UDZQb2EwSm1wdHJ4VTAyTG04ejc0VHA4d0dHUWQ2em8weGNYdWc0T0VHam1qa1dTN0dObWYya2lFZEJlSzBzcUFxcW1MUUVET1pqNzBnMnJsM2tfejZ4ZTdvdkdabUhWY1JGak5lTmw3S204OW53a3J3NXJKZVNr?oc=5"
-      }
-    ],
-    "global": [
-      {
-        "title": "Crude Oil Weekly Outlook: Oversupply Risks Challenge WTI & Brent Despite Hormuz Tensions - FOREX.com",
-        "source": "FOREX.com",
-        "published": "Sun, 12 Jul 2026 15:35:07 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM09qSjhxS2tEZGhhN01TOTN3dVdfVTJQWVd6SFBsbU5seDlFZnNMZW9aVnB6SXNJSFFJVTg1ejNHYnJTT3cxbGw3N1EwZHBmTXltdldYLVFOVUc3c0J0Ymw1THU5NVJoYmMxa3FlcUlDUElGN3ZvZDlCei1UcjNuVE9qdDhFNktIdGZMWGt6Y050WGNKRE02TlRsRVVMV2NOLW80Sy1wSGpfeTdDUUZiTnpDTTJyVy1sWHBvR05GYkJCWWNXRlBZZVprNnJRTnJsdWc?oc=5"
-      },
-      {
-        "title": "Core Differences Between West Texas Intermediate (WTI) and Brent Crude and the Affect of the Iran War - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Sun, 12 Jul 2026 09:55:21 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1ZOVFVuUnFFYUstVktuczhxdzBYN1lUbUlqbTIwZEVnX2lCclN2dDZyeVJxUnFPLXdLLWhHcTd1MUUyM0kxTFBUZWJZSVlfN2RCZkRlRXhqT3ZfdUJTQkFjSkR1dDFsQ2Rmc19VTERhc1hsV2Nka2RDVEFvZ0FUcFdJQ0dCR21lcm5mZU12UzJZZHlyOFh3WGEzVWpCVDlUeHc?oc=5"
-      },
-      {
-        "title": "Oil Prices Set for More Volatility After Latest Iranian Attack in Strait of Hormuz - The New York Times",
-        "source": "The New York Times",
-        "published": "Sun, 12 Jul 2026 07:24:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcVNCUXM1Rnk0bjJIbzAxT0wzbjZaa1IxWjVZOU80QmxXdXJaeUZ4dFVNSUZoeEFyVnkwRlJjbHFfdlZUZm9UdTF0bHFGRWZRNm5TbVkyS1pTUGNwajRrN3piV0dKRlpEV05SSmZ4b3lsQ01NU01HSEhBTHhydXlGVzlhbkZISWVwdzF5eTBBcGU2QlZk?oc=5"
-      },
-      {
-        "title": "Trump’s time is running out to avoid a nightmare Strait of Hormuz scenario - Fortune",
-        "source": "Fortune",
-        "published": "Sun, 12 Jul 2026 07:13:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdlVoeHF5OTAxV3hkaHBPMmpKb0Y5SzVEV2tYRzdmR2h1eVdBc2hJazUzVUpIWFBWZmRiMlBqTTlDNEJTV2t5SF82eEN6QWdsdm1LLUdmdlVNdmExNUtPc0tDM0wxUUY3bEdjWTAxbUNOLUVaejNlN2doMGx6cklRd0lIQXNvcWFi?oc=5"
-      },
-      {
-        "title": "Bipartisan senators reach agreement on legislation to sanction Russian oil buyers - eciks.org",
-        "source": "eciks.org",
-        "published": "Sun, 12 Jul 2026 06:17:14 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xS3Y0ZFRZOTBURUNjdExPaXZ1My14M3JOa1RsYl82a240R2JYUDQ0TUhOeV9BWE1wUXBfaVpNdlFsSVVNMFdaOWJfWnRmdXE2cVpJMzE5R09yVUJjbHZIZm9HX0t2cDMxLWc?oc=5"
-      },
-      {
-        "title": "Russia Oil Sanctions Bill Wins White House Support: 500% Tariffs Target China and India - Tech Times",
-        "source": "Tech Times",
-        "published": "Sun, 12 Jul 2026 01:32:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxON2lkTkZ4ZmY1UzBlX01vSlpFUU96R0dieTJfclBLSjBOaFo5eVMwdEdaa0RGbUNwZmhIcjBCVHdPaVJ5ODFub1ZQUEh6UW9NeUdLcHVTS0wxeTJuTmNxOUNhYlJJWWRPT3lvaGhGWTcwZFhTUjRZYUo1c0ptRks2M1Z5WS0zNDBtVGR2TkZHbExnSWE0dlNNNUU4N1NRYUVHRzVRT1RwVEN5cEptbnM1NWxEa2VqOU1HcHQ0NjZOUTB1c1VWcmlwRVM4bVlvZFRnbVE?oc=5"
-      },
-      {
-        "title": "Brent crude falls below $70 despite Strait of Hormuz closure, supply crisis looms - Crypto Briefing",
-        "source": "Crypto Briefing",
-        "published": "Sat, 11 Jul 2026 23:32:27 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbG1rMnBWWlVteUlzUlpzYnFSMWc5NnFFWm5LaHgzZERobmJTVlFvR01PcGlGMDB0a2dHRk55dWRpYWVJVER2ZW1TM2dHOGpPYjY2c0w0SF9iSTQ4WnlBMHpIa2wwTDhPcmJaYWFJYXNYNXZlTXMtUmZnU1BJZGxqa1pldzk5ZDRCbTQya1dGWThyWlhuNHlMNFNLdE0yWEo3MXRoQXNYSTBMWHM?oc=5"
-      },
-      {
-        "title": "The Next Bull Market Could Be Built on Inventory Replenishment - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Sat, 11 Jul 2026 23:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeUtPWmVFM1QzdVphanNITXQ3VE1KU29hdnVwRS16YW9JQ1J1bHZoU1VhaTJGbEdvWDQwOEo4R2NBaUlMTUJzcUlBVU1tWkh3MGhueTRrNk42eENDTHJmYjlQRzJzSnpNOXBwcDVVa0FMejVKMlVZZ0pjUzFxMUdDQkxacDdianNjQVgyeUN2U3NZaDJkY3JPR1otOUROMHVDc0tCMXlSVXHSAa4BQVVfeXFMTXNqdUZrQ0l6dkY3cFBrNDFodWlja08xbG55ZkRESkxtNmtZWDNWM1E4bEpON2M1Vmw3dmhHVlBsVWpjVjc5Rno2a2VCNFdrenE3XzAyUDZsazhHOXlLSHkyOUdvOE1YbElsRXBPREJ3ZjZOQllnU2pZVW43bGhQLUNJMjhVdmlsU2I1OXNzQzh4eXgwMnQycGtxN0JsZTIyVEtVR2N1TW5ZeUVCd0x3?oc=5"
-      }
-    ]
+    "nz": [],
+    "global": []
   }
 }
