@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T04:05:12+00:00",
+  "generated_at": "2026-07-12T06:44:31+00:00",
   "fx": {
     "nzd_per_usd": 1.734797,
     "as_of": "Sat, 11 Jul 2026 00:02:32 +0000"
@@ -8574,16 +8574,34 @@
   "news": {
     "nz": [
       {
+        "title": "Marsden Point tanks ready for arrival of diesel - RNZ",
+        "source": "RNZ",
+        "published": "Wed, 08 Jul 2026 09:29:50 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ0FOX1B2NHBvWFFlR3dkTHhuS1dCZzkyNHh2RnZvX1hlazdidHBKZW1DZDQtR0ZVdnp6U3NMelowQzl1dDFkWmhEaGlmNFNGSXhnN0lXbEk3dS1idUloalBrbXAxY2lUcUxrSzF6U3FQRlZ5dDE1eE9wZ29XcV9uMVNXX0pDODF0UEZxWGdzR2ZmRVdI?oc=5"
+      },
+      {
+        "title": "Rising fuel prices driving behaviour change but EV cost remains biggest barrier – Genesis - EVs & Beyond",
+        "source": "EVs & Beyond",
+        "published": "Tue, 07 Jul 2026 22:25:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMU0tUkZrUktoZjFFSlRtRER3OVdqSExULXRVVEFvUG1tTFJ0aHB4Rl9haERTZUZoODdDMWR6U0xTNTM3eGRzTTd4Z1JnbmpITDZFZkdnMko4c25FY0pEN1E3cFhIbHZEbnhpQldoM2hLOHprVTNpZFJBOVhCejJ1NFQ1LXpGWC1xdDF1REF1QVRzT084YWd0Y0JTV21jaDdsbjhVcGNqUzl5dzFVOUtvVHZ0OURSQQ?oc=5"
+      },
+      {
+        "title": "Motorists could soon see petrol at $2.50 a litre - AA - 1News",
+        "source": "1News",
+        "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTzBPNGR2TW1jSWR6TjAxNGpKWUl1YmVKUVFld29OYmN6bTFqNTdqeW05S1B0bkFYSkdvZTZyU0dWaTM2SFdLbVVmZjNwSHQyLWQwS2MwSGNLeWFIaTBJMmxubFlCNHpxVTdjdV9pcm9xczZMVGJXUnJrQnQ5MWctMk5QTE9CY1dVVVRTeGln?oc=5"
+      },
+      {
+        "title": "Petrol dips below $3 but questions linger over price drop speed - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObjhGVURkMTQxYzFzSWdaOXN2cElraEZndG5KUzg3dnhVejRlQ2JaVlEtWHJBQmRKQnlfVmw4N1Q1YzlKTUI0WVhtcW1aMVZkWVBvUW1WTWZjVHM5ZzBkaERzRG1oeWdWWHBFQTQ1RUxZbkZNVTkwbUh1ZGw3NUhHWkpXNkpyaGJwOWZmejlGZ29BdWZzLWJVdkhxLXpabmdYbmUySlpzYzQyNko5cEQtWDJSbWVjNjhtSFhSczBYTEFMOHFkel9J?oc=5"
+      },
+      {
         "title": "Fuel prices drop - and what's going on in Wellington? - RNZ",
         "source": "RNZ",
         "published": "Thu, 25 Jun 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTUE2cHB4ODBNbW1PSWJKcGZncmlQVkR3V2ZvM2Q3U3hCSlQxZ3BSR1oxZTZmY1RBNEh1V3FZMzdMM2JFZHg4Vk5qOFlsQTBFRUhKZ0p3RXhkSnJQODZManhEaFpHZzQ5d0JmVnZITkJKeEcxbWJoNDNtd0owRWY2bXlzOVhNNEIyUmpZTWI3TzZ6dGVrZ0hiMg?oc=5"
-      },
-      {
-        "title": "Economic growth returns despite fuel price surge - Stuff",
-        "source": "Stuff",
-        "published": "Wed, 24 Jun 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeUllQUFtUDRsSWhWclRQQUxxRU5xMHlBbDJWWi1wOXBpWUxWR2wzM3FhampyWFFKN2p1MktWM2dJbGQ3WnBQcFhMTHJmdzRMNnd5QjJJbFh0UUlLNFdoUGhjQUwzX1pmUU9RYXY3NS1wNEMyREpVRnhRd3VRTG1OOC1rV0VpQTdGTjJ6TlFESTNsRnpq?oc=5"
       },
       {
         "title": "Falling fuel prices could drive inflation, not ease it, economist warns - RNZ",
@@ -8598,28 +8616,10 @@
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY1F5VmljdGROU0UzNXdfQkZEamVtNkoxNVQxVkdaSGZyU1QwUlg3VnJSYU5ZcGthdU5xWEpFRG10VzRXN3RjbEk5TkRRZnpHMG9yWndkRXN6cFJkOTVhU1l6RnVxS2p0aTNGTHFqemNYaVQ4ZGNjUnY4bUduMlhuM2Q1bExVcDR1Nk05dUZGUnp0b2lNeGYtaTR4S0p4ZnlSd1Y4ZA?oc=5"
       },
       {
-        "title": "How soon Kiwi drivers could see cheaper fuel after US-Iran peace deal - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Mon, 15 Jun 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRjd3RENpd3pvdWlLZzBNUkx1RnNpSzA0d1ZORW9xX0RRWk9vbTFTV2tvbnZwcTFtRjg0eU1JeVF1VDU3eEZTN2JpRENRNUREQ1Q4NHA4am9mNTEtWmpoZGdvclZXS3pqRWY3NlZvV3Z3WFRkS1d0T3VHcTZDd1FTMGxfbHVfdHJSNGloTUV0dy1BU2t1bWFyLTJ5QmIzZThraU5Na1VJTFRtODY2aHlSVXdvb2s1dlp6cnBhTml3cE85dw?oc=5"
-      },
-      {
-        "title": "Iran peace deal could see petrol under $3 a litre - economist - 1News",
-        "source": "1News",
-        "published": "Mon, 15 Jun 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ0ZfUlFsbE03bDVGemd1Vjk5aDEyQWJrck1IU3paRXhMQ0c0WjFWTEVCZ1BvSUJHMXUydER1dmNoeVBkS0xBbDFobjFNSTQtQnhfckx1c1FZb21TZ29IWmpLWXctYS1WbEFHS2E3Z0VPb0l6b1BBVkFEQmtadlk2N2gzTVNvWElSX1dZSVFIczJtVzNHR0ZScnN3?oc=5"
-      },
-      {
-        "title": "When could Iran deal bring petrol prices down? - RNZ",
-        "source": "RNZ",
-        "published": "Mon, 15 Jun 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ0VKZGczMlBrQ1lENjIyMXE4bDNwUXZvMXNEcXhfTkc4RU05NDdOQ2piSlNUVjE3ZG5NSEtzdHBTOFpkRXI0M0xleUxiQWV6YjFGdnJKeFQ2b1ZGU3llc3k5RzYwcmU1ZTJnYW5DLUpHbkNFVUdyenBjamdNQklOWEluVWFHLUFrZmpodjRxVVR5QQ?oc=5"
-      },
-      {
-        "title": "Is the fuel crisis over? Why experts say we may face a new crunch - Stuff",
-        "source": "Stuff",
-        "published": "Wed, 03 Jun 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPay0xNDluTW4wOU1sb0ZvWlFyYVYwaUtzYS12WXpCUU9iZVlxVE5zdHFPM1FhQWRHckgxUzNXaGY0STBSOURSc1B3bnZQa0JFQjBTWkloUUZ1VnE4b0tGSEt5clpBMTNOaG55QjB4MlhFbnk1WHpWQV9sN1RWdEp4NGhJQTZBVUIzVV9sWnBEQTRlZ29jUUx4UFJIMzIyZw?oc=5"
+        "title": "How soon Kiwi drivers could see cheaper fuel after US-Iran peace deal - Newstalk ZB",
+        "source": "Newstalk ZB",
+        "published": "Tue, 16 Jun 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMEJ2OUdyYjd4T3ZlVzZteHV3VVU1X1lVRWk4UTYwSTNQSFBxaGFqRnM2aHhrQkRnSnRQNDZnSEs1ekFtbmdrQnRmY2hZX0hmeG50NW9iQlh6amlrWXpVLXRiRnptak1KLXdhM1d6QzJsWEExbktaME96VFdJZVFDVU53ZnVFUGpJYmUxU1VfVV93eHNiQUU1Y2pqaWZUZE5UcUlITnNTWQ?oc=5"
       }
     ],
     "global": [
