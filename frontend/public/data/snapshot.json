@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-13T18:22:18+00:00",
+  "generated_at": "2026-07-13T19:22:42+00:00",
   "fx": {
-    "nzd_per_usd": 1.734843,
-    "as_of": "Sun, 12 Jul 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.73683,
+    "as_of": "Mon, 13 Jul 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 76.01,
-      "latest_date": "2026-07-10",
-      "delta_1d_pct": -0.38,
-      "delta_30d_pct": -19.39,
+      "latest": 82.88,
+      "latest_date": "2026-07-13",
+      "delta_1d_pct": 9.04,
+      "delta_30d_pct": -11.56,
       "series": [
         {
           "date": "2025-07-14",
@@ -1010,14 +1010,18 @@
         {
           "date": "2026-07-10",
           "usd": 76.01
+        },
+        {
+          "date": "2026-07-13",
+          "usd": 82.88
         }
       ]
     },
     "wti": {
-      "latest": 71.41,
-      "latest_date": "2026-07-10",
-      "delta_1d_pct": -0.93,
-      "delta_30d_pct": -19.47,
+      "latest": 77.73,
+      "latest_date": "2026-07-13",
+      "delta_1d_pct": 8.85,
+      "delta_30d_pct": -12.56,
       "series": [
         {
           "date": "2025-07-14",
@@ -2018,45 +2022,49 @@
         {
           "date": "2026-07-10",
           "usd": 71.41
+        },
+        {
+          "date": "2026-07-13",
+          "usd": 77.73
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-07-12",
+    "as_of": "2026-07-13",
     "regular_91": {
-      "avg": 2.891,
-      "min": 2.539,
-      "max": 3.149,
+      "avg": 2.899,
+      "min": 2.571,
+      "max": 3.109,
       "count": 62
     },
     "premium_95": {
-      "avg": 3.101,
-      "min": 2.649,
-      "max": 3.609,
-      "count": 42
+      "avg": 3.069,
+      "min": 2.589,
+      "max": 3.699,
+      "count": 26
     },
     "premium_98": {
-      "avg": 3.27,
+      "avg": 3.044,
       "min": 2.889,
-      "max": 3.499,
-      "count": 10
+      "max": 3.199,
+      "count": 2
     },
     "diesel": {
-      "avg": 2.361,
-      "min": 1.949,
-      "max": 2.679,
-      "count": 78
+      "avg": 2.408,
+      "min": 2.019,
+      "max": 3.999,
+      "count": 75
     },
     "lpg": {
-      "avg": 1.897,
-      "min": 1.897,
-      "max": 1.897,
-      "count": 1
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 34,
-    "observations_yesterday": 123,
-    "observations_older": 28
+    "observations_today": 67,
+    "observations_yesterday": 89,
+    "observations_older": 9
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8584,12 +8592,6 @@
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoNzhTUDZ5ZEMtQ3RDUXdkVzhCUTV5RXZqQXJsajUyNWRfMEd1NHljaW03Slh4akh1a2NKbTRfRkJ2N0VhYi1UR0hRWktZdk9ET3R2OWhTVzdOUTZzdGRDdXAtdEVFWlNBZjRUeDBQUVEyeGZETkE0NjVtTVI?oc=5"
       },
       {
-        "title": "Marsden Point tanks ready for arrival of diesel - RNZ",
-        "source": "RNZ",
-        "published": "Wed, 08 Jul 2026 09:29:50 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ0FOX1B2NHBvWFFlR3dkTHhuS1dCZzkyNHh2RnZvX1hlazdidHBKZW1DZDQtR0ZVdnp6U3NMelowQzl1dDFkWmhEaGlmNFNGSXhnN0lXbEk3dS1idUloalBrbXAxY2lUcUxrSzF6U3FQRlZ5dDE1eE9wZ29XcV9uMVNXX0pDODF0UEZxWGdzR2ZmRVdI?oc=5"
-      },
-      {
         "title": "Rising fuel prices driving behaviour change but EV cost remains biggest barrier – Genesis - EVs & Beyond",
         "source": "EVs & Beyond",
         "published": "Tue, 07 Jul 2026 22:25:41 GMT",
@@ -8612,9 +8614,33 @@
         "source": "NZ Herald",
         "published": "Mon, 29 Jun 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObjhGVURkMTQxYzFzSWdaOXN2cElraEZndG5KUzg3dnhVejRlQ2JaVlEtWHJBQmRKQnlfVmw4N1Q1YzlKTUI0WVhtcW1aMVZkWVBvUW1WTWZjVHM5ZzBkaERzRG1oeWdWWHBFQTQ1RUxZbkZNVTkwbUh1ZGw3NUhHWkpXNkpyaGJwOWZmejlGZ29BdWZzLWJVdkhxLXpabmdYbmUySlpzYzQyNko5cEQtWDJSbWVjNjhtSFhSczBYTEFMOHFkel9J?oc=5"
+      },
+      {
+        "title": "Fuel prices drop - and what's going on in Wellington? - RNZ",
+        "source": "RNZ",
+        "published": "Thu, 25 Jun 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTUE2cHB4ODBNbW1PSWJKcGZncmlQVkR3V2ZvM2Q3U3hCSlQxZ3BSR1oxZTZmY1RBNEh1V3FZMzdMM2JFZHg4Vk5qOFlsQTBFRUhKZ0p3RXhkSnJQODZManhEaFpHZzQ5d0JmVnZITkJKeEcxbWJoNDNtd0owRWY2bXlzOVhNNEIyUmpZTWI3TzZ6dGVrZ0hiMg?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Brent crude jumps as US-Iran fighting continues - Middle East Eye",
+        "source": "Middle East Eye",
+        "published": "Mon, 13 Jul 2026 18:37:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNODA5MW50RzZ0cThnbnpLUElncTlmV0ZVWVYzMHdmTXo5eDVyUVZIV1hWVXRyUXFVQ2tyUkZfd0xVbVVGMDZ0Wk9ENG9mYmdrcjZMNlRXQUFMeFNId1IzbkdBajMtZmRzMlF0amFsSTZMRTJOUGptQzVYVkFkN1d5R2JsZzByR2Z6ZXNIZHhoeXd6eGx5Q1hVODJUY0U3ZGIzNE9MS19KRkhFc0FEY3JDdldsTnpyd255NTdIWTdCVkFXbnhwVm14NkFqNzRDU0prMER6aS1TQy1oWTgxcDg3eWwwRQ?oc=5"
+      },
+      {
+        "title": "WTI crude jumps to $77.77 amid US-Iran tensions in Strait of Hormuz - Crypto Briefing",
+        "source": "Crypto Briefing",
+        "published": "Mon, 13 Jul 2026 18:21:53 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcDdOLXNwTm9yN1FVTUx2RjFoNzhxLXlYWHF3Sl9Ob0lBQ0JpVTlQdVpDemdhalZDbXgwMWo4QzRlVzY3VFlvOUUtRERmQWRjM2JsVnpLb3l0M3hrSV9lLVhEMHFBRU5fNEMzQkRTSS1UOGxPSm13VUxxUWlpOEl0MU1YMnQtQktqY1NrMVRXOHFWeXBvS1Nhbw?oc=5"
+      },
+      {
+        "title": "Blumenthal pushes for Russia sanctions in memory of Lindsey Graham - WSHU",
+        "source": "WSHU",
+        "published": "Mon, 13 Jul 2026 18:10:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNend0X2sybWpKVnhSMk03aWNqQ3lsbmRKMmo0Z1RxY1JYRE5tbFk1RDNJNGU2SFBGMEt2dmdhZ3JKcHZxaE1wTnN6MWRoVll4dm5aZUVHUkZpeEljblZ4ME56Tk8xak45NFVEa2NnVWJlcGczX2doZ18xcDY0ZzBBWGxPVmtndHBiMi12LXZaTng3b0lNVmFCS1Axblp2TktZ?oc=5"
+      },
       {
         "title": "Oil jumps more than 7% after Trump reimposes Iran blockade - NBC News",
         "source": "NBC News",
@@ -8622,22 +8648,10 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONlBxZGI0VDZXUEVSblZWVmQ0Z2pwRXRzRFR0a2k2Q1F2Z1NUS2pVNk5uVWVLNVpRRTNrUGZFSkJNV0VKNDY2ajZVWmRaQlloWE1NT0RXWGQ4ZXVqYW95em1heV9nOFFuSDdtOEFWVHRIYkVjdmRpY0RGMTZGNm42eWR2Snd0LUNDeE8wZUFLT3FkMVB6dXBRNg?oc=5"
       },
       {
-        "title": "WTI crude jumps 6% to $75.87 amid Middle East tensions - Crypto Briefing",
-        "source": "Crypto Briefing",
-        "published": "Mon, 13 Jul 2026 17:21:40 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVEVsMTVrUmJBdFZIQnJySUZBZ1dUZnZwaWJDSE1ONF9HLVJGTXVpVjBqNlFidWtieUhTNHRyOWVZcjJiNTVsQTdtUjRfd013ck1Jd2U5bVpyODZyZ0puN1JlVVVXbERBS0VBcHoxVHY3NmUzSUtkRDBwazJkRnNOOXNxOXB1UQ?oc=5"
-      },
-      {
         "title": "EU delays Russia sanctions as oil price cap remains unresolved - World Oil",
         "source": "World Oil",
         "published": "Mon, 13 Jul 2026 17:12:59 GMT",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOTQ3aEZsemtRV0lwOThOZ3VnZFBWRVdxRXJZTFBwVU9qZl9HUnI5NlJMaEhITHU2UHRJRS1uX1RmckRLanFlYmFINzI0Y2RHZHFyWERKYzlMMXZFWG4yZXl5UXpIQTVoejI5QUVydnRHWmZ2TmhpeU9ZaDRzVGlSRFVpNkVXNmp3YVV1MUZ6M0tONFdndW44TGtqb3YzVHdE?oc=5"
-      },
-      {
-        "title": "EU Fails to Agree Russian Sanctions Package Amid Oil Cap Deadline - Energy Intelligence",
-        "source": "Energy Intelligence",
-        "published": "Mon, 13 Jul 2026 16:57:13 GMT",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DVFUxTVZDb2RfUm1YeDJtbTFBeGptOTVYdm5GdDkwcUJOZ01LNm55VkNIN1hvZEFPSk5PLWoyTjY1aHBqa1dOdHpBZXhfaGNIX3FBU1hhSjRIalNTVlNFa3duSHpJV2VLMW8wQ004NkdYZw?oc=5"
       },
       {
         "title": "Richard Blumenthal vows to push Russia sanctions bill after Lindsey Graham's death - CT Insider",
@@ -8652,16 +8666,10 @@
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOHUzWFk0QzhHaXNrb2RFOGlwOTJSSmVvNTMxTjk5eUVPeWVISk9yZmgtQjJJSUIwamJwZFk1cElhVnFQX1BVMThFdHRlRzJMTXZTSllNWnhoUkd5SGROeU8yYnNxd0NxdHhDOGxjRXRDRnRFZGZtVE8ySjZpTFBSelg4b2tlaGswLXBmM2VCM0tzdVJBSGlrWk1EUE9CSTNOelU5LUh2WFk0aVlsQUZBOQ?oc=5"
       },
       {
-        "title": "Renewed Middle East Tensions Threaten Supply: 3 Energy Stocks to Watch - Yahoo Finance Australia",
-        "source": "Yahoo Finance Australia",
-        "published": "Mon, 13 Jul 2026 16:09:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPckpNczN0dk04NzJKSWhEaHJnSWR1cXlHa3hGUnlLV2lNZjJOOHRuZEFreFlRRlViREphTDQzOFA4T1lDT2ZUWERxdTV3X3hSNDFWNGNzVjU2NUZXNmVMZnY4anNsb1Vfdlc5anNCUWdiRGJXOEx0VWItRzRnVmVpWXE0YUZsUlEyMzQwU2VzTQ?oc=5"
-      },
-      {
-        "title": "Canadian Dollar gains as Oil prices surge on Middle East supply risks - FXStreet",
-        "source": "FXStreet",
-        "published": "Mon, 13 Jul 2026 14:58:47 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVWFfRndHbVFfUDMyWGZ2YnB4Y1NTUHFlQmJUZXVSekk5dXp6STFqQTdhdkk0ZHdPdHg1N3U0R2hLbUo1WFAxbHN6SXZSc0hQQ2hxNC14T1lIMExaVWhGWC0yZGkxRVlMZG9LZHFVYk9mdENfbkNSTkplb2d3dkhqamtpUXhqOFVJWU1GWHcta2p6ODM4WjJPdzRKU24waEszS1ZkeGhHcWh2RnRjbEJIcmhR?oc=5"
+        "title": "Crude Oil Price Forecast for 2026, 2027, 2028–2030 and Beyond: WTI and Brent Outlook - LiteFinance",
+        "source": "LiteFinance",
+        "published": "Mon, 13 Jul 2026 16:39:17 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmdYNGNXYXk4UEdoY0txN0hKa205N0dTWk1Fd2VSSGM2LWNtdlJtMXhJanZSRXZQT1l5QWxLRF9mdlJVOWV3M3lJejlxSTl2Y29yRG1xSkVNWV9YSlg5WC1admhGYW15ZUppRTlULWkxYkVaN0VFUHgzY1I4RlN0cjgyRDI0M2lw?oc=5"
       }
     ]
   }
