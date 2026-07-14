@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-14T18:38:34+00:00",
+  "generated_at": "2026-07-14T19:19:26+00:00",
   "fx": {
-    "nzd_per_usd": 1.73683,
-    "as_of": "Mon, 13 Jul 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.734969,
+    "as_of": "Tue, 14 Jul 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 82.88,
-      "latest_date": "2026-07-13",
-      "delta_1d_pct": 9.04,
-      "delta_30d_pct": -11.56,
+      "latest": 85.26,
+      "latest_date": "2026-07-14",
+      "delta_1d_pct": 2.35,
+      "delta_30d_pct": -7.38,
       "series": [
         {
           "date": "2025-07-14",
@@ -1013,15 +1013,19 @@
         },
         {
           "date": "2026-07-13",
-          "usd": 82.88
+          "usd": 83.3
+        },
+        {
+          "date": "2026-07-14",
+          "usd": 85.26
         }
       ]
     },
     "wti": {
-      "latest": 77.73,
-      "latest_date": "2026-07-13",
-      "delta_1d_pct": 8.85,
-      "delta_30d_pct": -12.56,
+      "latest": 79.61,
+      "latest_date": "2026-07-14",
+      "delta_1d_pct": 1.88,
+      "delta_30d_pct": -8.87,
       "series": [
         {
           "date": "2025-07-14",
@@ -2025,45 +2029,49 @@
         },
         {
           "date": "2026-07-13",
-          "usd": 77.73
+          "usd": 78.14
+        },
+        {
+          "date": "2026-07-14",
+          "usd": 79.61
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-07-13",
+    "as_of": "2026-07-14",
     "regular_91": {
-      "avg": 2.899,
+      "avg": 2.922,
       "min": 2.571,
-      "max": 3.109,
-      "count": 62
+      "max": 3.199,
+      "count": 65
     },
     "premium_95": {
-      "avg": 3.069,
-      "min": 2.589,
-      "max": 3.699,
-      "count": 26
+      "avg": 3.073,
+      "min": 2.769,
+      "max": 3.259,
+      "count": 23
     },
     "premium_98": {
-      "avg": 3.044,
-      "min": 2.889,
-      "max": 3.199,
-      "count": 2
+      "avg": 3.289,
+      "min": 3.289,
+      "max": 3.289,
+      "count": 1
     },
     "diesel": {
-      "avg": 2.408,
-      "min": 2.019,
+      "avg": 2.414,
+      "min": 2.079,
       "max": 3.999,
-      "count": 75
+      "count": 74
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 4.9,
+      "min": 4.9,
+      "max": 4.9,
+      "count": 1
     },
-    "observations_today": 67,
-    "observations_yesterday": 89,
+    "observations_today": 68,
+    "observations_yesterday": 87,
     "observations_older": 9
   },
   "mbie_waterfall": {
@@ -8624,6 +8632,30 @@
     ],
     "global": [
       {
+        "title": "US Russia sanctions bill eases threat of tariffs on China and India - Reuters",
+        "source": "Reuters",
+        "published": "Tue, 14 Jul 2026 19:07:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQktFMlI0T1BvR192M1JmY0ZQRmdwc0JQRHhiYUMzWG02R1ozUGFrMFE3amJFWDZvbkhkTTJjZC1hRG5xRmM2WDB3MU5SUnlsbXFnSHU0NnFpOTVtalZPNk4zdWlkcmIySTJpbGJIVGFKdDJtYTdOaGdIcWNvcmowcHNKNFVtX0MwTFV2UnQwTUhZTmc0emFiZE1jdkVZQlBv?oc=5"
+      },
+      {
+        "title": "US lawmakers unveil updated Russia sanctions bill spearheaded by late Senator Graham - The Kyiv Independent",
+        "source": "The Kyiv Independent",
+        "published": "Tue, 14 Jul 2026 19:01:42 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZDMxZ2MweGozWHFLcTR3LWVpLWd3dXdGdjhNM3FvaVFodkpHQVYwd1ZhUHNSQnlxTFpmNGNrWTU2bnBYV2lNUV9Bb1cxM2JkZUdMQndTdnBDOUNEcC1Rcm12cGZsQlM0YlVjdE5CTVJ3R1N1NkpubHZrZnV3YzA2SmE2WTlpSzBoamh6aWQyak9waXJtQmx1SDdIRVMxTkwzdHVEdUhhVVU?oc=5"
+      },
+      {
+        "title": "New Russia Oil Sanctions Bill Targets China, India for Tariffs - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "published": "Tue, 14 Jul 2026 19:00:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYVVudk5CQnFiYm5nWmk0dGNrY3lCUGVNQW56NXpRNlVJQmhCODNjQ2Y2YWZOUjV2YVJuLUtkWGwwY3ZJZkhXRjlsVVpCUl85ZW1FMUstaW5mOUl1QUp3eGtBd2VlT3NzZVpJREV6bmM1Z1R5bjVsTnJSYXhMNjlSUjVkbU0xc2tUMGs0aTlGMlZ5NUxUVlNZNEFvbktKUTBvMmowemJ0Ull3enk5SEdsdHhR?oc=5"
+      },
+      {
+        "title": "Senators introduce revised Russia sanctions bill to honor Graham - Axios",
+        "source": "Axios",
+        "published": "Tue, 14 Jul 2026 18:59:56 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ1ZWVzFtZUVtUHpGMi1oZnF0bkVJVlpGbWVtMlhFSk9OTk9lYWY1c1ZYN3RIcXhnMGJvSk5NdGJROVFFZk5CenFRWHNBTWkycXlNMFN6bHRrbDNJQ1B1a0hxc0tTSG51UWNwdzFKNUZKMDRIcTFPNTZleTZTTFExa2pCRGtKMjRHcVFJ?oc=5"
+      },
+      {
         "title": "Trump’s Hormuz brinkmanship is worsening a global fuel crunch - The Economist",
         "source": "The Economist",
         "published": "Tue, 14 Jul 2026 18:22:01 GMT",
@@ -8646,30 +8678,6 @@
         "source": "The Hill",
         "published": "Tue, 14 Jul 2026 17:31:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMjdEcEJjVlZzYWZWRG1HUFI5cGJhWmFZRUdaeV9VUkpQaENacDUySnhlRGk5b2lYcnNQeHZwRDN2Nmc4Rll6LWVLdGU2aXRkTDR1OVpnMjhWc21GbjdrajY0bUZCc182Ymtha01Wd0p5NHltQlNybDI2OERrTjlQUGliWWhXaE1hZFd0b0dULVbSAZYBQVVfeXFMTmN1ZDExaVRtSlhmdGI5VTBHdXI3VWpTX3N1R2Y0TGZDWFpoVDFWSU1yTVBYSnJIVmdOdEcxU0R1R0F1dHFfeGVkaERZVjZ4WkpDaUFram9hUXBYYjI0ZDdLa1dtUjVfVkRwOUpHdTF0OEhwU1ZEZE11QU5FSGptV3k5VEV3WU5vVzRiX0l1M29mSm9tYnNn?oc=5"
-      },
-      {
-        "title": "Dangote's Dollar Shift Reveals Nigeria's Bigger Oil Problem - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Tue, 14 Jul 2026 17:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTXEwak9OdERmMEpIRG1ETHpfZFYtRDR3RXNVLWZrYlJjNU1TME5kcDB6TmhkaEhJYVBaVXU3ekkweTZ0aDUxQUVWaHFQLU5JX1dkQTR3c3RrSXpPMERLTnZwQUFPdlNGMWpYMkNnazk0M2lvRjdCN01RdmJvQXFtMkhGeWd6MTAwNlBTamxMOXQwVjlBdW5tV2tkRDF3LXF6VHNEb0RRR3FmSDU2YndHb3prRdIBuAFBVV95cUxOTUpTV0gwMkRvd2JuejFQdm0wUko5VVlZLUFDS2FaN09PZUZhbUVWTFZyNHMtVlkzMXpHcDRoOWpiM2Z0S005WlJLSXdaLWZ6SENyYm9pWHBKLUhieVA1OVNWeEw5dC1SZVhQd2hzeThrMDhLc3hEZG1RZmFBczdVN0swM0ZvdWRWMW5lREltN2xRNkdQLU42dmxjUmFod1VaUUVjd0xNRXgyWFp5WDBtZTNnTVVnQWZH?oc=5"
-      },
-      {
-        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
-        "source": "LiteFinance",
-        "published": "Tue, 14 Jul 2026 17:21:22 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
-      },
-      {
-        "title": "Brent oil structure changes to reflect mounting supply risk as Iran tensions flare - Reuters",
-        "source": "Reuters",
-        "published": "Tue, 14 Jul 2026 16:52:22 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNlAyVDlDN1dDd0JxZVdFRE84Zmp3anJyaWxIajl3T092MkMwZ3JzM2tjZElUeDJ3bVdhZWZySjJPM1VnYmljbEdDS0lJcjhPbGdpUGVweXB6azdTdUhyaDJCX05mX3VHZzBEY0JXa185XzRBQnpZUUF6SmZ0Yy1vVWhYa2hOR1p5cmYzMVhQU3Rpc1NMSllFX3VEeldtWXR1VWlzT1Z6LVBvRWoyMVRfS1daVmFRWjJfdE5WUEJuN3FzWGtfelFZ?oc=5"
-      },
-      {
-        "title": "Trump Backtracks on 20% Toll for Shipping in Hormuz Strait. Oil Prices Remain Elevated. - Barron's",
-        "source": "Barron's",
-        "published": "Tue, 14 Jul 2026 16:35:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVzZHMTZDWmN4RlVVUDZxa1Z1WURUSUZzT2tqVzlMd3NxMk41QU1DTjd4OC1aX0xpYldJZkpHdkJyY19KQzhSM1MzTHU0Qms1WFFESnNqMkpVVEFyRXN5bzAyZGFyd3ZLcHhGYlpXaVFOWHRXWWswMUp3QmFlOXNOcndB?oc=5"
       }
     ]
   }
