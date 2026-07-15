@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-07-15T18:46:41+00:00",
+  "generated_at": "2026-07-15T19:10:33+00:00",
   "fx": {
-    "nzd_per_usd": 1.734969,
-    "as_of": "Tue, 14 Jul 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.7213,
+    "as_of": "Wed, 15 Jul 2026 00:02:32 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 85.26,
-      "latest_date": "2026-07-14",
-      "delta_1d_pct": 2.35,
-      "delta_30d_pct": -7.38,
+      "latest": 85.1,
+      "latest_date": "2026-07-15",
+      "delta_1d_pct": 0.44,
+      "delta_30d_pct": -10.4,
       "series": [
-        {
-          "date": "2025-07-14",
-          "usd": 69.21
-        },
         {
           "date": "2025-07-15",
           "usd": 68.71
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-07-14",
-          "usd": 85.26
+          "usd": 84.73
+        },
+        {
+          "date": "2026-07-15",
+          "usd": 85.1
         }
       ]
     },
     "wti": {
-      "latest": 79.61,
-      "latest_date": "2026-07-14",
-      "delta_1d_pct": 1.88,
-      "delta_30d_pct": -8.87,
+      "latest": 79.72,
+      "latest_date": "2026-07-15",
+      "delta_1d_pct": 0.48,
+      "delta_30d_pct": -13.5,
       "series": [
-        {
-          "date": "2025-07-14",
-          "usd": 66.98
-        },
         {
           "date": "2025-07-15",
           "usd": 66.52
@@ -2033,45 +2029,49 @@
         },
         {
           "date": "2026-07-14",
-          "usd": 79.61
+          "usd": 79.34
+        },
+        {
+          "date": "2026-07-15",
+          "usd": 79.72
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-07-14",
+    "as_of": "2026-07-15",
     "regular_91": {
-      "avg": 2.922,
+      "avg": 2.925,
       "min": 2.571,
-      "max": 3.199,
-      "count": 65
+      "max": 3.649,
+      "count": 69
     },
     "premium_95": {
-      "avg": 3.073,
-      "min": 2.769,
-      "max": 3.259,
-      "count": 23
+      "avg": 3.086,
+      "min": 2.756,
+      "max": 3.359,
+      "count": 32
     },
     "premium_98": {
-      "avg": 3.289,
-      "min": 3.289,
-      "max": 3.289,
-      "count": 1
+      "avg": 3.233,
+      "min": 3.026,
+      "max": 3.599,
+      "count": 9
     },
     "diesel": {
-      "avg": 2.414,
-      "min": 2.079,
+      "avg": 2.416,
+      "min": 2.136,
       "max": 3.999,
-      "count": 74
+      "count": 79
     },
     "lpg": {
-      "avg": 4.9,
-      "min": 4.9,
-      "max": 4.9,
-      "count": 1
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 68,
-    "observations_yesterday": 87,
+    "observations_today": 54,
+    "observations_yesterday": 126,
     "observations_older": 9
   },
   "mbie_waterfall": {
@@ -8612,12 +8612,6 @@
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWWR1TnpnM0wzMVEzdzdaSW5ETmFzck52ZzV3RF9DSFlONkxwSlBpWk1udTJuSUNxSEIyakVTNmpjQkV5MXBqRDdkZG1wV1EwV3VJaldVb3FERzVPYm5hcW1WblVMaEZzbjhXRE04Y3lsOG5pUXVOQXhueHpkQURSX21KU0FJQ0I3dlozNnY1NEdRSWRGaTdJRjY1djhrczVkX253MERPOERYdlRmMXR3Xw?oc=5"
       },
       {
-        "title": "Toyota NZ hybrids top petrol and diesel combined - B2B News",
-        "source": "B2B News",
-        "published": "Thu, 02 Jul 2026 21:38:07 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORmVoc3NDblRKajZpZzhrNmV0VFpMSTB2ZlBMLVlVQk5HNERLdktXWDBjY0g4eklIRU5GOUpEUFJaTXBRWnl0VXFuaWVweHp5Q1djZ1M5RDBPSU92X0lYa0lXUklCSDB2NUNXY3IyTXo0Ql90Ym8waFpUSWw0UlduaFhn?oc=5"
-      },
-      {
         "title": "X appeal: Electric, petrol PHEV and diesel X5s signed for NZ - Motoringnz",
         "source": "Motoringnz",
         "published": "Wed, 01 Jul 2026 00:34:28 GMT",
@@ -8628,14 +8622,26 @@
         "source": "1News",
         "published": "Tue, 30 Jun 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTzBPNGR2TW1jSWR6TjAxNGpKWUl1YmVKUVFld29OYmN6bTFqNTdqeW05S1B0bkFYSkdvZTZyU0dWaTM2SFdLbVVmZjNwSHQyLWQwS2MwSGNLeWFIaTBJMmxubFlCNHpxVTdjdV9pcm9xczZMVGJXUnJrQnQ5MWctMk5QTE9CY1dVVVRTeGln?oc=5"
+      },
+      {
+        "title": "Petrol dips below $3 but questions linger over price drop speed - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObjhGVURkMTQxYzFzSWdaOXN2cElraEZndG5KUzg3dnhVejRlQ2JaVlEtWHJBQmRKQnlfVmw4N1Q1YzlKTUI0WVhtcW1aMVZkWVBvUW1WTWZjVHM5ZzBkaERzRG1oeWdWWHBFQTQ1RUxZbkZNVTkwbUh1ZGw3NUhHWkpXNkpyaGJwOWZmejlGZ29BdWZzLWJVdkhxLXpabmdYbmUySlpzYzQyNko5cEQtWDJSbWVjNjhtSFhSczBYTEFMOHFkel9J?oc=5"
       }
     ],
     "global": [
       {
-        "title": "EU freezes Russia oil price cap for a week as sanctions delayed - politico.eu",
-        "source": "politico.eu",
-        "published": "Wed, 15 Jul 2026 18:17:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UbjRLbk0wQlMtZmpxWHAzQkVJdnVhbVlFclJNZkxLVWt3c1dZQ0wwNUpGc0ZrbGYwd2tFdmZ6U2hWWmk1by1TX0lvZ3BlX2dOT0l0UEY3eDZZS3lBSWs5Znd5cllfVnFhUWFGMF90NW02dU1KeVpNVFp1ZXk2SVk?oc=5"
+        "title": "EU sticks to Russia oil price cap for now, despite high prices - Yahoo",
+        "source": "Yahoo",
+        "published": "Wed, 15 Jul 2026 18:49:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXhETEM0U21HUWJJMWRTYzF4T2RtamQ5WllUVC1kOFhfZGpWSnhpZm9HVVRZbHMtVkdHLTFWenNxbUFiaWdaeW1ackxQY3VjX2M5ZG1xZWRLZnc0c0JyNC1CdFlPM3pmYlZ3ZVFsZTVTMFNNREZHMzA5VVRMM1dRWEhGNy12bVlBSUgtSVNRWQ?oc=5"
+      },
+      {
+        "title": "Dollar weakens as producer prices cool, Middle East tensions rise - Crypto Briefing",
+        "source": "Crypto Briefing",
+        "published": "Wed, 15 Jul 2026 18:30:39 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSXlBSGx4NkdQTlBzNmZUaXFFN0w0eURmT1QzTFdrUXhxcThsQkJURVlYSDRsUUo4SXhSWUxkbHVhYklRZzc5dXJyZzdFenExMWNZbWZFVGtLOWxVaEtEelZxM2FFLUFoMXJfMFJPeGFnNF9XaDFkeFFSbU43SHpDS0dQSEFac0loZGw2SncyOXBkSVNPR3VN?oc=5"
       },
       {
         "title": "WTI Crude Oil futures paused as U.S.-Iran tension escalated. - CME Group",
@@ -8666,12 +8672,6 @@
         "source": "EnergyNow.com",
         "published": "Wed, 15 Jul 2026 15:03:52 GMT",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN3Y1MVB3RUk0OFhpLWdlR1I2YlQwc21jQWRFdnNBakh3SGhVZ2ZPZU1rNVZwNWxBMHpOcHZIRjBNalZNXzMya2xraFN6cDNCYlBKUVp0TDFockxGbThyMmhEWWZJNTdkcUxIb2ttQnZCZk1pNnVrUWgwWWMyLXpxYWlodFdnVUpqZWdaUVFESy1RY1lDLVZ5a2JjS1pKZk5tWEZ5U1BqWl9ydVNPOFRv?oc=5"
-      },
-      {
-        "title": "Oil and Brent Crude Oil Forecasts – Middle East Risk Appetite Drives Crude Oil Volatility - FXEmpire",
-        "source": "FXEmpire",
-        "published": "Wed, 15 Jul 2026 14:28:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNVNiWXMwX3BEYlpVWWVvbEY2ODAzN1EzZ2g5Mm0zeEgwbVNOdzVlU0Nmb1EtV0tJZGJZeUxDQm5BRFVNMkdxTDg2enlJWGd2d0F1UVRjMDhGdGpOM1czbTJTMUFva2RwOUJuU3hGRW1yUlJJNjdhQTVaU1pSNlB0WVd3ZFdUNGJodkN6V0Nyb29Ycl9wOFlFZXRoWTNkQ1g1MHJsWDV6TjlpS0NwN3hGWVJWakdBVmdZWjdlcGFEQ0ZXdkJpZkdIcUVuRjdSYlA0LVpLYQ?oc=5"
       },
       {
         "title": "IMF warns quick oil supply recovery essential to avoid economic damage - Quantum Commodity Intelligence",
