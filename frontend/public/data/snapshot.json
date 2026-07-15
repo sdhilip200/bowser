@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T04:14:42+00:00",
+  "generated_at": "2026-07-15T06:34:11+00:00",
   "fx": {
     "nzd_per_usd": 1.734969,
     "as_of": "Tue, 14 Jul 2026 00:02:31 +0000"
@@ -8582,6 +8582,12 @@
   "news": {
     "nz": [
       {
+        "title": "'Fill up now': Fuel to climb again amid renewed US-Iran conflict - 1News",
+        "source": "1News",
+        "published": "Wed, 15 Jul 2026 06:17:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNanpPNEM0czVnOG5XYk1VcDcwbnZKd3VkazZCNlV2Wm5GU2E1dkh1UXlBSDFVdU9Rb0ZncVlaUXhvS2ZELVlyZlBuUkF5bFdheW5ZYk1aZUhsNzJoSE9MeXExZy1HelBPaG94TnpGX0cyYklEbW12cjA0bVZhRU9fcmZ4Z3o3X2hiUmN3cVhGZlRiSnNwdUpWck44UFdsdw?oc=5"
+      },
+      {
         "title": "Diesel stocks dip as Iran and US barrel toward full-scale war again - BusinessDesk | NZ",
         "source": "BusinessDesk | NZ",
         "published": "Wed, 15 Jul 2026 03:55:24 GMT",
@@ -8622,17 +8628,29 @@
         "source": "1News",
         "published": "Tue, 30 Jun 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTzBPNGR2TW1jSWR6TjAxNGpKWUl1YmVKUVFld29OYmN6bTFqNTdqeW05S1B0bkFYSkdvZTZyU0dWaTM2SFdLbVVmZjNwSHQyLWQwS2MwSGNLeWFIaTBJMmxubFlCNHpxVTdjdV9pcm9xczZMVGJXUnJrQnQ5MWctMk5QTE9CY1dVVVRTeGln?oc=5"
-      },
-      {
-        "title": "Petrol dips below $3 but questions linger over price drop speed - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObjhGVURkMTQxYzFzSWdaOXN2cElraEZndG5KUzg3dnhVejRlQ2JaVlEtWHJBQmRKQnlfVmw4N1Q1YzlKTUI0WVhtcW1aMVZkWVBvUW1WTWZjVHM5ZzBkaERzRG1oeWdWWHBFQTQ1RUxZbkZNVTkwbUh1ZGw3NUhHWkpXNkpyaGJwOWZmejlGZ29BdWZzLWJVdkhxLXpabmdYbmUySlpzYzQyNko5cEQtWDJSbWVjNjhtSFhSczBYTEFMOHFkel9J?oc=5"
       }
     ],
     "global": [
       {
-        "title": "Oil rises as U.S. continues to strike Tehran, reinstates blockade of Iranian ports - CNBC",
+        "title": "Traders brace for $US100 oil as world races towards supply shock - AFR",
+        "source": "AFR",
+        "published": "Wed, 15 Jul 2026 06:18:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdFVyVlZWbVZIaTJNY3R3ZFl6SEdWMGZoNlo3Y21RODloVjNHZTFKYlAyY2dHMWpsTmx0Z0hwQjkxSlFud1Q0bk52ZzJkOXFzQk1YR0EtdXpsZ3BndURuallvdzVLZDBPOTB4RFNSS0poRXd1dGVfTGRETldvWHJYYTdBMERDRjVpcFJHMXFsd0dKVkFwc1RpTlpnVEQ1aVZhOE93WnpIbVVoSjhQaFdaNnFzckh3cnF1eDhr?oc=5"
+      },
+      {
+        "title": "US Sanctions Iran's 'Shamkhani Shipping Empire' with Sweeping Crackdown on Oil Network - Kurdistan24",
+        "source": "Kurdistan24",
+        "published": "Wed, 15 Jul 2026 05:24:38 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbE45d1hsWlZwZlNGOU5YMUFOUDBYdVRTVkdKZVhROGpzZHM2eGNkQTlDSmFQYmptYklIOE0zTHc3cGFkZmFzemVRZzl4MnlMYW95S2ozZWVQeDNRcFE5SGpqNWQtYUN1MEtVVVZHMmZVOHUyeWpSY3dtajZLbFBDSTVJbEc3aXJ0RHBaS1V5RlhtY0ZjQjEwbnVwS25obXNMa2FROUpDZmxDZWM0NXQ0WjZ6QkNhWVlQMHhsUGJXdUJKYlJUcXc?oc=5"
+      },
+      {
+        "title": "Oil prices rise 0.96 percent to $85.54 as Hormuz supply risks intensify - Economy Middle East",
+        "source": "Economy Middle East",
+        "published": "Wed, 15 Jul 2026 04:41:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcEdjMURVLUllVTBuS18tVVQzNHFWaGFsRTBFMWhGLWtYLWE4YV9HclFnLUlva1J0eTI0ajdRMTBEYm1UV1NzQUdjb1NxQ3hSYmJJZkRZMHFJNFZwNXJfejk3TzNtMzR1YVdUZy1tRF9qQS1kcnYxU2VWem9RZE9SQlFPQWlCZldwdTlscUtRZVhnaGRDU3ZwOGNndnJGd1lOYTVqdWxwX1ZNQQ?oc=5"
+      },
+      {
+        "title": "Oil rises after another round of U.S. strikes against Iran, naval blockade of the country's ports - CNBC",
         "source": "CNBC",
         "published": "Wed, 15 Jul 2026 02:57:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZHl4cGl1NE5DVVlMa005ODB6alhBQ3JzZFlKRnNJNUt5X3c3bEJSWWMzUHUxWTVUTUpRRDZTM3NGdm9UT3ZBSFdoVzRBdFVaVmNVOVpyNkxmbHRBS3pKcGZzNS04Wk5KMHFveHl0U0RLNmd6RlVKdHg0SHlxeGVuWGdkUXUzd9IBiwFBVV95cUxNLWRpZDZLVXZnZXB2QWE4SlpZbEZXMDFDR1hJOUJFc29HQUstQWNRVmhCaGlyaWpFZzJJa2NUc0t5VWpzUTdkUWpxNzN0dV9qM2dnMzE2VUNwRXBZeU92NndiZlNIbXg0TTcxaGw0TEFiX0QwNXVGQUIzZ1pIN0JVckpyMkhHdWUtQkNZ?oc=5"
@@ -8656,28 +8674,10 @@
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVjZBNHZqbUdXVjBrYjJEcVRGN1h6Z3lKS0FUb3B1MVVWOXF3UFZ3eXJqdXY1RkE1MXBSV0psS0FpZE9iSWdZcDFBZjZvX1RIWDM5UTJmT0wwcklESVNNMUUtcVhoaUhUVUtseUZrYXp2ZzQ5RXhnV1BQNFY5aUZOV0lKMDMxdXBQeXF2eHc3N1lSbVV5TUZYblUxU2ZJWlljblo5UEt0UVZhdw?oc=5"
       },
       {
-        "title": "Bipartisan senators push Russia oil sanctions bill, honoring late Sen. Graham - WIFR",
-        "source": "WIFR",
-        "published": "Wed, 15 Jul 2026 01:58:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaUlTMkt2ck1MajBGREtreDhqdnZBck05YnhSZU1IN1gteDRJSWhFdUJjbFpYSFVsX3hYSUVNaXlkUDVWVHRZWlJ6Z0xuTDE1c0NkMS04X1otcWVZRDRIR3AyMEo2ZENwRG1wN2hPYjZWb3dtdFhQa0Fzc3dJZlVnbmhxUnMtbjZyT3poVFRncG0wNm5LNWZCbjlVdXdXYzR1RUZXR005M1BMZ1940gHAAUFVX3lxTE01dFZDdnlWRDJ5aHZmZkN5NDFvWGxxS3RodFU0QTBUdXEtUnJqNnZjYURuRmhaekV3NkxGTGJHNGFRUHZFLW5CaGtvVFVyX285dmY1YjNVMV9BMVJJaGRzdVpxcWpxSDlqU3hRZzRlQkdNYVNWY2ZzT05Wb3E2TWhySzNnVUQ2WDc4WTJrUFJlWVRkSFhnUmJSRnp3V05uQ3RhTC1odEdEbHlmS0hoajJCcVZSNG1RS1pFOWdJT21oZw?oc=5"
-      },
-      {
         "title": "Bipartisan senators push Russia oil sanctions bill, honoring late Sen. Graham - Live 5 News",
         "source": "Live 5 News",
-        "published": "Wed, 15 Jul 2026 01:57:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRXJiem1uazBzejFycDhCSDhnTWZHVEZzdm84Nl81VlJVZV8xdmllcVlhdFBKQTBJdzZiV2dpVFRCeU42SVZfeVdGYVFkRFNaT0l0SG5BT29YVHZsX1V6YUNyWEVGdEZQSjZKTGpIc0I2bjM1Q1g4MFNTQnVDTFh1TnBUSkM0Tkk5bnVIejFZTHQzUVJPM21JXzVlcFRhTmFNVjk3eEFYMmViTDdpVmZCNnhpWUNabkZPY1VN?oc=5"
-      },
-      {
-        "title": "Bipartisan senators push Russia oil sanctions bill, honoring late Sen. Graham - WAFB",
-        "source": "WAFB",
-        "published": "Wed, 15 Jul 2026 01:57:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSXVQaE5WR3AzYVA1MDZ4b3JjNVlkbmRDY3IxNUFoSG9YQnlaNG15RHVESWp6TjJmME9lb2ViZTV0Y3ZkS05jNTJEcjhEWXdsVjk3U01wUkd0WnB6X0taOC03WklNbzJNVTJOZTk2RE43Zl9EVFlMWkc5TlVreF8tVGl0MS1RU3E1ZDNrclRmVTFILVhRQzI2V3BVSWVUVWFOQjNqWC1pa2lMcnNZc1VfdndQUW4?oc=5"
-      },
-      {
-        "title": "Bipartisan senators push Russia oil sanctions bill, honoring late Sen. Graham - KCTV",
-        "source": "KCTV",
-        "published": "Wed, 15 Jul 2026 01:57:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUWViTVh0bGRaTTFfaDNrRWVmRk9HeHhLektBb05CZU5ENzJVV1NYWXJNaGgyRVg1NzBhWjlRUGJPRnZsSkUzMWE1N3lITHBxS1NTR3ZTX0hpT1JXb3pfdjlZMUpEVTdwbm5xMzNJZjN2ZW9YVWpqdDdDZ1RtREVKT2RkYV9CaWJwRnZLQTUyYVhrRkRoc015eFVWOGhJdlpUbkQ4a1VENVZRTEhXbXNJUzZ5UGhhZw?oc=5"
+        "published": "Wed, 15 Jul 2026 01:58:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTk15NUZ6RG1NVDc2OWFld28yaC1RbHM5UjdxY0lUamZsWThPcFpaeG95YzFnSnVsYWZacEx2Z2NBcVJwRUp2Y1lqeG4zREw4bktPVWwtaUNnM2VIRWNZNGx3YzFIakJXaXFNN3ZiWUFabUFwWi1xNlBjYXVqck9TdzZhYlotSTBBU1htaFlaRVdaWGVmUmtsZEo3X0owYUxFS3RXQXRhdHc5X1RQSzItRUNlONIBxwFBVV95cUxNVi0xbDlQUG14RG5HejQzT0tZZW9Nb1JHQjZEYlZhM0E4UklsU040NXlhRXVfdG4tUHlFdFdnczNjTFc2NXFUN1dWbXlBOWF5YVQ0dlRSSVp6dkRfRHI5UkdPVnZBbWo5YUJyNEgwbGRkY3JUZENXUnpFalkteHJyZEFtc09HMjQ0bmZUTHpZV3V6UkUzSkE5VE9LR252VUplZnZmS3dxdFJLRDhRWmtNQjdnZ2xNQkxpRHpKUXh1SGl3OXdMNlEw?oc=5"
       }
     ]
   }
