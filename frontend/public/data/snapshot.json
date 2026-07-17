@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-07-17T18:31:35+00:00",
+  "generated_at": "2026-07-17T19:08:15+00:00",
   "fx": {
-    "nzd_per_usd": 1.712605,
-    "as_of": "Thu, 16 Jul 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.711376,
+    "as_of": "Fri, 17 Jul 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 84.29,
-      "latest_date": "2026-07-16",
-      "delta_1d_pct": -0.78,
-      "delta_30d_pct": -12.2,
+      "latest": 87.75,
+      "latest_date": "2026-07-17",
+      "delta_1d_pct": 4.18,
+      "delta_30d_pct": -10.29,
       "series": [
-        {
-          "date": "2025-07-16",
-          "usd": 68.52
-        },
         {
           "date": "2025-07-17",
           "usd": 69.52
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-07-16",
-          "usd": 84.29
+          "usd": 84.23
+        },
+        {
+          "date": "2026-07-17",
+          "usd": 87.75
         }
       ]
     },
     "wti": {
-      "latest": 78.39,
-      "latest_date": "2026-07-16",
-      "delta_1d_pct": -1.52,
-      "delta_30d_pct": -16.39,
+      "latest": 81.42,
+      "latest_date": "2026-07-17",
+      "delta_1d_pct": 3.13,
+      "delta_30d_pct": -15.21,
       "series": [
-        {
-          "date": "2025-07-16",
-          "usd": 66.38
-        },
         {
           "date": "2025-07-17",
           "usd": 67.54
@@ -2033,36 +2029,40 @@
         },
         {
           "date": "2026-07-16",
-          "usd": 78.39
+          "usd": 78.95
+        },
+        {
+          "date": "2026-07-17",
+          "usd": 81.42
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-07-16",
+    "as_of": "2026-07-17",
     "regular_91": {
-      "avg": 2.864,
+      "avg": 2.916,
       "min": 2.536,
-      "max": 3.159,
-      "count": 71
+      "max": 3.819,
+      "count": 84
     },
     "premium_95": {
-      "avg": 3.058,
-      "min": 2.596,
+      "avg": 3.102,
+      "min": 2.619,
       "max": 3.507,
-      "count": 49
+      "count": 46
     },
     "premium_98": {
-      "avg": 3.17,
-      "min": 2.866,
-      "max": 3.349,
-      "count": 7
+      "avg": 3.198,
+      "min": 3.027,
+      "max": 3.379,
+      "count": 9
     },
     "diesel": {
-      "avg": 2.393,
-      "min": 1.966,
+      "avg": 2.442,
+      "min": 2.226,
       "max": 3.999,
-      "count": 85
+      "count": 88
     },
     "lpg": {
       "avg": 0.0,
@@ -2070,9 +2070,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 41,
-    "observations_yesterday": 162,
-    "observations_older": 9
+    "observations_today": 13,
+    "observations_yesterday": 206,
+    "observations_older": 8
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8632,10 +8632,16 @@
     ],
     "global": [
       {
+        "title": "August WTI Crude Oil Contract Closes Up $3.54, or 4.5%; Settles at $82.49 per Barrel - marketscreener.com",
+        "source": "marketscreener.com",
+        "published": "Fri, 17 Jul 2026 18:37:16 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYy1kNFhPbnRWN1JsNnRheFN6SlFlV0JjWTVkcEo5M0FidHIzNHYzRTZWQTRaYlo0Njk5ek9GNWN4UDNWanQ2S1d3TjJqM2REd2Nyd05JZ2ZTQkRXZEZvTXRVeXdtNmpLTTFoSDNqazR5S3pDTHpUbjZvSUgyWXNYQ1NDLUVSWURjd281ZlIwOERmU3p2ZzdrT203OTkxQWNCV0hZdENFYVk3eUJRQno5NHdCem0xbC1VM1BRQXlLTmdjTXF4aGxSSUFMdkY?oc=5"
+      },
+      {
         "title": "US Oil Drilling Picks Up As Brent Gains 4% - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Fri, 17 Jul 2026 17:27:07 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUW42SU8wcWlDdEdoRHNDNkg0dTd4eGxyUU00ejRITEFNWm5SSXhkcTN0X0pvSDJaenZUQjNNX1NtUktNVVZNTV9qNTdkOGIxcWJGYTg1bVcxYkNCSHN3aHhaTmJuQVA3RTM4QUE1R1lZTHpBRjFpME9nYUw5Z1pzV0lnM0NReWtnWFByR01wRl9lbDDSAZgBQVVfeXFMT19hYTFJcDR4bVRXcHgwaUluWkttenRKMXBmalVERnR6RzNKZ2ZmUkJiejNBQmdsQzVUUlA3R0s4a2hQdm40bWt2cjA5NXJCaF83TVg3N094cHlHN3U4NU9YZ0wyTTFNVEhmMWozQ1lWRXZfYl9ra2tUMWFabzRpck9zQTRoLVZ4LVA4djRGS05VRVBtbzBrc1c?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUW42SU8wcWlDdEdoRHNDNkg0dTd4eGxyUU00ejRITEFNWm5SSXhkcTN0X0pvSDJaenZUQjNNX1NtUktNVVZNTV9qNTdkOGIxcWJGYTg1bVcxYkNCSHN3aHhaTmJuQVA3RTM4QUE1R1lZTHpBRjFpME9nYUw5Z1pzV0lnM0NReWtnWFByR01wRl9lbDA?oc=5"
       },
       {
         "title": "Global release of oil reserves averted Asian economic slowdown, Japan finds - Nikkei Asia",
@@ -8672,12 +8678,6 @@
         "source": "facebook.com",
         "published": "Fri, 17 Jul 2026 16:00:39 GMT",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOU3JoYzFMc3FRWnp0bVh5VHVRcXdVU29rUGc1QkRaVjFKZzFjaE5XWXZZUmdrME9QZnhRVjVIUnlZR0RIYzNaQzRGN040MENZRUh5b2I5SHV0Z25MbEN2cVNVR1FDa1VZVHptWkxiODBrNlBVSnlvcEVMVDBDcms3MG5vTTloTTd3VkxlYkhfbklYUlRqSXJWZXpQUGgzeTUzLWduOUEzeEl4VEN2RFY0Ql82dXY1UUJFWlB6d2VHaHU3Nk10QlkzMXpuMFlsaUNQZDVDR1g3Zw?oc=5"
-      },
-      {
-        "title": "WTI Crude Oil: Elliott Wave Analysis and Forecast for 17.07.26–24.07.26 - LiteFinance",
-        "source": "LiteFinance",
-        "published": "Fri, 17 Jul 2026 13:40:38 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNV2tQb2Y3V29rMV9MNWZYRjBIaVR3b2JVREJaOU05WUMwdW9YZjdOZ282QVE4YTJmUFc5WG9ucnV3Y3NUazRzNlRyaURtUWxjNC1NNHNZQXNfWnJ4eWtJcGk3WjljalJSOENReFlhanUyTllhQVlFaHBSNWotWUdyV20tYUpQSGZaNlc5ODNFU3FjZ0VFY2xGNGdXaXJfR1AwXzhBYmtQb2lZS0FveTRmZlBsc3dkd2J0YThOWjc0ejZGdDdkNVdJSVJycTB2c2o5YmllXzYzUDJyWUJnWFBUOC1n?oc=5"
       }
     ]
   }
