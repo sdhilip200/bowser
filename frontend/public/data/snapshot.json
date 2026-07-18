@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-07-18T18:39:42+00:00",
+  "generated_at": "2026-07-18T19:03:16+00:00",
   "fx": {
-    "nzd_per_usd": 1.711376,
-    "as_of": "Fri, 17 Jul 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.711859,
+    "as_of": "Sat, 18 Jul 2026 00:02:32 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 87.75,
+      "latest": 88.1,
       "latest_date": "2026-07-17",
-      "delta_1d_pct": 4.18,
-      "delta_30d_pct": -10.29,
+      "delta_1d_pct": 4.59,
+      "delta_30d_pct": -9.93,
       "series": [
-        {
-          "date": "2025-07-17",
-          "usd": 69.52
-        },
         {
           "date": "2025-07-18",
           "usd": 69.28
@@ -1017,20 +1013,16 @@
         },
         {
           "date": "2026-07-17",
-          "usd": 87.75
+          "usd": 88.1
         }
       ]
     },
     "wti": {
-      "latest": 81.42,
+      "latest": 82.49,
       "latest_date": "2026-07-17",
-      "delta_1d_pct": 3.13,
-      "delta_30d_pct": -15.21,
+      "delta_1d_pct": 4.48,
+      "delta_30d_pct": -14.09,
       "series": [
-        {
-          "date": "2025-07-17",
-          "usd": 67.54
-        },
         {
           "date": "2025-07-18",
           "usd": 67.34
@@ -2033,36 +2025,36 @@
         },
         {
           "date": "2026-07-17",
-          "usd": 81.42
+          "usd": 82.49
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-07-17",
+    "as_of": "2026-07-18",
     "regular_91": {
       "avg": 2.916,
       "min": 2.536,
       "max": 3.819,
-      "count": 84
+      "count": 83
     },
     "premium_95": {
-      "avg": 3.102,
-      "min": 2.619,
-      "max": 3.507,
-      "count": 46
+      "avg": 3.116,
+      "min": 2.756,
+      "max": 3.359,
+      "count": 49
     },
     "premium_98": {
-      "avg": 3.198,
+      "avg": 3.295,
       "min": 3.027,
-      "max": 3.379,
-      "count": 9
+      "max": 3.62,
+      "count": 16
     },
     "diesel": {
-      "avg": 2.442,
+      "avg": 2.452,
       "min": 2.226,
       "max": 3.999,
-      "count": 88
+      "count": 84
     },
     "lpg": {
       "avg": 0.0,
@@ -2070,9 +2062,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 13,
-    "observations_yesterday": 206,
-    "observations_older": 8
+    "observations_today": 0,
+    "observations_yesterday": 201,
+    "observations_older": 31
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8580,7 +8572,105 @@
   },
   "fuel_stocks": null,
   "news": {
-    "nz": [],
-    "global": []
+    "nz": [
+      {
+        "title": "New Zealand Fuel Prices Fell Again, But The Yearly Bill Is Up - Finimize",
+        "source": "Finimize",
+        "published": "Fri, 17 Jul 2026 00:44:40 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORk9hekhRdWJxY0dYZC1za1R2LVJMNGVhd1A5R1M0N3ZyaGt4bk1qaG1oRHpnWkx0WjJ1ZzdGS1ZXcWtuWjI3TWx2UDNSMnFWNjR5MlFiaWROc2Zlci1aTVhpR1NEa0dXRXdhck1qalBDU1QzM3RyZE9UOWV5MW1LRmxaNXNKbFV0d2tJclNKNjRRUWs?oc=5"
+      },
+      {
+        "title": "Petrol and diesel prices see monthly drop, two years of non-stop milk price hikes - Interest.co.nz",
+        "source": "Interest.co.nz",
+        "published": "Thu, 16 Jul 2026 23:28:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU3hIMmhEcXlRMFJsUE50eHdGaWk4VjBCM3RTcnRDUTV3NkxtT1ZZSnhzazR5UFlFMThJWFk4N3BnbGlKOXJLSU5YdFo4U1ZucHFJVXYzaVBWb2pmTUNyc3pidFZuMzJvcDlrd0QxTExJNFdoVTVScDdTR2RsUUFyLVU4U3Jqa1otNzlabFUteW1RSVVSZFFxak9LYnBzMmkyQWtVLXIzSDlnN3hQSUN5ZFBkdEJvMGZJVTV3?oc=5"
+      },
+      {
+        "title": "Motorists queue for fuel as prices tipped to rise again - Indianweekender",
+        "source": "Indianweekender",
+        "published": "Thu, 16 Jul 2026 05:07:28 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHljQURXbzNSSHNoNXJSLUZMN1p3cVVvWHVSYm93TU5OTWRYNmxLYVZjZzh1UzJwUjBGMFEwaWsyZDh2MzU3aXV6ZkYzODRYajhKMGpCNU1DMm8zYUZCMmctbUwzX0FXVVdSTThUQU1NQlRRUkRacXl0SGNJb2k2NVI4QWs0SXNHYXUzUWtjcWplVFQ4a2duMzl6ZmtjVkZhRjFvZTg1UWJ6Z9IBqgFBVV95cUxPNHljQURXbzNSSHNoNXJSLUZMN1p3cVVvWHVSYm93TU5OTWRYNmxLYVZjZzh1UzJwUjBGMFEwaWsyZDh2MzU3aXV6ZkYzODRYajhKMGpCNU1DMm8zYUZCMmctbUwzX0FXVVdSTThUQU1NQlRRUkRacXl0SGNJb2k2NVI4QWs0SXNHYXUzUWtjcWplVFQ4a2duMzl6ZmtjVkZhRjFvZTg1UWJ6Zw?oc=5"
+      },
+      {
+        "title": "People queue for petrol amid warning return to war will blow out prices again - Stuff",
+        "source": "Stuff",
+        "published": "Thu, 16 Jul 2026 02:14:03 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRlpKY3MyX3AwS2RXaVpGWXhDZGdZMUlTSkdMTWthRFFJNnRSR1ZzWHFVakdoTFI0Z3lfSkZyQnlZNEtwNGxmRU1kc2l5THF5eUZmZnhhZllJcndCLUE4N3BzLVFlR3o0aWx3VTN2N19sanBJelBNRlgyLVliZG1kMVNhaGk1TVpPSnlWTFdaQ3dDTEhXYTlDd1hmX05Qd2M3QjN6U2ZjUzlaTFFmWjhn?oc=5"
+      },
+      {
+        "title": "'Fill up now': Fuel to climb again amid renewed US-Iran conflict - 1News",
+        "source": "1News",
+        "published": "Wed, 15 Jul 2026 04:47:35 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNanpPNEM0czVnOG5XYk1VcDcwbnZKd3VkazZCNlV2Wm5GU2E1dkh1UXlBSDFVdU9Rb0ZncVlaUXhvS2ZELVlyZlBuUkF5bFdheW5ZYk1aZUhsNzJoSE9MeXExZy1HelBPaG94TnpGX0cyYklEbW12cjA0bVZhRU9fcmZ4Z3o3X2hiUmN3cVhGZlRiSnNwdUpWck44UFdsdw?oc=5"
+      },
+      {
+        "title": "Diesel stocks dip as Iran and US barrel toward full-scale war again - BusinessDesk | NZ",
+        "source": "BusinessDesk | NZ",
+        "published": "Wed, 15 Jul 2026 03:55:24 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjZEZ1hfZHIwa3dwVzVJbVZQZWVOQXVTa3plR2JJc0t1X2NTV2NmY3VNWXc5djZOY2paOXBzWC1QajNGVi05Z2cyd2doV1ZpRDBreUo4bmF1MHpHVzA5eTlVSFhobW51UTBUSDkwcGNfNUdJZFRyalZBQ0ZoZ1ZncTRkLU9PbFNvTG93VWxzZE5PUDl5ZWFpcDB3enJoMm5LcVhScFgyZGg1M1U1V0RyamJMZW1QY2s?oc=5"
+      },
+      {
+        "title": "Fuel prices face renewed pressure amid Middle East tensions - Indianweekender",
+        "source": "Indianweekender",
+        "published": "Mon, 13 Jul 2026 04:57:59 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWh3dUwza3dYbFR2Ylp0Nmg5amVFNHZ6V0NTRWRtYk9FemFBV1puTk5Ic3pBMUFfVGFoYm1mM1Z2Y3pybUVrNHZDeEx5eGtnSzl6cUVBNDlrU09aeWpqMzhHaWk5djlTQ0lFY0s5M1h2UmVPMm9wdXhsY0ZEVjJycGFFS0twMi02S2dPc2NPRU1xUHhma0tJZDNpOXNyNzjSAa8BQVVfeXFMT3h0aFJ0Z2poZnhWT0VHc1c2eWI1OEhMZ2ptdllRSmtlLTFkQ0xtZ1FFOXJmT1V0TmdrbEExSTYzUDRXczBvbmhtNWdoS3VlQlo4cExqWW9Qa2t6OENWZXRqR05raFl2NlZPVUJJa2ExUWhBbmFWMkhFYzNxM2dETkZYQjZZeU9KMENFTGhyY24xTGNmWEZwdXJrckNXeXBrYW40SnVFdkR0RFA5MEdXVQ?oc=5"
+      },
+      {
+        "title": "‘As good as it’s going to get’: Fuel prices under pressure again amid geopolitical volatility - Stuff",
+        "source": "Stuff",
+        "published": "Mon, 13 Jul 2026 03:17:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMnBJSGxwTThWRE9FVFBqdmZlLXVQWm40b1J6MVRaOVlpUWtCc21Ka1FyVWtJenFIenRrYUhWMGRBR2EySW1VRlZfOGdRYzNnR19fb0g5eElsZ25naWFOa3o2Yi15ZkE2TzFrWEVia3lVeEFuSkczQTZYOWp2eWQtUUI4Yk5yRzV1RFRrU2FkcHRrekhwZkh2dmdQZkdfQkVQMjEwQUpHTFE5bWVYYWRHMGd2bjNZMmtvRWtTZQ?oc=5"
+      }
+    ],
+    "global": [
+      {
+        "title": "Brent Crude Hits $88 as Iran Extends War From Hormuz to Kuwait Drinking Water - Tech Times",
+        "source": "Tech Times",
+        "published": "Sat, 18 Jul 2026 16:09:24 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaWwtS2hFTUFzVFgxeDluM3V0LWJiRTYwbEdpSE5lNDdmbGtRWFlFZlk5WERvZEtVX3NERDJCc2JGX2dXUFZtUzdQSmlJd1BiUjF4UnI5a05kYnJGd0hpVmc0ZzEycEVtUEtjNFBJenhNWm40X3dSV1ctX3NEQm14eGxWV2ZSSXA0ZVY1dEp6RDBpMHFpb0FQQnV0SU4zd2RYdUNVWVdUWkpiOHBMSFRRNnhCeEpiM2JSMGVyVw?oc=5"
+      },
+      {
+        "title": "Oil and Gas Employment Hits a 2026 Low Even as Production Sets Records - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Sat, 18 Jul 2026 15:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPamgxSThVdnNOMTVuS0lZU2xFRGJXTUdNMEhMaUItTWoxUl80WWFxUWVVbkl0SnhHcUt0QnNEQnJXcklOQkd5bndBdkpXSkZWM2VfSVNCajRIV09fTFN6Q0hXSk94UUF1YUhid3RwSlFXNnVOQXdjbFp3TkphNWZxTjMwdkdYZGZTcmRvMDJxSzN3VE1NWWE4Q1RNbUE2YmJaMy1MblR0LXpHcGxKSkh5bjBBQdIBuAFBVV95cUxQMlBIN2NHQTVwRHJjbWtOYTBpUlFkdE1MME5mcHBnTWpUMlJVVkZVUWJ2a3MwLVBIQXRnYlM1Q28wOWlHS293aGVjS09BMDRQeW5ieXpFeXZEZlhyYkxKMGJ6YjhFaWVDbXpuellTcml0UDF3NVRlRmZZUEdEZE5CaXdadFg2QkpKT3RXVEE3QzFaWUlyTFBHcWFnemptUnptX3dJY28xZkg5OFlFZmppM3lvenpOZXF4?oc=5"
+      },
+      {
+        "title": "Global Oil Supply Is Being Squeezed From Two Directions at Once. Here Are the Best Energy Stocks to Buy. - The Motley Fool",
+        "source": "The Motley Fool",
+        "published": "Sat, 18 Jul 2026 08:35:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPX050Zks2TmI3X2JJbUdaaU1UODVTX0JpWHhDejhVSTdKV2w2SWxkOE1HSHRMMHVMcExqSzBxOGhoMnpOd0d3S1BaeEVFb1ZKeGVHSVh6aFZ6VFk0QUlwZVJybE1PSEdiX1pTMXk4ODFfdy1wWjdQZ0JpMnlMVmR6UlhvMGJMODJ0Nkp1R0EtdnR6aURnVXljU21oZjZoaU1XX2xYdVNWbGxvSmlLSjgxRVBxenYzaTRHMi1zUXZDM3ZfT0hxQnhSX2Z6QTNrZk5XRTIwaF9mWkphR2c1SHc?oc=5"
+      },
+      {
+        "title": "Global Oil Supply Is Being Squeezed From Two Directions at Once. Here Are the Best Energy Stocks to Buy. - The Globe and Mail",
+        "source": "The Globe and Mail",
+        "published": "Sat, 18 Jul 2026 08:17:02 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQWVZ5MWg2VFRZRk1QNi1Rc0pfYnU4QmU0T0tzZlUtbFBwdGtWOXVmalhsZ0Q0NGdGb081dFNVWU5tM1BLRDdyaWxMRTVFWGx6eU1UMHByLWxqVFpSWEQxS0VPVzhzbHFobll6anZnVWlTTktyQlA3NXE0STJUWVg0NmlPeFdCbzhpUnhnbG44TUVGcS1CbjBnb1poLXdIb2lXMTltT2dseG9fdThiOEp6OE5saGVVbE5nNFgtLTVvTkgxRWNlV1hkN0xwdDdmYTBhcDczbXFucWt1VWtxcWZ4bHFPYnlvMk9QYzNJeXdEbWhDel9BQ3VXTTlreVN6SDNfLWJRdnhvc21CSXlSb0E?oc=5"
+      },
+      {
+        "title": "Goldman Sachs Says Global Oil Demand Takes Big Hit, Sees Risks to Price Forecast - EnergyNow.com",
+        "source": "EnergyNow.com",
+        "published": "Sat, 18 Jul 2026 06:27:17 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN3Y1MVB3RUk0OFhpLWdlR1I2YlQwc21jQWRFdnNBakh3SGhVZ2ZPZU1rNVZwNWxBMHpOcHZIRjBNalZNXzMya2xraFN6cDNCYlBKUVp0TDFockxGbThyMmhEWWZJNTdkcUxIb2ttQnZCZk1pNnVrUWgwWWMyLXpxYWlodFdnVUpqZWdaUVFESy1RY1lDLVZ5a2JjS1pKZk5tWEZ5U1BqWl9ydVNPOFRv?oc=5"
+      },
+      {
+        "title": "U.S.-Iran tensions reignite oil markets: Brent crude surges nearly 16% for the week as fears of a Strait of Hormuz blockade trigger a sharp spike in risk premium. - Moomoo",
+        "source": "Moomoo",
+        "published": "Sat, 18 Jul 2026 06:01:04 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcmZDb0EydHgtYlRhLXFjTXMyTFdtZ0xCMnl1T3pyTWpURXVRSW9KQXJNVXhScDlGRVhqdF9HcUpSRDlSSXktMnVkeHpRMnV4WWRPeUYzdk5iYVhGSm5ITnJKTVpodXFSTFdTY0MyeXFWbmxfa0ljaVlXcHNZY2xfaVp3Sk1pS0Z0aEFvZ0pmS2NTZDQyTU9QbjZPbHRTeFpDc2NxQktSdEc?oc=5"
+      },
+      {
+        "title": "WTI Crude Oil futures climbed to a five-week high. - CME Group",
+        "source": "CME Group",
+        "published": "Sat, 18 Jul 2026 04:00:42 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRm5LZFZ3ZWRLMDVQV2FfR3dwdTdyTTNRN3F1MThraE9tUE9mcWRuWERvZUVYZGZoeFJXc1VFTkpIUkFtVWp1T2JSZXRxSG8teEEyQUVPT1BZdXlvX1d3WlNhSVNKY2ZQbVBKX184OHlvZGt4QUxaYkd1ck55d2hkLURwWHJDRDk4VXFQUnZVVFJRTjB4UFh3Y0lLcnBlYUNPZ2FFZFYzTWg?oc=5"
+      },
+      {
+        "title": "Big-time oil price hikes loom in the third week of July as the United States and Iran battled over the vital Strait of Hormuz in the renewed Middle East war, the Department of Energy said. | via ANC 24/7 Link to full story in the comment section. - facebook.com",
+        "source": "facebook.com",
+        "published": "Sat, 18 Jul 2026 03:58:24 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOU3JoYzFMc3FRWnp0bVh5VHVRcXdVU29rUGc1QkRaVjFKZzFjaE5XWXZZUmdrME9QZnhRVjVIUnlZR0RIYzNaQzRGN040MENZRUh5b2I5SHV0Z25MbEN2cVNVR1FDa1VZVHptWkxiODBrNlBVSnlvcEVMVDBDcms3MG5vTTloTTd3VkxlYkhfbklYUlRqSXJWZXpQUGgzeTUzLWduOUEzeEl4VEN2RFY0Ql82dXY1UUJFWlB6d2VHaHU3Nk10QlkzMXpuMFlsaUNQZDVDR1g3Zw?oc=5"
+      }
+    ]
   }
 }
