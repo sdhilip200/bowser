@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-19T18:40:58+00:00",
+  "generated_at": "2026-07-19T19:05:27+00:00",
   "fx": {
-    "nzd_per_usd": 1.711859,
-    "as_of": "Sat, 18 Jul 2026 00:02:32 +0000"
+    "nzd_per_usd": 1.711908,
+    "as_of": "Sun, 19 Jul 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
@@ -11,10 +11,6 @@
       "delta_1d_pct": 4.59,
       "delta_30d_pct": -9.93,
       "series": [
-        {
-          "date": "2025-07-18",
-          "usd": 69.28
-        },
         {
           "date": "2025-07-21",
           "usd": 69.21
@@ -1018,15 +1014,11 @@
       ]
     },
     "wti": {
-      "latest": 82.49,
+      "latest": 81.78,
       "latest_date": "2026-07-17",
-      "delta_1d_pct": 4.48,
-      "delta_30d_pct": -14.09,
+      "delta_1d_pct": 3.58,
+      "delta_30d_pct": -14.83,
       "series": [
-        {
-          "date": "2025-07-18",
-          "usd": 67.34
-        },
         {
           "date": "2025-07-21",
           "usd": 67.2
@@ -2025,36 +2017,36 @@
         },
         {
           "date": "2026-07-17",
-          "usd": 82.49
+          "usd": 81.78
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-07-18",
+    "as_of": "2026-07-19",
     "regular_91": {
-      "avg": 2.916,
+      "avg": 2.911,
       "min": 2.536,
       "max": 3.819,
-      "count": 83
+      "count": 60
     },
     "premium_95": {
-      "avg": 3.116,
+      "avg": 3.079,
       "min": 2.756,
-      "max": 3.359,
-      "count": 49
+      "max": 3.429,
+      "count": 21
     },
     "premium_98": {
-      "avg": 3.295,
+      "avg": 3.227,
       "min": 3.027,
-      "max": 3.62,
-      "count": 16
+      "max": 3.349,
+      "count": 7
     },
     "diesel": {
-      "avg": 2.452,
+      "avg": 2.479,
       "min": 2.226,
       "max": 3.999,
-      "count": 84
+      "count": 72
     },
     "lpg": {
       "avg": 0.0,
@@ -2062,9 +2054,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 0,
-    "observations_yesterday": 201,
-    "observations_older": 31
+    "observations_today": 50,
+    "observations_yesterday": 71,
+    "observations_older": 39
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8576,7 +8568,7 @@
       {
         "title": "Is New Zealand's economic recovery coming at last? - 1News",
         "source": "1News",
-        "published": "Sun, 19 Jul 2026 14:36:33 GMT",
+        "published": "Sat, 18 Jul 2026 20:02:40 GMT",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbW54X3k5V1ZqWnFiLVRXT1k2d1RMQTY0S1hNbldVdXNWNkNVTi16dVZ2WHk2VWZlcE5ORXNuUFR5eE9feWttSzRzNnpVRHZWZ1FaeU4zT2JQdFNySmdESWJSRlJVZGVONnNxZnJzTjFqUkFacnVQZ3BoRUlWYnhCdXhvSG5nM0VJSUtNRg?oc=5"
       },
       {
