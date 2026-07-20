@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-20T19:11:44+00:00",
+  "generated_at": "2026-07-20T19:43:14+00:00",
   "fx": {
-    "nzd_per_usd": 1.711908,
-    "as_of": "Sun, 19 Jul 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.713004,
+    "as_of": "Mon, 20 Jul 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 88.1,
-      "latest_date": "2026-07-17",
-      "delta_1d_pct": 4.59,
-      "delta_30d_pct": -9.93,
+      "latest": 88.78,
+      "latest_date": "2026-07-20",
+      "delta_1d_pct": 0.77,
+      "delta_30d_pct": -6.58,
       "series": [
         {
           "date": "2025-07-21",
@@ -1010,14 +1010,18 @@
         {
           "date": "2026-07-17",
           "usd": 88.1
+        },
+        {
+          "date": "2026-07-20",
+          "usd": 88.78
         }
       ]
     },
     "wti": {
-      "latest": 81.78,
-      "latest_date": "2026-07-17",
-      "delta_1d_pct": 3.58,
-      "delta_30d_pct": -14.83,
+      "latest": 82.24,
+      "latest_date": "2026-07-20",
+      "delta_1d_pct": -0.3,
+      "delta_30d_pct": -11.61,
       "series": [
         {
           "date": "2025-07-21",
@@ -2017,36 +2021,40 @@
         },
         {
           "date": "2026-07-17",
-          "usd": 81.78
+          "usd": 82.49
+        },
+        {
+          "date": "2026-07-20",
+          "usd": 82.24
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-07-19",
+    "as_of": "2026-07-20",
     "regular_91": {
-      "avg": 2.911,
-      "min": 2.536,
-      "max": 3.819,
+      "avg": 2.919,
+      "min": 2.676,
+      "max": 3.3,
       "count": 60
     },
     "premium_95": {
-      "avg": 3.079,
+      "avg": 3.113,
       "min": 2.756,
-      "max": 3.429,
-      "count": 21
+      "max": 3.289,
+      "count": 27
     },
     "premium_98": {
-      "avg": 3.227,
+      "avg": 3.189,
       "min": 3.027,
-      "max": 3.349,
-      "count": 7
+      "max": 3.319,
+      "count": 8
     },
     "diesel": {
-      "avg": 2.479,
+      "avg": 2.47,
       "min": 2.226,
-      "max": 3.999,
-      "count": 72
+      "max": 2.817,
+      "count": 75
     },
     "lpg": {
       "avg": 0.0,
@@ -2054,9 +2062,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 50,
-    "observations_yesterday": 71,
-    "observations_older": 39
+    "observations_today": 79,
+    "observations_yesterday": 82,
+    "observations_older": 9
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8572,12 +8580,6 @@
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY2lXcjl1M014WFk5NllLZjlDNk1wZVE5MktNMUR5dmkzSjBmSXljaDNpS1lQVEV0dXFhV2E4dm8xQXQxR2s3ZVRBMjlCZklydkFrMmxiZ1hBenU5RXd5emRSeDhoUDZKbVhmYU5sUUROOWNJa2l2MmdoZEQ4cFIxME84QXMzbGw5SDhUTzBFVlgwMkhSU1JRT005QlZ3cm9sOGREUnVR?oc=5"
       },
       {
-        "title": "New Zealand's demand for electric vehicles surges amid fuel shock - Bitget",
-        "source": "Bitget",
-        "published": "Mon, 20 Jul 2026 07:09:44 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWMFFrdngxTTFIbXI0ZG0wM05sWmFhSkw4eGt1aUEyQ1N3TmlNVmhkZjBwc2xwSE43Sk9kM19EQmprNGFoZG01TjFsOEZ0R1BMZzNuSkZfZFVBcnNHbVRmVTl5c9IBY0FVX3lxTFBWMFFrdngxTTFIbXI0ZG0wM05sWmFhSkw4eGt1aUEyQ1N3TmlNVmhkZjBwc2xwSE43Sk9kM19EQmprNGFoZG01TjFsOEZ0R1BMZzNuSkZfZFVBcnNHbVRmVTl5cw?oc=5"
-      },
-      {
         "title": "Is New Zealand's economic recovery coming at last? - 1News",
         "source": "1News",
         "published": "Sat, 18 Jul 2026 20:02:40 GMT",
@@ -8608,6 +8610,12 @@
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNanpPNEM0czVnOG5XYk1VcDcwbnZKd3VkazZCNlV2Wm5GU2E1dkh1UXlBSDFVdU9Rb0ZncVlaUXhvS2ZELVlyZlBuUkF5bFdheW5ZYk1aZUhsNzJoSE9MeXExZy1HelBPaG94TnpGX0cyYklEbW12cjA0bVZhRU9fcmZ4Z3o3X2hiUmN3cVhGZlRiSnNwdUpWck44UFdsdw?oc=5"
       },
       {
+        "title": "Fuel prices face renewed pressure amid Middle East tensions - Indianweekender",
+        "source": "Indianweekender",
+        "published": "Mon, 13 Jul 2026 04:57:59 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWh3dUwza3dYbFR2Ylp0Nmg5amVFNHZ6V0NTRWRtYk9FemFBV1puTk5Ic3pBMUFfVGFoYm1mM1Z2Y3pybUVrNHZDeEx5eGtnSzl6cUVBNDlrU09aeWpqMzhHaWk5djlTQ0lFY0s5M1h2UmVPMm9wdXhsY0ZEVjJycGFFS0twMi02S2dPc2NPRU1xUHhma0tJZDNpOXNyNzjSAa8BQVVfeXFMT3h0aFJ0Z2poZnhWT0VHc1c2eWI1OEhMZ2ptdllRSmtlLTFkQ0xtZ1FFOXJmT1V0TmdrbEExSTYzUDRXczBvbmhtNWdoS3VlQlo4cExqWW9Qa2t6OENWZXRqR05raFl2NlZPVUJJa2ExUWhBbmFWMkhFYzNxM2dETkZYQjZZeU9KMENFTGhyY24xTGNmWEZwdXJrckNXeXBrYW40SnVFdkR0RFA5MEdXVQ?oc=5"
+      },
+      {
         "title": "‘As good as it’s going to get’: Fuel prices under pressure again amid geopolitical volatility - Stuff",
         "source": "Stuff",
         "published": "Mon, 13 Jul 2026 03:17:58 GMT",
@@ -8616,10 +8624,22 @@
     ],
     "global": [
       {
+        "title": "Oil Climbs Above $90 as U.S.-Iran Conflict Deepens, Raising Global Supply Concerns - Kurdistan24",
+        "source": "Kurdistan24",
+        "published": "Mon, 20 Jul 2026 19:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUEphd0pRZnpuZnJJUkRmd20yRllmOHlDSHZnWmJTVC1Vck1McnpETkRSc01jVmRIQU9SQjNCRFBoSmZZU1ItSk9fbmZhWU01QkhZd0Ryc2RxMzVuby0xRld6Q3ZaMXVZb0ZvQUVteUY3Y0dtUlFkQ2NUMXE1eG1GMFBRRXNKOWF2WF94ajRyN0hhTVUtUDhmLVFmZ214OV8xN3dXUWNhNGdUQnd4MEJKdnQyRVJZMGx6Zk11X0VVTQ?oc=5"
+      },
+      {
         "title": "Gas prices hit $4 again after oil soars more than 15% in a week - NBC News",
         "source": "NBC News",
-        "published": "Mon, 20 Jul 2026 17:32:12 GMT",
+        "published": "Mon, 20 Jul 2026 18:53:44 GMT",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRjNyZVJwSWZWUWlNLWRUaG1JSmdSVFRkZUw4RWQyT0xmb3JrV0JURExGWXJEeHNXV2xJMHpCSDV5QmViajV6RFVlVFQzWV9kQkYyUzdQMlJYQXhvYm1wZTk0cGRNbGlNdl9hZC02LVpKczN5cXlTZ0dLOXlXaXRrTG5lemlnWHppVXFJZWpneXgxaVdabnJYOTNXZGZ4ZjRCXzd2SzVjMA?oc=5"
+      },
+      {
+        "title": "Brent Crude Jumps 3% to $90.85 on US-Iran Clash - 조선일보",
+        "source": "조선일보",
+        "published": "Mon, 20 Jul 2026 16:37:08 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM1ZkTGpQd3Rkbi1YSk5WSm91VUU3bXQzaS1FTkZzZzY0SVRHU2R5Z0w4MnVjSlA4Z0h3N25PLUJSMnFvMXk1cWVDWFB0UWE1NVdLWlFpVG1fbkQ0QlVVRWRPUmk3bzljTFhXNnNpNWhVcFpUREcydzJGNnZOUHFhd3JwOThtUTNlMVVYZXV3?oc=5"
       },
       {
         "title": "Gas prices hit average of $4 a gallon amid renewed US-Iran attacks - LEX 18 News",
@@ -8650,18 +8670,6 @@
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Mon, 20 Jul 2026 14:15:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMUlKb2hSQ013VTdyR0RJQ2VhdUZnUWJfQzN1UlNsYVlEcTRqbGF0Qk9UVF83bjhtNjZHcFhEak5kTF9yQXAwT0ZPUGw2Y08xcWtqS3JuSGczNkkwYjVWdi1TQktpLTBuNG1DVFRKdlFUM0lzTzlBd0RFWUZJZzZBT3hOTkVKRkhEYmpMRWdCRmtYOUFtS2JGazZoZmEwc0M4MHBhYjRBd9IBrAFBVV95cUxPUzVTODNWRTJ0Y1hhQWhfRVpwU21IMkFCUmFMQ3RWYjhvaEVlWjF2dnNVN28yUjZXMXRIb19RUGpXTjJOS1JkZlprdnhxMmxzTlZ1YWtsWEZaUUd4dmlRQjRFSXNDdDZpS2xqdjliY2hnNjVMcktRR040VWp2MkV4eDFJZV9COEppNklWSGdpWkxaSk5XTWN6clBkdGRPbU9VQ2FxRWZ5blhONHlp?oc=5"
-      },
-      {
-        "title": "Brent Briefly Breaks $90 After Fresh Iran War Escalation - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Mon, 20 Jul 2026 13:20:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY2R5WUVhWGd3MGFyTG1JMnE1czBwX05Rb2xZb0RRVG1raW5SOWNrMHp6LWZxMm1oekp4LWVCeU96b19nN0hwQ3B0S2RtaVVWUDlGNHlwV09kSnJKSUxVVVFFcURYWlFrcUtoSkdlMkdjaFhzN0hkWTYwRlFMMjdNLWlnSi1mdlBjaS10ZWZ1N0JkOGF0OE91WmRJb1JyLWpT0gGmAUFVX3lxTE93akJVd1RBWHVONWdaN0QwWDBFQTlEWTJpcUJUY29oNGx2R0tMc0FaV0Zrdk9udjVwY3doTzVtRXRraVRJdnA0RjF1ZDFfdFhENHhXTkI4SElmUk04Y3BjaW1PajJfbjgzUERudEFQZHIyT3RkcTJBbTZUVVdhZEc1UUQtRnlfVW1LWkZicVUwaGpiSkhQcFB3TFloZVN1Y2VOR3prNkE?oc=5"
-      },
-      {
-        "title": "Yemen’s Houthis declare naval blockade on Saudi Arabia, widening threat to global oil supplies - NBC News",
-        "source": "NBC News",
-        "published": "Mon, 20 Jul 2026 13:17:47 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcjI5akdYQ2J6TTNjVlN4VmVROEZIbnZqdWJna3cxMllyUkEzNERtVjJlRmUyNnlyQmZDX2hNSFhEbnRPNXJDbzdqcDAwWmMza1pBbXNHV2pSV05OQnZkTjB2NlNyV3A0a1pJRFZmcEE5eVNaZUpldFB6U2UyZ1pBcm1wVFh5WEFtdFFRSUxoekhHYVgwN3NCUHNReEg4Q1llSkE?oc=5"
       }
     ]
   }
