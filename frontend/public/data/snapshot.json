@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T23:28:02+00:00",
+  "generated_at": "2026-07-21T01:11:42+00:00",
   "fx": {
     "nzd_per_usd": 1.713004,
     "as_of": "Mon, 20 Jul 2026 00:02:31 +0000"
@@ -8572,105 +8572,7 @@
   },
   "fuel_stocks": null,
   "news": {
-    "nz": [
-      {
-        "title": "New Zealand Inflation Accelerates to 4.1% on Soaring Fuel Costs - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "published": "Mon, 20 Jul 2026 22:49:53 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeGNNbmxBMXFGcWVMM203RVNUNUpRcUdjRWhVenQzMHNxZnhMSnFDam5RVGk2WS1BaFdPOXc0azQzVTA5dkIwTUVRbmZaUEpEVmFKV1NmVGd4VkZJUUs3cUpjMVFpRFY3R3VQYXBQTzhCVlRDVE5aZm8yOGxmRDBjQVRPWlk3dVoyNkd3UE1JZEgzQVdsb2Q5dDh1bEd4VWF5TlVqbmZvYXd5MDBZQW5rY1pWRQ?oc=5"
-      },
-      {
-        "title": "New Zealand's Inflation Jumps in 2Q on Fuel-Price Surge - marketscreener.com",
-        "source": "marketscreener.com",
-        "published": "Mon, 20 Jul 2026 21:23:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbmxhUzBERXYtcF9hVjhXVkh3Z3hTSEg4UFJaS2hKcUF1ZmRISFJ1TXVHdW1ZMjVKX1psMmR0VGd1SnV5MTZFSVFjNC1PODNkdDcwZEg1cmpGeFhHUnpvTFNpNDd2WkU2azZiMkJrbUJPTG1GZUNlOGFHQldhdGNNNEdXWE5UdGVsOTYxT2hVZGJmcENoTDZFbkdPYU4tcW12bDloMEF2UnlGQV9z?oc=5"
-      },
-      {
-        "title": "Driving New Zealand to fuel independence with smart EV policy - thepost.co.nz",
-        "source": "thepost.co.nz",
-        "published": "Mon, 20 Jul 2026 16:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzJzU1dZeU5ic1JZbFJfc2NRazEzbDM5OExrdkRZUG4zRF8tUTBqbWNxTWtRazdVRTAzYzJjUXM2YXBkZ1ZFZWc0eHZjTXZ6N2QxVG9BYXF1b3FsNG10R096a2t4UVc4N094eUlCR3hxcENwdTBpSkhQWnJpM1ZMR3RKRWprOU93blgyc2hEdE5TQ3psUHNqc2NhU2NQT1U?oc=5"
-      },
-      {
-        "title": "New Zealand's demand for electric vehicles surges amid fuel shock - Bitget",
-        "source": "Bitget",
-        "published": "Mon, 20 Jul 2026 07:09:44 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWMFFrdngxTTFIbXI0ZG0wM05sWmFhSkw4eGt1aUEyQ1N3TmlNVmhkZjBwc2xwSE43Sk9kM19EQmprNGFoZG01TjFsOEZ0R1BMZzNuSkZfZFVBcnNHbVRmVTl5c9IBY0FVX3lxTFBWMFFrdngxTTFIbXI0ZG0wM05sWmFhSkw4eGt1aUEyQ1N3TmlNVmhkZjBwc2xwSE43Sk9kM19EQmprNGFoZG01TjFsOEZ0R1BMZzNuSkZfZFVBcnNHbVRmVTl5cw?oc=5"
-      },
-      {
-        "title": "'Fuel prices remain a wild card' with inflation tipped to top 4% - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Mon, 20 Jul 2026 00:00:36 GMT",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNThlQjlxdlQzQUpCQUFFTXVOOFE5SF9vczNGeW5USE54T29rdWpoQXpvSHNJVWlrX2YyLUxqdXo5U0ZsbmhzMG9mdkFCWmtvZll1SzN4TDU2Nnl2ZThua2gxeVpvbTBBYkVXTkhDQnM1WkYtSlEwYVRBMm1uNl9QTXFSTkI1a1g0eTVQY2d0bm1DRm9ST0U0aWxvRVlZSXZjQV9WNmJCWHBKbkpSSkNqODN1NnlnYUtwMTdvRjY5eEc2Qk1TT2EtQmJqRVI?oc=5"
-      },
-      {
-        "title": "Is New Zealand's economic recovery coming at last? - 1News",
-        "source": "1News",
-        "published": "Sat, 18 Jul 2026 20:02:40 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbW54X3k5V1ZqWnFiLVRXT1k2d1RMQTY0S1hNbldVdXNWNkNVTi16dVZ2WHk2VWZlcE5ORXNuUFR5eE9feWttSzRzNnpVRHZWZ1FaeU4zT2JQdFNySmdESWJSRlJVZGVONnNxZnJzTjFqUkFacnVQZ3BoRUlWYnhCdXhvSG5nM0VJSUtNRg?oc=5"
-      },
-      {
-        "title": "Petrol and diesel prices see monthly drop, two years of non-stop milk price hikes - Interest.co.nz",
-        "source": "Interest.co.nz",
-        "published": "Thu, 16 Jul 2026 23:28:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU3hIMmhEcXlRMFJsUE50eHdGaWk4VjBCM3RTcnRDUTV3NkxtT1ZZSnhzazR5UFlFMThJWFk4N3BnbGlKOXJLSU5YdFo4U1ZucHFJVXYzaVBWb2pmTUNyc3pidFZuMzJvcDlrd0QxTExJNFdoVTVScDdTR2RsUUFyLVU4U3Jqa1otNzlabFUteW1RSVVSZFFxak9LYnBzMmkyQWtVLXIzSDlnN3hQSUN5ZFBkdEJvMGZJVTV3?oc=5"
-      },
-      {
-        "title": "Petrol, diesel prices fell between May and June - Stats NZ figures - RNZ",
-        "source": "RNZ",
-        "published": "Thu, 16 Jul 2026 23:06:59 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWnQ0ZVkyTk5Xa0loTWU5aHlSOUtnYWU4MVFEVmFtUWlOa1RPMFhRZkI1TUlLaVh2dDVsTkxPeFViREZ2OUU1djhncHdFaTdIZmhNbkxzWjVNM2lCX3RELVpKQ1RUOUtOR0JxWjdFN05VMTZGUFl6Rmt6cUhmYUZ1N1Jha2NrM1FHSUJuSnd2Y2paYWdrbDRONUVXNmNpNkJicFBJcVNCV0laUQ?oc=5"
-      }
-    ],
-    "global": [
-      {
-        "title": "With The U.S.-Iran Deal Collapsing, How Exposed Are Oil Markets Right Now - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Mon, 20 Jul 2026 23:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUlVyejdUaE1VR2Q5OGhrWU5pZUp4cUozZjRsdF83dDI0bktPYjdidzJ2THNONUdoZldJX2FMeWJwZGZZaG5GWGY3ME5wc2pyYm0yNmNndHZCbkFtUUdFbWZlQnBLTmxCdnVYSlBqdklsZHl0SEN0S0FobEJmN0dJajdoNUJkOS1WSFZoWmFSa3FsSEhOeDlTQXpsZ05hX3plMXJjMEc0RmtZRDJoTk1NNHluWdIBuAFBVV95cUxOZXhJMGFZSGhJV2FaSVZrRXh5MTI2VGtHN0ozYnpYWElJLW1iWDBHUjZpS3l4Q1doV0xuR2luQk1IenBlUWQzZHI5WHJvOU83Um51MHIyYUVjeHVaMS16X3A2dDlxWDBmZ3RzOWN2WXhzOTNmZFdvTkd6RG9lU2w5UmdxRnRodjNzN2ttX0VmR0ZZU3dtNHhvWER6U3ZaSWl0SFN1M2RGaDBnR1lUek15WDZaLUc2UFBH?oc=5"
-      },
-      {
-        "title": "US-Iran tensions push Brent crude to one-month high amid market volatility - Crypto Briefing",
-        "source": "Crypto Briefing",
-        "published": "Mon, 20 Jul 2026 22:49:03 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWVQ5X2VmZXRaeUptY3RnZThIY1JQNU5OakhBTmpkelR5UFBQUk5OQjRLS1JiX2l4N2RVQzh3TWVGV1hLNjczVm1rSGVSNExXbk1VNWV6Mi1FSDBQczZuMlozZS1kVDIyTmE0NlBwSTdzZkd0QnNZR29TWmN0NHZXV3M2bW1yR09Ud0ptTnlMclk5aTRKTVNKMHktcEg2SkVwZUlxNg?oc=5"
-      },
-      {
-        "title": "Middle East tensions lift oil prices as US-Iran hostilities escalate - Crypto Briefing",
-        "source": "Crypto Briefing",
-        "published": "Mon, 20 Jul 2026 22:43:58 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMjJ4RDlHc05SV05xNThncEpFUHNWc2F2LUZfbjJ5UUswdGpwZ3JCWFQzelRlTlR3QXRyUWswZU9uYnpBNy1obGk4WWd2YXBFNkI4a3dhT1lhWUFUNjdkQUlfVWctV3phMkppUHRLRXB3U1ZVblJxcjVNYjhYR2VUV2RjSTFLRmVHWGRrSk5zbmFDemVUeVlCc2xUX0I?oc=5"
-      },
-      {
-        "title": "Houthis announce Saudi naval blockade, threatening new front in US-Iran war - Reuters",
-        "source": "Reuters",
-        "published": "Mon, 20 Jul 2026 22:22:51 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbmtOemhMR1UtaVNoMENBMHltNEpKTWJNekRXUEtSa3hidndTM0VZVnRoTEJlV2ZENWtkYVFCUkJtSk8zdFhPeEJQSXRNMS1vWC03N2NJek14WklXdzhNZWkzMnZRUFpGcHg2OXotaHpyVW9jblFTYUM4U2lGcXFWa1NFbnZSQnpreVF6OXVhMW1oeHdIdkFNMjBJa09UZGgycjRkMjZ6Z1dxNC10enJIVDZJdlVSQjRxQlBZc05Tdw?oc=5"
-      },
-      {
-        "title": "Cheniere Energy Stock And 2 Oil Names Shaped By Middle East Supply Risk - simplywall.st",
-        "source": "simplywall.st",
-        "published": "Mon, 20 Jul 2026 21:22:38 GMT",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOUpIN3EwYkNUUjVjSDRPc2ZXQ2pjeFg4UzFfNm1VMDIwY1M2UDZqVDhDR3llRk5kOGVUdS1hZ0NCLW1hOHBaT2MtWTJwVDllSDkzVUhBY1pLNzIwV2lfMnA3MnhMTTNZaTRaTE9YWWtxZU9USGVEQXhsZjQzTTFvMVowZ2NtSHlqdW1LT0poaFBQc05mUnU4S0NNMVc0elJwWndGN1B3OGhBZHJlWHRodmh0T0dXeXNFNVBrREQxN25nd0RabV9fY0pvQ1dvUdIB0wFBVV95cUxOVjdwRk1uRlVIRHhwa0VQQ1dLRkRSbzdldDdnRVpLNk1PeFd0aWhETDlfN2Y0S3JyV3dIUzFGLVpKalc2MVV1UUVYd1ZMZm5falZmTHVVWVpTcHJMQ0k2VlVlU1gyWGtLeXNXcFZBYWhjdFZZaFhpclRENDZpNnZ4RHB0QV95d2lFWUFLcXllVkhwQzJFXzdyMVl1MFBnYjZfaDNfUnd5WGxvVmVOQk1vejdqTWRUbGFPYXItTTdsSDljRWlXVXBLUG8xQV81WWMzYVBZ?oc=5"
-      },
-      {
-        "title": "CME : WTI Crude Oil futures climbed near two-month highs. - marketscreener.com",
-        "source": "marketscreener.com",
-        "published": "Mon, 20 Jul 2026 21:11:09 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOUIwTWozVVN2VFIyY3N0Y3AtU3I0RXhJc0lhd2xLeFhxYWZJeWJVRF9tYkpDazlDS0JnN2N3X3lrZ0ZwTVNJLVZucTh2MmNxY3p0NTNfX0hQY1E4Yi0zNzQ0dHNQZ0dLSWo3QVI1eTJnU3A5Qk5nWHZGc1ZTXzNCbGJsVHU0NjBXQjBydXJFSDM5S2xPVi1YdU9TVlNzMEZ3eFFZUlVBTWdyd1U?oc=5"
-      },
-      {
-        "title": "Oil Market Loses Its Safety Net as Iran Conflict Reignites - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Mon, 20 Jul 2026 21:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZm1STlQ4RWpTWVBOSnFneEtRRW9rRFNDaEp5U1F3M2FPSHVJbFhweXZCRnBfQkRGMU94UnZHYzQtdkJDQ254ZC1kZm9PY29MSDRxdVF5MzdFdm42WWpoQVNlQnNyYVBnZEc4VWRITGJOaEM5MGRVQ3NOUTNHeWNUSGp3SjROdEFPRUstNDd0eHlfUWVWVnpsMXA2ZHYyMnVmZjVHZkZqTXY3d9IBrwFBVV95cUxOMVBlNmpyeWtBZUNtX0ZTazNNOEdOUzF6a3NEVlZfZmZtbE0yUVZoVFBFdERJaWVQT25XSEFVaUhZZDg3SXV5Z0tlb0ZHclozbVRuczR0SXNxVXA0SldCYTdnUnlMNVpaV3VJa1FvcjFYSllLbm80dWhNZDBYbEVTS3A4MDNWYUE2eWdSSWMxV2ZwMmV3LVhULVMwQ3g2NzZ6RlA4b1d2Q1hsY2cwbmRz?oc=5"
-      },
-      {
-        "title": "Why the EU Still Can't Agree on Its Next Round of Russia Sanctions - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Mon, 20 Jul 2026 20:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa0JHbFZ1S2ZJSHMwRk5EVWFqTEpkVmk5OXR6anJRMGNtU1Q3akMwa0RjRExGOWpOZWlkVGpaNWJlN1JYQURBdHdZTTU1YXo1Q2RTdE1ZVlFrblVpMThuQW5hUkhBY1FPUUZteS1BdEhkRVIzNjhGMFlueXBXb3JkeldNQ3pXVjhlZ0JScE1aZ0d2MkY0WXhNTVVBZXc0Yzl6Tzhhb1RaSklySlVjR25TU2diQdIBuAFBVV95cUxQXzJWUWlNZzdPdTk0MXdCRjdGYTF4ZlFyZUtSLW82UE44VmczWjNXUWxjZ09ZQ1d3Ry1QWVlqUVVjSDB4NjE2cDczWXpzeHBVZFUtOUo1dVU0YjM0WGplajFqQ05JY0FvTzdkU3ZETnBncGVDOGpzaVV6RVF5Y0pRNVRmSWs3bGFYdWZNdFJXTG5lckdEa0Y4NFh4YmozZ2RPMmlfWWJQTk5ZVng0ajk5dHRHd3dFZ1Nv?oc=5"
-      }
-    ]
+    "nz": [],
+    "global": []
   }
 }
