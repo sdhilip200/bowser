@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T15:58:44+00:00",
+  "generated_at": "2026-07-21T17:39:25+00:00",
   "fx": {
     "nzd_per_usd": 1.713004,
     "as_of": "Mon, 20 Jul 2026 00:02:31 +0000"
@@ -8574,6 +8574,12 @@
   "news": {
     "nz": [
       {
+        "title": "Analysis: Five takeaways from today's 4.1% inflation figure - 1News",
+        "source": "1News",
+        "published": "Tue, 21 Jul 2026 15:40:33 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWlRGNlhZSnlyQjlxQzN0allJNlV4ck0xLUxDZmluY2tPcWlJaEx1a21nMmh2Ym1vd3o4eEFMNG53OExUdWVPQVpsOTRVb0F3RlAwbXlxaWtfMzRKVjhUMHBLRjhvcDdlUm9PdERrVHJsWHZfWkdNdmgzdldpUFlrclRTcGNhdG1MOVRHU2t1bWoxclllR0E?oc=5"
+      },
+      {
         "title": "'Fuel prices remain a wild card' with inflation tipped to top 4% - NZ Herald",
         "source": "NZ Herald",
         "published": "Tue, 21 Jul 2026 10:04:05 GMT",
@@ -8583,19 +8589,7 @@
         "title": "Fuel Prices Push New Zealand Inflation to 4.1% in June Quarter - Devdiscourse",
         "source": "Devdiscourse",
         "published": "Tue, 21 Jul 2026 05:19:59 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObVJ5RG16TXFmSFFobE15QzlRWWVMRTkxUlN2YnpnUnpVVHdiX0F4cl9QZllDZmVZaHktWG52QkhfMVBUclY1RWdLTV9kclFFWTFvNFl0aDdxVUdxcHp5UHRRVjRtSUZxTDU1NVRrQU1ia2ZnX05lU090a3NWWEJhUHduMFUzZTB6dTlwVkc2ckVOSS1IUldsNHhJY1c3NEhoYjI3UXBKdm5fR0dyZE5ydE90UnFPd9IBuwFBVV95cUxOZ1VlNU1zc1ROa2tKMnJlbGlicDhkdTRVMDM0dDAyWVg0X0lSRDJhWVRoMDgwY3ozVEdKcDJBd09zN3FJUG0zQkFHRGxETzNMNV94MFFjdWRPYmdSVTl1b0JMUTgxeldpM1V3Y3lKTkR1X0JvNGswaWhHalEzZGlvSVlUNFdLMlFVdkhVSklPd3A5Tm5PMlJNdGZOODFWSXgtQ3ZRb1Q5RVI1ckZYWV9NVHFTRmEwVWw2bzdV?oc=5"
-      },
-      {
-        "title": "Fuel Prices Push New Zealand Inflation to 4.1% in June Quarter - Devdiscourse",
-        "source": "Devdiscourse",
-        "published": "Tue, 21 Jul 2026 05:19:59 GMT",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ1VlNU1zc1ROa2tKMnJlbGlicDhkdTRVMDM0dDAyWVg0X0lSRDJhWVRoMDgwY3ozVEdKcDJBd09zN3FJUG0zQkFHRGxETzNMNV94MFFjdWRPYmdSVTl1b0JMUTgxeldpM1V3Y3lKTkR1X0JvNGswaWhHalEzZGlvSVlUNFdLMlFVdkhVSklPd3A5Tm5PMlJNdGZOODFWSXgtQ3ZRb1Q5RVI1ckZYWV9NVHFTRmEwVWw2bzdV0gG7AUFVX3lxTE5nVWU1TXNzVE5ra0oycmVsaWJwOGR1NFUwMzR0MDJZWDRfSVJEMmFZVGgwODBjejNUR0pwMkF3T3M3cUlQbTNCQUdEbERPM0w1X3gwUWN1ZE9iZ1JVOXVvQkxRODF6V2kzVXdjeUpORHVfQm80azBpaEdqUTNkaW9JWVQ0V0syUVV2SFVKSU93cDlObk8yUk10Zk44MVZJeC1DdlFvVDlFUjVyRlhZX01UcVNGYTBVbDZvN1U?oc=5"
-      },
-      {
-        "title": "Five takeaways from today's 4.1 percent inflation figure - RNZ",
-        "source": "RNZ",
-        "published": "Tue, 21 Jul 2026 03:08:19 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdEZJY3Q3dE94SHJJS2cwcml2eTRxa3hiM0hQWTVUelpaeG9FSC1wNEFPTzI2VG9pQVNKQ0ZuNTh6QjJwdXN3MTVEaWRsNzdoRXBnUEY0UndiU0U0LVJUWkxiTVluQk1uVmtYWjVBZ20xVXRjXzg5dDY5eUg3RmczVUJGTVhYUEtUVDZLSXdTVEVsemh1UVhpQzFmVmozMEFDeXdyVmhtblE?oc=5"
       },
       {
         "title": "Inflation rises to 4.1 per cent - Times.co.nz",
@@ -8604,8 +8598,8 @@
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54cWNFV2xzdHdrNk4zeXN0dHhRR0JZNmtXbDhUMThxWk9mdDZ1Q2hUX2Q1OWpWdUg5V2t5OWJRMGNwM1d2QlEtUktHVWYwbVBLb0hUYWhpczlLdmpzZHllZk9iVzRCcWttbWpaVk9B?oc=5"
       },
       {
-        "title": "New Zealand CPI Hits 4.1% as Fuel Costs Reinforce RBNZ Challenge - ActionForex",
-        "source": "ActionForex",
+        "title": "New Zealand CPI Hits 4.1% as Fuel Costs Reinforce RBNZ Challenge - Action Forex",
+        "source": "Action Forex",
         "published": "Tue, 21 Jul 2026 02:07:30 GMT",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlRGZ1VHQVEtVjMzeTJDeWFDbHNOUThNOGtKajE0OHozTDNZWlY0b052YW1WaDA5SW90ckJVVm1TYnJua1h0Z184XzdGbmtrRE1jQXNDVFBLcnNfVUlBOGpnczcyQllrdWo1eTlQLTRpbHAwdGtrbnJPTEF0TUhzbHZJcVFPSmgybENadW9RdzBmQU43NmxRc0VCbWp2WDJucUFzVGkzYXJtcFBKaWtEYzhEcw?oc=5"
       },
@@ -8620,56 +8614,62 @@
         "source": "WSJ",
         "published": "Mon, 20 Jul 2026 23:43:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZXg4Z1VYSGl5MnVrWVFNM2VOQ3oxZWwwTU9FLTcxYjRfQU8wZTRWT2ozR1Uxc2VWXzl3bzNsTmNveWJOV1N5b05LY2FOYXNDWFhtblpJbmEyclVRNzE5Z0lNYWtCc0lNRWFkdnV0Z25aMXNqTHYzRXhtd0F1eXE3bGNMdHJMeVRHNGVfYmExT3Y5Qk9CaV8zaHNmdzZaSllubGc?oc=5"
+      },
+      {
+        "title": "New Zealand Inflation Accelerates to 4.1% on Soaring Fuel Costs - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "published": "Mon, 20 Jul 2026 23:42:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeGNNbmxBMXFGcWVMM203RVNUNUpRcUdjRWhVenQzMHNxZnhMSnFDam5RVGk2WS1BaFdPOXc0azQzVTA5dkIwTUVRbmZaUEpEVmFKV1NmVGd4VkZJUUs3cUpjMVFpRFY3R3VQYXBQTzhCVlRDVE5aZm8yOGxmRDBjQVRPWlk3dVoyNkd3UE1JZEgzQVdsb2Q5dDh1bEd4VWF5TlVqbmZvYXd5MDBZQW5rY1pWRQ?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "India ramps up Russian oil purchases despite US sanctions, Bloomberg reports - RBC-Ukraine",
+        "source": "RBC-Ukraine",
+        "published": "Tue, 21 Jul 2026 17:30:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ3RGcFBGM1llSkI5Q05ETVBfdmo3c253cnhnMEUwQ3lXbl9ENzBNQXBsMXI2ejM3MHd2QXh5T1JyR0hrM3BxSXZ4TE9rRDc0NVNLR0ZNQ1FBUXc3d3BDMmtSTGY3dkV4Mk1vMlVXbHI0bHBIa0c0aDktUUx2b281UElqTzc5REo2ZzRRUUJFcnpWN3RzNFpn?oc=5"
+      },
+      {
+        "title": "India Has Sharply Increased Its Purchases of Russian Oil Despite U.S. Sanctions — Bloomberg - UA.NEWS",
+        "source": "UA.NEWS",
+        "published": "Tue, 21 Jul 2026 17:10:18 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVzVzTXVNUFRNYUZ3U18yYjZrVlNmT2pxYkN0Rl9meEhUMnVpd1dtU29LaUpTSzJSS2hfNWpmS3M3NkVDaHlZcFhqYWp0MWpYTklkRmNpZWI5eGlpNUJJRXlscVV4cXZhcjRtQ1l0Sk9VMTgxY1d6LW5wek8xTDRQMmxHY0ktN2tFLVhXRG4xQ2xMUFcwcGpxMzhtYmVjY0s2RE94WHBMSXU?oc=5"
+      },
+      {
+        "title": "India increased imports of Russian oil to record levels despite US sanctions - Bloomberg - Українські Національні Новини (УНН)",
+        "source": "Українські Національні Новини (УНН)",
+        "published": "Tue, 21 Jul 2026 16:51:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON0VJeEhFblVIWGRRYXFab3lGdThubjAxNm9OS2o2M04yNEJaaE9oN3NQNU52SkZaZ3gyUTFVM1RWWmRLUHZZYWJ4VUt5X3I0c2EwUFpEUEVkSld2R2JYMzdBRTYxdUpaX2ZsYnVGRnUyZ2RzQWs5YXdhWnR5RWhQTnhGczA1czBLeTU0Z3hMM1YwNi1qa3JpdGFJQk1CSmVScnRrSE00US1pU2ZxMlHSAawBQVVfeXFMTmNTUHJOd3VGOVY4VXNLZTNpODE2MGZIZThYWVJHUDJvV2VUMnBrZXBoRlcxeFRmTTN6X1VrZ3VidHV5TXE1Q0VzQ0gyelgyRWg5RkYzOENVQ1c0N01KdUJkc3JOVDB4cU5YMzdnZU1NTHNVOUg3eklJRk02Mnp4UlNZZk9ERnBINVlGdGNfdkpsaTBRNWdBNG1GcEtKNlhDUjQxVXUyN3VYM25WaQ?oc=5"
+      },
+      {
+        "title": "AI stocks gather more strength, even as Brent oil's price nears $92 - WRAL",
+        "source": "WRAL",
+        "published": "Tue, 21 Jul 2026 16:45:52 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaUpOUFg0RGtSOVowQ1VaWVZ4WElNWlpESnRSblotbkpBNGdNYW9YZXVlVWpQR1J6bHhoZEw1TVNQdEVVdlZiVE9ZVVBtLUlIdWJmTDNudjdXSDNFRzg0VjI3LTN4VnJYTW1lcUg4VFVqeDdSZ1BWMGZjaE9hbUdnWjRjekxGQVZGeFhaWFhHMkNkejJZWjNwLXMwWHZXN1pJaWlCaG14UTdXcDNKTzZ1STRydWh1VWdRb1NReEdURC1XMHk5YjhVYktB?oc=5"
+      },
+      {
+        "title": "WTI Oil rallies as markets fear further Middle East escalation - FXStreet",
+        "source": "FXStreet",
+        "published": "Tue, 21 Jul 2026 16:17:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVXNPcXNfUWhpVWd5YncwMlpqZVJ3YU4zSGg5akxGSVBQVjllY2pVTEVjbmtXempXbk9tc0Ewb1J5akdlaFNEOW9PVWpVM0N4Y3UzOTNVNXNSOUExX3dGWmdlblg1QzZzMHRlT3VmeUdGOE5FcVdRNXVTcmtZbG5IM0p4cHRURlE0YzM2VUFmTF9rVDhwQmwtcWxZa0M2Uk9ubjB6WHlOSzM2aXZOX1Rac3VWTWFNSDRURVVvcHhydGY4QmdnamJZ?oc=5"
+      },
+      {
+        "title": "Houthi Threats Ignite New Oil Price Surge - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Tue, 21 Jul 2026 15:53:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTHh2d3k5X0xzQVBUOEJqYnNGTzNOcXNlcFg2WXNBemE4ZmtYM1M4ekEwbzNxQlFrazdqemdrSTFKaGNnenhVODV6ckVYT3VBMGZJVHZzQ0dkTTl6aFRFMV9fQTVzVmo0cDFlLVZ3VnJ4WTNMZlREaW1xTmlkMEtYQmE0cmgwbFhwRS02N9IBkgFBVV95cUxOeHZCcFBqSWlrWHd2aEZFMmgwU1d1RDltVEhCM1hqTkZaQXhyd2NZTkJDZlRXNmpGLUJvOXJEOTJDZGFZbjQtb05iVXVkbEF5N3BLcUVIbjcxSHlfLVhFZUZRR0VZa1RBUXlxaGpXOF83clh3Q09oUExLOHIwS1NteHpnZThxMWJFc1FKa0ppOG5qQQ?oc=5"
+      },
+      {
+        "title": "Can Brent Crude Rally to $120? Energy ETFs Likely to Win - TradingView",
+        "source": "TradingView",
+        "published": "Tue, 21 Jul 2026 15:47:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVhuLXhTRTZUc2RPZl9NSmNxS2dieFN0SW5qSWxYdk9wSjg2dTFfS2RUclFxVlRDUUNrTGZEdFdqR3V4dDJWSERYbUs3VGhPb0Juc2steXdXRDMzWjVhU2ZNMEdsWE1UdFgyamtfa2N0dFJPZFA4SmRXVFVsdWE1VnVObDltVGxRSnNQQVdJOUxBcGRMLU9ZVjNDOXVwQ1E1ZXhYR1g2S1lqUHNtUU9j?oc=5"
+      },
       {
         "title": "Crude Oil Prices Rally on Global Supply Risks - Barchart.com",
         "source": "Barchart.com",
         "published": "Tue, 21 Jul 2026 15:30:59 GMT",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ3FXWWZKRzNyRC14enREYmR2ZjdqUmNvOVhTTTVrSzZyQWZMZTNGVjVwT3AxeTFGVDdzTWdkMkVfRlY3OFRvcmxZdFVDNV9oODQ3bkFuTHYxWXZPZm1IUldtbE13TG5ndlBwNUV1WkliSFc2aEtaNG1qRGdscFYyNWczV29objlzRzI0TmJCbk5BWjA?oc=5"
-      },
-      {
-        "title": "Can Brent Crude Rally to $120? Energy ETFs Likely to Win - Zacks Investment Research",
-        "source": "Zacks Investment Research",
-        "published": "Tue, 21 Jul 2026 15:03:33 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTlNzXzJIZDIwMFA2WGE1dG1hODhCSHpkeXFiZ01GSkVWZVlTZ0RDZXFBTzR4Zlc0a2xiOXU4N0w3NUlaNFBueTlOemVRODRKMFJYLXpvd1drLWd4bk1MaTBkZklibnY2OGlEdXlPc2lOVUtRVk94WlZUeHhzdXBWaEsybWtBRngwZ0dsbzZ1VG5PaXJOeTJ5UHhFMA?oc=5"
-      },
-      {
-        "title": "AI Stocks Gather More Strength, Even as Brent Oil’s Price Tops $90 - The Well News",
-        "source": "The Well News",
-        "published": "Tue, 21 Jul 2026 14:50:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWW9MNWkwd0ZfZEg2ZnByb0JLckhCVWlUeXU3RjVlT0l0eEwzVnFoVVYyeGFSNGtOT2tqSVlKa2RMSTV6VVJPWk14aXJvRkFSeFV6Tl9HcnFoLTZ2RlJxRlgzRExiZ1VJNmRxQkJKbkZxeWVaQ0JUWm9GVWROT3N4bEx6YjlYYmlmVDBCcUtKZnRMSXdXMHM5akV4OVUwNGo5RmxXTUdUQQ?oc=5"
-      },
-      {
-        "title": "IEA warns Mideast hostilities increasing oil supply concerns - Transport Topics",
-        "source": "Transport Topics",
-        "published": "Tue, 21 Jul 2026 14:49:22 GMT",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZVmxIb2c5VkVyMG5QOEN1V0hsamVmMFZXakpldm9kcEVrWEdNMmNCUkxWNWF6MkIzYm5xU2xOdDFhaEdFX0U4Vm1zZmk3S0pCMnlkdkZtM1NkTk1ZSVpzeks4UzBwMTN4eEpENw?oc=5"
-      },
-      {
-        "title": "Treasury yields rise across the curve amid Middle East oil supply fears - Seeking Alpha",
-        "source": "Seeking Alpha",
-        "published": "Tue, 21 Jul 2026 14:26:01 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSGRwSTJLZGRnN0owYXl3UGNZaWduRk5BNUtVVUhHSnhYNG5XZHVMMWh3NS1zeGg5NENhMUVBTUo0VmlsV3Z5MEtObThxR0NFbG1fSjl5cDRvejhoM3NOWUt3UFFzRzRSZGlKVlEydklteWhRN1E5Y3M4RGlmRVN2V1FFRTJmb1dGbWpaQnVkUEZRdnRXMFNERjJ3QW4wclFUU3hLRnNxTVJaQ3BEN0E?oc=5"
-      },
-      {
-        "title": "China pulls back from Iranian oil as US sanctions take effect – Treasury chief - Caliber.Az",
-        "source": "Caliber.Az",
-        "published": "Tue, 21 Jul 2026 14:21:03 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOEJVRWxOMmVOSmZaRnlRS1RzQjdSNzFsNnctMzdteFFFQjVvZjBzLUZOeFBYbERHUFoxRlh1YmFKWEE5UnBVbTBpZFBfb1F4czdha0pReW5XV3kwR2JXcVpVellQNVJxczZia3UzSUpXNnRIRVJSSEQxVy01eHVWMlVjLXJYZmt5TGxPdER6ZVotQTg4MlhRVGdnVUxOYlZTOG5lbmxn?oc=5"
-      },
-      {
-        "title": "Macro Tailwinds Power a Strong First Half for Midstream - ETF Database",
-        "source": "ETF Database",
-        "published": "Tue, 21 Jul 2026 13:59:51 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd3BuVGtmUzhTaktwWmRZYzFwMVpfS2dHWVBadlk3ZHNWMEFQdlpfb1VsUFh1TTBEbUtTdTgtbnc2dHVWRFpqS0c5akh1ZGxmUkp1dkZPUjQxaWFzN1BqMnd1RXlNUWFRbkdUV1RhQzl3Tkk0SllybHFOc202YkoteDhKVWFnT0NlNUlxY1Y1cTZrejMzUG1fX1BIUDA?oc=5"
-      },
-      {
-        "title": "AI stocks gather more strength, even as Brent oil's price tops $90 - couriernews.com",
-        "source": "couriernews.com",
-        "published": "Tue, 21 Jul 2026 13:44:46 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPa0t3MnlSVmd1R0ZINDlBbWFwZFZzbzlydDFSQWJRVnhkZTRSMXQwQjVoOVhfaTh2M1ZFdzMwY3k5aWRpblZGNDdCTkpyeXYwRWNPWldzQl9QYjdFQklzVTVmNmRuYUdscFNveThlZkdEanBlVGFuYVMzcXU2aWNmdjZFYUV4SHhLQWRMREk2UlR1d0toNDNybGM2U25aTjNLNXBQLTVYcFFCRUJhcGVwVE9zTEExSEZIOU5RSTZ0RFBiSmI5UE14U1Q1SzZILW5ySGdQMnpobGhDa0VvVVd1OXlGbXhBME1YN1dB?oc=5"
       }
     ]
   }
