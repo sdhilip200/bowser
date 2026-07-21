@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-21T18:56:11+00:00",
+  "generated_at": "2026-07-21T19:21:27+00:00",
   "fx": {
-    "nzd_per_usd": 1.713004,
-    "as_of": "Mon, 20 Jul 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.709594,
+    "as_of": "Tue, 21 Jul 2026 00:02:32 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 88.78,
-      "latest_date": "2026-07-20",
-      "delta_1d_pct": 0.77,
-      "delta_30d_pct": -6.58,
+      "latest": 91.36,
+      "latest_date": "2026-07-21",
+      "delta_1d_pct": 2.4,
+      "delta_30d_pct": -1.86,
       "series": [
         {
           "date": "2025-07-21",
@@ -1013,15 +1013,19 @@
         },
         {
           "date": "2026-07-20",
-          "usd": 88.78
+          "usd": 89.22
+        },
+        {
+          "date": "2026-07-21",
+          "usd": 91.36
         }
       ]
     },
     "wti": {
-      "latest": 82.24,
-      "latest_date": "2026-07-20",
-      "delta_1d_pct": -0.3,
-      "delta_30d_pct": -11.61,
+      "latest": 84.63,
+      "latest_date": "2026-07-21",
+      "delta_1d_pct": 1.68,
+      "delta_30d_pct": -6.53,
       "series": [
         {
           "date": "2025-07-21",
@@ -2025,46 +2029,50 @@
         },
         {
           "date": "2026-07-20",
-          "usd": 82.24
+          "usd": 83.23
+        },
+        {
+          "date": "2026-07-21",
+          "usd": 84.63
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-07-20",
+    "as_of": "2026-07-21",
     "regular_91": {
-      "avg": 2.919,
-      "min": 2.676,
-      "max": 3.3,
-      "count": 60
+      "avg": 2.936,
+      "min": 2.69,
+      "max": 3.649,
+      "count": 69
     },
     "premium_95": {
-      "avg": 3.113,
-      "min": 2.756,
-      "max": 3.289,
-      "count": 27
+      "avg": 3.1,
+      "min": 2.619,
+      "max": 3.639,
+      "count": 32
     },
     "premium_98": {
-      "avg": 3.189,
-      "min": 3.027,
-      "max": 3.319,
-      "count": 8
+      "avg": 3.247,
+      "min": 3.219,
+      "max": 3.279,
+      "count": 4
     },
     "diesel": {
-      "avg": 2.47,
+      "avg": 2.473,
       "min": 2.226,
-      "max": 2.817,
+      "max": 2.819,
       "count": 75
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 4.9,
+      "min": 4.9,
+      "max": 4.9,
+      "count": 1
     },
-    "observations_today": 79,
-    "observations_yesterday": 82,
-    "observations_older": 9
+    "observations_today": 75,
+    "observations_yesterday": 98,
+    "observations_older": 8
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8589,6 +8597,12 @@
         "title": "Fuel Prices Push New Zealand Inflation to 4.1% in June Quarter - Devdiscourse",
         "source": "Devdiscourse",
         "published": "Tue, 21 Jul 2026 05:19:59 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObVJ5RG16TXFmSFFobE15QzlRWWVMRTkxUlN2YnpnUnpVVHdiX0F4cl9QZllDZmVZaHktWG52QkhfMVBUclY1RWdLTV9kclFFWTFvNFl0aDdxVUdxcHp5UHRRVjRtSUZxTDU1NVRrQU1ia2ZnX05lU090a3NWWEJhUHduMFUzZTB6dTlwVkc2ckVOSS1IUldsNHhJY1c3NEhoYjI3UXBKdm5fR0dyZE5ydE90UnFPd9IBuwFBVV95cUxOZ1VlNU1zc1ROa2tKMnJlbGlicDhkdTRVMDM0dDAyWVg0X0lSRDJhWVRoMDgwY3ozVEdKcDJBd09zN3FJUG0zQkFHRGxETzNMNV94MFFjdWRPYmdSVTl1b0JMUTgxeldpM1V3Y3lKTkR1X0JvNGswaWhHalEzZGlvSVlUNFdLMlFVdkhVSklPd3A5Tm5PMlJNdGZOODFWSXgtQ3ZRb1Q5RVI1ckZYWV9NVHFTRmEwVWw2bzdV?oc=5"
+      },
+      {
+        "title": "Fuel Prices Push New Zealand Inflation to 4.1% in June Quarter - Devdiscourse",
+        "source": "Devdiscourse",
+        "published": "Tue, 21 Jul 2026 05:19:59 GMT",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ1VlNU1zc1ROa2tKMnJlbGlicDhkdTRVMDM0dDAyWVg0X0lSRDJhWVRoMDgwY3ozVEdKcDJBd09zN3FJUG0zQkFHRGxETzNMNV94MFFjdWRPYmdSVTl1b0JMUTgxeldpM1V3Y3lKTkR1X0JvNGswaWhHalEzZGlvSVlUNFdLMlFVdkhVSklPd3A5Tm5PMlJNdGZOODFWSXgtQ3ZRb1Q5RVI1ckZYWV9NVHFTRmEwVWw2bzdV0gG7AUFVX3lxTE5nVWU1TXNzVE5ra0oycmVsaWJwOGR1NFUwMzR0MDJZWDRfSVJEMmFZVGgwODBjejNUR0pwMkF3T3M3cUlQbTNCQUdEbERPM0w1X3gwUWN1ZE9iZ1JVOXVvQkxRODF6V2kzVXdjeUpORHVfQm80azBpaEdqUTNkaW9JWVQ0V0syUVV2SFVKSU93cDlObk8yUk10Zk44MVZJeC1DdlFvVDlFUjVyRlhZX01UcVNGYTBVbDZvN1U?oc=5"
       },
       {
@@ -8614,12 +8628,6 @@
         "source": "WSJ",
         "published": "Mon, 20 Jul 2026 23:43:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZXg4Z1VYSGl5MnVrWVFNM2VOQ3oxZWwwTU9FLTcxYjRfQU8wZTRWT2ozR1Uxc2VWXzl3bzNsTmNveWJOV1N5b05LY2FOYXNDWFhtblpJbmEyclVRNzE5Z0lNYWtCc0lNRWFkdnV0Z25aMXNqTHYzRXhtd0F1eXE3bGNMdHJMeVRHNGVfYmExT3Y5Qk9CaV8zaHNmdzZaSllubGc?oc=5"
-      },
-      {
-        "title": "New Zealand Inflation Accelerates to 4.1% on Soaring Fuel Costs - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "published": "Mon, 20 Jul 2026 23:42:22 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeGNNbmxBMXFGcWVMM203RVNUNUpRcUdjRWhVenQzMHNxZnhMSnFDam5RVGk2WS1BaFdPOXc0azQzVTA5dkIwTUVRbmZaUEpEVmFKV1NmVGd4VkZJUUs3cUpjMVFpRFY3R3VQYXBQTzhCVlRDVE5aZm8yOGxmRDBjQVRPWlk3dVoyNkd3UE1JZEgzQVdsb2Q5dDh1bEd4VWF5TlVqbmZvYXd5MDBZQW5rY1pWRQ?oc=5"
       }
     ],
     "global": [
@@ -8660,16 +8668,16 @@
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVXNPcXNfUWhpVWd5YncwMlpqZVJ3YU4zSGg5akxGSVBQVjllY2pVTEVjbmtXempXbk9tc0Ewb1J5akdlaFNEOW9PVWpVM0N4Y3UzOTNVNXNSOUExX3dGWmdlblg1QzZzMHRlT3VmeUdGOE5FcVdRNXVTcmtZbG5IM0p4cHRURlE0YzM2VUFmTF9rVDhwQmwtcWxZa0M2Uk9ubjB6WHlOSzM2aXZOX1Rac3VWTWFNSDRURVVvcHhydGY4QmdnamJZ?oc=5"
       },
       {
+        "title": "Goldman Sees Brent Exceeding $120/bbl in Q4 if Hormuz Disruptions Persist - EnergyNow.com",
+        "source": "EnergyNow.com",
+        "published": "Tue, 21 Jul 2026 16:03:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa2w0R2VtTkMtZVIyU0dBU0I2Rk1KclBkVDNmZ2dXeW9NZ0lmVDdHWFJ2RURGRU43VUw5YmU3YXdqOE5WOGhPeDBtSkw4a295WFdJNENyXzFhYUgxT2tTd09JVF95YzlFUjBFOUItSHpaWnd5dDVrLU5rTHdjZm9TMEFrLXYwRlMwVnkzdWwtX3BDblhCT3JVRUFXRk15aHV5RF9CMEVR?oc=5"
+      },
+      {
         "title": "Russia, Latin American suppliers to rescue: India’s Middle East oil imports dip in April-June on Hormuz d - The Times of India",
         "source": "The Times of India",
         "published": "Tue, 21 Jul 2026 15:54:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQQVhLXzRNejFhZDNHU2pERFZ6OEl5eGk5SW9EMDNGTGpGTHlrMThiVzNscWRaUU9DRldPbm9BN01QXzRHVl92RFJZVzl4Z1pwWURldTlQNjBDMmVNcW1NYUFCNFY5enlsN29uTjVUbms5Z29tVmRyZy1OblpmUnhsS0hHdzh0dkp0TzRZZFlreHVMcURPMHB1azQxRkpWb0tBYnEtU1h4U0VIYmhKcExzY29Kd01JdjdWUkZXNzIzb21zenBIN0c5Z01JS2VtTU9OV2o5SGhYZExsZmcxTzNhSzlvMWtBNkVBZ0tCQWExaVdLeGNQMEZDMWc4SklLTjZfeFI3R3lZSGh2R1hmaGpmaXBOYkMwNDQ3UlNOOG9tZFIzVklE0gGqAkFVX3lxTE5SSDk0WEM2TkVFb05oT05saDBZVHU1STUxVV9SS3VCc0pYSWd3VGFKOUVTanYybHdMVS02Zzk3YlI0djA1ZVNXZ0xMQXN2aEZEUjlEblVUT05HYlVNb2c3ZlBwMnpvVHlRUzNhUGNZV0t1Yko0b1RmdWlVejZpVEdFdjlwYmNOUHV6eFBzcjdpUERNblRKOWFMMjllbDZnZ0RpZlBuT0tnZmgwU0dWU0FPMkFTbEk3ZXl4Q21GeExOLUFPY29ndko4cE9ldWEyc0dlb2g2UUN0MXZMckNFdFRIck1JQVZ3WWVfblI0dFdxUDI2elgyQlpZTVdZUXVjRjR4bDRmZ1lqUGZTbC1scE9pSUtIaHQwSzZVaUpHNXdOX3pRdjFrN2hXRmc?oc=5"
-      },
-      {
-        "title": "Houthi Threats Ignite New Oil Price Surge - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Tue, 21 Jul 2026 15:53:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTHh2d3k5X0xzQVBUOEJqYnNGTzNOcXNlcFg2WXNBemE4ZmtYM1M4ekEwbzNxQlFrazdqemdrSTFKaGNnenhVODV6ckVYT3VBMGZJVHZzQ0dkTTl6aFRFMV9fQTVzVmo0cDFlLVZ3VnJ4WTNMZlREaW1xTmlkMEtYQmE0cmgwbFhwRS02N9IBkgFBVV95cUxOeHZCcFBqSWlrWHd2aEZFMmgwU1d1RDltVEhCM1hqTkZaQXhyd2NZTkJDZlRXNmpGLUJvOXJEOTJDZGFZbjQtb05iVXVkbEF5N3BLcUVIbjcxSHlfLVhFZUZRR0VZa1RBUXlxaGpXOF83clh3Q09oUExLOHIwS1NteHpnZThxMWJFc1FKa0ppOG5qQQ?oc=5"
       }
     ]
   }
