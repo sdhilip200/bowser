@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T04:41:58+00:00",
+  "generated_at": "2026-07-22T07:25:40+00:00",
   "fx": {
     "nzd_per_usd": 1.709594,
     "as_of": "Tue, 21 Jul 2026 00:02:32 +0000"
@@ -8582,6 +8582,12 @@
   "news": {
     "nz": [
       {
+        "title": "Fuel and power costs mask market resilience, says Retail NZ - Inside Retail New Zealand",
+        "source": "Inside Retail New Zealand",
+        "published": "Wed, 22 Jul 2026 06:34:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRm1QZHVMd2pWbnJCV1BiRkdGWG5XcUczUHQzTVBTOHM2QUhxc3lmbTI5SzFkemp1THRLdG5PZk5kcTlWSEVTZzNqOG1HOUxOa3F1bWcwdjFBRjJKZG42c01MSkZWS3lxZkNfMldkWDNscEcyZ0d3LVpVNUJhbWhYYUZjem9SZVpXNDNEVzZjYkpMcl9sdUVEVkg5SGNJQQ?oc=5"
+      },
+      {
         "title": "Inflation hits 4.1%, highest in over two years - 1News",
         "source": "1News",
         "published": "Tue, 21 Jul 2026 20:32:49 GMT",
@@ -8592,12 +8598,6 @@
         "source": "NZ Herald",
         "published": "Tue, 21 Jul 2026 10:04:05 GMT",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNThlQjlxdlQzQUpCQUFFTXVOOFE5SF9vczNGeW5USE54T29rdWpoQXpvSHNJVWlrX2YyLUxqdXo5U0ZsbmhzMG9mdkFCWmtvZll1SzN4TDU2Nnl2ZThua2gxeVpvbTBBYkVXTkhDQnM1WkYtSlEwYVRBMm1uNl9QTXFSTkI1a1g0eTVQY2d0bm1DRm9ST0U0aWxvRVlZSXZjQV9WNmJCWHBKbkpSSkNqODN1NnlnYUtwMTdvRjY5eEc2Qk1TT2EtQmJqRVI?oc=5"
-      },
-      {
-        "title": "Fuel Prices Push New Zealand Inflation to 4.1% in June Quarter - Devdiscourse",
-        "source": "Devdiscourse",
-        "published": "Tue, 21 Jul 2026 05:19:59 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObVJ5RG16TXFmSFFobE15QzlRWWVMRTkxUlN2YnpnUnpVVHdiX0F4cl9QZllDZmVZaHktWG52QkhfMVBUclY1RWdLTV9kclFFWTFvNFl0aDdxVUdxcHp5UHRRVjRtSUZxTDU1NVRrQU1ia2ZnX05lU090a3NWWEJhUHduMFUzZTB6dTlwVkc2ckVOSS1IUldsNHhJY1c3NEhoYjI3UXBKdm5fR0dyZE5ydE90UnFPd9IBuwFBVV95cUxOZ1VlNU1zc1ROa2tKMnJlbGlicDhkdTRVMDM0dDAyWVg0X0lSRDJhWVRoMDgwY3ozVEdKcDJBd09zN3FJUG0zQkFHRGxETzNMNV94MFFjdWRPYmdSVTl1b0JMUTgxeldpM1V3Y3lKTkR1X0JvNGswaWhHalEzZGlvSVlUNFdLMlFVdkhVSklPd3A5Tm5PMlJNdGZOODFWSXgtQ3ZRb1Q5RVI1ckZYWV9NVHFTRmEwVWw2bzdV?oc=5"
       },
       {
         "title": "Five takeaways from today's 4.1 percent inflation figure - RNZ",
@@ -8612,12 +8612,6 @@
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54cWNFV2xzdHdrNk4zeXN0dHhRR0JZNmtXbDhUMThxWk9mdDZ1Q2hUX2Q1OWpWdUg5V2t5OWJRMGNwM1d2QlEtUktHVWYwbVBLb0hUYWhpczlLdmpzZHllZk9iVzRCcWttbWpaVk9B?oc=5"
       },
       {
-        "title": "New Zealand CPI Hits 4.1% as Fuel Costs Reinforce RBNZ Challenge - ActionForex",
-        "source": "ActionForex",
-        "published": "Tue, 21 Jul 2026 02:07:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlRGZ1VHQVEtVjMzeTJDeWFDbHNOUThNOGtKajE0OHozTDNZWlY0b052YW1WaDA5SW90ckJVVm1TYnJua1h0Z184XzdGbmtrRE1jQXNDVFBLcnNfVUlBOGpnczcyQllrdWo1eTlQLTRpbHAwdGtrbnJPTEF0TUhzbHZJcVFPSmgybENadW9RdzBmQU43NmxRc0VCbWp2WDJucUFzVGkzYXJtcFBKaWtEYzhEcw?oc=5"
-      },
-      {
         "title": "New Zealand inflation climbs to 4.1%, highest in over two years, as fuel prices bite - Firstpost",
         "source": "Firstpost",
         "published": "Tue, 21 Jul 2026 01:23:21 GMT",
@@ -8628,56 +8622,62 @@
         "source": "WSJ",
         "published": "Mon, 20 Jul 2026 23:43:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZXg4Z1VYSGl5MnVrWVFNM2VOQ3oxZWwwTU9FLTcxYjRfQU8wZTRWT2ozR1Uxc2VWXzl3bzNsTmNveWJOV1N5b05LY2FOYXNDWFhtblpJbmEyclVRNzE5Z0lNYWtCc0lNRWFkdnV0Z25aMXNqTHYzRXhtd0F1eXE3bGNMdHJMeVRHNGVfYmExT3Y5Qk9CaV8zaHNmdzZaSllubGc?oc=5"
+      },
+      {
+        "title": "New Zealand Inflation Accelerates to 4.1% on Soaring Fuel Costs - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "published": "Mon, 20 Jul 2026 23:42:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeGNNbmxBMXFGcWVMM203RVNUNUpRcUdjRWhVenQzMHNxZnhMSnFDam5RVGk2WS1BaFdPOXc0azQzVTA5dkIwTUVRbmZaUEpEVmFKV1NmVGd4VkZJUUs3cUpjMVFpRFY3R3VQYXBQTzhCVlRDVE5aZm8yOGxmRDBjQVRPWlk3dVoyNkd3UE1JZEgzQVdsb2Q5dDh1bEd4VWF5TlVqbmZvYXd5MDBZQW5rY1pWRQ?oc=5"
       }
     ],
     "global": [
       {
-        "title": "Tech lifts Asia stocks, Brent crude back above $92 - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "published": "Wed, 22 Jul 2026 03:03:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ0hPQ01LSENIYllWS2ZXRFdnaE92dUF5TWEwbkprVk1JNTBXZnNybnRfWk1EUHVtSTU3MmxRcVNGMEcyNm1VNTFpS0dTQlg1NFJMMWlmb2FBSlZSQzF4QVJJU1RFcW9hTjZiaXBPb29hQV9WWHBPZ0p0dVFTTXBwYTFCdlZMYzAzcDVra2dWcGh2dDQyWVZoODhLQUJldVZIR2c?oc=5"
+        "title": "WTI Crude Rises on Shipping Risks, Hits Ceiling - TradingPedia",
+        "source": "TradingPedia",
+        "published": "Wed, 22 Jul 2026 07:03:28 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd1BVejFRY2JJVHNuS3NwcUExekxrV2dnbWdpaUVqVC1iRU9uSGJGYkJicFNXSlNBRVloaW01dlJJZVNKNWp2MkZhRGdBY0dmamdVYWs4WkJ6c0h0UDFVSnRoNlhFcjJSUHIyUHd4TGE5OWhoRHBadlprbWhOTllvN2N6T1g4SXVjR3liakdWb1Y?oc=5"
       },
       {
-        "title": "Crude continues rally: Brent tops $92, WTI above $85 as Strait of Hormuz tensions threaten global supplie - The Times of India",
-        "source": "The Times of India",
-        "published": "Wed, 22 Jul 2026 02:19:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPYnBNNEJjRXM0Tlh3RTZvNjNLTC0zOHhaTWd1bk5vbkVQak1QUGZrUU4xYjlPZUx6UWl2T0lNMlVNRUxCSkdPQkRRWHlDNU5BTHFjUk80c2JQdkViZmlLUVVWM1kxclMxYUdpR2htcEFzVWVHa3pRcWFmRjJodWlXUjlJd2g1MGQ0cWhiaFhaQWJRb0RQLXR4Q0ZzdlotNDl1QlVrdUE1a1VTeW56dkcwb2R1TnJnRHY3bVcxRThnWGVNQzUzN3FTelJMekhFQXd6eDVRNXRpR2RUWnNfUzEwckNUUDI3bExsXzM4ZTd3QWtKZlFTSm10NnVjaUJ1YWdlajNEQkp2MkVRdnFOVnpVN2NmbV94c3lOX2xJWE5BQkxlQdIBpwJBVV95cUxNaWhLZHIxXzBiTjZiWEJwSUNodnlYNEJJREZWLXFWTVBwazc3bmZtRnNSaE5SWW9aVHVaLS15NEMycHpWXy1IUW5PR3BtcjJvTHc3bExmbFI1aVpUNy00S2dMTUlXb1hqY3ZnbFItWFNQRmIyOVdlZVlkOUZhUHd0UkJTVktVb3drejVWNlN5VmZ3eVVhOWJnRVdxX19QaEFJcjFpUFItYnpJM3lZV2RRbzRkNGJLcVlHbExFem83bmhzWFlEWS1idjlKSXp3NzNVLWxhM0pUaUFVOVNaY2NqTlU5RktRV1hqSFU2Z0xWRVhPLTRvTFJxQnBrWDBwbG9GUGw4TkFtUTVQTGtYQ1BsRzN4RnFIZktQaWNBYnVqOHBuNjZIQ1pz?oc=5"
+        "title": "US says sanctions cut China's Iranian crude imports by 40% - Quantum Commodity Intelligence",
+        "source": "Quantum Commodity Intelligence",
+        "published": "Wed, 22 Jul 2026 06:38:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWWVNMkRpX0FyYng2N1FINUhfcFk0WGNlVjkzTl9GWU9yMVFSRXhEazNjYmZSNHRoZWZVWk9rbTFXaWVOTlhYa1VOd00ySndWc0lpV3ZMRHB1LVl4NVFxNWFreUQzUEI5Y3UzSDVnVFpmRUF6eld5TlVaZ3RGejVqSWhFQm9VQjZiZXVWQkk2VFBVc2N4MzgyZGxONFphOGhpcmc?oc=5"
       },
       {
-        "title": "Oil hits five-week high as Middle East supply fears deepen - Nation Thailand",
-        "source": "Nation Thailand",
-        "published": "Wed, 22 Jul 2026 00:57:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRV0tyRjg4eWdIUkJyOGp5bE5fYnNZX1NybzhEY29kTHI4d1Z4Q3J6RVBmYmlsLVFud1ZoLS1WczlXdnNyOUxWYWlSMjJ6U2NGMzduSWVFUmZzb05PbU5B?oc=5"
-      },
-      {
-        "title": "Goldman warns Brent crude could hit $120 if Hormuz disruptions persist - Crypto Briefing",
+        "title": "Oil prices climb as Middle East supply risks resurface - Crypto Briefing",
         "source": "Crypto Briefing",
-        "published": "Wed, 22 Jul 2026 00:11:49 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQnFmTlQwSTFLMkFHRTFXNVgwTjdGSDJLa2pvWnVhbjdpRXhxUWZEX2I1Z1NNOEpFeUFxUFFGZlRJVHh3NzB2WDJkaE5YVERBM1lwSEloWWcxNkhscVlrZjcwLWhROW9qLVJRalBrYmJjWjlsWHNBUHVDNTJlUFVyQzhoQktMZUR1ZlhZdjJHVWpjZWtDNlpwQU1YeVRyUQ?oc=5"
+        "published": "Wed, 22 Jul 2026 06:30:11 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRFhZbk1qZWRlekNtQ3poamJjN3NtMUM2bnI4UjFfSUxRQmhNZWdudERYTENQeUJLRE9STTNSSHRXdzJ3cDhoVnVGM2x3dkZCa19BaE1vcDg0YkxudmZrUVdBRjB3S1UyMzV3OEtXWHZxQ3NkalVXV25nUS14S0U3eS1aVnRoSDIycEE?oc=5"
       },
       {
-        "title": "China's Next Move Could Decide Where Oil Prices Go This Year - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Wed, 22 Jul 2026 00:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRzAtNE9oYnJBWmJSaWpQd2R0Y3gzSjZfai1CdmJmZUVCMXhSZ2FkRkdmdk5lYmhVMFh4YzUzNTFhRTRQQVF4TnYwN0dCdGY2OWUxT29JZWVPVzZLRmlhWFRaajdFTHhKdElNeGp2bTNjT2hrcDd5SV8zVlpDai12eGdOQUhZVUw3Ti1LZFJyRm4zNzZqSG5jd2RqOXUtZnNOSVlwSzVR0gGrAUFVX3lxTE9Iak5wWWlmRDJIeVkyZlh6d3VyWlhwYllWTnZmb0sxOUU1YjlNZDZXRnpuRVhsUXdVcUpObVZ6ZWk1UWRUUFhlaXpsMWE2UmNoLXplR2wwWENrZGR5YjlXNmIzYzB5c1ZMZEFKbzJNZ001dTViVlRNLVd1MXFDNU5hT2VUQXM5MTNQTFFzM0J2SkNnTmpPazlKZlF0b0V2MGxJWnFpbmI0a0JJZw?oc=5"
+        "title": "Oil extends rally as Brent surpasses $92 a barrel - Latest news from Azerbaijan",
+        "source": "Latest news from Azerbaijan",
+        "published": "Wed, 22 Jul 2026 05:25:46 GMT",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DUjE1NzRUNGRXT3BnaDBZck9CWWRvRkFlNkdBbEsycm0zcTI0Skg0aER6X2dJaDZMbWlaa0hPUzdrODRkbTM3WE5aVHNRcC1ldFhCZXdrZE1Vdm1zRFgwY2FCNDRRU0hLeUhjY2owa0JQQld4c3VQdw?oc=5"
       },
       {
-        "title": "Oil Rises Amid Growing Concerns Over Supply Disruptions in Middle East - WSJ",
-        "source": "WSJ",
-        "published": "Tue, 21 Jul 2026 23:38:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUmpVMTZmUmllOVItTEVURTlDT1o5R0VqWm1nWk9oelNBSURwYmZSSGJhQ0dBOEpYQVZOMDdPVmRVR1RRZXo0dFRQNWhxUEN4OXltZlVYZWhQMnlLSE5ldmFnaXZiNG1lQzg4aUxsTm9DUjlrenFYZE8zVGI2S3VTU2lUZzRzMVA0RWU3TzhZcGRrdTJKZ1JWTDQxNnBQd01UM1Q2YnRqbmZTWUw3Sy1yOFc4ZlZpR2J0YzhSb2hOYzBjMWszN0E?oc=5"
+        "title": "Elliott Wave analysis: WTI Crude Oil (CL) five‑swing rally from July low favors extension [Video] - FXStreet",
+        "source": "FXStreet",
+        "published": "Wed, 22 Jul 2026 05:16:04 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQUlmQklvMzQzbFlzc0xaOFk3UGpKeVRfSi1QTVkzeHBtMHN3SlEtektCUTdRSkFtTFZqS0NIaHBpMU1QSkkyU3dXdC1OTjFaUllwaW1qLWZPMGdKWUU0empJZEhFcFBnVGdpd3NmT1RUczA3c3hPOUNIa0hFbWh0Unl0UjFsdG5xZ05iaWtpQzRlOVJ5Q2s2dnpoNDYzdzBDQlEwQmdtYnA0RFJNa0h1VEt4YVJOYUs0VUtJbFVkX1BFOFhtTmpWQUpSU1Fadw?oc=5"
       },
       {
-        "title": "Treasury yields rise across the curve amid Middle East oil supply fears - MSN",
-        "source": "MSN",
-        "published": "Tue, 21 Jul 2026 23:26:15 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaWVrbVlWamsxTk15em4yTzc3RTFURDE3QzFIaVh1RmxBY292WVB1SUZ1eGJCRk5yRXBzZnJzWERuUlkzMGdabk1hVDRIaVJDQlRqZUgwUmo4S3RrQXZuQ2tfNFpWQ25fYXNCVmVCOVp2Z2VleHZfZDNkN2lkYUNFMy1HR0xMa2pkN3o0cUFwd0RHUjVBZkJjdG1sekVqU1ZkVXgxRmxNN3k4dGJJZlRwSmVtSGFHNzVYZEZTSndpUVk?oc=5"
+        "title": "Why the EU faces a Russian oil vs LNG sanctions stand-off - Financial Times",
+        "source": "Financial Times",
+        "published": "Wed, 22 Jul 2026 05:00:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZERtNmtNVXBNTG00VWl5ellyejlDSEw4aG4xNFV2aUdLSkd2TnRHNU90TzBlbVY2ZHpBMDZ2TWxvNGFzLTlCR2REVkFPMUdEVVN3MlM4OV8tdk44cjRMZjRzVzJqelo3aVJBVEZVWndxZWtObjh6YUxwczRRMkJEd1lrWlM?oc=5"
       },
       {
-        "title": "AI stocks lead Wall Street higher, even as Brent oil's price tops $91 - Inquirer.com",
-        "source": "Inquirer.com",
-        "published": "Tue, 21 Jul 2026 22:19:24 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUnhDS1c4LVJFb2JUamtyRVM2cGh2WUQ3eXJaRGluOERod3B6bkNITGVONGF6ZXBpeG13aVpYT3RkVElRUnlXMXB6UlFkLUpacklSUWRUOGcwMGdGdGpzZEYwSWlvaUE2NzcyMTRQX1pXdTd0VVBoZjBuTXRSQnc3bFdB?oc=5"
+        "title": "Asian shares edge higher after Wall Street climb, even as Brent oil keeps rising - Yahoo! Finance Canada",
+        "source": "Yahoo! Finance Canada",
+        "published": "Wed, 22 Jul 2026 04:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNFNvT3VuT09ZSmhGalhPb3ZqS2o2OHVNY2g4UDVuR21uSE1NUG8tczktQW91djl5RDNwbDYzb1d5dTdzVzN6WWREYnRSblJpYkpTSE1mRTRNaFU4dkJnRUJCV28wM1Y4c0NPOW9DcGxhZHdseTZtZ0NSUi1mRE8zTlRGOWE?oc=5"
+      },
+      {
+        "title": "WTI Crude Oil futures rose on Middle East choke point risks. - CME Group",
+        "source": "CME Group",
+        "published": "Wed, 22 Jul 2026 03:46:46 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcXZ0VUFMNzdRWXl2enRZVWo2ckVTSWdiclJaYzc3ajduWU55WjFtR3pMbWE2aVJ1VGFwVTBVZFM1WnM0UG1MaXNiaExBU0tvMUNWNURmb2FOVzNKNG5tRkRyZlNrZEIyM2x5eGJobVY2NWpJWldxNnB3Nzk1OW1ERGtLdXJaczUtOGZVRWJxVENEb3NuQlZWb2NVa1FLaF9jcm5IVmxGUHl5ZzBNRnE1MQ?oc=5"
       }
     ]
   }
