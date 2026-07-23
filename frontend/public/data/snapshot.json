@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T21:47:04+00:00",
+  "generated_at": "2026-07-23T23:07:33+00:00",
   "fx": {
     "nzd_per_usd": 1.719699,
     "as_of": "Thu, 23 Jul 2026 00:02:31 +0000"
@@ -8582,6 +8582,12 @@
   "news": {
     "nz": [
       {
+        "title": "Oil price shock for New Zealand far from over - Westpac economist - RNZ",
+        "source": "RNZ",
+        "published": "Thu, 23 Jul 2026 16:43:11 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMFFnUzVWcW1PTTJZbWZPdWp2eUlTcWJlMW1ZTFhUMDhrU3dVWXpaZUJaTkN0QXotQVBVN29EVUJwd3d3NEJ3eTgtU3NfUzJWZm00TXkwRV9MS2h2cHdudy1WSk5yTlB1TDdneG9NWW91ZzJaOGQ0ODhtelp2Z2I4SkZSTk9vakxFUFN4dzRpU2tBNjU4UFg1UUVmZkN3Wi1NSTFOZG1SNTQ4dw?oc=5"
+      },
+      {
         "title": "Air NZ not ruling out more cuts to services amid jet fuel spike - NZ Herald",
         "source": "NZ Herald",
         "published": "Thu, 23 Jul 2026 05:05:25 GMT",
@@ -8606,12 +8612,6 @@
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdEZJY3Q3dE94SHJJS2cwcml2eTRxa3hiM0hQWTVUelpaeG9FSC1wNEFPTzI2VG9pQVNKQ0ZuNTh6QjJwdXN3MTVEaWRsNzdoRXBnUEY0UndiU0U0LVJUWkxiTVluQk1uVmtYWjVBZ20xVXRjXzg5dDY5eUg3RmczVUJGTVhYUEtUVDZLSXdTVEVsemh1UVhpQzFmVmozMEFDeXdyVmhtblE?oc=5"
       },
       {
-        "title": "Inflation rises to 4.1 per cent - Times.co.nz",
-        "source": "Times.co.nz",
-        "published": "Tue, 21 Jul 2026 02:42:17 GMT",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54cWNFV2xzdHdrNk4zeXN0dHhRR0JZNmtXbDhUMThxWk9mdDZ1Q2hUX2Q1OWpWdUg5V2t5OWJRMGNwM1d2QlEtUktHVWYwbVBLb0hUYWhpczlLdmpzZHllZk9iVzRCcWttbWpaVk9B?oc=5"
-      },
-      {
         "title": "Inflation hits 4.1%, highest in over two years - 1News",
         "source": "1News",
         "published": "Tue, 21 Jul 2026 02:18:44 GMT",
@@ -8631,6 +8631,18 @@
       }
     ],
     "global": [
+      {
+        "title": "Oil Set for Weekly Gain as Middle East Crisis Fuels Supply Fears - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "published": "Thu, 23 Jul 2026 22:04:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS1hVcGRHdThCRFI5aG42NEhYdWxOY2wyaW00czNSR28yWUtnQVpSVWdJMGd4T0M0eW1xOFowU2VnaTBwZnJPUlpyOHR2LW1vMTlDd2pjZGJfN25GbkZFNTN3V2syZDlnX1FKSkQ1dy1FWnV3ckd0NVJYdXBMT29VZVJuUmFqcjJFemF0M1NFVWk3aFhDQlRQVEdocjdWMkE?oc=5"
+      },
+      {
+        "title": "Gas, groceries and back-to-school items inflated as shoppers now see higher oil prices surface - New York Post",
+        "source": "New York Post",
+        "published": "Thu, 23 Jul 2026 21:26:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMUdWVlNnNTE4NWYyczF0a3pWY21TR3E2Q2dHTjgtVUhFeHFHekhiUGNtejY2VVBGTEg1SElyZW1IYUNCNHZIRTZPU0IzSGR2WDNXVHZKNjZMQnYwUTRsYUNaOF9Tc1lsVXJMNFZGNHZPR05FQnM0TENwNFJQcE0zTkNUWHJHUTlSeFJ5N0I2TmhyWjgtVmZoMWJHeXdtZ1VHNzFId2xKaE5rbWFuWHRmWjZMU183QTAxNlB4Mlp4eE5fVnFaVm9lbWhBN2YyQQ?oc=5"
+      },
       {
         "title": "Brent oil tops $100 per barrel, as tumbles for Tesla and Alphabet yank Wall Street lower - AP News",
         "source": "AP News",
@@ -8666,18 +8678,6 @@
         "source": "Euronext Markets: Real-time Stock Market Data | live",
         "published": "Thu, 23 Jul 2026 19:37:56 GMT",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc0lhWmtjaElIdFhkNnFUcW5tS1pfbVNUVUNIWHVoNTJxcVM0d0VYbEpUek5USVREYmRram5EY2l3N0pDSHJ6d21RY1dOdUtNZFpYLTA1WHRBYU1TR0FrUzJPZTFnZEUzUkdCU2oybV9QbE1QdkI2cEg1SHBYTkI5RjJkS19tUXRUMWs5YTN5WGk3UGtYM2hCUXRUR3NBSWcyQ0hXeDBHczFSV2pWbXhGTnBnV0M?oc=5"
-      },
-      {
-        "title": "Oil surges to $100 per barrel after Red Sea attacks - NBC News",
-        "source": "NBC News",
-        "published": "Thu, 23 Jul 2026 19:34:27 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMHdMaXlYMmdiMllLaVZGYnpYUVpNNkUzRVJVY3VkcXhWU3RFY0VRX29Zel9taHRSejBKQmZWc2pRSVMxMjlPM05tdVJpeFozM2x4SVptdlpZVzJCSVFkNVIxOEZCUFZkY0o4Zk45UHR5WTVvZGROVjV1Rmh4eFV3ZW9iSDA0eVQ1aUJhWFJ0cWV0TENnbXJXMmlSTi1wMUZaZUJJd2RrV01YcUx2bmdhdk1R?oc=5"
-      },
-      {
-        "title": "Oil hits $100 after Houthi attack on Saudi tankers worsens oil supply disruption - KSL.com",
-        "source": "KSL.com",
-        "published": "Thu, 23 Jul 2026 19:26:45 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY21JeGFyd2hDc3U0X01pT1IzOVQtNzkxQUNwX2FwdTVjckZ0blpDbTVvVzlVaDAyZHFINURXRlZXSVZucGFGZkN5OTNCMFRvMFRidDZNWHIyYlZKQlBadWxRdURYZ2J2UGk4c3Z3dERfX3p5c2tLcXJ1UEpZNHgxUFhyUFNEdmVJRWRqbnl3T3hKZ2paZmVEa3c2b0FvczY1TzRlLWJmV2wySDluZzZVWkJLTXF6M28?oc=5"
       }
     ]
   }
