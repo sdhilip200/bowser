@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T04:45:36+00:00",
+  "generated_at": "2026-07-23T07:41:38+00:00",
   "fx": {
     "nzd_per_usd": 1.715316,
     "as_of": "Wed, 22 Jul 2026 00:02:31 +0000"
@@ -8582,9 +8582,9 @@
   "news": {
     "nz": [
       {
-        "title": "Jet fuel spike may force Air NZ to consider summer flight options - NZ Herald",
+        "title": "Air NZ not ruling out more cuts to services amid jet fuel spike - NZ Herald",
         "source": "NZ Herald",
-        "published": "Thu, 23 Jul 2026 03:58:10 GMT",
+        "published": "Thu, 23 Jul 2026 05:05:25 GMT",
         "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQnFWZHdRcUY1YjZvbkZIRDZ1M3VXRDIxaFNua2kxalI0cTJrUUk0c3RyemxFQWI2aXBDLW9vUEQ3MHoxUUcxNGNPdFZnYXg5SzVyYzdyblNaek5HcVdrQWk3T19DeW81am9HWEU1WlRreTk1SmR2aW00dTdSUmlIQnNOMmxtSm1zUGZWaW9VMTlUZi0tY092ODJacFBiWms0Z3lfT1dZRlk3RFptUnNUZFF1WjM5SVNXWG1LaTJIYTZaS1hCUTVLWEJaWjdmX0ppVEFadzFZWHVCcTA0Nm50NzVzVU15aFpMRTRwUGY0czkyOHJzRWxGNFFvU0F5dlVKT2hlcGZR?oc=5"
       },
       {
@@ -8632,52 +8632,52 @@
     ],
     "global": [
       {
+        "title": "EU countries clinch deal on Russia sanctions - politico.eu",
+        "source": "politico.eu",
+        "published": "Thu, 23 Jul 2026 07:34:38 GMT",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9weVZ0NDZqOGhaMjhJMENvaGtGZEw5SUpRVG0xMUFDVGFiblM0dURNYjI5RmY3ZE0tLXMxNEo2MUt6ai1mYl9RZ2NITmFQRzdUWTRfOVdHbWVNRUViMHlLaFFKSnBuT21UU0paLWRZRGx1VmUxZjVndmtwUGtNa2c?oc=5"
+      },
+      {
+        "title": "EU agrees to watered-down Russia sanctions amid Greek resistance - euractiv.com",
+        "source": "euractiv.com",
+        "published": "Thu, 23 Jul 2026 07:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbmN4RGc3eVhfVnllZjVaU0xHOUdicmc4THA0UWZhZU9NSm1EdngyUXFCcTNFYkRsbW9wQmVqUWlvcHowazJpUG9GVVI5ckVWblp5dUJMTUh3OEpIX0xiVU1MVldFZXh2LU9jSjYxTFFUTm5UdXBlWjdjZmFyQV9HSGFUUUFMVHliM2w4c2pGd3QydkdncnhKVTN6VQ?oc=5"
+      },
+      {
+        "title": "Oil: Middle East tensions raise supply risks – MUFG - FXStreet",
+        "source": "FXStreet",
+        "published": "Thu, 23 Jul 2026 06:40:29 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS3J5cWh5bFlhbWF6SmdIeWtadEt3TUx2ak14a1NuVHZYLUxneU9nSXEzVmZQYXRkek81ZVdBZVl2RFoySnNCZkRxUGhGWFpvQmhvMlR2QTFoLXlBYnlLLW55d3lUaXpUS1g2cXVRZVZPUWUtMlExcTNhdXdGTWdiNzNFd0xwM2JfSnFNRllOTG16QnlpUkE?oc=5"
+      },
+      {
+        "title": "Middle East Tensions Push Oil Prices to Six-Week High Amid Supply Concerns - jordannews.jo",
+        "source": "jordannews.jo",
+        "published": "Thu, 23 Jul 2026 06:34:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWW91RlY2U3NkZnRBYTFLb01oR19lTElWb0xtYjc3c3VnTDZlNHA0eUNjTVMzY1RELWxwbC1CSVBrSHRGWW5ja1dDTFpHOG5fcjd2S1FmVDNtYVZEMU1fVmd3V0lYVjUyR2V3cFRGZWMxOE5ibjVJNDlDQXNvcldUZmZ6RmFqbmdKTDEwelMxd3hnMC1veC1qc2ZPT1cwcm9BR0NVdGtaV195UXR0QS00eDBvX1gzeWZRNUw5c3EySmtYQlZI?oc=5"
+      },
+      {
+        "title": "Brent Breaks $96 as U.S. Strikes Iran for 12th Consecutive Night - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Thu, 23 Jul 2026 05:29:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMlZzYWRld1RjTUZ3LWZGRTBiTWlLX0xwRVh1ODh2WGJ0ZzN1cnhxQ3RaeU5DbUlrNFUwRmtpX2YxRVBDQm1sWmRYQ29lWGt0enlpWE9jeTZvZHNPUklhel9CWFVrcDlrMEdqUGRUcGRGeWZOTkY4Wi1XU0RsWVRob2xVMGVKUmRxMXYzUEpWVy1pX21UMllOakFZU2dUU3NEcWhkOUw1M0FjYjJiNnhKbkdQeUYzRGPSAbwBQVVfeXFMUEd3bkg4RF9SOHNSZ29tdllZa1pWRUQ3TzhRdThMNi0yMW81Tm9LX2pycVE0WnUyT0VkOEtaSnBfZFZmTFl2QTh0Q2ticjZaZUMwUkNXaXpRd3VPOFd6czVzeHA3UkFaRGRjMzE4NDZpc1FHT1g2WTJYcktCTVlWZW1oRi1yYThSZTlSNDA5Ml93d25ldUhRSUJJM21aQ1VPY3ZDbW1JVVQ1R3Itdk9qOTZOT2M5YVpFaGUydXg?oc=5"
+      },
+      {
+        "title": "Asian shares are mostly higher and Mideast tensions push Brent crude past $96 - WV News",
+        "source": "WV News",
+        "published": "Thu, 23 Jul 2026 05:25:38 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRlZIWHJVaGJoWmV0amlMRTNDbWVtLVBPcnZHZGNkVE5MdmFndHk0dTJyNldQbjNxZy1YbWExRFJGMDZLMERlbGZBeXlwdFNNeG9Ub2RSRGZUemZuRVBQX3ZZd21pRmY2R1pUQlhuUEc5VkhCMUJhajBZM0pzOFlLQ0tQY0YtQnZVMHNTTENPd0ZSWWZqX0FhYk50MG1LSE5Pem1PXzNRem5GdGJ5M2dFZUM0RmJrdmFNV3VCOS15cm1zTVg1TS04YS1MZlltNFNINTVWaGRfaTF4bkRiUG5DVk11SGNhNWN2QXdxdTFhLUlMVEloZkh3?oc=5"
+      },
+      {
+        "title": "Asian shares are mostly higher and Mideast tensions push Brent crude past $96 - Ottumwa Courier",
+        "source": "Ottumwa Courier",
+        "published": "Thu, 23 Jul 2026 05:25:38 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQZ2ludm9GOGtfTjBfQXVFdEl2aE9qVXBPNW5Rbm1GaFpBNUhfb3hPaXMteTI1d2xicUJFeU82WWdBeGFiMzJZRndIRG9kcS1mWHZqeGFVQjJlYTlObzFyMmREZVJ5YS1LMEN0bnYydElvRjRqeFNXSi0zSnJMckc4ZHBodU5FWFBScXlPX0tIejRmSjU0c2ZWZW95aXVaNXhSckpCSGxkWGRHdllYRDVsZkMyTEU3N2RadjRUakFDV1R1ell2cHBRODYwWTh0b3pUQWFsZlJuZTVhQjlVSE11ZFZLSG93MmFsb2JPVFc5ZTRPQjZvc1lETFIyQmxpNVF1cGhhQ3B0SQ?oc=5"
+      },
+      {
         "title": "Oil prices surge over 2 percent to $96.26 as Middle East supply risks grow - Economy Middle East",
         "source": "Economy Middle East",
         "published": "Thu, 23 Jul 2026 04:36:02 GMT",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONWxBZ2s0bUdBamtiUWhNT3JsQ0xjcTBuZk5sNzRTZUZyUTlYMFNVc2FFYUprYllYdWI3NVkyaHBCRGV2NW0weVVuWjBtQURjMkc3T1Z4akd6ZDRpOXl0eEJwTnRIVEVnSmFQRUppMXcxX3QxVlZzcERpUTh5TlBqdkNfZUpZQmtpZWNQX3F6VmdUZkptY2t4amx5M0tlNy1MSXZZOWhkcGdpOUJ1VXc?oc=5"
-      },
-      {
-        "title": "IEA warns Middle East conflict raises oil supply risks despite stable global markets - People Daily",
-        "source": "People Daily",
-        "published": "Thu, 23 Jul 2026 03:22:20 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPek92bzVmdS0yUkJmUHBPZkF1TGtHTEl5dnYyTndNN3lkR09mYzhZWHdkaVBpX0JVWk1NTGtLNDJKR3NycnhDdWFsREhGOWp0RzdDNm56N0NQM0VITzlUalRHbDU2YW1sLUwyN2lxRFFsdkFVaWRZZVM0WU5ab3FKQkxkZDhZck1BYzNVb2Y2Nk8tbGVTVGdrV3FyRXhyS0xPdXMyc0pGODBzam5Sd2VyNkNlb3cwdU84aFhTampn?oc=5"
-      },
-      {
-        "title": "Oil Price Forecast: WTI and Brent Target $120 on Middle East Risks - FXEmpire",
-        "source": "FXEmpire",
-        "published": "Thu, 23 Jul 2026 02:28:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOGpXai1mSmYtNm41aTljWDNYdmtPZk1xalN6aU9oekRFZU0wcWZqMW40Zk9pWjdLT09ES01GZGNXQ3gwRURBNWFUdEU5RkJpXzlKbHVlUUFsa2pFSE1jUDBIajVDRnV3WkpFT2JnME9xbFdqUTFKbGh4dmJhMkpQM2ROdUxkRGNuQUo4aEVFZlNUM1FHc0poeTZjVzJPSnRvem00VHZzZURwMnFqanlVU2VuTFRldw?oc=5"
-      },
-      {
-        "title": "Brent Nears $96 as U.S. Strikes Iran for 12th Consecutive Night - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Thu, 23 Jul 2026 02:26:49 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMlZzYWRld1RjTUZ3LWZGRTBiTWlLX0xwRVh1ODh2WGJ0ZzN1cnhxQ3RaeU5DbUlrNFUwRmtpX2YxRVBDQm1sWmRYQ29lWGt0enlpWE9jeTZvZHNPUklhel9CWFVrcDlrMEdqUGRUcGRGeWZOTkY4Wi1XU0RsWVRob2xVMGVKUmRxMXYzUEpWVy1pX21UMllOakFZU2dUU3NEcWhkOUw1M0FjYjJiNnhKbkdQeUYzRGPSAbwBQVVfeXFMUEd3bkg4RF9SOHNSZ29tdllZa1pWRUQ3TzhRdThMNi0yMW81Tm9LX2pycVE0WnUyT0VkOEtaSnBfZFZmTFl2QTh0Q2ticjZaZUMwUkNXaXpRd3VPOFd6czVzeHA3UkFaRGRjMzE4NDZpc1FHT1g2WTJYcktCTVlWZW1oRi1yYThSZTlSNDA5Ml93d25ldUhRSUJJM21aQ1VPY3ZDbW1JVVQ1R3Itdk9qOTZOT2M5YVpFaGUydXg?oc=5"
-      },
-      {
-        "title": "Oil prices surge amid Middle East tensions, supply disruption fears - Crypto Briefing",
-        "source": "Crypto Briefing",
-        "published": "Thu, 23 Jul 2026 02:16:56 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZzc1ejlDb3RFell0U1BVZ0ZqSnUzLW1VZ3VoeE96bzNPd0Z2Z01UZnVIVjNUV241Ymp6Z0lBelh1Yjd6bGRuM2JvSHFRRGZXdWk5bG85NHRrM2I3SmJrbnd3S25vMnlmbmZhMFdoOHlIWWh6NkxVSzg1cndoOTFObFhfOEdrZmxJUGlPWUFEZGFLSTJFTnhNZ2Fn?oc=5"
-      },
-      {
-        "title": "Oil prices hover at six-week high as Middle East shipping risks escalate - Reuters",
-        "source": "Reuters",
-        "published": "Thu, 23 Jul 2026 00:40:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcEZlQTh2dnVnblEzaVc4eE81SE92UFhTN2VJSXQ4RGdOQVFLU2FuUTB6d19yWWotOFZzQTRaRmlPanZpYkdPZ18waTVpd0lsaWJPRU9aZkd5VU9lZ3RvYi00RGh3TUFsV3JYTGpNc21BOE54N01TbmtCOWh2UWtUTFhZQVlfVHBNS2F1ZDhJS01RT001UDRBQ3MwYTFqM25uaUcxX1E4R3JTX1k?oc=5"
-      },
-      {
-        "title": "Oil prices climb after tanker struck off Saudi Arabia, Trump escalates Iran threats - CNBC",
-        "source": "CNBC",
-        "published": "Thu, 23 Jul 2026 00:18:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTmctMzlYU1FiQlBvdGFwemtzeWE4MnZPR3pIeV8zSUYyWG90d2dfdlBKYmFoRjU2TFlKUUhPWklaclgzRWgtZW03Z09fOURWdlEweXNvY3dYdzFYdnY4U182ZW1RZHVweDVTUW9NUE5va00tREQxTHM5Qy1UQ0pSdExsQmpSbFlD0gGOAUFVX3lxTFBrRTdDSTVkeWFvYkd6ZGdfRnNDeUJ1QmE1UjBKUE1QWU01T0hwM2xPTXJMdHRWZTQ2Zzd5cGNFbDFRakVMN0VoQlVsUEd1UlpvMlgzS2JrcDhORVhqb0JIOUpMSmRqZW0zdVZmWGU4c0Vkd2Z5aDBiajh4VHVSajEtT1VBODZaZXNjTGZjQ1E?oc=5"
-      },
-      {
-        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
-        "source": "LiteFinance",
-        "published": "Wed, 22 Jul 2026 23:52:06 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
       }
     ]
   }
