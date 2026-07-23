@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-07-23T17:53:07+00:00",
+  "generated_at": "2026-07-23T19:17:05+00:00",
   "fx": {
-    "nzd_per_usd": 1.715316,
-    "as_of": "Wed, 22 Jul 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.719699,
+    "as_of": "Thu, 23 Jul 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 94.37,
-      "latest_date": "2026-07-22",
-      "delta_1d_pct": 3.69,
-      "delta_30d_pct": 0.13,
+      "latest": 100.19,
+      "latest_date": "2026-07-23",
+      "delta_1d_pct": 6.51,
+      "delta_30d_pct": 9.56,
       "series": [
-        {
-          "date": "2025-07-22",
-          "usd": 68.59
-        },
         {
           "date": "2025-07-23",
           "usd": 68.51
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-07-22",
-          "usd": 94.37
+          "usd": 94.07
+        },
+        {
+          "date": "2026-07-23",
+          "usd": 100.19
         }
       ]
     },
     "wti": {
-      "latest": 87.1,
-      "latest_date": "2026-07-22",
-      "delta_1d_pct": 2.58,
-      "delta_30d_pct": -4.6,
+      "latest": 91.73,
+      "latest_date": "2026-07-23",
+      "delta_1d_pct": 5.64,
+      "delta_30d_pct": 4.0,
       "series": [
-        {
-          "date": "2025-07-22",
-          "usd": 66.21
-        },
         {
           "date": "2025-07-23",
           "usd": 65.25
@@ -2033,46 +2029,50 @@
         },
         {
           "date": "2026-07-22",
-          "usd": 87.1
+          "usd": 86.83
+        },
+        {
+          "date": "2026-07-23",
+          "usd": 91.73
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-07-22",
+    "as_of": "2026-07-23",
     "regular_91": {
-      "avg": 2.919,
-      "min": 2.69,
+      "avg": 2.873,
+      "min": 2.586,
       "max": 3.159,
-      "count": 59
+      "count": 60
     },
     "premium_95": {
-      "avg": 3.088,
-      "min": 2.836,
-      "max": 3.289,
-      "count": 26
+      "avg": 3.05,
+      "min": 2.686,
+      "max": 3.269,
+      "count": 32
     },
     "premium_98": {
-      "avg": 3.215,
+      "avg": 3.234,
       "min": 3.026,
-      "max": 3.319,
-      "count": 6
+      "max": 3.389,
+      "count": 7
     },
     "diesel": {
-      "avg": 2.508,
-      "min": 2.296,
-      "max": 2.819,
-      "count": 67
+      "avg": 2.466,
+      "min": 2.126,
+      "max": 2.699,
+      "count": 71
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 4.9,
+      "min": 4.9,
+      "max": 4.9,
+      "count": 1
     },
-    "observations_today": 66,
-    "observations_yesterday": 84,
-    "observations_older": 8
+    "observations_today": 69,
+    "observations_yesterday": 91,
+    "observations_older": 11
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8612,6 +8612,12 @@
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdEZJY3Q3dE94SHJJS2cwcml2eTRxa3hiM0hQWTVUelpaeG9FSC1wNEFPTzI2VG9pQVNKQ0ZuNTh6QjJwdXN3MTVEaWRsNzdoRXBnUEY0UndiU0U0LVJUWkxiTVluQk1uVmtYWjVBZ20xVXRjXzg5dDY5eUg3RmczVUJGTVhYUEtUVDZLSXdTVEVsemh1UVhpQzFmVmozMEFDeXdyVmhtblE?oc=5"
       },
       {
+        "title": "Inflation rises to 4.1 per cent - Times.co.nz",
+        "source": "Times.co.nz",
+        "published": "Tue, 21 Jul 2026 02:42:17 GMT",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54cWNFV2xzdHdrNk4zeXN0dHhRR0JZNmtXbDhUMThxWk9mdDZ1Q2hUX2Q1OWpWdUg5V2t5OWJRMGNwM1d2QlEtUktHVWYwbVBLb0hUYWhpczlLdmpzZHllZk9iVzRCcWttbWpaVk9B?oc=5"
+      },
+      {
         "title": "Inflation hits 4.1%, highest in over two years - 1News",
         "source": "1News",
         "published": "Tue, 21 Jul 2026 02:18:44 GMT",
@@ -8622,15 +8628,39 @@
         "source": "WSJ",
         "published": "Mon, 20 Jul 2026 23:43:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZXg4Z1VYSGl5MnVrWVFNM2VOQ3oxZWwwTU9FLTcxYjRfQU8wZTRWT2ozR1Uxc2VWXzl3bzNsTmNveWJOV1N5b05LY2FOYXNDWFhtblpJbmEyclVRNzE5Z0lNYWtCc0lNRWFkdnV0Z25aMXNqTHYzRXhtd0F1eXE3bGNMdHJMeVRHNGVfYmExT3Y5Qk9CaV8zaHNmdzZaSllubGc?oc=5"
-      },
-      {
-        "title": "New Zealand Inflation Accelerates to 4.1% on Soaring Fuel Costs - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "published": "Mon, 20 Jul 2026 23:42:22 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeGNNbmxBMXFGcWVMM203RVNUNUpRcUdjRWhVenQzMHNxZnhMSnFDam5RVGk2WS1BaFdPOXc0azQzVTA5dkIwTUVRbmZaUEpEVmFKV1NmVGd4VkZJUUs3cUpjMVFpRFY3R3VQYXBQTzhCVlRDVE5aZm8yOGxmRDBjQVRPWlk3dVoyNkd3UE1JZEgzQVdsb2Q5dDh1bEd4VWF5TlVqbmZvYXd5MDBZQW5rY1pWRQ?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "E.U. imposes more sanctions on Russia, in compromise deal - The Washington Post",
+        "source": "The Washington Post",
+        "published": "Thu, 23 Jul 2026 19:13:42 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTW4weFhXaGF2TExZeFdWUjJaekNhNlhDcnFqOEdLcTJLZ0lFa0tqN0w0UndvaHJueTNCNHVRdi1KbE9VOTVwQUo2VjRxMjFVSWxONVR2OEtmLVhPTHNpNHNnU2FSTU1GUG9KSWYxMmdRblpqRlpCbFZmNkRhbzhOdlVfdWJCUXpjZnhvcmFpSl9BblNOeXN1T0FNZWRDdw?oc=5"
+      },
+      {
+        "title": "Brent Crude Tops $100 After Reports of Tanker Attacks Near Saudi Arabia. Should Investors Buy Oil Stocks Now? - The Motley Fool",
+        "source": "The Motley Fool",
+        "published": "Thu, 23 Jul 2026 18:50:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPS1ROOXI3UXJvTDhnVUJ2eXdrYXNrZ19xSnA3aENmMXFSVExNRVY2Y0VCRTFnRUV5Zk1FN05tVVYtOEFkUW5feGQwek1LN292bkE3SHlRdXlnV0FoQ001NEZWQ2ZjTHlpWmNEV3pZREswSEMxNVFqN0d2SDNRRFNXUGh0N19DYUVfTkFDNXpaaTV6WWFOUGZVdTB6RmdQT1VaMUZKZmxvbGplZk1qZW9sV1Y4eUhrdjhxbWV1ZGRRQlcteHlOLXF5WkduYXA2RHNoWlJxMS1XblVDZERLMDEzZDVwaw?oc=5"
+      },
+      {
+        "title": "Brent oil tops $100 per barrel, as tumbles for Tesla and Alphabet yank Wall Street lower - AP News",
+        "source": "AP News",
+        "published": "Thu, 23 Jul 2026 18:44:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdzJSMEdwQVV6RGMtWDMxcGFBci0xMURsa2hYWnpiTk81azZpVk9IS1gyWDlLM2xoM2xBcUVpUDFiN01tekpWUUNKcWNDZWtmbDk4RDBCbW5ZNjlQdEJLNjlTYnRERDZfVmxYNWtfamNGWjZJMkxwaDV0U0wtSnBtTDJnblFjYmxqRWoxYmFGd2JOUng0Q3JBUUpMcGxWa3M?oc=5"
+      },
+      {
+        "title": "Gas, groceries and back-to-school items are where shoppers might see higher oil prices surface - Orlando Sentinel",
+        "source": "Orlando Sentinel",
+        "published": "Thu, 23 Jul 2026 18:31:31 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX3FHVm9MZFctNkVfbUFwMjBXenBFRUlRVDBOTkNXWXlJcENVUl9pTURjelBHWTdxWHVESklicFM1T0FqUnkwVkpBRHdIdUNwQ3FqUm9zSzVoaFBZWE5MdmZpcjBjbTl3ZlM5TVgzVHBaamJQcnZSOTB6a1JzWkZwMnJFLWVVbHc2cnI3Ul9vSW8wbXprcS04cWlYN001bk8zY0lMTHB6R3lGaG5VSnR5UHdZSmJabzJhQlZULVlqZkt3aG9lRWdpUDVmZVRPSThjem8w?oc=5"
+      },
+      {
+        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
+        "source": "LiteFinance",
+        "published": "Thu, 23 Jul 2026 17:31:04 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
+      },
       {
         "title": "EU targets Russian banks in new sanctions package over Ukraine war - Reuters",
         "source": "Reuters",
@@ -8638,46 +8668,16 @@
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbDk5Tmt4am9MUUVyY0V1RGRnbm5hbE5TcDJqTDJuRXlmaVpOdVJuN2VRYXIwaUwyRU9UdDN0b3N1eGMxS0NlelNjWmhqemJfN252N2QyVTBNSU9QSHcxbmwySkRnQk5XSDZLdXEwNEVTbEhmMDJNdFpuM2RvcjItMGJwVF9JMElIekt4TEtjSlF0dXBJMG5XUkw3ZHg1aVdRX2paMnRBdkFWcHlCbW5zU1NWWDRpazZtQjJfTWlQMnZ5cDN1dE5J?oc=5"
       },
       {
-        "title": "E.U. imposes more sanctions on Russia, in compromise deal - The Washington Post",
-        "source": "The Washington Post",
-        "published": "Thu, 23 Jul 2026 17:15:55 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTW4weFhXaGF2TExZeFdWUjJaekNhNlhDcnFqOEdLcTJLZ0lFa0tqN0w0UndvaHJueTNCNHVRdi1KbE9VOTVwQUo2VjRxMjFVSWxONVR2OEtmLVhPTHNpNHNnU2FSTU1GUG9KSWYxMmdRblpqRlpCbFZmNkRhbzhOdlVfdWJCUXpjZnhvcmFpSl9BblNOeXN1T0FNZWRDdw?oc=5"
-      },
-      {
-        "title": "Global oil prices cross $100 a barrel as Iran war sends fuel prices surging - ABC7 Bay Area",
-        "source": "ABC7 Bay Area",
-        "published": "Thu, 23 Jul 2026 17:01:13 GMT",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTWt4dm45ZGtySmpsaUJDRlZ1eDIzMHFCZmxKUXNpRGwzVS1wcnI4QUQ1amVFUkg2aF8zZ1RtTlN1akZvZzVBXzlqYXRJLWdjY0xjNHZiYWE4cHRpRlpqbEFOc0YwdjBxTm5wcWRNMi00V3AxblRRQVczdFkzT0RCOFUwaDlVN1drWGJhSGJVSGphNEJYYlVrb2Frc2tYN2Jy?oc=5"
-      },
-      {
-        "title": "Brent oil tops $100 per barrel, as tumbles for Tesla and Alphabet yank Wall Street lower - AP News",
-        "source": "AP News",
-        "published": "Thu, 23 Jul 2026 17:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdzJSMEdwQVV6RGMtWDMxcGFBci0xMURsa2hYWnpiTk81azZpVk9IS1gyWDlLM2xoM2xBcUVpUDFiN01tekpWUUNKcWNDZWtmbDk4RDBCbW5ZNjlQdEJLNjlTYnRERDZfVmxYNWtfamNGWjZJMkxwaDV0U0wtSnBtTDJnblFjYmxqRWoxYmFGd2JOUng0Q3JBUUpMcGxWa3M?oc=5"
+        "title": "Global oil prices cross $100 a barrel as Iran war sends fuel prices surging - ABC11 News",
+        "source": "ABC11 News",
+        "published": "Thu, 23 Jul 2026 17:03:34 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcHZGZG5mY3V5LXZwMnIzZ2toakhwWkFBOGV2QlREZzRaTlZxclR1emRFdWhOZFdnTU1adTFBVmpta0sxM3diZ1NBRm1ZUWo5VmJicUtUeWRfd0diV0IzdDItS21rWk8xcjJidWRIVHVaTEE2c3ZycHJXM3g3azBxVjUtbzVHcmo1cTU5bWN0bXNvT0Jrd0hvUFI0OEk?oc=5"
       },
       {
         "title": "Oil passes $100 a barrel again and shares slide as Middle East conflict escalates - The Guardian",
         "source": "The Guardian",
         "published": "Thu, 23 Jul 2026 16:42:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUVZaa0RudS1CTTRldHZCVXJES0plVUdXc1EybUFDU1Rtc0U0RU5yUHZ0QU9PQmllYXFWWGpGQndBLXMyWTZKY2RTSHc0Nk9OSjhOaG9Id3BLTjNScXZvOXRJLVFoNzhEbDBDR0VQcmlsMG1SRGxlaE5vNlNMMkhkbGlRWldhd1MtTWNEcXZBUzlWU2M2R1NEcDZJakk0YU5sQl9QZ2RpaWhBb19PRjdzQy1jZVFRdTZXZlE?oc=5"
-      },
-      {
-        "title": "US energy shares gain as Houthi tanker attacks push Brent crude to $100 - Virginia Business",
-        "source": "Virginia Business",
-        "published": "Thu, 23 Jul 2026 16:07:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcjJ3NXVsVzlBY0JvSzNHeENoYU5ZdkJiaHZfRGFCZjlUOEUwTnZaYmh5UUNjQW5jeEZDN3RWWU9HcVhPY1RZb3FLYXQ1XzN3NEN6Sl9VR1c3YkhSa2dqSXh6NHVYZUN2MzVhNm1naXpDS2dPUlA4UHhKOUhqb1ZMdXZBYUQ?oc=5"
-      },
-      {
-        "title": "Brazil’s Oil Boom Is Accelerating as Asian Buyers Flee the Middle East - Brazil Energy Insight",
-        "source": "Brazil Energy Insight",
-        "published": "Thu, 23 Jul 2026 16:06:36 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTEtSdl9rSUZncXNhdnZQV1hhTGp2M0xMRGhJRUtuNlFMeG9aa0xMeXBwem40WG5heVNxYnB3amhVQndfMGhGQ0VZWmRPcnllQ2FHWEJETFdSVDVuZXRfSHp4YjcwTVJ6V1VPWmJmWTFnZUFHY3M3SS1KMGp6Q3NsbUtLSFBsTjFWcHA3d3FnYUlGUWdEYUVUZmxaLVNVVXRseHVpZ2tGNE5peHRyNzRIYldJUQ?oc=5"
-      },
-      {
-        "title": "Oil prices jump back above $100 per barrel - upi.com",
-        "source": "upi.com",
-        "published": "Thu, 23 Jul 2026 16:05:24 GMT",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeGxRZUlMcWxGa3VGcFBmR29rR3ItcXVQZXM2X2Q0eHpCM2hBZlZObHZLbUhBcXFTN0I0OHN1MmgxMFN5dUdCd3BHWU5YYS1tdGxGTnFJSHlyZFVLUDdGX3FPVkxfMjNZSy1WVkZOWkdaakNNa01wbC1jQVB1dTc4THZESTJ0SDk5VEhFVGFEWURuWWhsaThOcWRkVGMxbnVf0gGmAUFVX3lxTE83aFdQdmExQ1VfbHo0VlJjMVFhaVdyMy1MQWJ1VnVHSC1QRXdKaXV4bzlFTlBsNU9rdW83UjhVeHNJaFEza3JuMVdyVUowc3JHQTR1R1hTTGdnNHd0d0gxSXRkdy03SVRjbFRJYktYV2JmSWZYVk5UVDZ5U1NQR1U2aXc1eDhMSzEyeHpfTUU3WXpFY09ERFBOWUp4V2RPVHJEZG5LLXc?oc=5"
       }
     ]
   }
