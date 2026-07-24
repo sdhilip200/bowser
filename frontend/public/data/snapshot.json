@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-07-24T18:40:47+00:00",
+  "generated_at": "2026-07-24T19:24:38+00:00",
   "fx": {
-    "nzd_per_usd": 1.719699,
-    "as_of": "Thu, 23 Jul 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.731447,
+    "as_of": "Fri, 24 Jul 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 100.19,
-      "latest_date": "2026-07-23",
-      "delta_1d_pct": 6.51,
-      "delta_30d_pct": 9.56,
+      "latest": 96.91,
+      "latest_date": "2026-07-24",
+      "delta_1d_pct": -3.75,
+      "delta_30d_pct": 4.09,
       "series": [
-        {
-          "date": "2025-07-23",
-          "usd": 68.51
-        },
         {
           "date": "2025-07-24",
           "usd": 69.18
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-07-23",
-          "usd": 100.19
+          "usd": 100.69
+        },
+        {
+          "date": "2026-07-24",
+          "usd": 96.91
         }
       ]
     },
     "wti": {
-      "latest": 91.73,
-      "latest_date": "2026-07-23",
-      "delta_1d_pct": 5.64,
-      "delta_30d_pct": 4.0,
+      "latest": 89.52,
+      "latest_date": "2026-07-24",
+      "delta_1d_pct": -2.9,
+      "delta_30d_pct": -0.57,
       "series": [
-        {
-          "date": "2025-07-23",
-          "usd": 65.25
-        },
         {
           "date": "2025-07-24",
           "usd": 66.03
@@ -2033,46 +2029,50 @@
         },
         {
           "date": "2026-07-23",
-          "usd": 91.73
+          "usd": 92.19
+        },
+        {
+          "date": "2026-07-24",
+          "usd": 89.52
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-07-23",
+    "as_of": "2026-07-24",
     "regular_91": {
-      "avg": 2.873,
-      "min": 2.586,
-      "max": 3.159,
-      "count": 60
+      "avg": 2.944,
+      "min": 2.629,
+      "max": 3.299,
+      "count": 77
     },
     "premium_95": {
-      "avg": 3.05,
+      "avg": 3.146,
       "min": 2.686,
-      "max": 3.269,
-      "count": 32
+      "max": 3.639,
+      "count": 44
     },
     "premium_98": {
-      "avg": 3.234,
-      "min": 3.026,
-      "max": 3.389,
-      "count": 7
+      "avg": 3.215,
+      "min": 2.876,
+      "max": 3.399,
+      "count": 6
     },
     "diesel": {
-      "avg": 2.466,
-      "min": 2.126,
-      "max": 2.699,
-      "count": 71
+      "avg": 2.555,
+      "min": 2.229,
+      "max": 3.999,
+      "count": 88
     },
     "lpg": {
-      "avg": 4.9,
-      "min": 4.9,
-      "max": 4.9,
-      "count": 1
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 69,
-    "observations_yesterday": 91,
-    "observations_older": 11
+    "observations_today": 15,
+    "observations_yesterday": 192,
+    "observations_older": 8
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8624,24 +8624,36 @@
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdEZJY3Q3dE94SHJJS2cwcml2eTRxa3hiM0hQWTVUelpaeG9FSC1wNEFPTzI2VG9pQVNKQ0ZuNTh6QjJwdXN3MTVEaWRsNzdoRXBnUEY0UndiU0U0LVJUWkxiTVluQk1uVmtYWjVBZ20xVXRjXzg5dDY5eUg3RmczVUJGTVhYUEtUVDZLSXdTVEVsemh1UVhpQzFmVmozMEFDeXdyVmhtblE?oc=5"
       },
       {
-        "title": "New Zealand’s Second-Quarter Inflation Jumps on Fuel-Price Surge - WSJ",
-        "source": "WSJ",
-        "published": "Mon, 20 Jul 2026 23:43:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZXg4Z1VYSGl5MnVrWVFNM2VOQ3oxZWwwTU9FLTcxYjRfQU8wZTRWT2ozR1Uxc2VWXzl3bzNsTmNveWJOV1N5b05LY2FOYXNDWFhtblpJbmEyclVRNzE5Z0lNYWtCc0lNRWFkdnV0Z25aMXNqTHYzRXhtd0F1eXE3bGNMdHJMeVRHNGVfYmExT3Y5Qk9CaV8zaHNmdzZaSllubGc?oc=5"
+        "title": "Inflation reaches 4.1% as higher fuel prices hit home - thepost.co.nz",
+        "source": "thepost.co.nz",
+        "published": "Mon, 20 Jul 2026 22:45:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRVdrMU15RVlXd0xBUktMSjhnbkV5cTctZmwyRklRQzhTVXVuSlNxZmt5V2xDeUY4eGFiX1g1U2U2bnY3cmhQazgyNzVqMWdEWlNGSWZFWkhRVXZhRXh6cHpiOXZodWhwSGN2dnB0T1pSbDRreTgxQ0tzOXpac0tOekpnbGNpbG5TZTdDTlRqaURIUXc3Mk5uSQ?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Global Energy Crunch Entering a ‘More Dangerous’ Phase - Morningstar",
+        "source": "Morningstar",
+        "published": "Fri, 24 Jul 2026 19:22:39 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNlJjTTkxYWZsUnNGbi1LX0NPY2tHWnZsVWZ0LXVIbk5iRlJ2UmdkNHhWYW1VYXBjLThNaXd6ak0zelI4NVV6ZnlpSG5nZ3RqVWtQeFhhcFZ3cmJWN0dSb1RpYmt1QmdQVkJycW4zV0d3Z1BuVDZCT0tIYm9mVFE1dVZkZFJPYWppd3lVY3F2cw?oc=5"
+      },
+      {
+        "title": "Oil to End Year Near $100 on Mideast Disruptions, Rapidan Says - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "published": "Fri, 24 Jul 2026 19:01:24 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbXZGYmdROGFfOG1oM3dRZmFCa1JLQ1ZxekdnejUtc2c5eERGaFpCTUFzVjBsRlZjX3Fyc3FDRjRBTlFQOTFORkRWbkNOMHZVUVZ1U2d2OEVRblhDeThUNXg4cGN5a3hUUFdZaUpBVUlOazBUMUpRUmM5WjhzSGRxMy01MGlpcV94SExfazBCLWo3cjFDNWo4YlRaVjI3NDNlUzFYV0pwSWVVV3FkMDJuWQ?oc=5"
+      },
+      {
+        "title": "Oil Prices Fall Below $100 but U.S., Iran Tensions Mount - Barron's",
+        "source": "Barron's",
+        "published": "Fri, 24 Jul 2026 18:33:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92ckhuYloyYm1nOXJGa0dBa2NNbkxRdEVWcVJsSEZMQlAwNm1nUGNsajBDOTNMQ1lmQVJNQVhySG85ZjdHc2hrSllSLW5PWE1vY3E5elZRRUVGTzFaVy1EUDVBWDZ0MjFobHpKcFdBckpuYlpMVnI2UVZCSUxtQQ?oc=5"
+      },
       {
         "title": "Asian refiners look for alternative crude as Middle East prices rise - Baird Maritime",
         "source": "Baird Maritime",
         "published": "Fri, 24 Jul 2026 17:59:53 GMT",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSTdWLV9qd2pIUE9nNmNfWGtTZDFwMlY3c0xOYUJUQ19NSFRyUFdFeTlyV1NZa2xEdklfTDdyNkpkM29DUk5TQlBfNE1kUldmV3ZjNE9ZTlUxeE1Tb2x1UjYwSXZhNFJ2VVU4WG43dEtWQXRScWtfcVZkaG81Smo2QjRRMzZvUjlpcERPMEpSdXRwU0FsbTFSN0Z3enZFNVJ4b1Y1c2dYano4N2ZYcUo2WGg5Wkwxd9IBwwFBVV95cUxOb3Z1WXc1ckJka1NxRU50NXJQQThqaUxjU3Z0OU5NRDBEdFUzX0d5VGpla003RFJpS2hFdWsxNldKNEd2RjBqVzBFSEtlMDNtMUxYbS12MWtfZlBVSEpHR01WUHZsb3ZLbkpHQXNEUkVaMEZycEgzRmF2aG1Eb0hSSTU1MVAwYmdHSWVhNXFOeFlhTTlZWmM1Y1p1UTJpWll0UV9LMmNHaGpDRzFUQmptZGlJclhrNTZLSlVJY0pxR1BTc1k?oc=5"
-      },
-      {
-        "title": "Oil Prices Fall Below $100 but U.S., Iran Tensions Mount - Barron's",
-        "source": "Barron's",
-        "published": "Fri, 24 Jul 2026 17:51:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92ckhuYloyYm1nOXJGa0dBa2NNbkxRdEVWcVJsSEZMQlAwNm1nUGNsajBDOTNMQ1lmQVJNQVhySG85ZjdHc2hrSllSLW5PWE1vY3E5elZRRUVGTzFaVy1EUDVBWDZ0MjFobHpKcFdBckpuYlpMVnI2UVZCSUxtQQ?oc=5"
       },
       {
         "title": "Oil retreats from $100/bbl but posts strong weekly gain - Oil & Gas Journal",
@@ -8650,10 +8662,10 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM2JwYnRqRFVHWGJhUTkxRVB4OUR1ajlwcm14TnR2ZTBoZDlFcGZNejZtaFhEYTgtNHN1R29mOTJaMmhRYUhrZlJpdlNkMU5HLXl2UkJHSk82aXRkNlhPVXNEU2dCYkR3YWdqQVJsTTFCaGVpT2otTUozc0lVVWVlTl9HWlA5dXBUZkZnR3B6U0lrV01HM3NCaDJkREJOT25QeVZQaGN2TzVVcnZ3RlNjekJKeEx5bU5pSGxjdHI3am0?oc=5"
       },
       {
-        "title": "Global Energy Crunch Entering a ‘More Dangerous’ Phase as Oil Tops USD 100 - Morningstar",
-        "source": "Morningstar",
-        "published": "Fri, 24 Jul 2026 15:40:37 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOG1JbUpXM3pIUGRKbDhPMGZfb2p2RnZaV29OQWRKa1BZa21lZzNrenUzbzJMbHd1U1NkVHNVSmtybFo5Zk9fUWRuZGs4cDZ6MlNFS2ZNOEhmR2JtaHZrd2ZGZHFSMFd1VFFMcDBjZkpXckxQdklydWlWYjRFa1RzOGhqTUZ6ZXZVajBITmNuNElYeTJWb2tja0lrWFFpcmhQbDhDdVNfcGp6clFTSnlLZW5B?oc=5"
+        "title": "Core Differences Between West Texas Intermediate (WTI) and Brent Crude and the Affect of the Iran War - EnergyNow.com",
+        "source": "EnergyNow.com",
+        "published": "Fri, 24 Jul 2026 16:22:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1ZOVFVuUnFFYUstVktuczhxdzBYN1lUbUlqbTIwZEVnX2lCclN2dDZyeVJxUnFPLXdLLWhHcTd1MUUyM0kxTFBUZWJZSVlfN2RCZkRlRXhqT3ZfdUJTQkFjSkR1dDFsQ2Rmc19VTERhc1hsV2Nka2RDVEFvZ0FUcFdJQ0dCR21lcm5mZU12UzJZZHlyOFh3WGEzVWpCVDlUeHc?oc=5"
       },
       {
         "title": "Physical oil prices jump with some nearing $110 as Iran, Ukraine wars hit supply - Reuters",
@@ -8662,22 +8674,10 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaWNvYzRoNkNQa2xmbldvVnNQcWQtRUp3MjFNQmJqRld1Z2R0X0JJSzFUNDJRcTRLelItMUtPd3A0NmUtNmJJZy1jRUNabTVldWxBSld6VDhOQ2VCQVpSV1J4VUg0Yjk4dTI0UlZiMVVWYnFMaDJnQ3JFOGdwLVVYVjV2RnJIWHRla2lOTEhUMEVCbU9rN09nWXdkRzVEbDlKcTZoYUFuTlYtQUxZWlFVWXJudktfNFdaVnBOajZ1WFA5Wk5na0E?oc=5"
       },
       {
-        "title": "EU sanctions Georgian refinery for processing Russian crude - Reuters",
-        "source": "Reuters",
-        "published": "Fri, 24 Jul 2026 14:21:43 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcl84bExmdjRpU1JvcGVSdmN4VjBHY1Vwc1FiVHhHekJ6LXBySHc2ZTdQencxZjFBY3Jsd1VJc09RYUNGUWExOWpfOS13Z0NybURtdXkyNUhKRUxKVVhPZmROY2hrOUdJcElnYkhUcnpRTUtGak5ZOHQ3c280eUhtOElrb2M4NXZhMUlCNy1wVXcydkJVejdTVzJENTMtc2lfbmd2Vk5jRmd0Y00?oc=5"
-      },
-      {
         "title": "Why Trump is facing his biggest danger from rising oil prices since the war began - Politico",
         "source": "Politico",
         "published": "Fri, 24 Jul 2026 14:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YMEs4LXVIMjIzYV9DaEZoUEYyaHZTT2dma0x5YVdUU3hGQTVSSGZMbk5IZVhkTU9sbzlDeVgtamx0UFpRVDVlRVRLUWVtbTlFdElBRkptb3N5Mm91RUo0NTdlU2hYM0lLUnV4VG95NWJZeVgxMlhJc3dRbw?oc=5"
-      },
-      {
-        "title": "Oil prices post third consecutive weekly gain amid escalating US-Iran conflict - Anadolu Ajansı",
-        "source": "Anadolu Ajansı",
-        "published": "Fri, 24 Jul 2026 13:16:06 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVG5zN1R6NUp6UDFyaGpxX2xWUk03djE3SjFFa1NwS1M5ZnRlUmswUFZyTGZyZUZjZGRVdG5HTk5HeF9iQVpfa2Jkd2J6VkhFYWl6SUtiSnRZaDRZMWEybC1ETl90MVdWdGZWRDVDZVoxMEdld2VFVkEyeWVBalZaMWh4YVFQZjQxTkZjdUE0WVF3YlVVMnJhY0hJUFFFUWpUYXBMOUsxdERfTnpJaFBpWWswb2VNYUpWeTJyNk10VWc3Z9IBygFBVV95cUxNaHRfbmdPb1BDQWY3TWh3Q2lNZk52cGZvRGFCS3FNNmhxRE1fenVtZHk1MGhDeURNVE5SMEVfTkFXemJPaEExYXkwNjdiclhENGs3aUNTcnJmaDhiaXFZcFFwQ25ScGVCLW84UUYwSE5tQnplT2ctT29hdkczYTdCREJLTVRQSS1RVkJ1X1RiS01VaFFDZjFKdEpaanhKWkxhVXcxMlVrRU0taG5VSi1WMnVNLUZWYlNiRUJmZEJLS0g2OHNtc1BMNkhn?oc=5"
       }
     ]
   }
