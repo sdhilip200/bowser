@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T00:54:00+00:00",
+  "generated_at": "2026-07-24T04:25:03+00:00",
   "fx": {
     "nzd_per_usd": 1.719699,
     "as_of": "Thu, 23 Jul 2026 00:02:31 +0000"
@@ -8582,6 +8582,12 @@
   "news": {
     "nz": [
       {
+        "title": "Fuel prices could rise 15c a litre within days as Middle East conflict rattles oil markets - Stuff",
+        "source": "Stuff",
+        "published": "Fri, 24 Jul 2026 00:05:52 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdjhhSmpvVEZCWWY3Y3o5NzNKUzFOelNZVHBvb2Y4c0JxQlhBWXNzQWE4Nk1ma3MxTHoxLUoyaW5YeU1fZjRUS0l2ejVCbnFCTU1BRnB3eG9xLU9USzJ3Z2ZHNkg3akMyZlNMemtPaDY0NmxxMFU1alZZUzdRRzd4VGVOXzVqekZqNFR2STZHM05INDExSVpla2NqRXBST19HakVEYUV3eDljVkxRbkRwRjllbDJ1ekJHU05qWWx1TFhCN3NWSUVR?oc=5"
+      },
+      {
         "title": "Oil price shock for New Zealand far from over - Westpac economist - RNZ",
         "source": "RNZ",
         "published": "Thu, 23 Jul 2026 16:43:11 GMT",
@@ -8622,20 +8628,32 @@
         "source": "WSJ",
         "published": "Mon, 20 Jul 2026 23:43:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZXg4Z1VYSGl5MnVrWVFNM2VOQ3oxZWwwTU9FLTcxYjRfQU8wZTRWT2ozR1Uxc2VWXzl3bzNsTmNveWJOV1N5b05LY2FOYXNDWFhtblpJbmEyclVRNzE5Z0lNYWtCc0lNRWFkdnV0Z25aMXNqTHYzRXhtd0F1eXE3bGNMdHJMeVRHNGVfYmExT3Y5Qk9CaV8zaHNmdzZaSllubGc?oc=5"
-      },
-      {
-        "title": "New Zealand Inflation Accelerates to 4.1% on Soaring Fuel Costs - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "published": "Mon, 20 Jul 2026 23:42:22 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeGNNbmxBMXFGcWVMM203RVNUNUpRcUdjRWhVenQzMHNxZnhMSnFDam5RVGk2WS1BaFdPOXc0azQzVTA5dkIwTUVRbmZaUEpEVmFKV1NmVGd4VkZJUUs3cUpjMVFpRFY3R3VQYXBQTzhCVlRDVE5aZm8yOGxmRDBjQVRPWlk3dVoyNkd3UE1JZEgzQVdsb2Q5dDh1bEd4VWF5TlVqbmZvYXd5MDBZQW5rY1pWRQ?oc=5"
       }
     ],
     "global": [
       {
-        "title": "Oil Set for Weekly Gain as Middle East Crisis Fuels Supply Fears - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "published": "Thu, 23 Jul 2026 23:21:32 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS1hVcGRHdThCRFI5aG42NEhYdWxOY2wyaW00czNSR28yWUtnQVpSVWdJMGd4T0M0eW1xOFowU2VnaTBwZnJPUlpyOHR2LW1vMTlDd2pjZGJfN25GbkZFNTN3V2syZDlnX1FKSkQ1dy1FWnV3ckd0NVJYdXBMT29VZVJuUmFqcjJFemF0M1NFVWk3aFhDQlRQVEdocjdWMkE?oc=5"
+        "title": "Middle East chokepoints in focus as US-Iran war escalates - thenationalnews.com",
+        "source": "thenationalnews.com",
+        "published": "Fri, 24 Jul 2026 03:33:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOblJpaFRwVkNwTngwWTJmcGl6YmducmtueTV3aGljdzh3bkl1TGw3Z3R4aDRoZElHZXV1RjFhWFhRbXU4ZVB6b1YxZFZoTnJsU1RXN1FRUVQ3SXVkQ1pZamQ3MThKZ1AwWXY5VFE5ZzZqYlJVb3ZYQWVsSVNJWmo4aDE3VmZsei0zc1N6V3V6NTJmdl9aWXV2bG10Z2lFMXZfcmZZSjVsQUZRdkliSGI2OHExTTVRR0M3?oc=5"
+      },
+      {
+        "title": "Oil passes $100 a barrel again and shares slide as Middle East conflict escalates - The Guardian",
+        "source": "The Guardian",
+        "published": "Fri, 24 Jul 2026 01:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUVZaa0RudS1CTTRldHZCVXJES0plVUdXc1EybUFDU1Rtc0U0RU5yUHZ0QU9PQmllYXFWWGpGQndBLXMyWTZKY2RTSHc0Nk9OSjhOaG9Id3BLTjNScXZvOXRJLVFoNzhEbDBDR0VQcmlsMG1SRGxlaE5vNlNMMkhkbGlRWldhd1MtTWNEcXZBUzlWU2M2R1NEcDZJakk0YU5sQl9QZ2RpaWhBb19PRjdzQy1jZVFRdTZXZlE?oc=5"
+      },
+      {
+        "title": "CNBC Daily Open: Brent crude is back at $100 — and Trump renews tariffs - CNBC",
+        "source": "CNBC",
+        "published": "Fri, 24 Jul 2026 01:06:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaHFMdWEyTDYtWVFIazFKbl9pRTNXOVF6NUFTR3lEUEhIdVNyNWYybDY2SDlmdXFGcnFud0pLS1lHZTR4V1otTnJiWUJuVVk4WElpbjcyZXNhZjk4djUzbmtHRXk1YkRialA1N3JqSTFwN3lQQm44MFpyRnhKQUQ2bm9UVkhsbEJxM3V30gGQAUFVX3lxTE5GWWkyR0RJWkw3NGYtMzM0SHJXYmQ5NHQzbXU5WTJfRnNtWnBoUWN3WGJsUTdsbGpuWjRidGNkWk53V0xwcm1RUk1nMlp4M0JCcHJKUEpnd0xzR3AwdW9ET2FaYlhVS2lYdmJfRTdXcjk2czA3QWdnQ1BINkI0WDJmMXY0LXpHbHFEN2RrVDljMg?oc=5"
+      },
+      {
+        "title": "Brent Hits $100, U.S. Oil Inventories Rise - Industrial Info Resources",
+        "source": "Industrial Info Resources",
+        "published": "Fri, 24 Jul 2026 01:03:30 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd3VEbWtFQXBiT3Q2SW9iLTRMbW9nU2VEUGhzZlVIeGtvbWV4dkdjRFM5S0RYWVpjMDB5ZXZJXzRyZFc3NDNVMnJWb1lNNmRvN2tXV1dlTnJ0TW1lYVhYWUFWRnlWNjFVaHZQdnA5dTdCRjFjWXZJVy1PQ2s1NGhpOE9KZ1E4UnBRd0Qwb0tvQThieTU2?oc=5"
       },
       {
         "title": "Brent oil tops $100 per barrel, as tumbles for Tesla and Alphabet yank Wall Street lower - AP News",
@@ -8650,34 +8668,16 @@
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
       },
       {
+        "title": "Oil prices surge to 6-week high amid Middle East tensions - eciks.org",
+        "source": "eciks.org",
+        "published": "Thu, 23 Jul 2026 20:25:38 GMT",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Va25QNXdaVkVIZU5NU0s5Q0VQcENYQ1k3cVlES1dFLVVNZjA2c1Q3MDJXeWk5blZlanBqRFR6ZGp0b2JNZmRGeFhzR1ZiUVVrdFFhZGw4WDdqcVIzWW1nVGF5dzlZTDVKVW1aWHRB?oc=5"
+      },
+      {
         "title": "Iran sanctions backfire as oil prices hit triple digits, says Ghalibaf - Crypto Briefing",
         "source": "Crypto Briefing",
         "published": "Thu, 23 Jul 2026 20:10:12 GMT",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc2dLbldYTERqVXc1M3dVWXpFNW1nWk0taXA2VENyVjBDUmk3TVRNRUp0SzdReURkSk51S0VOVUM4SVl6VXRYeXVGZXBiWVJpbnRIbnFZbVB5ZkxtSTQzRWFBX19VNWVjY25fRTBSSVNQNGdMaGhDZXVRd0JQRW5kNXllVzlxNTZfRE52cXJIOHg5TFhYaEtDN0JpY21aZw?oc=5"
-      },
-      {
-        "title": "Gas, groceries and back-to-school items are where shoppers might see higher oil prices surface - Broomfield Enterprise",
-        "source": "Broomfield Enterprise",
-        "published": "Thu, 23 Jul 2026 20:09:59 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU2ttMkQ3ZUxmNk14OTVYUTVNaHJabzM2bFUwSXNkbFZKZEM4RWYtY0dsemowTjU3ZnhDVVh3UjVEWXgtczUwSmZ0WUdPampMVkplMEF0SGplNzFKRkZxUGptMlYxSS1LMEhFSzdZUzBFbzRoNzRHVEhUVUVEMHg0aUN4NmxOWVJObWtoVXBjYjJkUW50YjJ0LVpOcDEwemI5NmFUNlF5emEtM0EzNHY4aEZtTkQyaHN5bVlCaG9keTBubFhGSmdwSmxnWG5mdXJ1eUJlYlJLeExqQQ?oc=5"
-      },
-      {
-        "title": "Brent oil tops $100 per barrel, as Tesla and Alphabet drag Wall Street lower - Sentinel Colorado",
-        "source": "Sentinel Colorado",
-        "published": "Thu, 23 Jul 2026 20:06:49 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbDRXbkdHd28wNERneXlqTXI4a1ZHemRlSGZGRjhRUlBWbU5kTnd0QzQ2Y2drVXd0RTZtcVlyYlg3elFWbFlzaHpqbDJnOXJ5aVZBU19PN3E4Szl5QU40Y1pJcUFELS1sWkJPSHdBMks0LTBoWjZVRHRUNHkxOEVJNzV6MjNGQnVSb0N5cVFhTHBnUWNIQVlaVFRMVDNmZG1WckRWRFFNZUt1TTJ0Ti1zZGN0OTNpcVVidEE?oc=5"
-      },
-      {
-        "title": "E.U. imposes more sanctions on Russia, in compromise deal - The Washington Post",
-        "source": "The Washington Post",
-        "published": "Thu, 23 Jul 2026 19:43:15 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTW4weFhXaGF2TExZeFdWUjJaekNhNlhDcnFqOEdLcTJLZ0lFa0tqN0w0UndvaHJueTNCNHVRdi1KbE9VOTVwQUo2VjRxMjFVSWxONVR2OEtmLVhPTHNpNHNnU2FSTU1GUG9KSWYxMmdRblpqRlpCbFZmNkRhbzhOdlVfdWJCUXpjZnhvcmFpSl9BblNOeXN1T0FNZWRDdw?oc=5"
-      },
-      {
-        "title": "Oil settles over $100 as Houthi attacks intensify Middle East supply risks - Euronext Markets: Real-time Stock Market Data | live",
-        "source": "Euronext Markets: Real-time Stock Market Data | live",
-        "published": "Thu, 23 Jul 2026 19:37:56 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc0lhWmtjaElIdFhkNnFUcW5tS1pfbVNUVUNIWHVoNTJxcVM0d0VYbEpUek5USVREYmRram5EY2l3N0pDSHJ6d21RY1dOdUtNZFpYLTA1WHRBYU1TR0FrUzJPZTFnZEUzUkdCU2oybV9QbE1QdkI2cEg1SHBYTkI5RjJkS19tUXRUMWs5YTN5WGk3UGtYM2hCUXRUR3NBSWcyQ0hXeDBHczFSV2pWbXhGTnBnV0M?oc=5"
       }
     ]
   }
