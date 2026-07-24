@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T17:00:58+00:00",
+  "generated_at": "2026-07-24T18:40:47+00:00",
   "fx": {
     "nzd_per_usd": 1.719699,
     "as_of": "Thu, 23 Jul 2026 00:02:31 +0000"
@@ -8582,6 +8582,12 @@
   "news": {
     "nz": [
       {
+        "title": "#economy: Fuel Price Shock Looms as Motorists Warned to Brace for Another 20-Cent Rise - Waatea News",
+        "source": "Waatea News",
+        "published": "Fri, 24 Jul 2026 17:15:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOczRySzM5MmFUVFgzWjZMSzUtd3BMTi1oaVhPZE8xT0FaSHZrRTNIbGQ4Tm1kVHdESHJkWmVsSEpxZ1p2TFRFR2pUMXVfeEN5OHhKN1d3ZXh3Q2VMVWVoNk1ZbWVFYWFrczR3aERfck5NYm1yQUYtbEQ0V3BuYW9YaHQ0Y3I0ckIxTkZkWFM1VDdhYzQ4QWZxeEhJUXRrTW1IUVJEVFV3bGo0TmdYaWZZZy1iTi1qMGVGSklB?oc=5"
+      },
+      {
         "title": "Fuel prices could rise 15c a litre within days as Middle East conflict rattles oil markets - Stuff",
         "source": "Stuff",
         "published": "Fri, 24 Jul 2026 00:05:52 GMT",
@@ -8618,12 +8624,6 @@
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdEZJY3Q3dE94SHJJS2cwcml2eTRxa3hiM0hQWTVUelpaeG9FSC1wNEFPTzI2VG9pQVNKQ0ZuNTh6QjJwdXN3MTVEaWRsNzdoRXBnUEY0UndiU0U0LVJUWkxiTVluQk1uVmtYWjVBZ20xVXRjXzg5dDY5eUg3RmczVUJGTVhYUEtUVDZLSXdTVEVsemh1UVhpQzFmVmozMEFDeXdyVmhtblE?oc=5"
       },
       {
-        "title": "Inflation hits 4.1%, highest in over two years - 1News",
-        "source": "1News",
-        "published": "Tue, 21 Jul 2026 02:18:44 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNczU1R3ZhRnAzVlpRTnhXZ2M1UUQ2Z2hlVmxEUFN0ZGRSOTBIMnJfaW1HWk5uemtDbDBCNGxOVzJTTU9CV1dJcHAyczRnM1REMjdHeWI1S1RkNElSTkV6RXQwd0MyNW1OektoVVl4MmJWRzRXTjlkbC1kdXgxc1hPVTdpU0ZkQQ?oc=5"
-      },
-      {
         "title": "New Zealand’s Second-Quarter Inflation Jumps on Fuel-Price Surge - WSJ",
         "source": "WSJ",
         "published": "Mon, 20 Jul 2026 23:43:00 GMT",
@@ -8632,16 +8632,22 @@
     ],
     "global": [
       {
+        "title": "Asian refiners look for alternative crude as Middle East prices rise - Baird Maritime",
+        "source": "Baird Maritime",
+        "published": "Fri, 24 Jul 2026 17:59:53 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSTdWLV9qd2pIUE9nNmNfWGtTZDFwMlY3c0xOYUJUQ19NSFRyUFdFeTlyV1NZa2xEdklfTDdyNkpkM29DUk5TQlBfNE1kUldmV3ZjNE9ZTlUxeE1Tb2x1UjYwSXZhNFJ2VVU4WG43dEtWQXRScWtfcVZkaG81Smo2QjRRMzZvUjlpcERPMEpSdXRwU0FsbTFSN0Z3enZFNVJ4b1Y1c2dYano4N2ZYcUo2WGg5Wkwxd9IBwwFBVV95cUxOb3Z1WXc1ckJka1NxRU50NXJQQThqaUxjU3Z0OU5NRDBEdFUzX0d5VGpla003RFJpS2hFdWsxNldKNEd2RjBqVzBFSEtlMDNtMUxYbS12MWtfZlBVSEpHR01WUHZsb3ZLbkpHQXNEUkVaMEZycEgzRmF2aG1Eb0hSSTU1MVAwYmdHSWVhNXFOeFlhTTlZWmM1Y1p1UTJpWll0UV9LMmNHaGpDRzFUQmptZGlJclhrNTZLSlVJY0pxR1BTc1k?oc=5"
+      },
+      {
+        "title": "Oil Prices Fall Below $100 but U.S., Iran Tensions Mount - Barron's",
+        "source": "Barron's",
+        "published": "Fri, 24 Jul 2026 17:51:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92ckhuYloyYm1nOXJGa0dBa2NNbkxRdEVWcVJsSEZMQlAwNm1nUGNsajBDOTNMQ1lmQVJNQVhySG85ZjdHc2hrSllSLW5PWE1vY3E5elZRRUVGTzFaVy1EUDVBWDZ0MjFobHpKcFdBckpuYlpMVnI2UVZCSUxtQQ?oc=5"
+      },
+      {
         "title": "Oil retreats from $100/bbl but posts strong weekly gain - Oil & Gas Journal",
         "source": "Oil & Gas Journal",
         "published": "Fri, 24 Jul 2026 16:44:58 GMT",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM2JwYnRqRFVHWGJhUTkxRVB4OUR1ajlwcm14TnR2ZTBoZDlFcGZNejZtaFhEYTgtNHN1R29mOTJaMmhRYUhrZlJpdlNkMU5HLXl2UkJHSk82aXRkNlhPVXNEU2dCYkR3YWdqQVJsTTFCaGVpT2otTUozc0lVVWVlTl9HWlA5dXBUZkZnR3B6U0lrV01HM3NCaDJkREJOT25QeVZQaGN2TzVVcnZ3RlNjekJKeEx5bU5pSGxjdHI3am0?oc=5"
-      },
-      {
-        "title": "Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On - The New York Times",
-        "source": "The New York Times",
-        "published": "Fri, 24 Jul 2026 16:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQktRd1BiNVJEUjJaWEtyT2xjSnJldWIxRE1rUndBLXBlSURDc0twLVBrUUdWYnY3d29Gb0VTUVR3VC10WG1yTEhyVkQyMkNMck1VWk9wd0NvMTUxV3g3M1dpZ0dTTVNGMnNXSkgyNFJSbENQdG9FZ0lRai1jTzFDTV9oSGo5Q3NXYWc?oc=5"
       },
       {
         "title": "Global Energy Crunch Entering a ‘More Dangerous’ Phase as Oil Tops USD 100 - Morningstar",
@@ -8656,28 +8662,22 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaWNvYzRoNkNQa2xmbldvVnNQcWQtRUp3MjFNQmJqRld1Z2R0X0JJSzFUNDJRcTRLelItMUtPd3A0NmUtNmJJZy1jRUNabTVldWxBSld6VDhOQ2VCQVpSV1J4VUg0Yjk4dTI0UlZiMVVWYnFMaDJnQ3JFOGdwLVVYVjV2RnJIWHRla2lOTEhUMEVCbU9rN09nWXdkRzVEbDlKcTZoYUFuTlYtQUxZWlFVWXJudktfNFdaVnBOajZ1WFA5Wk5na0E?oc=5"
       },
       {
-        "title": "Three Export Corridor Disruptions Push Brent Above $100, Favoring Oil Assets Outside Maritime Chokepoints - Crux Investor",
-        "source": "Crux Investor",
-        "published": "Fri, 24 Jul 2026 14:27:41 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT1NuNkIxYTlaelhJd29LdXZHZGtyX2o1cWx0dmo0dHJGbU9aU3pGUVB0UXlyOHI5S0p3UlJYNUZMSkp5WjNIOElPcXdSMndNWlFpdXFyWV9VOGgtbEZBQWNBRV9famo1cThEZmRkVlhyMlFDUy1STGVteGVMU2JRci14UkNJVE9wa0V2N0lyNUs5X3VMcGRVeUZjVEdJbWtqNkQ2UVdyNnNfOE1uanhOTng5STFNR0p5V2NONEE0MUlWQ1hmcXVDdUphMlE3WC1lODE2Ng?oc=5"
-      },
-      {
         "title": "EU sanctions Georgian refinery for processing Russian crude - Reuters",
         "source": "Reuters",
         "published": "Fri, 24 Jul 2026 14:21:43 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcl84bExmdjRpU1JvcGVSdmN4VjBHY1Vwc1FiVHhHekJ6LXBySHc2ZTdQencxZjFBY3Jsd1VJc09RYUNGUWExOWpfOS13Z0NybURtdXkyNUhKRUxKVVhPZmROY2hrOUdJcElnYkhUcnpRTUtGak5ZOHQ3c280eUhtOElrb2M4NXZhMUlCNy1wVXcydkJVejdTVzJENTMtc2lfbmd2Vk5jRmd0Y00?oc=5"
       },
       {
+        "title": "Why Trump is facing his biggest danger from rising oil prices since the war began - Politico",
+        "source": "Politico",
+        "published": "Fri, 24 Jul 2026 14:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YMEs4LXVIMjIzYV9DaEZoUEYyaHZTT2dma0x5YVdUU3hGQTVSSGZMbk5IZVhkTU9sbzlDeVgtamx0UFpRVDVlRVRLUWVtbTlFdElBRkptb3N5Mm91RUo0NTdlU2hYM0lLUnV4VG95NWJZeVgxMlhJc3dRbw?oc=5"
+      },
+      {
         "title": "Oil prices post third consecutive weekly gain amid escalating US-Iran conflict - Anadolu Ajansı",
         "source": "Anadolu Ajansı",
         "published": "Fri, 24 Jul 2026 13:16:06 GMT",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVG5zN1R6NUp6UDFyaGpxX2xWUk03djE3SjFFa1NwS1M5ZnRlUmswUFZyTGZyZUZjZGRVdG5HTk5HeF9iQVpfa2Jkd2J6VkhFYWl6SUtiSnRZaDRZMWEybC1ETl90MVdWdGZWRDVDZVoxMEdld2VFVkEyeWVBalZaMWh4YVFQZjQxTkZjdUE0WVF3YlVVMnJhY0hJUFFFUWpUYXBMOUsxdERfTnpJaFBpWWswb2VNYUpWeTJyNk10VWc3Z9IBygFBVV95cUxNaHRfbmdPb1BDQWY3TWh3Q2lNZk52cGZvRGFCS3FNNmhxRE1fenVtZHk1MGhDeURNVE5SMEVfTkFXemJPaEExYXkwNjdiclhENGs3aUNTcnJmaDhiaXFZcFFwQ25ScGVCLW84UUYwSE5tQnplT2ctT29hdkczYTdCREJLTVRQSS1RVkJ1X1RiS01VaFFDZjFKdEpaanhKWkxhVXcxMlVrRU0taG5VSi1WMnVNLUZWYlNiRUJmZEJLS0g2OHNtc1BMNkhn?oc=5"
-      },
-      {
-        "title": "Oil prices surge past $100 amid Middle East conflict, disrupting supply lines - Crypto Briefing",
-        "source": "Crypto Briefing",
-        "published": "Fri, 24 Jul 2026 12:37:49 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORzJHVzZrb0gwZW13UnIybUQ1OEtGeEh2OWllSFVuaU5sN3RVU2l4dEhZS3ZfOVEwVWFLZ2pnQnZXd1NRdmlZOVR5WWtZaTBqTzZXMk0zZEFnRUJvdlFkTEoxZTZwdm9vS1ZfVHhnR3daVjF1QjY3WUNfak92WHBCa0NWSGVLY2JkTVJOaExsak9FdDhTQWFiUHExY0ZqRDJraC1oRzRR?oc=5"
       }
     ]
   }
