@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T19:24:17+00:00",
+  "generated_at": "2026-07-26T20:29:36+00:00",
   "fx": {
     "nzd_per_usd": 1.727357,
     "as_of": "Sun, 26 Jul 2026 00:02:32 +0000"
@@ -8566,6 +8566,12 @@
   "news": {
     "nz": [
       {
+        "title": "Hamilton’s Iran crisis response team stood down - Waikato Times",
+        "source": "Waikato Times",
+        "published": "Sat, 25 Jul 2026 23:20:29 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRnFPcy10SEdFNWNKVzVpLVJuT3dMQ3E0ZElQQ2VpTHBMZ3RWR2VrVi1WbXZQWmVndkhhUy10czZWTktMMWJ0UlVFeC1SaHE0SHZVXzNaZ3lSSHhrcU4ydjJoT25zNFZSVFdnWklER0k0MWdUNGxsay1pbUhCQ3hSMnJocW9NbmowSHNlR3BSRmRnRElCT3lTekVvMA?oc=5"
+      },
+      {
         "title": "#economy: Fuel Price Shock Looms as Motorists Warned to Brace for Another 20-Cent Rise - Waatea News",
         "source": "Waatea News",
         "published": "Fri, 24 Jul 2026 17:15:58 GMT",
@@ -8606,12 +8612,6 @@
         "source": "1News",
         "published": "Tue, 21 Jul 2026 02:18:44 GMT",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNczU1R3ZhRnAzVlpRTnhXZ2M1UUQ2Z2hlVmxEUFN0ZGRSOTBIMnJfaW1HWk5uemtDbDBCNGxOVzJTTU9CV1dJcHAyczRnM1REMjdHeWI1S1RkNElSTkV6RXQwd0MyNW1OektoVVl4MmJWRzRXTjlkbC1kdXgxc1hPVTdpU0ZkQQ?oc=5"
-      },
-      {
-        "title": "New Zealand’s Second-Quarter Inflation Jumps on Fuel-Price Surge - WSJ",
-        "source": "WSJ",
-        "published": "Mon, 20 Jul 2026 23:43:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZXg4Z1VYSGl5MnVrWVFNM2VOQ3oxZWwwTU9FLTcxYjRfQU8wZTRWT2ozR1Uxc2VWXzl3bzNsTmNveWJOV1N5b05LY2FOYXNDWFhtblpJbmEyclVRNzE5Z0lNYWtCc0lNRWFkdnV0Z25aMXNqTHYzRXhtd0F1eXE3bGNMdHJMeVRHNGVfYmExT3Y5Qk9CaV8zaHNmdzZaSllubGc?oc=5"
       }
     ],
     "global": [
@@ -8626,12 +8626,6 @@
         "source": "FXEmpire",
         "published": "Sun, 26 Jul 2026 18:08:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd3QzRnlmbEZ1a0dsQTcxTVV3b21xQS1hWmlqaFYxeTI0M3h6U29Mc0lqZ2gyLW12M3NIZGxIN083SDNHSW45MEJkUWxOM0ZuTFJNUXBudUM2ZXc5U2JvYlA3a3hZUFFfMzlraERfdllPS1RWVURrcUluRWhnU3JSOGxiY3g4SmVrd3dpblMxOGNoZG5QeU52Ymp6RkhPcGRDeTQwMS1jWVNDRkZVd3VyX0RsRVcwa205MDRzRWtIME8wZUE?oc=5"
-      },
-      {
-        "title": "US Pauses Iran Strikes Again As Blockade Tightens; Brent Crude Near $97 - Benzinga",
-        "source": "Benzinga",
-        "published": "Sun, 26 Jul 2026 13:26:43 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUEpTVUg3Yk1LNzhuYk1GV1pMTUlNOUJYaEsySEI3bTBDSTFPNkVNTlJTaHllVlgwR3hWRzFMR2dtYjYxa054UE92dFpLTmFCRUFhLUwxRTFRX09RaDlaeE42SFlkYUduTjcxY25SeGV4MzJ3T1ZacGxHZ3I0cDVDeTFFdG5ObGVtYmVzbTI4UW1OTUN2cmlHaVA2UnFvcUEzSU13eFk5QWlweWRvVlBVZHVMcnhNMjJMb29PVUw2WDhrdTRXXzg0dA?oc=5"
       },
       {
         "title": "Iran says oil exports generated $18B during US-led war and sanctions - Muslim Network TV",
@@ -8652,16 +8646,22 @@
         "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQUEZfVFNQT0VxYVNuLXRfS01vZHR1bmRWamJTdWhJNmNfREREeHhpV2Y4aXVmaVY3bjM4T2VVakNtWjV6UW9NLXVxOGNKWDZtOWt4dHJYaFJFcUg3V0xjb1RNM2pQaFRvU3NtemlyTEFiNFEzc3pUVm8yMkx4bFdTajR4TTNhQ3hDeWIyRUk1UkhtZ0hNUWg5TUE3MElicGRGUkw5dE9VSHlwOUFTODN6dExJeDJHd3pKZHJaVE5SZWdpWE81cjRMT0ttVllMRjU5SlJ1cGRQMjJQNWdnT2syemhfbVFpRlhKd2Zhak13VlRwRG9jUEZnUjBRQWlpUUtrSGdQM29xMzhfVTBy?oc=5"
       },
       {
+        "title": "Core Differences Between West Texas Intermediate (WTI) and Brent Crude and the Affect of the Iran War - EnergyNow.com",
+        "source": "EnergyNow.com",
+        "published": "Sat, 25 Jul 2026 15:44:12 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1ZOVFVuUnFFYUstVktuczhxdzBYN1lUbUlqbTIwZEVnX2lCclN2dDZyeVJxUnFPLXdLLWhHcTd1MUUyM0kxTFBUZWJZSVlfN2RCZkRlRXhqT3ZfdUJTQkFjSkR1dDFsQ2Rmc19VTERhc1hsV2Nka2RDVEFvZ0FUcFdJQ0dCR21lcm5mZU12UzJZZHlyOFh3WGEzVWpCVDlUeHc?oc=5"
+      },
+      {
         "title": "EU Allows Member States to Sell Confiscated Russian Oil in 21st Sanctions Package - Kyiv Post",
         "source": "Kyiv Post",
         "published": "Sat, 25 Jul 2026 13:12:31 GMT",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1PMDU2SldEZ3dJelhxT1EzelBXNjRMa1lRMzlTVGpVNnJJRXNRcGc5X294LV9LRU5sLUdsTVVPVEktSUZLdjE2VGZPNA?oc=5"
       },
       {
-        "title": "Core Differences Between West Texas Intermediate (WTI) and Brent Crude and the Affect of the Iran War - EnergyNow.com",
+        "title": "Global Oil Supply to Plunge Below Demand This Year Due to Iran War, IEA says - EnergyNow.com",
         "source": "EnergyNow.com",
-        "published": "Sat, 25 Jul 2026 12:15:34 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1ZOVFVuUnFFYUstVktuczhxdzBYN1lUbUlqbTIwZEVnX2lCclN2dDZyeVJxUnFPLXdLLWhHcTd1MUUyM0kxTFBUZWJZSVlfN2RCZkRlRXhqT3ZfdUJTQkFjSkR1dDFsQ2Rmc19VTERhc1hsV2Nka2RDVEFvZ0FUcFdJQ0dCR21lcm5mZU12UzJZZHlyOFh3WGEzVWpCVDlUeHc?oc=5"
+        "published": "Fri, 24 Jul 2026 23:27:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaVBlWG5DSkFCVzhjMTZxbjlfMkxvZXZwdmJrUlZEUkx2Nm8xRnJRZC0zZFhna0p6VHJ3WTFpSEpCbjN4UHBOQ25lTVNaTFh3RmtRNXl4cWpFZzVLNXJhQ0d3MHg4RHNqSWN6V1g0Q2Nhem16ZkhubU1oVjJyME1hakxRUF8xRVJuZHNGQU5NYk0zeWgzNkt4ZlFnR2hoVEVSV0VabXBNcmdBZw?oc=5"
       }
     ]
   }
