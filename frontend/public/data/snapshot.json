@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T23:44:34+00:00",
+  "generated_at": "2026-07-27T01:21:44+00:00",
   "fx": {
     "nzd_per_usd": 1.727357,
     "as_of": "Sun, 26 Jul 2026 00:02:32 +0000"
@@ -8566,12 +8566,6 @@
   "news": {
     "nz": [
       {
-        "title": "Hamilton’s Iran crisis response team stood down - Waikato Times",
-        "source": "Waikato Times",
-        "published": "Sat, 25 Jul 2026 23:20:29 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRnFPcy10SEdFNWNKVzVpLVJuT3dMQ3E0ZElQQ2VpTHBMZ3RWR2VrVi1WbXZQWmVndkhhUy10czZWTktMMWJ0UlVFeC1SaHE0SHZVXzNaZ3lSSHhrcU4ydjJoT25zNFZSVFdnWklER0k0MWdUNGxsay1pbUhCQ3hSMnJocW9NbmowSHNlR3BSRmRnRElCT3lTekVvMA?oc=5"
-      },
-      {
         "title": "#economy: Fuel Price Shock Looms as Motorists Warned to Brace for Another 20-Cent Rise - Waatea News",
         "source": "Waatea News",
         "published": "Fri, 24 Jul 2026 17:15:58 GMT",
@@ -8602,19 +8596,43 @@
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRm1QZHVMd2pWbnJCV1BiRkdGWG5XcUczUHQzTVBTOHM2QUhxc3lmbTI5SzFkemp1THRLdG5PZk5kcTlWSEVTZzNqOG1HOUxOa3F1bWcwdjFBRjJKZG42c01MSkZWS3lxZkNfMldkWDNscEcyZ0d3LVpVNUJhbWhYYUZjem9SZVpXNDNEVzZjYkpMcl9sdUVEVkg5SGNJQQ?oc=5"
       },
       {
-        "title": "Analysis: Five takeaways from today's 4.1% inflation figure - 1News",
-        "source": "1News",
-        "published": "Tue, 21 Jul 2026 03:40:03 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWlRGNlhZSnlyQjlxQzN0allJNlV4ck0xLUxDZmluY2tPcWlJaEx1a21nMmh2Ym1vd3o4eEFMNG53OExUdWVPQVpsOTRVb0F3RlAwbXlxaWtfMzRKVjhUMHBLRjhvcDdlUm9PdERrVHJsWHZfWkdNdmgzdldpUFlrclRTcGNhdG1MOVRHU2t1bWoxclllR0E?oc=5"
+        "title": "Five takeaways from today's 4.1 percent inflation figure - RNZ",
+        "source": "RNZ",
+        "published": "Tue, 21 Jul 2026 03:08:19 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdEZJY3Q3dE94SHJJS2cwcml2eTRxa3hiM0hQWTVUelpaeG9FSC1wNEFPTzI2VG9pQVNKQ0ZuNTh6QjJwdXN3MTVEaWRsNzdoRXBnUEY0UndiU0U0LVJUWkxiTVluQk1uVmtYWjVBZ20xVXRjXzg5dDY5eUg3RmczVUJGTVhYUEtUVDZLSXdTVEVsemh1UVhpQzFmVmozMEFDeXdyVmhtblE?oc=5"
       },
       {
-        "title": "Inflation reaches 4.1% as higher fuel prices hit home - thepost.co.nz",
-        "source": "thepost.co.nz",
-        "published": "Mon, 20 Jul 2026 22:45:44 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRVdrMU15RVlXd0xBUktMSjhnbkV5cTctZmwyRklRQzhTVXVuSlNxZmt5V2xDeUY4eGFiX1g1U2U2bnY3cmhQazgyNzVqMWdEWlNGSWZFWkhRVXZhRXh6cHpiOXZodWhwSGN2dnB0T1pSbDRreTgxQ0tzOXpac0tOekpnbGNpbG5TZTdDTlRqaURIUXc3Mk5uSQ?oc=5"
+        "title": "Inflation hits 4.1%, highest in over two years - 1News",
+        "source": "1News",
+        "published": "Tue, 21 Jul 2026 02:18:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNczU1R3ZhRnAzVlpRTnhXZ2M1UUQ2Z2hlVmxEUFN0ZGRSOTBIMnJfaW1HWk5uemtDbDBCNGxOVzJTTU9CV1dJcHAyczRnM1REMjdHeWI1S1RkNElSTkV6RXQwd0MyNW1OektoVVl4MmJWRzRXTjlkbC1kdXgxc1hPVTdpU0ZkQQ?oc=5"
+      },
+      {
+        "title": "New Zealand’s Second-Quarter Inflation Jumps on Fuel-Price Surge - WSJ",
+        "source": "WSJ",
+        "published": "Mon, 20 Jul 2026 23:43:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZXg4Z1VYSGl5MnVrWVFNM2VOQ3oxZWwwTU9FLTcxYjRfQU8wZTRWT2ozR1Uxc2VWXzl3bzNsTmNveWJOV1N5b05LY2FOYXNDWFhtblpJbmEyclVRNzE5Z0lNYWtCc0lNRWFkdnV0Z25aMXNqTHYzRXhtd0F1eXE3bGNMdHJMeVRHNGVfYmExT3Y5Qk9CaV8zaHNmdzZaSllubGc?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Scandal rocks Iran's secret oil money network as billions go 'missing' - ایران اینترنشنال",
+        "source": "ایران اینترنشنال",
+        "published": "Mon, 27 Jul 2026 00:53:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85MzJLUl9UanlfZWdidFNjWlBES2t1VEFQNXd1elVLa2hCZzktWlJSTDdDTTN6dTZZWHRyaVhTM3VUVmxkY3l3LVNJZnpIWGZxeGc?oc=5"
+      },
+      {
+        "title": "Oil prices ease after US and Iran pause their attacks - ABC News - Breaking News, Latest News and Videos",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "published": "Sun, 26 Jul 2026 23:58:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMkhRVU50N3g2alBHNm1kZ0NYVWFpSXl4RUQyNVlmbTRYOVRIQXZWTWRpQ25RYXlRVnVISGZ4WVdhWGRUNkN0LWNNUUhUd2syVkdXRFhra2F2ekJ6QTFURW53OXJZYm5IQkk1YnRlWXJ6RzRTUDRGLXV0S2FVOHI0WGNnYWFVU3pjaW80MFFTd9IBlAFBVV95cUxNRERUUWVub1hYS0lwVzBBVFdnaENReVA2S2N0Ym9QLVBNeEdiQ21lVmR3Ym5iZ1BlT0VSX0VtZkdTcGhoVmxFUHlkSW5SeDRWQXprVDNnSllMcWRqcUZIRGh0UHdUOV9Fb1M0c0lrSUE3ZTROQWtiNzVEbVJ2SDdJeG16ak1LRDE2MVl2bGYyZ3NlaHdH?oc=5"
+      },
+      {
+        "title": "Oil slides 5% as Iran reportedly signals halt to attacks if U.S. pause holds - CNBC",
+        "source": "CNBC",
+        "published": "Sun, 26 Jul 2026 23:58:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOazZxVWRVdC1uSkx4TVlXUzlnZm9OR0VJQjB1Z1hMV29ucmN4X0FXTHdWbjgxRC0tNHNwWVlua3hUT3pKdXlkYVBubWZEWFRKZlpZS2d3STZjTXRCRFdabzJ6OF9NNzdqU2FvdFdDcFpINF84SWtOYmFrOUd4MkwzNDhMcVI0R01QeXpFTm94SXJYektmVk1LbmlIVHFsVlnSAaQBQVVfeXFMTXBmRFFqbUhVLVZpUnZfNVZxTWhieFAxUldheXpHTVJBVXk4elU3RXpaVy04WHY1NXd3R19oOHYyZ2xBR01uZ1NmdlFzLUU3UXRheDdvS1RyYkZxSjk5NEJpRVNQYTVXaFlUb3BHajZ4VVRIWm1aZnpwNVA5X3pMLW9oR0NreW1MaENBeDF1cEF6Y2VLMFdaQ1o0WEMtTzh2Zzl4Ukw?oc=5"
+      },
       {
         "title": "Standard Chartered Warns Brent Crude Oil Markets Must Price Risk Across Two Middle East Chokepoints - foreignpolicyjournal.com",
         "source": "foreignpolicyjournal.com",
@@ -8634,34 +8652,16 @@
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaEVjTnhhOVp2UFctd3NkYTJqVl9qeFBjTmRJdUF2Y0dmSmRDTXJqRzl5RWhhcTJwUTVwQ0dVSVVWVW56S0o3bWZCQk94UWdrdmdyZWcyS2FYdEtHS29MRnVrY2ZSN0NuWDNBb2dGOElHNG5ZSHktdEtXemJjSF9kbjk1N3JDMTRDOUJUNXdpUkxxRHFRdFBtdVA4OFdoRmgyZ01VNGxOSEtHSFlhOUpjUzlRTmNUazDSAbwBQVVfeXFMUHQ3SlY1aXFxMlpqS3R2ZFBwOVRpZ3FST19nTmVBZXZnaTlsN0RKR09Pb2dlbjhuODlFLU5BNF9TUWhqd2U3VnluR3YtYlVmMDJzMllpUXNCa1ZqUFVKZTE2MU9yWWlQTEN5dUJKLUhaaDhhVTVKSjZBNnB4TXp4MTJELWJGS2l4WXpZcDVtaTVLUDVjdDhHSGVtUnJLVFowYjNxRXd0QW85ak1YMHRiZW00RnVzalpCYnhEQ3k?oc=5"
       },
       {
+        "title": "Oil prices fall as Iran and US pause strikes over Strait of Hormuz tensions - Financial Times",
+        "source": "Financial Times",
+        "published": "Sun, 26 Jul 2026 22:36:25 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU2VGeTlMSlMzSzVSVHh1VWF4R084c3Nid196WXNjcXNGVktlWVdIN1JPVEItcTdJMDRqc1NZZjhQaFFzQXIyQlNfUFhCYWZUMUgzM2p1U0pEZmp6ZHBNNFo3aGZKVzFzcHpQcEpTblQtbVktUDN5MG5JZ3VWLUxITlBoUHU?oc=5"
+      },
+      {
         "title": "War, Oil And Stagflation – OpEd - Eurasia Review",
         "source": "Eurasia Review",
         "published": "Sun, 26 Jul 2026 21:22:04 GMT",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WNEZGRXJNYy04U2NNSjRrdURtYUkwQjZoS2l0VEhERjN1RDhPZ29wRW8zVDZ1TE1pb0tyZWF6aTdtQ3ljY19EbzdJdDYtcDk4X3VKWUs1Y2tOVVpORi1PWUZMMmY3RzZqTFctYmlWbUo5RVZzTjVV?oc=5"
-      },
-      {
-        "title": "Oil prices ease after US and Iran pause their attacks - ABC News - Breaking News, Latest News and Videos",
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "published": "Sun, 26 Jul 2026 20:42:45 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMkhRVU50N3g2alBHNm1kZ0NYVWFpSXl4RUQyNVlmbTRYOVRIQXZWTWRpQ25RYXlRVnVISGZ4WVdhWGRUNkN0LWNNUUhUd2syVkdXRFhra2F2ekJ6QTFURW53OXJZYm5IQkk1YnRlWXJ6RzRTUDRGLXV0S2FVOHI0WGNnYWFVU3pjaW80MFFTd9IBlAFBVV95cUxNRERUUWVub1hYS0lwVzBBVFdnaENReVA2S2N0Ym9QLVBNeEdiQ21lVmR3Ym5iZ1BlT0VSX0VtZkdTcGhoVmxFUHlkSW5SeDRWQXprVDNnSllMcWRqcUZIRGh0UHdUOV9Fb1M0c0lrSUE3ZTROQWtiNzVEbVJ2SDdJeG16ak1LRDE2MVl2bGYyZ3NlaHdH?oc=5"
-      },
-      {
-        "title": "Oil News: Can WTI and Brent Extend the Rally as Hormuz Supply Risk Persists? - FXEmpire",
-        "source": "FXEmpire",
-        "published": "Sun, 26 Jul 2026 18:08:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd3QzRnlmbEZ1a0dsQTcxTVV3b21xQS1hWmlqaFYxeTI0M3h6U29Mc0lqZ2gyLW12M3NIZGxIN083SDNHSW45MEJkUWxOM0ZuTFJNUXBudUM2ZXc5U2JvYlA3a3hZUFFfMzlraERfdllPS1RWVURrcUluRWhnU3JSOGxiY3g4SmVrd3dpblMxOGNoZG5QeU52Ymp6RkhPcGRDeTQwMS1jWVNDRkZVd3VyX0RsRVcwa205MDRzRWtIME8wZUE?oc=5"
-      },
-      {
-        "title": "Iran War Upends IEA’s Oil Market Outlook as Global Supply and Demand to Contract in 2026 - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Sun, 26 Jul 2026 17:30:28 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPak5XcGxWUXBlNVhTbFd3RkFvM2dzMUdvcm84a3Nzc2hxLVJYMU1zOHBsYlY0eV90Z2NlY0xDajNSdUxweFJ6WVprRjNzOHVrT0cwbXM0LUZvRHRmdF9VMEN0NUZpZ1VjYjFNeEdiSHZ1SHpyZ2otTVhyLXVsb09yVm1NUUhQM2dMMUNkQjFCalh1a2Y3bjlqX1ZNOHFVRDM5Ylh2clBwd0JmTUFtcmZUeUUyRnhsRXNjeUE?oc=5"
-      },
-      {
-        "title": "Iran says oil exports generated $18B during US-led war and sanctions - Muslim Network TV",
-        "source": "Muslim Network TV",
-        "published": "Sun, 26 Jul 2026 12:55:56 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNHFmWnVkNGJaeENvLW1hQXo1SmIySkt3LUoxZTBvLUx1Z2pGTGVHVldPTHVVU1ZaNnh1VzhPQ1JLU1lYSllWNkNEZHpqcmlyMTR5SVZyVEpwdGpLUTBrYXh5TjVFcXdfM3hzRXl1VFdRczFZXzBSN24tXzMyV0lhRzNxSzJlRW9Va25VYUJHOEhpd1RmNTFieERJVTZrdw?oc=5"
       }
     ]
   }
