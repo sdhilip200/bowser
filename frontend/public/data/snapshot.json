@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-07-29T17:56:55+00:00",
+  "generated_at": "2026-07-29T19:15:14+00:00",
   "fx": {
-    "nzd_per_usd": 1.731131,
-    "as_of": "Tue, 28 Jul 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.730325,
+    "as_of": "Wed, 29 Jul 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 83.85,
-      "latest_date": "2026-07-28",
-      "delta_1d_pct": -5.1,
-      "delta_30d_pct": -3.98,
+      "latest": 90.34,
+      "latest_date": "2026-07-29",
+      "delta_1d_pct": 7.43,
+      "delta_30d_pct": 8.62,
       "series": [
-        {
-          "date": "2025-07-28",
-          "usd": 70.04
-        },
         {
           "date": "2025-07-29",
           "usd": 72.51
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-07-28",
-          "usd": 83.85
+          "usd": 84.09
+        },
+        {
+          "date": "2026-07-29",
+          "usd": 90.34
         }
       ]
     },
     "wti": {
-      "latest": 79.09,
-      "latest_date": "2026-07-28",
-      "delta_1d_pct": -4.26,
-      "delta_30d_pct": -6.82,
+      "latest": 84.38,
+      "latest_date": "2026-07-29",
+      "delta_1d_pct": 6.46,
+      "delta_30d_pct": 4.5,
       "series": [
-        {
-          "date": "2025-07-28",
-          "usd": 66.71
-        },
         {
           "date": "2025-07-29",
           "usd": 69.21
@@ -2033,45 +2029,49 @@
         },
         {
           "date": "2026-07-28",
-          "usd": 79.09
+          "usd": 79.26
+        },
+        {
+          "date": "2026-07-29",
+          "usd": 84.38
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-07-28",
+    "as_of": "2026-07-29",
     "regular_91": {
-      "avg": 2.996,
+      "avg": 3.04,
       "min": 2.82,
-      "max": 3.199,
-      "count": 56
+      "max": 3.589,
+      "count": 64
     },
     "premium_95": {
-      "avg": 3.21,
-      "min": 2.886,
+      "avg": 3.201,
+      "min": 2.749,
       "max": 3.599,
-      "count": 25
+      "count": 23
     },
     "premium_98": {
-      "avg": 3.319,
-      "min": 3.319,
-      "max": 3.319,
-      "count": 1
+      "avg": 3.291,
+      "min": 3.126,
+      "max": 3.358,
+      "count": 7
     },
     "diesel": {
-      "avg": 2.652,
-      "min": 2.486,
-      "max": 2.919,
-      "count": 67
+      "avg": 2.681,
+      "min": 2.419,
+      "max": 2.999,
+      "count": 79
     },
     "lpg": {
-      "avg": 4.0,
-      "min": 4.0,
-      "max": 4.0,
-      "count": 1
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 56,
-    "observations_yesterday": 87,
+    "observations_today": 75,
+    "observations_yesterday": 91,
     "observations_older": 7
   },
   "mbie_waterfall": {
@@ -8606,36 +8606,42 @@
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMFFnUzVWcW1PTTJZbWZPdWp2eUlTcWJlMW1ZTFhUMDhrU3dVWXpaZUJaTkN0QXotQVBVN29EVUJwd3d3NEJ3eTgtU3NfUzJWZm00TXkwRV9MS2h2cHdudy1WSk5yTlB1TDdneG9NWW91ZzJaOGQ0ODhtelp2Z2I4SkZSTk9vakxFUFN4dzRpU2tBNjU4UFg1UUVmZkN3Wi1NSTFOZG1SNTQ4dw?oc=5"
       },
       {
-        "title": "Air NZ not ruling out more cuts to services amid jet fuel spike - NZ Herald",
-        "source": "NZ Herald",
+        "title": "Air NZ not ruling out more cuts to services amid jet fuel spike - nzherald.co.nz",
+        "source": "nzherald.co.nz",
         "published": "Thu, 23 Jul 2026 05:15:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQnFWZHdRcUY1YjZvbkZIRDZ1M3VXRDIxaFNua2kxalI0cTJrUUk0c3RyemxFQWI2aXBDLW9vUEQ3MHoxUUcxNGNPdFZnYXg5SzVyYzdyblNaek5HcVdrQWk3T19DeW81am9HWEU1WlRreTk1SmR2aW00dTdSUmlIQnNOMmxtSm1zUGZWaW9VMTlUZi0tY092ODJacFBiWms0Z3lfT1dZRlk3RFptUnNUZFF1WjM5SVNXWG1LaTJIYTZaS1hCUTVLWEJaWjdmX0ppVEFadzFZWHVCcTA0Nm50NzVzVU15aFpMRTRwUGY0czkyOHJzRWxGNFFvU0F5dlVKT2hlcGZR?oc=5"
       },
       {
-        "title": "Driving New Zealand to fuel independence with smart EV policy - thepost.co.nz",
-        "source": "thepost.co.nz",
-        "published": "Mon, 20 Jul 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzJzU1dZeU5ic1JZbFJfc2NRazEzbDM5OExrdkRZUG4zRF8tUTBqbWNxTWtRazdVRTAzYzJjUXM2YXBkZ1ZFZWc0eHZjTXZ6N2QxVG9BYXF1b3FsNG10R096a2t4UVc4N094eUlCR3hxcENwdTBpSkhQWnJpM1ZMR3RKRWprOU93blgyc2hEdE5TQ3psUHNqc2NhU2NQT1U?oc=5"
+        "title": "Fuel and power costs mask market resilience, says Retail NZ - Inside Retail New Zealand",
+        "source": "Inside Retail New Zealand",
+        "published": "Wed, 22 Jul 2026 06:34:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRm1QZHVMd2pWbnJCV1BiRkdGWG5XcUczUHQzTVBTOHM2QUhxc3lmbTI5SzFkemp1THRLdG5PZk5kcTlWSEVTZzNqOG1HOUxOa3F1bWcwdjFBRjJKZG42c01MSkZWS3lxZkNfMldkWDNscEcyZ0d3LVpVNUJhbWhYYUZjem9SZVpXNDNEVzZjYkpMcl9sdUVEVkg5SGNJQQ?oc=5"
       },
       {
-        "title": "Petrol, diesel prices fell between May and June - Stats NZ figures - RNZ",
-        "source": "RNZ",
-        "published": "Fri, 17 Jul 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWnQ0ZVkyTk5Xa0loTWU5aHlSOUtnYWU4MVFEVmFtUWlOa1RPMFhRZkI1TUlLaVh2dDVsTkxPeFViREZ2OUU1djhncHdFaTdIZmhNbkxzWjVNM2lCX3RELVpKQ1RUOUtOR0JxWjdFN05VMTZGUFl6Rmt6cUhmYUZ1N1Jha2NrM1FHSUJuSnd2Y2paYWdrbDRONUVXNmNpNkJicFBJcVNCV0laUQ?oc=5"
+        "title": "Analysis: Five takeaways from today's 4.1% inflation figure - 1News",
+        "source": "1News",
+        "published": "Tue, 21 Jul 2026 03:40:03 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWlRGNlhZSnlyQjlxQzN0allJNlV4ck0xLUxDZmluY2tPcWlJaEx1a21nMmh2Ym1vd3o4eEFMNG53OExUdWVPQVpsOTRVb0F3RlAwbXlxaWtfMzRKVjhUMHBLRjhvcDdlUm9PdERrVHJsWHZfWkdNdmgzdldpUFlrclRTcGNhdG1MOVRHU2t1bWoxclllR0E?oc=5"
       },
       {
-        "title": "'Prices will be going up': NZ fuel costs set to rise next week - rova",
-        "source": "rova",
-        "published": "Thu, 16 Jul 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ3hPcW9GNG5ITG05UjFuNzQxOU11UFM1S21VWm1TSlRpWkRjZEJBV0pyTmFqWEdYMFE2d04xMGZheTloemhhVTczeXFMaDJoM0Ntcm5CM3JFS2xhS2I1Wk44WEVDWEZMRjFPNUp6bkJXVmpPNGtHUmdCSEI4MDB6OFZWeWVtNDhJMFoySjdn?oc=5"
+        "title": "New Zealand CPI Hits 4.1% as Fuel Costs Reinforce RBNZ Challenge - Action Forex",
+        "source": "Action Forex",
+        "published": "Tue, 21 Jul 2026 02:07:30 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlRGZ1VHQVEtVjMzeTJDeWFDbHNOUThNOGtKajE0OHozTDNZWlY0b052YW1WaDA5SW90ckJVVm1TYnJua1h0Z184XzdGbmtrRE1jQXNDVFBLcnNfVUlBOGpnczcyQllrdWo1eTlQLTRpbHAwdGtrbnJPTEF0TUhzbHZJcVFPSmgybENadW9RdzBmQU43NmxRc0VCbWp2WDJucUFzVGkzYXJtcFBKaWtEYzhEcw?oc=5"
       }
     ],
     "global": [
       {
-        "title": "US imposes new sanctions on Iran-linked oil companies and tankers - ANHA",
-        "source": "ANHA",
-        "published": "Wed, 29 Jul 2026 17:45:47 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcC04bkRvTFRsWVN3dDFXbzZkQXVrNUxQN09LMTBMMlpWeFJxZEFRYjNYSHViR1NVS1AzeGlPZ1FoQTRoX3ZDR2RNX3c4N3dFZGVULWN4MGk2QjBMeEwzcjFIZEpTTzlkb1A2Q1g5WFFNelprZXVmSzFQOGhaR2NXeTRGaldWalNwM2FrNDFTM2RuaTZ6?oc=5"
+        "title": "US sanctions Chinese, Hong Kong shipping firms over Iranian oil deliveries - South China Morning Post",
+        "source": "South China Morning Post",
+        "published": "Wed, 29 Jul 2026 18:03:51 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMGtjdUJjSkt0MkFtbXJybVFOWU8wVTI3UXAtOVo2eFlxSlJURXFkcGJxV1U0TXVybjJFRk93Ny1lRVU1SWEtQjVTZUxGakpkR2VsQzhRRnJaemJFY0drZGJwclVZUm5aWE1nRjNjd3VPWHI4SXZidm1jRDNVdnJEcGdUeFFHeGVMS3J2QzNkWE9DVUExVkRDWkRNZGY3SnBvVURZOEpSbndkeDJhWWY2U3BEZFpOR2FCcFHSAboBQVVfeXFMUEFzWFpGTWhoZkxGdkM1SjRJX0pDNXd6bEluU0J3cXRONkVyWGx4enlJNDU5QVdCT1c5VTRyTEVkczBXNFZPOUJRNnFReElpMVV2Qkt1MTNFSjdhMlZCd1RFbFBXRVFCUVAwMFpmc2lFSnhkWk5VYksxMjdGQVRNdzBtV1J0aTRabEhwSlhQR08wdUpXOUpTMXJ0UjdGMk1Gb1hVVGhUamN0UGNlcVcwWWVUczUwVjg0QjBB?oc=5"
+      },
+      {
+        "title": "US oil inventories fall to ‘precariously low’ level as Iran war disrupts supply - Financial Times",
+        "source": "Financial Times",
+        "published": "Wed, 29 Jul 2026 17:03:16 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ3hSdmlna2JQeHBsX0xRTlJ3REllSHZFdGt6enRtNlk5dXg3STY3al94OVdBRmlvTWJody1tclZ0eG8tcG1JcnJET2R6NDNhZTRPTEp0WnVHVjVPOXlzemlpeE0tSTQyenhvN0ZfV2hIOElxS044UmcxNjVYVFBFNzRTbFA?oc=5"
       },
       {
         "title": "The Lone Republican Who Voted Against Advancing Bill to Put Tougher Sanctions on Russia - Time Magazine",
@@ -8668,16 +8674,10 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZFBkMFBzazFib2dVdjRCRkZHRVNhdUdmd0VEY01aZVNjUE8tLXRxclAzeVQ3ZFkyTmJlOVptckJPM0phbDdGZVUxcHpURUM3VzBRclU2Zlk3dnpmNzNJR1Y1ejBqQ2g0OVduMGd1UVFtTldEV0VpN2p1QmtCa0E4WFJ1MjlwQVFTTTVxeER0MnpVT2ZLdXlRSg?oc=5"
       },
       {
-        "title": "Oil Prices Rise as Iran and U.S. Strikes Slow Traffic in Strait of Hormuz - nytimes.com",
-        "source": "nytimes.com",
+        "title": "Oil Prices Rise as Iran and U.S. Strikes Slow Traffic in Strait of Hormuz - The New York Times",
+        "source": "The New York Times",
         "published": "Wed, 29 Jul 2026 16:04:52 GMT",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdWdrLTZIc1dyT09tNFJ3WTgySEV4azh5Znkta3V2ejRGNkd6cFJ0Z1BzUnNGaURqajZyMGVPaXpBZUx3d3VxRkJYQTlYSE1ZYmJrT1UyZUJYQUh0VTNPdWRqRm1DemNGdGFka1IwdnFJYy1NSGcyRnU2UDMtMHBDRkZ5SnM2dw?oc=5"
-      },
-      {
-        "title": "Inside the deal to clinch Lindsey Graham’s ‘sanctions bill from hell’ - The Washington Post",
-        "source": "The Washington Post",
-        "published": "Wed, 29 Jul 2026 16:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbmxXWWdRWGNkRHgwcUFmLW9KWjBZZ1hRMmF5cjRpZGZIOENNOTMyOVdZSFpkWFJmYjkybGEtSHJSaUxZbXNaSDN0UXJtVUl4aU01cU9KOTA3R09fbEpsTHBNX0lRSmxNYk0tM2tlRTRSb090MnhEVGNnc1VLXzJlY1BRdDRWdFRQV0k3SHBDOUVFV21pT1FZbFVqaENyQXF0R1hKUFpIWFpVRk0xM2R4R2pydGZ1QQ?oc=5"
       }
     ]
   }
