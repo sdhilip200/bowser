@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T23:43:08+00:00",
+  "generated_at": "2026-07-31T01:16:17+00:00",
   "fx": {
     "nzd_per_usd": 1.72687,
     "as_of": "Thu, 30 Jul 2026 00:02:31 +0000"
@@ -8618,19 +8618,25 @@
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRm1QZHVMd2pWbnJCV1BiRkdGWG5XcUczUHQzTVBTOHM2QUhxc3lmbTI5SzFkemp1THRLdG5PZk5kcTlWSEVTZzNqOG1HOUxOa3F1bWcwdjFBRjJKZG42c01MSkZWS3lxZkNfMldkWDNscEcyZ0d3LVpVNUJhbWhYYUZjem9SZVpXNDNEVzZjYkpMcl9sdUVEVkg5SGNJQQ?oc=5"
       },
       {
-        "title": "Analysis: Five takeaways from today's 4.1% inflation figure - 1News",
-        "source": "1News",
-        "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWlRGNlhZSnlyQjlxQzN0allJNlV4ck0xLUxDZmluY2tPcWlJaEx1a21nMmh2Ym1vd3o4eEFMNG53OExUdWVPQVpsOTRVb0F3RlAwbXlxaWtfMzRKVjhUMHBLRjhvcDdlUm9PdERrVHJsWHZfWkdNdmgzdldpUFlrclRTcGNhdG1MOVRHU2t1bWoxclllR0E?oc=5"
-      },
-      {
         "title": "Driving New Zealand to fuel independence with smart EV policy - thepost.co.nz",
         "source": "thepost.co.nz",
         "published": "Mon, 20 Jul 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzJzU1dZeU5ic1JZbFJfc2NRazEzbDM5OExrdkRZUG4zRF8tUTBqbWNxTWtRazdVRTAzYzJjUXM2YXBkZ1ZFZWc0eHZjTXZ6N2QxVG9BYXF1b3FsNG10R096a2t4UVc4N094eUlCR3hxcENwdTBpSkhQWnJpM1ZMR3RKRWprOU93blgyc2hEdE5TQ3psUHNqc2NhU2NQT1U?oc=5"
+      },
+      {
+        "title": "New Zealand Inflation Accelerates to 4.1% on Soaring Fuel Costs - Bloomberg",
+        "source": "Bloomberg",
+        "published": "Mon, 20 Jul 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeGNNbmxBMXFGcWVMM203RVNUNUpRcUdjRWhVenQzMHNxZnhMSnFDam5RVGk2WS1BaFdPOXc0azQzVTA5dkIwTUVRbmZaUEpEVmFKV1NmVGd4VkZJUUs3cUpjMVFpRFY3R3VQYXBQTzhCVlRDVE5aZm8yOGxmRDBjQVRPWlk3dVoyNkd3UE1JZEgzQVdsb2Q5dDh1bEd4VWF5TlVqbmZvYXd5MDBZQW5rY1pWRQ?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "How China Became the Ultimate Swing Oil Buyer - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Thu, 30 Jul 2026 23:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ3lEU050YmhuTWtnRWlLQ005SmVnOS1nX2lORk8xQzI3Y01ORl9JRFJ4SHhlaWZJY0N0QjVhUU5lSVdwaExMN2lNeTBNeWZmZXdGMlREZWM0Q3hjbFlZdncyNFdYLU1xMWhvQ2ZFczBKNTl4c2h6SkRXZ0NGWFJpLXg1cjRnVF9jR3pPRmFsTzhJUdIBlwFBVV95cUxQU3Z3eU1TQ1dVQmc0UWVjcEZybDhQU19MTGxtYkZ2UUpRaExZSDl1YjBDcU4zRmZtcVM3UG5rbENOdnR3dEV0UkZZSzMzZ0F6bS1LaFhRWmNld1JGbTJhUEI4RUZGODd3cUFVLWsxMmpxcm9GODhJN3hERkNzNUZ5ZzdiX2NWT053Z0VQaG9uc1JYcUMyQjg0?oc=5"
+      },
       {
         "title": "US accuses Iran of 'extortion' in Strait of Hormuz, targets tankers, owners and insurers in new sanctions - rivieramm.com",
         "source": "rivieramm.com",
@@ -8644,10 +8650,16 @@
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUDMyNXM4QlBmdXdPOHNaRVpJaHNDUXVMWUpaZG05R0pxQW5oWnA3RlBFNnhkZVVqa2NsRmRWTUgxUXdYSGZiOUVJNnhVRlVSMFFKcDI5X25qQl9PaXhJZlZDS1lmaVk3cUhiR0JudGh3bGhIYXRhOWprN0tZcVRpeUt2MkZnenNBX2p4dTA4ZlpDY1p6TE12b0lIeGdOX2dtcDlZSGlrcHpNTGZxUUNTYldJUURDSU1RbEVR0gHAAUFVX3lxTE1BNFRhTUhiVWZHU0R3X3VBLTA1MUlrbkktOV90ZUtUbTkxNDdCcWxMYUd5REpwUk0zNlppRUQtc3lBUlY2SFhocjJFY2JzbzNBQ1lpZUpIWTRVeW5qN3NhdHJIWFdUQzJFblowUUZfZTBfYWVBRnNKTEFKNE9vWWJqWE90WUVvcFRlT19rb0JTNzVmbjdNYm10WjlHN2JpWkE1dVNfQjRTNEU0MzdYejR6b1RiNGtCQ1I1Wk9kZVNsVQ?oc=5"
       },
       {
-        "title": "Oil futures: Brent dips below $90/b, Mideast tensions remain elevated - Quantum Commodity Intelligence",
-        "source": "Quantum Commodity Intelligence",
-        "published": "Thu, 30 Jul 2026 19:54:11 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaEJYNm8zUUYybzJOSzFSVzk1aHlhQVlqZEdXbVVObnBiN0JRVV91c1NGS2xQNHlrTUhXSlFKemc4Y0JMak1fYjNSRmhDbURVZmZNcjZQVFpfc0tHc0E0Rmh4WldTVmRMTlo0NXJNS0drb3FBUmJqNlZRaGx3aFRjS3hDX2FNSl9SdVJJbUZCVXpiRE4zVUN3amZicVU0S0RFSHliYktKOHBjS2RrMVE?oc=5"
+        "title": "Oil Prices Wobble as Middle East Veers Toward Wider Conflict - The New York Times",
+        "source": "The New York Times",
+        "published": "Thu, 30 Jul 2026 20:07:02 GMT",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9QallBcFAzbnNqVVRnUjVCY21VdDY1Y3l1ZVpKUmh5WllDSkN3d0JJTU1DTXRxdG9vc2JyRWw4S2JCX3E3YVl0LWRNeWRDeklfTjlSUVd6YW5PanpscGRjMXFiUDJNSnNqSlg4OVdEZ2RydWdtLWk0?oc=5"
+      },
+      {
+        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
+        "source": "LiteFinance",
+        "published": "Thu, 30 Jul 2026 19:44:12 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
       },
       {
         "title": "Oil Futures Give Back Some Gains - WSJ",
@@ -8662,22 +8674,10 @@
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ0R6cktJdC14OXUyMDVPSjVveWhYWm5qYW5HT2xjcmwtZHFwcV9scFAtdmVJbU9hcnNqTUczeGw3ZFJVa0g4U2lWRXJQeVQ0U3dVM1IycVE4Z3E4cnJudEU3eXE2Zkc5Zm1sR1M0SVF4VGVlM3NJX1BCRjN3UTF5WS0zNHFGLWJRNnhUTXBESmZteS1vQW1rTzZMb3V0d2tqQm5oelQ3REhRYXhjNXJzTE9uR1B2Ny05YjlOUF9QNE12Vm9pM2hkeWxVSFRfcmRoSDRYOVFHMA?oc=5"
       },
       {
-        "title": "Sanctions squeeze Russia’s oil export revenues as trade shifts to Asia - Межа. Новини України.",
-        "source": "Межа. Новини України.",
-        "published": "Thu, 30 Jul 2026 18:40:06 GMT",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56Mk8xSDZXMXU5V1NPTnBXZVE3em9JUF9DT21iaktvM1FpYWRNUUxDdGVPejN2b0NPYTFkYmZrUEpvWjhOWDIyNmZLTW1lLWZpblhPV1RkUjdsWHBGdXlQWmpCWUlCaVh6M1llS2dpeEpjdw?oc=5"
-      },
-      {
         "title": "Brent, WTI Crude Prices, Jul. 30, 2026 - Energy Intelligence",
         "source": "Energy Intelligence",
         "published": "Thu, 30 Jul 2026 18:00:37 GMT",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvUmdUU3A3NDA2NTlfdjRfazctNkd6RVdqWGhlRDRLZDBFTjVIaHNwLUxmRnB4U1RvY3UyOGUtUGd2YnUwbzV2TXltRUpxZzAwcDc2X0cxWkhRalRac2p5WUpxWHdVQUxMYV96bG9iZGRaZw?oc=5"
-      },
-      {
-        "title": "South Korean refineries consider Venezuelan oil to diversify supply from Middle East - Baird Maritime",
-        "source": "Baird Maritime",
-        "published": "Thu, 30 Jul 2026 17:51:45 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYUVmVjhwdTQwRmdHV1R2TG9raVZscGJrM0Jack8zRGc3RHJwZV9pT1hlYm1tc2tVeU4zbUV1QkxPZ0J5UXg3RHlvVUdiQjBkOWFNWFE3MmZYM2tBN0NGdXkyYlVTTWxfbEVzNTRUbjhuYzE4dzF1eFdURXk5V3RySms5eVRWOHZrT3RPYWFnclFkNjlkZGZ5cF9LY01ZN28tYms3VEYyLUZNWmJpYUhsWFpaTlYtQWk3QnAwb2ZMTEwtVGVEc2gtaHVzaGVraF9UYjZOYmJYSFJ5dVnSAegBQVVfeXFMTVFNWVJCdXZRR3BlV014WTBHR1liVHZ0TTM0NF9FUkE0aGR3TEF5Nmpwb0ZndGY3aWV0ZENlLUQ3ZHRNa09UN3N2bUVTNGtTOFFjTnkyLTlFUG1jcXNNOVZHZHBLandjSFBGOVJQTW5LdHhydkNZbWhSZ2RkWGVhNi1pUWhXV2NPVnBvbXIxcFlPcTdBTDFzbTAxeXRKQk4zd0YtbmgzbE9za213WjRtanpnTThsekxqRTJDRmZrYUt6WWJyYTQ3Q2hXQkFvMmN5SnY5OGlvRHlBSDNjaU9FdnRvNTdaTzQtUQ?oc=5"
       }
     ]
   }
