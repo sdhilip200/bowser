@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T04:53:15+00:00",
+  "generated_at": "2026-07-31T08:06:45+00:00",
   "fx": {
     "nzd_per_usd": 1.72687,
     "as_of": "Thu, 30 Jul 2026 00:02:31 +0000"
@@ -8582,14 +8582,14 @@
   "news": {
     "nz": [
       {
-        "title": "Why hybrid drivers will pay more under the new RUC system - AutoTrader NZ",
-        "source": "AutoTrader NZ",
+        "title": "Why hybrid drivers will pay more under the new RUC system - Auto Trader NZ",
+        "source": "Auto Trader NZ",
         "published": "Tue, 28 Jul 2026 20:34:43 GMT",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZXkza0RsYlhnRXRsbmswb2NOZjYyT1hPUE5pZlltbHl4aXBkUTFpbzROVlRHY29TVGZBUHRNSmx2U181dV91UzlPd3lDdmhIa2hBZVVKX29EUC1LX1lOVTMyS3Q2VkFDM2hoWDhkRFowanFoVVc3eGVYaldmTkNBZHBxOHFmM3JlWFd6MmRDYlhjVTA?oc=5"
       },
       {
-        "title": "Hamilton’s Iran crisis response team stood down - Waikato Times",
-        "source": "Waikato Times",
+        "title": "Hamilton’s Iran crisis response team stood down - waikatotimes.co.nz",
+        "source": "waikatotimes.co.nz",
         "published": "Sat, 25 Jul 2026 23:20:29 GMT",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRnFPcy10SEdFNWNKVzVpLVJuT3dMQ3E0ZElQQ2VpTHBMZ3RWR2VrVi1WbXZQWmVndkhhUy10czZWTktMMWJ0UlVFeC1SaHE0SHZVXzNaZ3lSSHhrcU4ydjJoT25zNFZSVFdnWklER0k0MWdUNGxsay1pbUhCQ3hSMnJocW9NbmowSHNlR3BSRmRnRElCT3lTekVvMA?oc=5"
       },
@@ -8606,36 +8606,60 @@
         "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQnFWZHdRcUY1YjZvbkZIRDZ1M3VXRDIxaFNua2kxalI0cTJrUUk0c3RyemxFQWI2aXBDLW9vUEQ3MHoxUUcxNGNPdFZnYXg5SzVyYzdyblNaek5HcVdrQWk3T19DeW81am9HWEU1WlRreTk1SmR2aW00dTdSUmlIQnNOMmxtSm1zUGZWaW9VMTlUZi0tY092ODJacFBiWms0Z3lfT1dZRlk3RFptUnNUZFF1WjM5SVNXWG1LaTJIYTZaS1hCUTVLWEJaWjdmX0ppVEFadzFZWHVCcTA0Nm50NzVzVU15aFpMRTRwUGY0czkyOHJzRWxGNFFvU0F5dlVKT2hlcGZR?oc=5"
       },
       {
-        "title": "Fuel payments could be extended even if price stays under $3/litre, Nicola Willis suggests - thepost.co.nz",
-        "source": "thepost.co.nz",
-        "published": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ0F4cU43bEpnWUdQMm4tRThaTUhBWEx5QXZ1d1VWbkM1VEd4cFFEMldmeEczbkFwYlZvZzRLZHdqX1FWTTFmNTRkNjRiTVRkbmxhTzEwSXNsZVdlaDBRU2F5VDRFdDBVX01WVXBDZFVxQ3JsNk1ZQjRRZVV4MzAtVTZabEZRbHFPd1IxRDBRQXlSeF9XUExOMDRtSUJkSEJYb2ZfVFhSYzNjc2VPeUtMQzhIbUVwWTVkZ1Q4Szg2UjFvOGxvZ1NtRVBRRGw?oc=5"
-      },
-      {
         "title": "Fuel and power costs mask market resilience, says Retail NZ - Inside Retail New Zealand",
         "source": "Inside Retail New Zealand",
         "published": "Wed, 22 Jul 2026 06:34:27 GMT",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRm1QZHVMd2pWbnJCV1BiRkdGWG5XcUczUHQzTVBTOHM2QUhxc3lmbTI5SzFkemp1THRLdG5PZk5kcTlWSEVTZzNqOG1HOUxOa3F1bWcwdjFBRjJKZG42c01MSkZWS3lxZkNfMldkWDNscEcyZ0d3LVpVNUJhbWhYYUZjem9SZVpXNDNEVzZjYkpMcl9sdUVEVkg5SGNJQQ?oc=5"
       },
       {
-        "title": "Driving New Zealand to fuel independence with smart EV policy - thepost.co.nz",
-        "source": "thepost.co.nz",
-        "published": "Mon, 20 Jul 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzJzU1dZeU5ic1JZbFJfc2NRazEzbDM5OExrdkRZUG4zRF8tUTBqbWNxTWtRazdVRTAzYzJjUXM2YXBkZ1ZFZWc0eHZjTXZ6N2QxVG9BYXF1b3FsNG10R096a2t4UVc4N094eUlCR3hxcENwdTBpSkhQWnJpM1ZMR3RKRWprOU93blgyc2hEdE5TQ3psUHNqc2NhU2NQT1U?oc=5"
+        "title": "Analysis: Five takeaways from today's 4.1% inflation figure - 1News",
+        "source": "1News",
+        "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWlRGNlhZSnlyQjlxQzN0allJNlV4ck0xLUxDZmluY2tPcWlJaEx1a21nMmh2Ym1vd3o4eEFMNG53OExUdWVPQVpsOTRVb0F3RlAwbXlxaWtfMzRKVjhUMHBLRjhvcDdlUm9PdERrVHJsWHZfWkdNdmgzdldpUFlrclRTcGNhdG1MOVRHU2t1bWoxclllR0E?oc=5"
       },
       {
         "title": "New Zealand’s Second-Quarter Inflation Jumps on Fuel-Price Surge - WSJ",
         "source": "WSJ",
         "published": "Mon, 20 Jul 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZXg4Z1VYSGl5MnVrWVFNM2VOQ3oxZWwwTU9FLTcxYjRfQU8wZTRWT2ozR1Uxc2VWXzl3bzNsTmNveWJOV1N5b05LY2FOYXNDWFhtblpJbmEyclVRNzE5Z0lNYWtCc0lNRWFkdnV0Z25aMXNqTHYzRXhtd0F1eXE3bGNMdHJMeVRHNGVfYmExT3Y5Qk9CaV8zaHNmdzZaSllubGc?oc=5"
+      },
+      {
+        "title": "Driving New Zealand to fuel independence with smart EV policy - thepost.co.nz",
+        "source": "thepost.co.nz",
+        "published": "Mon, 20 Jul 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzJzU1dZeU5ic1JZbFJfc2NRazEzbDM5OExrdkRZUG4zRF8tUTBqbWNxTWtRazdVRTAzYzJjUXM2YXBkZ1ZFZWc0eHZjTXZ6N2QxVG9BYXF1b3FsNG10R096a2t4UVc4N094eUlCR3hxcENwdTBpSkhQWnJpM1ZMR3RKRWprOU93blgyc2hEdE5TQ3psUHNqc2NhU2NQT1U?oc=5"
       }
     ],
     "global": [
       {
+        "title": "Natural Gas and Oil Forecast: WTI and Brent Retreat as Traders Monitor Middle East Supply Risks - FXEmpire",
+        "source": "FXEmpire",
+        "published": "Fri, 31 Jul 2026 06:16:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRzB6b2hrUDh3MEFUTVhSV2dleHVxX2JRNFlHaFktcWsxSmljVFF3VGxMN2R6VHZxNDJhcklOUUVmaWRQT2RnVlR1enNucF9GRE82WXJvV2hJeVhzWFJtSGFGd2NIWFQ2dmVHMVNfdUxGWGFNSzQ3MjFkVVR2anVqbDhaN1pOSTNxb1p6Znc0QmRuSmlnSXlnOE5iM2FkcmZ3LUpwTjBXLVpEbm9zdlNiZndjWWlxeVRqSnhjVWZfVTNUcUJvVnhUVG9aMW9XMlJMLXJ1QXVxNWo2bzZWUkE?oc=5"
+      },
+      {
+        "title": "Houthi Militia Attacks Red Sea Tankers Push Brent Above $100 Per Barrel: how 76 outlets framed it - NewsCord",
+        "source": "NewsCord",
+        "published": "Fri, 31 Jul 2026 05:18:11 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNejc1cmM4Q1QxQlMzcmdvcF9QUVhyc1U4MFFzTFowZWE5MnlCS3dCUWRkZmx0LTFjRU1GOFdqd3B0WmdtQnJUcU9xNkhDSHpzMGJqd2x4cE5iRGlUaG13ZFpFaUtnSkE3UEEydkdUWHYyTGo3MU41MUNETzdMdjZza19OdmFBamVHbmY2Mk9jTFZPY3hUbHJWNXNwTnRkTWNKYTVjSHhxVzlmQS1tbk9vcVpmSDJSMkpoYTctU1ZWelJLVy00T0tieWx1cXlBRnBIeDJQdFZGdDJJS01k?oc=5"
+      },
+      {
         "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
         "source": "LiteFinance",
-        "published": "Fri, 31 Jul 2026 03:42:51 GMT",
+        "published": "Fri, 31 Jul 2026 05:03:09 GMT",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
+      },
+      {
+        "title": "Oil Prices Head for 20% Monthly Surge Despite Recent Pullback - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Fri, 31 Jul 2026 04:56:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMUpCOHFaTGctUGhrcGhsVWp5b1p5MkE2S1hMQU1ndjBaYU9ZVUpybHh0d0E5S3g3MkNWeHEwbV9OSVk5a2lRcl9sNWR3YTdmWnZuc1ZNSmpESEZhSXJneGVCdHVCd2c2TXBQMmRoczhyd0dwZ2REQWFmdi03b2ZNNXJJSUNieVpuRDBWYzNyaElCSDhhUU4yS3JuRVp4X2dpclE0VUhOOTBKazlidWUyWHZnNmRoWW_SAbwBQVVfeXFMUGhDUmVmbTl1b1hsN0VTRGFITjUzRl9FV2JlbFhIVUdwMDVidVBXNjNHMmhJVkNNRElqZHBsLVI0VU40bXpwbmk2YlotdHp3Y3VkTkdoWTdleU9iMHdKMlA3VGxrbE9MOS0xVjEtNTA1cEc2QjBwT3NCZGFPLUZBcGNvN0trX0tjZ284Rk1CNmp1VE9hUF9wdlFGRWo0b1hGcFhTbUxRejQweGlrT0FrQ2dRbm92LUVhTmVGWTg?oc=5"
+      },
+      {
+        "title": "Oil prices ease as recovering Hormuz Strait traffic tempers war premium - CNBC",
+        "source": "CNBC",
+        "published": "Fri, 31 Jul 2026 04:10:47 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ0l6N3lHU1dIT0dUQk9NYlJoVzY4c2lUcHlCa1l6eVNpeF9wakZUbWpKQ3pPZE1tb1NDT0pkZ2oyMmJDSTR3UUpmQ09KUWMwU0h5SHRSTFlhcHRGcGtvOHVKeTRmdGQ5aUtMYmYtQjVMRjBneFJ1Y0JXbkwxdTlHNkhESk91T0kyQ3fSAY8BQVVfeXFMTWd0U2pVRmhJNTNYVEFOaE4yTUU2enFTQWowRkY5aUlodkhtX2RfeTlYd3RVVFkxWnFqY1huYUxGQlcxZWFwcHRXSzg4QjA3czNibzFFalBMWU9aSVN6Q2tfV0kwWXctb3FvVnFvUGZsTzVGSHdpYTNPdUlZc3VpbExUUlBiblJBdDFWSzFjTUU?oc=5"
       },
       {
         "title": "Oil falls more than $1 on greater flows despite US-Iran war - The Mighty 790 KFGO",
@@ -8644,40 +8668,16 @@
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWW03SE1IN0RnQVR6Vk1xZXZHTldxZm5kM09DQXBwV3E1Q0JlM2o3SWlLMzlPaHlSalA1MHBqYWg4c0xSdlNXRl94Vk5tczJBNkxOanJKOHIybXRxdUxWYzVkbVZINmk1Z1VkZ2QxOVBXTERDZzNpWHZPRHpnMkZwRUhqMGV2blFKQXRxUG5fTFM?oc=5"
       },
       {
+        "title": "WTI Crude Oil Price Falls 2% Below $81: What Traders Should Watch - MEXC",
+        "source": "MEXC",
+        "published": "Fri, 31 Jul 2026 03:02:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdThvUUhrUWxiSVl2V0pDcUVVa1dfY3lNVWVIdmFzbEwwWmNuQ2NtOW1ZOFRnSUFWZXFjcDRfdkwzWm5oNk9aU3hnUVpuWndjenhBZkhudzNQcFVsV0VUWFp3SFZpUlhKcjlBaDZmTFF2S2QyUktTLXoySng4dTlJS09Sci1tYV9RR09IT1V3MmhkbkR6dXJ3enFaRWtSaW8?oc=5"
+      },
+      {
         "title": "Crude Oil Trading Alert: Anticipated U.S.-Iran Talks Ease Supply Concerns, WTI Prices Continue Range-Bound Trading - Moomoo",
         "source": "Moomoo",
         "published": "Fri, 31 Jul 2026 02:07:06 GMT",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX3BYeVQ3RDhxbFB5bkdhRGRaQU4tVEtUb3ZPZnNsMTRucHNfV3R3SC1Ic280Nk1LdEJDaHhsQ3ZUcklJenVWNVBlMm1CNG5CZG9fQmJWUWJHUnZfUnRvLXJxOUNxenBhY0RpdmRLcEMzME5uTFFmang2MFJuWkhlbEQyVWVqNDE0Q0YtZURMb1RnVzhENG4wa1o2WFVIWVEzSUZveUpn?oc=5"
-      },
-      {
-        "title": "Middle East Geopolitics: Trading Roadmap for Micro WTI for NYMEX:MCL1! by JimHuangChicago - TradingView",
-        "source": "TradingView",
-        "published": "Fri, 31 Jul 2026 01:36:42 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc0JINlhfY3FRM0RHVXhjdjVQeUhUNHkxN2VNQUdKT2M4RUJ2Wi1zNzU3Sk1yX3dUc2tPaDkzZkhPV01FMTh2dWYzRWtKX3NjNy03QThjeUl6SXhkdlJrWHFkWmF2OHEzM0VHVzNqNGhVTGNvWkFMLXBCdzVEMWFYbDJNbXktdF9HY05pbV9fWkJzVWh3QXRQVFg0LWFLMjRJemJVOWR3?oc=5"
-      },
-      {
-        "title": "Oil Stocks To Watch As Brent Nears $93 and Shell Profit Lifts Sector Focus - simplywall.st",
-        "source": "simplywall.st",
-        "published": "Fri, 31 Jul 2026 01:21:43 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaC1uUHVfbkJFemRybl94WGxiMlR5UkRWcXBFV25HRWJEVlVHd1BIanBMZjVxNmh5ZUM2dmI1MDBGYUxucXp5dWxJSzBJZmZtMVJGSndIRXM2aVg0ZlF1bmluUEFTZU5RS05SeEV0MUFZM2JLT2xBY2trZTI0SmcxRzA5WWJ2eUJWNUlhUzJpZllNczNUTTFvdmRLQWo4cUdMMnktNUJPM3c4RkUxTC1lU2ZoNG5FaFJYWWlnaDNUZ9IBxAFBVV95cUxPV3pUcV9sSk5fakdDLXlwYldjaFV2eFQ4OUNHMGpQcFpWaDBtSC0xUXVlLXN5amRKb1hlVmY5UDUtSXJCZFZnT001WGtKV3JMOWl2UXBFbTB6MGFoQThURWtVYWJaY2JoeTBGWFB2WVRoY1phUW9PV2dkS0t6Q3B2ZzY5X2gwSl9MblgzcEhaRUhJTnVyakZKN0haT0p5cFFQVkNPdTVXdUlCMXpib2w5QThTTnVqUlZOTEp5UXVneWRMYWVf?oc=5"
-      },
-      {
-        "title": "Brent Crude Nears $90 As US-Iran Conflict Puts Oil On Track For Biggest Monthly Gain Since March - NDTV Profit",
-        "source": "NDTV Profit",
-        "published": "Fri, 31 Jul 2026 01:17:02 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU3F6NlhlMHVNeVdIS0F0bE41SV85TUV0bVpoazkwd3JScDRudDlQeXYwUGNGdHJfUG9KbTJackxFVkxlWWhfejZWVlQxbERqM2MtdTNXUHZfaGdCOWIzYWRMM1pEc1lsbFRQV2JSWU5DZ25fQ3pvbE1CSFZZLUg5WkZwQUUzS083OTlNeFZGa1hPbExyVmRuTFgySHVpRzVtS2RYckEyRUVWWkhOWXVKRmNFWEI0TUJldmFCY2N3VzR5SnB5WVVQYkR5RlJoc3FUVEtYNXFB0gHeAUFVX3lxTFBLT3NTcnlITkkyOFQwTHdncGw4ZVdlX1E2eGIwWFkxYndtRGdwdkpQWVp5YzI5ZDlMcERwSWdaYk1wZ0lWYVNUMlFTSFlwRGtwcUhxT0xzR0xKUDFhLXY2RTlKamJFNGV0Zjd5blcyREw5b0tUMFlZaFd3ZjZXQndfa2luRWpLTUpLNnI5N3JZLWd0cDZjaWJwWTFSTG1oZTRGOER3ZDRSTzdtbGY2a0JmRUlDY2tRQmNSbkNPVUItMGNQbnlvRGFXT2o4aWFfSGJNUTNacW12RDJhWldNdw?oc=5"
-      },
-      {
-        "title": "How China Became the Ultimate Swing Oil Buyer - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Thu, 30 Jul 2026 23:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ3lEU050YmhuTWtnRWlLQ005SmVnOS1nX2lORk8xQzI3Y01ORl9JRFJ4SHhlaWZJY0N0QjVhUU5lSVdwaExMN2lNeTBNeWZmZXdGMlREZWM0Q3hjbFlZdncyNFdYLU1xMWhvQ2ZFczBKNTl4c2h6SkRXZ0NGWFJpLXg1cjRnVF9jR3pPRmFsTzhJUdIBlwFBVV95cUxQU3Z3eU1TQ1dVQmc0UWVjcEZybDhQU19MTGxtYkZ2UUpRaExZSDl1YjBDcU4zRmZtcVM3UG5rbENOdnR3dEV0UkZZSzMzZ0F6bS1LaFhRWmNld1JGbTJhUEI4RUZGODd3cUFVLWsxMmpxcm9GODhJN3hERkNzNUZ5ZzdiX2NWT053Z0VQaG9uc1JYcUMyQjg0?oc=5"
-      },
-      {
-        "title": "Middle East Oil Shock Could Hand Upstream Sector a $495 Billion Windfall - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Thu, 30 Jul 2026 22:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUDMyNXM4QlBmdXdPOHNaRVpJaHNDUXVMWUpaZG05R0pxQW5oWnA3RlBFNnhkZVVqa2NsRmRWTUgxUXdYSGZiOUVJNnhVRlVSMFFKcDI5X25qQl9PaXhJZlZDS1lmaVk3cUhiR0JudGh3bGhIYXRhOWprN0tZcVRpeUt2MkZnenNBX2p4dTA4ZlpDY1p6TE12b0lIeGdOX2dtcDlZSGlrcHpNTGZxUUNTYldJUURDSU1RbEVR0gHAAUFVX3lxTE1BNFRhTUhiVWZHU0R3X3VBLTA1MUlrbkktOV90ZUtUbTkxNDdCcWxMYUd5REpwUk0zNlppRUQtc3lBUlY2SFhocjJFY2JzbzNBQ1lpZUpIWTRVeW5qN3NhdHJIWFdUQzJFblowUUZfZTBfYWVBRnNKTEFKNE9vWWJqWE90WUVvcFRlT19rb0JTNzVmbjdNYm10WjlHN2JpWkE1dVNfQjRTNEU0MzdYejR6b1RiNGtCQ1I1Wk9kZVNsVQ?oc=5"
       }
     ]
   }
