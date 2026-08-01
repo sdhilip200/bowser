@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-01T18:43:55+00:00",
+  "generated_at": "2026-08-01T19:07:09+00:00",
   "fx": {
-    "nzd_per_usd": 1.703943,
-    "as_of": "Fri, 31 Jul 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.700998,
+    "as_of": "Sat, 01 Aug 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
@@ -11,10 +11,6 @@
       "delta_1d_pct": 1.22,
       "delta_30d_pct": 13.29,
       "series": [
-        {
-          "date": "2025-07-31",
-          "usd": 72.53
-        },
         {
           "date": "2025-08-01",
           "usd": 69.67
@@ -1028,10 +1024,6 @@
       "delta_30d_pct": 10.26,
       "series": [
         {
-          "date": "2025-07-31",
-          "usd": 69.26
-        },
-        {
           "date": "2025-08-01",
           "usd": 67.33
         },
@@ -2039,40 +2031,40 @@
     }
   },
   "nz_retail": {
-    "as_of": "2026-07-31",
+    "as_of": "2026-08-01",
     "regular_91": {
-      "avg": 3.035,
+      "avg": 3.032,
       "min": 2.786,
-      "max": 3.3,
-      "count": 79
+      "max": 3.34,
+      "count": 85
     },
     "premium_95": {
-      "avg": 3.234,
+      "avg": 3.244,
       "min": 2.926,
       "max": 3.599,
-      "count": 50
+      "count": 53
     },
     "premium_98": {
-      "avg": 3.372,
-      "min": 3.289,
-      "max": 3.459,
-      "count": 8
+      "avg": 3.359,
+      "min": 3.219,
+      "max": 3.598,
+      "count": 18
     },
     "diesel": {
-      "avg": 2.689,
+      "avg": 2.681,
       "min": 2.446,
-      "max": 2.999,
-      "count": 91
+      "max": 2.859,
+      "count": 84
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 4.9,
+      "min": 4.9,
+      "max": 4.9,
+      "count": 1
     },
-    "observations_today": 21,
-    "observations_yesterday": 200,
-    "observations_older": 7
+    "observations_today": 0,
+    "observations_yesterday": 201,
+    "observations_older": 0
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8582,8 +8574,8 @@
   "news": {
     "nz": [
       {
-        "title": "Why hybrid drivers will pay more under the new RUC system - autotrader.co.nz",
-        "source": "autotrader.co.nz",
+        "title": "Why hybrid drivers will pay more under the new RUC system - Auto Trader NZ",
+        "source": "Auto Trader NZ",
         "published": "Tue, 28 Jul 2026 20:34:43 GMT",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZXkza0RsYlhnRXRsbmswb2NOZjYyT1hPUE5pZlltbHl4aXBkUTFpbzROVlRHY29TVGZBUHRNSmx2U181dV91UzlPd3lDdmhIa2hBZVVKX29EUC1LX1lOVTMyS3Q2VkFDM2hoWDhkRFowanFoVVc3eGVYaldmTkNBZHBxOHFmM3JlWFd6MmRDYlhjVTA?oc=5"
       },
@@ -8606,16 +8598,16 @@
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdEZJY3Q3dE94SHJJS2cwcml2eTRxa3hiM0hQWTVUelpaeG9FSC1wNEFPTzI2VG9pQVNKQ0ZuNTh6QjJwdXN3MTVEaWRsNzdoRXBnUEY0UndiU0U0LVJUWkxiTVluQk1uVmtYWjVBZ20xVXRjXzg5dDY5eUg3RmczVUJGTVhYUEtUVDZLSXdTVEVsemh1UVhpQzFmVmozMEFDeXdyVmhtblE?oc=5"
       },
       {
-        "title": "Driving New Zealand to fuel independence with smart EV policy - thepost.co.nz",
-        "source": "thepost.co.nz",
-        "published": "Mon, 20 Jul 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzJzU1dZeU5ic1JZbFJfc2NRazEzbDM5OExrdkRZUG4zRF8tUTBqbWNxTWtRazdVRTAzYzJjUXM2YXBkZ1ZFZWc0eHZjTXZ6N2QxVG9BYXF1b3FsNG10R096a2t4UVc4N094eUlCR3hxcENwdTBpSkhQWnJpM1ZMR3RKRWprOU93blgyc2hEdE5TQ3psUHNqc2NhU2NQT1U?oc=5"
-      },
-      {
         "title": "New Zealand’s Second-Quarter Inflation Jumps on Fuel-Price Surge - WSJ",
         "source": "WSJ",
         "published": "Mon, 20 Jul 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZXg4Z1VYSGl5MnVrWVFNM2VOQ3oxZWwwTU9FLTcxYjRfQU8wZTRWT2ozR1Uxc2VWXzl3bzNsTmNveWJOV1N5b05LY2FOYXNDWFhtblpJbmEyclVRNzE5Z0lNYWtCc0lNRWFkdnV0Z25aMXNqTHYzRXhtd0F1eXE3bGNMdHJMeVRHNGVfYmExT3Y5Qk9CaV8zaHNmdzZaSllubGc?oc=5"
+      },
+      {
+        "title": "Driving New Zealand to fuel independence with smart EV policy - thepost.co.nz",
+        "source": "thepost.co.nz",
+        "published": "Mon, 20 Jul 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzJzU1dZeU5ic1JZbFJfc2NRazEzbDM5OExrdkRZUG4zRF8tUTBqbWNxTWtRazdVRTAzYzJjUXM2YXBkZ1ZFZWc0eHZjTXZ6N2QxVG9BYXF1b3FsNG10R096a2t4UVc4N094eUlCR3hxcENwdTBpSkhQWnJpM1ZMR3RKRWprOU93blgyc2hEdE5TQ3psUHNqc2NhU2NQT1U?oc=5"
       },
       {
         "title": "'Fuel prices remain a wild card' with inflation tipped to top 4% - NZ Herald",
@@ -8662,8 +8654,8 @@
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPak5XcGxWUXBlNVhTbFd3RkFvM2dzMUdvcm84a3Nzc2hxLVJYMU1zOHBsYlY0eV90Z2NlY0xDajNSdUxweFJ6WVprRjNzOHVrT0cwbXM0LUZvRHRmdF9VMEN0NUZpZ1VjYjFNeEdiSHZ1SHpyZ2otTVhyLXVsb09yVm1NUUhQM2dMMUNkQjFCalh1a2Y3bjlqX1ZNOHFVRDM5Ylh2clBwd0JmTUFtcmZUeUUyRnhsRXNjeUE?oc=5"
       },
       {
-        "title": "US Senate bill on Russia sanctions risks backfiring against European allies - Euronews.com",
-        "source": "Euronews.com",
+        "title": "US Senate bill on Russia sanctions risks backfiring against European allies - Euronews",
+        "source": "Euronews",
         "published": "Sat, 01 Aug 2026 05:30:22 GMT",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQlVfa0plQVBtQnNmSHJTOFhta3N3Slc5alFZY0pxXzJEY21sOG91bENGNFRtcml6NHI0V05wQ0N2NGt6QUUzYkQ4VnZjYXJWVzh1VV9LVFlUa21TYWhaZzQyd0VzY19mRU1GUmlLMjFFSW5FOUJEQTFBTWpNcnhZYnVfamlZVWQtd2xpQWlhS3JfZWh2UlQxcXkteXN0MnJ0bDFwWnNrbjZkV0ZRRkQzTmZ3MGJpT2ZfaEU3cWhR?oc=5"
       },
