@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-02T18:44:55+00:00",
+  "generated_at": "2026-08-02T19:08:56+00:00",
   "fx": {
-    "nzd_per_usd": 1.700998,
-    "as_of": "Sat, 01 Aug 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.70141,
+    "as_of": "Sun, 02 Aug 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
@@ -11,10 +11,6 @@
       "delta_1d_pct": 1.22,
       "delta_30d_pct": 13.29,
       "series": [
-        {
-          "date": "2025-08-01",
-          "usd": 69.67
-        },
         {
           "date": "2025-08-04",
           "usd": 68.76
@@ -1024,10 +1020,6 @@
       "delta_30d_pct": 10.26,
       "series": [
         {
-          "date": "2025-08-01",
-          "usd": 67.33
-        },
-        {
           "date": "2025-08-04",
           "usd": 66.29
         },
@@ -2031,39 +2023,39 @@
     }
   },
   "nz_retail": {
-    "as_of": "2026-08-01",
+    "as_of": "2026-08-02",
     "regular_91": {
-      "avg": 3.032,
+      "avg": 3.011,
       "min": 2.786,
-      "max": 3.34,
-      "count": 85
+      "max": 3.199,
+      "count": 51
     },
     "premium_95": {
-      "avg": 3.244,
+      "avg": 3.231,
       "min": 2.926,
-      "max": 3.599,
-      "count": 53
+      "max": 3.729,
+      "count": 22
     },
     "premium_98": {
-      "avg": 3.359,
+      "avg": 3.362,
       "min": 3.219,
-      "max": 3.598,
-      "count": 18
+      "max": 3.549,
+      "count": 3
     },
     "diesel": {
-      "avg": 2.681,
+      "avg": 2.675,
       "min": 2.446,
-      "max": 2.859,
-      "count": 84
+      "max": 2.879,
+      "count": 56
     },
     "lpg": {
-      "avg": 4.9,
-      "min": 4.9,
-      "max": 4.9,
+      "avg": 4.385,
+      "min": 4.385,
+      "max": 4.385,
       "count": 1
     },
-    "observations_today": 0,
-    "observations_yesterday": 201,
+    "observations_today": 53,
+    "observations_yesterday": 40,
     "observations_older": 0
   },
   "mbie_waterfall": {
@@ -8624,6 +8616,24 @@
     ],
     "global": [
       {
+        "title": "China's Car Market Stalls Even as Global Demand Keeps Growing - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Sun, 02 Aug 2026 19:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb3FpY3B0d1gyajVIUzN4QmtNY09IMGNfVVJIcHU5WEtOS19LekhmV09GQW1xQm1mWkozYy02N3c1X0RmSVdZeFVrQ2hxYkpZcXVQcWgzX3hQWjVIMmxVSlJueDNGMl9RdDlpMmFoVEhHekx6T3ppT1VDeElMNm92R21JVkhfampwMmNCbEFYRkljZXJwenpydk5pd0FkOGoybkZaNTFyU3FvSDRu0gGyAUFVX3lxTFA5SVgyUW5vdlRXUzh0STNfblhPQTNUUDRka29mM2JUUVluNnV6WE1KTzQ3Y3FoZ2YzTWoyTXliU0lhWi1yQ25qczNUV0gzVzhvOXZvdWhaZmR6c0R5SnNVLVZUc0lvcGwzZ042SDN6OWNESTdkNHZKUFpwbWNHUXZ3TE5TSnJBM09pdWRKZXRxd1JGSFVXWjdVaWU5WnBlQk9EWnhDZFBlUTJ0NkxwSjhiZVE?oc=5"
+      },
+      {
+        "title": "WTI Crude Oil 02/08: Traders Test Rough Peace Narrative - DailyForex",
+        "source": "DailyForex",
+        "published": "Sun, 02 Aug 2026 18:56:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOXZsY3dFZGIwQWNyU2pXMkJHNE5ZY3g5WU5BX0Q4UEg1ejhxbUYtTzVEc0hVMnZvTlhrbFlzNGdMRjh4VUR4bkt3TnQwelJBeVVGYVdDYm1QVHVuU3c5ZkRmTGh6ZFVyYUpqRnpoVWVIQVd3c3Fjc0kzdWZxUjdSZ3p4ZS04V0wya1ZxaXhvQXAtMXdMeFNEbG9yakNKT183ai1LaC04d0w1RVQ2MEpLM053?oc=5"
+      },
+      {
+        "title": "Op-Ed: Sanctions Drive Growth of a Parallel Shipping Economy - The Maritime Executive",
+        "source": "The Maritime Executive",
+        "published": "Sun, 02 Aug 2026 18:22:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZUNXQkZUOGJVU3R1OUJGckFNaEFQcUlhbzFFX2J3S1c0WFdUaW9xT1lBYWcwYXZTZFp1bS1jUTNiRDR3Uk1kaTRvcHVJVWQ0RVpucm0tWDRjNjZzV2duTzNwaWZxZ2xxdGRKOWtZTndqWC1aZmJOemJNU3RzWnhxWUsxWk5FNnZ4TkJtcXQ0WFdodllHRFphYU9NMEpMcWJUSGZv?oc=5"
+      },
+      {
         "title": "Chevron CEO warns Iran conflict has created 'very real' threat to global oil supplies as gas prices climb - Fox News",
         "source": "Fox News",
         "published": "Sun, 02 Aug 2026 17:16:01 GMT",
@@ -8652,24 +8662,6 @@
         "source": "BusinessToday Malaysia",
         "published": "Sun, 02 Aug 2026 14:14:33 GMT",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM2dYQTcwd2tKX3hJVW5MQWtTcDZhdEVkMG5na1BianhDeVgxSDkyVVpFUk1IMmJLSlM2c2dzRGdGdzlycVU4RExzeUR1X2FJSWVDdzRvMWFOSVo2TW1sUnY0MEFOSUg4NUJucjZBbk00RlNRaGF3Sjd3WnR0X1pqeC1XU2dqXzQxT3EwOEhGbzZUSHgtR2M3MDRTVEc2QQ?oc=5"
-      },
-      {
-        "title": "Serbia secures another U.S. sanctions waiver for Russian-owned NIS oil firm - EUalive",
-        "source": "EUalive",
-        "published": "Sun, 02 Aug 2026 09:37:19 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUHlaNFBVVDlsOE0zMUU3OVRlbE8xYjhzRTdubUdKUzAwSTBiUGlBMzFtbWY2R2lGanFncVBNTERxbnlOYm01eGtSUU9tRksySEw3dE1YeGRWNGdtdVBockhtMnI3RGJpYWhTVExLbkRQUjFMNmhPLTZWY3J6b296aWFtNmgwVnl1Mm9YYnZMWFpmenRBWVhOcFRPcw?oc=5"
-      },
-      {
-        "title": "OPEC+ boosts September production by 188,000 barrels/day - France 24",
-        "source": "France 24",
-        "published": "Sun, 02 Aug 2026 02:37:13 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORUl1dzN5NTZHblhDSXdfSlhYaTdCeW80dVgxYzhPTlcwcGhTMlVNRExZaWVyOC1wMS1FdDloSEJtejdiWDdEQVp3RmpyREVCZlFMTF9vWjF4YXJMbnlqZ2htUGZGYkxUb3hVOHpOUHFBVEpPckxiSWpoSVh3LVUxaVVscnRlMG5nRDIwUGltMWpsc1NqRFRYVmg2amFibjN3T0VuMUlpMA?oc=5"
-      },
-      {
-        "title": "Record Vaca Muerta Output Fails to Lift Argentina's Wider Economy - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Sat, 01 Aug 2026 23:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbEplc3ZzMjZXNnNLV0l2RVlVXzlSOERUR1dTVjJaRnRCVU8zUnFtbENVSFQ4LUx2aTg3dmV6NFRobGdkYmdIQXg3c1Z2NFFEUWg4ejVTQzZiUkdNQzBUdEtHMjVEYmlwUnhfYkU2TmVTRkNLSTNTWXdkMGl5RFlLMkR0Mjd3S1V4MHgzMjVpQUpMbjNveHdyMTVSQzdfU2Z0VVJMUS04WktYczTSAbABQVVfeXFMUFZRWjM3SmtXWG4zd0cteTZidUdTX3RLMThaZzJZb1NCTWZ2Mmd6c3hqLXZYc2VIQl9pajNZSjNPa3hUSXNSZDJpcGFTVE4zSEFnbXFyOVpUVGh1NWJOYkp5SF9HdFdBZnhTM1J3YXBtejlnYVRubmN6NV9XOEt5ek1XQ21rSHNYQzJDbF9YUEZwOEpCNW9vejRxUUJrYWJsOEJwbU45V1l2dnVzSzY2V1I?oc=5"
       }
     ]
   }
