@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T15:34:50+00:00",
+  "generated_at": "2026-08-02T16:37:59+00:00",
   "fx": {
     "nzd_per_usd": 1.700998,
     "as_of": "Sat, 01 Aug 2026 00:02:31 +0000"
@@ -8586,8 +8586,8 @@
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOczRySzM5MmFUVFgzWjZMSzUtd3BMTi1oaVhPZE8xT0FaSHZrRTNIbGQ4Tm1kVHdESHJkWmVsSEpxZ1p2TFRFR2pUMXVfeEN5OHhKN1d3ZXh3Q2VMVWVoNk1ZbWVFYWFrczR3aERfck5NYm1yQUYtbEQ0V3BuYW9YaHQ0Y3I0ckIxTkZkWFM1VDdhYzQ4QWZxeEhJUXRrTW1IUVJEVFV3bGo0TmdYaWZZZy1iTi1qMGVGSklB?oc=5"
       },
       {
-        "title": "Air NZ not ruling out more cuts to services amid jet fuel spike - nzherald.co.nz",
-        "source": "nzherald.co.nz",
+        "title": "Air NZ not ruling out more cuts to services amid jet fuel spike - NZ Herald",
+        "source": "NZ Herald",
         "published": "Thu, 23 Jul 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQnFWZHdRcUY1YjZvbkZIRDZ1M3VXRDIxaFNua2kxalI0cTJrUUk0c3RyemxFQWI2aXBDLW9vUEQ3MHoxUUcxNGNPdFZnYXg5SzVyYzdyblNaek5HcVdrQWk3T19DeW81am9HWEU1WlRreTk1SmR2aW00dTdSUmlIQnNOMmxtSm1zUGZWaW9VMTlUZi0tY092ODJacFBiWms0Z3lfT1dZRlk3RFptUnNUZFF1WjM5SVNXWG1LaTJIYTZaS1hCUTVLWEJaWjdmX0ppVEFadzFZWHVCcTA0Nm50NzVzVU15aFpMRTRwUGY0czkyOHJzRWxGNFFvU0F5dlVKT2hlcGZR?oc=5"
       },
@@ -8624,22 +8624,34 @@
     ],
     "global": [
       {
+        "title": "Crude Oil Weekly Outlook: Tight Inventories Keep Bulls in Control - City Index UK",
+        "source": "City Index UK",
+        "published": "Sun, 02 Aug 2026 15:51:18 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeUJPeFpSck54ZzhNVXp2d2lqZWRSVnAzdHVjNEVMcWdmM245Z1RYZFk1UklRLU9yc1M3QnRYa3g3RTlqc00zRDc3VGU0MDhNNkVYcjBzd2V3UDF4UncteFg1a1JCc3lFRmxHV2tHMU9hbUEyTmthM2FiOEtGc1E3eUFObkJYMkNZaTNLNGhmV2I1S3k2LUx6RmVwLU5FOGUyQjl4NU5vWlcyRTBwTDVVZlAyWlRkQQ?oc=5"
+      },
+      {
         "title": "China Doubles Down on Clean Energy Even as Coal Keeps Growing - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Sun, 02 Aug 2026 15:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQkRLdk40Tkp2eDB1N3BCeTZVc2kzQXlOZVkxc3J3aE5yMGpuYVRMZE51YWMwajJRcXhWQm5vV1RZUWIwWWh6TDhLM2dSaXpmaGxMVlJzUHVzamF0SkkyVnR0N3JJQU9IVFRXU25EQjRxX2NGaVZVSzU5TUl0UG1HNTF5SWE3R0hBVjNOd1ZVdzY4emtSdENCZ2xNSXk5cUFGaThTX2hYMXEyOGEyUXfSAbMBQVVfeXFMTURRZHlPQm5ldkllTElZb3NGWHY3dWxDWXNPVHh3TXlKMUhkOWVmOVhycF9rN3p2WWEzTEZFTXRZdXE3UURYX0U2V1RETmZyc0JYUnlUVmtkSVJJempUVGpJd2c3QlY5cE1kNzVZeHd6NlJ3dVRuZUdzLUVoV18xYllDcjNrSDhOWG11WWcyRmpnOXBUUVpxWXNHaUgyalBsRUtHa3Q3Zjc1Nk5Ma0dkR2t1Snc?oc=5"
       },
       {
-        "title": "Brent Crude Price Outlook For The Next Five Quarters - BusinessToday Malaysia",
-        "source": "BusinessToday Malaysia",
+        "title": "Brent Crude Price Outlook For The Next Five Quarters - businesstoday.com.my",
+        "source": "businesstoday.com.my",
         "published": "Sun, 02 Aug 2026 14:14:33 GMT",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM2dYQTcwd2tKX3hJVW5MQWtTcDZhdEVkMG5na1BianhDeVgxSDkyVVpFUk1IMmJLSlM2c2dzRGdGdzlycVU4RExzeUR1X2FJSWVDdzRvMWFOSVo2TW1sUnY0MEFOSUg4NUJucjZBbk00RlNRaGF3Sjd3WnR0X1pqeC1XU2dqXzQxT3EwOEhGbzZUSHgtR2M3MDRTVEc2QQ?oc=5"
       },
       {
-        "title": "OPEC+ boosts September production by 188,000 barrels/day - RFI",
-        "source": "RFI",
-        "published": "Sun, 02 Aug 2026 02:36:12 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONzRudDB6VVFibHhBaHNUZkRHUmhXbnFFLUJVSjhDUzI3Zjh4MFVOTVctbUIyeGw5QXpKeVotUEtrT0h5MWJwSkFGdjFZT184U3o0QVVpWkl0bnJfZ3djdHBRZ2VSQkVrcm1UY3NBU0x2U1MydWhKVmhRYWtiOHk5TUdNeGxXQUVmaGVwdzJlaEhtMXVTa3J0STM4ZVFRVlhOZktQMm4zX0x1RUk?oc=5"
+        "title": "Serbia secures another U.S. sanctions waiver for Russian-owned NIS oil firm - EUalive",
+        "source": "EUalive",
+        "published": "Sun, 02 Aug 2026 09:37:19 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUHlaNFBVVDlsOE0zMUU3OVRlbE8xYjhzRTdubUdKUzAwSTBiUGlBMzFtbWY2R2lGanFncVBNTERxbnlOYm01eGtSUU9tRksySEw3dE1YeGRWNGdtdVBockhtMnI3RGJpYWhTVExLbkRQUjFMNmhPLTZWY3J6b296aWFtNmgwVnl1Mm9YYnZMWFpmenRBWVhOcFRPcw?oc=5"
+      },
+      {
+        "title": "OPEC+ boosts September production by 188,000 barrels/day - France 24",
+        "source": "France 24",
+        "published": "Sun, 02 Aug 2026 02:37:13 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORUl1dzN5NTZHblhDSXdfSlhYaTdCeW80dVgxYzhPTlcwcGhTMlVNRExZaWVyOC1wMS1FdDloSEJtejdiWDdEQVp3RmpyREVCZlFMTF9vWjF4YXJMbnlqZ2htUGZGYkxUb3hVOHpOUHFBVEpPckxiSWpoSVh3LVUxaVVscnRlMG5nRDIwUGltMWpsc1NqRFRYVmg2amFibjN3T0VuMUlpMA?oc=5"
       },
       {
         "title": "Record Vaca Muerta Output Fails to Lift Argentina's Wider Economy - Crude Oil Prices Today | OilPrice.com",
@@ -8654,22 +8666,10 @@
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUEpFaFBvTzBCbEpZV0VLbV9udms4RGZYWnNJcTRnWDBFVTdBUWU4LTlTSWVFWVJLQlFuYXdFUHgzMUtXTlZBc3lWZFZGb3VSMUQzYUR4WEMxeWdjV3I1SldTRFl5b29uODU4dEhaaUlVSHBBbDhlNTI1Xzl4UzRacjJ6SzJuMUw5cUFjQ2Y4RHhVamI5?oc=5"
       },
       {
-        "title": "Suriname's $26 Billion Oil Bet Is Finally Paying Off - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Sat, 01 Aug 2026 21:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORVVIWFJXdW0tczYyN0w1aG9xWGlOakM3WDRzSFlZaFFuNU1RdzNxSlVnVXh5d3J2MDd0enVVZElWNjZHRDRQVTlGYmxMMDBsWGsxYkhIc0xPSGgteENTUmt3Y3lXQmNxRlVfWTZTQ3dic21idkJ2ZVEyMm4wWHpJNFkxdmVwS1Zodzhmd2hOblFOckJ4dl8yc3F0UkNadUHSAaQBQVVfeXFMTmc0ZGFmSFVQWWFGS0FfS0k3T3JUQTIwT0c1SW9oV2VCX1VCd05xUE95bXl5a2k2MGZPU0ljLURlZGt2b0NZSXFtWG9vR19TWmJldGk5RU9zU25DTjI2dG9QT2M3TERoUXpDTVhlWVZwLXc0V212bnJKMDAwS3ZXMHJkLW1ITWpuZHhuOUFzSTZPSzZXREJTVnFwQldZRkJyUTh1R3U?oc=5"
-      },
-      {
         "title": "Core Differences Between West Texas Intermediate (WTI) and Brent Crude and the Affect of the Iran War - EnergyNow.com",
         "source": "EnergyNow.com",
-        "published": "Sat, 01 Aug 2026 12:14:12 GMT",
+        "published": "Sat, 01 Aug 2026 15:45:08 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1ZOVFVuUnFFYUstVktuczhxdzBYN1lUbUlqbTIwZEVnX2lCclN2dDZyeVJxUnFPLXdLLWhHcTd1MUUyM0kxTFBUZWJZSVlfN2RCZkRlRXhqT3ZfdUJTQkFjSkR1dDFsQ2Rmc19VTERhc1hsV2Nka2RDVEFvZ0FUcFdJQ0dCR21lcm5mZU12UzJZZHlyOFh3WGEzVWpCVDlUeHc?oc=5"
-      },
-      {
-        "title": "TEMPORARY DEAL - US Eases Russia Oil Sanctions to Tame Price Surge, Riling European Allies - EnergyNow",
-        "source": "EnergyNow",
-        "published": "Sat, 01 Aug 2026 11:55:45 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZEwteXNCcjlLa1dveThnYmJJMnFFdWNySXl3T19HZThyeUw1Rk52ay1Vak55WFhYNmp4Mk4tbVBjMDBDdUVEVFR0dzFmTmc4MjFKY0NjQXo1eFBicmptSF8tR1NLRUlYQTVjTFZ3UjJSUTdxNExiYUdLNy1tX2pHQS1aS19UUTdVdXF3c3RiU0JmdU9nR1NNb0FycmlxYlZsU2Jhck5WeklVWmRQQjlnT2o0ZmJDQlVv?oc=5"
       }
     ]
   }
