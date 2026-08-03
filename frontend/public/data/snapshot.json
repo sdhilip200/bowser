@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-03T19:05:17+00:00",
+  "generated_at": "2026-08-03T19:35:53+00:00",
   "fx": {
-    "nzd_per_usd": 1.70141,
-    "as_of": "Sun, 02 Aug 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.697232,
+    "as_of": "Mon, 03 Aug 2026 00:02:32 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 90.12,
-      "latest_date": "2026-07-31",
-      "delta_1d_pct": 1.22,
-      "delta_30d_pct": 13.29,
+      "latest": 83.92,
+      "latest_date": "2026-08-03",
+      "delta_1d_pct": -6.88,
+      "delta_30d_pct": 5.1,
       "series": [
         {
           "date": "2025-08-04",
@@ -1010,14 +1010,18 @@
         {
           "date": "2026-07-31",
           "usd": 90.12
+        },
+        {
+          "date": "2026-08-03",
+          "usd": 83.92
         }
       ]
     },
     "wti": {
-      "latest": 84.67,
-      "latest_date": "2026-07-31",
-      "delta_1d_pct": 1.29,
-      "delta_30d_pct": 10.26,
+      "latest": 80.36,
+      "latest_date": "2026-08-03",
+      "delta_1d_pct": -5.09,
+      "delta_30d_pct": 4.91,
       "series": [
         {
           "date": "2025-08-04",
@@ -2018,44 +2022,48 @@
         {
           "date": "2026-07-31",
           "usd": 84.67
+        },
+        {
+          "date": "2026-08-03",
+          "usd": 80.36
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-08-02",
+    "as_of": "2026-08-03",
     "regular_91": {
-      "avg": 3.011,
-      "min": 2.786,
-      "max": 3.199,
-      "count": 51
+      "avg": 3.06,
+      "min": 2.871,
+      "max": 3.3,
+      "count": 62
     },
     "premium_95": {
-      "avg": 3.231,
-      "min": 2.926,
-      "max": 3.729,
-      "count": 22
+      "avg": 3.21,
+      "min": 2.876,
+      "max": 3.409,
+      "count": 25
     },
     "premium_98": {
-      "avg": 3.362,
-      "min": 3.219,
-      "max": 3.549,
-      "count": 3
+      "avg": 3.343,
+      "min": 3.186,
+      "max": 3.489,
+      "count": 7
     },
     "diesel": {
-      "avg": 2.675,
-      "min": 2.446,
-      "max": 2.879,
-      "count": 56
+      "avg": 2.732,
+      "min": 2.496,
+      "max": 3.999,
+      "count": 73
     },
     "lpg": {
-      "avg": 4.385,
-      "min": 4.385,
-      "max": 4.385,
-      "count": 1
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 53,
-    "observations_yesterday": 40,
+    "observations_today": 74,
+    "observations_yesterday": 86,
     "observations_older": 0
   },
   "mbie_waterfall": {
@@ -8602,22 +8610,22 @@
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZXg4Z1VYSGl5MnVrWVFNM2VOQ3oxZWwwTU9FLTcxYjRfQU8wZTRWT2ozR1Uxc2VWXzl3bzNsTmNveWJOV1N5b05LY2FOYXNDWFhtblpJbmEyclVRNzE5Z0lNYWtCc0lNRWFkdnV0Z25aMXNqTHYzRXhtd0F1eXE3bGNMdHJMeVRHNGVfYmExT3Y5Qk9CaV8zaHNmdzZaSllubGc?oc=5"
       },
       {
-        "title": "Trump ‘certainly made things harder’: Willis reacts as inflation surges to 4.1% - Stuff",
-        "source": "Stuff",
+        "title": "New Zealand Inflation Accelerates to 4.1% on Soaring Fuel Costs - Bloomberg.com",
+        "source": "Bloomberg.com",
         "published": "Mon, 20 Jul 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQU1WSGJkd09yV0U0SXFtR0RIYjNFWjFqS2NaV05EZkNwV05xVktWdUhTQXVlR1lUeTVVSnV5Mmo1MlFpdjVndUF6Q05yY3NlekhGQmtjTFFXU1ZYYjlLcnl1elRKQ2tkYjRiZHNEamwyelcwbGh5UkNjN29OendIdVFsTXl0SzdQOFZKa0tuLW1qMFV3cnNoNVNlV0o?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeGNNbmxBMXFGcWVMM203RVNUNUpRcUdjRWhVenQzMHNxZnhMSnFDam5RVGk2WS1BaFdPOXc0azQzVTA5dkIwTUVRbmZaUEpEVmFKV1NmVGd4VkZJUUs3cUpjMVFpRFY3R3VQYXBQTzhCVlRDVE5aZm8yOGxmRDBjQVRPWlk3dVoyNkd3UE1JZEgzQVdsb2Q5dDh1bEd4VWF5TlVqbmZvYXd5MDBZQW5rY1pWRQ?oc=5"
       },
       {
-        "title": "'Fuel prices remain a wild card' with inflation tipped to top 4% - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Sun, 19 Jul 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNThlQjlxdlQzQUpCQUFFTXVOOFE5SF9vczNGeW5USE54T29rdWpoQXpvSHNJVWlrX2YyLUxqdXo5U0ZsbmhzMG9mdkFCWmtvZll1SzN4TDU2Nnl2ZThua2gxeVpvbTBBYkVXTkhDQnM1WkYtSlEwYVRBMm1uNl9QTXFSTkI1a1g0eTVQY2d0bm1DRm9ST0U0aWxvRVlZSXZjQV9WNmJCWHBKbkpSSkNqODN1NnlnYUtwMTdvRjY5eEc2Qk1TT2EtQmJqRVI?oc=5"
+        "title": "Inflation reaches 4.1% as higher fuel prices hit home - thepost.co.nz",
+        "source": "thepost.co.nz",
+        "published": "Mon, 20 Jul 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRVdrMU15RVlXd0xBUktMSjhnbkV5cTctZmwyRklRQzhTVXVuSlNxZmt5V2xDeUY4eGFiX1g1U2U2bnY3cmhQazgyNzVqMWdEWlNGSWZFWkhRVXZhRXh6cHpiOXZodWhwSGN2dnB0T1pSbDRreTgxQ0tzOXpac0tOekpnbGNpbG5TZTdDTlRqaURIUXc3Mk5uSQ?oc=5"
       }
     ],
     "global": [
       {
-        "title": "Core Differences Between West Texas Intermediate (WTI) and Brent Crude and the Affect of the Iran War - energynow.com",
-        "source": "energynow.com",
+        "title": "Core Differences Between West Texas Intermediate (WTI) and Brent Crude and the Affect of the Iran War - EnergyNow.com",
+        "source": "EnergyNow.com",
         "published": "Mon, 03 Aug 2026 17:32:49 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1ZOVFVuUnFFYUstVktuczhxdzBYN1lUbUlqbTIwZEVnX2lCclN2dDZyeVJxUnFPLXdLLWhHcTd1MUUyM0kxTFBUZWJZSVlfN2RCZkRlRXhqT3ZfdUJTQkFjSkR1dDFsQ2Rmc19VTERhc1hsV2Nka2RDVEFvZ0FUcFdJQ0dCR21lcm5mZU12UzJZZHlyOFh3WGEzVWpCVDlUeHc?oc=5"
       },
@@ -8628,8 +8636,8 @@
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeUxNOGlNZTUyNnBZWUZqWDlwT05SV1Zlb1QtdlktSEQ2UkxEc0xydEJlY1ZhVlY0T2VhazBKWGE4aUYyWUNKLTBORFRaemdHVS1tbnhGQXJXWndqSEFNcGduY1pjRE1BWXQycHZ6Rl85Tlh0ZHNuS01YMEU0cnpsZXFVczd0ZTB1N2ZkNUhzTEFTTmdMR01lNXVsMWFubHVnVGNheHYtYmpXak1zVXJEa0xINjhVQ2V2NkpXbtIBwgFBVV95cUxNcjlPcXk2eTdkYUhUMjR4NzdCclQ0Uk5ZRnAyMGU4U291QXVfWDdiNlJYU3lHM3F0b204TnJHZjEzRTJJZWgyc1VTcjBhTDZMYmxFWGhvdHFhMkpRZ0EtdWw5VGNMSjZzb1pMQS1yVmxMTmVZcHh0eFpROXJqM1B1NVh2bHVaZkNOb25JTWJHM29SaTU5N0pCOVRnSVItNmNRR0l0Nmt3dTQxb3V0aVNLUDRDMzFzM2kzUTlsWThkUnBjUQ?oc=5"
       },
       {
-        "title": "Africa’s top oil producer offers another cargo of its newest Cawthorne crude as Middle East supply risks grow - Business Insider Africa",
-        "source": "Business Insider Africa",
+        "title": "Africa’s top oil producer offers another cargo of its newest Cawthorne crude as Middle East supply risks grow - africa.businessinsider.com",
+        "source": "africa.businessinsider.com",
         "published": "Mon, 03 Aug 2026 17:20:51 GMT",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGlaNzFOOUZ4eHJob29NSHM2alNfbF93dmlPYVFfY0tJcFJBUEh1QjViSHpzblExSzhhV0NkcExIMmRsNTJrWWN2ZzFSY0o2S2tKTU5YdVY0aGtPVE5aaF9vNDhCZnVVZk81UjJkRkUxSERZTnV5NGRiaExLMnJpa1E3NDVFNGVqZjdkUDVFakFWR19LN1FNUVpYR2xCN2xoZjRSSXB3M2Vxd0d6TEJVcXdJU0NEdldwYXJYOHVMMklDNWt3dnhCVTFmRTc0X0pPMVEzMlRKMG81Zw?oc=5"
       },
@@ -8640,8 +8648,8 @@
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMzJ4aENOMkJFQWVmdUpQbWhzMTF5N3JrSVp4UnBFRm9GeVd6cDJfYk4zRnVIdHl2b3B6dlVSeU9kZUlFTk4tVXg1Y1NIS0lIMlV5MmZLZE1wQ1pnbFVxcnhHRWVvVlg2Z2JNODNWZVlya29xTGw2eFBqVldTN3pXY3ZqSV9pSzl5WTYyVjNKeXY0ZTQ5bDZrZ3Z6a0dHeXE2ZU4tLXQ5R2F4N1lBN2podHJNYTgtWHVocmdHanFVU0IzTnc?oc=5"
       },
       {
-        "title": "Brazil’s Oil Output Hits Record as War Drives Up Non-OPEC Supply - Bloomberg.com",
-        "source": "Bloomberg.com",
+        "title": "Brazil’s Oil Output Hits Record as War Drives Up Non-OPEC Supply - Bloomberg",
+        "source": "Bloomberg",
         "published": "Mon, 03 Aug 2026 16:36:33 GMT",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaW13Vk5rQnl1alNnNWV1OE8tRXRwNGVhVHVVSTNWMXdwNmNXWnJPdjM1elFhZHdFeHowRUhJbUxMQkZlUzUxQTFZNU9VLU9GbVV1dzBXTjZ0X1Y5clpOeFBNc1Nid1RJMnhtWVFyLVBLbFFDUWx3Y2ZHVmc0Z0RiaEhzVDlwa1E2WDlILXdiejAwbVVqeHU4YzdORS14ZlRwOTVTVm5NbGxXRGlyQ000SF9ONWszZw?oc=5"
       },
