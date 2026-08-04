@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T15:00:19+00:00",
+  "generated_at": "2026-08-04T16:59:43+00:00",
   "fx": {
     "nzd_per_usd": 1.697232,
     "as_of": "Mon, 03 Aug 2026 00:02:32 +0000"
@@ -8574,8 +8574,8 @@
   "news": {
     "nz": [
       {
-        "title": "Air NZ passenger numbers fall as jet fuel price rises hit - RNZ",
-        "source": "RNZ",
+        "title": "Air NZ passenger numbers fall as jet fuel price rises hit - rnz.co.nz",
+        "source": "rnz.co.nz",
         "published": "Tue, 04 Aug 2026 00:03:05 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWmZwcjZucW4yZ1N5eHhMNWhUSy04YU9fVENtSk5UbVZBUmdGQzNOeTNob3kzOXBabjQ2LWYxVGkxMnhvVTFZZ1ZYaEZqSXBhZjlBbkt1WlI4YmFfN3lKY0dFMS1sS1dMMl9ucUZrcUtmR3hoRzYwM0dYTWJOU2tKV0h5YWZDcmg1UnNOc0Z3WUtkYVluQnNhazhNSURjQ0dpd3c?oc=5"
       },
@@ -8584,6 +8584,12 @@
         "source": "Scoop - New Zealand News",
         "published": "Mon, 03 Aug 2026 04:02:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcGhhZlNJdGo4NDAwc0ViNHZnLWh3bjVFandwMHZqMHJ5WEFzYmVPaF9qaEswR0tXT2xXNk9lMlAzcVk5VDRnS1pVM0RsaGVVbi1pOENuNVVwQklNdGhvRkNhQjJyZTVrVjN4NjJOMU9ya3hqR2pvbkZtU2J1dlh1bS1MUXNsSEJld0lDaDdxVjd2YnVOS2ctWVhaUnU3VVc5ZTJuTWp5TGM2OWQyUlZiVlgtdURHdk9NVmI5dTdpcUJFS3FvQlNZR0JpM3U2RGlaWlBj?oc=5"
+      },
+      {
+        "title": "Oil price shock for New Zealand far from over - Westpac economist - rnz.co.nz",
+        "source": "rnz.co.nz",
+        "published": "Fri, 24 Jul 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMFFnUzVWcW1PTTJZbWZPdWp2eUlTcWJlMW1ZTFhUMDhrU3dVWXpaZUJaTkN0QXotQVBVN29EVUJwd3d3NEJ3eTgtU3NfUzJWZm00TXkwRV9MS2h2cHdudy1WSk5yTlB1TDdneG9NWW91ZzJaOGQ0ODhtelp2Z2I4SkZSTk9vakxFUFN4dzRpU2tBNjU4UFg1UUVmZkN3Wi1NSTFOZG1SNTQ4dw?oc=5"
       },
       {
         "title": "Air NZ not ruling out more cuts to services amid jet fuel spike - NZ Herald",
@@ -8604,8 +8610,8 @@
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdjhhSmpvVEZCWWY3Y3o5NzNKUzFOelNZVHBvb2Y4c0JxQlhBWXNzQWE4Nk1ma3MxTHoxLUoyaW5YeU1fZjRUS0l2ejVCbnFCTU1BRnB3eG9xLU9USzJ3Z2ZHNkg3akMyZlNMemtPaDY0NmxxMFU1alZZUzdRRzd4VGVOXzVqekZqNFR2STZHM05INDExSVpla2NqRXBST19HakVEYUV3eDljVkxRbkRwRjllbDJ1ekJHU05qWWx1TFhCN3NWSUVR?oc=5"
       },
       {
-        "title": "New Zealand’s Second-Quarter Inflation Jumps on Fuel-Price Surge - WSJ",
-        "source": "WSJ",
+        "title": "New Zealand’s Second-Quarter Inflation Jumps on Fuel-Price Surge - wsj.com",
+        "source": "wsj.com",
         "published": "Mon, 20 Jul 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZXg4Z1VYSGl5MnVrWVFNM2VOQ3oxZWwwTU9FLTcxYjRfQU8wZTRWT2ozR1Uxc2VWXzl3bzNsTmNveWJOV1N5b05LY2FOYXNDWFhtblpJbmEyclVRNzE5Z0lNYWtCc0lNRWFkdnV0Z25aMXNqTHYzRXhtd0F1eXE3bGNMdHJMeVRHNGVfYmExT3Y5Qk9CaV8zaHNmdzZaSllubGc?oc=5"
       },
@@ -8614,62 +8620,56 @@
         "source": "thepost.co.nz",
         "published": "Mon, 20 Jul 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzJzU1dZeU5ic1JZbFJfc2NRazEzbDM5OExrdkRZUG4zRF8tUTBqbWNxTWtRazdVRTAzYzJjUXM2YXBkZ1ZFZWc0eHZjTXZ6N2QxVG9BYXF1b3FsNG10R096a2t4UVc4N094eUlCR3hxcENwdTBpSkhQWnJpM1ZMR3RKRWprOU93blgyc2hEdE5TQ3psUHNqc2NhU2NQT1U?oc=5"
-      },
-      {
-        "title": "Trump ‘certainly made things harder’: Willis reacts as inflation surges to 4.1% - Stuff",
-        "source": "Stuff",
-        "published": "Mon, 20 Jul 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQU1WSGJkd09yV0U0SXFtR0RIYjNFWjFqS2NaV05EZkNwV05xVktWdUhTQXVlR1lUeTVVSnV5Mmo1MlFpdjVndUF6Q05yY3NlekhGQmtjTFFXU1ZYYjlLcnl1elRKQ2tkYjRiZHNEamwyelcwbGh5UkNjN29OendIdVFsTXl0SzdQOFZKa0tuLW1qMFV3cnNoNVNlV0o?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Syria to Sharply Cut Russian Oil Imports as US Weighs Lifting Terrorism Label - Kyiv Post",
+        "source": "Kyiv Post",
+        "published": "Tue, 04 Aug 2026 16:20:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1OeGE3bU5vV3p1ekk5NU1GOU5JdzJtLUZIa2ROdzRhbkE2VzlnWVFhOENJdFo1dm1paU5PWFRfTXU4R2pTeVdPOVZBcw?oc=5"
+      },
+      {
+        "title": "WTI Oil slides as Iran Strait of Hormuz deal hopes hit prices - FXStreet",
+        "source": "FXStreet",
+        "published": "Tue, 04 Aug 2026 16:13:42 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVUx5czlkUHpKZFI3aWYwVktNLWJDWTdjWDdmTEk4SnE5RjVNcWtGanpzVUstZEdrdlFfdnBnOFd3amJ0dDRtbHlBSzBoWmIxeWhsUUp1QVFGRFUybGl3ZHkyQzlROFA4eXJsZllacFU1OFBvMThmc3JkejBkd3NGY2NIMjdMY0RWRV82QkJXUS1DREctNS0ySk03YVFjdFctWWhLMEszMDdOTVFX?oc=5"
+      },
+      {
+        "title": "Oil prices plunge around 6% as US-Iran diplomacy eases supply fears - Anadolu Ajansı",
+        "source": "Anadolu Ajansı",
+        "published": "Tue, 04 Aug 2026 16:07:19 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdTZqU01ibjIwMF94VTFob1FzdDBoOTdiT3hkUFJIMDgwVHV6Q2oxUnlnSlhfLUdnMFUwZnhzM0lyb0NIdnhWVDVxVjFqYW1iczRNS2k3eWFNMTFfOXc1NGpWWUliYTZuQmRwaU8zWlk2dEE5VnB6WGh5VGtuZWJfMXhfYl85c2JaOHg2Vi1QNFJ3QnpiSjZhcms3ZEY5d3htQ2FyVjZMTFNDZEE?oc=5"
+      },
+      {
+        "title": "Oil prices drop after claims of progress in US-Iran talks - Reuters",
+        "source": "Reuters",
+        "published": "Tue, 04 Aug 2026 15:49:11 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU0VaWUlWWUxJMXVaM1NiVS0yeWUtYWhpTlo4MTh0ZzZkZms3aFVLNVRfR1JISmxrY2d2VmM1UWFKTVFtSlEzYmt0N3ZuRUFLWXd5bzh5QkVXOVRxUVh3VHRnOWkzanJWb2tqUU13cURMRFR3TFphYkFzRVRsbnY5aEpDdTJLLVNLOXpwYzRNckVGQW9TcThhNHdKVlVTZ2Q4SkRraWR5TjlvbmN4VE1rLWViVFNTRUZU?oc=5"
+      },
+      {
+        "title": "Syria ready to sharply cut Russian oil imports, Reuters reports - RBC-Ukraine",
+        "source": "RBC-Ukraine",
+        "published": "Tue, 04 Aug 2026 15:45:52 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdm9IYmp4WkNteVNCb052QWN5Um5Qb2s3SW8wTkJhYkh2LThvdkMzU29WbWtHRkNhNVdMQlJTVEJhWk1wc3R0eVdDdWpid0g1T1RMYXYxWFJlazhLU1J2c2NSc3dpeThIdUZSbXI4SW83QVV1MGlMN3I3U0RqRGp2d09sQ0dpYTVsRXlBdDVGa0kwTXdKVUVDZzJ3?oc=5"
+      },
+      {
+        "title": "Oil prices fall on hopes Strait of Hormuz could reopen - BBC",
+        "source": "BBC",
+        "published": "Tue, 04 Aug 2026 14:58:16 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aeEhmWUNMV25kc1lEaUQ5clRfRkY5QzJXcDNVVmV0ZG14NHJUV1BWanpQekNWX3VETUlKWHJySnVMTGNIMnZOYzRNVDhMR2RlTzNJSnVCbzdxUQ?oc=5"
+      },
+      {
+        "title": "Aramco says US-Iran war has cost the global market 2.6 billion barrels of oil - Reuters",
+        "source": "Reuters",
+        "published": "Tue, 04 Aug 2026 13:32:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXFsci0ySk53THJaUktvbFlJd0ZjTzhFNmJSU0gtY1B5RElscWFhWHJLWTcxdlJ1SDhhV1dJcmQteVdaT0NLekZaMU05V2tockhvaGFtYlgzbk5OdWpDVEM4TmFoX2FpZFMyQWdxTzJ2SkdzYVExYVdRWHBKVlNPcTBzX1hub05WWk45TE1HVDM?oc=5"
+      },
       {
         "title": "Syria Agrees to Drop Russian Crude to End Decades of US Sanctions - UNITED24 Media",
         "source": "UNITED24 Media",
         "published": "Tue, 04 Aug 2026 13:00:47 GMT",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeE5HbDBvYk9sLWstUmxtMWJuTWtoRUpzaVEwZ3U1cHhfUktCSEFNeXBpbXBoNFhmMDhCNUI3amgtVDI1Y1dRYkowbWxKcW9oOGYyR0xfSnBUZjJPM0txZ1ZMQVRuQkE0V2ZDTTZvWkh6cFdkZ28xZkN2ZFNFSGZtakNSc181Vy1xTldPVXJFOGp1OXVZekdWQXNFRm51aWJPMXVNblR3?oc=5"
-      },
-      {
-        "title": "US sanctions Russia-backed Iranian oil smuggling, money laundering network - Yeni Safak English",
-        "source": "Yeni Safak English",
-        "published": "Tue, 04 Aug 2026 12:51:31 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb2ZVMU1OT09SVTE4NnBEdXQzWWF0VUFoOEhhc2lnS1JkX1pfNF9NX1pNVUFUX0ZQdWRReWZRNUxRb3V5M2hPcDM5bTNEZi03Y0FBYnRTVnZHVjlSY3g0NUhyOGU1bFlEaVZmcTFrdlVhRUVuekYxVXRubmd6M3p6T3pxeEZpa0FIWTZGMVRUZlBwSndaWDM1Z3RDMjNiX1J5NTBlQ1NycGJGZHRyZWFaeGhn?oc=5"
-      },
-      {
-        "title": "WTI Crude Oil Market Volatility August 2026: Investment Strategies & Analysis - Intellectia AI",
-        "source": "Intellectia AI",
-        "published": "Tue, 04 Aug 2026 12:11:15 GMT",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByakhhNFZIeUZFWnJyUi16X1R3MDJPa3pYSzAxXzlJaVdfMVVtaGhUbm9GeE1VNkdiZ2owZjJKWHk4OERCSU52TXBPTXp4VXNjRUY3dF85SnNBV0d1ZnFRaW84cmRiS1BnR0RsQUg3N0lPOXRiMEdKaUhPZw?oc=5"
-      },
-      {
-        "title": "WTI Crude Futures Drop 3% Intraday to $77.65 a Barrel - bloomingbit",
-        "source": "bloomingbit",
-        "published": "Tue, 04 Aug 2026 12:00:16 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQVjhGekJQblJqdVNfdHhQNExHaW5oV00yTm82Q1BTam9aaVRJNG5paG42cnVnZmZGdW1CX2p2RGdvR2VYRTZMT3VVNl9aNVdWWHo3Qg?oc=5"
-      },
-      {
-        "title": "India Expands Oil Storage Sites After Shock Supply Disruption - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Tue, 04 Aug 2026 11:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLTJRajZhWU1jdGRIMDNNRDVhcjB3N19RaER6alhQVHFGc1VDLUwtX3Yxb0pqRnp2TENpbDgydWhSU3VrczZnSEhGVG9GcFVzYURGNXJZbVVaSVBiaGxkNjB4VjVzRFUxVXJ6TkRzSmo3VmFoNW1QczdMTVBfRTBMc3JDd05Fa01NcWl6UGNJSmNxTnVoNEkyVDVzWnJTWEowU2Rob3JuZ0V4TEFjRFpvQTFycm5fUmhJ0gG-AUFVX3lxTE5GcVhIQmpDUGIxUDB4Um8zNGpkSVg5UUFUZHlMS3V5RFdNWnNsR3VhZ05TRmJ6N2hUMWNrR3lZaDlscE9hY3VFVEpRakMxdjd0VDdsREZGYi01eG9FV3J2V2g1VW9iMWxuU29iamt2TjJuMkNKcG01QXBrQ2VhZE8tMGxTb3R2QmlEVWgtQUFLdklVRHFkNmxuemFQQk1JYkZEaHQ5ZVFKRVFUTU00V0lWVy1ZUU1CNldMZ2paOVE?oc=5"
-      },
-      {
-        "title": "Georgia's Kulevi Refinery Switches From Russian to Kazakh, Libyan Oil - Kyiv Post",
-        "source": "Kyiv Post",
-        "published": "Tue, 04 Aug 2026 11:13:28 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85OXB6YS1YeXplMzZiNFc3NXBpQ2EwQllDa1ozX0wtTXhnMGNXOTVoUlNHU1hPaURPZ0phTWZORU5jYjdlSUtjX2xkbw?oc=5"
-      },
-      {
-        "title": "EXCLUSIVE: Syria tells US it is willing to drastically drop Russian oil imports, sources say - Reuters",
-        "source": "Reuters",
-        "published": "Tue, 04 Aug 2026 10:50:06 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUllLTEZpVXpPaEQxbG5tWlVyYnlUN3MwUURrck9nWnNXeTVqSG9uQWczMi1FY3dJM1RtSFBBT3RUOFpzaEZKVjZ3LVpfZ01aODFDaFlvTFhLdXJhMzVvQ25qamJ6MDlYVHRuUmZPcW5HamJIbENjeExMUWlsY3UyaWcySjZ6WHJqWE5EZGtIT0N0YXlUZGtHX1FQR2NEemFyUUx1S1hDOGtqYXpvc2l1cFZCMWF3ejAwcnY3Mk5OSWk3Y04wb21FMg?oc=5"
-      },
-      {
-        "title": "Iran War Upends IEA’s Oil Market Outlook as Global Supply and Demand to Contract in 2026 - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Tue, 04 Aug 2026 10:13:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPak5XcGxWUXBlNVhTbFd3RkFvM2dzMUdvcm84a3Nzc2hxLVJYMU1zOHBsYlY0eV90Z2NlY0xDajNSdUxweFJ6WVprRjNzOHVrT0cwbXM0LUZvRHRmdF9VMEN0NUZpZ1VjYjFNeEdiSHZ1SHpyZ2otTVhyLXVsb09yVm1NUUhQM2dMMUNkQjFCalh1a2Y3bjlqX1ZNOHFVRDM5Ylh2clBwd0JmTUFtcmZUeUUyRnhsRXNjeUE?oc=5"
       }
     ]
   }
