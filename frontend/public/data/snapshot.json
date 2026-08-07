@@ -1,32 +1,1032 @@
 {
-  "generated_at": "2026-08-07T18:08:24+00:00",
+  "generated_at": "2026-08-07T18:55:48+00:00",
   "fx": {
-    "nzd_per_usd": 1.699894,
-    "as_of": "Thu, 06 Aug 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.703428,
+    "as_of": "Fri, 07 Aug 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 83.4,
-      "latest_date": "2026-08-06",
-      "delta_1d_pct": 0.0,
-      "delta_30d_pct": 0.0,
+      "latest": 83.5,
+      "latest_date": "2026-08-07",
+      "delta_1d_pct": 1.22,
+      "delta_30d_pct": 10.95,
       "series": [
         {
+          "date": "2025-08-07",
+          "usd": 66.43
+        },
+        {
+          "date": "2025-08-08",
+          "usd": 66.59
+        },
+        {
+          "date": "2025-08-11",
+          "usd": 66.63
+        },
+        {
+          "date": "2025-08-12",
+          "usd": 66.12
+        },
+        {
+          "date": "2025-08-13",
+          "usd": 65.63
+        },
+        {
+          "date": "2025-08-14",
+          "usd": 66.84
+        },
+        {
+          "date": "2025-08-15",
+          "usd": 65.85
+        },
+        {
+          "date": "2025-08-18",
+          "usd": 66.6
+        },
+        {
+          "date": "2025-08-19",
+          "usd": 65.79
+        },
+        {
+          "date": "2025-08-20",
+          "usd": 66.84
+        },
+        {
+          "date": "2025-08-21",
+          "usd": 67.67
+        },
+        {
+          "date": "2025-08-22",
+          "usd": 67.73
+        },
+        {
+          "date": "2025-08-25",
+          "usd": 68.8
+        },
+        {
+          "date": "2025-08-26",
+          "usd": 67.22
+        },
+        {
+          "date": "2025-08-27",
+          "usd": 68.05
+        },
+        {
+          "date": "2025-08-28",
+          "usd": 68.62
+        },
+        {
+          "date": "2025-08-29",
+          "usd": 68.12
+        },
+        {
+          "date": "2025-09-02",
+          "usd": 69.14
+        },
+        {
+          "date": "2025-09-03",
+          "usd": 67.6
+        },
+        {
+          "date": "2025-09-04",
+          "usd": 66.99
+        },
+        {
+          "date": "2025-09-05",
+          "usd": 65.5
+        },
+        {
+          "date": "2025-09-08",
+          "usd": 66.02
+        },
+        {
+          "date": "2025-09-09",
+          "usd": 66.39
+        },
+        {
+          "date": "2025-09-10",
+          "usd": 67.49
+        },
+        {
+          "date": "2025-09-11",
+          "usd": 66.37
+        },
+        {
+          "date": "2025-09-12",
+          "usd": 66.99
+        },
+        {
+          "date": "2025-09-15",
+          "usd": 67.44
+        },
+        {
+          "date": "2025-09-16",
+          "usd": 68.47
+        },
+        {
+          "date": "2025-09-17",
+          "usd": 67.95
+        },
+        {
+          "date": "2025-09-18",
+          "usd": 67.44
+        },
+        {
+          "date": "2025-09-19",
+          "usd": 66.68
+        },
+        {
+          "date": "2025-09-22",
+          "usd": 66.57
+        },
+        {
+          "date": "2025-09-23",
+          "usd": 67.63
+        },
+        {
+          "date": "2025-09-24",
+          "usd": 69.31
+        },
+        {
+          "date": "2025-09-25",
+          "usd": 69.42
+        },
+        {
+          "date": "2025-09-26",
+          "usd": 70.13
+        },
+        {
+          "date": "2025-09-29",
+          "usd": 67.97
+        },
+        {
+          "date": "2025-09-30",
+          "usd": 67.02
+        },
+        {
+          "date": "2025-10-01",
+          "usd": 65.35
+        },
+        {
+          "date": "2025-10-02",
+          "usd": 64.11
+        },
+        {
+          "date": "2025-10-03",
+          "usd": 64.53
+        },
+        {
+          "date": "2025-10-06",
+          "usd": 65.47
+        },
+        {
+          "date": "2025-10-07",
+          "usd": 65.45
+        },
+        {
+          "date": "2025-10-08",
+          "usd": 66.25
+        },
+        {
+          "date": "2025-10-09",
+          "usd": 65.22
+        },
+        {
+          "date": "2025-10-10",
+          "usd": 62.73
+        },
+        {
+          "date": "2025-10-13",
+          "usd": 63.32
+        },
+        {
+          "date": "2025-10-14",
+          "usd": 62.39
+        },
+        {
+          "date": "2025-10-15",
+          "usd": 61.91
+        },
+        {
+          "date": "2025-10-16",
+          "usd": 61.06
+        },
+        {
+          "date": "2025-10-17",
+          "usd": 61.29
+        },
+        {
+          "date": "2025-10-20",
+          "usd": 61.01
+        },
+        {
+          "date": "2025-10-21",
+          "usd": 61.32
+        },
+        {
+          "date": "2025-10-22",
+          "usd": 62.59
+        },
+        {
+          "date": "2025-10-23",
+          "usd": 65.99
+        },
+        {
+          "date": "2025-10-24",
+          "usd": 65.94
+        },
+        {
+          "date": "2025-10-27",
+          "usd": 65.62
+        },
+        {
+          "date": "2025-10-28",
+          "usd": 64.4
+        },
+        {
+          "date": "2025-10-29",
+          "usd": 64.92
+        },
+        {
+          "date": "2025-10-30",
+          "usd": 65.0
+        },
+        {
+          "date": "2025-10-31",
+          "usd": 65.07
+        },
+        {
+          "date": "2025-11-03",
+          "usd": 64.89
+        },
+        {
+          "date": "2025-11-04",
+          "usd": 64.44
+        },
+        {
+          "date": "2025-11-05",
+          "usd": 63.52
+        },
+        {
+          "date": "2025-11-06",
+          "usd": 63.38
+        },
+        {
+          "date": "2025-11-07",
+          "usd": 63.63
+        },
+        {
+          "date": "2025-11-10",
+          "usd": 64.06
+        },
+        {
+          "date": "2025-11-11",
+          "usd": 65.16
+        },
+        {
+          "date": "2025-11-12",
+          "usd": 62.71
+        },
+        {
+          "date": "2025-11-13",
+          "usd": 63.01
+        },
+        {
+          "date": "2025-11-14",
+          "usd": 64.39
+        },
+        {
+          "date": "2025-11-17",
+          "usd": 64.2
+        },
+        {
+          "date": "2025-11-18",
+          "usd": 64.89
+        },
+        {
+          "date": "2025-11-19",
+          "usd": 63.51
+        },
+        {
+          "date": "2025-11-20",
+          "usd": 63.38
+        },
+        {
+          "date": "2025-11-21",
+          "usd": 62.56
+        },
+        {
+          "date": "2025-11-24",
+          "usd": 63.37
+        },
+        {
+          "date": "2025-11-25",
+          "usd": 62.48
+        },
+        {
+          "date": "2025-11-26",
+          "usd": 63.13
+        },
+        {
+          "date": "2025-11-28",
+          "usd": 63.2
+        },
+        {
+          "date": "2025-12-01",
+          "usd": 63.17
+        },
+        {
+          "date": "2025-12-02",
+          "usd": 62.45
+        },
+        {
+          "date": "2025-12-03",
+          "usd": 62.67
+        },
+        {
+          "date": "2025-12-04",
+          "usd": 63.26
+        },
+        {
+          "date": "2025-12-05",
+          "usd": 63.75
+        },
+        {
+          "date": "2025-12-08",
+          "usd": 62.49
+        },
+        {
+          "date": "2025-12-09",
+          "usd": 61.94
+        },
+        {
+          "date": "2025-12-10",
+          "usd": 62.21
+        },
+        {
+          "date": "2025-12-11",
+          "usd": 61.28
+        },
+        {
+          "date": "2025-12-12",
+          "usd": 61.12
+        },
+        {
+          "date": "2025-12-15",
+          "usd": 60.56
+        },
+        {
+          "date": "2025-12-16",
+          "usd": 58.92
+        },
+        {
+          "date": "2025-12-17",
+          "usd": 59.68
+        },
+        {
+          "date": "2025-12-18",
+          "usd": 59.82
+        },
+        {
+          "date": "2025-12-19",
+          "usd": 60.47
+        },
+        {
+          "date": "2025-12-22",
+          "usd": 62.07
+        },
+        {
+          "date": "2025-12-23",
+          "usd": 62.38
+        },
+        {
+          "date": "2025-12-24",
+          "usd": 62.24
+        },
+        {
+          "date": "2025-12-26",
+          "usd": 60.64
+        },
+        {
+          "date": "2025-12-29",
+          "usd": 61.94
+        },
+        {
+          "date": "2025-12-30",
+          "usd": 61.92
+        },
+        {
+          "date": "2025-12-31",
+          "usd": 60.85
+        },
+        {
+          "date": "2026-01-02",
+          "usd": 60.75
+        },
+        {
+          "date": "2026-01-05",
+          "usd": 61.76
+        },
+        {
+          "date": "2026-01-06",
+          "usd": 60.7
+        },
+        {
+          "date": "2026-01-07",
+          "usd": 59.96
+        },
+        {
+          "date": "2026-01-08",
+          "usd": 61.99
+        },
+        {
+          "date": "2026-01-09",
+          "usd": 63.34
+        },
+        {
+          "date": "2026-01-12",
+          "usd": 63.87
+        },
+        {
+          "date": "2026-01-13",
+          "usd": 65.47
+        },
+        {
+          "date": "2026-01-14",
+          "usd": 66.52
+        },
+        {
+          "date": "2026-01-15",
+          "usd": 63.76
+        },
+        {
+          "date": "2026-01-16",
+          "usd": 64.13
+        },
+        {
+          "date": "2026-01-20",
+          "usd": 64.92
+        },
+        {
+          "date": "2026-01-21",
+          "usd": 65.24
+        },
+        {
+          "date": "2026-01-22",
+          "usd": 64.06
+        },
+        {
+          "date": "2026-01-23",
+          "usd": 65.88
+        },
+        {
+          "date": "2026-01-26",
+          "usd": 65.59
+        },
+        {
+          "date": "2026-01-27",
+          "usd": 67.57
+        },
+        {
+          "date": "2026-01-28",
+          "usd": 68.4
+        },
+        {
+          "date": "2026-01-29",
+          "usd": 70.71
+        },
+        {
+          "date": "2026-01-30",
+          "usd": 70.69
+        },
+        {
+          "date": "2026-02-02",
+          "usd": 66.3
+        },
+        {
+          "date": "2026-02-03",
+          "usd": 67.33
+        },
+        {
+          "date": "2026-02-04",
+          "usd": 69.46
+        },
+        {
+          "date": "2026-02-05",
+          "usd": 67.55
+        },
+        {
+          "date": "2026-02-06",
+          "usd": 68.05
+        },
+        {
+          "date": "2026-02-09",
+          "usd": 69.04
+        },
+        {
+          "date": "2026-02-10",
+          "usd": 68.8
+        },
+        {
+          "date": "2026-02-11",
+          "usd": 69.4
+        },
+        {
+          "date": "2026-02-12",
+          "usd": 67.52
+        },
+        {
+          "date": "2026-02-13",
+          "usd": 67.75
+        },
+        {
+          "date": "2026-02-17",
+          "usd": 67.42
+        },
+        {
+          "date": "2026-02-18",
+          "usd": 70.35
+        },
+        {
+          "date": "2026-02-19",
+          "usd": 71.66
+        },
+        {
+          "date": "2026-02-20",
+          "usd": 71.76
+        },
+        {
+          "date": "2026-02-23",
+          "usd": 71.49
+        },
+        {
+          "date": "2026-02-24",
+          "usd": 70.77
+        },
+        {
+          "date": "2026-02-25",
+          "usd": 70.85
+        },
+        {
+          "date": "2026-02-26",
+          "usd": 70.75
+        },
+        {
+          "date": "2026-02-27",
+          "usd": 72.48
+        },
+        {
+          "date": "2026-03-02",
+          "usd": 77.74
+        },
+        {
+          "date": "2026-03-03",
+          "usd": 81.4
+        },
+        {
+          "date": "2026-03-04",
+          "usd": 81.4
+        },
+        {
+          "date": "2026-03-05",
+          "usd": 85.41
+        },
+        {
+          "date": "2026-03-06",
+          "usd": 92.69
+        },
+        {
+          "date": "2026-03-09",
+          "usd": 98.96
+        },
+        {
+          "date": "2026-03-10",
+          "usd": 87.8
+        },
+        {
+          "date": "2026-03-11",
+          "usd": 91.98
+        },
+        {
+          "date": "2026-03-12",
+          "usd": 100.46
+        },
+        {
+          "date": "2026-03-13",
+          "usd": 103.14
+        },
+        {
+          "date": "2026-03-16",
+          "usd": 100.21
+        },
+        {
+          "date": "2026-03-17",
+          "usd": 103.42
+        },
+        {
+          "date": "2026-03-18",
+          "usd": 107.38
+        },
+        {
+          "date": "2026-03-19",
+          "usd": 108.65
+        },
+        {
+          "date": "2026-03-20",
+          "usd": 112.19
+        },
+        {
+          "date": "2026-03-23",
+          "usd": 99.94
+        },
+        {
+          "date": "2026-03-24",
+          "usd": 104.49
+        },
+        {
+          "date": "2026-03-25",
+          "usd": 102.22
+        },
+        {
+          "date": "2026-03-26",
+          "usd": 108.01
+        },
+        {
+          "date": "2026-03-27",
+          "usd": 112.57
+        },
+        {
+          "date": "2026-03-30",
+          "usd": 112.78
+        },
+        {
+          "date": "2026-03-31",
+          "usd": 118.35
+        },
+        {
+          "date": "2026-04-01",
+          "usd": 101.16
+        },
+        {
+          "date": "2026-04-02",
+          "usd": 109.03
+        },
+        {
+          "date": "2026-04-06",
+          "usd": 109.77
+        },
+        {
+          "date": "2026-04-07",
+          "usd": 109.27
+        },
+        {
+          "date": "2026-04-08",
+          "usd": 94.75
+        },
+        {
+          "date": "2026-04-09",
+          "usd": 95.92
+        },
+        {
+          "date": "2026-04-10",
+          "usd": 95.2
+        },
+        {
+          "date": "2026-04-13",
+          "usd": 99.36
+        },
+        {
+          "date": "2026-04-14",
+          "usd": 94.79
+        },
+        {
+          "date": "2026-04-15",
+          "usd": 94.93
+        },
+        {
+          "date": "2026-04-16",
+          "usd": 99.39
+        },
+        {
+          "date": "2026-04-17",
+          "usd": 90.38
+        },
+        {
+          "date": "2026-04-20",
+          "usd": 95.48
+        },
+        {
+          "date": "2026-04-21",
+          "usd": 98.48
+        },
+        {
+          "date": "2026-04-22",
+          "usd": 101.91
+        },
+        {
+          "date": "2026-04-23",
+          "usd": 105.07
+        },
+        {
+          "date": "2026-04-24",
+          "usd": 105.33
+        },
+        {
+          "date": "2026-04-27",
+          "usd": 108.23
+        },
+        {
+          "date": "2026-04-28",
+          "usd": 111.26
+        },
+        {
+          "date": "2026-04-29",
+          "usd": 118.03
+        },
+        {
+          "date": "2026-04-30",
+          "usd": 114.01
+        },
+        {
+          "date": "2026-05-01",
+          "usd": 108.17
+        },
+        {
+          "date": "2026-05-04",
+          "usd": 114.44
+        },
+        {
+          "date": "2026-05-05",
+          "usd": 109.87
+        },
+        {
+          "date": "2026-05-06",
+          "usd": 101.27
+        },
+        {
+          "date": "2026-05-07",
+          "usd": 100.06
+        },
+        {
+          "date": "2026-05-08",
+          "usd": 101.29
+        },
+        {
+          "date": "2026-05-11",
+          "usd": 104.21
+        },
+        {
+          "date": "2026-05-12",
+          "usd": 107.77
+        },
+        {
+          "date": "2026-05-13",
+          "usd": 105.63
+        },
+        {
+          "date": "2026-05-14",
+          "usd": 105.72
+        },
+        {
+          "date": "2026-05-15",
+          "usd": 109.26
+        },
+        {
+          "date": "2026-05-18",
+          "usd": 112.1
+        },
+        {
+          "date": "2026-05-19",
+          "usd": 111.28
+        },
+        {
+          "date": "2026-05-20",
+          "usd": 105.02
+        },
+        {
+          "date": "2026-05-21",
+          "usd": 102.58
+        },
+        {
+          "date": "2026-05-22",
+          "usd": 103.54
+        },
+        {
+          "date": "2026-05-26",
+          "usd": 99.58
+        },
+        {
+          "date": "2026-05-27",
+          "usd": 94.29
+        },
+        {
+          "date": "2026-05-28",
+          "usd": 93.71
+        },
+        {
+          "date": "2026-05-29",
+          "usd": 92.05
+        },
+        {
+          "date": "2026-06-01",
+          "usd": 94.98
+        },
+        {
+          "date": "2026-06-02",
+          "usd": 96.0
+        },
+        {
+          "date": "2026-06-03",
+          "usd": 97.81
+        },
+        {
+          "date": "2026-06-04",
+          "usd": 95.03
+        },
+        {
+          "date": "2026-06-05",
+          "usd": 93.09
+        },
+        {
+          "date": "2026-06-08",
+          "usd": 94.25
+        },
+        {
+          "date": "2026-06-09",
+          "usd": 91.45
+        },
+        {
+          "date": "2026-06-10",
+          "usd": 93.1
+        },
+        {
+          "date": "2026-06-11",
+          "usd": 90.38
+        },
+        {
+          "date": "2026-06-12",
+          "usd": 87.33
+        },
+        {
+          "date": "2026-06-15",
+          "usd": 83.17
+        },
+        {
+          "date": "2026-06-16",
+          "usd": 78.96
+        },
+        {
+          "date": "2026-06-17",
+          "usd": 79.55
+        },
+        {
+          "date": "2026-06-18",
+          "usd": 79.85
+        },
+        {
+          "date": "2026-06-22",
+          "usd": 77.9
+        },
+        {
+          "date": "2026-06-23",
+          "usd": 77.08
+        },
+        {
+          "date": "2026-06-24",
+          "usd": 73.74
+        },
+        {
+          "date": "2026-06-25",
+          "usd": 75.26
+        },
+        {
+          "date": "2026-06-26",
+          "usd": 71.99
+        },
+        {
+          "date": "2026-06-29",
+          "usd": 73.15
+        },
+        {
+          "date": "2026-06-30",
+          "usd": 72.92
+        },
+        {
+          "date": "2026-07-01",
+          "usd": 71.57
+        },
+        {
+          "date": "2026-07-02",
+          "usd": 71.8
+        },
+        {
+          "date": "2026-07-06",
+          "usd": 71.99
+        },
+        {
+          "date": "2026-07-07",
+          "usd": 74.16
+        },
+        {
+          "date": "2026-07-08",
+          "usd": 78.02
+        },
+        {
+          "date": "2026-07-09",
+          "usd": 76.3
+        },
+        {
+          "date": "2026-07-10",
+          "usd": 76.01
+        },
+        {
+          "date": "2026-07-13",
+          "usd": 83.3
+        },
+        {
+          "date": "2026-07-14",
+          "usd": 84.73
+        },
+        {
+          "date": "2026-07-15",
+          "usd": 84.95
+        },
+        {
+          "date": "2026-07-16",
+          "usd": 84.23
+        },
+        {
+          "date": "2026-07-17",
+          "usd": 88.1
+        },
+        {
+          "date": "2026-07-20",
+          "usd": 89.22
+        },
+        {
+          "date": "2026-07-21",
+          "usd": 91.01
+        },
+        {
+          "date": "2026-07-22",
+          "usd": 94.07
+        },
+        {
+          "date": "2026-07-23",
+          "usd": 100.69
+        },
+        {
+          "date": "2026-07-24",
+          "usd": 96.78
+        },
+        {
+          "date": "2026-07-27",
+          "usd": 88.36
+        },
+        {
+          "date": "2026-07-28",
+          "usd": 84.09
+        },
+        {
+          "date": "2026-07-29",
+          "usd": 90.74
+        },
+        {
+          "date": "2026-07-30",
+          "usd": 89.03
+        },
+        {
+          "date": "2026-07-31",
+          "usd": 90.12
+        },
+        {
+          "date": "2026-08-03",
+          "usd": 83.77
+        },
+        {
+          "date": "2026-08-04",
+          "usd": 79.36
+        },
+        {
+          "date": "2026-08-05",
+          "usd": 79.45
+        },
+        {
           "date": "2026-08-06",
-          "usd": 83.4
+          "usd": 82.49
+        },
+        {
+          "date": "2026-08-07",
+          "usd": 83.5
         }
       ]
     },
     "wti": {
-      "latest": 78.08,
-      "latest_date": "2026-08-06",
-      "delta_1d_pct": 3.8,
-      "delta_30d_pct": 11.0,
+      "latest": 78.2,
+      "latest_date": "2026-08-07",
+      "delta_1d_pct": 1.18,
+      "delta_30d_pct": 8.73,
       "series": [
-        {
-          "date": "2025-08-06",
-          "usd": 64.35
-        },
         {
           "date": "2025-08-07",
           "usd": 63.88
@@ -1029,36 +2029,40 @@
         },
         {
           "date": "2026-08-06",
-          "usd": 78.08
+          "usd": 77.29
+        },
+        {
+          "date": "2026-08-07",
+          "usd": 78.2
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-08-06",
+    "as_of": "2026-08-07",
     "regular_91": {
-      "avg": 3.034,
-      "min": 2.746,
+      "avg": 3.052,
+      "min": 2.75,
       "max": 3.819,
-      "count": 88
+      "count": 98
     },
     "premium_95": {
-      "avg": 3.194,
-      "min": 2.796,
+      "avg": 3.241,
+      "min": 2.937,
       "max": 3.469,
-      "count": 42
+      "count": 61
     },
     "premium_98": {
-      "avg": 3.341,
-      "min": 3.046,
+      "avg": 3.335,
+      "min": 3.186,
       "max": 3.599,
-      "count": 12
+      "count": 16
     },
     "diesel": {
-      "avg": 2.691,
-      "min": 2.366,
-      "max": 2.979,
-      "count": 88
+      "avg": 2.713,
+      "min": 2.476,
+      "max": 2.959,
+      "count": 96
     },
     "lpg": {
       "avg": 0.0,
@@ -1066,8 +2070,8 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 194,
-    "observations_yesterday": 29,
+    "observations_today": 0,
+    "observations_yesterday": 264,
     "observations_older": 7
   },
   "mbie_waterfall": {
@@ -7590,8 +8594,8 @@
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWmZwcjZucW4yZ1N5eHhMNWhUSy04YU9fVENtSk5UbVZBUmdGQzNOeTNob3kzOXBabjQ2LWYxVGkxMnhvVTFZZ1ZYaEZqSXBhZjlBbkt1WlI4YmFfN3lKY0dFMS1sS1dMMl9ucUZrcUtmR3hoRzYwM0dYTWJOU2tKV0h5YWZDcmg1UnNOc0Z3WUtkYVluQnNhazhNSURjQ0dpd3c?oc=5"
       },
       {
-        "title": "Fuel Prices Ease Across Several Pacific Island Nations Despite Ongoing Supply Pressures - scoop.co.nz",
-        "source": "scoop.co.nz",
+        "title": "Fuel Prices Ease Across Several Pacific Island Nations Despite Ongoing Supply Pressures - Scoop - New Zealand News",
+        "source": "Scoop - New Zealand News",
         "published": "Mon, 03 Aug 2026 04:02:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcGhhZlNJdGo4NDAwc0ViNHZnLWh3bjVFandwMHZqMHJ5WEFzYmVPaF9qaEswR0tXT2xXNk9lMlAzcVk5VDRnS1pVM0RsaGVVbi1pOENuNVVwQklNdGhvRkNhQjJyZTVrVjN4NjJOMU9ya3hqR2pvbkZtU2J1dlh1bS1MUXNsSEJld0lDaDdxVjd2YnVOS2ctWVhaUnU3VVc5ZTJuTWp5TGM2OWQyUlZiVlgtdURHdk9NVmI5dTdpcUJFS3FvQlNZR0JpM3U2RGlaWlBj?oc=5"
       },
@@ -7628,6 +8632,42 @@
     ],
     "global": [
       {
+        "title": "U.S. Imposes New Sanctions targeting Iranian Financial and Oil Networks - WANA News Agency",
+        "source": "WANA News Agency",
+        "published": "Fri, 07 Aug 2026 18:53:46 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORGFXQnY1NUdZb2hVTV9lNDYyLWE3dm9vT3ZIY3RidlFSN2xVY2N4WURkemJWTktwSnpweExtaFBEZ0o4UmRjY1V1XzA2VTlldXVjVzNjTjQ5bDFyS01lLXFxWG5EZ25pT0kzU0MyV3kweWFDTU80a0xPM3Q3TklzTk9PcGwzWXdZY3JWcTlQWmZKUnlr?oc=5"
+      },
+      {
+        "title": "US Senate passes Russia sanctions championed by Graham; US House next - Reuters",
+        "source": "Reuters",
+        "published": "Fri, 07 Aug 2026 18:50:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0pzeU9VRmJkMDBtRWM3MFhyR3JKTENJeDVfb3pNNHpycXViQnF6LWpveDVmZlotcWVrV0M3cTV4Q1hyTUlPcnRwaDFqRW5fWE5BdlFSYVd4NnZ5MWU2X241OU1QVzZkREh5MjVVMFBlY0k3RDgtM2RDUEFWNVVwUlJ4RFo4OHpGanRuclQ1WXV0bmVZX1MtRUZWak5ERjJ1Y0FLQlR3SlBtS2VyM0EyWUlJQVRJdw?oc=5"
+      },
+      {
+        "title": "Senate passes sweeping Russia sanctions bill negotiated by the late Sen. Lindsey Graham - SRN News",
+        "source": "SRN News",
+        "published": "Fri, 07 Aug 2026 18:35:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeERqdHRjbmJkLTUwaHJPUGpYWkxwamFHT0p0Tl9jZXgtTFRuMHpUTUIwazVmcmN6THpwelFoNzNSTXhRSE1GWUdteWRQeUFzaG5VR2lZZWJCZzJQTnAwLTFVNF9CVUd2bURNTDVjZ05RQXAzeWJiN0o1Q0pqTEVGRUg3T0tTVXpzUEd4aThmWERTZ3hmZy1YNU5uYUhDODcyYXFJTk12TzZqMXM?oc=5"
+      },
+      {
+        "title": "US tightens sanctions on Iran's financial network - Shafaq News | Latest breaking news in Iraq and the world - شفق نيوز",
+        "source": "شفق نيوز",
+        "published": "Fri, 07 Aug 2026 18:34:40 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQzJ6SWs5V2YxbnBzNXlMSlYzSmhxR1lBYUJVVHJfbE84c1BtcklRWm1oQ0ZLaTNBTE1JOUZ2WENLTnpfOFJJRGhWR2VmaVRuRnVRc0d5VFZMckt3OVUtbWhPNGx1bVppTXU4RWVYYVdSaGtwcEtCV2dOOGhUZHlXaG1LNA?oc=5"
+      },
+      {
+        "title": "US Senate approves sweeping Russia sanctions bill targeting energy income - Yahoo News Singapore",
+        "source": "Yahoo News Singapore",
+        "published": "Fri, 07 Aug 2026 18:20:21 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaXoweG90YzRyZFRJYkhIVGRLZlY5b2x3VmVyei1fZWFtVG54ci1id1E3Mi1XbnBDNDFhUzBnNHF1YjBWWFdUdGdWZERwU2ZRN3pyOWJDU3ZnZkstR3pYYUtmSE1sMFlDTXFZWE9tc0hKZTVZNEdVdU1wa1lpdVptTQ?oc=5"
+      },
+      {
+        "title": "Citi Lifts Brent Outlook but Still Sees Oil Falling in 2027 - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Fri, 07 Aug 2026 18:05:14 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS3VYSWFLYmdXQUhRb01HczJoVDA0cjc1QzlpTlpOY0lFR0tKV3VtLTRFWGtNeUNRUkR6eEVOeFVZbVlSdHQ1bXdqMEg5akpWd3h4MzdjV29tTWNQUU1zV09JekJ3Yk80bmR6d0tPM2JQVUVGRnAzd1ZOU2NrS2dGUU9DOWpWbzZJd1dkaE1GQVBRZUozUkxoVHlUa1c1MDhiTXBUTnpXeWtNZDBObWtNWGJ5eG1KZ9IBuwFBVV95cUxQeFZTbnpIR1dfODRiSHAtR1lQU0lTd0dGVGR4cTFLa09zQmoxb1BXY0FlcmN0aGpCMHZqRHJpbk0tYmNGZHBaMTNnSE5RZWcwNDhkSm5aRDN0Sk9jUnBUN2x6UWtfZS1ST0I1US1DQk9iS1JlMWFodDdFUFU1X3FqN1A4WXZxSlRNWFdja2piN0dzemRBQ2xfVzdBTU1tR19wUzlwSWx6cG9mX0lwTVJDZU1Oc1hiVHpUR3Bz?oc=5"
+      },
+      {
         "title": "Senate passes Lindsey Graham's Russia sanctions bill, sends it to House - National Desk",
         "source": "National Desk",
         "published": "Fri, 07 Aug 2026 17:59:33 GMT",
@@ -7638,42 +8678,6 @@
         "source": "Latest news from Azerbaijan",
         "published": "Fri, 07 Aug 2026 17:45:31 GMT",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSVRDZnV2VUkzendVTTVuN01hVnJiNkhRLTFIVF8ycGQxS2tMMkhQclJDM1NoUWxGTUdxSEJCN1RzM0pzcnBzcWRXWWpfa0swV3ZhMTBlMGMxelNveEdybnBwWDhNd1Z3bkswcUc5V0dNVC1CT2t2aEhYQW5VTTk0LW84ak5GME1v?oc=5"
-      },
-      {
-        "title": "US Senate passes sanctions bill on Russia, Iran; India could face tariff pressure over oil - The Times of India",
-        "source": "The Times of India",
-        "published": "Fri, 07 Aug 2026 17:41:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQNnFLTXlUZlRpbXhRb0p2WjdPLWg0cWJhQWJCVVcwTFp3SGtnVC1KUUZnXzZDczVkVkpYMTJSSFF2Nm9MSFVVeWJzWDhYc3Vnb3REZnhPazBBWmpRRl9XNHVVeTZGaUY0MmllOER5SUVuSVlrTnlvN3JtTHllZ3U1bS1NWFB0Qi1FN1dVODQ5cTJCcGlKdXRpanZ3bmVRajlrX3Y2d3FiVWVtQ29DRnZwbFdlZ1lXaG5QOXhodkRiZmlEcGtGMDRtYTRFZ3dma1RoeXVEUERUT0IxZUhoREh0bmV5TTVBeVVOVmlObFlYaVJoeU1rNVgydFFsN2hERXVfODRIc29uTHctSGlLTDMw0gGUAkFVX3lxTE42TmVYaWlXeWZJLWdSQW0tTEtNZEo1alJWN0hHa2QwV0pJQmM4eGRNR0lkaUg5T1UyUGFpdUJrQ1gzc1Mya2ZnUkZ4UEZoR2JkX3h2UkJzeXpBYUk5ZjF1SWdOVlFmN29mMkFrODBWc0RIUGJQQWFVSExrUDFXU3NSS01xeFI1ZFFEemlTLWktQVhyejU2RVpRODBfbENhTFFBejM2NmNLTEVucnRnekQ5YW1KS0RnNS02OUJjQ1p4YjdSSU5jOUZlRERrYUhXV1A1cndWamZTRmlpS2Y5eGR0YkJLSWc0cE4wSGxPZDI2OGNQbS1UODZFUVVPTk5QN1E4VHZNMmRka0hodlptWHpSQ3pnOA?oc=5"
-      },
-      {
-        "title": "Senate passes sweeping Russia sanctions bill negotiated by the late Sen. Lindsey Graham - Stamford Advocate",
-        "source": "Stamford Advocate",
-        "published": "Fri, 07 Aug 2026 17:38:12 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUktkNUZZVUQ3QTRSdENqUF9OVGtQQ0otbWlWay1zTHpFSDVZMER5b0ZLT3pLZlF0VjBvQV9tR2FwS2xQLTZZelZQMzJxR0paYUxMbnYzdGpzWTRPa2xBTFRXXzFCdkJVaExsSU1sV3NxV2hMYkZteG05Z29JRDZ5RFFTSGsyRWV5aXZMQ2Z1TVlkZW1aME1fcmFIX3B2NW9sVFRmMEhB?oc=5"
-      },
-      {
-        "title": "Senate passes new Russia sanctions - Axios",
-        "source": "Axios",
-        "published": "Fri, 07 Aug 2026 17:37:41 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ2lBekxmLTctX1JXLWtJbmFQdDNrYnNxd1VTVjBuZDlWQ1ZBSTVVb2R2VFNmSkdydVhMdjBDaThSRmNJWnNnMWpENUYwNHdhU3JwNFlzbkxfdFhLQmxOLUlXc3lKVVpfdzY2X2Nyc0RFVXByRGJ4dTdwS05uRUNlNV9IeEE?oc=5"
-      },
-      {
-        "title": "Senate overwhelmingly passes Russia sanctions bill - The Hill",
-        "source": "The Hill",
-        "published": "Fri, 07 Aug 2026 17:36:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XUEQtR2dlaXpUNk9NWWwzMF9kUURDa1FtR1RRTE00TUwwMDBkTjB2TVpEQ0o1MzNzdFY1NVRZOXdacDVPdXBNMFF1NmZGZk5EOF80dGNMMXhxZGdjOWs4Qm53SXpVNG9HVzdkd3BfZWpzWUlhNHpoZy05U3l1UdIBgwFBVV95cUxOOThBekZNSWZjZjBYV2NpRVJUY1J5ZGlBdzA3V09wX2pHNXExUzdpUjM1aHRaVV9jNWVTYXRYcnVDVk5hOFh5d2hWOWItWjlsNFJaV2hPWFVZRHEtZGRNQTNBTHItOU5jb3l5SHVjcEc1UEIzQ3B5SFFJZE1LTHFlYmhYTQ?oc=5"
-      },
-      {
-        "title": "Citi raises Q3 2026 Brent crude oil forecast to $80 a barrel - qz.com",
-        "source": "qz.com",
-        "published": "Fri, 07 Aug 2026 17:34:20 GMT",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XUndDNjlsbXEzOEtBY2otOG85OUZpRFNhYy1WUzhTU0lKNXZsam9TVmJfY3BkYWNWNkcycVZsTU4yTjFrTmxnb2J0dW9VLUw2N3FVUm54S2Z6MnFfWGJNWHhZdFFEWUlIc0xzWWtLNFcyQQ?oc=5"
-      },
-      {
-        "title": "Senate Passes Russia Sanctions Bill Championed By Lindsey Graham - News of the United States - NOTUS",
-        "source": "News of the United States - NOTUS",
-        "published": "Fri, 07 Aug 2026 17:32:12 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY2JCYVJfQnlmSU1kUVhUdHFydDJrVnFNRTB6aWpxM3E0dDdPdTN5UktkNTRJNmNwZzNRTUREUWVFeDJaSzE4VEVxdE1STDRjNGsyR1FfVVdiVXJrVGxJRjVFcnVKZmJrcjFrWFlxS1pPS2kzZ1FWbW9CTkRFMTU3cUN3?oc=5"
       }
     ]
   }
