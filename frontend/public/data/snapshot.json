@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-08-08T18:12:33+00:00",
+  "generated_at": "2026-08-08T18:36:19+00:00",
   "fx": {
-    "nzd_per_usd": 1.703428,
-    "as_of": "Fri, 07 Aug 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.697978,
+    "as_of": "Sat, 08 Aug 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 83.5,
+      "latest": 83.55,
       "latest_date": "2026-08-07",
-      "delta_1d_pct": 1.22,
-      "delta_30d_pct": 10.95,
+      "delta_1d_pct": 1.29,
+      "delta_30d_pct": 11.02,
       "series": [
-        {
-          "date": "2025-08-07",
-          "usd": 66.43
-        },
         {
           "date": "2025-08-08",
           "usd": 66.59
@@ -1017,20 +1013,16 @@
         },
         {
           "date": "2026-08-07",
-          "usd": 83.5
+          "usd": 83.55
         }
       ]
     },
     "wti": {
-      "latest": 78.2,
+      "latest": 78.18,
       "latest_date": "2026-08-07",
-      "delta_1d_pct": 1.18,
-      "delta_30d_pct": 8.73,
+      "delta_1d_pct": 1.15,
+      "delta_30d_pct": 8.7,
       "series": [
-        {
-          "date": "2025-08-07",
-          "usd": 63.88
-        },
         {
           "date": "2025-08-08",
           "usd": 63.88
@@ -2033,36 +2025,36 @@
         },
         {
           "date": "2026-08-07",
-          "usd": 78.2
+          "usd": 78.18
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-08-07",
+    "as_of": "2026-08-08",
     "regular_91": {
-      "avg": 3.052,
+      "avg": 3.054,
       "min": 2.75,
-      "max": 3.819,
-      "count": 98
+      "max": 3.999,
+      "count": 80
     },
     "premium_95": {
-      "avg": 3.241,
+      "avg": 3.239,
       "min": 2.937,
-      "max": 3.469,
-      "count": 61
+      "max": 3.447,
+      "count": 59
     },
     "premium_98": {
-      "avg": 3.335,
-      "min": 3.186,
+      "avg": 3.352,
+      "min": 3.187,
       "max": 3.599,
-      "count": 16
+      "count": 14
     },
     "diesel": {
-      "avg": 2.713,
+      "avg": 2.735,
       "min": 2.476,
-      "max": 2.959,
-      "count": 96
+      "max": 3.779,
+      "count": 85
     },
     "lpg": {
       "avg": 0.0,
@@ -2071,8 +2063,8 @@
       "count": 0
     },
     "observations_today": 0,
-    "observations_yesterday": 264,
-    "observations_older": 7
+    "observations_yesterday": 200,
+    "observations_older": 38
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8594,8 +8586,8 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkdjbGk1UWFQZWdCNjJuN1BSTWNtWi1SNEZFSTd3b00zVVg2NDhOenpzajVWa2FRaHk2NlJCWmpCTm93aWFFdVljdDBYOS0weG10RkxsNVdGUFcyMEduSmNUakNpT2hmSFYwZjM5RDI3MWZLTGpQcDB2emdlNS1TbUx4VlVGZDY4?oc=5"
       },
       {
-        "title": "Iran War Takes Heavy Toll on Australia, New Zealand as Oil Soars - bloomberg.com",
-        "source": "bloomberg.com",
+        "title": "Iran War Takes Heavy Toll on Australia, New Zealand as Oil Soars - Bloomberg.com",
+        "source": "Bloomberg.com",
         "published": "Fri, 07 Aug 2026 06:51:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTnpwNTRjdEtUY3B6T2xUMER4UElvQUNoUExOZ2Y4RFBjOEduUnE3TU1MMlFwWjN0TTluQ2ZCZW1tQzUzQmRTZmRndG5laTVwYWlqYVMyeDhrZWttR3hYU3pITDZXUzBmZ0tyX3ZXanlDSUlhM2x6bTB6bDV2cjY1SnJYM2lmVVVBRjhlUVpWVTZYbDRVcElLQ1Q4V05MZ2FLelRkN2NJbGE0RFFPbGNFRkJEdjA?oc=5"
       },
@@ -8624,8 +8616,8 @@
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQUI5U2JmSXhSNnF5aDh5b21Uek5lX0xtRDVVeW9DTlVmcjdxMWtMWE80cTRGdGVzNjRoWFlRZ0V2VzIyUTA2elJMUXlHcUE4eU5RWXYwbkhBOVZVR09PMERya2gtOUdSbFF6VUNFX1gyelQ3Um93YklKQm9QeVdhdE8zbFhYYzVxTW5JTmxCMnNMQ3V6T1hEUFJ3bDBvV3BkcHlpQ3M1dWxXVThjNlVVYnFwaWFkRmQyTU9pMkpRSjFMdC1QeFBVb0wxYkp6eVE?oc=5"
       },
       {
-        "title": "Fuel prices could rise 15c a litre within days as Middle East conflict rattles oil markets - stuff.co.nz",
-        "source": "stuff.co.nz",
+        "title": "Fuel prices could rise 15c a litre within days as Middle East conflict rattles oil markets - Stuff",
+        "source": "Stuff",
         "published": "Thu, 23 Jul 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdjhhSmpvVEZCWWY3Y3o5NzNKUzFOelNZVHBvb2Y4c0JxQlhBWXNzQWE4Nk1ma3MxTHoxLUoyaW5YeU1fZjRUS0l2ejVCbnFCTU1BRnB3eG9xLU9USzJ3Z2ZHNkg3akMyZlNMemtPaDY0NmxxMFU1alZZUzdRRzd4VGVOXzVqekZqNFR2STZHM05INDExSVpla2NqRXBST19HakVEYUV3eDljVkxRbkRwRjllbDJ1ekJHU05qWWx1TFhCN3NWSUVR?oc=5"
       }
@@ -8642,6 +8634,12 @@
         "source": "EnergyNow.com",
         "published": "Sat, 08 Aug 2026 12:11:52 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1ZOVFVuUnFFYUstVktuczhxdzBYN1lUbUlqbTIwZEVnX2lCclN2dDZyeVJxUnFPLXdLLWhHcTd1MUUyM0kxTFBUZWJZSVlfN2RCZkRlRXhqT3ZfdUJTQkFjSkR1dDFsQ2Rmc19VTERhc1hsV2Nka2RDVEFvZ0FUcFdJQ0dCR21lcm5mZU12UzJZZHlyOFh3WGEzVWpCVDlUeHc?oc=5"
+      },
+      {
+        "title": "Citi Raises Brent Forecast for 2026; Sees $150 Oil if Hormuz Disruption Persists - EnergyNow.com",
+        "source": "EnergyNow.com",
+        "published": "Sat, 08 Aug 2026 11:36:38 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdk5UVWpBQWFNVy1reG1ZeFlEdlQxcWlxWkMzTFNfUmFKdVFZaWRqNm4zTFo5V05Pd2o5b3hpOXNLeWJ3Tm9XdzR1aEk1VWd1S29vaW1GUVZ1OTU5c0hsUE5fWnhUV1RoakRubVlGcW14cHBhaER0VzZmeDVFNGZkeEVUb2l6WGhtTVlBUXBMTFFYNkMwalRYZmYzQUItWEhDLUhiVkdaOFBoU0Q4Vnc?oc=5"
       },
       {
         "title": "US Bill to sanction Russian oil: Why it could become not just India’s, but the world’s problem - The Indian Express",
@@ -8662,8 +8660,8 @@
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82bExKcG96VVl5YlprclJaYTZscGpNN0RUMjF0TzJPV2dCb0FWd1E5Qi1ub3h3VUlZMzZFNlRtU0dsS19WeERlQk96MmVBZTUyMk5oSjRicFBOanpaSGVPaXZITWFrcE8yQUZQTE53YXF2Yks5Rnc?oc=5"
       },
       {
-        "title": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war - aljazeera.com",
-        "source": "aljazeera.com",
+        "title": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war - Al Jazeera",
+        "source": "Al Jazeera",
         "published": "Sat, 08 Aug 2026 06:36:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQejFLNGRudlRPUklQQ3BwTW1FUVliX0tOUHc3ZU5lLTVYU3E0c0dmMDVDTDdCVHQ0RndHZGhpQ3dFeEVWWW91NnZfLTUtV29pZndZcHRFQV9ZSGhpUTFqSkN0bHpWQXpmb1V6VGNLNWc1RHRNQzNZRDgtRklRdzJkV096emRTTm80dENLcUZod1BtQzlEUVM4bnJNb1VRLVF3aC1XWHdMWGwyQmdfUDFqY1lNS3Nzd9IBuwFBVV95cUxOb3FlQm5JODAtZlkxaFdOSHJLU1ppUmRFOEhsRThtaEpaV1pwVWtzZG1BbGRfSDJyTWZXX2QtTk1uRnBTOE03VUtYRk1IblU4U0V6ZGdkWlVxWmJOZFMySnZTd1Q0NXBiNG94VVpzeHVHaG9vdk9zWlkwQVpHYi1ZeHI3LXotRzIxY2xEVTBMSWtJekRnZmZtRy1CYnBXZmFfd3NNdUZ0VUIwTkxFYkx6R3hqOEdLQXJIa1pv?oc=5"
       },
@@ -8672,12 +8670,6 @@
         "source": "jordannews.jo",
         "published": "Sat, 08 Aug 2026 06:08:08 GMT",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPenBibkhKT1dRZERPMngyQXNmYWZjM0FOTG1NczZNVXdHZ18yM0hmd3gtYThiV1d6ZGFMYlNZeVVLS3ZEVW9rb0JFTEtGVnpiTGhUcDlkVDhVRTk1b2htcWFTMlVoU200MC1VQk84c2ZyMEMzaTlBLUZWMk9PQmhHdlZpRUhIeXJIeV9sTzQ4OE9nNW10c0ZfS2dkaEluVlBWS1B0amJrbVNHcG1UZDk3bTV6cFF0ZkE?oc=5"
-      },
-      {
-        "title": "WTI and Brent Crude Are Now Reading the Strait of Hormuz Differently - StoneX",
-        "source": "StoneX",
-        "published": "Sat, 08 Aug 2026 02:26:35 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeVhzQ2lCUU96WXVIaXctN3FDNzBaRzZaZnNRc1Y0WlZRaVdXWUpWS3ZaMU5LVnMyaXdoTlF1Z29JOGduUzMxbXQyd1M0YzNmOTFLak5QR1BTYUZhS2dfLXRBQkxuTzhWNmcwR1IwZGt1Q3VCTEtxNFRQbWp2dUJoQ2dZMjNUSHY3NmhDMjFHSkZwVDZhMURvSjk2Y3hLZFpFU0dfTDhBTQ?oc=5"
       }
     ]
   }
