@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T03:58:40+00:00",
+  "generated_at": "2026-08-08T05:06:46+00:00",
   "fx": {
     "nzd_per_usd": 1.703428,
     "as_of": "Fri, 07 Aug 2026 00:02:31 +0000"
@@ -8582,6 +8582,12 @@
   "news": {
     "nz": [
       {
+        "title": "Pacific families are being caught between fossil fuel gamble and push for clean energy - Pacific Media Network",
+        "source": "Pacific Media Network",
+        "published": "Sat, 08 Aug 2026 04:21:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU0tBWDR1THJTc3Q2czVlR0NaZ0ZIeGt5d25xbjVld2hYUjZwX0dhd0ljWUwyN25GQS1tbGdmQ202VVNvZUJJRnlQUFJCZW1fSDdRcmFncDRxdXRtR1piMTFyYVNOOXp1R0ZLOWlkZDUyMzM4NUdIbno1RzhmOU5zVGtOSTRjR2V6a2tvV3FBS1JLaWpjb05qVS1xZ2w3cVpVNTlldW5KMmliWS00?oc=5"
+      },
+      {
         "title": "New Zealand’s fuel supply five months into the Hormuz crisis - newswire.co.nz",
         "source": "newswire.co.nz",
         "published": "Fri, 07 Aug 2026 21:38:51 GMT",
@@ -8606,28 +8612,22 @@
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcGhhZlNJdGo4NDAwc0ViNHZnLWh3bjVFandwMHZqMHJ5WEFzYmVPaF9qaEswR0tXT2xXNk9lMlAzcVk5VDRnS1pVM0RsaGVVbi1pOENuNVVwQklNdGhvRkNhQjJyZTVrVjN4NjJOMU9ya3hqR2pvbkZtU2J1dlh1bS1MUXNsSEJld0lDaDdxVjd2YnVOS2ctWVhaUnU3VVc5ZTJuTWp5TGM2OWQyUlZiVlgtdURHdk9NVmI5dTdpcUJFS3FvQlNZR0JpM3U2RGlaWlBj?oc=5"
       },
       {
-        "title": "Petrol prices could climb above $3 in NZ amid Mideast tensions - Pacific Media Network",
-        "source": "Pacific Media Network",
-        "published": "Fri, 24 Jul 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQUI5U2JmSXhSNnF5aDh5b21Uek5lX0xtRDVVeW9DTlVmcjdxMWtMWE80cTRGdGVzNjRoWFlRZ0V2VzIyUTA2elJMUXlHcUE4eU5RWXYwbkhBOVZVR09PMERya2gtOUdSbFF6VUNFX1gyelQ3Um93YklKQm9QeVdhdE8zbFhYYzVxTW5JTmxCMnNMQ3V6T1hEUFJ3bDBvV3BkcHlpQ3M1dWxXVThjNlVVYnFwaWFkRmQyTU9pMkpRSjFMdC1QeFBVb0wxYkp6eVE?oc=5"
-      },
-      {
         "title": "Oil price shock for New Zealand far from over - Westpac economist - RNZ",
         "source": "RNZ",
         "published": "Fri, 24 Jul 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMFFnUzVWcW1PTTJZbWZPdWp2eUlTcWJlMW1ZTFhUMDhrU3dVWXpaZUJaTkN0QXotQVBVN29EVUJwd3d3NEJ3eTgtU3NfUzJWZm00TXkwRV9MS2h2cHdudy1WSk5yTlB1TDdneG9NWW91ZzJaOGQ0ODhtelp2Z2I4SkZSTk9vakxFUFN4dzRpU2tBNjU4UFg1UUVmZkN3Wi1NSTFOZG1SNTQ4dw?oc=5"
       },
       {
+        "title": "Petrol prices could climb above $3 in NZ amid Mideast tensions - Pacific Media Network",
+        "source": "Pacific Media Network",
+        "published": "Fri, 24 Jul 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQUI5U2JmSXhSNnF5aDh5b21Uek5lX0xtRDVVeW9DTlVmcjdxMWtMWE80cTRGdGVzNjRoWFlRZ0V2VzIyUTA2elJMUXlHcUE4eU5RWXYwbkhBOVZVR09PMERya2gtOUdSbFF6VUNFX1gyelQ3Um93YklKQm9QeVdhdE8zbFhYYzVxTW5JTmxCMnNMQ3V6T1hEUFJ3bDBvV3BkcHlpQ3M1dWxXVThjNlVVYnFwaWFkRmQyTU9pMkpRSjFMdC1QeFBVb0wxYkp6eVE?oc=5"
+      },
+      {
         "title": "Fuel prices could rise 15c a litre within days as Middle East conflict rattles oil markets - Stuff",
         "source": "Stuff",
         "published": "Thu, 23 Jul 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdjhhSmpvVEZCWWY3Y3o5NzNKUzFOelNZVHBvb2Y4c0JxQlhBWXNzQWE4Nk1ma3MxTHoxLUoyaW5YeU1fZjRUS0l2ejVCbnFCTU1BRnB3eG9xLU9USzJ3Z2ZHNkg3akMyZlNMemtPaDY0NmxxMFU1alZZUzdRRzd4VGVOXzVqekZqNFR2STZHM05INDExSVpla2NqRXBST19HakVEYUV3eDljVkxRbkRwRjllbDJ1ekJHU05qWWx1TFhCN3NWSUVR?oc=5"
-      },
-      {
-        "title": "Air NZ confirms flights through October as jet fuel prices spike overnight - Newstalk ZB",
-        "source": "Newstalk ZB",
-        "published": "Thu, 23 Jul 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNOVBXcUtMTWNoaTZmYTd6ajFqc0tURUY5eUtXdVpnV203Ty13b2RUZ3FodVhXN1VfZnZ6Wm1vOHM3cTdMWTJlOHRlR0dfTTIwMllRUi1HS2hobm10S0FzUDZPWk1wbzR5Y3lsSElEb1VIdm5GQUlsdGdpczE0NjlRTk5odGs1c0Y3VjY2dkdiQ05Fb2lSelNtbElsZzJPcGhzMUJ3MVpHaUNSR3JsbkVqaDNhRWFwS1ZVTVBSSkl2MkFQb041a3pFMmhwcnMwNmdIeU9OeDBUSHhIZFFuSE1hRi1kakFlMHRCaktkQnR1QjU3UHFJcGVFc2RtYw?oc=5"
       }
     ],
     "global": [
@@ -8638,16 +8638,16 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeVhzQ2lCUU96WXVIaXctN3FDNzBaRzZaZnNRc1Y0WlZRaVdXWUpWS3ZaMU5LVnMyaXdoTlF1Z29JOGduUzMxbXQyd1M0YzNmOTFLak5QR1BTYUZhS2dfLXRBQkxuTzhWNmcwR1IwZGt1Q3VCTEtxNFRQbWp2dUJoQ2dZMjNUSHY3NmhDMjFHSkZwVDZhMURvSjk2Y3hLZFpFU0dfTDhBTQ?oc=5"
       },
       {
+        "title": "US Senate passes sanctions bill that may penalise countries buying Russian oil, gas and other exports - The New Indian Express",
+        "source": "The New Indian Express",
+        "published": "Sat, 08 Aug 2026 01:59:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbVJrZUVrUGpwQy0xaVV5SVkySVJ3SlhTai03T2FmVzFpU3hGX3VjYTdvTE9iNEJGelRWT3VmSDBPa0M4YW1EdzdNbkpFVmJyLVlGcGlrX2tETXAyaG1EQ1c5R19pT0habWV6NjlFTlROTzM3eHZ0cldMVnA1cW1ZZEhEUXA4WUNKSkIxWEU1bERHMnJsMHJ3TE85NE9veTloZ05YUVpLNnlBTDZ5THY0WW9EUmVIenJBd0l0WXliMjlMa0RBZUdGQ3lUT2NsX2tLa21iVmhPdndhV1p1cWdVTjVwbHAtd9IB8wFBVV95cUxPdERla3FtVmRqMnp5VGw4eWhlOGN2bmRNVDBCNHBDRUpybnc4eHJDS3M3cTJidVdDdmVhTTVaUTFEWklTUC16Y1J5X1dFV3J5RmdGOW9EZjlQbG9KdW94VzRYSXVySHpuRG5Db20zZDNmR3NxUGJyZWJyVGpRWk8yMm1leFl0dzlVTkl4MjRvZUxkSGFoejlJWTQ1VWk3eWNwUUdST05VcHpZM3p1T2duZ0gwZWVNanROZ0ZnbjZpMjVMUlJzbHppWk52NnZHZXJyWEdrd1gtMzF6WVZ4WlZReGVDOGY3Wk5HaThPU19FUVppaTA?oc=5"
+      },
+      {
         "title": "Senate passes long-awaited Russia sanctions bill, a win for Ukraine supporters - The Washington Post",
         "source": "The Washington Post",
         "published": "Sat, 08 Aug 2026 01:49:31 GMT",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONlVMd3YxamtvZjZva2V3akNIZUdLVEdIT3VLYldDWlNINmR6VGFpSVNhY3Q2QXdIdURyaWdOU2JmaVZfOHZKR3JnOHUteGZRX0VRTFNrNVpnX1hEa0ZNejZVREFIaHZHUjVuRnhRbE1MNldvLVh6U2JIbDZIaHNqRVczNHgxNXdpQmVHbFpmcE1QU2xJTnlFaUZYTjFQZWhmU2k5SGlqYw?oc=5"
-      },
-      {
-        "title": "U.S. Senate passes Russia sanctions bill that seeks 100% tariffs on India, four others - The Hindu",
-        "source": "The Hindu",
-        "published": "Sat, 08 Aug 2026 00:56:29 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNWRYR2NqdWRNOWlIcS1iVDZZZXdQODFmeGNwYUNWMVlFcC1XWW4yWWg5VWFnXzJ2dm5zU1VrUjlHVW1NY3JJNHFza29Mb2R4Qk01UkdjbWJzSU5ZMmpqUVlpc2VHVXE1WWQ0REVySV96VEJMYlRDRURmdmhKZkhiS2xEZWc4S2xxdk9LVXgxV2xKbWNYcXJFUzdzNVRoUlA1Q0FIWmg4QlpGdW42dGpUY3NTdm5seU9laTVPNHYzX2Iyd3l2eTBvclhjVk1SZXB1WmF6ZnlxeUtOT1RNNHow0gHmAUFVX3lxTE9LNVZicDEyUEJ3cjFjelkxQ2xHa0ZaZjMxek1PZDhWYUo5dVMtaFNtWk16NkF3bWM3ZlYxZG9ubmJCUVl4TzhoeHIzVl95NlN0cG9rZi04RmFJQ3dMTFdKQkZwOFpOM2o1bURSQ3ByUThQc0lOajBHSW95TmI0Um9vTW5nVEMyRVZkNFhySXhGSHF5SmdMTEFXUm1naERJWnl2Q2ZGOFVZMkxrSDhFc1diNGZudC1RdTBTeG5qejJGZU4xYWVWZkhFNi1Pd21rWl9uUFRxZ1NxRWZvc19kRDVLeVJQejd3?oc=5"
       },
       {
         "title": "Citi Lifts Brent Outlook but Still Sees Oil Falling in 2027 - Energy News Beat",
@@ -8656,8 +8656,8 @@
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONW5mbzNsODcwTUVENlQzMW13YmJRZWdWb09pLXJ6ZFZDRFNSTzNSUFRYX1JLWHJoZk1yeW50VURQNDM2ZkwxQkxkYVdLM3BBcjA5cWctSEJNUjdQSmNIQV82bi1HNDZmMV90cldvTHlKSUNNV01WWnNIaHJyZGxHcWVxc2lidFdMT1dMc1N6QTJlb3FmZnZGVjduQmE?oc=5"
       },
       {
-        "title": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war - aljazeera.com",
-        "source": "aljazeera.com",
+        "title": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war - Al Jazeera",
+        "source": "Al Jazeera",
         "published": "Sat, 08 Aug 2026 00:13:16 GMT",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQejFLNGRudlRPUklQQ3BwTW1FUVliX0tOUHc3ZU5lLTVYU3E0c0dmMDVDTDdCVHQ0RndHZGhpQ3dFeEVWWW91NnZfLTUtV29pZndZcHRFQV9ZSGhpUTFqSkN0bHpWQXpmb1V6VGNLNWc1RHRNQzNZRDgtRklRdzJkV096emRTTm80dENLcUZod1BtQzlEUVM4bnJNb1VRLVF3aC1XWHdMWGwyQmdfUDFqY1lNS3Nzd9IBuwFBVV95cUxOb3FlQm5JODAtZlkxaFdOSHJLU1ppUmRFOEhsRThtaEpaV1pwVWtzZG1BbGRfSDJyTWZXX2QtTk1uRnBTOE03VUtYRk1IblU4U0V6ZGdkWlVxWmJOZFMySnZTd1Q0NXBiNG94VVpzeHVHaG9vdk9zWlkwQVpHYi1ZeHI3LXotRzIxY2xEVTBMSWtJekRnZmZtRy1CYnBXZmFfd3NNdUZ0VUIwTkxFYkx6R3hqOEdLQXJIa1pv?oc=5"
       },
@@ -8668,16 +8668,16 @@
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT0twOHhpRFM1WWM1UFNGVzh1ZWtCQnJ1UmROQlpXX005bkFjN21iS3lmMHdnejAtdlUyN2VmX2R5ek5TMjN2S3hfYXJ0ckZ5d3NFeGVuNDhGTExJSmZCU3E2R3gtSG41eldGVW96MWJDS3NtSGRXd0I4cW1jejJyY1RWN29pSGpyeGhFc2E0TWNsNm5ORHJZbUx0a01nTnA5S0g4cng3ZnB5M3hWNU5fTS10d2JONzQ?oc=5"
       },
       {
-        "title": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Fri, 07 Aug 2026 23:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeVcwbTA1eG1OWHVHQ3Yta19fWTZhaERzcWpCMGEwTHdnb0NRSXp4VTg2djZ3R0djV3ZBZTM1NkYwb0hlZFBkNW9OQV96LUVZQWRKTzFHOWdpTVZsSjBwTlZJeWZ2ZnNKMTRkYlg3enYtUUZCMUtjYkN5UzFaTk5FOGtOTUtydlZuTDAyUzJ4TjdXMDFZYnBrX3J6VW5xRUlfZzJqclFzZ29jTm1UZEQ00gG0AUFVX3lxTFBwcExybUxzM1lRZm4wR3ZjaGVjNjEyQWRtcHBBR1lOUy1wTllMYWh2Q3hfbUxSSFhicmIyWV9DSVoyLXhUV0swRXlGY3dRYTJzQTBRZ1RGd2VNZHJTdWF1QVBTak45eVZDSjEyMl9NNW43dUdYX0NIbW9PVm5xQThxUDgxbHhFUzlzMkNqaFdYbmFHbjZyd1dEYUl1SkRsTWZleXpSbUUxcm84angyZ2I5QjZZZQ?oc=5"
+        "title": "India stares at 100% US tariff threat after Senate votes to pass Russian oil sanctions Bill - The Indian Express",
+        "source": "The Indian Express",
+        "published": "Fri, 07 Aug 2026 23:43:26 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUzBPLUxzMG9LSFBTNURmY0Z1NGdoalZNb1BkNHRUcXFkdkt2Zk9ZUlJEV0ticE90UkJrb3o4QXF4M1FSVkN1cHFRUkc2OTNjMnlaRHltSmgzcEFTQ0pxbjlFMmVtMDNRUUJrQ192VVRyRHYyLTA0aHNiZUJZUXc2X2l3YmNESHFpYTl0YWxjYjRELVc4UWZBMjlOUl9ocHh3MC1IbmlBNmdJc0psWkktZUlB0gG4AUFVX3lxTE9nSmhnWmx0M3JZbjBBem5MeUVxZHg4UWdnWDJPclVZalBhX0NNM0Nza000ZG1jVzVsS3dhUFBxNU5HdkJpcUkyWk02RXJzZWt5aGM1WDRab0c2QzVWbWlUd3FKZDl2dEJLbkVwM2lzWmViY1FkczNqaXA0N2thV2VEVExFS3RUOEtYcEd2OHZRT3kzU2RoZ1ZGVmlYTG9NdV80SGZwcFlZTUZ3N2NwSVcwMzhvc2NDVU4?oc=5"
       },
       {
-        "title": "Citi raises third-quarter Brent crude forecast to $80 per barrel - Investing.com",
-        "source": "Investing.com",
-        "published": "Fri, 07 Aug 2026 22:52:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM1BMalMtRnpCYm5kcHFMUFZWZzdRUlREV1RKeTFPV2pPS1FKTVdoMEUtd3UtTDhjUmg4ZHFlU0g5OTE4SVlrWE5VRlo3ZXU3TmVqYnN5Z2JtN2J4MjR1eFBNNHE1YXlPVTVIYmV2Ni1SSFhPZmFuUUNvMnFqVkJmZ1FSbFpjZnNfVFU1UGYzZUlJckFkbzk3VEp5T2xmZVJQbXQ3RVdGVmVacU1iV0F5RGRLRk01bGY5UFVNRG1lV1Y?oc=5"
+        "title": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions - oilprice.com",
+        "source": "oilprice.com",
+        "published": "Fri, 07 Aug 2026 23:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeVcwbTA1eG1OWHVHQ3Yta19fWTZhaERzcWpCMGEwTHdnb0NRSXp4VTg2djZ3R0djV3ZBZTM1NkYwb0hlZFBkNW9OQV96LUVZQWRKTzFHOWdpTVZsSjBwTlZJeWZ2ZnNKMTRkYlg3enYtUUZCMUtjYkN5UzFaTk5FOGtOTUtydlZuTDAyUzJ4TjdXMDFZYnBrX3J6VW5xRUlfZzJqclFzZ29jTm1UZEQ00gG0AUFVX3lxTFBwcExybUxzM1lRZm4wR3ZjaGVjNjEyQWRtcHBBR1lOUy1wTllMYWh2Q3hfbUxSSFhicmIyWV9DSVoyLXhUV0swRXlGY3dRYTJzQTBRZ1RGd2VNZHJTdWF1QVBTak45eVZDSjEyMl9NNW43dUdYX0NIbW9PVm5xQThxUDgxbHhFUzlzMkNqaFdYbmFHbjZyd1dEYUl1SkRsTWZleXpSbUUxcm84angyZ2I5QjZZZQ?oc=5"
       }
     ]
   }
