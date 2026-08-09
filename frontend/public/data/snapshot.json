@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T16:12:28+00:00",
+  "generated_at": "2026-08-09T17:02:43+00:00",
   "fx": {
     "nzd_per_usd": 1.697978,
     "as_of": "Sat, 08 Aug 2026 00:02:31 +0000"
@@ -8624,6 +8624,12 @@
     ],
     "global": [
       {
+        "title": "Oil News: Gulf Supply Risk Returns as Brent Reclaims the 50-Day MA - FXEmpire",
+        "source": "FXEmpire",
+        "published": "Sun, 09 Aug 2026 16:48:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSXVVT0FSTnhiUWhyZDRMcmpaeU4wU0tVWVM5dHZ4LXR5WU5VdF9ZT25jblk0b0Exb0hSVWJVeHY5ckF1SFhucl9UVHpEUmlGNjJWRGFzZmFIRHZPZ3pzXzBONXIxMDhWU2Z3NnMyb3hpQ3UzcVNrc3U5c2w2M1hHcVdjRUR6dG9PVTdMYU4xSGYteV9oZ3ZUdUwyZG5lYnB6bTV5UzlFbm41NHV6bHBkS19GR1l4bjA?oc=5"
+      },
+      {
         "title": "$Crude Oil Futures (SEP6) (CLmain.US)$ $Brent Last Day Financial Futures Current Contract (OCT6) (BZcurrent.US)$ - Moomoo",
         "source": "Moomoo",
         "published": "Sun, 09 Aug 2026 10:43:49 GMT",
@@ -8664,12 +8670,6 @@
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Sat, 08 Aug 2026 23:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOanNDS29uVkhmYWNmMEZwMWt6bGFxMW1wVjJrV25TRTZoOU5JLURFbnhzZy0xdlJMcUx0bkVIMUlSZ3kwb0tZQ0hsMTVvcExfcUpicEM4aDBBUWJRMHJ4bTdvbzlVaGd5MzNBZlRIUHhielMzTU5MdWd2dGd0RVkzOTdUT2RaVktpN1JSVlIyTm54eXZ3NmlUcGhFeklPZlpxak1WWnh30gGrAUFVX3lxTFBCTUl4Q0xscXZuRm9weUl2MnQwbEJienJIYlQ5VWtibDZzVnVtWGJzWVlHa2FPSFhkNXk0VXRZLVFzZlJPYXpSTmowV0xXTjB6Nk9RcDZ0RW5ubmI1ODRjS042YTB4M2ZNbmhCb3N3VktFcnl5N1NnQV9VZWZjRkh3MEVELTVJelFvZUNLbE5LbE1wT0RTOC03LU1WOEhpT3NfbzZzelF1Z01Ldw?oc=5"
-      },
-      {
-        "title": "Bipartisan Legislation Imposes Sanctions, Penalties for Purchasers of Russian Oil and Gas - Ark Valley Voice",
-        "source": "Ark Valley Voice",
-        "published": "Sat, 08 Aug 2026 22:35:06 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSTVtdnNETE4zSURLVGt2VmF2RjNIRVc0dmZrdGNLSnUyM2YzZ0ZvMDdnOTVLcmVYQWJSclVfaDdzODBURExOc2tMMVJBc3JVeEZWNGRyRE5BVnljMjhkalhpYWFrMVh0X0F0ZGRZVlhnUDdBS0NtTGlOeG9lOF8wcjRIeDNEOUlSUURUUWdmLWxFM3llSnB5ay1nNUJjNUVXSE5vTmJmSllHbjkxYUJvYnJ2UEQ2YUE?oc=5"
       }
     ]
   }
