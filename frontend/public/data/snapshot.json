@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-09T18:16:57+00:00",
+  "generated_at": "2026-08-09T18:39:27+00:00",
   "fx": {
-    "nzd_per_usd": 1.697978,
-    "as_of": "Sat, 08 Aug 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.698475,
+    "as_of": "Sun, 09 Aug 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
@@ -11,10 +11,6 @@
       "delta_1d_pct": 1.29,
       "delta_30d_pct": 11.02,
       "series": [
-        {
-          "date": "2025-08-08",
-          "usd": 66.59
-        },
         {
           "date": "2025-08-11",
           "usd": 66.63
@@ -1024,10 +1020,6 @@
       "delta_30d_pct": 8.7,
       "series": [
         {
-          "date": "2025-08-08",
-          "usd": 63.88
-        },
-        {
           "date": "2025-08-11",
           "usd": 63.96
         },
@@ -2031,40 +2023,40 @@
     }
   },
   "nz_retail": {
-    "as_of": "2026-08-08",
+    "as_of": "2026-08-09",
     "regular_91": {
-      "avg": 3.054,
+      "avg": 3.058,
       "min": 2.75,
-      "max": 3.999,
-      "count": 80
+      "max": 3.819,
+      "count": 61
     },
     "premium_95": {
-      "avg": 3.239,
-      "min": 2.937,
-      "max": 3.447,
-      "count": 59
+      "avg": 3.236,
+      "min": 2.916,
+      "max": 3.519,
+      "count": 36
     },
     "premium_98": {
-      "avg": 3.352,
+      "avg": 3.323,
       "min": 3.187,
-      "max": 3.599,
-      "count": 14
+      "max": 3.419,
+      "count": 7
     },
     "diesel": {
-      "avg": 2.735,
-      "min": 2.476,
-      "max": 3.779,
-      "count": 85
+      "avg": 2.734,
+      "min": 2.506,
+      "max": 3.099,
+      "count": 66
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 1.949,
+      "min": 1.949,
+      "max": 1.949,
+      "count": 1
     },
-    "observations_today": 0,
-    "observations_yesterday": 200,
-    "observations_older": 38
+    "observations_today": 32,
+    "observations_yesterday": 128,
+    "observations_older": 11
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8624,8 +8616,8 @@
     ],
     "global": [
       {
-        "title": "Crude Oil Weekly Outlook: Hormuz Risks, Key Levels to Watch - FOREX.com",
-        "source": "FOREX.com",
+        "title": "Crude Oil Weekly Outlook: Hormuz Risks, Key Levels to Watch - forex.com",
+        "source": "forex.com",
         "published": "Sun, 09 Aug 2026 17:00:53 GMT",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTU9lb1VKazkyTHFCODhnNjdsN3p2cEJENkV3YzZHUjJ6V1ViMG9Jc0h1YXE5MkRHZG1GbmE0V2dsUi05djF1cnBEc183SXJYQkFnZTFlaVJHSllSaUpldWpoMnZaX3Z2bGpXaFhDNmlXWFczUno0OVRIRjh0MGktQXNKLXRWZDE1WGdkeWhFVW4zRzhWS2tDc1Z5S2RxbWd2SkhPUnJQSQ?oc=5"
       },
