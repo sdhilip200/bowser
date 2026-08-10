@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-10T18:11:40+00:00",
+  "generated_at": "2026-08-10T18:56:20+00:00",
   "fx": {
-    "nzd_per_usd": 1.698475,
-    "as_of": "Sun, 09 Aug 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.698185,
+    "as_of": "Mon, 10 Aug 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 83.55,
-      "latest_date": "2026-08-07",
-      "delta_1d_pct": 1.29,
-      "delta_30d_pct": 11.02,
+      "latest": 87.65,
+      "latest_date": "2026-08-10",
+      "delta_1d_pct": 4.91,
+      "delta_30d_pct": 21.75,
       "series": [
         {
           "date": "2025-08-11",
@@ -1010,14 +1010,18 @@
         {
           "date": "2026-08-07",
           "usd": 83.55
+        },
+        {
+          "date": "2026-08-10",
+          "usd": 87.65
         }
       ]
     },
     "wti": {
-      "latest": 78.18,
-      "latest_date": "2026-08-07",
-      "delta_1d_pct": 1.15,
-      "delta_30d_pct": 8.7,
+      "latest": 82.08,
+      "latest_date": "2026-08-10",
+      "delta_1d_pct": 4.99,
+      "delta_30d_pct": 18.56,
       "series": [
         {
           "date": "2025-08-11",
@@ -2018,45 +2022,49 @@
         {
           "date": "2026-08-07",
           "usd": 78.18
+        },
+        {
+          "date": "2026-08-10",
+          "usd": 82.08
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-08-09",
+    "as_of": "2026-08-10",
     "regular_91": {
-      "avg": 3.058,
+      "avg": 3.047,
       "min": 2.75,
       "max": 3.819,
-      "count": 61
+      "count": 70
     },
     "premium_95": {
-      "avg": 3.236,
-      "min": 2.916,
-      "max": 3.519,
-      "count": 36
+      "avg": 3.243,
+      "min": 2.876,
+      "max": 3.729,
+      "count": 33
     },
     "premium_98": {
-      "avg": 3.323,
+      "avg": 3.312,
       "min": 3.187,
-      "max": 3.419,
-      "count": 7
+      "max": 3.379,
+      "count": 3
     },
     "diesel": {
-      "avg": 2.734,
-      "min": 2.506,
-      "max": 3.099,
-      "count": 66
+      "avg": 2.724,
+      "min": 2.496,
+      "max": 2.949,
+      "count": 76
     },
     "lpg": {
-      "avg": 1.949,
-      "min": 1.949,
-      "max": 1.949,
+      "avg": 1.459,
+      "min": 1.459,
+      "max": 1.459,
       "count": 1
     },
-    "observations_today": 32,
-    "observations_yesterday": 128,
-    "observations_older": 11
+    "observations_today": 44,
+    "observations_yesterday": 131,
+    "observations_older": 8
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8578,14 +8586,14 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkdjbGk1UWFQZWdCNjJuN1BSTWNtWi1SNEZFSTd3b00zVVg2NDhOenpzajVWa2FRaHk2NlJCWmpCTm93aWFFdVljdDBYOS0weG10RkxsNVdGUFcyMEduSmNUakNpT2hmSFYwZjM5RDI3MWZLTGpQcDB2emdlNS1TbUx4VlVGZDY4?oc=5"
       },
       {
-        "title": "Air NZ passenger numbers fall as jet fuel price rises hit - RNZ",
-        "source": "RNZ",
+        "title": "Air NZ passenger numbers fall as jet fuel price rises hit - rnz.co.nz",
+        "source": "rnz.co.nz",
         "published": "Tue, 04 Aug 2026 00:03:05 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWmZwcjZucW4yZ1N5eHhMNWhUSy04YU9fVENtSk5UbVZBUmdGQzNOeTNob3kzOXBabjQ2LWYxVGkxMnhvVTFZZ1ZYaEZqSXBhZjlBbkt1WlI4YmFfN3lKY0dFMS1sS1dMMl9ucUZrcUtmR3hoRzYwM0dYTWJOU2tKV0h5YWZDcmg1UnNOc0Z3WUtkYVluQnNhazhNSURjQ0dpd3c?oc=5"
       },
       {
-        "title": "Oil price shock for New Zealand far from over - Westpac economist - RNZ",
-        "source": "RNZ",
+        "title": "Oil price shock for New Zealand far from over - Westpac economist - rnz.co.nz",
+        "source": "rnz.co.nz",
         "published": "Fri, 24 Jul 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMFFnUzVWcW1PTTJZbWZPdWp2eUlTcWJlMW1ZTFhUMDhrU3dVWXpaZUJaTkN0QXotQVBVN29EVUJwd3d3NEJ3eTgtU3NfUzJWZm00TXkwRV9MS2h2cHdudy1WSk5yTlB1TDdneG9NWW91ZzJaOGQ0ODhtelp2Z2I4SkZSTk9vakxFUFN4dzRpU2tBNjU4UFg1UUVmZkN3Wi1NSTFOZG1SNTQ4dw?oc=5"
       },
@@ -8602,8 +8610,8 @@
         "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNOVBXcUtMTWNoaTZmYTd6ajFqc0tURUY5eUtXdVpnV203Ty13b2RUZ3FodVhXN1VfZnZ6Wm1vOHM3cTdMWTJlOHRlR0dfTTIwMllRUi1HS2hobm10S0FzUDZPWk1wbzR5Y3lsSElEb1VIdm5GQUlsdGdpczE0NjlRTk5odGs1c0Y3VjY2dkdiQ05Fb2lSelNtbElsZzJPcGhzMUJ3MVpHaUNSR3JsbkVqaDNhRWFwS1ZVTVBSSkl2MkFQb041a3pFMmhwcnMwNmdIeU9OeDBUSHhIZFFuSE1hRi1kakFlMHRCaktkQnR1QjU3UHFJcGVFc2RtYw?oc=5"
       },
       {
-        "title": "Air NZ not ruling out more cuts to services amid jet fuel spike - NZ Herald",
-        "source": "NZ Herald",
+        "title": "Air NZ not ruling out more cuts to services amid jet fuel spike - nzherald.co.nz",
+        "source": "nzherald.co.nz",
         "published": "Wed, 22 Jul 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQnFWZHdRcUY1YjZvbkZIRDZ1M3VXRDIxaFNua2kxalI0cTJrUUk0c3RyemxFQWI2aXBDLW9vUEQ3MHoxUUcxNGNPdFZnYXg5SzVyYzdyblNaek5HcVdrQWk3T19DeW81am9HWEU1WlRreTk1SmR2aW00dTdSUmlIQnNOMmxtSm1zUGZWaW9VMTlUZi0tY092ODJacFBiWms0Z3lfT1dZRlk3RFptUnNUZFF1WjM5SVNXWG1LaTJIYTZaS1hCUTVLWEJaWjdmX0ppVEFadzFZWHVCcTA0Nm50NzVzVU15aFpMRTRwUGY0czkyOHJzRWxGNFFvU0F5dlVKT2hlcGZR?oc=5"
       },
@@ -8630,8 +8638,14 @@
       {
         "title": "Iran demands sanctions relief before reopening Strait of Hormuz - qz.com",
         "source": "qz.com",
-        "published": "Mon, 10 Aug 2026 17:18:49 GMT",
+        "published": "Mon, 10 Aug 2026 17:19:32 GMT",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PMnBURG91QUNNNFVtQ0hfTHR0bTB3Z1Jmem9FQ0RkY2dWbWZ0NkFhbTlwX2wxZ3VYeVl3bHM2cGZTQlZzTmRqVHN2OWJuWWtWX1Q5MlJGT2RXeE5lUWYyWGQ1N1lJdHF2S0k1NEpIUHBaaE82?oc=5"
+      },
+      {
+        "title": "Oil Prices Climb on Stalemate in Strait of Hormuz - The New York Times",
+        "source": "The New York Times",
+        "published": "Mon, 10 Aug 2026 16:51:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kaTlzT0xuU3NDWGYwbjJOY3lfV3d2NXpJTWE1emo5VlpodXJkcTVRbmlKZ1dmVUdvcWJoSElKY2ZpbkxiTmlJcUhPSDJTeU1KT3prT3o3TFlfZklabE94TXBsYXV1dzUxYnRwWU9QYXdqeGxJRFIw?oc=5"
       },
       {
         "title": "Oil Prices Surge 3% as Iran Adds Hormuz Conditions, Houthis Strike Saudi Refinery - TradingKey",
@@ -8640,22 +8654,16 @@
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYnlIMzlpX1hEeXdjekJhTHdPalIteVZvSEJqNnpsWG40X09DWllKRExxNGNtaEhSRGpkT1JZZF9qd2lXU0sydmVJZG1XamVNYXR6UnBOYVB0eTJ0QmUyQnRvTDN1bFllV2pkaVZUaG9FdmZuZkVIbTBkMDd5MTVVUy0xak1Uc3ZkUGhJamZ3RkduZXZzLU1aMVE0eW9VTVdOV1EtVGxNNGUtT05VRkk4OXBkb1Y3WGNwR0htMnMwaVpZbVFpZDItbFFEYUYwUjQ?oc=5"
       },
       {
-        "title": "Oil prices, stocks surge as Hormuz closure drags on - Al Jazeera",
-        "source": "Al Jazeera",
-        "published": "Mon, 10 Aug 2026 15:49:16 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWmdKQUJlWEFOdzdObFpaMGlIVFdDclZoenN3bUVxeFNQUnJ6ZV9wUFhtZG9WaThVUF8xV0Ntb1VnSE5rcy1UWkdFay01NE5YbjNnTWdoNzN3Z3J4MTJ2RXd4STI5UllqNVVrNUpGR2JiWm1HSHQ2YUEyX3VIbW1UZURBYWNBQTl2TllsTDBEMC16UW51dTNIQ3Fn0gGfAUFVX3lxTE5LSVZaX3hyYk9PS3Bjb1Z5NVNxWUhDS2ZmaVFlblhKYjFNZjJBRzFhREhFWXFVbnl4NmFNTlJ1YXlSam8ySjhvRVNGTUw2OUJOcHNLX1k0Q09tRTJJSWo0LWxTZFhmZmdNdTc5Zlo2RjBTSXFDZ2l3d2lXS3RWeVZ5UW9scU5mLU1Qc0JqZ2w3aHA5VzZVdE1PUFAyRGdETQ?oc=5"
+        "title": "Crude Prices Soar as Middle East Tensions Curb Global Oil Supplies - Barchart.com",
+        "source": "Barchart.com",
+        "published": "Mon, 10 Aug 2026 15:35:12 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVjkwbHlCVTVldFd5VmlFLVkwQ3NLNVdfUWxzaGVQNWtDOEFtRThlWUo4bnlZckJEeUtZUF9zN3JSN1ZTdURweFM2OTZtVVdRS2thc3g4UGlzMVB0UnFWRGxUak5obmdSOGhaVEFVSXBCZGg0V2toUExvZWVTT2RSSnVyRlVNUVdFZGNmR1E2Y29XaEl0dm9QbjloX2p2Ni1jOFcyX20yWXpOa29RQ2Y4?oc=5"
       },
       {
         "title": "Oil spill off Oman from tanker under sanctions against Russia spreads over huge area - NBC News",
         "source": "NBC News",
         "published": "Mon, 10 Aug 2026 14:44:21 GMT",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZHhWTVp0ZVVza2EwVTRuTzJ6WUMtOXZ2TGdhc2d5dGtCSFQ5LUpqNXhNUGxkVlhOaXZtZlctdkgybmdqY2t0Zklsc2FRSGh0TkxQMXphQ19xZW0xU1BQamNQQWR4OUM2SklWZGlWeDItcGdIQjhBakh3NlVwRmphVlZZeWdWTGNzbnZHTk40dHdSOFNnOU5xRGNXRmR6TG10cUJsOU9WcG56aldTdGc?oc=5"
-      },
-      {
-        "title": "Oil spill off Oman from tanker under sanctions against Russia spreads over huge area - SRN News",
-        "source": "SRN News",
-        "published": "Mon, 10 Aug 2026 14:39:44 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDQtYUtRaEUzMTl5ZWVyeFBXTHY2T1VrdnhZZ1AteGpjbV94amQzSlN5ZFpwNTJiQ1U3MjZjZnBnUWtSM3B4SkNhLU0zd1BtemNlWlFicTUwUXQ0REpZczRHVGJSMUZkSWlscXB3aVctekkxQmViaG1IUmFjd3FCMGJkMnIzQU5kcVMzV1REMmFTeXc5RTltekw1NmMyMTdCWW53YzF1R1I?oc=5"
       },
       {
         "title": "WTI, Brent Crude Jump More Than 4.5% as Hormuz Reopening Talks Stall - bloomingbit",
