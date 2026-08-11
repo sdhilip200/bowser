@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-11T18:38:38+00:00",
+  "generated_at": "2026-08-11T19:01:08+00:00",
   "fx": {
-    "nzd_per_usd": 1.698185,
-    "as_of": "Mon, 10 Aug 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.699083,
+    "as_of": "Tue, 11 Aug 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 87.65,
-      "latest_date": "2026-08-10",
-      "delta_1d_pct": 4.91,
-      "delta_30d_pct": 21.75,
+      "latest": 88.82,
+      "latest_date": "2026-08-11",
+      "delta_1d_pct": 1.25,
+      "delta_30d_pct": 21.42,
       "series": [
         {
           "date": "2025-08-11",
@@ -1013,15 +1013,19 @@
         },
         {
           "date": "2026-08-10",
-          "usd": 87.65
+          "usd": 87.72
+        },
+        {
+          "date": "2026-08-11",
+          "usd": 88.82
         }
       ]
     },
     "wti": {
-      "latest": 82.08,
-      "latest_date": "2026-08-10",
-      "delta_1d_pct": 4.99,
-      "delta_30d_pct": 18.56,
+      "latest": 83.16,
+      "latest_date": "2026-08-11",
+      "delta_1d_pct": 1.25,
+      "delta_30d_pct": 17.54,
       "series": [
         {
           "date": "2025-08-11",
@@ -2025,46 +2029,50 @@
         },
         {
           "date": "2026-08-10",
-          "usd": 82.08
+          "usd": 82.13
+        },
+        {
+          "date": "2026-08-11",
+          "usd": 83.16
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-08-10",
+    "as_of": "2026-08-11",
     "regular_91": {
-      "avg": 3.047,
-      "min": 2.75,
-      "max": 3.819,
-      "count": 70
+      "avg": 3.037,
+      "min": 2.829,
+      "max": 3.359,
+      "count": 64
     },
     "premium_95": {
-      "avg": 3.243,
-      "min": 2.876,
-      "max": 3.729,
-      "count": 33
+      "avg": 3.169,
+      "min": 2.799,
+      "max": 3.529,
+      "count": 25
     },
     "premium_98": {
-      "avg": 3.312,
+      "avg": 3.302,
       "min": 3.187,
-      "max": 3.379,
-      "count": 3
+      "max": 3.419,
+      "count": 6
     },
     "diesel": {
-      "avg": 2.724,
-      "min": 2.496,
-      "max": 2.949,
-      "count": 76
+      "avg": 2.722,
+      "min": 2.506,
+      "max": 3.109,
+      "count": 79
     },
     "lpg": {
-      "avg": 1.459,
-      "min": 1.459,
-      "max": 1.459,
-      "count": 1
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 44,
-    "observations_yesterday": 131,
-    "observations_older": 8
+    "observations_today": 48,
+    "observations_yesterday": 116,
+    "observations_older": 10
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8624,6 +8632,18 @@
     ],
     "global": [
       {
+        "title": "September WTI Crude Oil Contract Closes Up $1.07, or 1.3%; Settles at $83.20 per Barrel. October Brent Oil Last Seen Up $1.12 or 1.3%, to $88.84. - marketscreener.com",
+        "source": "marketscreener.com",
+        "published": "Tue, 11 Aug 2026 18:44:54 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeFdrOUU2eUFWOFlFTUkwd1ktOVgxeV9TVk9iYlVvczM3cXhBTVR5eUVLbTEtTEdfQk5oenFpZUtWZjJuVTZmS3dTTGgzSlFwTk1SX3Z6QWw4N2lqcWUxbjBRd19rYnc0bkJBSHp2WXoydWdBSnNMcWdTa2EzSU5Zek5MVG1WbGxyVmd3QVhFbjR1OW1qc1ZxUmE0TU9rRXlLYjZuLUZkd0xiYlFZZ2F0MTdaVlFYTzNwV1c3T2xGVlJFOTZmSjkwemZpMUJwbS1DZHpJU0ZRZEZtdVVHS0dISA?oc=5"
+      },
+      {
+        "title": "WTI Price Forecast: Buyers defend 21-day SMA as bullish bias holds - FXStreet",
+        "source": "FXStreet",
+        "published": "Tue, 11 Aug 2026 18:12:38 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM2FWZXNKZklZS0VQMVpydmRzdW0xaWVQZUZ6dk8yYzhreDN1aG1RRlJqaURWeER1VGRmWmM3OENjdktfeGZ6M0ljMHdDblhJeXhiUWxoQUtiRjRPRHcwVEJrWGN5NVlITnhicV9zV1l4ckg1emlaeWF1dUtONHBHalRPYkRHN0laTF8wZ0d0Ml8zWGF4MXZpRU1VMTRPZTNKYmlQb0lIc2ROY3Qx?oc=5"
+      },
+      {
         "title": "Brent Nears $90 as Hormuz Talks Stall: What It Means for Mining Operations - Crux Investor",
         "source": "Crux Investor",
         "published": "Tue, 11 Aug 2026 18:11:15 GMT",
@@ -8632,12 +8652,12 @@
       {
         "title": "EIA raises crude oil price forecasts as Middle East supply risks tighten outlook - investingLive",
         "source": "investingLive",
-        "published": "Tue, 11 Aug 2026 17:21:30 GMT",
+        "published": "Tue, 11 Aug 2026 17:22:18 GMT",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMmRRNHZLc0pHeDZkcGxBcm53Y1N5YXgyOWx5cThlWWFlZlFValBMSXNfLXBicnoxRlBjUjFMQncxams0a1BaaW5lQ2ZOMVVFSnhEWnRCYTFidXk1U1VHdnJPdnZSTGNZOEhtRXR4TmxNNzBPWDJyTFRlN0NXU3dYdHNMR0JUdC15YXZkQURucXNkOElPcGZCdTFOQmczUVYxUGNWS2JGR1ZNWm1pQ0VlVExn?oc=5"
       },
       {
-        "title": "Russian Crude Exports Drop to Lowest Since May - oilprice.com",
-        "source": "oilprice.com",
+        "title": "Russian Crude Exports Drop to Lowest Since May - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Tue, 11 Aug 2026 16:30:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZXNkc0VmYVMwbnk2aFk0bjJxblVwVkpEbGpHRG4zVzBGRnZsWExnYkd3MjgxSi1tNGZZM3lIdzZEcFlWd3NsNF80Ri1NYVNpWUtuaEVQbk95T2hGdTNSaHZQMTJ2YmNKMXU0SUhMd0kyc3RHZUVCbnBJbVhLWlNraG9FcXY3SVF3VWlkMnI3QnJ0TEh4SXVOOVNpX1Rjc1FZZlNBS9IBqgFBVV95cUxQMEhoVTZwaVVBY0I0a240eHVsc3NVTC1HT2RRYjRteFRZVDBnbk51a2x6S0s4cTVHSm5MWlVXcUU4a08yY3c5TVhyX3NLTU9pcjBLd3RwdVpvNk85ZVJDU0lZd2NSS1FVMUEzMHl0RFZnaGE1S1N0UXF1SlRlZTAzVHB5aWJqWGY5cUdEcmpHNDhjZG1wWTE0c2dqdGJZbmpxeGJ6X0R6bHRLZw?oc=5"
       },
@@ -8654,22 +8674,10 @@
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRnpVTlc5WDU3ZUFOMTJjSFRLNGFCWUItblV4clc0UnVXUi05VVBaRkFleHpsdWtmcl9YZDRtN3BkaDhqUy1PTWx1aDhjalNDc09RNGh5eDFYN2FnTGxraUlhRWtFUnl0UTJrbV82Yi1CaFEyNmNwaHlvQVdobElUNEZVaw?oc=5"
       },
       {
-        "title": "Brent Could Hit $100 as Hormuz Crisis Flares Again - oilprice.com",
-        "source": "oilprice.com",
+        "title": "Brent Could Hit $100 as Hormuz Crisis Flares Again - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Tue, 11 Aug 2026 14:52:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVF91azZYQi10djcxeWx6eG51ZERmV01tZU9HSUtGYXlpbVZ2NFVDZWgzMG1xNFRWeDB3UDFhbEN5UGZ0T0pPQ1hoVlEzdVRES2l6TjZWcm1lRTFJV2lBWG5xanp3U1hVNURIVTJqVm9XSEJlZ1poSWlZb01fMUdNZTJvNi04TmE0LWhsX1lrd1c1VXM2aXhGUEd4YkNkZ9IBowFBVV95cUxNdzlpaEdMZ24wd1haMmpNNHF1OU5lMVFwNGZiX0JPS2lEdHA4VTI1UHVxMVZ1bFNPcmhIWFRjcUl5M3FUNkIwQnNId2YzZVl0enJPVEJPQkVoTWMtd3pBTkJTZFhydXlrRHhmM3EtMG1WWnlIQkI0R3R1XzN5MHFiZlNzTDhwWXlqYXJYUWtWbjZWVlFfcjJ0SlZJakxqSnhNcDlR?oc=5"
-      },
-      {
-        "title": "India Still Favors Russian Oil Despite US Sanctions Bill - Energy Intelligence",
-        "source": "Energy Intelligence",
-        "published": "Tue, 11 Aug 2026 14:26:15 GMT",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jM0VLMk5Uc2w0cHZmRDBtYmNrQi1mNHJ3SExrMXlvYkRDSUFOa1dTdjJpRTRGd2ZCWEtTalpjRHVvbkxMUm9GSXBsR09nRHFvX1RvcHBTcThPUktyZFRYR3ZXeU95ZWF1dkZQb1c2Nzdadw?oc=5"
-      },
-      {
-        "title": "US House Moves on Sweeping Russia Sanctions Bill After 86–11 Senate Vote - Kyiv Post",
-        "source": "Kyiv Post",
-        "published": "Tue, 11 Aug 2026 13:58:07 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSOUlETnYzc01CeHhUSENLXzZYNWxZTDVxV29BMXZtS1plVHE1emQ3M2NVcm1vUGdwNkxHSEROb1VZX3d0d1VOeU5aTQ?oc=5"
       }
     ]
   }
