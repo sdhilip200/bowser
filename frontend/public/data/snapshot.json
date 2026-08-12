@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-08-12T18:39:44+00:00",
+  "generated_at": "2026-08-12T19:01:01+00:00",
   "fx": {
-    "nzd_per_usd": 1.699083,
-    "as_of": "Tue, 11 Aug 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.700489,
+    "as_of": "Tue, 11 Aug 2026 23:57:32 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 88.82,
-      "latest_date": "2026-08-11",
-      "delta_1d_pct": 1.25,
-      "delta_30d_pct": 21.42,
+      "latest": 88.83,
+      "latest_date": "2026-08-12",
+      "delta_1d_pct": -0.09,
+      "delta_30d_pct": 21.82,
       "series": [
-        {
-          "date": "2025-08-11",
-          "usd": 66.63
-        },
         {
           "date": "2025-08-12",
           "usd": 66.12
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-08-11",
-          "usd": 88.82
+          "usd": 88.91
+        },
+        {
+          "date": "2026-08-12",
+          "usd": 88.83
         }
       ]
     },
     "wti": {
       "latest": 83.16,
-      "latest_date": "2026-08-11",
-      "delta_1d_pct": 1.25,
-      "delta_30d_pct": 17.54,
+      "latest_date": "2026-08-12",
+      "delta_1d_pct": -0.05,
+      "delta_30d_pct": 19.65,
       "series": [
-        {
-          "date": "2025-08-11",
-          "usd": 63.96
-        },
         {
           "date": "2025-08-12",
           "usd": 63.17
@@ -2033,36 +2029,40 @@
         },
         {
           "date": "2026-08-11",
+          "usd": 83.2
+        },
+        {
+          "date": "2026-08-12",
           "usd": 83.16
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-08-11",
+    "as_of": "2026-08-12",
     "regular_91": {
-      "avg": 3.037,
+      "avg": 3.044,
       "min": 2.829,
-      "max": 3.359,
-      "count": 64
+      "max": 3.339,
+      "count": 69
     },
     "premium_95": {
-      "avg": 3.169,
+      "avg": 3.198,
       "min": 2.799,
       "max": 3.529,
-      "count": 25
+      "count": 26
     },
     "premium_98": {
-      "avg": 3.302,
-      "min": 3.187,
-      "max": 3.419,
+      "avg": 3.319,
+      "min": 3.186,
+      "max": 3.409,
       "count": 6
     },
     "diesel": {
-      "avg": 2.722,
+      "avg": 2.724,
       "min": 2.506,
       "max": 3.109,
-      "count": 79
+      "count": 81
     },
     "lpg": {
       "avg": 0.0,
@@ -2071,7 +2071,7 @@
       "count": 0
     },
     "observations_today": 48,
-    "observations_yesterday": 116,
+    "observations_yesterday": 124,
     "observations_older": 10
   },
   "mbie_waterfall": {
@@ -8600,6 +8600,12 @@
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWmZwcjZucW4yZ1N5eHhMNWhUSy04YU9fVENtSk5UbVZBUmdGQzNOeTNob3kzOXBabjQ2LWYxVGkxMnhvVTFZZ1ZYaEZqSXBhZjlBbkt1WlI4YmFfN3lKY0dFMS1sS1dMMl9ucUZrcUtmR3hoRzYwM0dYTWJOU2tKV0h5YWZDcmg1UnNOc0Z3WUtkYVluQnNhazhNSURjQ0dpd3c?oc=5"
       },
       {
+        "title": "Fuel Prices Ease Across Several Pacific Island Nations Despite Ongoing Supply Pressures - Scoop - New Zealand News",
+        "source": "Scoop - New Zealand News",
+        "published": "Mon, 03 Aug 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcGhhZlNJdGo4NDAwc0ViNHZnLWh3bjVFandwMHZqMHJ5WEFzYmVPaF9qaEswR0tXT2xXNk9lMlAzcVk5VDRnS1pVM0RsaGVVbi1pOENuNVVwQklNdGhvRkNhQjJyZTVrVjN4NjJOMU9ya3hqR2pvbkZtU2J1dlh1bS1MUXNsSEJld0lDaDdxVjd2YnVOS2ctWVhaUnU3VVc5ZTJuTWp5TGM2OWQyUlZiVlgtdURHdk9NVmI5dTdpcUJFS3FvQlNZR0JpM3U2RGlaWlBj?oc=5"
+      },
+      {
         "title": "Oil price shock for New Zealand far from over - Westpac economist - RNZ",
         "source": "RNZ",
         "published": "Fri, 24 Jul 2026 07:00:00 GMT",
@@ -8612,30 +8618,30 @@
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQUI5U2JmSXhSNnF5aDh5b21Uek5lX0xtRDVVeW9DTlVmcjdxMWtMWE80cTRGdGVzNjRoWFlRZ0V2VzIyUTA2elJMUXlHcUE4eU5RWXYwbkhBOVZVR09PMERya2gtOUdSbFF6VUNFX1gyelQ3Um93YklKQm9QeVdhdE8zbFhYYzVxTW5JTmxCMnNMQ3V6T1hEUFJ3bDBvV3BkcHlpQ3M1dWxXVThjNlVVYnFwaWFkRmQyTU9pMkpRSjFMdC1QeFBVb0wxYkp6eVE?oc=5"
       },
       {
-        "title": "Air NZ confirms flights through October as jet fuel prices spike overnight - Newstalk ZB",
-        "source": "Newstalk ZB",
-        "published": "Thu, 23 Jul 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNOVBXcUtMTWNoaTZmYTd6ajFqc0tURUY5eUtXdVpnV203Ty13b2RUZ3FodVhXN1VfZnZ6Wm1vOHM3cTdMWTJlOHRlR0dfTTIwMllRUi1HS2hobm10S0FzUDZPWk1wbzR5Y3lsSElEb1VIdm5GQUlsdGdpczE0NjlRTk5odGs1c0Y3VjY2dkdiQ05Fb2lSelNtbElsZzJPcGhzMUJ3MVpHaUNSR3JsbkVqaDNhRWFwS1ZVTVBSSkl2MkFQb041a3pFMmhwcnMwNmdIeU9OeDBUSHhIZFFuSE1hRi1kakFlMHRCaktkQnR1QjU3UHFJcGVFc2RtYw?oc=5"
-      },
-      {
         "title": "Fuel prices could rise 15c a litre within days as Middle East conflict rattles oil markets - Stuff",
         "source": "Stuff",
         "published": "Thu, 23 Jul 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdjhhSmpvVEZCWWY3Y3o5NzNKUzFOelNZVHBvb2Y4c0JxQlhBWXNzQWE4Nk1ma3MxTHoxLUoyaW5YeU1fZjRUS0l2ejVCbnFCTU1BRnB3eG9xLU9USzJ3Z2ZHNkg3akMyZlNMemtPaDY0NmxxMFU1alZZUzdRRzd4VGVOXzVqekZqNFR2STZHM05INDExSVpla2NqRXBST19HakVEYUV3eDljVkxRbkRwRjllbDJ1ekJHU05qWWx1TFhCN3NWSUVR?oc=5"
       },
       {
-        "title": "Air NZ not ruling out more cuts to services amid jet fuel spike - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Wed, 22 Jul 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQnFWZHdRcUY1YjZvbkZIRDZ1M3VXRDIxaFNua2kxalI0cTJrUUk0c3RyemxFQWI2aXBDLW9vUEQ3MHoxUUcxNGNPdFZnYXg5SzVyYzdyblNaek5HcVdrQWk3T19DeW81am9HWEU1WlRreTk1SmR2aW00dTdSUmlIQnNOMmxtSm1zUGZWaW9VMTlUZi0tY092ODJacFBiWms0Z3lfT1dZRlk3RFptUnNUZFF1WjM5SVNXWG1LaTJIYTZaS1hCUTVLWEJaWjdmX0ppVEFadzFZWHVCcTA0Nm50NzVzVU15aFpMRTRwUGY0czkyOHJzRWxGNFFvU0F5dlVKT2hlcGZR?oc=5"
+        "title": "Air NZ confirms flights through October as jet fuel prices spike overnight - Newstalk ZB",
+        "source": "Newstalk ZB",
+        "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNOVBXcUtMTWNoaTZmYTd6ajFqc0tURUY5eUtXdVpnV203Ty13b2RUZ3FodVhXN1VfZnZ6Wm1vOHM3cTdMWTJlOHRlR0dfTTIwMllRUi1HS2hobm10S0FzUDZPWk1wbzR5Y3lsSElEb1VIdm5GQUlsdGdpczE0NjlRTk5odGs1c0Y3VjY2dkdiQ05Fb2lSelNtbElsZzJPcGhzMUJ3MVpHaUNSR3JsbkVqaDNhRWFwS1ZVTVBSSkl2MkFQb041a3pFMmhwcnMwNmdIeU9OeDBUSHhIZFFuSE1hRi1kakFlMHRCaktkQnR1QjU3UHFJcGVFc2RtYw?oc=5"
       }
     ],
     "global": [
       {
-        "title": "WTI holds firm as Strait of Hormuz concerns outweigh sharp US inventory build - FXStreet",
-        "source": "FXStreet",
-        "published": "Wed, 12 Aug 2026 17:19:34 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbjB2NW83RXVjMFNIS0wwbHFzUTMtN3I3WlFkc042dUtPa2QydlotbWxwRjdoQnJzX3g0QnZkLV9lRXNYWDB2TWRIMWQxSkFFeklZVTQ5VFIwS1ZXeTRCaU1qVmhPYktGSHVETlJTZkR0TGZIa2pDbVU4Z0I0NXJ2eWRXOWoxazlVZWhva3lBQWx3VXRpMUpiVFZJQThZbmduZURvWGpfSVRacHp6cTZCOWxCTFo5TEtEYW0zWg?oc=5"
+        "title": "Sanctions Halt Half of Russia’s Shadow Fleet Oil Tankers - mezha.net",
+        "source": "mezha.net",
+        "published": "Wed, 12 Aug 2026 18:56:59 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpNS1NZzBmN1VCalVTUlVjczZCaXFfQjlMeVVVQjV5MUZCNnF5VzE2N3UwZUJBWEhGTTg1OUh3RUhQWHhWSWhybGw1bmhHSWUtOWtVU2xRVENvVXBxZEw0NmdMTzNRMFVp?oc=5"
+      },
+      {
+        "title": "September WTI Crude Oil Contract Closes Up $0.07, or 0.1%; Settles at $83.27 per Barrel. October Brent Oil Last Seen Down $0.16, or 0.2%, to $88.75 - marketscreener.com",
+        "source": "marketscreener.com",
+        "published": "Wed, 12 Aug 2026 18:37:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZG9pTmg1WGxzUEhPUEQ4US0yZzM0Y1RfQ0RtNEE4bVpLcmJ4U0R5QThlNXRKVnVlR0pqcHo4RmJ5UzZhV0ViaDFpRUI5VjBENExQb2FEMG9wVC1Nd2IwcGVpNmRvWDZ5LUotNDhRN1IzMmJuYnhacGl1cTVXTVRqLTUxbE9LM3VDVVFTMS01NHFMZ1dvcVZmNnRiMjh1X0gxZFRLX19SMmVUdllpS055bVFVSnZVa0ZNRS1CQ2FfR2RFNk1QbFVDY0VRMnFLb0xzOHozNlJfdzQya2tBUmVXYQ?oc=5"
       },
       {
         "title": "Crude Prices Ease on US Crude Oil Inventory Surge - Barchart.com",
@@ -8650,8 +8656,8 @@
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRS01dW5wYzRVbVJ1cGNtenIwcnFvYUdSdjFaQlBEMHBwa19Db3lzNlVqRnVrcjFjZE1ieU1XZGRUYmpMTHE5UElWdmZ6VGllUjhYSnQ0X1VSMlJmbFZBY3o0eFRZbVZkclV1d3d4ZWdTVnk4U1h2a256QWFBSlluMm5VTDUwdXRObFVhZmlmWXN3RlVQalZRQ29ueUFicXktTWF6M3gtM3VzR0xob080SlhaendHblBBd2tuWXVwakhvdjFvUzBuSThZQ3NqaDFSWl9XSQ?oc=5"
       },
       {
-        "title": "EIA Sees Massive Uptick in US Crude Oil Inventories - oilprice.com",
-        "source": "oilprice.com",
+        "title": "EIA Sees Massive Uptick in US Crude Oil Inventories - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Wed, 12 Aug 2026 14:38:18 GMT",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUmhLQXBQNlA0SFdTZFhPN3NTX3phU3doUjBxTnc3VHJlSXVJZE1ZZ09HREpIYm5TN1RpLWNQRjU2dGpTV0RGWm5BVm02OURTY0ZhNVhDeWZSckdfaWNGMFlmZWFBU3RZU2xqczkxLW9YeUtObHVGM2lxU1BrRFR4SENGMDFzc2U4OTgxdWdTNnMxQmp5UnVzWHVB0gGfAUFVX3lxTE1WZFhVdnJIMGFVTVFjdER1LTRvTjVPWS1fTFozZ0RXaGh1RXJmeVRhTkVmN0hsTHd6Y1RhZ2lhZ3plaW15bHRueWVpZjZJbTcxa29wRG5NYUZBSWJ5WXlJdFNmcnFxVTRFRXdWOVRGNlFUR1dKejVCUUZHWUZPZm9OZXRDdlNiWXZHWlBTcElpSWdTcjNYQnh6QjdUeGZ5dw?oc=5"
       },
@@ -8672,12 +8678,6 @@
         "source": "Energy News Beat",
         "published": "Wed, 12 Aug 2026 14:03:08 GMT",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNnVrZkIyLUhwOUdBa0VkTi1JbFBjZGVyaF9WN2c2dXppWkNHcXV0ZHpQVHJjSEVmNWFCS25SSDAzMzExYWYyTWZORnVfTEpVZFhDMmtDTFNGa3UtMDhxN3ZJSUYtOElYWG94bVNNN240bVkxQW9ueGJfcW05ZGF6Zkw5MkxESDVfeHpSczdselVIVGpSYV9WUW9XVQ?oc=5"
-      },
-      {
-        "title": "Oil prices rise amid strikes on vessels and a deadlock in talks with Iran - Українські Національні Новини (УНН)",
-        "source": "Українські Національні Новини (УНН)",
-        "published": "Wed, 12 Aug 2026 13:45:53 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTGc2WlgtTTVUMDhVMEpwZEVsSDRudDA1US03bHFGMDJHdTlTS2p5eGYxOUk2SXhrYk1JVnFmX3p0ZnJsLVAzQ1RDMlc2enprcEowak9RWEJPZEd1Vll1ZkRoVnljME4xdkJpREhacjR6NXoydjlXZlcxZHBNcklFelVWbXh0Rkx0RTE0WV81VVU4cE53eXhHVXcyaG9zZ9IBnAFBVV95cUxQQzhwVFlLOUpSZ1JLYWozaFhsVXhDQ0NQWDVVYWpQWXN6aGlLM0VIR3lLQlFidjhjLVZBazhDZF9BbmdPMGY1ZFJucHZvSVV2djdTekd6djZMVGloTUN0RGdIZVpva1JHYTlvcVQ3TTJBalgwRUU0azRlbHpZTENBT3huWFRiVE5rNC1BMXdKekZhMlM3c3JFSmdZaTk?oc=5"
       }
     ]
   }
