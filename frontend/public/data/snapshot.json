@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T19:01:45+00:00",
+  "generated_at": "2026-08-13T19:45:34+00:00",
   "fx": {
     "nzd_per_usd": 1.706012,
     "as_of": "Thu, 13 Aug 2026 00:02:31 +0000"
@@ -8582,8 +8582,8 @@
   "news": {
     "nz": [
       {
-        "title": "High Fuel Prices Expected to Slow New Zealand's 2026 Economic Growth Without Derailing Recovery, ANZ Says - moomoo.com",
-        "source": "moomoo.com",
+        "title": "High Fuel Prices Expected to Slow New Zealand's 2026 Economic Growth Without Derailing Recovery, ANZ Says - Moomoo",
+        "source": "Moomoo",
         "published": "Thu, 13 Aug 2026 04:41:19 GMT",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX1BRZ011SEZtWExFR1JmR1AwalhXVHZva1NjaHhLc0xpNWJLLW4wTi10emR5WjM0QW1WbzlKY1I1WEZVOFVPbnRmWlEwaTBxb0tUTC1KZm9VdmVaRi1nWm95ZHdhNTFfRHp5dGQ5d3ZZYTNYdUhDWVc2bXAyT0JxR2R3Z1BqTHBEOWVKQUYtTnhKOTVUZ1RuQ3lR?oc=5"
       },
@@ -8632,6 +8632,18 @@
     ],
     "global": [
       {
+        "title": "September WTI Crude Oil Contract Closes Down $2.02, or 2.4%; Settles at $81.25 per Barrel. October Brent Oil Was Last Seen Down $1.70, or 1.9%, to $87.28 - marketscreener.com",
+        "source": "marketscreener.com",
+        "published": "Thu, 13 Aug 2026 18:39:16 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOU3BBTnhDd0l5Z0xPMkh0QkhDRU5aR1BxOFJhNElvMGJOTkJENGVrUW9STjdmYW9RNnBKS19JdnhHM1BpTjVvNFYxMC0zWEFUNGtfTGpvc3RKTzZsc3poVG5nOWlZU0NsSTZOMDNPem9KOTBlUkU1WkhVZjVsUVFRYTlPb2xKbEI1NUVzSzhnRXFDU0p1eXZtaGdkc3ZydU9iVmtEMml3aEQxQ0VXRkk1aGdkSk5BaFJEc0ZYUlBFOUtacGZMOHFYTFgyUlVncVBkT1kwMFJyd2l4Mm1WMXU3Yw?oc=5"
+      },
+      {
+        "title": "An Influx of Middle Eastern Oil Is Finally Hitting American Shores - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "published": "Thu, 13 Aug 2026 17:18:59 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMGVjR1c3ODNDclZaczhvcUNrTmFDa1JpcjQ5WGw0VTRvUDFZR0FnT1J2dUk1RksxMGNIM1FxUFM1aW8xZTFsaUdiWXR5U3diNkhmaDF1LVRVRUJPcHpUWTU2akF0cWtpX2poTE9UZ2pHYUt3STFXSmxCTVVFQ2RnUjk2YlJCc2pibFJtLUNjSURkTjl4MVJOQjVmYnd6Z3NhTHhVWW52NU1rbDUtRWQ2QTdBR00?oc=5"
+      },
+      {
         "title": "IEA revises down its supply and demand forecasts - Oil Review Middle East",
         "source": "Oil Review Middle East",
         "published": "Thu, 13 Aug 2026 16:10:35 GMT",
@@ -8644,8 +8656,8 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNW9Ya09jY1lsaTVQLW9iY0dTcmNiYkxWaFA3ckxmd1I0Mm1BZlIyNGxRTXpqZlBKWHEyVmxQOS1uMVJWeWRUdGFFak4tbWxtVDZlRXlvbzk1QkxYbTFkNG1pMFBXQUpHRk9udzJIM2hzSmxfTDI3NXJBOEVucmVxeklmWTRlR2FCc0Jxb3VjZFBGTzMwUHJmVHNuc2x0Ti02YlVUTkFZZEtPMlZM?oc=5"
       },
       {
-        "title": "Hormuz Stalemate Raises Risk of $120 Oil - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
+        "title": "Hormuz Stalemate Raises Risk of $120 Oil - oilprice.com",
+        "source": "oilprice.com",
         "published": "Thu, 13 Aug 2026 15:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEp0VnRYWDFDVlJqblBaSEpvSXlKNGE2d0tXd1VPc0tvWndUSVltRFFDOHlNVVVtOHFsaXZwMnlaUnpQYlF4b1VmMzRuNmVPVWs4bjNhX0VlOEEyVWZaOEhuY2hEN2YtLVI2Sm8wT3pMUUNkaVJ3U1hrcTdaTDZPNlc0dzd3WUx2NGtN0gGQAUFVX3lxTE5FZDBpRmxXelJMamx6dVJXdEp5MVFiYmp1VEhXdUlRbDVDbzQ2b3E4aVVqQUthM1BkYkU4elRQOW52TkRsYXRTVGRPR18xNmdJYnpFczVyRFg3SVllUkxYRGJvMDBZbENCLTR6X01kd3poOWMwUWd4NVJ3NWVKU3lvMDliMU11RDZ2bWxmbmdQbw?oc=5"
       },
@@ -8666,18 +8678,6 @@
         "source": "Global News",
         "published": "Thu, 13 Aug 2026 14:25:02 GMT",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HcG5rNUVLX1dJM0k3elZHWE4yLVpRMlgxLWZpZzhrX2JFbFRRVHBDTGlwd2xINTB1NzhtaHFkZUVaWlVYZnZxQVBlZG9OUklTdnV4WmtjcXdmNEJVNE5PaC14TjlqMWdCNWc?oc=5"
-      },
-      {
-        "title": "Oil prices ease, helping to limit worries about inflation - Transport Topics",
-        "source": "Transport Topics",
-        "published": "Thu, 13 Aug 2026 13:56:14 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YRk9TcGx4NklYdEZmZ3hUZjhOTVZEUy1Sc1ZxMDBBZlNZcW00bWw5bWdfcERnbU1ESW9fbm5KWFM0NG1BNWVGSGJsaWt2WDlzOHlfUE5fRFZlSS1oTWExeE5CbVpHZmtN?oc=5"
-      },
-      {
-        "title": "WTI Crude Oil Outlook – Will Middle East Supply Headlines Force a Breakout Above EMAs? - FXEmpire",
-        "source": "FXEmpire",
-        "published": "Thu, 13 Aug 2026 13:31:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZWtkdml6aVVqd3FiZ204cWJJUmlKNWxzUkozNlZ0LVlVMlhNa210Ny03dUpkMlVvb1lPNVJfcy12MWtUYnpaWTNkRkR0SHNic2h5OGk5VklTSHBXS1E0MnVJNU94U3pidkltQlppUW1mTGRpUmZFZFVDNXc0LUdUNlpvYUlKOFEtT3ZCa3NaZDg3cVQzV216YkFMY3k4VkQtRU5fSURvRlFJd3U5MmtOZlhTUVJ4UFpYdjBNT1pjTy15UktROTVLTEV6VGFlMGc?oc=5"
       }
     ]
   }
