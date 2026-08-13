@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-08-13T18:40:17+00:00",
+  "generated_at": "2026-08-13T19:01:45+00:00",
   "fx": {
-    "nzd_per_usd": 1.700489,
-    "as_of": "Tue, 11 Aug 2026 23:57:32 +0000"
+    "nzd_per_usd": 1.706012,
+    "as_of": "Thu, 13 Aug 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 88.83,
-      "latest_date": "2026-08-12",
-      "delta_1d_pct": -0.09,
-      "delta_30d_pct": 21.82,
+      "latest": 86.93,
+      "latest_date": "2026-08-13",
+      "delta_1d_pct": -2.3,
+      "delta_30d_pct": 21.46,
       "series": [
-        {
-          "date": "2025-08-12",
-          "usd": 66.12
-        },
         {
           "date": "2025-08-13",
           "usd": 65.63
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-08-12",
-          "usd": 88.83
+          "usd": 88.98
+        },
+        {
+          "date": "2026-08-13",
+          "usd": 86.93
         }
       ]
     },
     "wti": {
-      "latest": 83.16,
-      "latest_date": "2026-08-12",
-      "delta_1d_pct": -0.05,
-      "delta_30d_pct": 19.65,
+      "latest": 81.1,
+      "latest_date": "2026-08-13",
+      "delta_1d_pct": -2.61,
+      "delta_30d_pct": 18.26,
       "series": [
-        {
-          "date": "2025-08-12",
-          "usd": 63.17
-        },
         {
           "date": "2025-08-13",
           "usd": 62.65
@@ -2033,45 +2029,49 @@
         },
         {
           "date": "2026-08-12",
-          "usd": 83.16
+          "usd": 83.27
+        },
+        {
+          "date": "2026-08-13",
+          "usd": 81.1
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-08-12",
+    "as_of": "2026-08-13",
     "regular_91": {
-      "avg": 3.044,
-      "min": 2.829,
-      "max": 3.339,
-      "count": 69
+      "avg": 2.984,
+      "min": 2.716,
+      "max": 3.589,
+      "count": 68
     },
     "premium_95": {
-      "avg": 3.198,
-      "min": 2.799,
-      "max": 3.529,
-      "count": 26
+      "avg": 3.112,
+      "min": 2.736,
+      "max": 3.387,
+      "count": 34
     },
     "premium_98": {
-      "avg": 3.319,
-      "min": 3.186,
-      "max": 3.409,
-      "count": 6
+      "avg": 3.265,
+      "min": 3.047,
+      "max": 3.379,
+      "count": 5
     },
     "diesel": {
-      "avg": 2.724,
-      "min": 2.506,
+      "avg": 2.681,
+      "min": 2.364,
       "max": 3.109,
-      "count": 81
+      "count": 79
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 3.308,
+      "min": 3.308,
+      "max": 3.308,
+      "count": 1
     },
-    "observations_today": 48,
-    "observations_yesterday": 124,
+    "observations_today": 46,
+    "observations_yesterday": 131,
     "observations_older": 10
   },
   "mbie_waterfall": {
@@ -8582,8 +8582,8 @@
   "news": {
     "nz": [
       {
-        "title": "High Fuel Prices Expected to Slow New Zealand's 2026 Economic Growth Without Derailing Recovery, ANZ Says - Moomoo",
-        "source": "Moomoo",
+        "title": "High Fuel Prices Expected to Slow New Zealand's 2026 Economic Growth Without Derailing Recovery, ANZ Says - moomoo.com",
+        "source": "moomoo.com",
         "published": "Thu, 13 Aug 2026 04:41:19 GMT",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX1BRZ011SEZtWExFR1JmR1AwalhXVHZva1NjaHhLc0xpNWJLLW4wTi10emR5WjM0QW1WbzlKY1I1WEZVOFVPbnRmWlEwaTBxb0tUTC1KZm9VdmVaRi1nWm95ZHdhNTFfRHp5dGQ5d3ZZYTNYdUhDWVc2bXAyT0JxR2R3Z1BqTHBEOWVKQUYtTnhKOTVUZ1RuQ3lR?oc=5"
       },
