@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-08-14T18:12:31+00:00",
+  "generated_at": "2026-08-14T18:53:00+00:00",
   "fx": {
-    "nzd_per_usd": 1.706012,
-    "as_of": "Thu, 13 Aug 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.709361,
+    "as_of": "Fri, 14 Aug 2026 00:02:32 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 86.93,
-      "latest_date": "2026-08-13",
-      "delta_1d_pct": -2.3,
-      "delta_30d_pct": 21.46,
+      "latest": 88.68,
+      "latest_date": "2026-08-14",
+      "delta_1d_pct": 1.85,
+      "delta_30d_pct": 23.51,
       "series": [
-        {
-          "date": "2025-08-13",
-          "usd": 65.63
-        },
         {
           "date": "2025-08-14",
           "usd": 66.84
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-08-13",
-          "usd": 86.93
+          "usd": 87.07
+        },
+        {
+          "date": "2026-08-14",
+          "usd": 88.68
         }
       ]
     },
     "wti": {
-      "latest": 81.1,
-      "latest_date": "2026-08-13",
-      "delta_1d_pct": -2.61,
-      "delta_30d_pct": 18.26,
+      "latest": 82.52,
+      "latest_date": "2026-08-14",
+      "delta_1d_pct": 1.56,
+      "delta_30d_pct": 20.13,
       "series": [
-        {
-          "date": "2025-08-13",
-          "usd": 62.65
-        },
         {
           "date": "2025-08-14",
           "usd": 63.96
@@ -2033,46 +2029,50 @@
         },
         {
           "date": "2026-08-13",
-          "usd": 81.1
+          "usd": 81.25
+        },
+        {
+          "date": "2026-08-14",
+          "usd": 82.52
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-08-13",
+    "as_of": "2026-08-14",
     "regular_91": {
-      "avg": 2.984,
-      "min": 2.716,
-      "max": 3.589,
-      "count": 68
+      "avg": 3.021,
+      "min": 2.796,
+      "max": 3.339,
+      "count": 95
     },
     "premium_95": {
-      "avg": 3.112,
-      "min": 2.736,
-      "max": 3.387,
-      "count": 34
+      "avg": 3.203,
+      "min": 2.799,
+      "max": 3.399,
+      "count": 57
     },
     "premium_98": {
-      "avg": 3.265,
-      "min": 3.047,
-      "max": 3.379,
-      "count": 5
+      "avg": 3.325,
+      "min": 3.186,
+      "max": 3.579,
+      "count": 18
     },
     "diesel": {
-      "avg": 2.681,
-      "min": 2.364,
-      "max": 3.109,
-      "count": 79
+      "avg": 2.686,
+      "min": 2.446,
+      "max": 2.909,
+      "count": 100
     },
     "lpg": {
-      "avg": 3.308,
-      "min": 3.308,
-      "max": 3.308,
+      "avg": 3.28,
+      "min": 3.28,
+      "max": 3.28,
       "count": 1
     },
-    "observations_today": 46,
-    "observations_yesterday": 131,
-    "observations_older": 10
+    "observations_today": 0,
+    "observations_yesterday": 264,
+    "observations_older": 7
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8582,6 +8582,12 @@
   "news": {
     "nz": [
       {
+        "title": "'Joker in the pack': Air NZ boss picks biggest obstacle to regional routes - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Thu, 13 Aug 2026 10:37:50 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdUZnOEh2aEx2Y1hsZno3YjlyZXZoZUNnNHlvVjlKTHMzODJtWlMxWi1HWGFKRERuMHg0alhuMkVqeUMybzhyUV9ITFp0ZTEwSVBpUnhwQl9PVHBzVFU3eGlzYm5sbk5BMUFlVmh4ZmsyYWxiZlRTN0FCdklJbkNlM1VmUno3b3lNQy1ySTQ4cUw0eHdkWmR2RllPZHhzb2pvSnhFRG05U0xXY2JuWFZIS1dqbHVDeG9hRVhxTUdSdG9xU2RZRmJCdndJWmRBVmpVZGRfczFSVDFlX2ppMHNoaFpiWjRuNUk5Q2dmWlItRDVrN1hMLUxrTmJPN2hoZ0Q0ZkNCQ2JpTHVVOHc?oc=5"
+      },
+      {
         "title": "Pacific families are being caught between fossil fuel gamble and push for clean energy - Pacific Media Network",
         "source": "Pacific Media Network",
         "published": "Sun, 09 Aug 2026 02:03:45 GMT",
@@ -8622,20 +8628,20 @@
         "source": "NZ Herald",
         "published": "Wed, 22 Jul 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQnFWZHdRcUY1YjZvbkZIRDZ1M3VXRDIxaFNua2kxalI0cTJrUUk0c3RyemxFQWI2aXBDLW9vUEQ3MHoxUUcxNGNPdFZnYXg5SzVyYzdyblNaek5HcVdrQWk3T19DeW81am9HWEU1WlRreTk1SmR2aW00dTdSUmlIQnNOMmxtSm1zUGZWaW9VMTlUZi0tY092ODJacFBiWms0Z3lfT1dZRlk3RFptUnNUZFF1WjM5SVNXWG1LaTJIYTZaS1hCUTVLWEJaWjdmX0ppVEFadzFZWHVCcTA0Nm50NzVzVU15aFpMRTRwUGY0czkyOHJzRWxGNFFvU0F5dlVKT2hlcGZR?oc=5"
-      },
-      {
-        "title": "Analysis: Five takeaways from today's 4.1% inflation figure - 1News",
-        "source": "1News",
-        "published": "Tue, 21 Jul 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWlRGNlhZSnlyQjlxQzN0allJNlV4ck0xLUxDZmluY2tPcWlJaEx1a21nMmh2Ym1vd3o4eEFMNG53OExUdWVPQVpsOTRVb0F3RlAwbXlxaWtfMzRKVjhUMHBLRjhvcDdlUm9PdERrVHJsWHZfWkdNdmgzdldpUFlrclRTcGNhdG1MOVRHU2t1bWoxclllR0E?oc=5"
       }
     ],
     "global": [
       {
-        "title": "US Oil Drillers Add Even More Rigs As Oil Prices Stay Higher - oilprice.com",
-        "source": "oilprice.com",
-        "published": "Fri, 14 Aug 2026 17:07:38 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY1JNUEx3dlFNRjM3NElsWk4teHJtcDFEUG5ZQTA0RldyWHg1cWdiTWJTTEJ0dlV0dFl5bk5YYjhPMllyeVJNRW9rMC1wZThEbFMyRVFxSVhmOXpBZ1hFMXhWcWVvT3VPaEhaaW5VbndXVkFkejRQd2lTaEowUkUzSTdRQVR3Q0l5M3NYRWduS3owUlVDZmdSd2FMMC1fYnZRbVVUT1Nn0gGrAUFVX3lxTE1BT0VjSWdRdlp2T2RfZzlnd05OdUtTVFE2eXFLTkpvd1VpcjBfdTQyWmV0cEZtVmljUjVfQXYzUlctY1BMLVNOUXdEVVpyVGdJMEJlMXJjQWNrbmhUN2lWZGJFVUJmY052OVZKOXA1TEEzUVFfaDAzMXVRbk9UNmhKOC13RlJyT29VLXNBTmlIMHlCNG9iS3d1Q3U4a1BhRmRwVmpOVHlaODhfdw?oc=5"
+        "title": "Ukraine Prepares New Sanctions to Target Russia’s War Industry and Financial Networks - Межа. Новини України.",
+        "source": "Межа. Новини України.",
+        "published": "Fri, 14 Aug 2026 18:45:34 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMT1hGYWs1U0s2OWJkR0NCaUExUUtBUXl2bjBRSHRnSm9GTjBDNzFibG5HbEJ2R1ZYVEFmQWI5LXhCclE2RVE1M2dKRVV3OGJuLWlLRmNlS01yUWdWcVdEUEgxYXBaQTlkMUE?oc=5"
+      },
+      {
+        "title": "September WTI Crude Oil Contract Closes Up $1.15, or 1.4%; Settles at $82.40 per Barrel. October Brent Oil Was Last Seen Up $1.31, or 1.5%, to $88.38. - marketscreener.com",
+        "source": "marketscreener.com",
+        "published": "Fri, 14 Aug 2026 18:40:28 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYUFGZzJMNnNXR0RSMzFsenJzbXI5UXRudGQ3ODFmUWptSGhSVjRzeXF1amtHZlB5ckdtZmNJN2NjOF9KNTVuekVVZ3V3T1E5Qmd0d1pBR2ZGaFBsWTdmTmtWeWQ4bXhVcnF5Yk4yMlBCTDlwY1Z0enRNUi05cVd4OVZHeGZValVENjZxc21ub3RoWjNtcjhta2RXWV9jemhNWnoyZWJLQTl1Q3BJbk1wTmd5a3V4VU52bEhWbjJpRlVySllpbUhDLVNrSGYtUU9MNC1MdThfeGdlam5tMlBuOA?oc=5"
       },
       {
         "title": "Peabody Energy, Borr Drilling, Texas Pacific Land, Halliburton, and Transocean Stocks Trade Up, What You Need To Know - StockStory",
@@ -8650,8 +8656,8 @@
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1OMF9ySWxoUDExaktPOHVHcHVHWC05Mm1feFdETzlRSmtXRmtWUDdjeVlaUDF4VHFHR2NPX1FpcHZoLTJnSGI4RVB2Ul9nUWxNQ3lwVkVsMXBwZXpIbjVhVkhWcTdnVXJ4Z2k4RkNkMUVrVDFQ?oc=5"
       },
       {
-        "title": "Hormuz Attacks Push Oil Toward $100 Despite US Crude Build - oilprice.com",
-        "source": "oilprice.com",
+        "title": "Hormuz Attacks Push Oil Toward $100 Despite US Crude Build - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Fri, 14 Aug 2026 16:21:21 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMHZJTlE2V21EekZuTWxKVE9TUWhOREcwbzFsN0h6OVo0VlhSR1dGUGQ2dWFTODZ1TGR1ekNFQ24yZ3JrYUtVOVNhNEdMMmZubmFfbVJKQ18wUE15MUlRcEZwS2pucUNHOWE5d2ktN0hTVWFkYnI0QWc0R3JSbTBUUVl2LU1VRzE4UVV2MjJ0cXVSVFZRRzdzb3piQldaWC1ZRWfSAacBQVVfeXFMTWxhQnVBbkdzQk0yNjY2bTZlVU51RV9uTTlkd1BiWmZkX2piZWJ5ekV3eWlYUjZORTN4VWw2SFIzTUg1UU5PZUMtQTc0eG1sb0FpdlB4MVJxbnZBSG1GbS15QUpibGw0N1VaQTBzOXR5b19pVmM1V2YtYTdBc2pGMWVfRUU2dXljYzh3WHRhZmtCWkI3aXdSNVlmT0dmcWxEQnVLS1pXX0E?oc=5"
       },
@@ -8660,12 +8666,6 @@
         "source": "foreignpolicyjournal.com",
         "published": "Fri, 14 Aug 2026 15:56:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd2c4YjJQcWxsYnU3YTlUbE8tYnA0ZEdTY0hMTTlpWTJ4am9tYV9uQjRkTXp3dEdJdG5ZYW9oY0QyRklEbG03V3RaYmRtcUNSTWlFZ3N4WGY2TkMtc0ItYk84T3JucnVyemhQSjNtOVVyVkxQMXlyMVpENlpUTlBvSkJfUTVJY2tpa0E5THcxQkkxRDhwaEs0akk1eDdmNUtGNEhkdkRqUjM0VUhNQnJSY0poUW1leF8ycktfc0Y2dXU2RTJ2S3hkcDBn?oc=5"
-      },
-      {
-        "title": "Current price of oil as of August 14, 2026 - Fortune",
-        "source": "Fortune",
-        "published": "Fri, 14 Aug 2026 15:06:36 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45YlpnSmZMb3V6ekNxUnZBQmpoRFY5cFdVcnFHejlyOFZQbnNGcEVuUHVGczQwZVBsb3hfbnR5MEFkMGNpQTd2c3hKUDFkNk10alFBRTUzVHJNYVczTjNyS2tn?oc=5"
       },
       {
         "title": "Crude Oil Price Forecast – WTI and Brent Stall at 50-Day EMAs Amid Geopolitical Caution - FXEmpire",
