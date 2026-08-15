@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T15:57:41+00:00",
+  "generated_at": "2026-08-15T16:35:56+00:00",
   "fx": {
     "nzd_per_usd": 1.709361,
     "as_of": "Fri, 14 Aug 2026 00:02:32 +0000"
@@ -8582,6 +8582,12 @@
   "news": {
     "nz": [
       {
+        "title": "Fuel anxiety has more Kiwis plugging in - Waikato Times",
+        "source": "Waikato Times",
+        "published": "Sat, 15 Aug 2026 16:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOczhtT2QtNk5idmt2eFVTUnhvVjFqTF9leXhFLTZjcHRHbUV2X2RwSl9JQ2dmUm9zcDZHaW91LXB4YlJyMFEtenkwQ1BUT3lTZXZISUc0bTRncE4wUWY0eFNGRDdJMUxIZjIwR2ZDQXlyTlFCQThPZUJCOW9tdEsxVnZWa2d0eDF1X0hfVHhidw?oc=5"
+      },
+      {
         "title": "'Joker in the pack': Air NZ boss picks biggest obstacle to regional routes - NZ Herald",
         "source": "NZ Herald",
         "published": "Thu, 13 Aug 2026 10:37:50 GMT",
@@ -8622,15 +8628,21 @@
         "source": "NZ Herald",
         "published": "Wed, 22 Jul 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQnFWZHdRcUY1YjZvbkZIRDZ1M3VXRDIxaFNua2kxalI0cTJrUUk0c3RyemxFQWI2aXBDLW9vUEQ3MHoxUUcxNGNPdFZnYXg5SzVyYzdyblNaek5HcVdrQWk3T19DeW81am9HWEU1WlRreTk1SmR2aW00dTdSUmlIQnNOMmxtSm1zUGZWaW9VMTlUZi0tY092ODJacFBiWms0Z3lfT1dZRlk3RFptUnNUZFF1WjM5SVNXWG1LaTJIYTZaS1hCUTVLWEJaWjdmX0ppVEFadzFZWHVCcTA0Nm50NzVzVU15aFpMRTRwUGY0czkyOHJzRWxGNFFvU0F5dlVKT2hlcGZR?oc=5"
-      },
-      {
-        "title": "Inflation reaches 4.1% as higher fuel prices hit home - thepost.co.nz",
-        "source": "thepost.co.nz",
-        "published": "Mon, 20 Jul 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRVdrMU15RVlXd0xBUktMSjhnbkV5cTctZmwyRklRQzhTVXVuSlNxZmt5V2xDeUY4eGFiX1g1U2U2bnY3cmhQazgyNzVqMWdEWlNGSWZFWkhRVXZhRXh6cHpiOXZodWhwSGN2dnB0T1pSbDRreTgxQ0tzOXpac0tOekpnbGNpbG5TZTdDTlRqaURIUXc3Mk5uSQ?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "US Promises 'Unprecedented' Economic Isolation Of Iran. What Could That Mean? - Radio Free Europe/Radio Liberty",
+        "source": "Radio Free Europe/Radio Liberty",
+        "published": "Sat, 15 Aug 2026 12:57:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUXU5cnRObzNCck1SQUZDeEQ0UzVITEJtbE9PQTQ3NTNRaUw0RTRyd29mMW1oeE9aNEZUVHpTcjY5by1rdGpTZG92ck1sWmtTV3hJS2hQNWhlQTZoNFFmeEl5Y0gza3Z3c19Cbl9SbUlJZDlfYzdzeWxudmdrM0FsZVBNdGw5WjhYcngw0gGOAUFVX3lxTE51WFlMQ3laS3A3OC05dm5tNi10MlVyZEoxZEYzeElMUEU2RGZVN3JKaEd5OXcxaHhOaUlxOVJNdWxUbHMzMC1LRl8xdUV5d0R1bmdKc01pSjBnajhCWXJZdWhhZW1WMlFDUGNuTGNvN0NXb1VKc1JQZGlUdmljakNrQldFYjVZV0doNUIzZHc?oc=5"
+      },
+      {
+        "title": "Watch Iran Sanctions Could Put China Oil Trade in Focus - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "published": "Sat, 15 Aug 2026 11:52:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbjEyRmNZeHVucjVacVRmZjFIdjZzNksxOHdGNGFnRURuLVVnYklJRlVuOFZINFVmRUdnMEdkWFJ0QnhDMXJ3enFqeFItQXRSUTVFY1I5ZjJ4S0hfV0RxYzlKZDcyWVpRNHQ0SnVzZnhQODlqUkxWOF9tZ1BvdS1DdDdPb1k2TGRUbFFtLWxpVmFwb3pxTG1qUDJ4cENuTmp0NVJiVmpEdw?oc=5"
+      },
       {
         "title": "Oil Prices rise amid escalating tensions in the Strait of Hormuz - سانا",
         "source": "سانا",
@@ -8644,16 +8656,10 @@
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43X1EtTjhJeFNrWjA4bmI5MlVZd3lyNXpxVzRmeGVtdElRdTJXMFpGOFF1OVpGM2I2UGtieXJjVThVWEdfVG1xN0gtclhnaVF2S1E?oc=5"
       },
       {
-        "title": "Watch Iran Sanctions Could Put China Oil Trade in Focus - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "published": "Sat, 15 Aug 2026 00:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbjEyRmNZeHVucjVacVRmZjFIdjZzNksxOHdGNGFnRURuLVVnYklJRlVuOFZINFVmRUdnMEdkWFJ0QnhDMXJ3enFqeFItQXRSUTVFY1I5ZjJ4S0hfV0RxYzlKZDcyWVpRNHQ0SnVzZnhQODlqUkxWOF9tZ1BvdS1DdDdPb1k2TGRUbFFtLWxpVmFwb3pxTG1qUDJ4cENuTmp0NVJiVmpEdw?oc=5"
-      },
-      {
-        "title": "Core Differences Between West Texas Intermediate (WTI) and Brent Crude and the Affect of the Iran War - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Fri, 14 Aug 2026 22:44:07 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1ZOVFVuUnFFYUstVktuczhxdzBYN1lUbUlqbTIwZEVnX2lCclN2dDZyeVJxUnFPLXdLLWhHcTd1MUUyM0kxTFBUZWJZSVlfN2RCZkRlRXhqT3ZfdUJTQkFjSkR1dDFsQ2Rmc19VTERhc1hsV2Nka2RDVEFvZ0FUcFdJQ0dCR21lcm5mZU12UzJZZHlyOFh3WGEzVWpCVDlUeHc?oc=5"
+        "title": "Hormuz traffic slows further after US threatens more economic pressure on Iran - Reuters",
+        "source": "Reuters",
+        "published": "Fri, 14 Aug 2026 22:36:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5"
       },
       {
         "title": "Citi Raises Brent Forecast for 2026; Sees $150 Oil if Hormuz Disruption Persists - EnergyNow.com",
@@ -8672,12 +8678,6 @@
         "source": "شفق نيوز",
         "published": "Fri, 14 Aug 2026 19:50:30 GMT",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb09vcFpIVy1RbTR2b3VvR21jT1dWVTNlWHB2cFNqaG9UT2k3YVlSejh4ODNsa0tXQmEweUNCNGxXc29fNDJKak15Q29zNmdIR1g4a0hNNjVvRjFNaUZ4Q2EyclVnM0dDZHc3amZOVWVpZkh1dzJiOENQMTFTbkdZZmJRRi1zeUVk?oc=5"
-      },
-      {
-        "title": "Russia Sanctions Bill May Target 'Shadow Fleet' - Energy Intelligence",
-        "source": "Energy Intelligence",
-        "published": "Fri, 14 Aug 2026 19:32:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DU0M3c3ZDdEJKVkZRcF8tRWhHSzllcnJFdlEwLWwzZjk4OU9Gd085TExCck9BWHZQYUowV1c1QWNCNEVJSWF1MXVmTjBTaTFGdFNIZDRBUVpWVktGbWJkTFhUWDhMSWJTWFhWMlM1ejQwUQ?oc=5"
       }
     ]
   }
