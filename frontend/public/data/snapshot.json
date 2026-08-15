@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-08-15T17:58:00+00:00",
+  "generated_at": "2026-08-15T18:28:28+00:00",
   "fx": {
-    "nzd_per_usd": 1.709361,
-    "as_of": "Fri, 14 Aug 2026 00:02:32 +0000"
+    "nzd_per_usd": 1.698299,
+    "as_of": "Sat, 15 Aug 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 88.68,
+      "latest": 88.52,
       "latest_date": "2026-08-14",
-      "delta_1d_pct": 1.85,
-      "delta_30d_pct": 23.51,
+      "delta_1d_pct": 1.67,
+      "delta_30d_pct": 23.29,
       "series": [
-        {
-          "date": "2025-08-14",
-          "usd": 66.84
-        },
         {
           "date": "2025-08-15",
           "usd": 65.85
@@ -1017,20 +1013,16 @@
         },
         {
           "date": "2026-08-14",
-          "usd": 88.68
+          "usd": 88.52
         }
       ]
     },
     "wti": {
-      "latest": 82.52,
+      "latest": 82.4,
       "latest_date": "2026-08-14",
-      "delta_1d_pct": 1.56,
-      "delta_30d_pct": 20.13,
+      "delta_1d_pct": 1.42,
+      "delta_30d_pct": 19.96,
       "series": [
-        {
-          "date": "2025-08-14",
-          "usd": 63.96
-        },
         {
           "date": "2025-08-15",
           "usd": 62.8
@@ -2033,46 +2025,46 @@
         },
         {
           "date": "2026-08-14",
-          "usd": 82.52
+          "usd": 82.4
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-08-14",
+    "as_of": "2026-08-15",
     "regular_91": {
-      "avg": 3.021,
+      "avg": 3.0,
       "min": 2.796,
-      "max": 3.339,
-      "count": 95
+      "max": 3.189,
+      "count": 79
     },
     "premium_95": {
-      "avg": 3.203,
-      "min": 2.799,
-      "max": 3.399,
-      "count": 57
+      "avg": 3.224,
+      "min": 2.876,
+      "max": 3.559,
+      "count": 55
     },
     "premium_98": {
-      "avg": 3.325,
+      "avg": 3.314,
       "min": 3.186,
-      "max": 3.579,
-      "count": 18
+      "max": 3.419,
+      "count": 11
     },
     "diesel": {
-      "avg": 2.686,
+      "avg": 2.674,
       "min": 2.446,
       "max": 2.909,
-      "count": 100
+      "count": 81
     },
     "lpg": {
-      "avg": 3.28,
-      "min": 3.28,
-      "max": 3.28,
+      "avg": 4.9,
+      "min": 4.9,
+      "max": 4.9,
       "count": 1
     },
     "observations_today": 0,
-    "observations_yesterday": 264,
-    "observations_older": 7
+    "observations_yesterday": 194,
+    "observations_older": 33
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8632,6 +8624,12 @@
     ],
     "global": [
       {
+        "title": "What Bessent’s economic isolation of Iran could look like: Sanctions, shipping and a financial chokehold - Firstpost",
+        "source": "Firstpost",
+        "published": "Sat, 15 Aug 2026 18:06:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdHdtZ21DZVNMSGRBMkNYRXhzVVdYa2d4UkY4TUk4SkRXbWgxWWdJQjUxMzQ5RnNrUkFEbEJJbTNmRDd3UEtQTUJiWHB6MXpINGoySkdCNzNqejRTMVVjYjM3b1JKV3VERnhGdDhEUHhfWFctczZQYmNKZ2hoeWFMMmotcThNSnZldnVPU08waE55YmRjSG8tTmxLaDJzTWhfMmNIT25FcWhJQnRfWUJTdS1IXzJScmNwTEdLOWk3WHp5X0Z0VGJ4dm14bzBKcmczQ1dTSWYzcERLQ3ljRThkcdIB5gFBVV95cUxQYXRDRjlsN1NKYjktVExhNmJRWHl3X2o4QU1VanMyNm9IZGh0blpoWVVXTUl2YnE2MV9kVjVyaWYzUUVnN0RuSTJFX21GQzFhS0dIS01HaDRBUm9odDFjYnhsMzZWeFRCMW1PWi1NcEVjNUF1cUhGRVZQYjFTNzAtWmFoYmhOaTdaMUlJeEFlUUg1VGREY3h5aTNzNkxEblNfRFpsOWF2VHEydUFMN2k1WlJGSlRZQnA4M0c2dEdxZ09zUUFlRE1RSFE1Tjd1TnRtX29KOWJGdlp6TUEtTEZKNzlRLVF0UQ?oc=5"
+      },
+      {
         "title": "Russia's Oil Industry Is Running Out of Room to Absorb More Shocks - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Sat, 15 Aug 2026 17:00:00 GMT",
@@ -8668,16 +8666,10 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbjEyRmNZeHVucjVacVRmZjFIdjZzNksxOHdGNGFnRURuLVVnYklJRlVuOFZINFVmRUdnMEdkWFJ0QnhDMXJ3enFqeFItQXRSUTVFY1I5ZjJ4S0hfV0RxYzlKZDcyWVpRNHQ0SnVzZnhQODlqUkxWOF9tZ1BvdS1DdDdPb1k2TGRUbFFtLWxpVmFwb3pxTG1qUDJ4cENuTmp0NVJiVmpEdw?oc=5"
       },
       {
-        "title": "Citi Raises Brent Forecast for 2026; Sees $150 Oil if Hormuz Disruption Persists - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Fri, 14 Aug 2026 22:26:47 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdk5UVWpBQWFNVy1reG1ZeFlEdlQxcWlxWkMzTFNfUmFKdVFZaWRqNm4zTFo5V05Pd2o5b3hpOXNLeWJ3Tm9XdzR1aEk1VWd1S29vaW1GUVZ1OTU5c0hsUE5fWnhUV1RoakRubVlGcW14cHBhaER0VzZmeDVFNGZkeEVUb2l6WGhtTVlBUXBMTFFYNkMwalRYZmYzQUItWEhDLUhiVkdaOFBoU0Q4Vnc?oc=5"
-      },
-      {
-        "title": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Fri, 14 Aug 2026 22:14:21 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc043cHk1ZjIxLWc2RVJUX2p1NnRHMmpRamNpNkVJNTBkNjliR1Z4amtCdkdVUzkzUnBRQ2ZpWFhHdGRUUWtybzFieTY2ek9qazdPaG5Ec0d3akx6a24wMlYzaDdnbjZrbmNVdTdZdXZSYlhGTVFUOHJoTGZhQ1RJR2tyaDNGckF0OWM0QW1ta2lVbnFoOFE?oc=5"
+        "title": "Hormuz traffic slows further after US threatens more economic pressure on Iran - Reuters",
+        "source": "Reuters",
+        "published": "Fri, 14 Aug 2026 22:36:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5"
       }
     ]
   }
