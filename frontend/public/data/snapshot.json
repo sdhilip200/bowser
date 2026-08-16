@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-16T17:56:54+00:00",
+  "generated_at": "2026-08-16T18:28:00+00:00",
   "fx": {
-    "nzd_per_usd": 1.698299,
-    "as_of": "Sat, 15 Aug 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.698843,
+    "as_of": "Sun, 16 Aug 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
@@ -11,10 +11,6 @@
       "delta_1d_pct": 1.67,
       "delta_30d_pct": 23.29,
       "series": [
-        {
-          "date": "2025-08-15",
-          "usd": 65.85
-        },
         {
           "date": "2025-08-18",
           "usd": 66.6
@@ -1024,10 +1020,6 @@
       "delta_30d_pct": 19.96,
       "series": [
         {
-          "date": "2025-08-15",
-          "usd": 62.8
-        },
-        {
           "date": "2025-08-18",
           "usd": 63.42
         },
@@ -2031,40 +2023,40 @@
     }
   },
   "nz_retail": {
-    "as_of": "2026-08-15",
+    "as_of": "2026-08-16",
     "regular_91": {
-      "avg": 3.0,
+      "avg": 3.019,
       "min": 2.796,
-      "max": 3.189,
-      "count": 79
+      "max": 3.999,
+      "count": 72
     },
     "premium_95": {
-      "avg": 3.224,
+      "avg": 3.2,
       "min": 2.876,
-      "max": 3.559,
-      "count": 55
+      "max": 3.387,
+      "count": 40
     },
     "premium_98": {
-      "avg": 3.314,
+      "avg": 3.265,
       "min": 3.186,
-      "max": 3.419,
-      "count": 11
+      "max": 3.329,
+      "count": 5
     },
     "diesel": {
-      "avg": 2.674,
+      "avg": 2.688,
       "min": 2.446,
-      "max": 2.909,
-      "count": 81
+      "max": 3.099,
+      "count": 75
     },
     "lpg": {
-      "avg": 4.9,
-      "min": 4.9,
-      "max": 4.9,
-      "count": 1
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 0,
-    "observations_yesterday": 194,
-    "observations_older": 33
+    "observations_today": 14,
+    "observations_yesterday": 136,
+    "observations_older": 42
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8666,10 +8658,10 @@
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJeDNUV2lXYXF6Q2llWW5ZYTZ1WDQ1WmhTQXJxdHJULTFCVEpQNmRiRG9JNkZtd29KQnBNWjNENEFGRkY0ekFMQjRoNUFROEhfXzc1YXlNS19yRFdwbVA1U25PVlJXT2VCVnc?oc=5"
       },
       {
-        "title": "Trump wants more economic pressure on Iran. What are his options? - Reuters",
-        "source": "Reuters",
-        "published": "Sun, 16 Aug 2026 11:34:57 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcF9Wa1NYT2dtVW52UTI3RWVFeS1MbVdwY0RvZC1kWDJYd1BEdlUzanc4Z09Gbmd6cG9NMHhWTVJxYVM1N0pqMHZCOUhHdHdRZUdBeWhzZVVhN3VBYnlOZjY5NmJmWE41UWVHeXljWUlkMFloZnh2VUxCajE0dlFTTjFOTk9ZRVVMSVJXd0thR05XbktGWlBPYmJ1S0U0bDdkQlZLWlBxb2VIUlZO?oc=5"
+        "title": "Here’s the real reason oil prices aren’t moving higher - MarketWatch",
+        "source": "MarketWatch",
+        "published": "Sun, 16 Aug 2026 13:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNkJ3QTJqeFNEWVB5dFRjeXJIdU1zbWd1R0ZPbWhfZTM2WXNrUDBUV3pCSW1mazJRbElRUXMwa1B4TFhkMmlWQ3hMSlpiQy1Vdmk5QzlpYzVVRTRHdno0bm1tTThBckM1dm5CSkh6WU5uSmVQWGNQOHFPdndMczRMTE40WDFtVE9RclFQX3BYeDk3UHZfQkxZd1MzSQ?oc=5"
       }
     ]
   }
