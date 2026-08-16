@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T14:01:30+00:00",
+  "generated_at": "2026-08-16T14:33:30+00:00",
   "fx": {
     "nzd_per_usd": 1.698299,
     "as_of": "Sat, 15 Aug 2026 00:02:31 +0000"
@@ -8572,7 +8572,105 @@
   },
   "fuel_stocks": null,
   "news": {
-    "nz": [],
-    "global": []
+    "nz": [
+      {
+        "title": "Fuel anxiety has more Kiwis plugging in - thepost.co.nz",
+        "source": "thepost.co.nz",
+        "published": "Sat, 15 Aug 2026 16:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOFlHVmk0alJwMGhHemtQMlFpTlAtMU9DRkY5d1U1VklvWU9hRGNZVExGWEpnblNldWthNWw1bVh4WW5tNDMwclh4eDZmNmJMekt1U042RFBvRFotYTg0WW9XbGdEQVd2QmR3OVJBdU9FS2hyX2xreUJSNmdCTmJHbjhWSk5iWUV6?oc=5"
+      },
+      {
+        "title": "'Joker in the pack': Air NZ boss picks biggest obstacle to regional routes - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Thu, 13 Aug 2026 10:37:50 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdUZnOEh2aEx2Y1hsZno3YjlyZXZoZUNnNHlvVjlKTHMzODJtWlMxWi1HWGFKRERuMHg0alhuMkVqeUMybzhyUV9ITFp0ZTEwSVBpUnhwQl9PVHBzVFU3eGlzYm5sbk5BMUFlVmh4ZmsyYWxiZlRTN0FCdklJbkNlM1VmUno3b3lNQy1ySTQ4cUw0eHdkWmR2RllPZHhzb2pvSnhFRG05U0xXY2JuWFZIS1dqbHVDeG9hRVhxTUdSdG9xU2RZRmJCdndJWmRBVmpVZGRfczFSVDFlX2ppMHNoaFpiWjRuNUk5Q2dmWlItRDVrN1hMLUxrTmJPN2hoZ0Q0ZkNCQ2JpTHVVOHc?oc=5"
+      },
+      {
+        "title": "New Zealand’s fuel supply five months into the Hormuz crisis - newswire.co.nz",
+        "source": "newswire.co.nz",
+        "published": "Sat, 08 Aug 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkdjbGk1UWFQZWdCNjJuN1BSTWNtWi1SNEZFSTd3b00zVVg2NDhOenpzajVWa2FRaHk2NlJCWmpCTm93aWFFdVljdDBYOS0weG10RkxsNVdGUFcyMEduSmNUakNpT2hmSFYwZjM5RDI3MWZLTGpQcDB2emdlNS1TbUx4VlVGZDY4?oc=5"
+      },
+      {
+        "title": "Pacific families are caught between fossil fuel gamble and push for clean energy - pmn.co.nz",
+        "source": "pmn.co.nz",
+        "published": "Sat, 08 Aug 2026 04:21:47 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZzYxc29LYV9rMFJoRmlad2FoNWFKc29WUWFEeUg2U2RSUy1EY3ZqbVNRWVJ0M1dwYTROemYxTHpIMHFhZDg2ZHphNnhGbU8xOURzMzZDS3NRYUdlaERwTEl5Q2FNTnlCeEJmMHlZM3dxNVhuQjZEeVpybV9rTnhOa0dlMFVnaS1ZaURWNVFHVGxCNWo2UFd1a01BYngxYUwxMkNFc2NCeWlfc3ZXVmc?oc=5"
+      },
+      {
+        "title": "Air NZ passenger numbers fall as jet fuel price rises hit - RNZ",
+        "source": "RNZ",
+        "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWmZwcjZucW4yZ1N5eHhMNWhUSy04YU9fVENtSk5UbVZBUmdGQzNOeTNob3kzOXBabjQ2LWYxVGkxMnhvVTFZZ1ZYaEZqSXBhZjlBbkt1WlI4YmFfN3lKY0dFMS1sS1dMMl9ucUZrcUtmR3hoRzYwM0dYTWJOU2tKV0h5YWZDcmg1UnNOc0Z3WUtkYVluQnNhazhNSURjQ0dpd3c?oc=5"
+      },
+      {
+        "title": "Fuel Prices Ease Across Several Pacific Island Nations Despite Ongoing Supply Pressures - Scoop - New Zealand News",
+        "source": "Scoop - New Zealand News",
+        "published": "Mon, 03 Aug 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcGhhZlNJdGo4NDAwc0ViNHZnLWh3bjVFandwMHZqMHJ5WEFzYmVPaF9qaEswR0tXT2xXNk9lMlAzcVk5VDRnS1pVM0RsaGVVbi1pOENuNVVwQklNdGhvRkNhQjJyZTVrVjN4NjJOMU9ya3hqR2pvbkZtU2J1dlh1bS1MUXNsSEJld0lDaDdxVjd2YnVOS2ctWVhaUnU3VVc5ZTJuTWp5TGM2OWQyUlZiVlgtdURHdk9NVmI5dTdpcUJFS3FvQlNZR0JpM3U2RGlaWlBj?oc=5"
+      },
+      {
+        "title": "Petrol prices could climb above $3 in NZ amid Mideast tensions - pmn.co.nz",
+        "source": "pmn.co.nz",
+        "published": "Fri, 24 Jul 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQUI5U2JmSXhSNnF5aDh5b21Uek5lX0xtRDVVeW9DTlVmcjdxMWtMWE80cTRGdGVzNjRoWFlRZ0V2VzIyUTA2elJMUXlHcUE4eU5RWXYwbkhBOVZVR09PMERya2gtOUdSbFF6VUNFX1gyelQ3Um93YklKQm9QeVdhdE8zbFhYYzVxTW5JTmxCMnNMQ3V6T1hEUFJ3bDBvV3BkcHlpQ3M1dWxXVThjNlVVYnFwaWFkRmQyTU9pMkpRSjFMdC1QeFBVb0wxYkp6eVE?oc=5"
+      },
+      {
+        "title": "Oil price shock for New Zealand far from over - Westpac economist - RNZ",
+        "source": "RNZ",
+        "published": "Fri, 24 Jul 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMFFnUzVWcW1PTTJZbWZPdWp2eUlTcWJlMW1ZTFhUMDhrU3dVWXpaZUJaTkN0QXotQVBVN29EVUJwd3d3NEJ3eTgtU3NfUzJWZm00TXkwRV9MS2h2cHdudy1WSk5yTlB1TDdneG9NWW91ZzJaOGQ0ODhtelp2Z2I4SkZSTk9vakxFUFN4dzRpU2tBNjU4UFg1UUVmZkN3Wi1NSTFOZG1SNTQ4dw?oc=5"
+      }
+    ],
+    "global": [
+      {
+        "title": "Chinese Hengli Group company primary importer of sanctioned Iran crude oil - The Jerusalem Post",
+        "source": "The Jerusalem Post",
+        "published": "Sun, 16 Aug 2026 13:17:18 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJeDNUV2lXYXF6Q2llWW5ZYTZ1WDQ1WmhTQXJxdHJULTFCVEpQNmRiRG9JNkZtd29KQnBNWjNENEFGRkY0ekFMQjRoNUFROEhfXzc1YXlNS19yRFdwbVA1U25PVlJXT2VCVnc?oc=5"
+      },
+      {
+        "title": "Trump wants more economic pressure on Iran. What are his options? - Reuters",
+        "source": "Reuters",
+        "published": "Sun, 16 Aug 2026 11:34:57 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcF9Wa1NYT2dtVW52UTI3RWVFeS1MbVdwY0RvZC1kWDJYd1BEdlUzanc4Z09Gbmd6cG9NMHhWTVJxYVM1N0pqMHZCOUhHdHdRZUdBeWhzZVVhN3VBYnlOZjY5NmJmWE41UWVHeXljWUlkMFloZnh2VUxCajE0dlFTTjFOTk9ZRVVMSVJXd0thR05XbktGWlBPYmJ1S0U0bDdkQlZLWlBxb2VIUlZO?oc=5"
+      },
+      {
+        "title": "Opinion | Tell Hurd: vote yes on Russia sanctions - the-journal.com",
+        "source": "the-journal.com",
+        "published": "Sun, 16 Aug 2026 11:04:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdk5vaTU5eXFqNHJhbXg2N20tWkNaZlZSWm1yVFZLakxXU2F3VmhMM1hnRUsxU1piZElXQUxXWFFnZ1FyVklZYnJDb2NNaXZsaXFkZVlMSDZQV0pGZHZFa0ZuS1VEejF1WW9RMTQxa0E2U1F3bG5hcER5V1dkeXk0b2F3?oc=5"
+      },
+      {
+        "title": "Oil Supply Crisis Hits Automakers: Prices Surge Amid Middle East Conflict - GuruFocus",
+        "source": "GuruFocus",
+        "published": "Sun, 16 Aug 2026 04:53:30 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdkVoLXN6VjZDMzQ3TlN5WE9VNTNsMURLU2YyOEg5OEZSZWM3MzYyekUwQ3pQVFd3anJvQ0V6TVU3THlJbGhfX0JVaTZIZVJfRWU1Y184ZS1EWVZyRjZEVW4zTjlZWkJyZEgxaS1ocjhaQ05FU3o2ODIzSjVEeURmU2J1Zm85ZXU0TDF1NzBRU21JelpOenVsXzhPTzJOV0s3N2xzOVNHYjkxV3poMUMtcg?oc=5"
+      },
+      {
+        "title": "Saudi crude shipments to the U.S. hit zero as Hormuz disruption reshapes global freight costs - MarketScale",
+        "source": "MarketScale",
+        "published": "Sat, 15 Aug 2026 16:47:56 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZkN6WjVpb1M4X0I0U0ZHeFZyRlN1TTFkcWJhV3p6SnNVUlk3dGpuTEtNMHlCa3lFV2lvWHhqeVR1ODRkdlA0cTR0Uk5QcFhTNlJlQnRJa1ZBRGt5SGRRel9Cd1NSSzlzTEJuQUl1NGhxS3JIRE9xVGJjY0hTNTZwal8xT2xualMyeE1XQmhyV09RdXMtSVNUSDNnSkdkc2xlemtrcHVIN29ESWNJSWJYVTduR19ubm1rbnZMdkdlQ2hYRnNaTktMaHZKOWJSOXRzZ0hjRUVNNy12MkZ0N2c?oc=5"
+      },
+      {
+        "title": "What Bessent’s economic isolation of Iran could look like - Fortune",
+        "source": "Fortune",
+        "published": "Sat, 15 Aug 2026 15:24:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQmhnY1YwM1FsaGxkeGtvcHQzN0JhZWpaMWZ5eVRBNXNzYmhZdHdqR1QzLW9FODR1UGdIQ29QT1hBdF9TRWNhcmRJbmtJR1dqallSQ1pSblJKbnQzbW9ncUVqSmdhRWxoQU9kcWV2WEZZZk1CZ3VLMU9GUkR0WDZXSlc1TXlaeGprTG02emswekZVczk5?oc=5"
+      },
+      {
+        "title": "Global Oil Inventories Depleted, Next Price Spike Could Roil Economies, Markets - EnergyNow.com",
+        "source": "EnergyNow.com",
+        "published": "Sat, 15 Aug 2026 13:46:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTzJ2Rmxmd19zVGUwVzJ3bzdEeHp4NTczY0tCM0MxYzlnNUU5UTRIZk45cndabTA0TnNoblRoc1FsWE12bTYtWGVHSWhkdEpBcnNYeDExZC1XWFN5SWhjS20ySEh4M1pHeFJ0RTFaSW9DT0JXYlMzNzdHS1dsWFUxWVZISjNMT045RkZoZmZDOFRHT3pFNHVDTVc0TlJEZVo5cVdMajNZSERCSmJH?oc=5"
+      },
+      {
+        "title": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank - EnergyNow.com",
+        "source": "EnergyNow.com",
+        "published": "Sat, 15 Aug 2026 13:23:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc043cHk1ZjIxLWc2RVJUX2p1NnRHMmpRamNpNkVJNTBkNjliR1Z4amtCdkdVUzkzUnBRQ2ZpWFhHdGRUUWtybzFieTY2ek9qazdPaG5Ec0d3akx6a24wMlYzaDdnbjZrbmNVdTdZdXZSYlhGTVFUOHJoTGZhQ1RJR2tyaDNGckF0OWM0QW1ta2lVbnFoOFE?oc=5"
+      }
+    ]
   }
 }
