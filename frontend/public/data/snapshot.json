@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T23:29:43+00:00",
+  "generated_at": "2026-08-16T23:58:08+00:00",
   "fx": {
     "nzd_per_usd": 1.698843,
     "as_of": "Sun, 16 Aug 2026 00:02:31 +0000"
@@ -8564,105 +8564,7 @@
   },
   "fuel_stocks": null,
   "news": {
-    "nz": [
-      {
-        "title": "Kiwi bellwether stock posts strong result but warns of fuel price impact - RNZ",
-        "source": "RNZ",
-        "published": "Sun, 16 Aug 2026 22:32:44 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN1EwZ0dTMEJMRjB0MWM0RTdlYm1ObGVhdGl2eXFfV3R6THJMaTluQ3hKZDBGRkwwaWxTYmloQUFMYWtSNWVDa1Fqd3kzc3E5LUNhbG9IQXl3bWVjcjdGTndJY0xNY0dFNUgxcEY5djBuUl9BVFRISzBYRFE2NVdZNXpXZUdvRkl4bDFGWGhpb1YySFRWWFRteEFTd2d3TlVMV2MwSmp0bkVBQmU0Ri1oeUFpTUhfOWc?oc=5"
-      },
-      {
-        "title": "Fuel anxiety has more Kiwis plugging in - thepost.co.nz",
-        "source": "thepost.co.nz",
-        "published": "Sat, 15 Aug 2026 16:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOFlHVmk0alJwMGhHemtQMlFpTlAtMU9DRkY5d1U1VklvWU9hRGNZVExGWEpnblNldWthNWw1bVh4WW5tNDMwclh4eDZmNmJMekt1U042RFBvRFotYTg0WW9XbGdEQVd2QmR3OVJBdU9FS2hyX2xreUJSNmdCTmJHbjhWSk5iWUV6?oc=5"
-      },
-      {
-        "title": "'Joker in the pack': Air NZ boss picks biggest obstacle to regional routes - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Thu, 13 Aug 2026 10:37:50 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdUZnOEh2aEx2Y1hsZno3YjlyZXZoZUNnNHlvVjlKTHMzODJtWlMxWi1HWGFKRERuMHg0alhuMkVqeUMybzhyUV9ITFp0ZTEwSVBpUnhwQl9PVHBzVFU3eGlzYm5sbk5BMUFlVmh4ZmsyYWxiZlRTN0FCdklJbkNlM1VmUno3b3lNQy1ySTQ4cUw0eHdkWmR2RllPZHhzb2pvSnhFRG05U0xXY2JuWFZIS1dqbHVDeG9hRVhxTUdSdG9xU2RZRmJCdndJWmRBVmpVZGRfczFSVDFlX2ppMHNoaFpiWjRuNUk5Q2dmWlItRDVrN1hMLUxrTmJPN2hoZ0Q0ZkNCQ2JpTHVVOHc?oc=5"
-      },
-      {
-        "title": "New Zealand’s fuel supply five months into the Hormuz crisis - newswire.co.nz",
-        "source": "newswire.co.nz",
-        "published": "Sat, 08 Aug 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkdjbGk1UWFQZWdCNjJuN1BSTWNtWi1SNEZFSTd3b00zVVg2NDhOenpzajVWa2FRaHk2NlJCWmpCTm93aWFFdVljdDBYOS0weG10RkxsNVdGUFcyMEduSmNUakNpT2hmSFYwZjM5RDI3MWZLTGpQcDB2emdlNS1TbUx4VlVGZDY4?oc=5"
-      },
-      {
-        "title": "Air NZ passenger numbers fall as jet fuel price rises hit - RNZ",
-        "source": "RNZ",
-        "published": "Tue, 04 Aug 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWmZwcjZucW4yZ1N5eHhMNWhUSy04YU9fVENtSk5UbVZBUmdGQzNOeTNob3kzOXBabjQ2LWYxVGkxMnhvVTFZZ1ZYaEZqSXBhZjlBbkt1WlI4YmFfN3lKY0dFMS1sS1dMMl9ucUZrcUtmR3hoRzYwM0dYTWJOU2tKV0h5YWZDcmg1UnNOc0Z3WUtkYVluQnNhazhNSURjQ0dpd3c?oc=5"
-      },
-      {
-        "title": "Petrol prices could climb above $3 in NZ amid Mideast tensions - Pacific Media Network",
-        "source": "Pacific Media Network",
-        "published": "Fri, 24 Jul 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQUI5U2JmSXhSNnF5aDh5b21Uek5lX0xtRDVVeW9DTlVmcjdxMWtMWE80cTRGdGVzNjRoWFlRZ0V2VzIyUTA2elJMUXlHcUE4eU5RWXYwbkhBOVZVR09PMERya2gtOUdSbFF6VUNFX1gyelQ3Um93YklKQm9QeVdhdE8zbFhYYzVxTW5JTmxCMnNMQ3V6T1hEUFJ3bDBvV3BkcHlpQ3M1dWxXVThjNlVVYnFwaWFkRmQyTU9pMkpRSjFMdC1QeFBVb0wxYkp6eVE?oc=5"
-      },
-      {
-        "title": "Oil price shock for New Zealand far from over - Westpac economist - RNZ",
-        "source": "RNZ",
-        "published": "Fri, 24 Jul 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMFFnUzVWcW1PTTJZbWZPdWp2eUlTcWJlMW1ZTFhUMDhrU3dVWXpaZUJaTkN0QXotQVBVN29EVUJwd3d3NEJ3eTgtU3NfUzJWZm00TXkwRV9MS2h2cHdudy1WSk5yTlB1TDdneG9NWW91ZzJaOGQ0ODhtelp2Z2I4SkZSTk9vakxFUFN4dzRpU2tBNjU4UFg1UUVmZkN3Wi1NSTFOZG1SNTQ4dw?oc=5"
-      },
-      {
-        "title": "Air NZ confirms flights through October as jet fuel prices spike overnight - Newstalk ZB",
-        "source": "Newstalk ZB",
-        "published": "Thu, 23 Jul 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNOVBXcUtMTWNoaTZmYTd6ajFqc0tURUY5eUtXdVpnV203Ty13b2RUZ3FodVhXN1VfZnZ6Wm1vOHM3cTdMWTJlOHRlR0dfTTIwMllRUi1HS2hobm10S0FzUDZPWk1wbzR5Y3lsSElEb1VIdm5GQUlsdGdpczE0NjlRTk5odGs1c0Y3VjY2dkdiQ05Fb2lSelNtbElsZzJPcGhzMUJ3MVpHaUNSR3JsbkVqaDNhRWFwS1ZVTVBSSkl2MkFQb041a3pFMmhwcnMwNmdIeU9OeDBUSHhIZFFuSE1hRi1kakFlMHRCaktkQnR1QjU3UHFJcGVFc2RtYw?oc=5"
-      }
-    ],
-    "global": [
-      {
-        "title": "Brent Crude Rises 0.5% as Israel-Hezbollah Clashes Escalate - bloomingbit",
-        "source": "bloomingbit",
-        "published": "Sun, 16 Aug 2026 23:17:21 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xbmVNcTExdDRGWGFhdzlfU3dmTUVVamFsMHZ1VG1fOUduNTlxX1g4V0YwbVJiOU1wNThGRl9ZaXNfSlZfRkp1MEc3bGhTNm1fQzJUeQ?oc=5"
-      },
-      {
-        "title": "MCL1! price outlook: Micro WTI Crude Oil Futures holds above 0.786 support arc. Potential rebound toward $93 - FXStreet",
-        "source": "FXStreet",
-        "published": "Sun, 16 Aug 2026 23:14:39 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOekl5MnNzYWd5S01ZeVdNRGZqT2dBVTVPVzdCSmZaQ1J1dXFaQzVfdmI5VXNTSnRDVnRvb0djejQyWTg4aUpqb2VMOHJBSzJON19TQkpZTzdrb2dmNExUajhiSFBfREhkRGVhSWpKQUQ5dy01OXNzTUFUdGJZY1JITHBRWWlTNVZFRWwyR2dmZUxnLXItUlkwYXI5dC1VSzFKcElvM3phNzlCazJocjlYc1A0NzAwRkl4QVdqaVZVTG5namI5Ny03VVZUTG80YWF0OHpDbkpKdGJMc2QzOFVNYjNjRmY?oc=5"
-      },
-      {
-        "title": "Have Middle East Oil Flows Rebounded to 15 Million Bpd as U.S. Claims - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Sun, 16 Aug 2026 23:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWUJ6Z2sxMU5FdEhwaHZhUVNtdW0zZzlJWUYzSFAtM0RFM2FJNHZZaFBGYzNmOUhnVXI3c29lYm1nQ0RGYWl4WUdrSUw1YWl6VS1mY2FRN3FRTUhWZmVwOGNhdF91Si1FMDRZQzhKR0k1Q1RFdVE1czJEaXdLNmVyYS1ZYi1SMUlrZDB1MzNSbTZxUlFfNE5PUmc4b05WT1V1VTBybzFKWVV2N0NEeXhj0gG0AUFVX3lxTE1MS2RTN215LVV6TG9BZWRiaUY0LXk3SWJQY05LZnBmQzN6ZXhEd2tiVm5RZVJvOFE3aXk1cDRGY3JHNF9qcHVPTXFFQndQMGMwVDJ2MXRpNTQxTmRqNC1mQWN3Tnc1eERTcHRjOV9fWVhwMUI2d2h5NDdtTFFwNnZKZThhNGcweVZuU2ZyU1NnNHFHVlFVM2xSc3NXUWlrVjdCRkJIYUVMUHB6aEh2NnBfS3l4Vw?oc=5"
-      },
-      {
-        "title": "South Korea Maintains Emergency Measures Despite Crude Imports Recovering to 88% of Pre-War Levels; Reserve Targets Raised - finance.biggo.com",
-        "source": "finance.biggo.com",
-        "published": "Sun, 16 Aug 2026 22:25:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuUUZpSDZKdXNqU0RaQS1sbjgzbWVDSU15Vlk0YkdxTm1helZwN3lTT3IxeEtDU3J5U19EWjdKTmVXalFXQ2JHM0ZpZFlHTHFnV2JYQjFZOVVyaHhlYjd6YlJtb1lRdkZDMlFqNUZnc25MTWRFOWc?oc=5"
-      },
-      {
-        "title": "Israel-Hezbollah Fighting Intensifies as US Prepares More Economic Sanctions on Iran - bloomingbit",
-        "source": "bloomingbit",
-        "published": "Sun, 16 Aug 2026 21:58:38 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yTGQ4U0dkUDhBYlJDd3NvcXlVOHdwRHUtRHQ2S0U3OVFTV01Yb3B6STVtZHVSQU5wNmgzT0dQY05FUlZBU29fdkpfTEl1bnpRVnF4Qg?oc=5"
-      },
-      {
-        "title": "Oil Majors Reap $93 Billion Windfall From the Iran War - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Sun, 16 Aug 2026 19:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRDNDM1hWQllxUHpxblUwTlo1UGg5Z0hnd0FZU01QaUFRUVJ5U0RMeWR3cGw1OWFUUksyMlJKMkJBODBfZGNDaVBtcWw0TGs0YTVmaTl5YzdQNEd3TjlzV1ZCVW9URmQ0b29qQl9ucVh5SGtRVzlxcnhkM2FnV1pMNDZ4dElUS3N3bjhBOW5lVFp4QWFZMHluR3dFUkd0TjNKVEMw0gGoAUFVX3lxTE1lOWxaVkdZRTQ4RUx0bnkxTHhDLW01bUZ0RElsSVNfYTBicmJLd1hidVppcXMtV3FKUTBsRW5ickg0NVF3R1pIQkF4NThETUFkZF9ILUE4Z0lQZWFGckQ2Y2hQYkdJNjFkeTFFQl9oWloxWW9EUWZsUUc3NVBCMHlPNFNFUjVrVDc2dHIzaGd6X2hqZDZyWEZIYlRYc2Q4ejd5aVNkS3Q4Mg?oc=5"
-      },
-      {
-        "title": "Senate votes 86-11 to target Putin's war funding - The Natchez Democrat",
-        "source": "The Natchez Democrat",
-        "published": "Sun, 16 Aug 2026 17:01:21 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOG9nN0RVQVlSQnJEdzlwcXNwSWNYUDBsRkJLeXdBMG9VUzd2azVPa0pvdkhQOTZ4eHpEZjJjN1BfbmVCLTc4M0VRQXh0bmVLdzFQMmFZTWotTExQcWo5SU9zay1oOEVqMnJMeDFPbVVTZjhfRmltQXExVXVWSFNzbFp4aEl3MXFFYmJwOHVoTGlidFU2LWtPd0k5VWo?oc=5"
-      },
-      {
-        "title": "Iran war shifts to the economic front as US and Tehran battle for the upper hand - Firstpost",
-        "source": "Firstpost",
-        "published": "Sun, 16 Aug 2026 16:37:02 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdkEzZ19pWFVpMklLQ29rRVR1LVpPX2xsMURZX29PVkRYRTZzTmF5N2R2UFI4OGhFdm1QeFo3a3dWTXRORkdVUk90N1BPSnhrZU9XVV9QcmtWRDdfSWZaZ1kzQ1UxNjk2Z1RJWHRwaE1fTmllQThXdF9DYjh3MEx3NElxWFZ0OFVGNTRCTllDSGMta2Q3VGx1N0k4UVpyWTlBSmtzOFhxR0htenNBQzhCaThneU01Q2JoVUxEY1V6MlZ3WXM50gHKAUFVX3lxTE5wcGNqWFZZWklmR1JXczdMLWY5ZlNHUEdyTHJTYVBvQkN3Q19WYUtqOUZUZHVoU1ZGMEo0czRhZ3hia2xXVWlncVYweDFHQmNoOG1fdW9SNFRzbkI1WmNidFhrX0ZlTkFBZWNLNGFCZ1MtMTVHUW1RMlhUV3hNaWNKMTJLdTVqSnVxcEwxY0N3NU4tNHBva1kxWFluZjBCQ0hOemdtUFJnN0VTT0FnRUZ0cFE4Z1pOeUszWF83Z0RDUVNjLU9rMVR3aUE?oc=5"
-      }
-    ]
+    "nz": [],
+    "global": []
   }
 }
