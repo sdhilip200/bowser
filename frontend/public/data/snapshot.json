@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-17T17:52:12+00:00",
+  "generated_at": "2026-08-17T18:38:18+00:00",
   "fx": {
-    "nzd_per_usd": 1.698843,
-    "as_of": "Sun, 16 Aug 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.697418,
+    "as_of": "Mon, 17 Aug 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 88.52,
-      "latest_date": "2026-08-14",
-      "delta_1d_pct": 1.67,
-      "delta_30d_pct": 23.29,
+      "latest": 90.87,
+      "latest_date": "2026-08-17",
+      "delta_1d_pct": 2.65,
+      "delta_30d_pct": 26.23,
       "series": [
         {
           "date": "2025-08-18",
@@ -1010,14 +1010,18 @@
         {
           "date": "2026-08-14",
           "usd": 88.52
+        },
+        {
+          "date": "2026-08-17",
+          "usd": 90.87
         }
       ]
     },
     "wti": {
-      "latest": 82.4,
-      "latest_date": "2026-08-14",
-      "delta_1d_pct": 1.42,
-      "delta_30d_pct": 19.96,
+      "latest": 84.49,
+      "latest_date": "2026-08-17",
+      "delta_1d_pct": 2.54,
+      "delta_30d_pct": 23.25,
       "series": [
         {
           "date": "2025-08-18",
@@ -2018,35 +2022,39 @@
         {
           "date": "2026-08-14",
           "usd": 82.4
+        },
+        {
+          "date": "2026-08-17",
+          "usd": 84.49
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-08-16",
+    "as_of": "2026-08-17",
     "regular_91": {
-      "avg": 3.019,
-      "min": 2.796,
-      "max": 3.999,
-      "count": 72
+      "avg": 3.015,
+      "min": 2.715,
+      "max": 3.308,
+      "count": 73
     },
     "premium_95": {
-      "avg": 3.2,
-      "min": 2.876,
-      "max": 3.387,
-      "count": 40
+      "avg": 3.208,
+      "min": 2.856,
+      "max": 3.569,
+      "count": 41
     },
     "premium_98": {
-      "avg": 3.265,
+      "avg": 3.284,
       "min": 3.186,
-      "max": 3.329,
+      "max": 3.369,
       "count": 5
     },
     "diesel": {
-      "avg": 2.688,
+      "avg": 2.684,
       "min": 2.446,
-      "max": 3.099,
-      "count": 75
+      "max": 2.946,
+      "count": 80
     },
     "lpg": {
       "avg": 0.0,
@@ -2054,9 +2062,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 14,
-    "observations_yesterday": 136,
-    "observations_older": 42
+    "observations_today": 32,
+    "observations_yesterday": 159,
+    "observations_older": 8
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8574,8 +8582,8 @@
       {
         "title": "Falling Fuel Prices Take Edge Off Inflation Data - Scoop - New Zealand News",
         "source": "Scoop - New Zealand News",
-        "published": "Mon, 17 Aug 2026 05:56:06 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX1Z5Tm5vUTdJS1ZMRXBUbllIYUF0cTBjUTdkWG1nVVBsa2tWQUludmVYWEw2TXl0Qzd4TS1OVTdPc1VmUm5KN3AxV0UyUHRFdlpYWHptRUppLW1tZ3E0Y3hlSVFTbVNPcmtTUnRNRUJCaVRjRTRzbVdLUk5KQ1kzOXJhU29Za1pCZ1pWcWZKczk0N1dWTElsLTVTRF8?oc=5"
+        "published": "Mon, 17 Aug 2026 05:54:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRm1mLWhiaGVNYzRadFlHYVZ2bXctdXc3ZWhmVE83SWVBOFdma1phbFFxOXJ5R1JfR001emYtdEpoN21EVmdtUjFBSWR5ODBwcGpRN01pT1dZX2ZtOXViZTE2T3NfTkRYM2RhZmdUX25scGlKTHcwNXhROGVxaUx3bk0teGIwNHhxbDM2WDlTZVF5NUZwNnVqMUJfX2R5TWc?oc=5"
       },
       {
         "title": "Freightways revenue up but margins hit by fuel cost headwinds - BusinessDesk | NZ",
@@ -8590,8 +8598,8 @@
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN1EwZ0dTMEJMRjB0MWM0RTdlYm1ObGVhdGl2eXFfV3R6THJMaTluQ3hKZDBGRkwwaWxTYmloQUFMYWtSNWVDa1Fqd3kzc3E5LUNhbG9IQXl3bWVjcjdGTndJY0xNY0dFNUgxcEY5djBuUl9BVFRISzBYRFE2NVdZNXpXZUdvRkl4bDFGWGhpb1YySFRWWFRteEFTd2d3TlVMV2MwSmp0bkVBQmU0Ri1oeUFpTUhfOWc?oc=5"
       },
       {
-        "title": "Fuel anxiety has more Kiwis plugging in - The Dominion Post",
-        "source": "The Dominion Post",
+        "title": "Fuel anxiety has more Kiwis plugging in - thepost.co.nz",
+        "source": "thepost.co.nz",
         "published": "Sat, 15 Aug 2026 16:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOFlHVmk0alJwMGhHemtQMlFpTlAtMU9DRkY5d1U1VklvWU9hRGNZVExGWEpnblNldWthNWw1bVh4WW5tNDMwclh4eDZmNmJMekt1U042RFBvRFotYTg0WW9XbGdEQVd2QmR3OVJBdU9FS2hyX2xreUJSNmdCTmJHbjhWSk5iWUV6?oc=5"
       },
@@ -8624,7 +8632,7 @@
       {
         "title": "This Sprawling Chinese Refinery Is Bankrolling Tehran - WSJ",
         "source": "WSJ",
-        "published": "Mon, 17 Aug 2026 15:47:03 GMT",
+        "published": "Mon, 17 Aug 2026 15:31:25 GMT",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVX1lFVm1kMno2VWVnbElzd1lrWWNTZUdpMjFpQWphb3ZlNkY1WVZUY2VWX3FjUml5MXBLRVdfMmpjeUFMNk9NYkppa0NHSWRXeTh5dnlFSUJlRXZyMlBvXzZCX245UVJjQTNNUzJEOHJoc2Y2MmEtcUF3?oc=5"
       },
       {
