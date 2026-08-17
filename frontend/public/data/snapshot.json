@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T23:58:08+00:00",
+  "generated_at": "2026-08-17T01:50:30+00:00",
   "fx": {
     "nzd_per_usd": 1.698843,
     "as_of": "Sun, 16 Aug 2026 00:02:31 +0000"
@@ -8564,7 +8564,105 @@
   },
   "fuel_stocks": null,
   "news": {
-    "nz": [],
-    "global": []
+    "nz": [
+      {
+        "title": "Kiwi bellwether stock posts strong result but warns of fuel price impact - RNZ",
+        "source": "RNZ",
+        "published": "Sun, 16 Aug 2026 22:32:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN1EwZ0dTMEJMRjB0MWM0RTdlYm1ObGVhdGl2eXFfV3R6THJMaTluQ3hKZDBGRkwwaWxTYmloQUFMYWtSNWVDa1Fqd3kzc3E5LUNhbG9IQXl3bWVjcjdGTndJY0xNY0dFNUgxcEY5djBuUl9BVFRISzBYRFE2NVdZNXpXZUdvRkl4bDFGWGhpb1YySFRWWFRteEFTd2d3TlVMV2MwSmp0bkVBQmU0Ri1oeUFpTUhfOWc?oc=5"
+      },
+      {
+        "title": "Fuel anxiety has more Kiwis plugging in - thepost.co.nz",
+        "source": "thepost.co.nz",
+        "published": "Sat, 15 Aug 2026 16:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOFlHVmk0alJwMGhHemtQMlFpTlAtMU9DRkY5d1U1VklvWU9hRGNZVExGWEpnblNldWthNWw1bVh4WW5tNDMwclh4eDZmNmJMekt1U042RFBvRFotYTg0WW9XbGdEQVd2QmR3OVJBdU9FS2hyX2xreUJSNmdCTmJHbjhWSk5iWUV6?oc=5"
+      },
+      {
+        "title": "'Joker in the pack': Air NZ boss picks biggest obstacle to regional routes - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Thu, 13 Aug 2026 10:37:50 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdUZnOEh2aEx2Y1hsZno3YjlyZXZoZUNnNHlvVjlKTHMzODJtWlMxWi1HWGFKRERuMHg0alhuMkVqeUMybzhyUV9ITFp0ZTEwSVBpUnhwQl9PVHBzVFU3eGlzYm5sbk5BMUFlVmh4ZmsyYWxiZlRTN0FCdklJbkNlM1VmUno3b3lNQy1ySTQ4cUw0eHdkWmR2RllPZHhzb2pvSnhFRG05U0xXY2JuWFZIS1dqbHVDeG9hRVhxTUdSdG9xU2RZRmJCdndJWmRBVmpVZGRfczFSVDFlX2ppMHNoaFpiWjRuNUk5Q2dmWlItRDVrN1hMLUxrTmJPN2hoZ0Q0ZkNCQ2JpTHVVOHc?oc=5"
+      },
+      {
+        "title": "New Zealand’s fuel supply five months into the Hormuz crisis - newswire.co.nz",
+        "source": "newswire.co.nz",
+        "published": "Sat, 08 Aug 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkdjbGk1UWFQZWdCNjJuN1BSTWNtWi1SNEZFSTd3b00zVVg2NDhOenpzajVWa2FRaHk2NlJCWmpCTm93aWFFdVljdDBYOS0weG10RkxsNVdGUFcyMEduSmNUakNpT2hmSFYwZjM5RDI3MWZLTGpQcDB2emdlNS1TbUx4VlVGZDY4?oc=5"
+      },
+      {
+        "title": "Air NZ passenger numbers fall as jet fuel price rises hit - RNZ",
+        "source": "RNZ",
+        "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWmZwcjZucW4yZ1N5eHhMNWhUSy04YU9fVENtSk5UbVZBUmdGQzNOeTNob3kzOXBabjQ2LWYxVGkxMnhvVTFZZ1ZYaEZqSXBhZjlBbkt1WlI4YmFfN3lKY0dFMS1sS1dMMl9ucUZrcUtmR3hoRzYwM0dYTWJOU2tKV0h5YWZDcmg1UnNOc0Z3WUtkYVluQnNhazhNSURjQ0dpd3c?oc=5"
+      },
+      {
+        "title": "Petrol prices could climb above $3 in NZ amid Mideast tensions - Pacific Media Network",
+        "source": "Pacific Media Network",
+        "published": "Fri, 24 Jul 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQUI5U2JmSXhSNnF5aDh5b21Uek5lX0xtRDVVeW9DTlVmcjdxMWtMWE80cTRGdGVzNjRoWFlRZ0V2VzIyUTA2elJMUXlHcUE4eU5RWXYwbkhBOVZVR09PMERya2gtOUdSbFF6VUNFX1gyelQ3Um93YklKQm9QeVdhdE8zbFhYYzVxTW5JTmxCMnNMQ3V6T1hEUFJ3bDBvV3BkcHlpQ3M1dWxXVThjNlVVYnFwaWFkRmQyTU9pMkpRSjFMdC1QeFBVb0wxYkp6eVE?oc=5"
+      },
+      {
+        "title": "Oil price shock for New Zealand far from over - Westpac economist - RNZ",
+        "source": "RNZ",
+        "published": "Fri, 24 Jul 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMFFnUzVWcW1PTTJZbWZPdWp2eUlTcWJlMW1ZTFhUMDhrU3dVWXpaZUJaTkN0QXotQVBVN29EVUJwd3d3NEJ3eTgtU3NfUzJWZm00TXkwRV9MS2h2cHdudy1WSk5yTlB1TDdneG9NWW91ZzJaOGQ0ODhtelp2Z2I4SkZSTk9vakxFUFN4dzRpU2tBNjU4UFg1UUVmZkN3Wi1NSTFOZG1SNTQ4dw?oc=5"
+      },
+      {
+        "title": "Air NZ confirms flights through October as jet fuel prices spike overnight - Newstalk ZB",
+        "source": "Newstalk ZB",
+        "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNOVBXcUtMTWNoaTZmYTd6ajFqc0tURUY5eUtXdVpnV203Ty13b2RUZ3FodVhXN1VfZnZ6Wm1vOHM3cTdMWTJlOHRlR0dfTTIwMllRUi1HS2hobm10S0FzUDZPWk1wbzR5Y3lsSElEb1VIdm5GQUlsdGdpczE0NjlRTk5odGs1c0Y3VjY2dkdiQ05Fb2lSelNtbElsZzJPcGhzMUJ3MVpHaUNSR3JsbkVqaDNhRWFwS1ZVTVBSSkl2MkFQb041a3pFMmhwcnMwNmdIeU9OeDBUSHhIZFFuSE1hRi1kakFlMHRCaktkQnR1QjU3UHFJcGVFc2RtYw?oc=5"
+      }
+    ],
+    "global": [
+      {
+        "title": "3 Energy Stocks Tied To Oil Supply Risk As Middle East Tensions Rise - simplywall.st",
+        "source": "simplywall.st",
+        "published": "Mon, 17 Aug 2026 01:30:10 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOS3RCSHFXeERVcDlVeEpFb2VOVlhSNi1ZQ2pTeDdmdXU1Q1g1RE1pWGRENHZfSEYzVzlKU1FqSGpUcFhNWmpOOHBxelM5ZEtZcEZ1UGNjUng0ZVBucUFISlg3M1hYeW5kdHhSdzlJUTloWFlrS1IwQVFtM3BfNnpYWFRzS2Jzc0VGOFZlejY1d1RFUmFDMWRYNnZNT1JOT0hDaEkzWDNPcU5vWWxzWXcxZmFYTU15VTRaLWVVVldTMklMQTFKTmhBMjJIZmHSAdIBQVVfeXFMTVFLUGY3UTM1RFUteHROeTk2ZFJCVm9PRW8tMVhDc0hGWWNpQW1YY0t2YWEwSnZ5UGVuN0dSWGszbl9kTGhKQzRMemF4UGU4aHhPR0ZGRGRRNk85dkZDd09PcE8wSG1MUjV3RGR2VEREUVZYbzdjS0RJT1lCb28waHZfYzVLN2xvZFpVNldTcDRiTTFnV2sxRmRmQlhpTGtHZjRPMHg3Wjkwb0c2ZXVLVGVhVXRrTjRrMlU4M3BEX05QdTJJOUwxeUNJcGRFdkdWNkhR?oc=5"
+      },
+      {
+        "title": "U.S.-Iran war shifts Korea crude imports toward U.S. as Middle East share drops - CHOSUNBIZ - Chosunbiz",
+        "source": "Chosunbiz",
+        "published": "Mon, 17 Aug 2026 01:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSkFoSEgwN0lxalpVTDJIS3huSVBLLWI4ZTZZSFNkT3hOdFhTSDZQXzdONGhaeXd6S3hlX2J3elJiWDhuQmlGLW11VDI2S2NCcEVhZnNmWHZ5OFh2UVJDYUNpcEJSTWJsOTIwQVAtVERSbmR4NmFrSWNmT0wzZUliMVd30gGWAUFVX3lxTE1iM0F2M3R3XzB6Y0FKY3ZXYUtiYWJQNkJaeFJVcm96cXFCNDJRZVJRVnpPa1pqMmt5UDdBZ0ROb2twYXFOV2dTaGhpUTVzdERVUzdJMWtCUXpkOWlwYk8xb3drcU9rNjUzX1daWHBPNm1HcVJobkUyRGpoQ19Oc0FLWmliaXR3bHR1b0NSMjY3N3ZuTmFVUQ?oc=5"
+      },
+      {
+        "title": "Oil News: Can WTI and Brent Extend Gains as Hormuz Attacks Widen Supply Risk? - FXEmpire",
+        "source": "FXEmpire",
+        "published": "Mon, 17 Aug 2026 00:07:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbjVrRW5HM1FPQ3VJWERiVW5vQ3FaZUhzUjcxOWY0c21MekRrdU54dXJSamxkdWpRTnNMUXVMTVhwMkUxWHNZbXduN2FtZTNEVlo4eUJTYlhuU2NkbDdJajhUenRBaDhoa0V0VnNKektpdE1RbllnSUVfNnJRR0NvOS1IVl9fRVlES3ZzXzZWM1FSclZPSE50YktsUDBxNTZ5SWtFNTNLN2xpY3gzVWNGdHVKQ1Z1Z1VWYTRkQUdHbC1NYnlT?oc=5"
+      },
+      {
+        "title": "Iranian Hardliner Relatives Profit from Sanctions-Busting Oil Sales, Investigation Finds - News and Statistics - IndexBox",
+        "source": "IndexBox",
+        "published": "Sun, 16 Aug 2026 23:41:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUEpWV1JiQzNGcWtDU1NlcndsYTg0SzlDb1NZZDFpYTJ5SEsycUJSSTFjYkhGQ0ZoZTlkSGh3bnFOZWdXV1g5UFJOYW9wbExnbVF3NmsyODZ0dWNHdXp2QjhVN2s5OE8tdDZ1NTdOY3E0R0RCNTMydWh2OS1Yb0ZZcDNqRk1hajlXcVRsc3M1TTJwMDJ1czF1aEtYb25xV3ZrM0IxNHlRRHc?oc=5"
+      },
+      {
+        "title": "Brent Holds Gains as Mideast Tensions Persist - TradingView",
+        "source": "TradingView",
+        "published": "Sun, 16 Aug 2026 23:29:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2tIdEhiNldvb1NRSnZNT0xGa2V4NUhrTkMxeWNtVGhQY1lhRzU2akh0WkJGTmVaZGNxVkdLbXBsYmhQem4tUHJGdmZWWENpemVXLW1Ubmk0YS0xbkV5WWF2WkJDMG82ajVWZWRuWGxySDdJRkE0MVBvZDBzWGJqUjhONkhTZ0FUYlF6SjhWVGQ5SmpMUV8xYThDNms?oc=5"
+      },
+      {
+        "title": "Brent Crude Rises 0.5% as Israel-Hezbollah Clashes Escalate - bloomingbit",
+        "source": "bloomingbit",
+        "published": "Sun, 16 Aug 2026 23:17:21 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xbmVNcTExdDRGWGFhdzlfU3dmTUVVamFsMHZ1VG1fOUduNTlxX1g4V0YwbVJiOU1wNThGRl9ZaXNfSlZfRkp1MEc3bGhTNm1fQzJUeQ?oc=5"
+      },
+      {
+        "title": "MCL1! price outlook: Micro WTI Crude Oil Futures holds above 0.786 support arc. Potential rebound toward $93 - FXStreet",
+        "source": "FXStreet",
+        "published": "Sun, 16 Aug 2026 23:14:39 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOekl5MnNzYWd5S01ZeVdNRGZqT2dBVTVPVzdCSmZaQ1J1dXFaQzVfdmI5VXNTSnRDVnRvb0djejQyWTg4aUpqb2VMOHJBSzJON19TQkpZTzdrb2dmNExUajhiSFBfREhkRGVhSWpKQUQ5dy01OXNzTUFUdGJZY1JITHBRWWlTNVZFRWwyR2dmZUxnLXItUlkwYXI5dC1VSzFKcElvM3phNzlCazJocjlYc1A0NzAwRkl4QVdqaVZVTG5namI5Ny03VVZUTG80YWF0OHpDbkpKdGJMc2QzOFVNYjNjRmY?oc=5"
+      },
+      {
+        "title": "For Iran's Ruling Families, Corruption and Blockade Busting Run Deep - The Maritime Executive",
+        "source": "The Maritime Executive",
+        "published": "Sun, 16 Aug 2026 23:03:01 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOenY4ZGx0MEpTQ2ZBcmZDa3ZiUVktcHlHX3BLaS1rajZpWG9hc0piZFItOUh3clNmODBQOWliUGZOM2doVXRSQTBnY0RjWTFvMThOdEZ5Z2N2M2g0QlRKSTJHTEVDS3JJRDFPd2MwN21rdW05QWFQdXhvaE41NmpialNNbllYU204RU96THlnNGxOek5UZXRMcUl4OXFSdEpFYVlmOHllQnZCZw?oc=5"
+      }
+    ]
   }
 }
