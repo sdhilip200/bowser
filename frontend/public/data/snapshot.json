@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T13:53:54+00:00",
+  "generated_at": "2026-08-18T14:45:54+00:00",
   "fx": {
     "nzd_per_usd": 1.697418,
     "as_of": "Mon, 17 Aug 2026 00:02:31 +0000"
@@ -8624,16 +8624,22 @@
     ],
     "global": [
       {
+        "title": "WTI Oil Price Forecast: Weak trend strength keeps WTI below 100-day SMA - FXStreet",
+        "source": "FXStreet",
+        "published": "Tue, 18 Aug 2026 13:57:04 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRGdYWGRqWWhtRlI1a0VxZk5SaHd0LWF5MXp2ZC1jc01PVVM0NWFTb0ducUNqdno3TnE5Y1FSU2JXenFYRE9sbXFmUXhNc0pzRGNOalgtcWFfemU3ZGpaY19EVFQtb0xWSFQ0MTQ3SjJwLWpIN2dGdkZHcmZkQ3hpOXpfeWY4TXJvZTZFZ25QXzJwYnVCcmdtbElwTXVpb3Y1V3dBOHd0ZVdkNlZiUVNOZWpTUQ?oc=5"
+      },
+      {
+        "title": "Oil Extends Gains As Hormuz Solution Appears Distant - WSJ",
+        "source": "WSJ",
+        "published": "Tue, 18 Aug 2026 13:47:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObWtNbUJLVWcwSXlhTWl0MjBhY2NxdG96cFYxUHRXN0c2U0FvSjZYTjdGeXZSMkU5czhMb0k4cXhYOXlhTTNES2oxVlpRZUY4c196RTVsd0pFTkhXSU8xLUp1ZzVhc043NUE0c3FsUGtuZmtoX3RyTTlvMmkwdG8wSU5qbWZmN3lCQlA5UUdackVqTGdrY2JfVUlpaE5jeFQ4dzZLZ1Fxc29MaUJDQjdVMmo5TTV2bmxIMENLa3d5NjA2VGJOMFhaTXdxRjZ6UQ?oc=5"
+      },
+      {
         "title": "WTI Crude Oil Forecast: Hormuz Risk Overrides Inventory Surge - Investing.com",
         "source": "Investing.com",
         "published": "Tue, 18 Aug 2026 13:35:27 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUS11WWlOcVFUNmF0cUpCbFdjbkxNdEh1Q0RVUmhlRlVFNmpvMkVvSWVnUUFpODU3cjctNkVtZTVSVG1CZ2o4NlNXYmRJcjYwUXA1eC1sWXUwYlZUUmhjOHJFWFFYVXB4aUlOQUxMLUt4dkVaeUREX2ZMT0gwY0czMnJaaF9BcmhOMUlTZ1R1Rll4UHNtOGlSN0wwN3lRNGs2ZkZpd2IxNXo?oc=5"
-      },
-      {
-        "title": "Oil Prices Surge as Brent Tops $91, WTI Exceeds $85 - Caspianpost.com",
-        "source": "Caspianpost.com",
-        "published": "Tue, 18 Aug 2026 13:14:44 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORENrOFZMUTVTX0R2OVJQa3JVcVJmQ09tRU1FRVNDbjhBZzUyQWNyS3dJZkpQWWEyc2Q2b0NWZEZ0SGkwVW9WeUIxcGZ5UXNtTkowdG5kUXZnbWw5Z3c4OE92TjFGaFA2cFlmUktMUGhXRl9ld3pWM3c1ZGdWYmllMmN4QnNJMzhpTHc?oc=5"
       },
       {
         "title": "The Commodities Feed: Oil near $90 on escalating Middle East risks - ING THINK economic and financial analysis | ING THINK",
@@ -8664,12 +8670,6 @@
         "source": "IntelliNews",
         "published": "Tue, 18 Aug 2026 10:31:12 GMT",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa1VzVjdLNUcybUcyOGFKbGJOcVd4VTQyZDFyb005QV9saVgyZVJVWFJNY1RabC1xM2NoZkIxMnFUcU5kLWZuN3RWRzZxOTJXd1FyeE1CZ0Ztak5SMUxLeHJqT1hMOXZYbnJFcWtUWllLYzBIUWRVbzhwemw0VlRXb0tjZXIyOHlVMUcwcHd5U1lXbng4VGF6QUc1b3A?oc=5"
-      },
-      {
-        "title": "Brent surpasses $90/bbl threshold as US-Iran peace accord expires - engine.online",
-        "source": "engine.online",
-        "published": "Tue, 18 Aug 2026 10:17:12 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOejg4cWxLRlZpNGdoNFRDdVF4c1ZSeFhhUUY3WDIweWxkNDNjZDBFUWotUnRlTEU1ZXZCS1R6bmNXek81OVF1ckktU2dLWlJaUzlPTGpNNGRlelpfRHBLVDdzVkVLQ0ozd21tNkNmSVR3Mm1kOUYtUjctb09hbWxmYWxSSlZpTDhJRDlDak53ZkJ5UGY0bDdMY1pEUFRIOFF6d3RkYzFn?oc=5"
       }
     ]
   }
