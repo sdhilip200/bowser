@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T10:11:43+00:00",
+  "generated_at": "2026-08-18T10:53:13+00:00",
   "fx": {
     "nzd_per_usd": 1.697418,
     "as_of": "Mon, 17 Aug 2026 00:02:31 +0000"
@@ -8574,8 +8574,8 @@
   "news": {
     "nz": [
       {
-        "title": "New Zealand Drivers Got A Break At The Pump In July - Finimize",
-        "source": "Finimize",
+        "title": "New Zealand Drivers Got A Break At The Pump In July - finimize.com",
+        "source": "finimize.com",
         "published": "Mon, 17 Aug 2026 12:01:55 GMT",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMW83dVNmM2pSalpPUlMwS2U4VllnVWloc09XeklFYjNINk9uTDF2eUFsdWNvRU1QV0libVVNUUIwMFFSV2dCRDFRRDNCWFhpRmtSaEVDME9ucC1rellRMmwzc3VsN2g2QjhfVUUyb1F2M19mRldDLTYwdFUwaVF4QUdmSjhUQVU?oc=5"
       },
@@ -8624,6 +8624,24 @@
     ],
     "global": [
       {
+        "title": "Bitcoin pauses at $64,000 as rising yields, oil drag equities lower - CoinDesk",
+        "source": "CoinDesk",
+        "published": "Tue, 18 Aug 2026 10:39:29 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSWlmWnJzUHptcVJlR1NKbWRMck9MN2VybGNja25QMkV5UUtTTXhTUVljU0ctbElzSWEzLWQxb2hsWXJmSzNMU0M3MWczaE9XREYzSzcxbmplb3Fub2ZGaHRVZ0F1ZkZwX1dlZ0d1RVRRcDh2MmNFbVpwdHkwZk4zMXZEdXZaX20yV1lrOWhZVDJtMlVfaXY2WlB5S1ZwbXRCcldvR0twVWxNdmpnUVhzTTBR?oc=5"
+      },
+      {
+        "title": "Iran says Hormuz will stay shut until US lifts oil sanctions - IntelliNews",
+        "source": "IntelliNews",
+        "published": "Tue, 18 Aug 2026 10:31:12 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa1VzVjdLNUcybUcyOGFKbGJOcVd4VTQyZDFyb005QV9saVgyZVJVWFJNY1RabC1xM2NoZkIxMnFUcU5kLWZuN3RWRzZxOTJXd1FyeE1CZ0Ztak5SMUxLeHJqT1hMOXZYbnJFcWtUWllLYzBIUWRVbzhwemw0VlRXb0tjZXIyOHlVMUcwcHd5U1lXbng4VGF6QUc1b3A?oc=5"
+      },
+      {
+        "title": "Brent surpasses $90/bbl threshold as US-Iran peace accord expires - engine.online",
+        "source": "engine.online",
+        "published": "Tue, 18 Aug 2026 10:17:12 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOejg4cWxLRlZpNGdoNFRDdVF4c1ZSeFhhUUY3WDIweWxkNDNjZDBFUWotUnRlTEU1ZXZCS1R6bmNXek81OVF1ckktU2dLWlJaUzlPTGpNNGRlelpfRHBLVDdzVkVLQ0ozd21tNkNmSVR3Mm1kOUYtUjctb09hbWxmYWxSSlZpTDhJRDlDak53ZkJ5UGY0bDdMY1pEUFRIOFF6d3RkYzFn?oc=5"
+      },
+      {
         "title": "Will Oil Prices Keep Rising? - Rigzone",
         "source": "Rigzone",
         "published": "Tue, 18 Aug 2026 09:41:46 GMT",
@@ -8634,12 +8652,6 @@
         "source": "وكالة سبأ",
         "published": "Tue, 18 Aug 2026 09:19:14 GMT",
         "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80QmNGRVVrYzBPT08xZjM0dFJEVWQ2ZVNwUXFWRVhFa3E5MUQ3cVJGMlZnS0dYQ2dlSHBScW54MjVYX3JFZ2JpeUEyT0RmRW8?oc=5"
-      },
-      {
-        "title": "WTI consolidates below $84.50, two-week top as bullish bias remains amid Hormuz standoff - FXStreet",
-        "source": "FXStreet",
-        "published": "Tue, 18 Aug 2026 09:12:50 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc0tkMm5lM3hwLUtCTW05ejhGYU1id3g3V1Ezb0pBZmVzamJDOUxsQ0hkcDQzT21RWXFHeXF3NFllVTdLMHhsODFUWnhCNTFhMzVpZmM0NFI3NGppZWlhNTA3bEpVdDZaQkNnVTIwckxTVUlab2JhMlRDV0pUM1ZlQWx2cVNOV2ZBNEZGbGhxUDU5bElnbXpXaFFOcmo1QzdXckJYeDZxY0xXZ2loanpVSXBLcVduM3duajlvbXZoSVZWYzFvTDlB?oc=5"
       },
       {
         "title": "Hormuz Strait not to be reopened before oil sanctions lifted - Mehr News Agency",
@@ -8658,18 +8670,6 @@
         "source": "The Guardian",
         "published": "Tue, 18 Aug 2026 08:22:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR3hHTDZzczBpQ1pSYkJudm5pcjRmaWJ4elRyNlM1UUxuZW9xZDVPcXBlYVF0WHBBOURKUzhCOEJBcDJCdWVnb0tHQ2JHYWJGUzNqUWVaTGE1NWYwdGx1YlpjbS1Jb1IxZ2JvYlZwSGdNM29PaElSZ1c3U3lIM2oxR1RiUkpRa09fT3J3LTA5dlZoZEtjTk8tNXRaWU9sZw?oc=5"
-      },
-      {
-        "title": "Brent Above $90 As Hormuz Deal Prospects Dim -- Market Talk - Moomoo",
-        "source": "Moomoo",
-        "published": "Tue, 18 Aug 2026 08:13:34 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQURIbkN1LVpkejFZYzJBdVljZW1jZjgxQXNzVGUxcmVQbWhtdFphU0V4T09IWTNQQTVEYXJCdzRIcG1lZzhfR3k5RWpnMnpjU1lSMXFLdGU5a2pPZmM2dVJ2NFZkcGVPZUEzcGhRMWJSUkNrQkJleTBSbC1FUVFqamp6aEJ3ZWxQY010cXNMRUdqdVVZc2hmSno0b0w0Zw?oc=5"
-      },
-      {
-        "title": "Crude Oil Futures Rise on Positive Global Trends - Rediff MoneyWiz",
-        "source": "Rediff MoneyWiz",
-        "published": "Tue, 18 Aug 2026 08:07:20 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQWRkdnFXYzdaRlh3WkpHZ2ZWYVNsSWtMbGpfcmtlaTJMbll0cm82WkpyM2gwZ0tEeTVpV0RpTlNiQzExa0R3Q2xRUVJfODM4RjFFMmdOUHlNc3hXcGNicWNNc055OTZZam9XdGZmRUJ3SEIxWHl6cDMzRnUxLTVBZnFoM2c2V0Ntc1g1YnJKMWdsSE9oXzNLN0lEZUViN3YyQmfSAacBQVVfeXFMUEZnOXc0TnlDclVrSUc1YUl5LVRxSUxBa0tRVmlSWHhybXlZVzBjMHlpVmdoU3J0WlpYZGtLRE1ZZDlWblJmWTJld0YzZmZCTEtJMngzMDdsUUZvQ2tRSlBSaEVtSHdCdFVObGNRMDNqX3U2YU8tWEx3YWxuSHpMZ1Z1ZjM4V2dRRXBXSm13Y3FSR0JIdlI3N1VQYnJEQ0FvZENzZ09fdG8?oc=5"
       }
     ]
   }
