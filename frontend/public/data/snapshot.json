@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T21:34:11+00:00",
+  "generated_at": "2026-08-18T21:59:19+00:00",
   "fx": {
     "nzd_per_usd": 1.692613,
     "as_of": "Tue, 18 Aug 2026 00:02:31 +0000"
@@ -8582,12 +8582,6 @@
   "news": {
     "nz": [
       {
-        "title": "New Zealand Drivers Got A Break At The Pump In July - Finimize",
-        "source": "Finimize",
-        "published": "Mon, 17 Aug 2026 12:01:55 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMW83dVNmM2pSalpPUlMwS2U4VllnVWloc09XeklFYjNINk9uTDF2eUFsdWNvRU1QV0libVVNUUIwMFFSV2dCRDFRRDNCWFhpRmtSaEVDME9ucC1rellRMmwzc3VsN2g2QjhfVUUyb1F2M19mRldDLTYwdFUwaVF4QUdmSjhUQVU?oc=5"
-      },
-      {
         "title": "Falling Fuel Prices Take Edge Off Inflation Data - Scoop - New Zealand News",
         "source": "Scoop - New Zealand News",
         "published": "Mon, 17 Aug 2026 05:54:00 GMT",
@@ -8628,9 +8622,27 @@
         "source": "RNZ",
         "published": "Tue, 04 Aug 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWmZwcjZucW4yZ1N5eHhMNWhUSy04YU9fVENtSk5UbVZBUmdGQzNOeTNob3kzOXBabjQ2LWYxVGkxMnhvVTFZZ1ZYaEZqSXBhZjlBbkt1WlI4YmFfN3lKY0dFMS1sS1dMMl9ucUZrcUtmR3hoRzYwM0dYTWJOU2tKV0h5YWZDcmg1UnNOc0Z3WUtkYVluQnNhazhNSURjQ0dpd3c?oc=5"
+      },
+      {
+        "title": "Fuel Prices Ease Across Several Pacific Island Nations Despite Ongoing Supply Pressures - Scoop - New Zealand News",
+        "source": "Scoop - New Zealand News",
+        "published": "Mon, 03 Aug 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcGhhZlNJdGo4NDAwc0ViNHZnLWh3bjVFandwMHZqMHJ5WEFzYmVPaF9qaEswR0tXT2xXNk9lMlAzcVk5VDRnS1pVM0RsaGVVbi1pOENuNVVwQklNdGhvRkNhQjJyZTVrVjN4NjJOMU9ya3hqR2pvbkZtU2J1dlh1bS1MUXNsSEJld0lDaDdxVjd2YnVOS2ctWVhaUnU3VVc5ZTJuTWp5TGM2OWQyUlZiVlgtdURHdk9NVmI5dTdpcUJFS3FvQlNZR0JpM3U2RGlaWlBj?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Crude Oil Price Forecast: Can WTI Break Through $87.36? - FXEmpire",
+        "source": "FXEmpire",
+        "published": "Tue, 18 Aug 2026 21:44:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWlpQWnB3aVo5dUwwcm1VTVVPM3N1YldvRzVCcTNwZjN0aGNrSWc1NmdLWFo3ZDVkYW5MdHlGNlo3d19RRW5jWEZIYzNQV1lQVEdOeVpPS2duUkNiVDhCTWcyaXlwNmNQbnFWUmJ5OWVXMzJIWVRoMmdTX3RHZnNyZFlnSjkxRXRMdmxhSmt0STl6SkpnSXQ5Ml9sZWxmZ2tmUkpEcFln?oc=5"
+      },
+      {
+        "title": "Diesel Buyers Compete for Shrinking Supply Pool - WSJ",
+        "source": "WSJ",
+        "published": "Tue, 18 Aug 2026 21:42:46 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORjlZbU1kcTNFOER5NHh0eERnMzFtZklOYnprU2hjbW1FSmtoUGlMQ2x0VTBEU1pDQkxMOFRmbmpScWZIZFh5cndxZjg4QlhMTjU0TmdyeVJFOEZSUmNqTkZLRFdqZG1PYk11d25uUkFDSFd0YUF2b1NqRVlBaWxqTmdjdUIwZ0ZDNW9LNzhYcFJWUnE3cHgzWXZJSlg?oc=5"
+      },
       {
         "title": "CME : WTI Crude Oil futures drop as Middle East supply risks linger. - marketscreener.com",
         "source": "marketscreener.com",
@@ -8644,20 +8656,20 @@
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPalF5cXdFN2lDdUZWSXYxMjd1YzF3dEN2RnFHR2JSbjBKYkI4azlVNDBNNVctZHNTeWpwYnpxUnEwcElnaXY0RVVkY2QwNEZuVDRQczg2eEVzYmNIeDRVNmJPeERELWxjb1RSZEtha19oeTc4bU9sanpEZHNicTJROVJSLWxPcGlqTktUczZVZThzYUpX?oc=5"
       },
       {
-        "title": "AI Could Make Big Oil Even Bigger - oilprice.com",
-        "source": "oilprice.com",
+        "title": "AI Could Make Big Oil Even Bigger - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Tue, 18 Aug 2026 21:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ2xDNE03a0VkeVZhNkVnazFaQXhHelIwTUIxSzhzVFJVbmRLY1JIeWV4d0tiYzlQUjdUWU83N3NwUUdIZk54dFRsSE04QWpaSnMzaEc5TzEzc2d3c1ZYM29vRDZMVnVqWldxdDJ0ajkyREJCRHNaUTFNVmlTNE9RMzV30gGHAUFVX3lxTE5TQVJhdGVxNHdGZUFOa2xKMHBJSVN0SkFTMmZmVHRGdEtGN25YTEYzcUdpZzNGQ29WQjNUcTZnWGRwVFZMTDd0cHZTbS1kRENWLWZudDRmX1pTWGRNTE51MXh3U0ZycnE5ZDBnWmNJdzdmWUZCbFI0MDBJWFlrcWVNY1R3Y1Y5TQ?oc=5"
       },
       {
-        "title": "Distillate Stocks Sink Further as U.S. Crude Inventories Barely Budge - oilprice.com",
-        "source": "oilprice.com",
+        "title": "Distillate Stocks Sink Further as U.S. Crude Inventories Barely Budge - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Tue, 18 Aug 2026 20:56:48 GMT",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdDJrX2xsMzZWSGJ2eHQ1ZElNeFVqZTdhbWJkb2ZVbUx3UGlRa0ctemNDWWNFUUxLcmROOXhmaEJ0V3VVMk00YkxSM2FMUnk3cE5RSHUtRHZXM1hCeGU4T2JPbmQtdnlCdDNJTTNXMkthcURwTXNjUjIzZUZGR0FPLVZXUjl3UkROdXBqbnpUbGRDUlB2em8xRF9ZUkZDYkc1S1QyQUNuZVhwT05vekszZkxLdW9ralFISll5ZXVJcTLSAcYBQVVfeXFMT1F1NWNnUXZEZXJOZ2pVb1F6d05xTk1YS3h3M0czWFVSb0x1ZHJqazNmaVYxaG13cXd6TGM2b292MVpuVDhzMV9SVDloYmYwcjJ6NDk0RFRVdGVTZjFpbElza2d3clJzSDJ2ei05cjFrU21DcHhzYXViLU41cXdLRGI4ZnhLem45X2REel9oR0VkUXlBQy1xZFNKM3Y5VjdtZ194SVZNNTFubEZld0Y3ZEhjX19nVGNUTWJHTzZOZlhKWkNaZlhR?oc=5"
       },
       {
-        "title": "Only 7% of Global Green Hydrogen Capacity Was Finished on Schedule - oilprice.com",
-        "source": "oilprice.com",
+        "title": "Only 7% of Global Green Hydrogen Capacity Was Finished on Schedule - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Tue, 18 Aug 2026 20:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaUZVWEFyVTI5QmxRSGJvRXhlMEl6M052ZTJuNi1MRHZNX3pvT09GR3VISUNtOVY2WGNoV1hOZFA1MVdpbDl1YkFTY1Rodkd0aDdzbjlqUGV6TG54WTE2Z3VJRmlHa2lPME1xcTFySDMtMVpEakRnMW12THllbnY2RTNxc0ExeVdBZUZaYnBtcXRyQV9ydkE5Z3JHS0lxQ0pUcGhFZV9teVN0ZWdnelBsUnpXc9IBuAFBVV95cUxNOWZDLU0tYUt5ZHZ0REV4SndfZVFqQmh1aG9vMjE2dVNLTVVfSnI5RUhOWDJKSzhmZS1ob0FBRDBkR3p4V1lRMFdIR2Q3bk9hc3lKaU9wcnJoSFRhLXl0TUlRSjRzRS1wNzRpZ1JZbDdVQ3RpT1prRDh4S1JvaHVVS2UwbGtHenZ5VHRiTHlCNUk4T0pGbktxYkFVanBfUGFJczVFU1JWd3RCb1lzYlAyVEdPcW51eFBy?oc=5"
       },
@@ -8666,18 +8678,6 @@
         "source": "Fortune",
         "published": "Tue, 18 Aug 2026 19:31:01 GMT",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KM0xoMEc1a1o5QnZBYk5BbTE3SkVGWHM5bDg3bmJ0LVBKN2I4TGNUOEFzMV9vUVh5M19kQVJDQkZuOWpjaWxKQV9nR293bHhMeEZlbWFsendJbDVSb3FmbGd3?oc=5"
-      },
-      {
-        "title": "Crude Prices Gain on Reduced Middle Eastern Oil Supplies - Barchart.com",
-        "source": "Barchart.com",
-        "published": "Tue, 18 Aug 2026 19:30:53 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZU4yMXRIRGlicEw3Q25RcjBwNWx1R2lFQzJKaF9QaVJtYW5CMG9La0EyNVVOSmQwS0dYUFBzdzFPdmotWVBldHlmcGxSejVRSW9KUTBvRV9reGZyZk9pX3RGNzA1djNKVHVSQ2xZZGMxVmlHbVJ2UkZHbXROOHllWHdSeDlOQ3NPQU1tQ3BmTFBsSkR5Z0U1a3ZFWWU3Mm5ya1E?oc=5"
-      },
-      {
-        "title": "Oil Posts Modest Gains With Strait of Hormuz Situation Unclear - WSJ",
-        "source": "WSJ",
-        "published": "Tue, 18 Aug 2026 19:07:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObWtNbUJLVWcwSXlhTWl0MjBhY2NxdG96cFYxUHRXN0c2U0FvSjZYTjdGeXZSMkU5czhMb0k4cXhYOXlhTTNES2oxVlpRZUY4c196RTVsd0pFTkhXSU8xLUp1ZzVhc043NUE0c3FsUGtuZmtoX3RyTTlvMmkwdG8wSU5qbWZmN3lCQlA5UUdackVqTGdrY2JfVUlpaE5jeFQ4dzZLZ1Fxc29MaUJDQjdVMmo5TTV2bmxIMENLa3d5NjA2VGJOMFhaTXdxRjZ6UQ?oc=5"
       }
     ]
   }
