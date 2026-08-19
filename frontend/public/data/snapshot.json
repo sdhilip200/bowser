@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-08-19T17:47:24+00:00",
+  "generated_at": "2026-08-19T18:34:19+00:00",
   "fx": {
-    "nzd_per_usd": 1.692613,
-    "as_of": "Tue, 18 Aug 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.701528,
+    "as_of": "Wed, 19 Aug 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 91.06,
-      "latest_date": "2026-08-18",
-      "delta_1d_pct": 0.21,
-      "delta_30d_pct": 22.79,
+      "latest": 91.86,
+      "latest_date": "2026-08-19",
+      "delta_1d_pct": 0.92,
+      "delta_30d_pct": 17.74,
       "series": [
-        {
-          "date": "2025-08-18",
-          "usd": 66.6
-        },
         {
           "date": "2025-08-19",
           "usd": 65.79
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-08-18",
-          "usd": 91.06
+          "usd": 91.02
+        },
+        {
+          "date": "2026-08-19",
+          "usd": 91.86
         }
       ]
     },
     "wti": {
-      "latest": 84.12,
-      "latest_date": "2026-08-18",
-      "delta_1d_pct": -0.45,
-      "delta_30d_pct": 19.42,
+      "latest": 84.72,
+      "latest_date": "2026-08-19",
+      "delta_1d_pct": -0.26,
+      "delta_30d_pct": 15.23,
       "series": [
-        {
-          "date": "2025-08-18",
-          "usd": 63.42
-        },
         {
           "date": "2025-08-19",
           "usd": 62.35
@@ -2033,46 +2029,50 @@
         },
         {
           "date": "2026-08-18",
-          "usd": 84.12
+          "usd": 84.94
+        },
+        {
+          "date": "2026-08-19",
+          "usd": 84.72
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-08-18",
+    "as_of": "2026-08-19",
     "regular_91": {
-      "avg": 3.013,
-      "min": 2.716,
-      "max": 3.339,
-      "count": 72
+      "avg": 3.02,
+      "min": 2.715,
+      "max": 3.396,
+      "count": 83
     },
     "premium_95": {
-      "avg": 3.191,
-      "min": 2.716,
-      "max": 3.385,
-      "count": 41
+      "avg": 3.203,
+      "min": 2.896,
+      "max": 3.499,
+      "count": 49
     },
     "premium_98": {
-      "avg": 3.328,
-      "min": 3.259,
-      "max": 3.419,
-      "count": 7
+      "avg": 3.208,
+      "min": 3.156,
+      "max": 3.249,
+      "count": 3
     },
     "diesel": {
-      "avg": 2.704,
+      "avg": 2.691,
       "min": 2.446,
-      "max": 3.999,
-      "count": 87
+      "max": 3.108,
+      "count": 91
     },
     "lpg": {
-      "avg": 1.857,
-      "min": 1.857,
-      "max": 1.857,
-      "count": 1
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 29,
-    "observations_yesterday": 169,
-    "observations_older": 10
+    "observations_today": 13,
+    "observations_yesterday": 202,
+    "observations_older": 11
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8588,20 +8588,20 @@
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMW83dVNmM2pSalpPUlMwS2U4VllnVWloc09XeklFYjNINk9uTDF2eUFsdWNvRU1QV0libVVNUUIwMFFSV2dCRDFRRDNCWFhpRmtSaEVDME9ucC1rellRMmwzc3VsN2g2QjhfVUUyb1F2M19mRldDLTYwdFUwaVF4QUdmSjhUQVU?oc=5"
       },
       {
-        "title": "Falling Fuel Prices Take Edge Off Inflation Data - Scoop - New Zealand News",
-        "source": "Scoop - New Zealand News",
+        "title": "Falling Fuel Prices Take Edge Off Inflation Data - scoop.co.nz",
+        "source": "scoop.co.nz",
         "published": "Mon, 17 Aug 2026 05:54:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRm1mLWhiaGVNYzRadFlHYVZ2bXctdXc3ZWhmVE83SWVBOFdma1phbFFxOXJ5R1JfR001emYtdEpoN21EVmdtUjFBSWR5ODBwcGpRN01pT1dZX2ZtOXViZTE2T3NfTkRYM2RhZmdUX25scGlKTHcwNXhROGVxaUx3bk0teGIwNHhxbDM2WDlTZVF5NUZwNnVqMUJfX2R5TWc?oc=5"
       },
       {
-        "title": "Freightways revenue up but margins hit by fuel cost headwinds - BusinessDesk | NZ",
-        "source": "BusinessDesk | NZ",
+        "title": "Freightways revenue up but margins hit by fuel cost headwinds - businessdesk.co.nz",
+        "source": "businessdesk.co.nz",
         "published": "Mon, 17 Aug 2026 01:30:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNekoxb2NfaDBoYnF0UlJHZlF6Y2VmZUoxU0J5QXdEVWx6ZGJpcHkxX1BRTDJ1d3piOUwtS21tUjl0c09RdHhBV1NwSEZveUN5VDhlM19nZk0tczhmZGdNV0pNeG1hWWhuUW81UmtpdUFtUzRURjFWWU1PVVdUdHpDT244X3BmbEY1ZWFodVlnbHZCQklWQmVmTlJzaElGQmF4VE9IUjRFdkxjVG9Ib2lOVg?oc=5"
       },
       {
-        "title": "Kiwi bellwether stock posts strong result but warns of fuel price impact - RNZ",
-        "source": "RNZ",
+        "title": "Kiwi bellwether stock posts strong result but warns of fuel price impact - rnz.co.nz",
+        "source": "rnz.co.nz",
         "published": "Sun, 16 Aug 2026 22:32:44 GMT",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN1EwZ0dTMEJMRjB0MWM0RTdlYm1ObGVhdGl2eXFfV3R6THJMaTluQ3hKZDBGRkwwaWxTYmloQUFMYWtSNWVDa1Fqd3kzc3E5LUNhbG9IQXl3bWVjcjdGTndJY0xNY0dFNUgxcEY5djBuUl9BVFRISzBYRFE2NVdZNXpXZUdvRkl4bDFGWGhpb1YySFRWWFRteEFTd2d3TlVMV2MwSmp0bkVBQmU0Ri1oeUFpTUhfOWc?oc=5"
       },
@@ -8618,8 +8618,8 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkdjbGk1UWFQZWdCNjJuN1BSTWNtWi1SNEZFSTd3b00zVVg2NDhOenpzajVWa2FRaHk2NlJCWmpCTm93aWFFdVljdDBYOS0weG10RkxsNVdGUFcyMEduSmNUakNpT2hmSFYwZjM5RDI3MWZLTGpQcDB2emdlNS1TbUx4VlVGZDY4?oc=5"
       },
       {
-        "title": "Air NZ passenger numbers fall as jet fuel price rises hit - RNZ",
-        "source": "RNZ",
+        "title": "Air NZ passenger numbers fall as jet fuel price rises hit - rnz.co.nz",
+        "source": "rnz.co.nz",
         "published": "Tue, 04 Aug 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWmZwcjZucW4yZ1N5eHhMNWhUSy04YU9fVENtSk5UbVZBUmdGQzNOeTNob3kzOXBabjQ2LWYxVGkxMnhvVTFZZ1ZYaEZqSXBhZjlBbkt1WlI4YmFfN3lKY0dFMS1sS1dMMl9ucUZrcUtmR3hoRzYwM0dYTWJOU2tKV0h5YWZDcmg1UnNOc0Z3WUtkYVluQnNhazhNSURjQ0dpd3c?oc=5"
       },
@@ -8631,6 +8631,18 @@
       }
     ],
     "global": [
+      {
+        "title": "Oil in the Shadows: Dark Shipping Evades Sanctions - The American Action Forum",
+        "source": "The American Action Forum",
+        "published": "Wed, 19 Aug 2026 18:15:33 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSjZyc1ZTc0NiUDVLVnhCTjFNdmM3c1ZmMG5GbDJqQ3d0d1dob0dUN3RzbXhSOFlwN0I4b3FUYnFUREZtRkYyMDR2LXJsMno2ajVyV1JQMzdYdjEyRnM3SW5LV2lsODZ2cEFEcTdrUWhPbDZiZDhodnhndWM5cVlxOWhqZXQzcDNUMk94LWgtMjhta296QU9EUnVR?oc=5"
+      },
+      {
+        "title": "Brent Crude Tops $92 - TradingView",
+        "source": "TradingView",
+        "published": "Wed, 19 Aug 2026 17:58:24 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NdFVuMU1teXBmMzRtb3FPQk5DOWlEU2tCd2pYUFRKMlpDYzFXWnlYQzJ4YmNZd0xjYXJJcWpLYnZBbjBYei12MzZ2OVM5bmc4bW5saUlod3daejVGdXVtWVdfS09zQmNETkhJdjZwTFQwamJ2WVFjSFJ3?oc=5"
+      },
       {
         "title": "WTI Oil climbs as US-Iran standoff keeps Middle East supply risks elevated - FXStreet",
         "source": "FXStreet",
@@ -8662,22 +8674,10 @@
         "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOZldqZlpnTUc5S2ZoaXd4Y25KVV9LQVlkb3FCR2Jic3poM25qUVhaaElRc2VQc2piWHFSUWIwWW1EX0lfYnZPRmRERzZkV1ZjSnR1akRtWVFweUZxOHlJWDZ5dnJpQkNZM0ZEQndxMTY0d1lva1VLcmR2Mk96Q1gtN29yaGhqVzljaEVuZmlpTGhVY0FncUp1WnpiVW5veVNPSDVSd0F3OFBZZnFkTzFoT2RlQlFTajVtWnQtNERPOXp3SE1qUUxRWUNycWVuR2gyUjJTOUtPM0NSbXhGN3hCZEtiVmY5YXBRdTFDdkhYRnhsd3VsRHlZMTIwUmNQQjllaGtaSTE1MXp0Q3A2b1k1c3lYWdIBmAJBVV95cUxQa0VYQVd5TjI5V1dBdEJnZ2hBS2Rla3ZKZE4yeDZ1a1Ffb015SDZYVDVXQUVQMkVaSXgxV2RXemJWTnFDLTZScWdqSFA3X1dxeFFGMFRXQ3NIemhJV3UzbTl5aERiRnJVbm13NFdlWlh6cndCYURxbVZRLUNoNDFBckZ2RmhZU0g4UGFoTkFGUGZqeWk0dUR5Z0xFRldqRUVHX1dDTXQ2WmJSVEhhRDM1VzVNNjRrMXBrTDZBdF9VNFJFUnJ6Y1Zid0YxS1hKcE5MWkpOcF9UbUlrQy1yMDljQjRBa19GVmtZeE5KdFRmd0ZFLUtKeXdxS0hKOXFOcU9ONDgteFFFcEsyUmRCTmE4azZUbmhMUkpR?oc=5"
       },
       {
-        "title": "TEMPORARY DEAL – US Eases Russia Oil Sanctions to Tame Price Surge, Riling European Allies - EnergyNow.com",
+        "title": "Iran War Upends IEA’s Oil Market Outlook as Global Supply and Demand to Contract in 2026 - EnergyNow.com",
         "source": "EnergyNow.com",
-        "published": "Wed, 19 Aug 2026 13:03:28 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejE2ckRVdEhMTlM1dExrQlhHTjIwdk11M24waFF4VV9oSTNxRVBFMGNwYW9fTVhLcXVsd21VaUR0QVFackNpWVluc1I0MWZSdmZpTWpTM0JWTFNSZVh0d3pZYTNRMWRGeEQ4amlsM29kb01KZC01WHJnYW0waTlPbHZ3TDdnV21od0k5QVB0Q1hWSGZvbXc1YUtlNl8xZXJQandFS2otQ3dzMDdsUzRvTGZ3MzJVYUxwRFE?oc=5"
-      },
-      {
-        "title": "With Limited Options, Trump Tries Economic Pressure on Iran — Again - The New York Times",
-        "source": "The New York Times",
-        "published": "Wed, 19 Aug 2026 12:37:33 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV0lsRmdybEZNWEdfamRid0Vid1BxZXNjb0VpSzN5Z011cnFIV2Q0LUpmMVE0TUtSbmdrdC1LSlNWSmFHWThNVXZCajRFOEk1bWM2X2pNZmktTTBFb2taNUphT2FtaXU5S01DZTRzXzRTZkE1ZnBYbm5ueWJ2Q0pGUFlBWnBsWl8xdWJmeXJROERZX3hVcXc?oc=5"
-      },
-      {
-        "title": "Current price of oil as of August 19, 2026 - Fortune",
-        "source": "Fortune",
-        "published": "Wed, 19 Aug 2026 12:04:10 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIYlRWaXFRWVd3STMwYWZ1N1U3eHBlemdwVFhqLUx5ejFoY1ZwU3RLU2hKYWlQQnYzRVpwRkt5RDBQV0JUcHlVQnZCb3VuS19NUzZqcWNyQXBvTFV5S0NRTUdB?oc=5"
+        "published": "Wed, 19 Aug 2026 13:28:19 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPak5XcGxWUXBlNVhTbFd3RkFvM2dzMUdvcm84a3Nzc2hxLVJYMU1zOHBsYlY0eV90Z2NlY0xDajNSdUxweFJ6WVprRjNzOHVrT0cwbXM0LUZvRHRmdF9VMEN0NUZpZ1VjYjFNeEdiSHZ1SHpyZ2otTVhyLXVsb09yVm1NUUhQM2dMMUNkQjFCalh1a2Y3bjlqX1ZNOHFVRDM5Ylh2clBwd0JmTUFtcmZUeUUyRnhsRXNjeUE?oc=5"
       }
     ]
   }
