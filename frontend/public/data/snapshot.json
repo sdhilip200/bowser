@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T13:05:56+00:00",
+  "generated_at": "2026-08-20T14:06:03+00:00",
   "fx": {
     "nzd_per_usd": 1.701528,
     "as_of": "Wed, 19 Aug 2026 00:02:31 +0000"
@@ -8582,12 +8582,6 @@
   "news": {
     "nz": [
       {
-        "title": "‘Scheduling gap’ limits arrival of petrol and jet fuel to NZ - analyst watchful, not worried - thepost.co.nz",
-        "source": "thepost.co.nz",
-        "published": "Thu, 20 Aug 2026 04:46:23 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRW9BMnNZUjVoQjBmb0hKSTczSi1XeXJobkZDT2kxM3ZnT1lQN01jWjl2Uzc0dHRjZUt4dWt3RDktRUM0Q0tSZ3dwYVlvZ1dremNCc0RmQ21BUkVZRzdWS3pfclRHTmMwMU1kc1hEVHJsS3piUWJKbmZlTnUxQ1djSlB5eW1jclJrVDRMOTFsQjBBMUtNbE5nVjhVUTJuWjA0eFV5RG5Cenk2djhUOUhjUTdKMndJNUpNTjhJQWNqZGpSeXM?oc=5"
-      },
-      {
         "title": "New Zealand Drivers Got A Break At The Pump In July - Finimize",
         "source": "Finimize",
         "published": "Mon, 17 Aug 2026 12:01:55 GMT",
@@ -8628,9 +8622,39 @@
         "source": "RNZ",
         "published": "Tue, 04 Aug 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWmZwcjZucW4yZ1N5eHhMNWhUSy04YU9fVENtSk5UbVZBUmdGQzNOeTNob3kzOXBabjQ2LWYxVGkxMnhvVTFZZ1ZYaEZqSXBhZjlBbkt1WlI4YmFfN3lKY0dFMS1sS1dMMl9ucUZrcUtmR3hoRzYwM0dYTWJOU2tKV0h5YWZDcmg1UnNOc0Z3WUtkYVluQnNhazhNSURjQ0dpd3c?oc=5"
+      },
+      {
+        "title": "Petrol prices could climb above $3 in NZ amid Mideast tensions - Pacific Media Network",
+        "source": "Pacific Media Network",
+        "published": "Fri, 24 Jul 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQUI5U2JmSXhSNnF5aDh5b21Uek5lX0xtRDVVeW9DTlVmcjdxMWtMWE80cTRGdGVzNjRoWFlRZ0V2VzIyUTA2elJMUXlHcUE4eU5RWXYwbkhBOVZVR09PMERya2gtOUdSbFF6VUNFX1gyelQ3Um93YklKQm9QeVdhdE8zbFhYYzVxTW5JTmxCMnNMQ3V6T1hEUFJ3bDBvV3BkcHlpQ3M1dWxXVThjNlVVYnFwaWFkRmQyTU9pMkpRSjFMdC1QeFBVb0wxYkp6eVE?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Oil prices climb to three-week high as West Asia supply risks mount - Firstpost",
+        "source": "Firstpost",
+        "published": "Thu, 20 Aug 2026 13:58:05 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS3Q2WVBGWXNmWE8xT3ZabmYxeEFFOHpzaHhtZXlpVzlnYnVUWVZHaTMzRURaMVZWZmZrY3BNYUJUTUhVcXJ0Wnl0cUlvMzRFcDRBTzlZdGZOTmNDNWh0ZW9oaC1XdlJ1SDJQcVNkcC1OTGJfNG5FeEpMY19Tb1Y5QWMxck92TkRIRzJfQW5JWjZrUDFob3kwcjdqT1Fyc2pFNF84S3MzRkUxNGY1cGdFQXZ0cmU2cXfSAbwBQVVfeXFMT3RCcmhVWU5IU3dKVlZ5VThyRWJ5bkE2NG1uVWRYUTYxMEx1Rk9HUm5YeDFNQXVSN1A5MHpkeHBKMmRhWHF3MlhmZnRPSEN6TEh1bUxtU2s3X2RVU2wyQzZkbi04V3Jhb0xoNnIwNTNOcHVRQTFjODBHRUxWRjFRM3dZUnhGd19qTGpxbVphV0Y1Vi11SjdBUUd4X2EydTFsSWtnZVYtLXRmXzBJMFZIcFg2cW5xNVl1QklsUjg?oc=5"
+      },
+      {
+        "title": "Oil hits over 3-week high on Middle East supply concerns amid war impasse - The Lufkin Daily News",
+        "source": "The Lufkin Daily News",
+        "published": "Thu, 20 Aug 2026 13:10:08 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOa2R4V2RqMzk1UXlqU00xSGZ1cWJnNXRaaG13Y1NsRFdGTXlLSDRQeEoyVWRWdVJ4OHozZllDV3g3Vlh1cDhsbmdxSzJ6VU1qRFZzN0hwQUFiZnZVQU91NzY4Q2hzNU9EQ0kzMEt0TlFhUHAzQzhTNHQ5TFJwcTh5SUh2dnJMcnExNVUzcURTdFE0VG4zSFZ4SEFXMnduSGYwSE9TYlVpMF8wUWtTeUFFUWh3NndVdjRib0E2MmNRU2p3cFNobEZoZG1nMjF1d0NKU05rTEpteUpYZEFsV3JYbUdTbnZJeWtIZk15UFBsRUpaRTRKakx0WlM0cGJNTm5KWFQ4?oc=5"
+      },
+      {
+        "title": "ADNOC Issues Ninth Spot Crude Tender Since June as UAE Boosts Exports - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Thu, 20 Aug 2026 12:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUW1XdFE0WTFzYkxVSTk0Z0h5R0dQQ1lJVFk4M2dLNGEtVWlyUUxiR1NhLVZBQWtEMW1ZbG5tRmVfRnJPdTE1LThLc2p1b0FBZnJJeXp1c3BnamxaWmFjZTZPVVl5NFRJQ1dwYVBkLVFEWXVGUVZ6ektpa2JBTllaaWhIZ0Q1TFNBUXZha0lEZW5TdDF6dFdsa0h5dWotQ0prcWJrLUxIN0daQzR0Y2hudzR1MFFQNVJVSEx1TE9BVWxPN2fSAcgBQVVfeXFMTTdkVlg1bE5xbFRPaTRTUzU4VV9NMWFpR3BINEVUbURNWmlVY0RpZHktaVlxMVoxZVp6dmdCT1g0SHFJQlZDb3RVWE9VaExoNkdVVTBsVmJoVENNd3hXQk9BN0VxSjlHUTdReUZyamFtWmMxYXhLRjROOEJSeGpGWWd6MG56TlRMMHFWQXk3N2RqSlU4N3MwX085QURzNmhSLUprVEFZaUlwNlpDV0h4SDdfNUVPUFRLZlZ1WkVQTFVtZEgzT3p4OFg?oc=5"
+      },
+      {
+        "title": "Oil Gains Further, With Brent Crude Above $94 - WSJ",
+        "source": "WSJ",
+        "published": "Thu, 20 Aug 2026 11:50:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUWZNdzNnc01Rd0h4Wlh0Nno3YlZONXBucWU1OWFRbl9ld09qNTRkMGY1VWZJX2JqWW9WTHpVT1BfNjEzSDZkUjNIX213Z1pLOWFnbG50bW9CNmNYVU1VNW5oRHNYVGFUeWJsaFFhNHQzamNlLXczNENHY243bzNRTlQzYksyS2o2aERQNktZeEVSbDB1akpYUkRPNFg4eDgtcFhFTnl1dndHQkpDYWc?oc=5"
+      },
       {
         "title": "Oil prices hit three-week high amid Iran war, UAE trade freeze - qz.com",
         "source": "qz.com",
@@ -8650,34 +8674,10 @@
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTWJOZDJ1a1JETlBYdHh4SjRFUnEtWk0ybDlucDY0dGZCaEQ1RklhRGVWT2M4WFRLYW81UlBpdXlvVnJNdlFNelV5RDdfNGZZWU9ZWjEwZGVtV0lmaERUSnZ6YnhUNkVwLWh5M05lQzU0OV9pSUJ3M0F0UHdCZGUwQ25UZmpmcl9fQV8yY1AyU1JDVE1MRElfYjlDX0taMjN6dURN?oc=5"
       },
       {
-        "title": "U.S. Stock Futures Mixed Amid Earnings Reports - WSJ",
-        "source": "WSJ",
-        "published": "Thu, 20 Aug 2026 11:02:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPblZ4TkNlLXdkaVh0UUV2LVlVTkt5QW9KSjFuN1M4Z1k1Ti13SHFxZVdyMXpvV1h2czlUZURJV253eWtRdW0yWkhIVEdIUEE3b1BLTld6T2toUkRSYUx1VjFQb21sMmpvUjBGV3NPSjAyYjlBQjUxTVJqeVFJX25zdkppUHFfTUFjX3pJSG5RWnduT2Y4WlN6RkJfTUdpYjJrSnlTTVRreXhRdlVwU285Y05GMA?oc=5"
-      },
-      {
         "title": "Current price of oil as of August 20, 2026 - Fortune",
         "source": "Fortune",
-        "published": "Thu, 20 Aug 2026 11:00:00 GMT",
+        "published": "Thu, 20 Aug 2026 11:02:50 GMT",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NSzl1LXBGM1VVVlVzazJjZjVwWjB2ekZhMjFwTkVqNVRJN2tuLXpyYnA5T2xxXzlBSnFCeXFyTVpxRUFtalN1QkNyWVFQc2J5amZtWDBDYVN2OEI1aDM5YjNn?oc=5"
-      },
-      {
-        "title": "Chevron Stock And 2 Oil Majors To Watch As Iran Sanctions Shake Energy Markets - simplywall.st",
-        "source": "simplywall.st",
-        "published": "Thu, 20 Aug 2026 10:55:37 GMT",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMzZTNkJTRTFMVzJsQjNJdVF1dXhoUmZUTlc5eDZKUmdGWHF0Y21lak5YLUVvRnFyRDBxWndRTmRVbjNQaTZZa0tvRzY3S1JDcGc4QlNXcnhMMUtaNlZVbUhfaGRyY1U1MlpPNHFKXzRVaDY1VFNEeUdsOG1PakJ5Yk40QjVTR0xoTkNQWGE4NldOb0czQ2lZeXFwanNpek5UaGVSdENhLUpzcVZjUENfNlV4c1ZHYXF0RFhhS3p4Z1dmaFdDdkFqTTNhOWzSAdIBQVVfeXFMTWlJdUJaZVNoWkVKMTA3WjFlMUpKbVB5Q25rWjZoZklxekVfdm9BQXpSbDdKVkktT25EYTRUUUlCZV95QlVHSDZQdUFMUF9FQkNJX3l5TGluaTFSWndzOFpJZ0dmRUhicWFoTXpWRWFGbGVqQkRaR1JMbU9GdEx2b3h2R0E3VmczUzlJNGZRYzAtUU9kS21NVTBRbTZLREpsZEJPTnFpZDBaNEd1dExrM1QyTGtySzNFOTI5Ty1rVC0xM1FLbXl0bGRiRTN2MWxYaFh3?oc=5"
-      },
-      {
-        "title": "Oil Extends Gains on Iran Sanctions; Copper, Sugar Markets Tighten - News and Statistics - IndexBox",
-        "source": "IndexBox",
-        "published": "Thu, 20 Aug 2026 10:22:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU1VrQW1sSmFKd1FVUWNhemEyemtaQkNmLWJ5bFFRRkpFYk5kMlFMRDRzQk9TWmxGSGJWNGNUVjJSVUpUNWp3SUFxNm5WSWRGS2kteU9GMkNlRFo4UDQwbG1seU8xWVJLaWRKYmhQQ1dDaTFUUHFzRFFuMFAxYVdHZGZ1bFVMS21FN3BhQVg5dXcxTVNsdktEVFp3?oc=5"
-      },
-      {
-        "title": "US steps up sanctions pressure on Iran - Daily Sabah",
-        "source": "Daily Sabah",
-        "published": "Thu, 20 Aug 2026 09:44:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObF9ILVRsX1g1a2k2TklqSk1Bdmg5Zi1XdXV3ekdxSzRvOFlRODY0OU9nMUE5LVYxOGZ2QXNleC1Ca0NpVHpneFJSaFJVajFxRVBlUkFVbEYyWExxeTJqQnYtR1VrZ3RWTnFOUmF6OTFYaGhTUDZBZHpKa2hvdmE1MDJlQWF3Zw?oc=5"
       }
     ]
   }
