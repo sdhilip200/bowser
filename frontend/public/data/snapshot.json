@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T15:02:11+00:00",
+  "generated_at": "2026-08-20T15:45:33+00:00",
   "fx": {
     "nzd_per_usd": 1.701528,
     "as_of": "Wed, 19 Aug 2026 00:02:31 +0000"
@@ -8582,6 +8582,12 @@
   "news": {
     "nz": [
       {
+        "title": "‘Scheduling gap’ limits arrival of petrol and jet fuel to NZ - analyst watchful, not worried - thepost.co.nz",
+        "source": "thepost.co.nz",
+        "published": "Thu, 20 Aug 2026 04:46:23 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRW9BMnNZUjVoQjBmb0hKSTczSi1XeXJobkZDT2kxM3ZnT1lQN01jWjl2Uzc0dHRjZUt4dWt3RDktRUM0Q0tSZ3dwYVlvZ1dremNCc0RmQ21BUkVZRzdWS3pfclRHTmMwMU1kc1hEVHJsS3piUWJKbmZlTnUxQ1djSlB5eW1jclJrVDRMOTFsQjBBMUtNbE5nVjhVUTJuWjA0eFV5RG5Cenk2djhUOUhjUTdKMndJNUpNTjhJQWNqZGpSeXM?oc=5"
+      },
+      {
         "title": "New Zealand Drivers Got A Break At The Pump In July - Finimize",
         "source": "Finimize",
         "published": "Mon, 17 Aug 2026 12:01:55 GMT",
@@ -8622,12 +8628,6 @@
         "source": "RNZ",
         "published": "Tue, 04 Aug 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWmZwcjZucW4yZ1N5eHhMNWhUSy04YU9fVENtSk5UbVZBUmdGQzNOeTNob3kzOXBabjQ2LWYxVGkxMnhvVTFZZ1ZYaEZqSXBhZjlBbkt1WlI4YmFfN3lKY0dFMS1sS1dMMl9ucUZrcUtmR3hoRzYwM0dYTWJOU2tKV0h5YWZDcmg1UnNOc0Z3WUtkYVluQnNhazhNSURjQ0dpd3c?oc=5"
-      },
-      {
-        "title": "Fuel Prices Ease Across Several Pacific Island Nations Despite Ongoing Supply Pressures - Scoop - New Zealand News",
-        "source": "Scoop - New Zealand News",
-        "published": "Mon, 03 Aug 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcGhhZlNJdGo4NDAwc0ViNHZnLWh3bjVFandwMHZqMHJ5WEFzYmVPaF9qaEswR0tXT2xXNk9lMlAzcVk5VDRnS1pVM0RsaGVVbi1pOENuNVVwQklNdGhvRkNhQjJyZTVrVjN4NjJOMU9ya3hqR2pvbkZtU2J1dlh1bS1MUXNsSEJld0lDaDdxVjd2YnVOS2ctWVhaUnU3VVc5ZTJuTWp5TGM2OWQyUlZiVlgtdURHdk9NVmI5dTdpcUJFS3FvQlNZR0JpM3U2RGlaWlBj?oc=5"
       }
     ],
     "global": [
@@ -8638,22 +8638,22 @@
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS0Uxc1dDNER6NjliWUl5NEluUmJsTS1McDFTZzB5ZHN0b1lQcnoxbnNXa1RPNjJWNF9idlI2aGFPdG1ndXRLUjQxejVhT0h2bVhLTUtxQmpUcjlFdTNONG5WMDhxV2Q3R1FZNHFId0E1MzdITllpOEFNYjFzMjB0VVpPZ2NWUTVoTGJIV2FpVGV6UFU5c2phUldHdmNLdw?oc=5"
       },
       {
-        "title": "Stocks Move Lower Amid Disappointing Retail Earnings - WSJ",
-        "source": "WSJ",
-        "published": "Thu, 20 Aug 2026 14:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPblZ4TkNlLXdkaVh0UUV2LVlVTkt5QW9KSjFuN1M4Z1k1Ti13SHFxZVdyMXpvV1h2czlUZURJV253eWtRdW0yWkhIVEdIUEE3b1BLTld6T2toUkRSYUx1VjFQb21sMmpvUjBGV3NPSjAyYjlBQjUxTVJqeVFJX25zdkppUHFfTUFjX3pJSG5RWnduT2Y4WlN6RkJfTUdpYjJrSnlTTVRreXhRdlVwU285Y05GMA?oc=5"
+        "title": "Brent crude oil price on August 20, 2026 at 5:00 PM EDT - Robinhood",
+        "source": "Robinhood",
+        "published": "Thu, 20 Aug 2026 14:13:51 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcks4cUtaZDNHZHFlUmtfLTZiWGprR3VCMDJOcENheWJnZ0N2ZWlGNmU1Vi1fMFFKcjNadjBTSXBMX1p2ZGZyXzF3MFBWUGNPeFpBek1tZU9QcGd0UVpxVzZtbTlldFBKd0wzX0tTc19mVzZJNUo0LWM2cEhMNUxwVW05Y0ZiYUN1TWF6R1VTeFBLWlVvdWUxYkU0Mk1NSEFXUWZ3Q2FXTDUxM1Yzc2NOY010bUt5aEViVEthODQ5TXNTNGpJb182OXREMktFQQ?oc=5"
       },
       {
         "title": "Oil prices climb to three-week high as West Asia supply risks mount - Firstpost",
         "source": "Firstpost",
         "published": "Thu, 20 Aug 2026 13:58:05 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS3Q2WVBGWXNmWE8xT3ZabmYxeEFFOHpzaHhtZXlpVzlnYnVUWVZHaTMzRURaMVZWZmZrY3BNYUJUTUhVcXJ0Wnl0cUlvMzRFcDRBTzlZdGZOTmNDNWh0ZW9oaC1XdlJ1SDJQcVNkcC1OTGJfNG5FeEpMY19Tb1Y5QWMxck92TkRIRzJfQW5JWjZrUDFob3kwcjdqT1Fyc2pFNF84S3MzRkUxNGY1cGdFQXZ0cmU2cXc?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS3Q2WVBGWXNmWE8xT3ZabmYxeEFFOHpzaHhtZXlpVzlnYnVUWVZHaTMzRURaMVZWZmZrY3BNYUJUTUhVcXJ0Wnl0cUlvMzRFcDRBTzlZdGZOTmNDNWh0ZW9oaC1XdlJ1SDJQcVNkcC1OTGJfNG5FeEpMY19Tb1Y5QWMxck92TkRIRzJfQW5JWjZrUDFob3kwcjdqT1Fyc2pFNF84S3MzRkUxNGY1cGdFQXZ0cmU2cXfSAbwBQVVfeXFMT3RCcmhVWU5IU3dKVlZ5VThyRWJ5bkE2NG1uVWRYUTYxMEx1Rk9HUm5YeDFNQXVSN1A5MHpkeHBKMmRhWHF3MlhmZnRPSEN6TEh1bUxtU2s3X2RVU2wyQzZkbi04V3Jhb0xoNnIwNTNOcHVRQTFjODBHRUxWRjFRM3dZUnhGd19qTGpxbVphV0Y1Vi11SjdBUUd4X2EydTFsSWtnZVYtLXRmXzBJMFZIcFg2cW5xNVl1QklsUjg?oc=5"
       },
       {
-        "title": "Bond Market Stress Returns and Oil Rises in Edgy Day for Markets - The New York Times",
-        "source": "The New York Times",
-        "published": "Thu, 20 Aug 2026 13:40:33 GMT",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UOTFWNENXOFZ6V1FXYXhZWWFDcUlRYU1aTnFlcXlXN21mRll2QjFtWWRrZnRJZXFtYlJIcXFITGhqSWRSVDNTUi1EVnJUbS1pRENEVGVTNkNzSkEwLTdmTGV4NnUwdUpyMWRvaElCSXhjdlNiZ0E?oc=5"
+        "title": "Current price of oil as of August 20, 2026 - Fortune",
+        "source": "Fortune",
+        "published": "Thu, 20 Aug 2026 13:32:51 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NSzl1LXBGM1VVVlVzazJjZjVwWjB2ekZhMjFwTkVqNVRJN2tuLXpyYnA5T2xxXzlBSnFCeXFyTVpxRUFtalN1QkNyWVFQc2J5amZtWDBDYVN2OEI1aDM5YjNn?oc=5"
       },
       {
         "title": "Oil hits over 3-week high on Middle East supply concerns amid war impasse - The Lufkin Daily News",
@@ -8662,22 +8662,22 @@
         "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOa2R4V2RqMzk1UXlqU00xSGZ1cWJnNXRaaG13Y1NsRFdGTXlLSDRQeEoyVWRWdVJ4OHozZllDV3g3Vlh1cDhsbmdxSzJ6VU1qRFZzN0hwQUFiZnZVQU91NzY4Q2hzNU9EQ0kzMEt0TlFhUHAzQzhTNHQ5TFJwcTh5SUh2dnJMcnExNVUzcURTdFE0VG4zSFZ4SEFXMnduSGYwSE9TYlVpMF8wUWtTeUFFUWh3NndVdjRib0E2MmNRU2p3cFNobEZoZG1nMjF1d0NKU05rTEpteUpYZEFsV3JYbUdTbnZJeWtIZk15UFBsRUpaRTRKakx0WlM0cGJNTm5KWFQ4?oc=5"
       },
       {
+        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
+        "source": "LiteFinance",
+        "published": "Thu, 20 Aug 2026 12:53:47 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
+      },
+      {
         "title": "ADNOC Issues Ninth Spot Crude Tender Since June as UAE Boosts Exports - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Thu, 20 Aug 2026 12:30:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUW1XdFE0WTFzYkxVSTk0Z0h5R0dQQ1lJVFk4M2dLNGEtVWlyUUxiR1NhLVZBQWtEMW1ZbG5tRmVfRnJPdTE1LThLc2p1b0FBZnJJeXp1c3BnamxaWmFjZTZPVVl5NFRJQ1dwYVBkLVFEWXVGUVZ6ektpa2JBTllaaWhIZ0Q1TFNBUXZha0lEZW5TdDF6dFdsa0h5dWotQ0prcWJrLUxIN0daQzR0Y2hudzR1MFFQNVJVSEx1TE9BVWxPN2fSAcgBQVVfeXFMTTdkVlg1bE5xbFRPaTRTUzU4VV9NMWFpR3BINEVUbURNWmlVY0RpZHktaVlxMVoxZVp6dmdCT1g0SHFJQlZDb3RVWE9VaExoNkdVVTBsVmJoVENNd3hXQk9BN0VxSjlHUTdReUZyamFtWmMxYXhLRjROOEJSeGpGWWd6MG56TlRMMHFWQXk3N2RqSlU4N3MwX085QURzNmhSLUprVEFZaUlwNlpDV0h4SDdfNUVPUFRLZlZ1WkVQTFVtZEgzT3p4OFg?oc=5"
       },
       {
-        "title": "Oil Gains Further, With Brent Crude Above $94 - WSJ",
-        "source": "WSJ",
-        "published": "Thu, 20 Aug 2026 11:50:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUWZNdzNnc01Rd0h4Wlh0Nno3YlZONXBucWU1OWFRbl9ld09qNTRkMGY1VWZJX2JqWW9WTHpVT1BfNjEzSDZkUjNIX213Z1pLOWFnbG50bW9CNmNYVU1VNW5oRHNYVGFUeWJsaFFhNHQzamNlLXczNENHY243bzNRTlQzYksyS2o2aERQNktZeEVSbDB1akpYUkRPNFg4eDgtcFhFTnl1dndHQkpDYWc?oc=5"
-      },
-      {
-        "title": "Oil prices hit three-week high amid Iran war, UAE trade freeze - qz.com",
-        "source": "qz.com",
-        "published": "Thu, 20 Aug 2026 11:45:43 GMT",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wd1NBTzdSS01nQlZ2WGF3eFdDa1F1d0dNcDQzX1kzZTQ4MnUwQ1UtSWJVZE1YVnpOWHZINmNMd2NmV2tubWE1TXFJQnhGVXZIQjVxMmhIdlJYanZUaEV3ZmFWVzktYUpPOGlyc1hUX0RaT1d2aFNHeVhvSjR6d0k?oc=5"
+        "title": "Oil News: Hormuz Flows Stay Low as WTI and Brent Hit Three-Week High - FXEmpire",
+        "source": "FXEmpire",
+        "published": "Thu, 20 Aug 2026 11:52:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX3duZm9OR1NNM1RQOHZhbF9KbXA5UWFWZ1NTRXA2SmdXalBGWVc1U1hZVkRVUlBJalh4NllpczFMUW5yU2c2aWN0NGdrRFBraFBTQ0tQRGgyUnA3UktJd0VGY2tNVkxPeWQ0elJKUjRXczFaSXY2XzdWTnpVV2RBWHV2TzJkNUtIaktuWjZ6ZTkzU1FlTkt5ZU5wRXU3aU1hZVBDa0NTRnhfbEY4S216aDBwWnA1UldTRk1DRDNQQzQ0LVNt?oc=5"
       }
     ]
   }
