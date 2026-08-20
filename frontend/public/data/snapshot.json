@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-08-20T18:03:51+00:00",
+  "generated_at": "2026-08-20T18:37:45+00:00",
   "fx": {
-    "nzd_per_usd": 1.701528,
-    "as_of": "Wed, 19 Aug 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.687746,
+    "as_of": "Thu, 20 Aug 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 91.86,
-      "latest_date": "2026-08-19",
-      "delta_1d_pct": 0.92,
-      "delta_30d_pct": 17.74,
+      "latest": 93.6,
+      "latest_date": "2026-08-20",
+      "delta_1d_pct": 2.16,
+      "delta_30d_pct": 22.67,
       "series": [
-        {
-          "date": "2025-08-19",
-          "usd": 65.79
-        },
         {
           "date": "2025-08-20",
           "usd": 66.84
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-08-19",
-          "usd": 91.86
+          "usd": 91.62
+        },
+        {
+          "date": "2026-08-20",
+          "usd": 93.6
         }
       ]
     },
     "wti": {
-      "latest": 84.72,
-      "latest_date": "2026-08-19",
-      "delta_1d_pct": -0.26,
-      "delta_30d_pct": 15.23,
+      "latest": 86.63,
+      "latest_date": "2026-08-20",
+      "delta_1d_pct": 0.93,
+      "delta_30d_pct": 20.19,
       "series": [
-        {
-          "date": "2025-08-19",
-          "usd": 62.35
-        },
         {
           "date": "2025-08-20",
           "usd": 63.21
@@ -2033,46 +2029,50 @@
         },
         {
           "date": "2026-08-19",
-          "usd": 84.72
+          "usd": 85.83
+        },
+        {
+          "date": "2026-08-20",
+          "usd": 86.63
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-08-19",
+    "as_of": "2026-08-20",
     "regular_91": {
-      "avg": 3.02,
-      "min": 2.715,
-      "max": 3.396,
-      "count": 83
+      "avg": 2.966,
+      "min": 2.516,
+      "max": 3.56,
+      "count": 68
     },
     "premium_95": {
-      "avg": 3.203,
-      "min": 2.896,
-      "max": 3.499,
-      "count": 49
+      "avg": 3.151,
+      "min": 2.656,
+      "max": 3.609,
+      "count": 45
     },
     "premium_98": {
-      "avg": 3.208,
-      "min": 3.156,
-      "max": 3.249,
-      "count": 3
+      "avg": 3.295,
+      "min": 2.956,
+      "max": 3.429,
+      "count": 8
     },
     "diesel": {
-      "avg": 2.691,
-      "min": 2.446,
-      "max": 3.108,
-      "count": 91
+      "avg": 2.663,
+      "min": 2.246,
+      "max": 3.109,
+      "count": 84
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 1.847,
+      "min": 1.847,
+      "max": 1.847,
+      "count": 1
     },
-    "observations_today": 13,
-    "observations_yesterday": 202,
-    "observations_older": 11
+    "observations_today": 32,
+    "observations_yesterday": 166,
+    "observations_older": 8
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8582,12 +8582,6 @@
   "news": {
     "nz": [
       {
-        "title": "‘Scheduling gap’ limits arrival of petrol and jet fuel to NZ - analyst watchful, not worried - thepost.co.nz",
-        "source": "thepost.co.nz",
-        "published": "Thu, 20 Aug 2026 04:46:23 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRW9BMnNZUjVoQjBmb0hKSTczSi1XeXJobkZDT2kxM3ZnT1lQN01jWjl2Uzc0dHRjZUt4dWt3RDktRUM0Q0tSZ3dwYVlvZ1dremNCc0RmQ21BUkVZRzdWS3pfclRHTmMwMU1kc1hEVHJsS3piUWJKbmZlTnUxQ1djSlB5eW1jclJrVDRMOTFsQjBBMUtNbE5nVjhVUTJuWjA0eFV5RG5Cenk2djhUOUhjUTdKMndJNUpNTjhJQWNqZGpSeXM?oc=5"
-      },
-      {
         "title": "New Zealand Drivers Got A Break At The Pump In July - Finimize",
         "source": "Finimize",
         "published": "Mon, 17 Aug 2026 12:01:55 GMT",
@@ -8628,14 +8622,20 @@
         "source": "RNZ",
         "published": "Tue, 04 Aug 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWmZwcjZucW4yZ1N5eHhMNWhUSy04YU9fVENtSk5UbVZBUmdGQzNOeTNob3kzOXBabjQ2LWYxVGkxMnhvVTFZZ1ZYaEZqSXBhZjlBbkt1WlI4YmFfN3lKY0dFMS1sS1dMMl9ucUZrcUtmR3hoRzYwM0dYTWJOU2tKV0h5YWZDcmg1UnNOc0Z3WUtkYVluQnNhazhNSURjQ0dpd3c?oc=5"
+      },
+      {
+        "title": "Petrol prices could climb above $3 in NZ amid Mideast tensions - Pacific Media Network",
+        "source": "Pacific Media Network",
+        "published": "Fri, 24 Jul 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQUI5U2JmSXhSNnF5aDh5b21Uek5lX0xtRDVVeW9DTlVmcjdxMWtMWE80cTRGdGVzNjRoWFlRZ0V2VzIyUTA2elJMUXlHcUE4eU5RWXYwbkhBOVZVR09PMERya2gtOUdSbFF6VUNFX1gyelQ3Um93YklKQm9QeVdhdE8zbFhYYzVxTW5JTmxCMnNMQ3V6T1hEUFJ3bDBvV3BkcHlpQ3M1dWxXVThjNlVVYnFwaWFkRmQyTU9pMkpRSjFMdC1QeFBVb0wxYkp6eVE?oc=5"
       }
     ],
     "global": [
       {
-        "title": "Exxon Jumps 2% as Brent Crude Breaks Above $93 - Yahoo! Finance Canada",
-        "source": "Yahoo! Finance Canada",
-        "published": "Thu, 20 Aug 2026 17:57:16 GMT",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qeG9RQVdyT3lSOExxNnEtU2FzcU5NQmpsanFmTGZtTXh1ZWdzeFJMTUltcFpmdURkNW9BbnBzazF6V2gzSWIxall1Z1JvdXgyZnZ3eWVSZDJnSkJGZEQyT3ZDV2Znb0h6Y3VabVpheDYwYlNMMUJFcElZRmVOZ2s?oc=5"
+        "title": "Oil prices RISE as Trump launches 'economic D-Day' sanctions against Iran - Fox Business",
+        "source": "Fox Business",
+        "published": "Thu, 20 Aug 2026 17:59:13 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50bDhxa0piUFEtc1VuWmI5VUs0MzUtNjN1RENGUnhMVGJIQ090ekpaa3pFRnFuc0lLcV8tVl96NnNndl9Ia1RoMm92SVVGR3NSZDl4MndfOEpNQjg?oc=5"
       },
       {
         "title": "Brent, WTI Crude Prices, Aug. 20, 2026 - Energy Intelligence",
@@ -8650,34 +8650,34 @@
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZWRxXzdadjh4b2t2Yk5ZSkgxa0pITko5VURYUjZqWlVyc2dUSzF6NW45Y3VtVjVsTkZocUxfYmQtYVYyZWE2dU41T0NVTl9vTFZaamtYejhuTElRdVNNLXFjcThsdl9NUm1Qb2NPcGtodUNHMXlIV2RHNkc4cThyejdDdTdOWndxVWpja3RieFN2WGF6bFQwSFAzVE9rR0FPdEZzcjQ2TzdtbWd4aUlaZUcySXJQQ3dxYU0wNGdJSm10MkdZdF9wblFGUjBiMjJuVmNYLU1oYw?oc=5"
       },
       {
+        "title": "Continental Resources Expands Permian Footprint - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Thu, 20 Aug 2026 17:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNk9wWFhVU2VOZHhCZlBBYmVJVm5IVzd4MXpNV0ZxazZNdVU1T3g1MmwwQk16VWdvNmhQLTVKenE2RnRxRDRXOE5XOGgzMy1XY0FJd3JkeFFBNkY1TllUY1pPeUpOSTFFZTZtMHVDRW8wODFDWHRPV21EUGhTS0lXMGVHWldIWHF3Z19xS3RTLXYxcTZuRVd5RkVFWHY1NzVoSXVSVmN30gGrAUFVX3lxTE8wMmtadUktUkNQazhrczVVSkE2dGdTcklaT2loUDJGMFYtWC11SFFqN0ZHZWhMNnJpd1A4LWNSSTF4QTktS29XdlBFbE05VmZodnZodGNNRm5tdV9tTjBUU0d6ZU9LWmtBR1RoVm01ZTRiRnp1d1hvUURpSzU4YXV1VTRSbWhvc09kenB0MWNibkJrcHNVczY0ejQxVkFLclR5bm1tdDRUMGktdw?oc=5"
+      },
+      {
+        "title": "Exxon Jumps 2% as Brent Crude Breaks Above $93 - GuruFocus",
+        "source": "GuruFocus",
+        "published": "Thu, 20 Aug 2026 17:02:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM09nQ2EwWC1seHVYcXlqYXhaSGhqVlRrMzdFU0RyMTlteHNUSW5hc2dRdTdiMFFrZkVMWXZMenBPV21KU3h5bHNoeEhhbFdKY2tXN0dLbkU5My1WUnFXbXByb3NoUy1LMG5oM1JGVk1Yc3RBSkFMZVB4OThoUVlVX0dTdktjU0ZLSFdj?oc=5"
+      },
+      {
+        "title": "Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate - Al-Monitor",
+        "source": "Al-Monitor",
+        "published": "Thu, 20 Aug 2026 16:20:38 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLVpjRDNTVmRvMjRBTDVudzFWaW5GbFJNTTB2ODNxc01LSGIybVVlSXZlRVJiUGVoMnBTVFdWTTl6eThrTUFlZWRJakxkblFHZWNpOTRmeXgxUVRrZHl6c2FUeUxkcnZvUk0zZ0czX3Q4dnc4dl9FWGtLaVlKTjdjc2pXUEQwMUM5Y3hwYUlqTm40dlhiMllDcWdXcTJhVGRtTzhWcWNtQ0h1aFNvQTB4ck91b1NIeXpvRXhFMW5RYUo?oc=5"
+      },
+      {
         "title": "Trump threatens to isolate Iran. Who are its trading partners? - Reuters",
         "source": "Reuters",
         "published": "Thu, 20 Aug 2026 15:54:22 GMT",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUTliUERTQVlVWVpERU5Zd3V1dXdSY2JuZExLUjMtUkMxWXVoZFJzLUx1aTFITDQwdWY5RS1pR3pDNDVWMGlFS0t6cE9DQmYwNWRDeWViME50enF1X1RZWjNVYmF2ME9obUp6TTNLcG01ekdLS1liNUhmeDdmU1hYVnVpR21vTzlDYUJKY3EzYkItZThBZE9kYS1EV3FfYkx4MXZUVFloa2FYWG5jUVE?oc=5"
       },
       {
-        "title": "Tajikistan Turns to Iran for Oil as Russian Fuel Supply Collapses - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Thu, 20 Aug 2026 15:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZmF4WDU3NHpGVERZTFdmSWJPQ0ROamtqVjdocXZEa2k2Z29RZGtQdWh6b2d3eGgtVkFXQXBWa3kyTEhQVGpLLU5hX0I4dzdFNWJmR3E1QklHYTh6bnVzS241SzNqUXRqZVdrSTB0X0w0R1R0LUE2X2dmZEdTUHZNcFZjR1J6Qkk0OFRNb0NwblNLZ2pVQUZpM0hiVm5KeG0ydXZlUGNuU2FLbU9RcVZ4THpMOXRjNllsVFVoWmFB0gHDAUFVX3lxTE1rNWlkTnRsZHRGY1QtUTJfWFpNMXNJNEJiM0t1b25TZDhidEtPaW9OTF9rNElxRTVzdzBXQUZnU3piOGdmZElXcjY3SWhFYWdBWGJDMHVBdlF5aUNILWs2b0tfWGdiSGQ2ZFRKT2Y1SVlSVl9KNFM4aDQtTGRSN0xtSFlQVmx6WVUzSjhCODdKNjZkRnpNenlNaDF0MnNKVEkwbDlwX1JYbHNHQUYxcnczeXpfMTZuaFhKeHFpNlloMWV3Yw?oc=5"
-      },
-      {
         "title": "‘Tremendous costs’: Can Trump stop other countries from trading with Iran? - Al Jazeera",
         "source": "Al Jazeera",
         "published": "Thu, 20 Aug 2026 14:42:10 GMT",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSmdqeE9FSzM1Ym9zWXpSQVMxYVBpZTJtSmRUY0Y5Qmlibmt5TzhwWVkwOXltMkZlNFgtcXZ0enBneldOaUdRUVJzTmdiWkhCV2xpVEc3c3lTcjctTjExVjRUSjlhdVFEMzRuUmM4YUV5bGJFSEl3Z21qZTRkdE82VDc3a2s3V2wxdWEyVUQxcU05ckhaMjRPTkE2NndLSmd3R29iYVMzay11SzREVFJVQ9IBtgFBVV95cUxNMWhneW9ESmxaUVYzOE82aUdhbWRZME1ERll5bnVCWGI2NFpsY1QzMExXSzc2ZVJqOTdjeUdJcEFYUjVlTk1EbVFMTmdtaVV0U1NLdDgyR0oyMThLanZ6eVpoY1kyaXVRVTh2RUdWc3BjOVV1bW5fVmRaU3d3NmJTTlhCZUpZWTZQSjRlMGtvWlRyNVpoV2hLNklPa3hhYUFjd3ZNV2pROXQtZEg3T2ttY0NGczFJUQ?oc=5"
-      },
-      {
-        "title": "Brent crude oil price on August 20, 2026 at 5:00 PM EDT - Robinhood",
-        "source": "Robinhood",
-        "published": "Thu, 20 Aug 2026 14:13:51 GMT",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcks4cUtaZDNHZHFlUmtfLTZiWGprR3VCMDJOcENheWJnZ0N2ZWlGNmU1Vi1fMFFKcjNadjBTSXBMX1p2ZGZyXzF3MFBWUGNPeFpBek1tZU9QcGd0UVpxVzZtbTlldFBKd0wzX0tTc19mVzZJNUo0LWM2cEhMNUxwVW05Y0ZiYUN1TWF6R1VTeFBLWlVvdWUxYkU0Mk1NSEFXUWZ3Q2FXTDUxM1Yzc2NOY010bUt5aEViVEthODQ5TXNTNGpJb182OXREMktFQQ?oc=5"
-      },
-      {
-        "title": "Oil prices climb to three-week high as West Asia supply risks mount - Firstpost",
-        "source": "Firstpost",
-        "published": "Thu, 20 Aug 2026 13:58:05 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS3Q2WVBGWXNmWE8xT3ZabmYxeEFFOHpzaHhtZXlpVzlnYnVUWVZHaTMzRURaMVZWZmZrY3BNYUJUTUhVcXJ0Wnl0cUlvMzRFcDRBTzlZdGZOTmNDNWh0ZW9oaC1XdlJ1SDJQcVNkcC1OTGJfNG5FeEpMY19Tb1Y5QWMxck92TkRIRzJfQW5JWjZrUDFob3kwcjdqT1Fyc2pFNF84S3MzRkUxNGY1cGdFQXZ0cmU2cXfSAbwBQVVfeXFMT3RCcmhVWU5IU3dKVlZ5VThyRWJ5bkE2NG1uVWRYUTYxMEx1Rk9HUm5YeDFNQXVSN1A5MHpkeHBKMmRhWHF3MlhmZnRPSEN6TEh1bUxtU2s3X2RVU2wyQzZkbi04V3Jhb0xoNnIwNTNOcHVRQTFjODBHRUxWRjFRM3dZUnhGd19qTGpxbVphV0Y1Vi11SjdBUUd4X2EydTFsSWtnZVYtLXRmXzBJMFZIcFg2cW5xNVl1QklsUjg?oc=5"
       }
     ]
   }
