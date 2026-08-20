@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T11:06:44+00:00",
+  "generated_at": "2026-08-20T11:49:47+00:00",
   "fx": {
     "nzd_per_usd": 1.701528,
     "as_of": "Wed, 19 Aug 2026 00:02:31 +0000"
@@ -8632,10 +8632,34 @@
     ],
     "global": [
       {
+        "title": "Brent Oil Price Tops $93 as U.S.-Iran Impasse Persists - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Thu, 20 Aug 2026 11:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeXBieVpyNXJQdHV5Mm02MVEzcDE5S1FJbmRGNkE4RzVpTHFxT0xUTk0zNzBVTnVVeXFjeE5lRFBXSXJuZXR4VXE2aGRCaVl5MFU3YS1wbW9fRWxUWlBrSGdUbXl2WDNlbWhta3IxWnlTc1M4emw0cUJBSGRRZHJ0N0w5UkwyVFY5ejFic0FVNUdEUXA1cUpoeElncmcxVUxvaEVVUVRzVklBblnSAbABQVVfeXFMT2w5QzV0ZVAydHJJUFM4b09iRVFvOElCSEpZckFFUVdHcVFHeVpLVUdTSlAyZUkxR3FNOW9lSWRtMUI0V0o0c1F0WkJQeFBCd3U0dHNldHFoOUxPcHI1NGhtZmp5a0lsUU85NEhBNlVPMjJXN1ZHZXFWemNIekMtdkFPcDBVazRkWVZXU3pEUVRMMVJBY2YwdXhfTTU1Ry04NDJPMGNIRENib2JvU0w0bWo?oc=5"
+      },
+      {
+        "title": "World shares are mixed after US Treasury expands debt buybacks, while Brent crude gains 2.2% - Norwalk Hour",
+        "source": "Norwalk Hour",
+        "published": "Thu, 20 Aug 2026 11:11:05 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTWJOZDJ1a1JETlBYdHh4SjRFUnEtWk0ybDlucDY0dGZCaEQ1RklhRGVWT2M4WFRLYW81UlBpdXlvVnJNdlFNelV5RDdfNGZZWU9ZWjEwZGVtV0lmaERUSnZ6YnhUNkVwLWh5M05lQzU0OV9pSUJ3M0F0UHdCZGUwQ25UZmpmcl9fQV8yY1AyU1JDVE1MRElfYjlDX0taMjN6dURN?oc=5"
+      },
+      {
+        "title": "U.S. Stock Futures Mixed Amid Earnings Reports - WSJ",
+        "source": "WSJ",
+        "published": "Thu, 20 Aug 2026 11:02:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPblZ4TkNlLXdkaVh0UUV2LVlVTkt5QW9KSjFuN1M4Z1k1Ti13SHFxZVdyMXpvV1h2czlUZURJV253eWtRdW0yWkhIVEdIUEE3b1BLTld6T2toUkRSYUx1VjFQb21sMmpvUjBGV3NPSjAyYjlBQjUxTVJqeVFJX25zdkppUHFfTUFjX3pJSG5RWnduT2Y4WlN6RkJfTUdpYjJrSnlTTVRreXhRdlVwU285Y05GMA?oc=5"
+      },
+      {
         "title": "Current price of oil as of Aug. 20, 2026 - Fortune",
         "source": "Fortune",
         "published": "Thu, 20 Aug 2026 11:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NSzl1LXBGM1VVVlVzazJjZjVwWjB2ekZhMjFwTkVqNVRJN2tuLXpyYnA5T2xxXzlBSnFCeXFyTVpxRUFtalN1QkNyWVFQc2J5amZtWDBDYVN2OEI1aDM5YjNn?oc=5"
+      },
+      {
+        "title": "Brent Approaches $94 - TradingView",
+        "source": "TradingView",
+        "published": "Thu, 20 Aug 2026 10:56:52 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXd2JyZXVVVC1lS19fUFFUdzE0eFRzRWJpRmZ2V3cycFFjY0gzeE54ZTRvcGR1UGFvNVFJVGV6T3JCVHV3dDZ3Z25VQ2dVWHNhZTVyV1U2NU4ycWxhclZ2WkJUZktqc2R4VzQ2and1YlBHQVliREhVRmF3?oc=5"
       },
       {
         "title": "Chevron Stock And 2 Oil Majors To Watch As Iran Sanctions Shake Energy Markets - simplywall.st",
@@ -8654,30 +8678,6 @@
         "source": "Daily Sabah",
         "published": "Thu, 20 Aug 2026 09:44:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObF9ILVRsX1g1a2k2TklqSk1Bdmg5Zi1XdXV3ekdxSzRvOFlRODY0OU9nMUE5LVYxOGZ2QXNleC1Ca0NpVHpneFJSaFJVajFxRVBlUkFVbEYyWExxeTJqQnYtR1VrZ3RWTnFOUmF6OTFYaGhTUDZBZHpKa2hvdmE1MDJlQWF3Zw?oc=5"
-      },
-      {
-        "title": "Trump escalates economic war on Iran: Can sanctions and oil blockade force Tehran to cave in? - Gulf News",
-        "source": "Gulf News",
-        "published": "Thu, 20 Aug 2026 09:32:32 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeXBMaGsxMlR2UVNQUVp2ajJBVE5pYllxSUZWdkNFT3FrbnBhS085akFVSzNVZXpBVkdVa01rcjZReWRGeEFnS3BXUHhjWXNjanNCY21ISEpoNTFWbEItVUtXZVpEYmJraEwxdTJlQ1JzMnNVS2dZZ2RpTkZQWTd5UE9IdGRmelp6RVJ2Q1p0QkloU3U5S0RfNjhHVTJ1bzNWaU5qZjhoNzBoYUpZTFp3cFNZalMxNXVIX0ladFh5NmU4SVZobG42aUVjS2RwUzJPZllSOTZxUUdmXzNCOGZpOGFmRmVqZ9IB-AFBVV95cUxNLXhhcWg3SlE5amhreEhBZUdFdml4WWJ3dDNoWE4wTDJ6MTFFRWxBM2RWZjF3YVdZYmRVOUMzM0RJZDNyallDLURoTUVHZmJuV2dGMElVenFxdnNSc25PcXoxWXZYdTNmR2ZQYWJ3UVNSZGc3Zy1jdl9iZ3NYTTNsLTVLYmVBcDlrbm1WWmVoRXRiS1l0X3IyczE5RkJuOXpjUGttbVJuc3FkY1U5ejUzXzV0VnNzczBZcTFhRF9PRnB4bndMd0hxWGVFWWVkbTd5MWpUWjJmeExVcVRWLXR0Qi1VaEhyT1RKMG9Qc0F0SzJONHdHd2lIQg?oc=5"
-      },
-      {
-        "title": "Has Iranian Crude Become Irrelevant to Global Oil Supply - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Thu, 20 Aug 2026 09:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVlBtalJwd3BtU2RKMGhtczZ4Nk45bXhISFZod19wYmlyWU5BSnJiZFhsTmN0MXJhdllhRDY1Wm1aTEtyUzZmdDRvTUR2R3VpdTM2SENXUG1IaVlPSFBMa2k3V0hNUkdrRGRIRnhtZEtIX29Yc3RjRUMzbFIyaElDWlVvd3BDM0ZVVGYtMkdDOHA3Q3NlaTluZzRDQ2x6UFBOTkFQanhMcWdIV3FWRmpYYUlB0gG3AUFVX3lxTE5ZRFdTczJteUxBZmZCdUYxNUFvU1ZhWUNZdXQzM1pjbnY0OWk1ZjBTZDVwX0l1Uy1jcTRzUGdiVVdvZUl2ODYzdi11Zjk3ekYzOHhhUUotWUtsWUdEZ1RSeC0wenU4R19GeEtaemxtNzhEX1gzOG1oMkNDVW5LTGQxYTNqd1ZQbWZ1dFViWG15NzdFdjZldk1IM1dWMDUwUEQtY1c0ZUNLS1pqc1NSYWdDaTg1VEdVQQ?oc=5"
-      },
-      {
-        "title": "World shares are mixed after US Treasury expands debt buybacks, while Brent crude gains 2.2% - WTOP",
-        "source": "WTOP",
-        "published": "Thu, 20 Aug 2026 09:27:41 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTmRUOUhzMnpENU1ZdEZTYThSZVZHT1Rlb0R6WHE4cmp1S0ZkUmtmWkgza0ZnOXZLLXk4SFc2azNLZmZZOTNYbUVjRzdjeEM5aFZUVHRkOFgxdzk5NENySUI4QkR6ZGVyVVVKNDJZMnctZ1dSUjM1dGkxYkdUbVlwVTl4WU0zbHR0S1RELVpkMkF2M0RiaXBfLWhlc2t0c0loZUdrYUdlTTRXWGVmOXVhVXptMVNDamRfMF9RQ2R4c0dkdVE?oc=5"
-      },
-      {
-        "title": "World shares are mixed after US Treasury expands debt buybacks, while Brent crude gains 2.2% - Ottumwa Courier",
-        "source": "Ottumwa Courier",
-        "published": "Thu, 20 Aug 2026 09:03:03 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNOUpKTWpNNXBhVGREa2ZoRXNzLWpmQ3lTd3NET2Z5bUVZR1hmNUdfeVg0S1NUUzhNQnlmNE5mU0hmSXJFQ092YkNoNUMtWl9PRVBsMEpfSlQwR1VZR1lFWmdVZHk2dVhNckRwX04zREUySFVLNGlfNEZET0dFcEpERXFmM3o0Rml5TTZsYmJxVTZ1blE5aE1XVkFhY2V6OF91VUU3VEhLN3JfNnRoMU0wbGZ3Ri1yRTZGU0NsVnhZNlI3Yko3ZnVTc1NWbnlrcjZsck04Qm4yR09BU2hGTTd5NjM2aUxKQlpJUkdvYW1IR2FEdWs3djc0d0l5Z0w2UTBPR0lqRy14Z1NRRkhDZW9qQg?oc=5"
       }
     ]
   }
