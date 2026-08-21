@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-08-21T18:04:05+00:00",
+  "generated_at": "2026-08-21T18:35:30+00:00",
   "fx": {
-    "nzd_per_usd": 1.687746,
-    "as_of": "Thu, 20 Aug 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.681255,
+    "as_of": "Fri, 21 Aug 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 93.6,
-      "latest_date": "2026-08-20",
-      "delta_1d_pct": 2.16,
-      "delta_30d_pct": 22.67,
+      "latest": 94.57,
+      "latest_date": "2026-08-21",
+      "delta_1d_pct": 0.84,
+      "delta_30d_pct": 24.42,
       "series": [
-        {
-          "date": "2025-08-20",
-          "usd": 66.84
-        },
         {
           "date": "2025-08-21",
           "usd": 67.67
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-08-20",
-          "usd": 93.6
+          "usd": 93.78
+        },
+        {
+          "date": "2026-08-21",
+          "usd": 94.57
         }
       ]
     },
     "wti": {
-      "latest": 86.63,
-      "latest_date": "2026-08-20",
-      "delta_1d_pct": 0.93,
-      "delta_30d_pct": 20.19,
+      "latest": 87.28,
+      "latest_date": "2026-08-21",
+      "delta_1d_pct": -0.63,
+      "delta_30d_pct": 22.22,
       "series": [
-        {
-          "date": "2025-08-20",
-          "usd": 63.21
-        },
         {
           "date": "2025-08-21",
           "usd": 63.52
@@ -2033,45 +2029,49 @@
         },
         {
           "date": "2026-08-20",
-          "usd": 86.63
+          "usd": 87.83
+        },
+        {
+          "date": "2026-08-21",
+          "usd": 87.28
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-08-20",
+    "as_of": "2026-08-21",
     "regular_91": {
-      "avg": 2.966,
-      "min": 2.516,
+      "avg": 3.013,
+      "min": 2.656,
       "max": 3.56,
-      "count": 68
+      "count": 94
     },
     "premium_95": {
-      "avg": 3.151,
-      "min": 2.656,
-      "max": 3.609,
-      "count": 45
+      "avg": 3.209,
+      "min": 2.696,
+      "max": 3.529,
+      "count": 57
     },
     "premium_98": {
-      "avg": 3.295,
-      "min": 2.956,
-      "max": 3.429,
-      "count": 8
+      "avg": 3.319,
+      "min": 3.156,
+      "max": 3.599,
+      "count": 18
     },
     "diesel": {
-      "avg": 2.663,
-      "min": 2.246,
+      "avg": 2.684,
+      "min": 2.396,
       "max": 3.109,
-      "count": 84
+      "count": 94
     },
     "lpg": {
-      "avg": 1.847,
-      "min": 1.847,
-      "max": 1.847,
+      "avg": 4.9,
+      "min": 4.9,
+      "max": 4.9,
       "count": 1
     },
-    "observations_today": 32,
-    "observations_yesterday": 166,
+    "observations_today": 0,
+    "observations_yesterday": 256,
     "observations_older": 8
   },
   "mbie_waterfall": {
@@ -8585,7 +8585,7 @@
         "title": "‘Scheduling gap’ limits arrival of petrol and jet fuel to NZ - analyst watchful, not worried - thepost.co.nz",
         "source": "thepost.co.nz",
         "published": "Thu, 20 Aug 2026 04:46:23 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRW9BMnNZUjVoQjBmb0hKSTczSi1XeXJobkZDT2kxM3ZnT1lQN01jWjl2Uzc0dHRjZUt4dWt3RDktRUM0Q0tSZ3dwYVlvZ1dremNCc0RmQ21BUkVZRzdWS3pfclRHTmMwMU1kc1hEVHJsS3piUWJKbmZlTnUxQ1djSlB5eW1jclJrVDRMOTFsQjBBMUtNbE5nVjhVUTJuWjA0eFV5RG5Cenk2djhUOUhjUTdKMndJNUpNTjhJQWNqZGpSeXM?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSFcxcVNLYWNHRGE0cFJScnE0QmNZN0dtcWhPS2pydEE3ejZva2RwRmxFR3RHRXY4Ym90WjV3X25jaVdNWjQ1aDdpM0ExR2pSdGFvdlJjQmItNzN1VVdTSmx6eWdMc1ZKVkdlMmhsZVJqbzRCZUxmMFRfYk8wUkJ1b1VsM216Yk1XRERpQVQ0ZTBVZGtLaFBjY2lNaDBhdTF4U1ZISGZFdHdwM1BWNVNDN0FZS2IyODA4UnRmbmZ0dk44X3lX?oc=5"
       },
       {
         "title": "New Zealand Drivers Got A Break At The Pump In July - Finimize",
@@ -8632,6 +8632,18 @@
     ],
     "global": [
       {
+        "title": "Tankers Wait a Month as Venezuela Hits an Oil Export Ceiling - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Fri, 21 Aug 2026 18:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaGtnVnlGQnVJdm9TUWd2Ukt0N0JZSlV6R3Z1ZEdjUDVlaXVvZEJseTVkbFRwamM2MzNRampFaFM5cE1Qb1R4N0JEZV8wRWcxZlpXQ2RNUGcyajF0TzVRdzNDd2V0VVRpb1YxUXExVzg5alpDbUVFU0luS2ctNWJtUzBnWk1aZnBSMlBDY25OdzJpWkVmMGVnTkVTeWZTaE5TaXFxVFdEaWhQR2JGenlxRGk1a3psbFHSAbwBQVVfeXFMT3pTQThocHRFRTFHcHpyVlNaM2hIV2R1WWJxZl9XTndiVFVBRy1TZXlScTdoVDhVd0JrLTNNejBjTlhxSVFWZjdYNDVqb25kdzhCQVZ0eVJvSGhlUEVlWkdHaVA5UU92YUppenlmeWFja2ZmSW9Vb0RKRU9nTkpINGRCdDMyX0JiZnhyNGhST3Ixcm9vbXV1cHRSWHVuaTYzSWZicGlqdWlSeDgyNjQxZjVYaGZ0OWIyMzlYdTc?oc=5"
+      },
+      {
+        "title": "US Oil Drillers See Pullback as Oil Prices Rise - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Fri, 21 Aug 2026 17:16:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVXpid2pCQ0pINTJCU0VGUXhoODVqYVAxNEdEOElBYnJsdVU1UURPeEdJVmdKYVhjRWtHLUt2ZVlaRmJZUGRfRDYxcW1MNlBISlBjYTlyVHJja3pKQXFzdWpWd3dEN1otWk1lWFhLZzNHVDJDS1VLUVU2aDZaWURzNjhWcC1maHp4TVdVM29IbDRpVHot0gGaAUFVX3lxTFBMWks5Nnh0Sk9VM1pvRC03ZC10Rlc3ZDdfY2tBekJJRWxOSHJRRHoxbmxyZFdQbHc0eDg5d2U5a3JBdWJYSlRvY0h3SDRoUmZaSHVVR0Y2X3RyLXVKWWx4cmpuQTlqc3RWZjdDOHg5UDgxSGI3YTkxdEV0Rl85bkdYR0o0Qk1LY2FvZnEtT3JYX3ZMNkhpU3NKNUE?oc=5"
+      },
+      {
         "title": "Oil Prices Set for Second Weekly Gain as US Threatens Iranian Sanctions - Marine News Magazine",
         "source": "Marine News Magazine",
         "published": "Fri, 21 Aug 2026 16:55:48 GMT",
@@ -8666,18 +8678,6 @@
         "source": "FXEmpire",
         "published": "Fri, 21 Aug 2026 15:02:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRTN5WHRuNXVpdm5QUWprMjY0UnNXNWVfUURMN0Q5dm9VazZpb1p5b1JuZUtIN0k1UjVudkZhcmF3Q3RpVnBGazFCaDAtVWdiNnNGOWFoQTBIQnRFWDVBWHd1Q3QzQ3ZlTWRmZkE1SEhSS0lPYVlxMmRMWDUtb3ZwaG5QWGROOHdEcnlFNmVRbUpTU3psSU04NjdhRTJULW5aMXpkd3lILUpEUVVVZVg0RFhyTzNkUGlJQXVRNTBDNUc0UXk3NVZ4NWVoRFN1VkNjRmFjcTQyVnVHSDhaTmsw?oc=5"
-      },
-      {
-        "title": "Oil Nears $100 as Trump's 'Economic D-Day' Raises the Stakes - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Fri, 21 Aug 2026 15:01:15 GMT",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQldGTGJMc2FyQTZBb2dNbV9xdngxbUFLZENpaUVEZVp1aVNFMnIwNHJteGhYOUZKV1pNWGljQzM4M19EaGY4U2JfTXhxTmtPWEVfSVVGUmJROHhMMHdIbVBhV1pWNGowUi00VmJYSFNrcDE5VW9GN0xpeG8wamRqTWlPUUtsZ09TakJFeFZaRjQ1MlE5eHV0WjJseXJiaGdU0gGmAUFVX3lxTE5EbGFUZ1NrZ2ljRDZtRnIzaGhoZDd2UEhXVzRtZGozWlBtVGR3OEFLUHVId2wtRUZ5dl8tWVFnaWVETWRMMjM3OUk2ZEI3NkxVNk9ybU9zdHdCYm1ESDdSNzlFY01ZYUVtWGQ3cWRNT052Zm95Q1F3Y09SdmJOSi04Y0JwT29QVzhtVFRUUjVYVWRwWXdzeTBlRThkcFB4eE5XYlJQWEE?oc=5"
-      },
-      {
-        "title": "Iran Must Plan to Overcome ‘Unjust’ US Sanctions, Top Tehran Official Says - GV Wire",
-        "source": "GV Wire",
-        "published": "Fri, 21 Aug 2026 14:56:34 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWHJ6VjRabzI1cFZQai1JQlE5aFFwZHlJbDRRNHotaklUel9pUl9JNDJCLUc0emU5RVV4ZkFRdkpmUG8wakdFVEtVR2phSFJCdkhsclg0RkZHUVVoMHpSUUpoZkxkVkVvVU5SQUpGMnhHNnV5LWtMcjJRQXhuWUtDN2N1aEtoMW1ueUUtZ0JQekhtUXk1STcxTndsRnk2Z0wzTkh0Sw?oc=5"
       }
     ]
   }
