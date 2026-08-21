@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T14:52:02+00:00",
+  "generated_at": "2026-08-21T15:43:15+00:00",
   "fx": {
     "nzd_per_usd": 1.687746,
     "as_of": "Thu, 20 Aug 2026 00:02:31 +0000"
@@ -8580,7 +8580,105 @@
   },
   "fuel_stocks": null,
   "news": {
-    "nz": [],
-    "global": []
+    "nz": [
+      {
+        "title": "‘Scheduling gap’ limits arrival of petrol and jet fuel to NZ - analyst watchful, not worried - thepost.co.nz",
+        "source": "thepost.co.nz",
+        "published": "Thu, 20 Aug 2026 04:46:23 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRW9BMnNZUjVoQjBmb0hKSTczSi1XeXJobkZDT2kxM3ZnT1lQN01jWjl2Uzc0dHRjZUt4dWt3RDktRUM0Q0tSZ3dwYVlvZ1dremNCc0RmQ21BUkVZRzdWS3pfclRHTmMwMU1kc1hEVHJsS3piUWJKbmZlTnUxQ1djSlB5eW1jclJrVDRMOTFsQjBBMUtNbE5nVjhVUTJuWjA0eFV5RG5Cenk2djhUOUhjUTdKMndJNUpNTjhJQWNqZGpSeXM?oc=5"
+      },
+      {
+        "title": "New Zealand Drivers Got A Break At The Pump In July - Finimize",
+        "source": "Finimize",
+        "published": "Mon, 17 Aug 2026 12:01:55 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMW83dVNmM2pSalpPUlMwS2U4VllnVWloc09XeklFYjNINk9uTDF2eUFsdWNvRU1QV0libVVNUUIwMFFSV2dCRDFRRDNCWFhpRmtSaEVDME9ucC1rellRMmwzc3VsN2g2QjhfVUUyb1F2M19mRldDLTYwdFUwaVF4QUdmSjhUQVU?oc=5"
+      },
+      {
+        "title": "Falling fuel prices take edge off inflation data - RNZ",
+        "source": "RNZ",
+        "published": "Mon, 17 Aug 2026 02:02:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdmVxd1ctWGl5ZHlZczFvWm42Y0pMRmk4eXZjZnprYzlEbGJ6ZG5MSUdvZzItU1JwUWFrSFdOT3YyVzNueWtOQXIxbF9vb2JTNEhkZXktcXo1Y1lIYWNnU3RzVXNzekdEV3BlNXo1TjIzTUdsZEZvRWlaNEFqRGd4cnJGUFpBa1dMazNma3FfQ3RobGtKeWpV?oc=5"
+      },
+      {
+        "title": "Freightways revenue up but margins hit by fuel cost headwinds - BusinessDesk | NZ",
+        "source": "BusinessDesk | NZ",
+        "published": "Mon, 17 Aug 2026 01:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNekoxb2NfaDBoYnF0UlJHZlF6Y2VmZUoxU0J5QXdEVWx6ZGJpcHkxX1BRTDJ1d3piOUwtS21tUjl0c09RdHhBV1NwSEZveUN5VDhlM19nZk0tczhmZGdNV0pNeG1hWWhuUW81UmtpdUFtUzRURjFWWU1PVVdUdHpDT244X3BmbEY1ZWFodVlnbHZCQklWQmVmTlJzaElGQmF4VE9IUjRFdkxjVG9Ib2lOVg?oc=5"
+      },
+      {
+        "title": "Kiwi bellwether stock posts strong result but warns of fuel price impact - RNZ",
+        "source": "RNZ",
+        "published": "Sun, 16 Aug 2026 22:32:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN1EwZ0dTMEJMRjB0MWM0RTdlYm1ObGVhdGl2eXFfV3R6THJMaTluQ3hKZDBGRkwwaWxTYmloQUFMYWtSNWVDa1Fqd3kzc3E5LUNhbG9IQXl3bWVjcjdGTndJY0xNY0dFNUgxcEY5djBuUl9BVFRISzBYRFE2NVdZNXpXZUdvRkl4bDFGWGhpb1YySFRWWFRteEFTd2d3TlVMV2MwSmp0bkVBQmU0Ri1oeUFpTUhfOWc?oc=5"
+      },
+      {
+        "title": "Fuel anxiety has more Kiwis plugging in - thepost.co.nz",
+        "source": "thepost.co.nz",
+        "published": "Sat, 15 Aug 2026 16:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOFlHVmk0alJwMGhHemtQMlFpTlAtMU9DRkY5d1U1VklvWU9hRGNZVExGWEpnblNldWthNWw1bVh4WW5tNDMwclh4eDZmNmJMekt1U042RFBvRFotYTg0WW9XbGdEQVd2QmR3OVJBdU9FS2hyX2xreUJSNmdCTmJHbjhWSk5iWUV6?oc=5"
+      },
+      {
+        "title": "New Zealand’s fuel supply five months into the Hormuz crisis - newswire.co.nz",
+        "source": "newswire.co.nz",
+        "published": "Sat, 08 Aug 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkdjbGk1UWFQZWdCNjJuN1BSTWNtWi1SNEZFSTd3b00zVVg2NDhOenpzajVWa2FRaHk2NlJCWmpCTm93aWFFdVljdDBYOS0weG10RkxsNVdGUFcyMEduSmNUakNpT2hmSFYwZjM5RDI3MWZLTGpQcDB2emdlNS1TbUx4VlVGZDY4?oc=5"
+      },
+      {
+        "title": "Air NZ passenger numbers fall as jet fuel price rises hit - RNZ",
+        "source": "RNZ",
+        "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWmZwcjZucW4yZ1N5eHhMNWhUSy04YU9fVENtSk5UbVZBUmdGQzNOeTNob3kzOXBabjQ2LWYxVGkxMnhvVTFZZ1ZYaEZqSXBhZjlBbkt1WlI4YmFfN3lKY0dFMS1sS1dMMl9ucUZrcUtmR3hoRzYwM0dYTWJOU2tKV0h5YWZDcmg1UnNOc0Z3WUtkYVluQnNhazhNSURjQ0dpd3c?oc=5"
+      }
+    ],
+    "global": [
+      {
+        "title": "Crude Oil Price Forecast – WTI and Brent Hold Above 50-Day EMA as Weekend Geopolitical Risks Loom - FXEmpire",
+        "source": "FXEmpire",
+        "published": "Fri, 21 Aug 2026 15:02:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRTN5WHRuNXVpdm5QUWprMjY0UnNXNWVfUURMN0Q5dm9VazZpb1p5b1JuZUtIN0k1UjVudkZhcmF3Q3RpVnBGazFCaDAtVWdiNnNGOWFoQTBIQnRFWDVBWHd1Q3QzQ3ZlTWRmZkE1SEhSS0lPYVlxMmRMWDUtb3ZwaG5QWGROOHdEcnlFNmVRbUpTU3psSU04NjdhRTJULW5aMXpkd3lILUpEUVVVZVg0RFhyTzNkUGlJQXVRNTBDNUc0UXk3NVZ4NWVoRFN1VkNjRmFjcTQyVnVHSDhaTmsw?oc=5"
+      },
+      {
+        "title": "Iran Must Plan to Overcome ‘Unjust’ US Sanctions, Top Tehran Official Says - GV Wire",
+        "source": "GV Wire",
+        "published": "Fri, 21 Aug 2026 14:56:34 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWHJ6VjRabzI1cFZQai1JQlE5aFFwZHlJbDRRNHotaklUel9pUl9JNDJCLUc0emU5RVV4ZkFRdkpmUG8wakdFVEtVR2phSFJCdkhsclg0RkZHUVVoMHpSUUpoZkxkVkVvVU5SQUpGMnhHNnV5LWtMcjJRQXhuWUtDN2N1aEtoMW1ueUUtZ0JQekhtUXk1STcxTndsRnk2Z0wzTkh0Sw?oc=5"
+      },
+      {
+        "title": "Saudi Oil Exports from Mediterranean Soar with Shuttles North to Avoid Houthis - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Fri, 21 Aug 2026 14:28:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQck9mNHlPTkxfYVh4bUFvMzZkYnpxSlAtWHlXNVV4RWlqNGt2dVgwSXpROU5XUEJhOUFPV1h1aDhRZnpJZ3N6bFlTQXlsV3NVZVYyZlZTUFR1NWNQd19jR1RKcjQ0SDZ6MFNqc05VQ2piSWxlWmk2Rk1QcXFVQWlqamtmS01sMWdydmg1dVZEQ1JUZzJ1ZnZ0QkduSWgwc1hyUDdxNXBlNzRyVFMxZkZsanNEN0FfTXRYVUhuRm5SdFk0WjgxYjVzY0REYzJyb3fSAdQBQVVfeXFMTnZudS1qZ3ZmYUk0YWNMNGtPak4zRkhBeW5wTTdUYnhZUjFMVFhmWmpTZmtySzJXZFFyT01IWWpmeFBOMWlPRnR4cndRR01zUFFJeWt4UWs5MUZLZ1FXX1BmR2xhTDhiVkFFQy1IMmRDbFJFNUFWbDhlbE41Y3VHb0JjOFBjX3pMQzYxVDZGeW9VMTNwMHRqdWJYN0Q0OXVsclNma0dlMzJtTk42WndrUUh0R3U4SHlGV2dYQjI5Sk45YXVidW5fUE12N2U4Y2NBelVzUFA?oc=5"
+      },
+      {
+        "title": "Oil prices rise for a second week amid the threat of new US sanctions - Українські Національні Новини (УНН)",
+        "source": "Українські Національні Новини (УНН)",
+        "published": "Fri, 21 Aug 2026 13:30:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3FNX3ZrOHhGcnZ4cExhS3JiRjJXbDZXX0xMV0hmaFhQd25nbk8tMGhQQWNHS3JYOENBbjdEajhrTkY4cVVSLVo2cnhDMVQ1VzFzTnY0VWhkb3JhSi1kUXd1MHhqVF9oXzI0WXI5STBJcGFjazBEMV91MjVyYXBLZjNJSWhDZG0xVlJZa25tY0E2WmpnZmtj0gGWAUFVX3lxTE8yeHppSG8zUWJmOXdGdE9GZ2pjd192amxNVGpMejg4UmVJLXRzNGdzdENScktSUXFUV3dMOTBBX1dhcm0yNHlHTkFzU19namJsY2VtVzRkU0tCN0lBMFBjUm5wUmxHOWs3LWRXaGRzdEVraDdwRWtzMWZJQ2h2MXZmdVltR1ZxOFFSbGpGZVFqSzRDb2tMdw?oc=5"
+      },
+      {
+        "title": "Oil set for second weekly gain as US ramps up pressure on Iran - Reuters",
+        "source": "Reuters",
+        "published": "Fri, 21 Aug 2026 13:19:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5"
+      },
+      {
+        "title": "Oil futures: Crude steadies as US set to ramp up sanctions on Iran - Quantum Commodity Intelligence",
+        "source": "Quantum Commodity Intelligence",
+        "published": "Fri, 21 Aug 2026 13:07:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUWpEeVFzLW1LMmNaRGpNQjgxaF9wc202ZUNKUHBZV0p6Nk5ZeXNfbDhuQWc4UFlaTlplMUk3U2tKN3FnWHZqa1dWU2p5aDJ0MUhZMndteDhfb2lTRzJnbnRyekxCb0xQOXMtWUNZZEJXN2NKQVJxMXMtbm5QOEZqY2taYU5TWDhvYV9pQmxHZUNKWnNNcERyQWVORWwxSzZuSDdIYzlKd2dRSHYy?oc=5"
+      },
+      {
+        "title": "Why are oil prices rising? US-Iran tensions threaten Middle East oil supply | Hindustan Times - Hindustan Times",
+        "source": "Hindustan Times",
+        "published": "Fri, 21 Aug 2026 12:32:21 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOak0zWEZ0Y252Tm5yQm5vMG8xWjlRWk9sc3dEbDJrYy1LVWNTRk9OdkJVdndoblhYWWVoWWlEaDhoalMzZ3VkUXp4WXRta0ZxZUREcEpmcUZMUVdYTnU2aUd5WTUxd2g3TGdoR0RVd25mWF9MZmQ0OVQ4UHlmY0ZpWVlhTkVvdWZ4cGxndXVSXzJXVHU2alF4N004SnUzd3BKc2tweklaeWc0NDNGa1R6a3dKdGJWZ2RSZUY2dHBZYV94YWM0M0dwQUhjN01Zd3ZxbkZvaXR1YjlzSGhSRHfSAeMBQVVfeXFMTTYwUTdETDRsRHlvVDNyN3UtV1dJZUsxMGIyY3Z2bEhWc2tzZ2VNdUV3QzJVaGNYcFk3OHBWdXBFbktvOHZaLXotMkIyMEZVeDBEMlFJcTN6MU5hbkNuTlRQdjJTOElkZnNlSzlmVVJjLVdYZWxtbXU5MTY0Z292WHRkQ2FaMy1DRHZYck5ST3BMaTFPQ25fR2pwMlFBa0FkajRSM2hTM0x3cmNaZUlwNlN4eHZWRmdzV3pKRGRSSmo1Q0g4ZEo0UlVWSXdXbVowbUE0WTFVcS1xVTVhZk1FYmFrLXc?oc=5"
+      },
+      {
+        "title": "Current price of oil as of August 21, 2026 - Fortune",
+        "source": "Fortune",
+        "published": "Fri, 21 Aug 2026 12:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uWGliTTgwN3hqMGh5Q3VPMFhNeGhrWkhOZ3k2YmlvOUZqbEJsd1I0RERiUVZSdVktUzhiWHZkZkxmMDk3a21tb2NQaTVnYndsMTJTb2lwTW5sTkhDN3lQcG93?oc=5"
+      }
+    ]
   }
 }
