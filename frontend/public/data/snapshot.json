@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-08-22T17:58:35+00:00",
+  "generated_at": "2026-08-22T18:29:16+00:00",
   "fx": {
-    "nzd_per_usd": 1.681255,
-    "as_of": "Fri, 21 Aug 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.672547,
+    "as_of": "Sat, 22 Aug 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 94.57,
+      "latest": 94.39,
       "latest_date": "2026-08-21",
-      "delta_1d_pct": 0.84,
-      "delta_30d_pct": 24.42,
+      "delta_1d_pct": 0.65,
+      "delta_30d_pct": 24.18,
       "series": [
-        {
-          "date": "2025-08-21",
-          "usd": 67.67
-        },
         {
           "date": "2025-08-22",
           "usd": 67.73
@@ -1017,20 +1013,16 @@
         },
         {
           "date": "2026-08-21",
-          "usd": 94.57
+          "usd": 94.39
         }
       ]
     },
     "wti": {
-      "latest": 87.28,
+      "latest": 87.06,
       "latest_date": "2026-08-21",
-      "delta_1d_pct": -0.63,
-      "delta_30d_pct": 22.22,
+      "delta_1d_pct": -0.88,
+      "delta_30d_pct": 21.92,
       "series": [
-        {
-          "date": "2025-08-21",
-          "usd": 63.52
-        },
         {
           "date": "2025-08-22",
           "usd": 63.66
@@ -2033,46 +2025,46 @@
         },
         {
           "date": "2026-08-21",
-          "usd": 87.28
+          "usd": 87.06
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-08-21",
+    "as_of": "2026-08-22",
     "regular_91": {
-      "avg": 3.013,
+      "avg": 3.022,
       "min": 2.656,
-      "max": 3.56,
-      "count": 94
+      "max": 3.649,
+      "count": 82
     },
     "premium_95": {
-      "avg": 3.209,
+      "avg": 3.185,
       "min": 2.696,
-      "max": 3.529,
-      "count": 57
+      "max": 3.349,
+      "count": 47
     },
     "premium_98": {
-      "avg": 3.319,
-      "min": 3.156,
-      "max": 3.599,
-      "count": 18
+      "avg": 3.318,
+      "min": 3.219,
+      "max": 3.4,
+      "count": 13
     },
     "diesel": {
-      "avg": 2.684,
+      "avg": 2.706,
       "min": 2.396,
       "max": 3.109,
-      "count": 94
+      "count": 87
     },
     "lpg": {
-      "avg": 4.9,
-      "min": 4.9,
-      "max": 4.9,
-      "count": 1
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
     "observations_today": 0,
-    "observations_yesterday": 256,
-    "observations_older": 8
+    "observations_yesterday": 198,
+    "observations_older": 31
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8674,10 +8666,10 @@
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWkZVTU9OT2xRUktNNFZ3VGFXWW5BZ2NVbkFRWWQySTQxNm5MUFZlMW5PeE13T08tdE1qT290UUYtN1BNQW9GMWg3eXVOejNoMktLazBxM0tTMVRacWhtakRhYUc2OHZJQnRkWkdLQ2JuS3RaX2lib1M0T1FvNDNlZThtME1UUFJaNk85MWFER1MxOEhsSDBBUDlyZzZfZUw0b1hCdy01NnNMQ2oyT3RwZVBmYW9pbDBIbjJzUGl4ZTZzZjhs?oc=5"
       },
       {
-        "title": "EU pressure on Georgia: Kulevi abandons Russian oil - Latest news from Azerbaijan",
-        "source": "Latest news from Azerbaijan",
-        "published": "Sat, 22 Aug 2026 07:00:16 GMT",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5d0F4Q0M2dHhQMmJlQzByNWFTNFk1ZzBkSWdmMDJRY1ZQTmNkS0xidDZ0TC1UU09zRTdwSGFWTmtqOFU5Q2FoTkJTa3dvNHFRZEE4NV96cE9RUUVYeU52WUtuY1VOTTF4eTNKYTJGbkpJcEZKUkFybXJ1Yw?oc=5"
+        "title": "U.S.-Iran tensions rise ahead of new sanctions - IranOilGas",
+        "source": "IranOilGas",
+        "published": "Sat, 22 Aug 2026 05:51:23 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOVN1VnpKYjZkdXBBalU3NmhCNGFBd0dPS3U2WGt5X1BDZFFvMTRkSHZiNVJGNUx5VU93SVVITk5VVVJtNk9PTTFRUGdWWnk2UjlVM2o5RGp1a2o0VFl1LWVIS3NBZ25qR3hkSnFWMGhmNWh1ekVZM1hRZk1BT3l2amREMEhUVjdMODZxRGZheFEyazhZOGQxRmZGTUh6Tm5OT1RzRkJpV3hqMk0?oc=5"
       }
     ]
   }
