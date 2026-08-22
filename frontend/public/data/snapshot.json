@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T03:03:14+00:00",
+  "generated_at": "2026-08-22T03:52:18+00:00",
   "fx": {
     "nzd_per_usd": 1.681255,
     "as_of": "Fri, 21 Aug 2026 00:02:31 +0000"
@@ -8582,8 +8582,8 @@
   "news": {
     "nz": [
       {
-        "title": "‘Scheduling gap’ limits arrival of petrol and jet fuel to NZ - analyst watchful, not worried - thepost.co.nz",
-        "source": "thepost.co.nz",
+        "title": "‘Scheduling gap’ limits arrival of petrol and jet fuel to NZ - analyst watchful, not worried - The Dominion Post",
+        "source": "The Dominion Post",
         "published": "Thu, 20 Aug 2026 04:46:23 GMT",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSFcxcVNLYWNHRGE0cFJScnE0QmNZN0dtcWhPS2pydEE3ejZva2RwRmxFR3RHRXY4Ym90WjV3X25jaVdNWjQ1aDdpM0ExR2pSdGFvdlJjQmItNzN1VVdTSmx6eWdMc1ZKVkdlMmhsZVJqbzRCZUxmMFRfYk8wUkJ1b1VsM216Yk1XRERpQVQ0ZTBVZGtLaFBjY2lNaDBhdTF4U1ZISGZFdHdwM1BWNVNDN0FZS2IyODA4UnRmbmZ0dk44X3lX?oc=5"
       },
@@ -8606,8 +8606,8 @@
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN1EwZ0dTMEJMRjB0MWM0RTdlYm1ObGVhdGl2eXFfV3R6THJMaTluQ3hKZDBGRkwwaWxTYmloQUFMYWtSNWVDa1Fqd3kzc3E5LUNhbG9IQXl3bWVjcjdGTndJY0xNY0dFNUgxcEY5djBuUl9BVFRISzBYRFE2NVdZNXpXZUdvRkl4bDFGWGhpb1YySFRWWFRteEFTd2d3TlVMV2MwSmp0bkVBQmU0Ri1oeUFpTUhfOWc?oc=5"
       },
       {
-        "title": "Fuel anxiety has more Kiwis plugging in - thepost.co.nz",
-        "source": "thepost.co.nz",
+        "title": "Fuel anxiety has more Kiwis plugging in - The Dominion Post",
+        "source": "The Dominion Post",
         "published": "Sat, 15 Aug 2026 16:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOFlHVmk0alJwMGhHemtQMlFpTlAtMU9DRkY5d1U1VklvWU9hRGNZVExGWEpnblNldWthNWw1bVh4WW5tNDMwclh4eDZmNmJMekt1U042RFBvRFotYTg0WW9XbGdEQVd2QmR3OVJBdU9FS2hyX2xreUJSNmdCTmJHbjhWSk5iWUV6?oc=5"
       },
@@ -8631,6 +8631,12 @@
       }
     ],
     "global": [
+      {
+        "title": "Indian merchant navy captain arrested in UK over Russian oil tanker; wife calls him 'scapegoat' - Firstpost",
+        "source": "Firstpost",
+        "published": "Sat, 22 Aug 2026 03:00:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSFdqWVZwNUk2NGxESEJCdTFtRldEY0F1NGZqbUlqQWxrVmZwd0x4TkFTODNFQXMxMVFLZXBrR3VVTFhVV193QkYyNDUtUDRBdHlPVkJtNHFIWi1WREhqRjEtMTdMV3NBb2t2NVJSZm5KSHdRaG1FTkE1ZDY1dzhGUTNCX0VlUlhGNnN5RW9KY1FURUl1QlFSRTZlcG5lcFZTbFZDN0lxdXhNdjFqSnZ5S2hNYjZCN2s0YUdxaUZhMnVwTF9MOVZHQk1OYURDb3FxQVE0dTFXN21UQdIB2gFBVV95cUxOSFdqWVZwNUk2NGxESEJCdTFtRldEY0F1NGZqbUlqQWxrVmZwd0x4TkFTODNFQXMxMVFLZXBrR3VVTFhVV193QkYyNDUtUDRBdHlPVkJtNHFIWi1WREhqRjEtMTdMV3NBb2t2NVJSZm5KSHdRaG1FTkE1ZDY1dzhGUTNCX0VlUlhGNnN5RW9KY1FURUl1QlFSRTZlcG5lcFZTbFZDN0lxdXhNdjFqSnZ5S2hNYjZCN2s0YUdxaUZhMnVwTF9MOVZHQk1OYURDb3FxQVE0dTFXN21UQQ?oc=5"
+      },
       {
         "title": "Oil rises as Trump threatens sanctions on Iran partners - Arab News PK",
         "source": "Arab News PK",
@@ -8672,12 +8678,6 @@
         "source": "TradingView",
         "published": "Fri, 21 Aug 2026 20:18:22 GMT",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yUDlhQWtLTkVGd1hQWlpTb1p1U0RoemZlVWswSThDajR4dkM0Ri1ndFJmQjVuaFJoaHpKbHNTTFBGRHZDZ2hTNk9KdS10a3dfTlpSOWN2amI3SzlkRm95MDRUenB6eUpZV0lEUXRraGJNVjVnbXRB?oc=5"
-      },
-      {
-        "title": "Iran must plan to overcome 'unjust' U.S. sanctions, top Tehran officials say. - Inquirer.com",
-        "source": "Inquirer.com",
-        "published": "Fri, 21 Aug 2026 19:50:46 GMT",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNHFtT29MSU1ydmFYbVJOajQ1bGNWX3FzZDFQdWlSZUdsaW8tMWZOS2lZcnBJNFNLOWZiRkRzRkVGQjExYTJwbEx5ZXZST0c5RkNJTk41NmFibnJzSEI1bDR6eHRQQ2d3RDJDY1kxV2VCbU83dDVlX1EtTWRoNVR1OUEtekpRTDFpTEl0aG8zbEx2bkZwVjhRUVJ5X043LWhQbFNYM2hXWkhDUFM5UnJGS1pwMllXR3A0WlpIdDJyMkpGdk9aMC14V2ZudDNIUQ?oc=5"
       }
     ]
   }
