@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-23T17:57:27+00:00",
+  "generated_at": "2026-08-23T18:28:10+00:00",
   "fx": {
-    "nzd_per_usd": 1.672547,
-    "as_of": "Sat, 22 Aug 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.672678,
+    "as_of": "Sun, 23 Aug 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
@@ -11,10 +11,6 @@
       "delta_1d_pct": 0.65,
       "delta_30d_pct": 24.18,
       "series": [
-        {
-          "date": "2025-08-22",
-          "usd": 67.73
-        },
         {
           "date": "2025-08-25",
           "usd": 68.8
@@ -1024,10 +1020,6 @@
       "delta_30d_pct": 21.92,
       "series": [
         {
-          "date": "2025-08-22",
-          "usd": 63.66
-        },
-        {
           "date": "2025-08-25",
           "usd": 64.8
         },
@@ -2031,30 +2023,30 @@
     }
   },
   "nz_retail": {
-    "as_of": "2026-08-22",
+    "as_of": "2026-08-23",
     "regular_91": {
-      "avg": 3.022,
-      "min": 2.656,
-      "max": 3.649,
-      "count": 82
+      "avg": 3.03,
+      "min": 2.716,
+      "max": 3.56,
+      "count": 77
     },
     "premium_95": {
-      "avg": 3.185,
-      "min": 2.696,
-      "max": 3.349,
-      "count": 47
+      "avg": 3.199,
+      "min": 2.716,
+      "max": 3.439,
+      "count": 44
     },
     "premium_98": {
-      "avg": 3.318,
-      "min": 3.219,
-      "max": 3.4,
-      "count": 13
+      "avg": 3.321,
+      "min": 3.248,
+      "max": 3.459,
+      "count": 4
     },
     "diesel": {
-      "avg": 2.706,
-      "min": 2.396,
+      "avg": 2.721,
+      "min": 2.446,
       "max": 3.109,
-      "count": 87
+      "count": 71
     },
     "lpg": {
       "avg": 0.0,
@@ -2062,9 +2054,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 0,
-    "observations_yesterday": 198,
-    "observations_older": 31
+    "observations_today": 14,
+    "observations_yesterday": 173,
+    "observations_older": 9
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8604,12 +8596,6 @@
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWmZwcjZucW4yZ1N5eHhMNWhUSy04YU9fVENtSk5UbVZBUmdGQzNOeTNob3kzOXBabjQ2LWYxVGkxMnhvVTFZZ1ZYaEZqSXBhZjlBbkt1WlI4YmFfN3lKY0dFMS1sS1dMMl9ucUZrcUtmR3hoRzYwM0dYTWJOU2tKV0h5YWZDcmg1UnNOc0Z3WUtkYVluQnNhazhNSURjQ0dpd3c?oc=5"
       },
       {
-        "title": "Why hybrid drivers will pay more under the new RUC system - Auto Trader NZ",
-        "source": "Auto Trader NZ",
-        "published": "Wed, 29 Jul 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZXkza0RsYlhnRXRsbmswb2NOZjYyT1hPUE5pZlltbHl4aXBkUTFpbzROVlRHY29TVGZBUHRNSmx2U181dV91UzlPd3lDdmhIa2hBZVVKX29EUC1LX1lOVTMyS3Q2VkFDM2hoWDhkRFowanFoVVc3eGVYaldmTkNBZHBxOHFmM3JlWFd6MmRDYlhjVTA?oc=5"
-      },
-      {
         "title": "Petrol prices could climb above $3 in NZ amid Mideast tensions - Pacific Media Network",
         "source": "Pacific Media Network",
         "published": "Fri, 24 Jul 2026 07:00:00 GMT",
@@ -8620,6 +8606,12 @@
         "source": "Stuff",
         "published": "Thu, 23 Jul 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdjhhSmpvVEZCWWY3Y3o5NzNKUzFOelNZVHBvb2Y4c0JxQlhBWXNzQWE4Nk1ma3MxTHoxLUoyaW5YeU1fZjRUS0l2ejVCbnFCTU1BRnB3eG9xLU9USzJ3Z2ZHNkg3akMyZlNMemtPaDY0NmxxMFU1alZZUzdRRzd4VGVOXzVqekZqNFR2STZHM05INDExSVpla2NqRXBST19HakVEYUV3eDljVkxRbkRwRjllbDJ1ekJHU05qWWx1TFhCN3NWSUVR?oc=5"
+      },
+      {
+        "title": "Air NZ not ruling out more cuts to services amid jet fuel spike - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Wed, 22 Jul 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQnFWZHdRcUY1YjZvbkZIRDZ1M3VXRDIxaFNua2kxalI0cTJrUUk0c3RyemxFQWI2aXBDLW9vUEQ3MHoxUUcxNGNPdFZnYXg5SzVyYzdyblNaek5HcVdrQWk3T19DeW81am9HWEU1WlRreTk1SmR2aW00dTdSUmlIQnNOMmxtSm1zUGZWaW9VMTlUZi0tY092ODJacFBiWms0Z3lfT1dZRlk3RFptUnNUZFF1WjM5SVNXWG1LaTJIYTZaS1hCUTVLWEJaWjdmX0ppVEFadzFZWHVCcTA0Nm50NzVzVU15aFpMRTRwUGY0czkyOHJzRWxGNFFvU0F5dlVKT2hlcGZR?oc=5"
       }
     ],
     "global": [
@@ -8660,16 +8652,16 @@
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aUlhKOVlPTUlDWXV4RGVST1NybXFoem4wWTJZQlVzTXRwUUtkaW1oaUJhbGJjdllVZk1oc3RDY3RfbDVoOFZJQmRqSlR5bEJrMmI1RlVCT21JR0ZVTDRMa2duZEY4bnBQWkE?oc=5"
       },
       {
-        "title": "Iranian council head Mohsen Rezaee claims billions of dollars made amid blockade - The Jerusalem Post",
-        "source": "The Jerusalem Post",
-        "published": "Sun, 23 Aug 2026 09:36:35 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xYVltWkpyQnI1bEhpdWtiMDdYekNQbThNZWl5dEZQYWd2QlJXVlVRcTdQV25VNGJrNmNhSFI5ZTNXa2NrYlZTVmRpMnh5bXpIM3lhbzJVeUIzVDVlWktQQVI2OUluZllOU3c?oc=5"
-      },
-      {
         "title": "Goldman Sachs Says Global Oil Demand Takes Big Hit, Sees Risks to Price Forecast - EnergyNow.com",
         "source": "EnergyNow.com",
         "published": "Sun, 23 Aug 2026 07:42:46 GMT",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN3Y1MVB3RUk0OFhpLWdlR1I2YlQwc21jQWRFdnNBakh3SGhVZ2ZPZU1rNVZwNWxBMHpOcHZIRjBNalZNXzMya2xraFN6cDNCYlBKUVp0TDFockxGbThyMmhEWWZJNTdkcUxIb2ttQnZCZk1pNnVrUWgwWWMyLXpxYWlodFdnVUpqZWdaUVFESy1RY1lDLVZ5a2JjS1pKZk5tWEZ5U1BqWl9ydVNPOFRv?oc=5"
+      },
+      {
+        "title": "Iran warns of retaliation against countries joining US ‘economic war’ - Al Jazeera",
+        "source": "Al Jazeera",
+        "published": "Sun, 23 Aug 2026 05:44:03 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlFYOHBOWnRTWC00UkQ2U2FBWWJYRXFNT2NXUXJla1pNU1JFTzJZX1dsOGVvVGJLdEItUlBHUHlrMkJJSE1lS0gxSGIzTTR5T0F3RkRfbGNhalRQV3dsQ3dHbEx4OS1yOG9ldjAtamVWVUpnZHNyekhLYVdMRWpaa1k3a1ExdDFheHYzMGVrWDFmczktdHpjOXNnX0pkSVFVZzBKcnNLTEhxQdIBrwFBVV95cUxQT3VjZlFtdm1HYzhhQmZyZ05QWXAxUFJFc2J3d2NiSWRtbVFmWUhXSk9qNmF3dHotQmhJWm9aakxEcDkwb2cydU5KclJ2WlpYODhmZTFaZENuVmdiVWdicU4xdHBMaGIxcXY5VFk2RG1SZld2WkhWeGp5TlN0TjdVWWpOYmtSZllhQzZRMzduby1CWGJNdkRPM3g2MmJGSnJaWnBkWVpMZVA3YS1pYy1v?oc=5"
       }
     ]
   }
