@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T20:43:06+00:00",
+  "generated_at": "2026-08-24T21:12:58+00:00",
   "fx": {
     "nzd_per_usd": 1.674022,
     "as_of": "Mon, 24 Aug 2026 00:02:31 +0000"
@@ -8572,7 +8572,105 @@
   },
   "fuel_stocks": null,
   "news": {
-    "nz": [],
-    "global": []
+    "nz": [
+      {
+        "title": "New Zealand Retail Sales Fall -0.35% Q/Q as Fuel Price Surge Masks Weaker Volumes - Action Forex",
+        "source": "Action Forex",
+        "published": "Mon, 24 Aug 2026 03:21:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdXlfanVnRkRBYndaOWpUWkR5RG1NU2Y1T2dGUUJZeGhnczdscmViTkNCVHVXX29yV0FwNW1PNlF5UlF0bXhiLVdZWWxnNDBpbTUtV3o3NHZCZXlrdjlQN1dUTTQybFBRUzN3ME9NbkwxRXRRT0xLd25CU3pDeU9XZXJuQy1KWTRmNkxqV3l3dE82SW05VzdXcEVla1VEUkd6dzAwNFRtbTlSaTExNGlUNU5seXdlOU50UVpyZ0RTcUMtUHRmdW45LQ?oc=5"
+      },
+      {
+        "title": "Diesel burglaries more than double as fuel crime fears resurface - 1News",
+        "source": "1News",
+        "published": "Sat, 22 Aug 2026 20:51:49 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSk50MjJGV3NOazZWcVBkdzJQNjJ5cGVWeUV2bDg0dllWNWtkVGRqWEpRUVZHODBlVUl4aElxOGFoRFZHWEF2c25XRmNZYml6Z1otazBQNDE0azdUbVNiSnNZcHBTWUdCQklldlltakpKVy1sR0VNaFlING1nZWxwVm1pUlMyamttOEh2YlR3WlFIM3lRNkxURzNFUVFEczRfMEE?oc=5"
+      },
+      {
+        "title": "‘Scheduling gap’ limits arrival of petrol and jet fuel to NZ - analyst watchful, not worried - thepost.co.nz",
+        "source": "thepost.co.nz",
+        "published": "Thu, 20 Aug 2026 04:46:23 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSFcxcVNLYWNHRGE0cFJScnE0QmNZN0dtcWhPS2pydEE3ejZva2RwRmxFR3RHRXY4Ym90WjV3X25jaVdNWjQ1aDdpM0ExR2pSdGFvdlJjQmItNzN1VVdTSmx6eWdMc1ZKVkdlMmhsZVJqbzRCZUxmMFRfYk8wUkJ1b1VsM216Yk1XRERpQVQ0ZTBVZGtLaFBjY2lNaDBhdTF4U1ZISGZFdHdwM1BWNVNDN0FZS2IyODA4UnRmbmZ0dk44X3lX?oc=5"
+      },
+      {
+        "title": "Falling fuel prices take edge off inflation data - RNZ",
+        "source": "RNZ",
+        "published": "Mon, 17 Aug 2026 02:02:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdmVxd1ctWGl5ZHlZczFvWm42Y0pMRmk4eXZjZnprYzlEbGJ6ZG5MSUdvZzItU1JwUWFrSFdOT3YyVzNueWtOQXIxbF9vb2JTNEhkZXktcXo1Y1lIYWNnU3RzVXNzekdEV3BlNXo1TjIzTUdsZEZvRWlaNEFqRGd4cnJGUFpBa1dMazNma3FfQ3RobGtKeWpV?oc=5"
+      },
+      {
+        "title": "Freightways revenue up but margins hit by fuel cost headwinds - BusinessDesk | NZ",
+        "source": "BusinessDesk | NZ",
+        "published": "Mon, 17 Aug 2026 01:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNekoxb2NfaDBoYnF0UlJHZlF6Y2VmZUoxU0J5QXdEVWx6ZGJpcHkxX1BRTDJ1d3piOUwtS21tUjl0c09RdHhBV1NwSEZveUN5VDhlM19nZk0tczhmZGdNV0pNeG1hWWhuUW81UmtpdUFtUzRURjFWWU1PVVdUdHpDT244X3BmbEY1ZWFodVlnbHZCQklWQmVmTlJzaElGQmF4VE9IUjRFdkxjVG9Ib2lOVg?oc=5"
+      },
+      {
+        "title": "Fuel anxiety has more Kiwis plugging in - thepost.co.nz",
+        "source": "thepost.co.nz",
+        "published": "Sat, 15 Aug 2026 16:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOFlHVmk0alJwMGhHemtQMlFpTlAtMU9DRkY5d1U1VklvWU9hRGNZVExGWEpnblNldWthNWw1bVh4WW5tNDMwclh4eDZmNmJMekt1U042RFBvRFotYTg0WW9XbGdEQVd2QmR3OVJBdU9FS2hyX2xreUJSNmdCTmJHbjhWSk5iWUV6?oc=5"
+      },
+      {
+        "title": "Pacific families are caught between fossil fuel gamble and push for clean energy - Pacific Media Network",
+        "source": "Pacific Media Network",
+        "published": "Sat, 08 Aug 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZzYxc29LYV9rMFJoRmlad2FoNWFKc29WUWFEeUg2U2RSUy1EY3ZqbVNRWVJ0M1dwYTROemYxTHpIMHFhZDg2ZHphNnhGbU8xOURzMzZDS3NRYUdlaERwTEl5Q2FNTnlCeEJmMHlZM3dxNVhuQjZEeVpybV9rTnhOa0dlMFVnaS1ZaURWNVFHVGxCNWo2UFd1a01BYngxYUwxMkNFc2NCeWlfc3ZXVmc?oc=5"
+      },
+      {
+        "title": "New Zealand’s fuel supply five months into the Hormuz crisis - newswire.co.nz",
+        "source": "newswire.co.nz",
+        "published": "Sat, 08 Aug 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkdjbGk1UWFQZWdCNjJuN1BSTWNtWi1SNEZFSTd3b00zVVg2NDhOenpzajVWa2FRaHk2NlJCWmpCTm93aWFFdVljdDBYOS0weG10RkxsNVdGUFcyMEduSmNUakNpT2hmSFYwZjM5RDI3MWZLTGpQcDB2emdlNS1TbUx4VlVGZDY4?oc=5"
+      }
+    ],
+    "global": [
+      {
+        "title": "U.S. threatens sanctions on Iran’s trading partners as pressure mounts on oil flows - World Oil",
+        "source": "World Oil",
+        "published": "Mon, 24 Aug 2026 21:07:20 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbnBqeEh5YVN1MTQzVmRxZjUwRUlVcEljNHJqTDNjaVRtRWhHTjNoLThjRTBPcVlyTWJKUEJ3S1UwM2loRVJhQXh4UXdfZzRXZFVTTlY5SmRZNUh2UjNVM1JqeWwzQk5YMk53RlQ5cy1vbWtRQlZKZERkRV9pM01MUC01aDZWU085ZGxKWU5COWFQRlBxd0FLUFlFNTZXUXhEZF9uWERBc2V0Vy1oa1RjcVVreWZiMXRhOWd1YXNmdmE?oc=5"
+      },
+      {
+        "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran - NPR",
+        "source": "NPR",
+        "published": "Mon, 24 Aug 2026 20:19:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVVlnRnlJRzZOY2ZlQTVmSGpoR0tPbmMwMi1ZRmtIa2c1Y2lVWTN2U3MxdzdsUFFMX0VHWmwxcDhTc0JRS0VvWkdGb0lkTmRYZjV2akt3aWpiai0tRC1FNDgtZlhhQXFNSzhrNWdNWkpoZ181Z085ak1lQlRfZ1c0aFhGSkdVZTNwbHJRV09JTTRLckZCSEU0NmNWNGhOMFNjaUVKMFhHeDU5WWVZcmdUY3BrX1EzVE0?oc=5"
+      },
+      {
+        "title": "WTI Crude Slips Toward $85 as Market Weighs US Strike on Iran - CryptoRank",
+        "source": "CryptoRank",
+        "published": "Mon, 24 Aug 2026 20:07:34 GMT",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10RkxiYnlzX3MzQ3JFZjEzSElJVWo0aWdwcWRGNk1ER3F0amdZMngzN1o4dXdVZTVhNVA3RkRlNUFNb3AxQnpLOUl6RGVCaDVITjZySDlmMTdwemYwX1JYYnBlLWtEN2l0VzBNUXFnQjRBTHBCNEpJRFc3QQ?oc=5"
+      },
+      {
+        "title": "Trump administration announces ‘economic D-day’ sanctions on Iran - Al Jazeera",
+        "source": "Al Jazeera",
+        "published": "Mon, 24 Aug 2026 20:06:11 GMT",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUHhONldpOG9TMnN4R3U3cTh2M1VNQThQa3hfaGpOaXFLQ3RQbWNNcVhYRHhoZDFhQ1VUR1JKUTNoaWhTS1VjOW9hX2ptcUxZWUx3alM3azk4SmpEejJaNkFEaDBjczdmU28tNDY3SFV5TGM4M0lvaENESVhWd3BUM3BucnJhZHc5UE1UNlZGdHF5amxhREpwdDdybFQ2QUF30gGmAUFVX3lxTFB1TUxBVTlRRDhKVHp2TnhsOFQ1TG45YS1fNWxBTmtHZzhqRmlMSXBTQWNHRVpMOWhaWm9VdmdNWnY0Zm9VYzBaankzYWNQaHU3anplU3JTY00xQUJOY1JXVmdsRmh6T2xROF8tMjE4QjhCVlZMWU4zZEx2ODFTLW1oT1V3NURDX3NiX0V0Q00wLUgtaklkSlNkdERiOWpVemZLak9WZlE?oc=5"
+      },
+      {
+        "title": "Maybe Trump’s Iran Sanctions Will Work This Time - Mother Jones",
+        "source": "Mother Jones",
+        "published": "Mon, 24 Aug 2026 20:02:46 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbk04MllUQVBiWVg2eXlDRjY1eFM3OC01bkdHODB6V0R5UzhDS2ZMOG1rYWJaeUZXQ3NJRUxSTWxEOVdvbloydE1iaGdfVldwd25zWlpRaG9QM054TlpDOUdUVkZQOGxWQVdBS0ZKcUUtUGgzMnlmeGthdzNFeHBfamZZRHFjRlMzTV9EYUtYNkxQdkFHQlhYbFJOQWtVMDg?oc=5"
+      },
+      {
+        "title": "Bessent’s sweeping sanctions against Iran send oil prices to their biggest drop in 3 weeks, while fueling hopes of de-escalation - MarketWatch",
+        "source": "MarketWatch",
+        "published": "Mon, 24 Aug 2026 19:40:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdWVuTlF6bEpxOHI2UFhWQ2luUVN6c1oxUGZfLTBfcEE0Umppc05fcDluQXktbjE0a2JZVnc0d1htSUVtV21ZUjA4UnRvRWhCLUhFRGdFQ015RkM5X2p2cVJkVFFQUS00TlZFb0xvbHhoWW1tSksxRENGZ3NqREN4aU5EV3N1U2hrRk1pMEZJSXVTeERuemVKOGpwcU9FcXN1QmdfeFNyWUZBTThmV3F6RncxeE83OHcyZF9CSg?oc=5"
+      },
+      {
+        "title": "Treasury Expands Iran Sanctions Without Targeting Major Chinese Banks - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Mon, 24 Aug 2026 19:13:50 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdWdlYWRkWWtTTkxBQ0FaYi1xWG8yLUdvVU9rR3dINGpfbHR0MTlKOXotNDNueHpyU1BvT3FDRVR5T0J2SDFOMVc5NDFJazZyNkc0OTdyQm4xbEpTMGdHR1FsU09idkpoaWh1aUJQNllzU3hQOFBpVVFXMWwyR3NVR1d3Q3dYS0d0TTNkanZnQWVXd0VQRkxlcGJGZExsYjBpbHhWaTAtbzQtd3Npa2s1RlIzcXZBNFkxWFhNdzhVWTZvV1XSAcgBQVVfeXFMTkhsV0NtNk9TQ1ZmcDk3N3JENTRYazNJLTJiUm5HYzRSS3hzSXo2LS04cTJGS0Y5Mk92MGdsbm9NRk56dThrZFZIVlZSbEhiNkFOUjlENjF0M0pSd0Z3VEJTTjRFa0dWMVlGc2RXbWpsS0VZMXRoT25lSTc0NjdkR3I0RThyWHM2bWhfbFFuN296aVhlMzEyYllBZVJ5MkdUOEROWjREdmlZNzlqQmpzbXlDcUQ0by1UTGZ0cVRhX2lrV0NqRTJaSlo?oc=5"
+      },
+      {
+        "title": "US threatens countries doing business with Iran, but holds off on penalties for now - Reuters",
+        "source": "Reuters",
+        "published": "Mon, 24 Aug 2026 18:52:34 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0FZaGVaRDU5ZGhzbm1uaHBtUDIwNEhOUk96ZkxVNlRubGFIbHdXTmZhTU1YM2lrclBjNkpkNmlQWnIwUW9pS0xkazBKU2VTZXZMR2RlR0RWTTBnRUVKb2J1SzdyOGNGRjBBWFo4ZnRVQ1dLNG9KT2hTNU5SUGRNNDFERkctaW5oYlhjbTF6VjZNZmZBZHNjemVYZzZCZkFRRkE3MFlJMFlrTl9qT3VaZWQzQ3NnYlE?oc=5"
+      }
+    ]
   }
 }
