@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-24T18:13:08+00:00",
+  "generated_at": "2026-08-24T18:38:44+00:00",
   "fx": {
-    "nzd_per_usd": 1.672678,
-    "as_of": "Sun, 23 Aug 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.674022,
+    "as_of": "Mon, 24 Aug 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 94.39,
-      "latest_date": "2026-08-21",
-      "delta_1d_pct": 0.65,
-      "delta_30d_pct": 24.18,
+      "latest": 92.17,
+      "latest_date": "2026-08-24",
+      "delta_1d_pct": -2.35,
+      "delta_30d_pct": 10.65,
       "series": [
         {
           "date": "2025-08-25",
@@ -1010,14 +1010,18 @@
         {
           "date": "2026-08-21",
           "usd": 94.39
+        },
+        {
+          "date": "2026-08-24",
+          "usd": 92.17
         }
       ]
     },
     "wti": {
-      "latest": 87.06,
-      "latest_date": "2026-08-21",
-      "delta_1d_pct": -0.88,
-      "delta_30d_pct": 21.92,
+      "latest": 84.99,
+      "latest_date": "2026-08-24",
+      "delta_1d_pct": -2.38,
+      "delta_30d_pct": 8.77,
       "series": [
         {
           "date": "2025-08-25",
@@ -2018,35 +2022,39 @@
         {
           "date": "2026-08-21",
           "usd": 87.06
+        },
+        {
+          "date": "2026-08-24",
+          "usd": 84.99
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-08-23",
+    "as_of": "2026-08-24",
     "regular_91": {
-      "avg": 3.03,
+      "avg": 3.036,
       "min": 2.716,
       "max": 3.56,
-      "count": 77
+      "count": 84
     },
     "premium_95": {
-      "avg": 3.199,
-      "min": 2.716,
-      "max": 3.439,
-      "count": 44
+      "avg": 3.207,
+      "min": 2.715,
+      "max": 3.428,
+      "count": 50
     },
     "premium_98": {
-      "avg": 3.321,
-      "min": 3.248,
-      "max": 3.459,
-      "count": 4
+      "avg": 3.377,
+      "min": 3.279,
+      "max": 3.42,
+      "count": 5
     },
     "diesel": {
-      "avg": 2.721,
+      "avg": 2.719,
       "min": 2.446,
       "max": 3.109,
-      "count": 71
+      "count": 92
     },
     "lpg": {
       "avg": 0.0,
@@ -2054,9 +2062,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 14,
-    "observations_yesterday": 173,
-    "observations_older": 9
+    "observations_today": 16,
+    "observations_yesterday": 207,
+    "observations_older": 8
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8616,22 +8624,28 @@
     ],
     "global": [
       {
+        "title": "TotalEnergies Backs Two Major Oil Pipelines to Bypass Hormuz - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Mon, 24 Aug 2026 18:27:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYVJoMTZhd1RBU3M5WWlnTUI0UXc4bVUtMjNnYVNPUE4zMWNSZG9wUGh5c1BxT19CSzIzRkx4M3BMeDJmWG9qNHFzMWRmbjF0TmlIRmI2RWpMLTdxTnk1eV94YnRiM1VFcjdkWldTVGtPLXhiQjZEM3BiZml2cFlrdlVqUmx0dVphVEZtV1dud2k1a09xQzZWdWM2VnhVeENNSnE2YUwwQVgzT0ZsTTdnR2p0QnJvLW_SAbwBQVVfeXFMUEhldV9rSGtQbEEzNHV1X19HRmlhNWx2c1Qya3VGS3JlZF9EYzY1SjFIYldPeXRwT3NaZG5UWVRSZVlSUE0yOUp4UnJ4Q2VzQXlEdGd6UXRwempWZm1aMVg5NDVGMktxeTh6WldQc2ViTVJ0YldZaFdPZXpmUHVNZkhCaW9hY2twbFlReTM0d1NnSkhMV3g5ZTdVRFA0UVllaEQyeVBoalZTaW1xRlB5aERIdmVYcjd5Nm5wX2c?oc=5"
+      },
+      {
+        "title": "Oil prices pull back as Bessent launches ‘Operation Economic Outcast’ against Iran but holds off on new secondary sanctions - MarketWatch",
+        "source": "MarketWatch",
+        "published": "Mon, 24 Aug 2026 18:09:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdWVuTlF6bEpxOHI2UFhWQ2luUVN6c1oxUGZfLTBfcEE0Umppc05fcDluQXktbjE0a2JZVnc0d1htSUVtV21ZUjA4UnRvRWhCLUhFRGdFQ015RkM5X2p2cVJkVFFQUS00TlZFb0xvbHhoWW1tSksxRENGZ3NqREN4aU5EV3N1U2hrRk1pMEZJSXVTeERuemVKOGpwcU9FcXN1QmdfeFNyWUZBTThmV3F6RncxeE83OHcyZF9CSg?oc=5"
+      },
+      {
         "title": "Oil Prices Fall Ahead of U.S. Vow to Intensify Economic War Against Iran - The New York Times",
         "source": "The New York Times",
         "published": "Mon, 24 Aug 2026 17:42:19 GMT",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fY1BXeFZGMEw3NDdPSS1WSE1pV2kxN044NHduM3FIRmo3SXc2SFFybk5UWS1Bc3VEVUI2Q2VRcEtseEx1dG0zc3ZhdHd2LTVleXRfXzA5QTR6ejVhRHU4UnBoUHdyeE1jZDNPU3dJTVlzSUpTQlNPTU41WUs?oc=5"
       },
       {
-        "title": "Trump admin unveils anti-Iran global sanctions plan, signals China not exempt - CNBC",
-        "source": "CNBC",
-        "published": "Mon, 24 Aug 2026 17:27:11 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTzhCNHl5dWJ2ODQyMjBRX2V1RUUtQnlQY0xrVmtEOFRwTEk0VlMwNmFyUkI5NFlvd2pFdEpORFQ4Qi1xckNXeG1uME5JTk1tdktsSDBDNHo4ZXRTVENSY29JRWNMdkxzQzdnRm0weGFzcERCV0l2Y3pQTVkzaXZjdFBUWVQ4UdIBiwFBVV95cUxNajJTNU1wcExfNXpiUDliTFVycGlFbk9TT2tFdWdZbFdZdThxRmZob1ZsVVRycnFObFFqTHRZenVlcXdYWGlOZzVyLWZoZF8waGRYUFVVeGxvck5yS1k4WlFfRzRsZEZEMlZkSi1QYnJGd2FUa2RlcV9qSFpkN0JGQmpObFpPQmpFWTJn?oc=5"
-      },
-      {
-        "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions on Iran - NPR",
-        "source": "NPR",
-        "published": "Mon, 24 Aug 2026 17:24:51 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVVlnRnlJRzZOY2ZlQTVmSGpoR0tPbmMwMi1ZRmtIa2c1Y2lVWTN2U3MxdzdsUFFMX0VHWmwxcDhTc0JRS0VvWkdGb0lkTmRYZjV2akt3aWpiai0tRC1FNDgtZlhhQXFNSzhrNWdNWkpoZ181Z085ak1lQlRfZ1c0aFhGSkdVZTNwbHJRV09JTTRLckZCSEU0NmNWNGhOMFNjaUVKMFhHeDU5WWVZcmdUY3BrX1EzVE0?oc=5"
+        "title": "Bessent unveils sanctions designed to cripple Iran - Axios",
+        "source": "Axios",
+        "published": "Mon, 24 Aug 2026 17:26:20 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iRnhQekZOLVdfVWVKWDJ4bk9Rd1lBZ2NFbnk0ZjVYcXNFeDMwSmxzdy1zaGpqWWRNMlhmY29GWHNsTEI2MjduN0xnQzNwY3RLZjdvUkR0aXZTa1MyaHN1eldPa09rLUhxWUhKdy1fNmNMR0lZTVRlZy1n?oc=5"
       },
       {
         "title": "Morgan Stanley Sees Oil's Next Big Move - TradingView",
@@ -8644,12 +8658,6 @@
         "source": "The New York Times",
         "published": "Mon, 24 Aug 2026 17:03:28 GMT",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOakdJdUtkc0szdWhNeW1MUE5BQWNzT0RoVE9EdjlhUGtieFVVS1VIQmpkbmtMeVVBU1IxSTFMME1YSmg0dHVrdmxUS000QnF6bDVRaXlnV0JEbTlhOEg0VzhUY1hsaUwxajk5MVBxSklGMVF0QU1aT0RheFNjeTlNZVBYNmtWVmlFWEJCR3N3U1dhRTQ?oc=5"
-      },
-      {
-        "title": "Global oil prices above $90 a barrel ahead of Bessent’s ‘economic D-Day’ announcement on Iran - MarketWatch",
-        "source": "MarketWatch",
-        "published": "Mon, 24 Aug 2026 16:03:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdWVuTlF6bEpxOHI2UFhWQ2luUVN6c1oxUGZfLTBfcEE0Umppc05fcDluQXktbjE0a2JZVnc0d1htSUVtV21ZUjA4UnRvRWhCLUhFRGdFQ015RkM5X2p2cVJkVFFQUS00TlZFb0xvbHhoWW1tSksxRENGZ3NqREN4aU5EV3N1U2hrRk1pMEZJSXVTeERuemVKOGpwcU9FcXN1QmdfeFNyWUZBTThmV3F6RncxeE83OHcyZF9CSg?oc=5"
       },
       {
         "title": "WTI Price Forecast: 100-day SMA caps upside near $85 - FXStreet",
