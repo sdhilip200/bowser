@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T19:51:27+00:00",
+  "generated_at": "2026-08-24T20:43:06+00:00",
   "fx": {
     "nzd_per_usd": 1.674022,
     "as_of": "Mon, 24 Aug 2026 00:02:31 +0000"
@@ -8572,105 +8572,7 @@
   },
   "fuel_stocks": null,
   "news": {
-    "nz": [
-      {
-        "title": "New Zealand Retail Sales Fall -0.35% Q/Q as Fuel Price Surge Masks Weaker Volumes - Action Forex",
-        "source": "Action Forex",
-        "published": "Mon, 24 Aug 2026 03:21:32 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdXlfanVnRkRBYndaOWpUWkR5RG1NU2Y1T2dGUUJZeGhnczdscmViTkNCVHVXX29yV0FwNW1PNlF5UlF0bXhiLVdZWWxnNDBpbTUtV3o3NHZCZXlrdjlQN1dUTTQybFBRUzN3ME9NbkwxRXRRT0xLd25CU3pDeU9XZXJuQy1KWTRmNkxqV3l3dE82SW05VzdXcEVla1VEUkd6dzAwNFRtbTlSaTExNGlUNU5seXdlOU50UVpyZ0RTcUMtUHRmdW45LQ?oc=5"
-      },
-      {
-        "title": "Diesel burglaries more than double as fuel crime fears resurface - 1News",
-        "source": "1News",
-        "published": "Sat, 22 Aug 2026 20:51:49 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSk50MjJGV3NOazZWcVBkdzJQNjJ5cGVWeUV2bDg0dllWNWtkVGRqWEpRUVZHODBlVUl4aElxOGFoRFZHWEF2c25XRmNZYml6Z1otazBQNDE0azdUbVNiSnNZcHBTWUdCQklldlltakpKVy1sR0VNaFlING1nZWxwVm1pUlMyamttOEh2YlR3WlFIM3lRNkxURzNFUVFEczRfMEE?oc=5"
-      },
-      {
-        "title": "‘Scheduling gap’ limits arrival of petrol and jet fuel to NZ - analyst watchful, not worried - thepost.co.nz",
-        "source": "thepost.co.nz",
-        "published": "Thu, 20 Aug 2026 04:46:23 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSFcxcVNLYWNHRGE0cFJScnE0QmNZN0dtcWhPS2pydEE3ejZva2RwRmxFR3RHRXY4Ym90WjV3X25jaVdNWjQ1aDdpM0ExR2pSdGFvdlJjQmItNzN1VVdTSmx6eWdMc1ZKVkdlMmhsZVJqbzRCZUxmMFRfYk8wUkJ1b1VsM216Yk1XRERpQVQ0ZTBVZGtLaFBjY2lNaDBhdTF4U1ZISGZFdHdwM1BWNVNDN0FZS2IyODA4UnRmbmZ0dk44X3lX?oc=5"
-      },
-      {
-        "title": "Falling fuel prices take edge off inflation data - RNZ",
-        "source": "RNZ",
-        "published": "Mon, 17 Aug 2026 02:02:43 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdmVxd1ctWGl5ZHlZczFvWm42Y0pMRmk4eXZjZnprYzlEbGJ6ZG5MSUdvZzItU1JwUWFrSFdOT3YyVzNueWtOQXIxbF9vb2JTNEhkZXktcXo1Y1lIYWNnU3RzVXNzekdEV3BlNXo1TjIzTUdsZEZvRWlaNEFqRGd4cnJGUFpBa1dMazNma3FfQ3RobGtKeWpV?oc=5"
-      },
-      {
-        "title": "Freightways revenue up but margins hit by fuel cost headwinds - BusinessDesk | NZ",
-        "source": "BusinessDesk | NZ",
-        "published": "Mon, 17 Aug 2026 01:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNekoxb2NfaDBoYnF0UlJHZlF6Y2VmZUoxU0J5QXdEVWx6ZGJpcHkxX1BRTDJ1d3piOUwtS21tUjl0c09RdHhBV1NwSEZveUN5VDhlM19nZk0tczhmZGdNV0pNeG1hWWhuUW81UmtpdUFtUzRURjFWWU1PVVdUdHpDT244X3BmbEY1ZWFodVlnbHZCQklWQmVmTlJzaElGQmF4VE9IUjRFdkxjVG9Ib2lOVg?oc=5"
-      },
-      {
-        "title": "Fuel anxiety has more Kiwis plugging in - thepost.co.nz",
-        "source": "thepost.co.nz",
-        "published": "Sat, 15 Aug 2026 16:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOFlHVmk0alJwMGhHemtQMlFpTlAtMU9DRkY5d1U1VklvWU9hRGNZVExGWEpnblNldWthNWw1bVh4WW5tNDMwclh4eDZmNmJMekt1U042RFBvRFotYTg0WW9XbGdEQVd2QmR3OVJBdU9FS2hyX2xreUJSNmdCTmJHbjhWSk5iWUV6?oc=5"
-      },
-      {
-        "title": "Pacific families are caught between fossil fuel gamble and push for clean energy - Pacific Media Network",
-        "source": "Pacific Media Network",
-        "published": "Sat, 08 Aug 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZzYxc29LYV9rMFJoRmlad2FoNWFKc29WUWFEeUg2U2RSUy1EY3ZqbVNRWVJ0M1dwYTROemYxTHpIMHFhZDg2ZHphNnhGbU8xOURzMzZDS3NRYUdlaERwTEl5Q2FNTnlCeEJmMHlZM3dxNVhuQjZEeVpybV9rTnhOa0dlMFVnaS1ZaURWNVFHVGxCNWo2UFd1a01BYngxYUwxMkNFc2NCeWlfc3ZXVmc?oc=5"
-      },
-      {
-        "title": "New Zealand’s fuel supply five months into the Hormuz crisis - newswire.co.nz",
-        "source": "newswire.co.nz",
-        "published": "Sat, 08 Aug 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkdjbGk1UWFQZWdCNjJuN1BSTWNtWi1SNEZFSTd3b00zVVg2NDhOenpzajVWa2FRaHk2NlJCWmpCTm93aWFFdVljdDBYOS0weG10RkxsNVdGUFcyMEduSmNUakNpT2hmSFYwZjM5RDI3MWZLTGpQcDB2emdlNS1TbUx4VlVGZDY4?oc=5"
-      }
-    ],
-    "global": [
-      {
-        "title": "Bessent announces campaign to create \"economic onslaught\" against Iran and its partners - CBS News",
-        "source": "CBS News",
-        "published": "Mon, 24 Aug 2026 19:18:02 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS0VHbVlxbl9lZldHSWhZTFNSOXk3YXJaQV83UVBwT2F1UWxNeTF5R3BWVF9ZSmtfbW0xS1pwR2FXRUFNbm9jZEJONURyRDVJaW83NDJFV0FSOXg1TEJ5eXFLcGMyVmNJZDh3QTFjbVVmT2FTc3JTX2hTM0FnUHQxWnozdXAxQ0VMU2dFLQ?oc=5"
-      },
-      {
-        "title": "Treasury Expands Iran Sanctions Without Targeting Major Chinese Banks - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Mon, 24 Aug 2026 19:13:50 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdWdlYWRkWWtTTkxBQ0FaYi1xWG8yLUdvVU9rR3dINGpfbHR0MTlKOXotNDNueHpyU1BvT3FDRVR5T0J2SDFOMVc5NDFJazZyNkc0OTdyQm4xbEpTMGdHR1FsU09idkpoaWh1aUJQNllzU3hQOFBpVVFXMWwyR3NVR1d3Q3dYS0d0TTNkanZnQWVXd0VQRkxlcGJGZExsYjBpbHhWaTAtbzQtd3Npa2s1RlIzcXZBNFkxWFhNdzhVWTZvV1XSAcgBQVVfeXFMTkhsV0NtNk9TQ1ZmcDk3N3JENTRYazNJLTJiUm5HYzRSS3hzSXo2LS04cTJGS0Y5Mk92MGdsbm9NRk56dThrZFZIVlZSbEhiNkFOUjlENjF0M0pSd0Z3VEJTTjRFa0dWMVlGc2RXbWpsS0VZMXRoT25lSTc0NjdkR3I0RThyWHM2bWhfbFFuN296aVhlMzEyYllBZVJ5MkdUOEROWjREdmlZNzlqQmpzbXlDcUQ0by1UTGZ0cVRhX2lrV0NqRTJaSlo?oc=5"
-      },
-      {
-        "title": "Bessent Unveils Promised ‘Economic D-Day’ Sanctions Against Iran - The Well News",
-        "source": "The Well News",
-        "published": "Mon, 24 Aug 2026 19:07:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbndsSFlBSzlaOXZLbk9kT0NPSVNFNzFiZFI0azlhRkFTaGVTd09oN3BzYXZ4WGhmY3hJcE4tS0luakZRWW5iYkRwM1V1c29CUzlfVllLR1pxcjRtTHhwWnZ1a2ctVGdOUVI5VU5DeGZXaks2cDdoaUFJX0lHRF9ldk1FT3hONTdLVnFyT2ZhUmpnbXpHQkpreFpPWkZJMHlDQXc?oc=5"
-      },
-      {
-        "title": "Bessent Launches ‘Operation Economic Outcast’ to Isolate and Squeeze Iran - WSJ",
-        "source": "WSJ",
-        "published": "Mon, 24 Aug 2026 18:57:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGZNZEVVcUhYY2xmSVRzUlZPSVpwcVphcFZjcm5sS2dfdmE0MmlNZHFIS0J1NXJwcHhLdlFVLVdVTTBOblRDOTlLY25jajFoMmh6SjhmZy0xazlJdTRlTl82Z05sVEQyNHZBRE1HNnRZR2hRREFodHlFUlcxazF0TU43TTRJU0dxWURfLTZNeGZBUC0xS2xySV9xMVJmc3Zka010Q3EwcW13QQ?oc=5"
-      },
-      {
-        "title": "US threatens countries doing business with Iran, but holds off on penalties for now - Reuters",
-        "source": "Reuters",
-        "published": "Mon, 24 Aug 2026 18:52:34 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0FZaGVaRDU5ZGhzbm1uaHBtUDIwNEhOUk96ZkxVNlRubGFIbHdXTmZhTU1YM2lrclBjNkpkNmlQWnIwUW9pS0xkazBKU2VTZXZMR2RlR0RWTTBnRUVKb2J1SzdyOGNGRjBBWFo4ZnRVQ1dLNG9KT2hTNU5SUGRNNDFERkctaW5oYlhjbTF6VjZNZmZBZHNjemVYZzZCZkFRRkE3MFlJMFlrTl9qT3VaZWQzQ3NnYlE?oc=5"
-      },
-      {
-        "title": "TotalEnergies Backs Two Major Oil Pipelines to Bypass Hormuz - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Mon, 24 Aug 2026 18:27:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYVJoMTZhd1RBU3M5WWlnTUI0UXc4bVUtMjNnYVNPUE4zMWNSZG9wUGh5c1BxT19CSzIzRkx4M3BMeDJmWG9qNHFzMWRmbjF0TmlIRmI2RWpMLTdxTnk1eV94YnRiM1VFcjdkWldTVGtPLXhiQjZEM3BiZml2cFlrdlVqUmx0dVphVEZtV1dud2k1a09xQzZWdWM2VnhVeENNSnE2YUwwQVgzT0ZsTTdnR2p0QnJvLW_SAbwBQVVfeXFMUEhldV9rSGtQbEEzNHV1X19HRmlhNWx2c1Qya3VGS3JlZF9EYzY1SjFIYldPeXRwT3NaZG5UWVRSZVlSUE0yOUp4UnJ4Q2VzQXlEdGd6UXRwempWZm1aMVg5NDVGMktxeTh6WldQc2ViTVJ0YldZaFdPZXpmUHVNZkhCaW9hY2twbFlReTM0d1NnSkhMV3g5ZTdVRFA0UVllaEQyeVBoalZTaW1xRlB5aERIdmVYcjd5Nm5wX2c?oc=5"
-      },
-      {
-        "title": "Brent Crude Slides as US Tightens Iran Sanctions - TradingView",
-        "source": "TradingView",
-        "published": "Mon, 24 Aug 2026 18:21:49 GMT",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcThmZFpQa19qNGpKb29Ha0RlYWxsUEpkeGhYbmZRamgyOE1Yd2M5eDBpN2l2SjgyVlByVkRlT1RPS1Nad1k1WGRfUUNwTVhIdTc4Q194TkVEZndOcElDcW5jckdjS0FCU0JFUFEta2FNUFoxQmw3NHFILWk1UlBZTFAtWlB2dmpDVFoyWTlEa1k0TmRpYkZzU3phN2VqUWdT?oc=5"
-      },
-      {
-        "title": "Oil prices pull back as Bessent launches ‘Operation Economic Outcast’ against Iran but holds off on new secondary sanctions - MarketWatch",
-        "source": "MarketWatch",
-        "published": "Mon, 24 Aug 2026 18:09:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdWVuTlF6bEpxOHI2UFhWQ2luUVN6c1oxUGZfLTBfcEE0Umppc05fcDluQXktbjE0a2JZVnc0d1htSUVtV21ZUjA4UnRvRWhCLUhFRGdFQ015RkM5X2p2cVJkVFFQUS00TlZFb0xvbHhoWW1tSksxRENGZ3NqREN4aU5EV3N1U2hrRk1pMEZJSXVTeERuemVKOGpwcU9FcXN1QmdfeFNyWUZBTThmV3F6RncxeE83OHcyZF9CSg?oc=5"
-      }
-    ]
+    "nz": [],
+    "global": []
   }
 }
