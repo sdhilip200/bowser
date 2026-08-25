@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-25T18:14:51+00:00",
+  "generated_at": "2026-08-25T18:38:09+00:00",
   "fx": {
-    "nzd_per_usd": 1.674022,
-    "as_of": "Mon, 24 Aug 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.677241,
+    "as_of": "Tue, 25 Aug 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 92.17,
-      "latest_date": "2026-08-24",
-      "delta_1d_pct": -2.35,
-      "delta_30d_pct": 10.65,
+      "latest": 87.35,
+      "latest_date": "2026-08-25",
+      "delta_1d_pct": -5.23,
+      "delta_30d_pct": 3.09,
       "series": [
         {
           "date": "2025-08-25",
@@ -1014,14 +1014,18 @@
         {
           "date": "2026-08-24",
           "usd": 92.17
+        },
+        {
+          "date": "2026-08-25",
+          "usd": 87.35
         }
       ]
     },
     "wti": {
-      "latest": 84.99,
-      "latest_date": "2026-08-24",
-      "delta_1d_pct": -2.38,
-      "delta_30d_pct": 8.77,
+      "latest": 82.42,
+      "latest_date": "2026-08-25",
+      "delta_1d_pct": -3.05,
+      "delta_30d_pct": 3.88,
       "series": [
         {
           "date": "2025-08-25",
@@ -2025,36 +2029,40 @@
         },
         {
           "date": "2026-08-24",
-          "usd": 84.99
+          "usd": 85.01
+        },
+        {
+          "date": "2026-08-25",
+          "usd": 82.42
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-08-24",
+    "as_of": "2026-08-25",
     "regular_91": {
-      "avg": 3.036,
+      "avg": 3.029,
       "min": 2.716,
-      "max": 3.56,
-      "count": 84
+      "max": 3.649,
+      "count": 83
     },
     "premium_95": {
-      "avg": 3.207,
-      "min": 2.715,
-      "max": 3.428,
-      "count": 50
+      "avg": 3.21,
+      "min": 2.716,
+      "max": 3.427,
+      "count": 54
     },
     "premium_98": {
-      "avg": 3.377,
-      "min": 3.279,
-      "max": 3.42,
+      "avg": 3.264,
+      "min": 3.155,
+      "max": 3.389,
       "count": 5
     },
     "diesel": {
-      "avg": 2.719,
+      "avg": 2.715,
       "min": 2.446,
-      "max": 3.109,
-      "count": 92
+      "max": 3.099,
+      "count": 91
     },
     "lpg": {
       "avg": 0.0,
@@ -2062,8 +2070,8 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 16,
-    "observations_yesterday": 207,
+    "observations_today": 11,
+    "observations_yesterday": 214,
     "observations_older": 8
   },
   "mbie_waterfall": {
@@ -8636,16 +8644,22 @@
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVJWTHk3ZGp5NTN5UDNDZ1RjUDF5TklWV2lkMDV6TFhYVVBzWjlNTVJ6ckhmU19VVGswTF9MRF93NnFOdE1EVnZGUlhPZUh6ZTFrUDZLaHoyc0otdG43czRkeFMyb2JOaXhkQ1RkQlJWTklaRVZmSVNMajZ5Zl8xZE5sY25MQ3F0WERTdXlVMnJSSzB6bndpOGlVb29lSUFDWXJvZlFhUmxTZDA0Rk9r?oc=5"
       },
       {
+        "title": "If the U.S. wants to end the war with Iran by way of economic sanctions, China is key - CBS News",
+        "source": "CBS News",
+        "published": "Tue, 25 Aug 2026 16:45:25 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Qa0ctOEJ5NGRkTHdEODhIeXBuS3Y2RDQwMDFHOUtVRE9hTk9WM1NSSzcwd0otdzRNaVJhZlp1Si1QLWY2Yk1ZQVdBSGdySk5yR0RLeVNFbkZuNHVzMC02RnYzSUFsSUlX?oc=5"
+      },
+      {
+        "title": "Trump Live Updates: Bessent Unveils New 'Economic D-Day' Sanctions Against Iran - The New York Times",
+        "source": "The New York Times",
+        "published": "Tue, 25 Aug 2026 16:34:11 GMT",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xYzV1OHFrN0pNdGo3V1VSMExkc2pvc1NhbHpJdE1HdzFsQ3h1M2lMU1JzeGotX212N1VRTVNHcVJibEVmbDJvbjNjdGdLdnZFbnNjSEhRUEt0Z2U1cWp1WGlUYTZkSWVZclM1SzhXZlFjSW1r?oc=5"
+      },
+      {
         "title": "Oil prices fall as US sanctions on Iran posing limited near-term supply risk - Oil & Gas Journal",
         "source": "Oil & Gas Journal",
         "published": "Tue, 25 Aug 2026 16:04:47 GMT",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTUdFbzdQVDgxS3ZyUFNRTnBpcm5yTzk2RTZkYjUtY2ZneXc0Y2ZhbklIOWpUWHVLRW5fRXcwSmhvT2RSSDVYSGxHYWdSQUF1ak9KYzZmTTZyUU5Hb3FNVllUVEdSc2ExUHN3ZGc4bTdycjl0R2h6STJEbzhZMi1TUEx4X013VVQ0MERTUlV6aWptLUdqczZTMjBHdTN3R1VDR3B3Yi1nRDZOWHF4a1F3bGpfYkdXOVJGMzA5SVBpdUM0QWtaajN0VlJ2VXpNd0ktd2Uwem5mYVJWV2g2bkE?oc=5"
-      },
-      {
-        "title": "Oil down as traders weigh US sanctions threat against Iran - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "published": "Tue, 25 Aug 2026 15:55:12 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdjBqM09veFdTZl9sZWQ2VEJPU3lXaGJWRWRXNk1ORGpTekMxajZVbWVncUE2UGVmVFhyVTFXS2FVZUs3aFlLb2RfY0ZIbS1WUDEyelFwNmJyVkxzbHk1SzRBQ1p2cTVic1p3aEFkZ00zRV9ZUENhUVZzSUQtYURvSGZid3RvSGI1ZGp0clZ1SDBhS0laSmpMTFA0aUlIQQ?oc=5"
       },
       {
         "title": "Oil Prices Fall as Iran Negotiation Hopes Return - Crude Oil Prices Today | OilPrice.com",
@@ -8664,12 +8678,6 @@
         "source": "WSJ",
         "published": "Tue, 25 Aug 2026 15:11:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORWdfMGZLcWFBcUdhdTRZSnVQbmtRR1k0TGFKQWpCckpFTnlBREtHT1huekpWOXZHVjRwX01SWmxsYURQRDJzbmI0c3VQYjhaQVJlbXVhcURKOU4xQlNMekdKR3F6QTR2dEJoN3pDRHkzVkFtWTExWTZoQlc5cVhpbkdVSnY1eEx5MHBnS1RXbGd4dXNuOGF0OUE5RFkzdFB6b19xaG1oX0FEZGZPdEtEa25aYzlWdlNI?oc=5"
-      },
-      {
-        "title": "Hormuz Crisis Boosts Appeal of $42-Billion Tanzania LNG - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Tue, 25 Aug 2026 15:06:56 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLTNDQWVNZHRaS2hSVG83Z3RROXhkSXdHdG5wTmZLYU5hZmNjRmpnUmdFUW53NWdYaXlXdEdSQ3pwUVlWNmlNLUx0blJTWkFHU252c0h3MWdCcndlOFRBN2Y1azlWMThFRWZhNjZBQjAyc0hlOXdqTmVoYUs5b0ZENGM5RE1SSjR1Y0VFRV9CWVY5RXpqVUxNSmdBQi1vM0hsYi1TTGFRX0xuQ1c5LWNB0gG0AUFVX3lxTE00akZqMjVPejdPODBxXzc0R190eWROOWN4dEZSd3p3UWxTRmdnX2EzZjdISXViLVdLLVNjSzhYLUhOcVBmRHhPc0FLUTgwWkx6dlJ3YThzeUYwanZrQS04SVk4TERvZVVhc3JvYmtIVDlzSkdXbUFiSWNWN1F1VXRwWkFBU1E1UjdaVnFrY3ZSbTlkYkFCanZPNmJuYlhzQnBNWEs1ZWVmVmtoUlBDYlcySERPTw?oc=5"
       }
     ]
   }
