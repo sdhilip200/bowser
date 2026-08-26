@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T10:46:51+00:00",
+  "generated_at": "2026-08-26T11:38:23+00:00",
   "fx": {
     "nzd_per_usd": 1.677241,
     "as_of": "Tue, 25 Aug 2026 00:02:31 +0000"
@@ -8632,6 +8632,24 @@
     ],
     "global": [
       {
+        "title": "Current price of oil as of August 26, 2026 - Fortune",
+        "source": "Fortune",
+        "published": "Wed, 26 Aug 2026 11:15:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jb09HWWhLVTJVZWF2Wjl4UloteTNaUXFwemtsRDZnbzg1dDA2Wk1PckxYZnY2QXgtV3kyY0tQa1FMcklPdlhJM2xzeFZydTZPQjlZeEF2S2ltUDJpZEVmSFBB?oc=5"
+      },
+      {
+        "title": "US shift in Iran strategy push Brent crude below $85 - Anadolu Ajansı",
+        "source": "Anadolu Ajansı",
+        "published": "Wed, 26 Aug 2026 10:56:20 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRDA2OFhwcm9sVnVodlFqOUU5ajRLTjlnbjY4U1h0T3Y0M3pUMlN0bUhWNmpLLXFBMXNWenBkUjFRclRuZlQySWdwWEZ3dW05OHFPQldRSDdzUFphcllqd21FYVh3Y1luTHBZRGE1TEVQckNqQWFHS0hNdEkyR0VLaG05eXktU0RtYVMyR0ZFd2NiemxlOVpsWdIBoAFBVV95cUxNRDMwSU5MMjZlTHAyY29jV2ZkZ0lIZU84YUVzaW5XSG90amVVbDJBMTN0T281MVVva0steHpHVndkaUd2ci1LazdxSUVaWUFKQmZsUEFqZmUtOC1keGJ5STR5VjRJQUVLNHhTdnctakdndl9BTGtxZzBfUVlWaVoyY3VuQU14OGRhb2xlU3U0NTRHVTBGQS12RENmLURCaldK?oc=5"
+      },
+      {
+        "title": "Brent Crude Retreats to $85, Nvidia Earnings Due -- WSJ - Moomoo",
+        "source": "Moomoo",
+        "published": "Wed, 26 Aug 2026 10:19:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaTVfdHBUck9RYk1Vd2lsRW93NFRVOFZXVkJTTXZaa1VUc2ctdTFSb2hwWWpDT1gtdnp2QVNpdy1UeG9ZWXdLbHJSeG5uZkliOWhnaURmZ0hBazIwWHctLXVEWUlQbDZXX0FEMmxaQmdadVQ5amc5WG9ncHAwcUhpVHplSmd2dUU1dlpETmV4b2lreHFNM1JN?oc=5"
+      },
+      {
         "title": "Brent loses momentum following surprise US stocks build - engine.online",
         "source": "engine.online",
         "published": "Wed, 26 Aug 2026 10:05:50 GMT",
@@ -8644,40 +8662,22 @@
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFkwTWp2eGR4Vm1UQndrZnhabE53anRkNHFFdHR5M0pWZW9zaHduaEdPLVFuMEplcVI5Q1RTVkZkakxmVFJ6elZmUk9DUW9zTEVuaEFMVEszNkRqcTlKNFNCQkp3eEM0cUczb2hmTE9HcUtRTDVXODdrTnZaTU44Y2pnaFhoQmFJd20zS0w4ZE5wV1JqR1A1RmpURF9yWGJlVlZkNDdfR1hFNE5vMFBUVFlDUkVFcFp2amc?oc=5"
       },
       {
-        "title": "Japan energy plan seeks to back pipelines bypassing Hormuz - The Japan Times",
-        "source": "The Japan Times",
-        "published": "Wed, 26 Aug 2026 09:39:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYmI3bVkxS1J5RGZFY0lmVjMzbU1YM2NreS0yY0Z5bEdWSkVUOG1lUVMybER2LWFvLUtRZjlaUGtnd0gtbFMwRXBkT0NxN2o3ZGtVWkRrNnhjOVpoejFLNm0yS2dwb0FMb0ppS0hNc25aOW1iNlRneGxZbVpHd1ZLUXBCQTA?oc=5"
-      },
-      {
-        "title": "Japan to Unveil New Oil Diversification Strategy - Crude Oil Prices Today | OilPrice.com",
+        "title": "Hormuz Traffic Remains Depressed as Iran and Oman Weigh Temporary Corridor - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Wed, 26 Aug 2026 08:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSjMxcGtKZEZReW9QZC04LVM2T25xWnpKejFOLWwtOFBlaU11bTJRRHZ3elNuSjh2cVB4cThta2tRQzlkOXd3V0hfcUt5UXhYTXRYcEVtMXlOVnVQRmRjd29EMDl4Q3d3MDdsTVVXeGphOE5fQXBKb1VjQ1FKUXJ3SEpueGx4dF9hUzREM0VtX3JrOWMtTVp0S3JiOXozNWFSb2M3bFdHRdIBrAFBVV95cUxNeDFLRjNINVZCaldZWW1VbVpabXBqb1lxdkozTGNqRGNoU1pvZV9XcVhYZXk1Zk1aaUVnb0FKMXlUQ1lCOC1IbXNyRTlTdzJKbXZ6QS13QWxlVGJXYmpjVVVqc3o2dEhQeVZ1SHB5N1diSTA1cS1Wb0V4NF9XOWhQRkJRRVlEamlTaUt0NlRZOGxCVmxvTWhGdmw0NFUyWEV4Qmd2YTJqNlo2NExw?oc=5"
+        "published": "Wed, 26 Aug 2026 09:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVnZHaXRzR3FheHdiNF9JeDFPc1h6SmtBTW4tOEJyMmdwQTJtTkxCbVdaX2dQdnkxaTBCQUxlS01IZjZjNktkdC1pdENuSE5ybVltNGpqZU41cWdQaGtvNE0xS01QMHpxNnV4cG9RaUliVjBnU0xfeFM2NWdsWDBPSUJySDZEZzFWRmtLWGxqN2JjRkZkdTY3MnlDVFhib004ZGlKUnNNTUlnb3FsaTZQdzRjWWg0c1JXQnZzYWhINVRTdWctdVNOTDd30gHPAUFVX3lxTFBjVlJ1dW5rdFItdW5YaWZseHc5blFYWjBlWEsyYTJfU3NMbFZGMnlrbnVwblFLQWJ0QVVfbjRnUm9IZE03RDBYMjRKVWpDUUR6QVRZQTlRUjNGdUZ6cnRqeE02TWZBY3FUTHhrdWQwb0Uwbk1yaGFqWC1IOHJaaG11WmNEUTdiME53bUR5YXZoTURLVTFYeTBuRFl4a190cHVvbWo2UHU3cm5Fa081RjlvMWVNY2ZSYjkwSkt0RFVtNkdkTVhKcUM5WnJMTDNOZw?oc=5"
       },
       {
-        "title": "Brent Crude Drops Sharply as Geopolitical Risks Ease - TradingPedia",
-        "source": "TradingPedia",
-        "published": "Wed, 26 Aug 2026 07:58:38 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQekVUZlF2WEl2b3FZdEN1NGxpTWNaRUFzZXZTQU1BZXZmME9wTEhmdjdmTm1aMF85ZXlhZlRab0ZKMk16aktITVdyNmY5RDdZcU11VHpHY3NXUTNGSllVTTVvRloyRFkzZ19xSUNDX2FYLVMtRGNxOGd2Wk51T1NwSXBrZ280dkxGMGdKRHhlblhfYXVaeC1Eag?oc=5"
+        "title": "Oil Prices Slide As New Sanctions On Russian Exports Ease Supply Fears - Bitcoin World",
+        "source": "Bitcoin World",
+        "published": "Wed, 26 Aug 2026 09:10:12 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56TGpwLUJXaUxlNjZkWkVLV3I5aHN1SHZ0ZnZIbWM2cFhLSFBseDJHSlRFVGo0aTJyNk9uSk9DQ0I4c3VCNGFPTHVnMzEtOUNMandDUENVZ2xOeWktRUFqTHJ0OUpGUjVINEE2Q0F2TDJYTE9XVzBhcXhn?oc=5"
       },
       {
-        "title": "Brent slips 2% as Hormuz supply fears ease, Fed hike bets persist - Anadolu Ajansı",
-        "source": "Anadolu Ajansı",
-        "published": "Wed, 26 Aug 2026 07:39:14 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb3pKZDh6OWFfLUlaLUF3d3htdDFsam5GYzYtTGRWVTJVd3dab2kwcTAzYUhUTFVjSURFcWhuTmJYblFLcWxGbVkwNXFoRC1LcF82UjZyYnY5R3lXWFl5aEhjR3RKVzJHWGJ3Mm5XdWVOYzNBZ2ExbXZvZVJ0Q21yUmxSR0Q5TFJHcnVSbVhCaW1POE5hNUxRTk5fM1J5d25mTmtlX0YxSV8?oc=5"
-      },
-      {
-        "title": "Shafaq News..Iraqi crude prices fall more than 6% - شفق نيوز",
-        "source": "شفق نيوز",
-        "published": "Wed, 26 Aug 2026 07:16:39 GMT",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zY2tDcWZsNjdIWUEwS2tOLTQ4M3J0Z1pVQ2I2SW1xRm9jOW5kMjRGOWtxdjlnNmF0OGd3VmlTa3kzQkd5dkZ4Ri1OSUZIZ3NqMnJYVk5RT29heTBfWnRJTFllVllPOHBXbzhxVXpPWUVlRGs?oc=5"
-      },
-      {
-        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
-        "source": "LiteFinance",
-        "published": "Wed, 26 Aug 2026 07:10:50 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
+        "title": "Oil, EUR/USD Forecast: Two trades to watch - FOREX.com",
+        "source": "FOREX.com",
+        "published": "Wed, 26 Aug 2026 08:44:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVHlUemt5MkJ5Q2tIdndkQTdkcHE1SDgzSDMzQko1c2hfYWx0WE9Pc1RxdTExYjRIS3JzVG9WUUlGTlA3Yi1fZEZqMUtuWmpnNjZhT1hUNlNBSndTbVE4bm4xTWY4cTlpZ0dlU1BNVm9ZODc0eGJDbjlEdENLQmNOSER3YXhqRG93ckx0S3VxUVY5bTgxcGdv?oc=5"
       }
     ]
   }
