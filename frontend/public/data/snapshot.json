@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-08-26T19:14:22+00:00",
+  "generated_at": "2026-08-26T19:46:02+00:00",
   "fx": {
-    "nzd_per_usd": 1.677241,
-    "as_of": "Tue, 25 Aug 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.67443,
+    "as_of": "Wed, 26 Aug 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 87.35,
-      "latest_date": "2026-08-25",
-      "delta_1d_pct": -5.23,
-      "delta_30d_pct": 3.09,
+      "latest": 86.64,
+      "latest_date": "2026-08-26",
+      "delta_1d_pct": -2.19,
+      "delta_30d_pct": 1.99,
       "series": [
-        {
-          "date": "2025-08-25",
-          "usd": 68.8
-        },
         {
           "date": "2025-08-26",
           "usd": 67.22
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-08-25",
-          "usd": 87.35
+          "usd": 88.58
+        },
+        {
+          "date": "2026-08-26",
+          "usd": 86.64
         }
       ]
     },
     "wti": {
-      "latest": 82.42,
-      "latest_date": "2026-08-25",
-      "delta_1d_pct": -3.05,
-      "delta_30d_pct": 3.88,
+      "latest": 82.01,
+      "latest_date": "2026-08-26",
+      "delta_1d_pct": -0.42,
+      "delta_30d_pct": 3.03,
       "series": [
-        {
-          "date": "2025-08-25",
-          "usd": 64.8
-        },
         {
           "date": "2025-08-26",
           "usd": 63.25
@@ -2033,36 +2029,40 @@
         },
         {
           "date": "2026-08-25",
-          "usd": 82.42
+          "usd": 82.36
+        },
+        {
+          "date": "2026-08-26",
+          "usd": 82.01
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-08-25",
+    "as_of": "2026-08-26",
     "regular_91": {
-      "avg": 3.029,
+      "avg": 3.007,
       "min": 2.716,
-      "max": 3.649,
-      "count": 83
+      "max": 3.237,
+      "count": 71
     },
     "premium_95": {
-      "avg": 3.21,
-      "min": 2.716,
+      "avg": 3.212,
+      "min": 2.736,
       "max": 3.427,
-      "count": 54
+      "count": 29
     },
     "premium_98": {
-      "avg": 3.264,
-      "min": 3.155,
-      "max": 3.389,
-      "count": 5
+      "avg": 3.286,
+      "min": 3.156,
+      "max": 3.409,
+      "count": 7
     },
     "diesel": {
-      "avg": 2.715,
+      "avg": 2.724,
       "min": 2.446,
-      "max": 3.099,
-      "count": 91
+      "max": 3.077,
+      "count": 77
     },
     "lpg": {
       "avg": 0.0,
@@ -2070,8 +2070,8 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 11,
-    "observations_yesterday": 214,
+    "observations_today": 87,
+    "observations_yesterday": 89,
     "observations_older": 8
   },
   "mbie_waterfall": {
@@ -8644,6 +8644,12 @@
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS3NPa3NJalRQcVRiUjVQa1NhN295bGVBWDZUWV9faktoMXhQLXpFVnQ0WnVrTDMtMTI1cC1nampaZkZVVHdNRzluNTBodVIyeGVqTjBEeUFtS25Ldk5MaHk3dzVDZXVpRXNrYVpUX3FYNXJIbk1LMDhZdjBqbS1CUVE5ZmIydW0wbXZGM01JQTBJeWZCUlE?oc=5"
       },
       {
+        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
+        "source": "LiteFinance",
+        "published": "Wed, 26 Aug 2026 16:54:54 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
+      },
+      {
         "title": "Oil Prices Dip on News of Progress in Hormuz Talks - The New York Times",
         "source": "The New York Times",
         "published": "Wed, 26 Aug 2026 16:20:42 GMT",
@@ -8672,12 +8678,6 @@
         "source": "Crux Investor",
         "published": "Wed, 26 Aug 2026 14:11:20 GMT",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa1lQOExDQ0FMam5JSF9yeWFOcG03aFY0Vzk0UXQ1QUp5QTRWSEM2cU51SjlMdHh6aUcteFhaVzNCeWgtWENldi14dzRuUURBUHhlUEFpam1yc0ozcWs4c2p4NFlPRnppVF9NN3lBMm5Xd2REWGtkVGhWSnZnbW52UndMU244b3BSOW9IMkE5b0ktMW9Wd2x5VQ?oc=5"
-      },
-      {
-        "title": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Wed, 26 Aug 2026 13:47:21 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc043cHk1ZjIxLWc2RVJUX2p1NnRHMmpRamNpNkVJNTBkNjliR1Z4amtCdkdVUzkzUnBRQ2ZpWFhHdGRUUWtybzFieTY2ek9qazdPaG5Ec0d3akx6a24wMlYzaDdnbjZrbmNVdTdZdXZSYlhGTVFUOHJoTGZhQ1RJR2tyaDNGckF0OWM0QW1ta2lVbnFoOFE?oc=5"
       }
     ]
   }
