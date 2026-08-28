@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-08-28T00:22:03+00:00",
+  "generated_at": "2026-08-28T02:02:54+00:00",
   "fx": {
-    "nzd_per_usd": 1.67443,
-    "as_of": "Wed, 26 Aug 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.679719,
+    "as_of": "Fri, 28 Aug 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 86.64,
-      "latest_date": "2026-08-26",
-      "delta_1d_pct": -2.19,
-      "delta_30d_pct": 1.99,
+      "latest": 88.15,
+      "latest_date": "2026-08-28",
+      "delta_1d_pct": 0.35,
+      "delta_30d_pct": 4.65,
       "series": [
-        {
-          "date": "2025-08-26",
-          "usd": 67.22
-        },
         {
           "date": "2025-08-27",
           "usd": 68.05
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-08-26",
-          "usd": 86.64
+          "usd": 87.84
+        },
+        {
+          "date": "2026-08-28",
+          "usd": 88.15
         }
       ]
     },
     "wti": {
-      "latest": 82.01,
-      "latest_date": "2026-08-26",
-      "delta_1d_pct": -0.42,
-      "delta_30d_pct": 3.03,
+      "latest": 83.05,
+      "latest_date": "2026-08-28",
+      "delta_1d_pct": 1.0,
+      "delta_30d_pct": 5.19,
       "series": [
-        {
-          "date": "2025-08-26",
-          "usd": 63.25
-        },
         {
           "date": "2025-08-27",
           "usd": 64.15
@@ -2033,36 +2029,40 @@
         },
         {
           "date": "2026-08-26",
-          "usd": 82.01
+          "usd": 82.23
+        },
+        {
+          "date": "2026-08-28",
+          "usd": 83.05
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-08-26",
+    "as_of": "2026-08-28",
     "regular_91": {
-      "avg": 3.007,
-      "min": 2.716,
-      "max": 3.237,
-      "count": 71
+      "avg": 2.994,
+      "min": 2.586,
+      "max": 3.309,
+      "count": 88
     },
     "premium_95": {
-      "avg": 3.212,
-      "min": 2.736,
-      "max": 3.427,
-      "count": 29
+      "avg": 3.156,
+      "min": 2.586,
+      "max": 3.387,
+      "count": 48
     },
     "premium_98": {
-      "avg": 3.286,
-      "min": 3.156,
-      "max": 3.409,
-      "count": 7
+      "avg": 3.291,
+      "min": 3.007,
+      "max": 3.439,
+      "count": 15
     },
     "diesel": {
-      "avg": 2.724,
-      "min": 2.446,
-      "max": 3.077,
-      "count": 77
+      "avg": 2.678,
+      "min": 2.346,
+      "max": 2.969,
+      "count": 95
     },
     "lpg": {
       "avg": 0.0,
@@ -2070,8 +2070,8 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 87,
-    "observations_yesterday": 89,
+    "observations_today": 210,
+    "observations_yesterday": 28,
     "observations_older": 8
   },
   "mbie_waterfall": {
@@ -8582,22 +8582,22 @@
   "news": {
     "nz": [
       {
+        "title": "Air New Zealand warns fare rises and capacity cuts to persist into FY27 as fuel bites - Karryon",
+        "source": "Karryon",
+        "published": "Fri, 28 Aug 2026 01:38:46 GMT",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rR1o1TUNMQ0t6UWp1SWpSekRyZzNzTFEwVFl6blpncFJGTVFFTTkxWXJHREtZOHhvT0pmTWRRN0RDbFg2YWFEdG84N0dnSF9wWGN5UjVwbE4zUHh5RXYxWmtLU2xya05Da090Z01jSC1EWGlZSldYQzcwZlE?oc=5"
+      },
+      {
+        "title": "'Very challenging year': Air New Zealand posts $336 million loss - 1News",
+        "source": "1News",
+        "published": "Fri, 28 Aug 2026 00:28:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5UGV3NHpNYlc5M0lfQnV1SGlQQktKd0JndGZLT25udzlRQ2tqLW9VNkM0MS1iaXl1U1hyQkxubWNOOHQya1p4akFCX3R0by1yUVRfM1VsUFhHTmF6T25NNUg5V1VOTlVZVHd6S2ZsRkFQWDIwTTB1SW5INndPVk0?oc=5"
+      },
+      {
         "title": "Air New Zealand FY2026 slides: $336M loss amid fuel crisis, fleet recovery - Investing.com",
         "source": "Investing.com",
         "published": "Fri, 28 Aug 2026 00:12:57 GMT",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNemQyYktPajFmbGh0dFZfZl9Vb2NKSkJuZ0NVMnFlRFpBUEV6aGJlYmlQV0Y5UkRibjd4T09XN0cxSjB2QzVwZXNCM0xaSnRROW9jZzNQMFk2a2dLTThkV1I0bUs5T0hLYmtPTnBPdjhmZGF0cGVPNEJzQWJ5djV1Zjgxb25OU0VOR0s1MndlaDR5LXJLX3V6VVNIc3RPQkQwcXp1ZVpkMVotZGxLYy03c0pUNHhoc3NjTmxNZzNfbmNtM0dMWFhV?oc=5"
-      },
-      {
-        "title": "Earnings call transcript: Air New Zealand tops Q2 2026 EPS forecast - Investing.com India",
-        "source": "Investing.com India",
-        "published": "Thu, 27 Aug 2026 23:46:09 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWDNZRXVmSGVkcVR1ZDFyNUZyenBUN2dPZ1laSWlFNFhES25kemlsa1hlVl9JU2p0ZUlQaENCOFIySUpNQkFsNVNlWkNQZEVlWm1qeG4ybEhOV3hNWVNTQ1B6dWZTREt2eUk0OVpUdTNyUGhlQ1dNOTFGNGJfc1U1WUdfMHIxX2RmM1I4Umg4bnhQdkZrWUtjZ05HLTY4VmhFeDl1NTFrc1JXcVp6emFJU3Rkd3l2VkJRRHMwbktsWEprSTdfTlE?oc=5"
-      },
-      {
-        "title": "Air New Zealand reports $336 million pre-tax loss - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Thu, 27 Aug 2026 23:43:35 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTlQzOTkzaFc0bVZETnltcGhsbEhCSTNKekJYdmNPQTFPTkFPbkRuenRoRnJkM0VPT2dTbE9WLVh3NGNFOVhwSEFWQU5Fai1sMzZydWtsZDRIUWh5LTRYRXRvRUloOWd6eFY2aG14VHE4cFpwYnROWC1wclBkM2l0NEsweFBUVVh1NWtTRmJSSW52XzE4amp6QWNULXJ1Y2FVTFpialhlSFlNUk9nMWFxcDNONlV5c2liRGxraFZsWEd6REhRRXZOeFBYWQ?oc=5"
       },
       {
         "title": "Air New Zealand swings to NZ$336M FY2026 loss: Fuel, engine shortages and maintenance hit profitability - FL360aero",
@@ -8606,16 +8606,10 @@
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPU2lWdDlZVkxwZlJUeWhTQnJKdTU3a2RvUElXQ2xuUDViazBzbVV5Vmx6dU5ueW1kM1QtVkVwczhoTENUODZCWGhJQmNxUnlhQTU0NU5VZGNFRUVST2pZTnZKSndjcm1XeUFZY3FvQndXZldmZGJBVjZEUWM2TFFXMUhRc2xDVWQ4SG1UNm9sVjQ3QTFEMG5JaGxta19kSVdBNTVfUmFPenpxbVZTSE5JeTBITGdtM01pb1hIUFdFVVpaQkZyRHV2NlVHeWt1ci1Y?oc=5"
       },
       {
-        "title": "'Very challenging year': Air New Zealand posts $336 million loss - 1News",
-        "source": "1News",
-        "published": "Thu, 27 Aug 2026 22:32:25 GMT",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5UGV3NHpNYlc5M0lfQnV1SGlQQktKd0JndGZLT25udzlRQ2tqLW9VNkM0MS1iaXl1U1hyQkxubWNOOHQya1p4akFCX3R0by1yUVRfM1VsUFhHTmF6T25NNUg5V1VOTlVZVHd6S2ZsRkFQWDIwTTB1SW5INndPVk0?oc=5"
-      },
-      {
-        "title": "Air New Zealand logs biggest annual loss since 2023 as fuel, engine costs bite - WNWN-FM",
-        "source": "WNWN-FM",
-        "published": "Thu, 27 Aug 2026 22:30:27 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTHdaWmgtWkl6aWE5UmE5azNXOVJUcXV0SVQ5NUdKVm1qUXJjeWZRNDZnazVCLXMtblhNZTZWa1RzOXJESkFVYW9FSV9nNWNLQkh1N1h4SFVnUGxxVHhkYjgtcGFBNWVFOGZvS3FxY3NhV2d2S28yRVlncm13RWFkbzF6N2lBSnhlSlpLX1VkMjR5cHpZNEcxejZWOHZjbENsZGx0QzM1SHR1TTNXMklfS0Jn?oc=5"
+        "title": "Air New Zealand logs biggest annual loss since 2023 as fuel, engine costs bite By Reuters - Investing.com",
+        "source": "Investing.com",
+        "published": "Thu, 27 Aug 2026 22:30:55 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRzZQaDVsd2pzT0RXX1FzbVlZWTRLLVlpLTRNVW9MdXVUUkUwbFFvaEM1RVJBR0pWV3cxd1hIRHRDdXdZSnVmb0FINXVGMU1OLVItZ09fczlSY1lPRllwWEI2VGhqUmpwcnh6ZUMtdkplRURxLXRqc0M0RllFVnhybVUzUzFGUTRVTmpqODBGREVVMVlVVXMxWEpDOUNIVG02UXdTYmpNWk9EUGh0c0xEQjBXaUd3OVUtbDZOUUFZN0NMbWtxX3BtTFh1VmxIX0E?oc=5"
       },
       {
         "title": "Air New Zealand plunges to $242 million loss as fuel and engine costs bite - RNZ",
@@ -8628,9 +8622,33 @@
         "source": "BusinessDesk | NZ",
         "published": "Thu, 27 Aug 2026 21:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcmNsaHZTVnY1Y2M1bmZDTlRmcUFtWTYwNENDeGZwcWxhTG9HZTBZcm5iUGhPMkVtcmlSS3JTUEZ4aTFjMmNRdk12d0N6Vk5yaW5DMmI3b1RLM3hKQ1FmUVUyZEtBSC0xRmc2cFY0bTBLQnZ4Q1RxTUFLTl9obV95ZERBa3RlbFdsbklHZy14XzduMlVxZi01cnp0a2pIQXZZRHFZWFdrS2E1SWZEMXhn?oc=5"
+      },
+      {
+        "title": "Air New Zealand posts a loss of $242m in the year, with fuel costs impacting second half - thepost.co.nz",
+        "source": "thepost.co.nz",
+        "published": "Thu, 27 Aug 2026 20:52:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQekMtc1RzOGRuSmNidnJmT2JTU2xSLTk3SjdObWRqY095QXl0RGRSMno0ZnVEeW11N2c5TGRXZ1dNYzEtaTEyajhpR1A5cFNxTkFHY3ZYSlBfNndJeUZrRlBKZFJKWkdyOHJsQUlaMlFockZ2czF0UDBxLUZ1N2pjX2F3eHJheEpFdm1nVV82TUp0U2FpWFlqdjlnUHZNemJzakFyelRjV1ZIRTF0NEtMMHJacXc?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Oil on track for weekly loss even as Iran tensions simmer - The Mighty 790 KFGO",
+        "source": "The Mighty 790 KFGO",
+        "published": "Fri, 28 Aug 2026 01:44:26 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSTFaVG80R3NLb1l0cmloRUhDeldhZTNFSE5wd2taTjFlc0ViNWQxMUVERlpNLWdzRUVQQUJJbk5wMi1RaHlIZ0t2MUZxRnRNcU9USjhtQXJEczhCRjRVdmh2c09qS2h0VWRkS0Q4Yl8tMXRteHQ3LTk1dEhHTnJLOXRTR0F5M21XdjdHbzVjYw?oc=5"
+      },
+      {
+        "title": "Oil Prices On August 28: Brent Crude Slips Below $88 As Hormuz Uncertainty, Russia Risks Weigh - NDTV Profit",
+        "source": "NDTV Profit",
+        "published": "Fri, 28 Aug 2026 01:04:16 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORDNxLTZpdmN4UVNLdTNBX2t4NDJqSHlYMldUdnFsOGY1bm9VOXFKOE9SRk1SZ25ubVhfaHd1eHBkM3F0VGNjcXh1NThEazFQUDJkZlJ3VmpMTGVVTkJIQ2Zka3ZjdkZDcU1qQTB2TTR3eG1adklOVVE4QUluczVaS3prOXR3U0JOMF9nR2E2Uk1IZ0g1SDlEaUpDdFJXYzB3UkpKdVFZTkpGYmdjVlMyekdOVW1lamQyaURaMFJkM19yOFlabktzTGhJNXV3WGZY0gHYAUFVX3lxTE1WT3VuR2RaOTJRUHh4X0hrUktoeXd2WTlFRUJ2T3VfNnZZV0sxR1pvS2k1WldaYXpuck9Zci00cVNwNkNTWE5SSWV5bEF1R2RPTWJsMHJ4aXh1T3FrUXA1R1pHR2NEV3kyT0d3Tl9VNjZxVG5yUUl6dkdPdHNkdHRxUzFpTTR4bm4ybkEybjNTenE2LVJhd2kzTk9oVE1KNnJzN2VDX0tuVWR1WS1oOTVLQnlYeVBxc0Z0TnoteG1qMFctM2JSWDhkUjBfYmdweWtlSlg4QWk2MQ?oc=5"
+      },
+      {
+        "title": "Goldman Says US-Iran Escalation Could Slow Recovery in Gulf Oil Supplies - EnergyNow.com",
+        "source": "EnergyNow.com",
+        "published": "Thu, 27 Aug 2026 22:10:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQmFVeC1mcDVCUkwxSExCWTh0RkpoSzB6dHYyRlp0ckxNMHhGQnFvdGtxaXFWQmFvaTh3U0V6Y1pyVVN0SDk0REI0U25DLS1zWGM5a1Nkd0x2XzE2S0s0OXNjNFdsOS14bEt5d2ItcmE3WlE2T05FTE9jb2lEcTl1cWhtdlA0QXBCelU1dXQxdnU1NUQwUV9RcGNVYzdBTFVrTnBVQnh3?oc=5"
+      },
       {
         "title": "WTI Crude Oil Price Tests $79 Support After Wedge Breakdown - FXEmpire",
         "source": "FXEmpire",
@@ -8656,28 +8674,10 @@
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
       },
       {
-        "title": "October WTI Crude Oil Contract Closes Up $1.30, or 1.6%; Settles at $83.53 per Barrel. October Brent Oil Last seen up $1.94, or 2.2%, to $89.78. - marketscreener.com",
-        "source": "marketscreener.com",
-        "published": "Thu, 27 Aug 2026 18:37:18 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbkd5SFZEMkVqamVFYUF1TW1LWWVaWWJsallxRkZVMVVJbGxrcE9PQ0pCRFFNeUdWcXo1Y2xfZHdOVXFZdkh1cDZSR1RUYUN1Q1VMaFdzajFHWm0yb041REVOUGZHR0dGbkM2MWl2dVk0VzRKOW82QTRueVpmQUtJOGRvTU91ZVdBcGlnZDZzUFFrY2RhR3JLTnNEUjhTc2FPWU5iblJhdnJGLWkzM3phV2F6dTFtY0VWUUdLM3pjYllwY29GWUtZV2dfdGRLN25ha3Y5Q2lKR2NhMlNkc3liZw?oc=5"
-      },
-      {
         "title": "Crude Oil Forecast: WTI Prices Come Under Pressure as Middle East Risks Ease - FOREX.com",
         "source": "FOREX.com",
         "published": "Thu, 27 Aug 2026 18:12:06 GMT",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeExaSll2dU80dzQ0ckZFSGJ2Skd3N05ueHo0emdUSFloWnFWdld2b2RzRlhTcExvUEtwNmhiSDhjQVNGSGJORFVWMGdCN3kxWjRKOWFOemI0U2JDcTR3endzWHVWM2pNSnBXWTE5YkVmNExKZFZ5dnc0VEp3YUpMMGZUdm8wVlZYVTJVUmREU0RZQWVtSGp4ZjdqejQtSnUxTTBjTHlRNXQxV0V4UGV4T0lETk5FZURqYlhWQl9Rdw?oc=5"
-      },
-      {
-        "title": "Venezuela's Oil Revival Gains Momentum - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Thu, 27 Aug 2026 17:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcGZJOHdZbkd4Z0c3N0Y3T1lSNGg3aXBCdnkyaHFIQVNZcHFyZE1GUU5EWlllZ2twY1lrZW9EUk13dWNNQnZwQWR2R2NnZ3FLLXp1N0lkbDMzamhwUFpYOXppTlJUaHNpV1RrY3JHVXcxdUY4RUd0bWExMVRKZnMyWnhVWDBCTHVxa0FURWZ30gGTAUFVX3lxTFA2SkpIRGFZc3pRWHFEcjV2ZE1yclVCUkwtVkZOS2pLTnlsUGViN1FpTkItQmxfTHliNGVOSDZtNWpaaFM3RXpjMkJUejN3ME02UEw2VjNXdHVpaUFqeFBMcms2MTNwVHh1bU1GQTlDSzhkcVNsTjd2M3JJZ0lnUFBqbVhCQ3NSMTlxRnV3cGtiZWpEZw?oc=5"
-      },
-      {
-        "title": "Crude Oil Prices Pressured as Middle East Crude Supplies Increase - Barchart.com",
-        "source": "Barchart.com",
-        "published": "Thu, 27 Aug 2026 15:40:18 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVnE1YXkxUC1IanBjaEZjc1hueW5OdHRQTVN2R2czZEd4RWVZNVJsOUlZSUx6LVpDdUdNNnBCbExhUjROY2NTSG8tMXp3cE1vNjh4S0NPbWpUbjJsQnRpdEFfZ2hTTzk1UmNZZFZ1Nk9hNy1YeGZxM0VaejNyRzZYaGhQVmhnaUcwVldhdEhNbk1UeGZlSGhVZWRJNFpXR3M5bDBPbV9pU2VaUW9ZeFE?oc=5"
       }
     ]
   }
