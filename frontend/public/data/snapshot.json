@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-08-29T18:43:20+00:00",
+  "generated_at": "2026-08-29T20:29:06+00:00",
   "fx": {
     "nzd_per_usd": 1.689402,
     "as_of": "Sat, 29 Aug 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 88.29,
-      "latest_date": "2026-08-28",
-      "delta_1d_pct": -1.57,
-      "delta_30d_pct": 0.22,
+      "latest": 89.7,
+      "latest_date": "2026-08-27",
+      "delta_1d_pct": 2.12,
+      "delta_30d_pct": 6.49,
       "series": [
-        {
-          "date": "2025-08-28",
-          "usd": 68.62
-        },
         {
           "date": "2025-08-29",
           "usd": 68.12
@@ -1014,23 +1010,15 @@
         {
           "date": "2026-08-27",
           "usd": 89.7
-        },
-        {
-          "date": "2026-08-28",
-          "usd": 88.29
         }
       ]
     },
     "wti": {
-      "latest": 83.44,
-      "latest_date": "2026-08-28",
-      "delta_1d_pct": -0.11,
-      "delta_30d_pct": 1.15,
+      "latest": 83.53,
+      "latest_date": "2026-08-27",
+      "delta_1d_pct": 1.58,
+      "delta_30d_pct": 5.8,
       "series": [
-        {
-          "date": "2025-08-28",
-          "usd": 64.6
-        },
         {
           "date": "2025-08-29",
           "usd": 64.01
@@ -2030,10 +2018,6 @@
         {
           "date": "2026-08-27",
           "usd": 83.53
-        },
-        {
-          "date": "2026-08-28",
-          "usd": 83.44
         }
       ]
     }
@@ -2043,26 +2027,26 @@
     "regular_91": {
       "avg": 3.009,
       "min": 2.706,
-      "max": 3.339,
-      "count": 76
+      "max": 3.309,
+      "count": 79
     },
     "premium_95": {
-      "avg": 3.218,
+      "avg": 3.206,
       "min": 2.916,
       "max": 3.529,
-      "count": 49
+      "count": 44
     },
     "premium_98": {
-      "avg": 3.363,
-      "min": 3.259,
-      "max": 3.599,
-      "count": 12
+      "avg": 3.342,
+      "min": 3.279,
+      "max": 3.449,
+      "count": 7
     },
     "diesel": {
-      "avg": 2.711,
+      "avg": 2.697,
       "min": 2.436,
       "max": 3.109,
-      "count": 73
+      "count": 81
     },
     "lpg": {
       "avg": 0.0,
@@ -2070,9 +2054,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 168,
-    "observations_yesterday": 35,
-    "observations_older": 7
+    "observations_today": 25,
+    "observations_yesterday": 154,
+    "observations_older": 32
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8638,6 +8622,12 @@
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTTUzNHlUZW1ubnlDWExaV0Z0aHVnWnlDdWx0SFRmSFhSWk1iODg4YVp1RzUwX3lVT3VqZHV0M0dNOUhYMEpDOXhYODFJTVczdk5oTjF1TFBkVHFvajJ2RjVEbTNwNUZlc2xoVFp4aDJVT0pxTTZ2TVJMdHNCY3RZeUltZ2Rsd1JhUVZmWUlpSHdoU1FIcDloQ2ZhSEJIQjl20gGmAUFVX3lxTE9PV1hyOXl5LVFKNDlyczBBVW0ya3hVbGNJT2RMa183dHhMS25hUnVPUEc5M2g3QS1JaGhJdkg2VmFMRXFQMjBJZXJIWU83a1lwWnVxMG9udXpfc0NhSWRsc21NOXhNWkh0cmZKY3dua3YtV1d6bnMySll4T1dNb25IZDJFbTBiVkRwal8xZ05SbUhTWEk5M2F5dUpxc0JlLXlJYnFaNEE?oc=5"
       },
       {
+        "title": "TEMPORARY DEAL - US Eases Russia Oil Sanctions to Tame Price Surge, Riling European Allies - EnergyNow",
+        "source": "EnergyNow",
+        "published": "Sat, 29 Aug 2026 12:46:21 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZEwteXNCcjlLa1dveThnYmJJMnFFdWNySXl3T19HZThyeUw1Rk52ay1Vak55WFhYNmp4Mk4tbVBjMDBDdUVEVFR0dzFmTmc4MjFKY0NjQXo1eFBicmptSF8tR1NLRUlYQTVjTFZ3UjJSUTdxNExiYUdLNy1tX2pHQS1aS19UUTdVdXF3c3RiU0JmdU9nR1NNb0FycmlxYlZsU2Jhck5WeklVWmRQQjlnT2o0ZmJDQlVv?oc=5"
+      },
+      {
         "title": "Goldman Sachs Says Global Oil Demand Takes Big Hit, Sees Risks to Price Forecast - EnergyNow.com",
         "source": "EnergyNow.com",
         "published": "Sat, 29 Aug 2026 12:43:42 GMT",
@@ -8650,34 +8640,28 @@
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObnBScDB0NHZoem1ucncyUTRSQ3B6cjdvanVrUms4R2Z2WGxTZlVoaGFjMzVKblRDQ0piaUNLWDM5eS0yOUlGUTlkU3o0QW1UUmpNUWxGS3V2LW9ZeHNpQ2hLa09jOVR1Mmp0VDlVcEg2YXNIc2Z4Uzk4SWVXTC1xVkV30gGHAUFVX3lxTFA1RTVxa25KSmtyOWp0M0hlM0N0NmRFRHAxcTZJcVFBTU1pcV9hZS1sZVdDaWFJZ2dSTHdndkhTaHNzVk9LdUczWTczbXpHNW45ekdyTjVLMkV3UkdEZGZReFR1MDBmWHFjcDFjUTV3NXdmNzQzMndWVG1Cd1lRMWJ1Vl82Yk9Wdw?oc=5"
       },
       {
+        "title": "Iran trade falls 35% as sanctions and blockade bite - Reuters - Iran International",
+        "source": "Iran International",
+        "published": "Sat, 29 Aug 2026 04:56:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HeU4xRFVybHlmWHJ1Tl92amJuUU90ZnI1TUU2QWVwYXpJMDZTbWZ5bmxHNkNmZWZzeTNILU5JTGhyY0JFQkEyUVg4OFdtZml5UEE?oc=5"
+      },
+      {
         "title": "Global Oil Supply to Plunge Below Demand This Year Due to Iran War, IEA says - EnergyNow.com",
         "source": "EnergyNow.com",
         "published": "Sat, 29 Aug 2026 03:08:38 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaVBlWG5DSkFCVzhjMTZxbjlfMkxvZXZwdmJrUlZEUkx2Nm8xRnJRZC0zZFhna0p6VHJ3WTFpSEpCbjN4UHBOQ25lTVNaTFh3RmtRNXl4cWpFZzVLNXJhQ0d3MHg4RHNqSWN6V1g0Q2Nhem16ZkhubU1oVjJyME1hakxRUF8xRVJuZHNGQU5NYk0zeWgzNkt4ZlFnR2hoVEVSV0VabXBNcmdBZw?oc=5"
       },
       {
+        "title": "How China’s Xi Jinping Turned Oil From a Weakness Into a Geopolitical Weapon - WSJ",
+        "source": "WSJ",
+        "published": "Sat, 29 Aug 2026 03:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YZmRZdEtickdiNVlKZk56RlBmbTFsTFNGa0lsb2liTUthT1NNTzZmbUpaZHlTNHd5Z0ZDY2JPNVpMRHgxcE9VSWNkMDFGSmJzY3JGeWtBMHp6ZDdWZER3cnViX0ctaFB6?oc=5"
+      },
+      {
         "title": "Core Differences Between West Texas Intermediate (WTI) and Brent Crude and the Affect of the Iran War - EnergyNow.com",
         "source": "EnergyNow.com",
         "published": "Sat, 29 Aug 2026 02:44:22 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1ZOVFVuUnFFYUstVktuczhxdzBYN1lUbUlqbTIwZEVnX2lCclN2dDZyeVJxUnFPLXdLLWhHcTd1MUUyM0kxTFBUZWJZSVlfN2RCZkRlRXhqT3ZfdUJTQkFjSkR1dDFsQ2Rmc19VTERhc1hsV2Nka2RDVEFvZ0FUcFdJQ0dCR21lcm5mZU12UzJZZHlyOFh3WGEzVWpCVDlUeHc?oc=5"
-      },
-      {
-        "title": "Goldman Says US-Iran Escalation Could Slow Recovery in Gulf Oil Supplies - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Sat, 29 Aug 2026 02:12:09 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQmFVeC1mcDVCUkwxSExCWTh0RkpoSzB6dHYyRlp0ckxNMHhGQnFvdGtxaXFWQmFvaTh3U0V6Y1pyVVN0SDk0REI0U25DLS1zWGM5a1Nkd0x2XzE2S0s0OXNjNFdsOS14bEt5d2ItcmE3WlE2T05FTE9jb2lEcTl1cWhtdlA0QXBCelU1dXQxdnU1NUQwUV9RcGNVYzdBTFVrTnBVQnh3?oc=5"
-      },
-      {
-        "title": "Oil prices rise to $90.55 a barrel as geopolitical tensions persist - eciks.org",
-        "source": "eciks.org",
-        "published": "Sat, 29 Aug 2026 00:05:43 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pU05qQV8yN28wQndfbnI3dFpodjFGX1ZxYWY4dGZyT1Ric1ljXzhFOHpFTFZXMzJORVFEM3FVTWhUa3d0bVRtMG1ZQTFGZ01rajlUcllRSTg1cUVfdjgydA?oc=5"
-      },
-      {
-        "title": "Oil Posts Weekly Loss as Hormuz Optimism and Fed Concerns Pressure Prices - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Fri, 28 Aug 2026 21:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRHVSb0MxaEc0UWUtRjBCeTYtVWJTdzhtbmh0bXNqbEtBczNna1ZlUVdXR1VnR1hMRmtKSEdISUEzbjR3RU5tSlJ0MEl0VWxTaWtGVUlrVHZ2bWc4Uk56YU0zcXlXYmo4SUhaMDdTZWxtWDNNME9MdGtBSWFJZ3Rmbm9GcmlnUWRqMnlXY3VCZHhiZGFRTW43cXp0eGdPaDdibUhtaUdhMA?oc=5"
       }
     ]
   }
