@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T00:53:40+00:00",
+  "generated_at": "2026-08-31T06:58:42+00:00",
   "fx": {
     "nzd_per_usd": 1.689551,
     "as_of": "Sun, 30 Aug 2026 00:02:31 +0000"
@@ -8564,105 +8564,7 @@
   },
   "fuel_stocks": null,
   "news": {
-    "nz": [
-      {
-        "title": "'Chaotic world': How Air NZ boss plans to turn around company after $336m loss - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Sun, 30 Aug 2026 16:56:38 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOS2hzLU5ST2FOaDJqYXRIcTFhZ0RzSWhaRklHVmx6TElkODNNeHk2Wk5lU0JSWTl2TldBdnRHT20yemJMOUNFY1N2M3JQQWQ4TU10V1lGRlI0SHNhTnVVNEZRNGl4ZEQtYUMwamU4QlUyNlFiSWhzNWt0SnFaQS1BVGlBZjNsM0F4RFBDdWpDWW5fNmRCejJxel9JZFdRc0dzT19mUU5fbU9sMmJISFF1R1pDeFhiM2lpU1lPR2lnYmlDcS1xdm1HeGFzbEJhakgzUGhLRk52RWtrNHBkREh2ODZiYlU0SVNsRHRBcldhYmFjV3dLRnRuTjc2X3dtZnRGZlRtdjVZYUFYRjJGQl9tOWdibmF1cXVnUTMybl8xcmkxTHFt?oc=5"
-      },
-      {
-        "title": "Profitability eludes Air New Zealand as it takes conservative approach - FlightGlobal",
-        "source": "FlightGlobal",
-        "published": "Fri, 28 Aug 2026 08:01:24 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMXdQQlNXcHRJT2FadGlpdDdXV2llSWJpR0xZZFZqaE1MMFhFbFFSdlVJTkx5OTlBa1V4VmE2ek80U0NDSnJVbVdwZjZjRWNKSkhsS2I4OXo5RDU5X081di05bEw1bkdyakNlN3NEblJSSUk4M3RuOVV3eG14ZE15VTBTbGZYZUNnMzZHUXBnQmVadGxUNGluQ2hIMHV3eDQycXRMTG5Wem10T0RpbXNYdnJubXdiMnQtcFBCVkZB?oc=5"
-      },
-      {
-        "title": "Fuel and Engines Sink Air New Zealand Result - What’s On Invers",
-        "source": "What’s On Invers",
-        "published": "Fri, 28 Aug 2026 03:07:31 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zTEVlYlRZMmM2cjIxVmppejY3UWJzR2ZxMnRKRDNJUzhReTVORXU0RVN5UDMwRlVKbVpMLWE1MzJZWm56WEdOUUl4MHpOc1hTeHJjd3NWbV9oQzNqbGNrUzRQbUNUZ2FWQ3U4dkNOc2JyaVpuOXBGQjJn?oc=5"
-      },
-      {
-        "title": "Air New Zealand warns fare rises and capacity cuts to persist into FY27 as fuel bites - Karryon",
-        "source": "Karryon",
-        "published": "Fri, 28 Aug 2026 01:38:46 GMT",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rR1o1TUNMQ0t6UWp1SWpSekRyZzNzTFEwVFl6blpncFJGTVFFTTkxWXJHREtZOHhvT0pmTWRRN0RDbFg2YWFEdG84N0dnSF9wWGN5UjVwbE4zUHh5RXYxWmtLU2xya05Da090Z01jSC1EWGlZSldYQzcwZlE?oc=5"
-      },
-      {
-        "title": "Air New Zealand plunges to $242 million loss as fuel and engine costs bite - RNZ",
-        "source": "RNZ",
-        "published": "Thu, 27 Aug 2026 21:48:40 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2RCa21UWVhMTEZNUGtfbWVXelplREIyTTVNaEtSYzNzMXpyS1RVMHNDWDNoQm80Y3QwbUFMdnNDVjh3RWdvR3otT3pxbENSU2hBajJoOFJLdENObGxpZFNUTG5kalFQczlJck1lYzFfT0kxMmZ0RjBzUXpqbXRQMXM5dFBVTXJ5SW1xVXVnMzF3T1FoV2thbFhZQmEwSmJYeHo4N3EwRkxQaW1HbmN2OU1NQjkzWkVS?oc=5"
-      },
-      {
-        "title": "Air New Zealand loss: Middle East conflict caused $205m hit to result - BusinessDesk | NZ",
-        "source": "BusinessDesk | NZ",
-        "published": "Thu, 27 Aug 2026 21:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcmNsaHZTVnY1Y2M1bmZDTlRmcUFtWTYwNENDeGZwcWxhTG9HZTBZcm5iUGhPMkVtcmlSS3JTUEZ4aTFjMmNRdk12d0N6Vk5yaW5DMmI3b1RLM3hKQ1FmUVUyZEtBSC0xRmc2cFY0bTBLQnZ4Q1RxTUFLTl9obV95ZERBa3RlbFdsbklHZy14XzduMlVxZi01cnp0a2pIQXZZRHFZWFdrS2E1SWZEMXhn?oc=5"
-      },
-      {
-        "title": "Air NZ returns to the fight with almost its entire fleet back in the air, but posts $242m annual loss - thepost.co.nz",
-        "source": "thepost.co.nz",
-        "published": "Thu, 27 Aug 2026 20:52:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQekMtc1RzOGRuSmNidnJmT2JTU2xSLTk3SjdObWRqY095QXl0RGRSMno0ZnVEeW11N2c5TGRXZ1dNYzEtaTEyajhpR1A5cFNxTkFHY3ZYSlBfNndJeUZrRlBKZFJKWkdyOHJsQUlaMlFockZ2czF0UDBxLUZ1N2pjX2F3eHJheEpFdm1nVV82TUp0U2FpWFlqdjlnUHZNemJzakFyelRjV1ZIRTF0NEtMMHJacXc?oc=5"
-      },
-      {
-        "title": "Luxon blasts Air New Zealand loss, says airline needs to explain itself - Stuff",
-        "source": "Stuff",
-        "published": "Thu, 27 Aug 2026 20:32:53 GMT",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xNjVseVZvT1M3dDBIaXdRNzg3c3d4M0JuSUFLeGdwbllJQTBZQ3BSRTM1aXA5azNmVm1zX0NYSHZ2dWlXa2EwUXBTWWM1YmthOUs4blhtdjdXOEh2aURVcHpGdXR1bmZYN1FqUGRJeXczejBLVVJVVXlnT3Y?oc=5"
-      }
-    ],
-    "global": [
-      {
-        "title": "U.S. Military Strikes Iran, Brent Crude Reclaims $90 Level as Strait of Hormuz Tensions Send Oil Surging - finance.biggo.com",
-        "source": "finance.biggo.com",
-        "published": "Sun, 30 Aug 2026 23:35:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MWWk0OWZRZHJsWVVLLWhtQ3Bpd01aaTIweHo4Z1VnV1hkdXVVUnVqbkdhR0xRUTBwQ2FRaml0cG84a21SRGRoUTRKUE84VlVRRno0Y2lsdmI3U1BsVkRSQVhJUzFNYlFhZm9GNDZob2w4aXpKNlE?oc=5"
-      },
-      {
-        "title": "Brent Rises as US Strikes Iranian Rocket Launchers - TradingView",
-        "source": "TradingView",
-        "published": "Sun, 30 Aug 2026 23:15:58 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTWpTQVllZS1VYmRsdkdHa0xBTXN4T2EzXzE3VWRDamRIUmt4NDdsa3F0MDdyczhRbzU5Y1ZhX0NvUDY3OWtlMEdQYy1qcjhkWi0wakJESEowZ1phN0MwbXV3aE10MnNYQ0lfVm5hN2xRUnV1SFNQUnlVR0tpRk55MVRVWUthRS1nN3g5UTlmWGJwNXZVOFVzNWtGZFk2cGZQU05v?oc=5"
-      },
-      {
-        "title": "Oil Jumps After Fresh US Strike on Iran, Brent Tops $90 a Barrel - bloomingbit",
-        "source": "bloomingbit",
-        "published": "Sun, 30 Aug 2026 23:13:45 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1veW1WYlNPQmVqMm9taGhISmlMLXZGQk1VNTFBZU41bW56Z1o0eEM3QlFsUVl3NWhYcGV4RWFCTWpNd2NMQnpIV1VTRVY5X2NTb29qUQ?oc=5"
-      },
-      {
-        "title": "Brent Crude Surges Above $90 as Iran-U.S. Fighting Escalates - WANA News Agency",
-        "source": "WANA News Agency",
-        "published": "Sun, 30 Aug 2026 23:00:37 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS1lNVVI5Y3VycGxXcUlNNmhWcHBrSTFycGNNYjRGelFhWTNqaXB0UHJiRHdwN29iMWpfN0FGNlpCRVp3dDhUNmlDMXJUN2dQelpDeHV1T1ZZV09uYWRxZzVySjdWdlV0UXdqcnVhemt1aHFKYVVBNGlJY2FqbFNLYjFZSTU?oc=5"
-      },
-      {
-        "title": "Oil jumps more than 2% after US attack on Iran’s Larak island - The Mighty 790 KFGO",
-        "source": "The Mighty 790 KFGO",
-        "published": "Sun, 30 Aug 2026 22:49:48 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVDRXVGRlQjBCMVY3Z1ItNl82bWxYLURadUJUNWdRZHMya2xYQ2JoeHIwa3ZQZWxQbGc0aC1Ma2J2Z21zUVI0dW1rRTdyXzRqZTdlTWJQNHVvYlgzLVR1Ymk2ekZBY2RwR2haOUZMdC1MQm5Yb0VHdjV2d1pUQkk3UWpaeE45dXpkNWtsakl3MFl6dw?oc=5"
-      },
-      {
-        "title": "WTI (USOIL) Is up 2.18% on Aug 30: What Changed in Supply and Demand? - TradingKey",
-        "source": "TradingKey",
-        "published": "Sun, 30 Aug 2026 22:10:20 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeXJ5TzRXa0tPMS0xaEFOaEk3UmhpbU1VbEEyQkVwQll3QVZDT0NsVVVtYnFsbFJWUVdnN0Z5ZXE5Q1NrT0cxVU1UZHN1NlV3dmZaRVVhY0R2UVZXY0UyZk83NHlCNGE5TnA0VDFsYmJYcEp3Qm81RDM4QW0zb2RCR3FpQ05nV2hac1FpQg?oc=5"
-      },
-      {
-        "title": "Sen. Blumenthal urges House to pass Russia sanctions bill amid a \"moment of extreme urgency\" in Ukraine - CBS News",
-        "source": "CBS News",
-        "published": "Sun, 30 Aug 2026 17:17:17 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQkpFRnhMc0VpNl9mWXlfT2JWczJ5TF80dnNrd3lSY2YxaHBfNU4zcGxKaDZ6dlpYVkNkU3YxZTlqMUdvazZaLVYwb2JwREc0QXBBdkU2b0JlU2NOeGZIQmxpSGdLNE1DckI5TGZwTnlfYkJGbGtjWXAyQnhvdzdRaTEyVm5wRGxZNW03SmhBS2swbl92cEVQenV3aVBuV0U?oc=5"
-      },
-      {
-        "title": "Data Centers Are Driving a New U.S. Natural Gas Buildout - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Sun, 30 Aug 2026 17:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObkNmWWRpLUR3bXg4VGxoSzlyZjk3MGw5SlR6X1VzMUZIdVZlZlBueThuWTJ1akRtQWxoWlVZX2phakpQNEtFWjFBS1dhSGEzSDNIWi16bjFQTERLalJkbHpPNXNwT1NMTDhjS0xsVzV3QmZuNHZveThNdHFKRjR5dmZkSTk4MzVpZC1FcU1RcXRaV3Q2MDFPckFNT0NSMEZzVVB4UtIBqgFBVV95cUxPcjF4NTR5eVZDckFRRG9xd05GOWM3cVFJWWgwMnNqbURLTmRHNEprT2NXREExU1BOdlVQblVMVTJjUHFoYTZ5MFIzeWdDWFU4bm5RY0tIZGlTMlgwSWxVQ0RQYkxzTWhfaWFBa3VZbmR0aUh6cS1mMXBGRHhROEkzY09JOUJrRzFWNnFkbFQ5ZGZ6eEw4YXN6aXUzRnlaYmc2enlyQXhpZDRKZw?oc=5"
-      }
-    ]
+    "nz": [],
+    "global": []
   }
 }
