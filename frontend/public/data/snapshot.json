@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T21:22:32+00:00",
+  "generated_at": "2026-09-01T23:28:45+00:00",
   "fx": {
     "nzd_per_usd": 1.689836,
     "as_of": "Tue, 01 Sep 2026 00:02:31 +0000"
@@ -8580,105 +8580,7 @@
   },
   "fuel_stocks": null,
   "news": {
-    "nz": [
-      {
-        "title": "'Chaotic world': How Air NZ boss plans to turn around company after $336m loss - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Tue, 01 Sep 2026 15:52:15 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOS2hzLU5ST2FOaDJqYXRIcTFhZ0RzSWhaRklHVmx6TElkODNNeHk2Wk5lU0JSWTl2TldBdnRHT20yemJMOUNFY1N2M3JQQWQ4TU10V1lGRlI0SHNhTnVVNEZRNGl4ZEQtYUMwamU4QlUyNlFiSWhzNWt0SnFaQS1BVGlBZjNsM0F4RFBDdWpDWW5fNmRCejJxel9JZFdRc0dzT19mUU5fbU9sMmJISFF1R1pDeFhiM2lpU1lPR2lnYmlDcS1xdm1HeGFzbEJhakgzUGhLRk52RWtrNHBkREh2ODZiYlU0SVNsRHRBcldhYmFjV3dLRnRuTjc2X3dtZnRGZlRtdjVZYUFYRjJGQl9tOWdibmF1cXVnUTMybl8xcmkxTHFt?oc=5"
-      },
-      {
-        "title": "Diesel rebound pushes New Zealand construction costs higher - Stuff",
-        "source": "Stuff",
-        "published": "Mon, 31 Aug 2026 23:24:48 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHlVZmJPLTQ1OHhaN2t3WjhYcHdLWFdIQUt6R205VDBxZGhXTEtDSVhvVS1PejNGM2JaektQUDk5enhCUDNBSVRYUTlfdGkydmFfU1N6UTBNeXJCcERRWmVOY0VSdmhjanIwQUpkUU1vY0xYbkYweXpMRThuSmpkUFlSeVJLVFZ6ZW1zZTYybXppWDhCc3BMUmRDNDNmd0gyUHl3?oc=5"
-      },
-      {
-        "title": "Air New Zealand's Fortunes Should Turn as Temporary Issues Ease - morningstar.com",
-        "source": "morningstar.com",
-        "published": "Mon, 31 Aug 2026 12:14:26 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeDNWUnAzLV9CSFlMUjJQMmdxd0hPRWx4clozck91dWFWclc4QXRsc1R4NllwZTRTYjF5elJKWGJiM3EwS2ZBNTk3NnBNQWpwUUszRXhIWkk3enNneDB2QmRCOHBqa0JxVjdSMFhmZTFYQUx1RktsMmNmeFFRZE1oTlF4QXJfUFpjakc4MDcwOHd1am4ySENwVEhRdmxwaGl2SW55YkY3WTljeE9HcHVaNHNkTU4?oc=5"
-      },
-      {
-        "title": "Prime Minister Luxon scolds Air New Zealand over ‘very poor’ financial results - AeroTime",
-        "source": "AeroTime",
-        "published": "Fri, 28 Aug 2026 10:20:51 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdEVuVTJRSEZnUGFFTDlibUpSNVlPeW9PSG5WVkwtNzRZUlBwMjRSdVJWdlRfbXFtSGVKeGtmS2xUVzczVTdzSktiNVVmOWZxT0N3S3EwQjlTdGV0cWhZNkZZaGkyRTBUVEk0SW4xMHlXblJKQTNtZUtQTVVSNWdEWEpaanhpRTdhdEdCUXRXZDNXa1ZpOWlhOE5OcXBERF82ak54bml0VldRcFl1Nm9jatIBtgFBVV95cUxQWHhCNlNOd0VKMmN3N1B6SW95T2JaOHJaOEpBSDBJZ21CZXVUbTlKM3NhcF85WFpiZHZJSE9ubDZOdHM3TDl2TGhrLVZ2UDN3bEFNNDltYXZrUExzV2VjRUNlcGo0dGhoV3VleFYzdVE3S2RVSEk2b213RGh3Z1paOFQ4NTJmWGc2bHJfdXVzQkR0bU1ianVRMXdfejNyTktqa0J6V2RXY0MwdDdqQnpWVFJ5c3AtZw?oc=5"
-      },
-      {
-        "title": "Fuel and Engines Sink Air New Zealand Result - What’s On Invers",
-        "source": "What’s On Invers",
-        "published": "Fri, 28 Aug 2026 03:07:31 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zTEVlYlRZMmM2cjIxVmppejY3UWJzR2ZxMnRKRDNJUzhReTVORXU0RVN5UDMwRlVKbVpMLWE1MzJZWm56WEdOUUl4MHpOc1hTeHJjd3NWbV9oQzNqbGNrUzRQbUNUZ2FWQ3U4dkNOc2JyaVpuOXBGQjJn?oc=5"
-      },
-      {
-        "title": "Earnings call transcript: Air New Zealand tops Q2 2026 EPS forecast - Investing.com",
-        "source": "Investing.com",
-        "published": "Fri, 28 Aug 2026 00:12:57 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPakdtRnZvWjc4Z3VNNmphSkp1OFZCdWlhOGlvXzVrNVpldkRFbHVGdy05MS1UajFhV2V2bXJ2ZmRXOWtqbVlDQzBIcUZHYUFMWU03RW9QcF9FeFpBdnBiaTFXSjNiOUJPREJEOFMtU0lQNHJsOTRUZG1wTzRDaGdZTDZfak5LelI3SHk4Nl9IaTBHSGctNGhFdmliUDluSVppNUhuUUc2Zy1xNXFBczZOdk8wU2t0RE9ReWtGRkdDRQ?oc=5"
-      },
-      {
-        "title": "'Very challenging year': Air New Zealand posts $336 million loss - 1News",
-        "source": "1News",
-        "published": "Thu, 27 Aug 2026 22:29:56 GMT",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5UGV3NHpNYlc5M0lfQnV1SGlQQktKd0JndGZLT25udzlRQ2tqLW9VNkM0MS1iaXl1U1hyQkxubWNOOHQya1p4akFCX3R0by1yUVRfM1VsUFhHTmF6T25NNUg5V1VOTlVZVHd6S2ZsRkFQWDIwTTB1SW5INndPVk0?oc=5"
-      },
-      {
-        "title": "Air New Zealand plunges to $242 million loss as fuel and engine costs bite - RNZ",
-        "source": "RNZ",
-        "published": "Thu, 27 Aug 2026 21:48:40 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2RCa21UWVhMTEZNUGtfbWVXelplREIyTTVNaEtSYzNzMXpyS1RVMHNDWDNoQm80Y3QwbUFMdnNDVjh3RWdvR3otT3pxbENSU2hBajJoOFJLdENObGxpZFNUTG5kalFQczlJck1lYzFfT0kxMmZ0RjBzUXpqbXRQMXM5dFBVTXJ5SW1xVXVnMzF3T1FoV2thbFhZQmEwSmJYeHo4N3EwRkxQaW1HbmN2OU1NQjkzWkVS?oc=5"
-      }
-    ],
-    "global": [
-      {
-        "title": "WTI Crude Oil Breakout Puts $101 Target in Play - FXEmpire",
-        "source": "FXEmpire",
-        "published": "Tue, 01 Sep 2026 21:11:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWpJTVlCbWozZnNacmVSenpHV0NKd1dkV1p2NHBOcFExQzZQTGs0U0J2RVFDTEN3YVlaUloxZjYtamNiaVVvR21pMzlPM3EtWG8yYXBySWJLRXpTOC12NTVycXU3Q0h3N3FsaDNwa01KUGlkQ0tYTF9Uem9WeWlDQ2NwOTdKZnYxUC1HX0Vuemw1bGowZVNsblRsQlJodw?oc=5"
-      },
-      {
-        "title": "US resumes strikes on Iran as war centers on control of Strait of Hormuz - WSMH",
-        "source": "WSMH",
-        "published": "Tue, 01 Sep 2026 20:47:47 GMT",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdlVXVXpSMm1TT1BkZjNvTW1iY1JVVWhubnkxOVhPd1FmRC1hRzhjUXZldFZ4TklxUmVXb2hYeXFqWXE0RzFpaHNBM19VWnF5MllXTGhUUFFvSllBSDZHbW0yN1hjNTJXV3M0dmVhc0toNVBaakhxMWxyTUR1UEJKU296UVh1d0xxcXhIMFp4S0xvaGtSck9DTVcwTEt6YU1haEVFcm9ZYlhLcUhoT0xuR0ZJd1dzRTRWbDk5a1kxbDFXa0t5Rm8tWFZPWFhoOGM?oc=5"
-      },
-      {
-        "title": "U.S. Shale Producers Lose Bid to Kill Oil Price-Fixing Case - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Tue, 01 Sep 2026 20:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS3g4S18zWDBxZWcyMDAxZzNSSkZBUWFYYXhrR2d0NWhjWnF2YmJmT3FCSEszSDlJdGxBWk5yQndhbDhGcVk0N0xhaE1MeFcwYXBIUC1LVFFYWE5Ya3U4dy12aThqbUIxbHI0cTJjSlRDa1dYNWxWQjVjRWhyMkVnaXluenh3LUJzT1dwUkp6MkxOSnpYT25BWVJzUzg5aEVPRDI4RGVhU09ocFFTM0JpNVZVONIBuAFBVV95cUxPU2wtUjdFVEVFM0tJOEoyRVYyY2wwV3YxakVFSlF0UU5qTDdSYjFCajdOUkhnd1F0ZGYwN01maVlfZUNWYjB6aE1fSXlLOUlCNWdGSktxX2NYRnpSRUFEWmlHQW41WGJ3VUFVcDQ1elFGQTZ4U3ctbTRQT0pPYWJBX01MYlNHMUVDRk11SFNKdW1EOFZrbDZwcEJHVXBPdzVBZjQwZ1d4Rl85aWdycVFCY0NSTXBDbUNE?oc=5"
-      },
-      {
-        "title": "WTI Oil Back At $90 as U.S. Launches More Strikes Against Iran - WSJ",
-        "source": "WSJ",
-        "published": "Tue, 01 Sep 2026 19:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMzdDbWVSZS1UZjdwV19kdXlIejlhZ1pBYWtXcUtER09vczZpZ3VGUjV2M01hWlQycUFGTElJTFBVSTNaOUNmb1I2T1dDTjctUER3dFhtM2NqX3p2bU9OR1BISW9FcnZ3MS0wOWVMVU1sd0tVZ0d1WGd0c0RieFBSY01UbmpOSi05RXVyNVhqbnA3WGR0UTNNMnVaakFKRFowRHk1NGRzTnJwclR5NEpHSTYzWjFDOHh5bkE1X0djYmpFTnVi?oc=5"
-      },
-      {
-        "title": "Blockade succeeds where sanctions failed as Iran oil exports stall - STLtoday.com",
-        "source": "STLtoday.com",
-        "published": "Tue, 01 Sep 2026 19:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQempwT0gtR2hicExYdmoxYWRyOUVUcV84cGpnVmNtTlZ1NmtZcWNsS1NreDdLV0hwaWJKc2p5azNIYVR4ZkcwSjVWQnE2Zm1nYUFHbEM5QkJWZ2RsZ29SVkdIUTR4NG1RUml5VERxWjd0MzNjTXh2Y2VMcmVHUG81Mm5qREVFUnl5Q2UyYnJ3STB3REZtaW5GZkRVRnRPbkdiaWxr?oc=5"
-      },
-      {
-        "title": "Brent Crude Oil is up by 5% - TradingView",
-        "source": "TradingView",
-        "published": "Tue, 01 Sep 2026 18:46:44 GMT",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMG5wNnVsMFh0X2pWUEpPenFETHpVWGJnVVQ0cEpjNi1DalI2VHRWV0J1NkxkSUc3V0wzLW0waElfVnozTEhvVWRMVFdHeVp4ZHctQXJfRkpvc2ZMNUtMenI0NTM4TXgwQXpjakY5cnNCSFg0MkF5RE85d1BhVGZ4MVJGZw?oc=5"
-      },
-      {
-        "title": "October WTI Crude Oil Contract Closes Up $4.46, or 5.2%; Settles at $90.22 per Barrel. November Brent Oil Last Seen Up $3.97, or 4.4%, to $94.46 - marketscreener.com",
-        "source": "marketscreener.com",
-        "published": "Tue, 01 Sep 2026 18:38:15 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaEZLN2tOazJIQVR2TVBvcUtHYndxY1BxTURIUmVXTHY5VVdJYU96NmpLY2VaTWs2bmd1ZDdjbU1sUW9LREV5cXM5TW1takhMOHYxM3E2ZVVDSmFOQS1lTHhLTlZrcHNLajloSlpsdFd5UXRTQWJNY0VMRWhzbFlOczlUMkYwTzk0RVVmWnd3Y3RWbEw0aGt6dkFEY3NhbUxWZUZPNEdRX3RNODZjcmNoSFRsRkxLWmpxdmYxLXFCM2Z0cTE1OTNyWFZyWl9OQkd3MW9SSkVNWkEtWDFwUkc0UQ?oc=5"
-      },
-      {
-        "title": "US strikes on Iran push Brent oil toward $95 per barrel - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "published": "Tue, 01 Sep 2026 18:36:48 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSU5WUWRuTGdvUkw0d2lYZVlYOUxhQ2QxS0l4OXhnVmF5Mk1MLWNXUjlPYzl3cUp1OXZ2dUxXRlZTYmhwZlVDQkY3SFBPeGFXTENVQUtnVTZDX0V4SWxSOXpFejdmbDZDU0FpalRHanRLbUhwdHhYNW9RZUZwWHBBSWg4MlRWTEwtbzJHbzFLS1BsOHlINFhhRC1GQ2tJd1dFNEhMTU4tOEFIREVUeHJpbw?oc=5"
-      }
-    ]
+    "nz": [],
+    "global": []
   }
 }
