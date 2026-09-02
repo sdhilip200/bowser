@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T23:28:45+00:00",
+  "generated_at": "2026-09-02T01:26:01+00:00",
   "fx": {
     "nzd_per_usd": 1.689836,
     "as_of": "Tue, 01 Sep 2026 00:02:31 +0000"
@@ -8580,7 +8580,105 @@
   },
   "fuel_stocks": null,
   "news": {
-    "nz": [],
-    "global": []
+    "nz": [
+      {
+        "title": "'Chaotic world': How Air NZ boss plans to turn around company after $336m loss - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Tue, 01 Sep 2026 15:52:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOS2hzLU5ST2FOaDJqYXRIcTFhZ0RzSWhaRklHVmx6TElkODNNeHk2Wk5lU0JSWTl2TldBdnRHT20yemJMOUNFY1N2M3JQQWQ4TU10V1lGRlI0SHNhTnVVNEZRNGl4ZEQtYUMwamU4QlUyNlFiSWhzNWt0SnFaQS1BVGlBZjNsM0F4RFBDdWpDWW5fNmRCejJxel9JZFdRc0dzT19mUU5fbU9sMmJISFF1R1pDeFhiM2lpU1lPR2lnYmlDcS1xdm1HeGFzbEJhakgzUGhLRk52RWtrNHBkREh2ODZiYlU0SVNsRHRBcldhYmFjV3dLRnRuTjc2X3dtZnRGZlRtdjVZYUFYRjJGQl9tOWdibmF1cXVnUTMybl8xcmkxTHFt?oc=5"
+      },
+      {
+        "title": "Air New Zealand's Fortunes Should Turn as Temporary Issues Ease - Morningstar",
+        "source": "Morningstar",
+        "published": "Mon, 31 Aug 2026 12:14:26 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeDNWUnAzLV9CSFlMUjJQMmdxd0hPRWx4clozck91dWFWclc4QXRsc1R4NllwZTRTYjF5elJKWGJiM3EwS2ZBNTk3NnBNQWpwUUszRXhIWkk3enNneDB2QmRCOHBqa0JxVjdSMFhmZTFYQUx1RktsMmNmeFFRZE1oTlF4QXJfUFpjakc4MDcwOHd1am4ySENwVEhRdmxwaGl2SW55YkY3WTljeE9HcHVaNHNkTU4?oc=5"
+      },
+      {
+        "title": "Fuel and Engines Sink Air New Zealand Result - whatsoninvers.nz",
+        "source": "whatsoninvers.nz",
+        "published": "Fri, 28 Aug 2026 03:07:31 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zTEVlYlRZMmM2cjIxVmppejY3UWJzR2ZxMnRKRDNJUzhReTVORXU0RVN5UDMwRlVKbVpMLWE1MzJZWm56WEdOUUl4MHpOc1hTeHJjd3NWbV9oQzNqbGNrUzRQbUNUZ2FWQ3U4dkNOc2JyaVpuOXBGQjJn?oc=5"
+      },
+      {
+        "title": "'Very challenging year': Air New Zealand posts $336 million loss - 1News",
+        "source": "1News",
+        "published": "Thu, 27 Aug 2026 22:29:56 GMT",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5UGV3NHpNYlc5M0lfQnV1SGlQQktKd0JndGZLT25udzlRQ2tqLW9VNkM0MS1iaXl1U1hyQkxubWNOOHQya1p4akFCX3R0by1yUVRfM1VsUFhHTmF6T25NNUg5V1VOTlVZVHd6S2ZsRkFQWDIwTTB1SW5INndPVk0?oc=5"
+      },
+      {
+        "title": "Air New Zealand plunges to $242 million loss as fuel and engine costs bite - RNZ",
+        "source": "RNZ",
+        "published": "Thu, 27 Aug 2026 21:48:40 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2RCa21UWVhMTEZNUGtfbWVXelplREIyTTVNaEtSYzNzMXpyS1RVMHNDWDNoQm80Y3QwbUFMdnNDVjh3RWdvR3otT3pxbENSU2hBajJoOFJLdENObGxpZFNUTG5kalFQczlJck1lYzFfT0kxMmZ0RjBzUXpqbXRQMXM5dFBVTXJ5SW1xVXVnMzF3T1FoV2thbFhZQmEwSmJYeHo4N3EwRkxQaW1HbmN2OU1NQjkzWkVS?oc=5"
+      },
+      {
+        "title": "Air New Zealand loss: Middle East conflict caused $205m hit to result - BusinessDesk | NZ",
+        "source": "BusinessDesk | NZ",
+        "published": "Thu, 27 Aug 2026 21:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcmNsaHZTVnY1Y2M1bmZDTlRmcUFtWTYwNENDeGZwcWxhTG9HZTBZcm5iUGhPMkVtcmlSS3JTUEZ4aTFjMmNRdk12d0N6Vk5yaW5DMmI3b1RLM3hKQ1FmUVUyZEtBSC0xRmc2cFY0bTBLQnZ4Q1RxTUFLTl9obV95ZERBa3RlbFdsbklHZy14XzduMlVxZi01cnp0a2pIQXZZRHFZWFdrS2E1SWZEMXhn?oc=5"
+      },
+      {
+        "title": "Air NZ returns to the fight with almost its entire fleet back in the air, but posts $242m annual loss - thepost.co.nz",
+        "source": "thepost.co.nz",
+        "published": "Thu, 27 Aug 2026 20:52:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQekMtc1RzOGRuSmNidnJmT2JTU2xSLTk3SjdObWRqY095QXl0RGRSMno0ZnVEeW11N2c5TGRXZ1dNYzEtaTEyajhpR1A5cFNxTkFHY3ZYSlBfNndJeUZrRlBKZFJKWkdyOHJsQUlaMlFockZ2czF0UDBxLUZ1N2pjX2F3eHJheEpFdm1nVV82TUp0U2FpWFlqdjlnUHZNemJzakFyelRjV1ZIRTF0NEtMMHJacXc?oc=5"
+      },
+      {
+        "title": "Luxon blasts Air New Zealand loss, says airline needs to explain itself - stuff.co.nz",
+        "source": "stuff.co.nz",
+        "published": "Thu, 27 Aug 2026 20:32:53 GMT",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xNjVseVZvT1M3dDBIaXdRNzg3c3d4M0JuSUFLeGdwbllJQTBZQ3BSRTM1aXA5azNmVm1zX0NYSHZ2dWlXa2EwUXBTWWM1YmthOUs4blhtdjdXOEh2aURVcHpGdXR1bmZYN1FqUGRJeXczejBLVVJVVXlnT3Y?oc=5"
+      }
+    ],
+    "global": [
+      {
+        "title": "Oil up nearly 1% as US and Iran trade fresh strikes - The Mighty 790 KFGO",
+        "source": "The Mighty 790 KFGO",
+        "published": "Wed, 02 Sep 2026 01:14:52 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTlVPMnlseTJ3d2dVbGtUdTdESExZU0VLT0w2NDdLMFhrWF9uSGxwanNxRGVPb2N3OURqRDJMd1FaaDRPdEk5Yks1VTNYdW1YVWJQWTZ2b1JoNUNOTGhpS1ltUFhvZHVoQ1NMRDBWWklGY1J3NnY3c2tIZ190TEsxaURNeWtVUQ?oc=5"
+      },
+      {
+        "title": "Major U.S. Oil Port Selected for Nuclear Power Project - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Tue, 01 Sep 2026 23:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVDM1b1dINnRHRzJWeEhSZVNaQmV4X0kyTTR4NkIwNjZFQUxJNkFoVktYaHctbVN4Qm1zU2Q5TXRQNm9MUklOVW1mVktpWDVNSFJlM1RNdXFhbE41Q1hadHdwaEliaUI1VGVxaXhOTWlFZkJlQjRvVm1ZemxicXZsQUlQVWhRSXpnM0FtRzZOei1RbHdrNjRsTC1FaFhQRzUyZDRPMGplRVBQTV8zZk5iX9IBtgFBVV95cUxQbXUtVjUwZWQ2RWZad093Zm1iMjFfZlBma2o5N28yNlVzcEVGZlpqbTVuclgydnk3YVlpQmgzQ0xvdnZPYndvOFFBM3JNRExFdl82ZW9LcllaWGxGc3llaEJ0ZkRTQkdzMjg1WXdhN0p3OEx4bHREZmJKbGRaT0tVVldPaU1jRGxEclBPbldEUUNwdnI4WGlXMkJJM0VXOUJMNWlOc0RuRHJ6M2xlNEFIMlI3U1VIdw?oc=5"
+      },
+      {
+        "title": "Oil price rises to $95/barrel amid renewed US-Iran tensions - TheCable",
+        "source": "TheCable",
+        "published": "Tue, 01 Sep 2026 22:35:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcjR4V3piY1VLUlMtMjhvTHFLZjFsV0pCX2hQTDZjVkg0akpBaDQ0YXZGQzlGMzhJV24ybThoQlBaT1QtS3ZqR20ydnpsVFl0TVI2M05VeDhpaTBtRDZaOGtNY3VpdVdWcEJGeklVbHNUaDZsVmplSHZ2enFCMGo3c1h2aWlSUHpQRzc4?oc=5"
+      },
+      {
+        "title": "US strikes Iran as Revolutionary Guards retaliate against American targets in Jordan - www.israelhayom.com",
+        "source": "www.israelhayom.com",
+        "published": "Tue, 01 Sep 2026 21:20:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV29HNzVOalpIRWdudGY0aXlaWXh5MURsRkN4SjIzS1g4WFRPNkV6Rm9lZEJuR0U3ejlTWEtUREItT1hGdkE0amtsNUU0RVZTMWFPRDRIaDM0UnBOWlExVE9RbDZuT3lmVjV0NlJwZ3YzYjc4RFBtYndrSzA4TVNwRGF1bm9PckZmRzJxR2s2S2FrcGZIcnFzMXBjaGNwWDhNcmdtM3kxYWdUSmhnNmFmZXZxajB1TVdOMHY4QnpVTmotdw?oc=5"
+      },
+      {
+        "title": "Japan Oil Refiners Expect to Secure Enough Supply to Replace Middle East Crude for Summer - EnergyNow.com",
+        "source": "EnergyNow.com",
+        "published": "Tue, 01 Sep 2026 21:15:24 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeVB2OHE4UVRvZHZSTVFOOVFubk5nRUt0eXFla0Zfbmg2OUppZ3lCSk1KcThDcU5kT19DdFliNXh6a1h0UnhHV0RBT0ZvM2J4cnNSMmd1cDdrQ2puTnQzUWhyYk82Y1JUbXNQWUtKbUhLVFhTU2k2WGxoczZYeFJPU1FrUHRrVFdkU2o0QVk5alRFOFJPYjVxZUt1em5PZlRVY2lNcmoyU0dkX1EwM0gzbTZ3SWJIRUFiMFNFRg?oc=5"
+      },
+      {
+        "title": "U.S. Shale Producers Lose Bid to Kill Oil Price-Fixing Case - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Tue, 01 Sep 2026 20:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS3g4S18zWDBxZWcyMDAxZzNSSkZBUWFYYXhrR2d0NWhjWnF2YmJmT3FCSEszSDlJdGxBWk5yQndhbDhGcVk0N0xhaE1MeFcwYXBIUC1LVFFYWE5Ya3U4dy12aThqbUIxbHI0cTJjSlRDa1dYNWxWQjVjRWhyMkVnaXluenh3LUJzT1dwUkp6MkxOSnpYT25BWVJzUzg5aEVPRDI4RGVhU09ocFFTM0JpNVZVONIBuAFBVV95cUxPU2wtUjdFVEVFM0tJOEoyRVYyY2wwV3YxakVFSlF0UU5qTDdSYjFCajdOUkhnd1F0ZGYwN01maVlfZUNWYjB6aE1fSXlLOUlCNWdGSktxX2NYRnpSRUFEWmlHQW41WGJ3VUFVcDQ1elFGQTZ4U3ctbTRQT0pPYWJBX01MYlNHMUVDRk11SFNKdW1EOFZrbDZwcEJHVXBPdzVBZjQwZ1d4Rl85aWdycVFCY0NSTXBDbUNE?oc=5"
+      },
+      {
+        "title": "Oil prices settle up more than $4 a barrel on renewed US-Iran fighting - WKZO",
+        "source": "WKZO",
+        "published": "Tue, 01 Sep 2026 20:14:51 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWVItRElEZFdXUm41VW1xWmF4T1M0UFdWNEFWUUZCdzR2cE9PUWkzMlphNUZWTlZkQVMtRnY0cC1PYXJlNzNoeFZDejFqcERoVmlNbWwtbF9TUUJWaU1NeHlfZmduS1djUk1TQUx5R1FDb2tKNE5WMERCTndyMWxmbVZQZ1MxZUJkTzNsU1J6OXd2Tk82TzdLQUlJOEhwOGc?oc=5"
+      },
+      {
+        "title": "U.S. Lithium Miners Finally Have a Shot at Cashing In - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Tue, 01 Sep 2026 20:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaDFNSWNjc2NrRTlMY1ozY3FScnVsQWRodV9WdFY3UlRMYWlfSzF3blFsYnJaR2dSSTd5WGYyVnhvTFYwam5NMDgwZVlEUlhuWTAtSkNGR251emQtTVA2bFhTSC1ocjlSUkxOeEx0RGtLaU1UY2ZrSHpJajRfNldOQnFrUTBOcF9DZXVneGFrR2FueEMySkw4MDJWOG5KS2JU0gGmAUFVX3lxTE1qWng3cGFYTHJhazd5V1N0S1ZoTUx5cVNnMnVnOGRJOG9saDFhV2tiNUFJai1qUVg3dzl0dWh0ZzZza084UHM1RFd4eDFEWlNGWVNlN3BmUHhRaXV4cjRDS1poLTlJY2xuYWwxakxFY0lhZlVwZkpNNXJjMkxOM253WjliY1VDa1Z6ZFpselg2SnlQSHJ0N0dJcjFLaThFczVVSFozeUE?oc=5"
+      }
+    ]
   }
 }
