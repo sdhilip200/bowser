@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-02T18:50:10+00:00",
+  "generated_at": "2026-09-02T20:34:25+00:00",
   "fx": {
-    "nzd_per_usd": 1.689836,
-    "as_of": "Tue, 01 Sep 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.696391,
+    "as_of": "Wed, 02 Sep 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 95.2,
-      "latest_date": "2026-09-01",
-      "delta_1d_pct": 5.2,
-      "delta_30d_pct": 4.6,
+      "latest": 95.18,
+      "latest_date": "2026-09-02",
+      "delta_1d_pct": 0.56,
+      "delta_30d_pct": 1.18,
       "series": [
         {
           "date": "2025-09-02",
@@ -1017,15 +1017,19 @@
         },
         {
           "date": "2026-09-01",
-          "usd": 95.2
+          "usd": 94.65
+        },
+        {
+          "date": "2026-09-02",
+          "usd": 95.18
         }
       ]
     },
     "wti": {
-      "latest": 90.7,
-      "latest_date": "2026-09-01",
-      "delta_1d_pct": 5.76,
-      "delta_30d_pct": 6.82,
+      "latest": 90.63,
+      "latest_date": "2026-09-02",
+      "delta_1d_pct": 0.45,
+      "delta_30d_pct": 4.38,
       "series": [
         {
           "date": "2025-09-02",
@@ -2033,46 +2037,50 @@
         },
         {
           "date": "2026-09-01",
-          "usd": 90.7
+          "usd": 90.22
+        },
+        {
+          "date": "2026-09-02",
+          "usd": 90.63
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-09-01",
+    "as_of": "2026-09-02",
     "regular_91": {
-      "avg": 3.007,
-      "min": 2.736,
-      "max": 3.239,
+      "avg": 2.999,
+      "min": 2.735,
+      "max": 3.339,
       "count": 68
     },
     "premium_95": {
-      "avg": 3.182,
+      "avg": 3.172,
       "min": 2.736,
-      "max": 3.699,
-      "count": 31
+      "max": 3.369,
+      "count": 29
     },
     "premium_98": {
-      "avg": 3.311,
-      "min": 3.179,
-      "max": 3.419,
-      "count": 5
+      "avg": 3.281,
+      "min": 3.146,
+      "max": 3.599,
+      "count": 11
     },
     "diesel": {
-      "avg": 2.714,
-      "min": 2.386,
+      "avg": 2.706,
+      "min": 2.326,
       "max": 3.999,
-      "count": 79
+      "count": 83
     },
     "lpg": {
-      "avg": 4.9,
-      "min": 4.9,
-      "max": 4.9,
-      "count": 1
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 115,
-    "observations_yesterday": 62,
-    "observations_older": 0
+    "observations_today": 118,
+    "observations_yesterday": 64,
+    "observations_older": 9
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8582,22 +8590,28 @@
   "news": {
     "nz": [
       {
-        "title": "Air New Zealand's Fortunes Should Turn as Temporary Issues Ease - morningstar.com",
-        "source": "morningstar.com",
+        "title": "Diesel rebound pushes New Zealand construction costs higher - Stuff",
+        "source": "Stuff",
+        "published": "Mon, 31 Aug 2026 23:24:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHlVZmJPLTQ1OHhaN2t3WjhYcHdLWFdIQUt6R205VDBxZGhXTEtDSVhvVS1PejNGM2JaektQUDk5enhCUDNBSVRYUTlfdGkydmFfU1N6UTBNeXJCcERRWmVOY0VSdmhjanIwQUpkUU1vY0xYbkYweXpMRThuSmpkUFlSeVJLVFZ6ZW1zZTYybXppWDhCc3BMUmRDNDNmd0gyUHl3?oc=5"
+      },
+      {
+        "title": "Air New Zealand's Fortunes Should Turn as Temporary Issues Ease - Morningstar",
+        "source": "Morningstar",
         "published": "Mon, 31 Aug 2026 12:14:26 GMT",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeDNWUnAzLV9CSFlMUjJQMmdxd0hPRWx4clozck91dWFWclc4QXRsc1R4NllwZTRTYjF5elJKWGJiM3EwS2ZBNTk3NnBNQWpwUUszRXhIWkk3enNneDB2QmRCOHBqa0JxVjdSMFhmZTFYQUx1RktsMmNmeFFRZE1oTlF4QXJfUFpjakc4MDcwOHd1am4ySENwVEhRdmxwaGl2SW55YkY3WTljeE9HcHVaNHNkTU4?oc=5"
       },
       {
-        "title": "'Very challenging year': Air New Zealand posts $336 million loss - 1News",
-        "source": "1News",
-        "published": "Thu, 27 Aug 2026 22:29:56 GMT",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5UGV3NHpNYlc5M0lfQnV1SGlQQktKd0JndGZLT25udzlRQ2tqLW9VNkM0MS1iaXl1U1hyQkxubWNOOHQya1p4akFCX3R0by1yUVRfM1VsUFhHTmF6T25NNUg5V1VOTlVZVHd6S2ZsRkFQWDIwTTB1SW5INndPVk0?oc=5"
+        "title": "Fuel and Engines Sink Air New Zealand Result - What’s On Invers",
+        "source": "What’s On Invers",
+        "published": "Fri, 28 Aug 2026 03:07:31 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zTEVlYlRZMmM2cjIxVmppejY3UWJzR2ZxMnRKRDNJUzhReTVORXU0RVN5UDMwRlVKbVpMLWE1MzJZWm56WEdOUUl4MHpOc1hTeHJjd3NWbV9oQzNqbGNrUzRQbUNUZ2FWQ3U4dkNOc2JyaVpuOXBGQjJn?oc=5"
       },
       {
-        "title": "Air New Zealand plunges to $242 million loss as fuel and engine costs bite - RNZ",
-        "source": "RNZ",
-        "published": "Thu, 27 Aug 2026 21:48:40 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2RCa21UWVhMTEZNUGtfbWVXelplREIyTTVNaEtSYzNzMXpyS1RVMHNDWDNoQm80Y3QwbUFMdnNDVjh3RWdvR3otT3pxbENSU2hBajJoOFJLdENObGxpZFNUTG5kalFQczlJck1lYzFfT0kxMmZ0RjBzUXpqbXRQMXM5dFBVTXJ5SW1xVXVnMzF3T1FoV2thbFhZQmEwSmJYeHo4N3EwRkxQaW1HbmN2OU1NQjkzWkVS?oc=5"
+        "title": "Air New Zealand plunges to $242 million loss as fuel and engine costs bite - ODT",
+        "source": "ODT",
+        "published": "Fri, 28 Aug 2026 00:36:19 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbndPckpObjBCdlNQUkM2WXltUTlGa0QxRzQ2MXZfeUhIblVFc3VQVUF4OTkzeUtSWEtNckFoNjBVaUpqTkVPczJlWUNNd0pndXdzWW5HNERYcEtYcTVCTXM4andQYS1Scmh4bHBDVDFZUmxpQWJXWEJYLXNVVjEtang5c1Y2VzZzaVJVWWJFX2xVdXFObWs5MEE5R3dKMEJfVUMtNGE2bEVGQWN0UnBsOW9mZw?oc=5"
       },
       {
         "title": "Air New Zealand loss: Middle East conflict caused $205m hit to result - BusinessDesk | NZ",
@@ -8606,10 +8620,10 @@
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcmNsaHZTVnY1Y2M1bmZDTlRmcUFtWTYwNENDeGZwcWxhTG9HZTBZcm5iUGhPMkVtcmlSS3JTUEZ4aTFjMmNRdk12d0N6Vk5yaW5DMmI3b1RLM3hKQ1FmUVUyZEtBSC0xRmc2cFY0bTBLQnZ4Q1RxTUFLTl9obV95ZERBa3RlbFdsbklHZy14XzduMlVxZi01cnp0a2pIQXZZRHFZWFdrS2E1SWZEMXhn?oc=5"
       },
       {
-        "title": "Air NZ returns to the fight with almost its entire fleet back in the air, but posts $242m annual loss - thepost.co.nz",
-        "source": "thepost.co.nz",
-        "published": "Thu, 27 Aug 2026 20:52:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQekMtc1RzOGRuSmNidnJmT2JTU2xSLTk3SjdObWRqY095QXl0RGRSMno0ZnVEeW11N2c5TGRXZ1dNYzEtaTEyajhpR1A5cFNxTkFHY3ZYSlBfNndJeUZrRlBKZFJKWkdyOHJsQUlaMlFockZ2czF0UDBxLUZ1N2pjX2F3eHJheEpFdm1nVV82TUp0U2FpWFlqdjlnUHZNemJzakFyelRjV1ZIRTF0NEtMMHJacXc?oc=5"
+        "title": "Luxon blasts Air New Zealand loss, says airline needs to explain itself - Stuff",
+        "source": "Stuff",
+        "published": "Thu, 27 Aug 2026 20:32:53 GMT",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xNjVseVZvT1M3dDBIaXdRNzg3c3d4M0JuSUFLeGdwbllJQTBZQ3BSRTM1aXA5azNmVm1zX0NYSHZ2dWlXa2EwUXBTWWM1YmthOUs4blhtdjdXOEh2aURVcHpGdXR1bmZYN1FqUGRJeXczejBLVVJVVXlnT3Y?oc=5"
       },
       {
         "title": "‘Scheduling gap’ limits arrival of petrol and jet fuel to NZ - analyst watchful, not worried - thepost.co.nz",
@@ -8622,26 +8636,26 @@
         "source": "RNZ",
         "published": "Mon, 17 Aug 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdmVxd1ctWGl5ZHlZczFvWm42Y0pMRmk4eXZjZnprYzlEbGJ6ZG5MSUdvZzItU1JwUWFrSFdOT3YyVzNueWtOQXIxbF9vb2JTNEhkZXktcXo1Y1lIYWNnU3RzVXNzekdEV3BlNXo1TjIzTUdsZEZvRWlaNEFqRGd4cnJGUFpBa1dMazNma3FfQ3RobGtKeWpV?oc=5"
-      },
-      {
-        "title": "Airfares up in July as fuel costs catch up, school holidays drive demand - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Mon, 17 Aug 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaVlGX0s0WUttT1F4S3NKcUx0QlJrbXRmRXUzMFFmWGhQeWstUVFlbGIzeGhFdlczSUJtU0FTN0lGSmtVOEJOVFR4NjNJaHRGWi13elpTWVBmQTF3NGpyalgwSWV5bThhR2JJVXFmR2ZWcjdTakVqTE1XVmlkUGMycTF3aU0wb05jaTAxYTB1U21WQ1E3ejRCWk54TWQwMGJYYnR3YUs1M01JdS1NdVE5WnkzNThfOFpMM3VKUXZ3Z1diNVYyNGliVF83Z3dHTFIxeWNaX1p0aDRIZDZYQWJuUW1mVVJoTVlCa1ZqdlphX3dVaEtiTDF4bGVB?oc=5"
       }
     ],
     "global": [
       {
-        "title": "Chevron Bets $7 Billion on Venezuela Oil Expansion - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
+        "title": "Brent tops $95 as Iran retaliates with strikes on US allies in Gulf - Economies.com",
+        "source": "Economies.com",
+        "published": "Wed, 02 Sep 2026 19:54:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTDZDaHYyczdQeTI0eElSWWdIWk9QSlJaOExQYTUwdVFjVUUzRG9CUE5xS1pUenpjdVpBOHdyV3lQUHpOVmFERFZreEMycUNYbk14bTFCbEVUZUxoQ3FDZUZ0UVJSaVA2ZG5tVmZMM3JMRjkwdW9UZDBHMDZ0dDlOaHpMVEotM25YYjBJNFg3ZVExblVSZDBaeWdzVW1PN044NFdyT3NxUTVDRzgzenRULVRReGRfSUl1Q1Zsaw?oc=5"
+      },
+      {
+        "title": "Chevron Bets $7 Billion on Venezuela Oil Expansion - oilprice.com",
+        "source": "oilprice.com",
         "published": "Wed, 02 Sep 2026 18:31:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTzk2V3RsS0RGdXZzMnZMd2RHQXpHLXZ5RU5maVE5NkxGMVRIVm1qNUtCUjd0aTZVdmk1WFlZRkp3MTg5dFlRaHNDdWlObDhLUnZHRURISGkxVHdia1FDN2NnYmxab0lCelpzLTk2ZEdYWUotaGNNd045dUVWZUNtUXl0VlB1TWYzTk9PbmdoVGFNYzhXVHJJd2RnbUx5WFJucXN6bWVMSV_SAa4BQVVfeXFMT1lqdXJHRUQ5VUt6bjBOcWdxSW9zM2V2cUpNc3R0bVNvTTZRcHA1REVfUDNaSEpGMWh4TFlLeGVtZjlFdTdhQkY2YjVwRjRlVUU4NTdDa1dzSVNHSWl2UXhmM1VWMkVxRFhwUTEzMmdDdzlONXpSelBSTnJielREallvZHYzNTVFQS0xYmo1QlZqMDhLT3RaREM4R3JWRjZIYVVOaWlvT1hjaHpHLWNB?oc=5"
       },
       {
-        "title": "US Envoy Courts Central Asia on Sidelines of SCO Summit - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Wed, 02 Sep 2026 16:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTDlRMDRmWnFaNjBkdTF3b3dVajlqeUxLTy1kY1g1bWhBb0ttUmNQa0VPQ1M3dmtTS1JSdXVEUWZPWGtvbTFSVDQ3M3RuQVBZT1VLMG0wNlI3RWNMMFVnMjhodjgyU3ZqLURreGZxNmNkbnhnTDhnaGNGbE5yNWdpLXBOTXRkQUpWUkctWXF3VFhEaUJ6SVI2eTNMZy10ZjZBOHJHQUln0gGrAUFVX3lxTFBLOWR2Y1VhSm5uVFluYldrTWxPb1huYjhISU5TS3R1NURYZ254eHlDMUN5SDltYlJ1UVJ0Y2FSY3o2bEktQ1ZjWHMxWHM4aVJuZm5jN1NaMTh5RDdfdlROMlU0ZDNPOW1rTldxNlNoM29GUnE1UkRFRjRLYkMzNDdhRV9VblNtdlZVekg5X0YtbmMtdEZfT2dLNGZoaFhBX2JMaHlRV0JYTUtYWQ?oc=5"
+        "title": "WTI Oil fluctuates near six-week high as Middle East tensions fuel volatility - fxstreet.com",
+        "source": "fxstreet.com",
+        "published": "Wed, 02 Sep 2026 18:21:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMDkwV3ozczNUeGpOUmFjYkFZV3Rvb0o5Y0RMMzBxS2RNVk9xcGVVQm5nVjNvSVFvNFYyOGdiYjVSdHZHeE5RVUVSUjgwSmw0di1Vd3cyZXB0aHdCUkdHSjk1RGhpZW41LW5sV0JpRHRrYWxLNUs4OG5WV3oyNjRFZmp2Sm9SdzBPeFl5c2xxc1NHWmdLZFAxNnFFb2ZveDc4NkJNOVgxU3NyVEd2MVB5cDIzRXVGNUhyT1NfNg?oc=5"
       },
       {
         "title": "WTI Crude Oil Stalls at $92 as Geopolitical Rally Fades - FXEmpire",
@@ -8656,28 +8670,22 @@
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMTAtTkZpc0pRUzE1MEl1dTJtaWhKRVdPcEtpeHZjamU5UnBOaHJBOU5laW5wWW1EeVlyeXhQZkhyQTJSbVA4OE9QVndpd2FpUkZLTzFTQzBGbGswcWZsLUVvUEJ1V3MxejNpYXphczVZY000VlpxZEcteEd6b0duczZsOEd5bGZ4a0RZQXRFRkJFVlNjYndOamxMSGpGVWMwZDNnaXpNNkV1WUJ3WXNuVmVyczBWTy1JaXBIenV1YUdKSFIzNXB3akZZTEt3cmFJY0EzeTB0OFQ?oc=5"
       },
       {
-        "title": "Ryanair Warns Some Airlines Could Struggle with Jet Fuel Price Spike - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
+        "title": "Ryanair Warns Some Airlines Could Struggle with Jet Fuel Price Spike - oilprice.com",
+        "source": "oilprice.com",
         "published": "Wed, 02 Sep 2026 14:30:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbkRJbGNIaTQxbzNwLXJGNzItY2g3WHFkNDVZUlhMcUZaWmtZcWpzdV85cjR4Z0VXNmpxdVVZVjBraTNBX3JUZTRJaGxqRy1jaGVrQkJ0SjNKb0V5RVVRZjNmOEtJRVpuamI5VjJHdlZDbF80T2R2cW5fQXFweTZTcWlHMnpaZ3Y3SWxLakpTbEpwWjh5ai1Fb2UxdW9oVUJLUjZMTU85STN0VTAtZVNpdzZhSkN2dERiQ19HeHpRaGJHUdIBxwFBVV95cUxORVE3M1RHZkJTZzFOZGpqVXFxTWVpSjYycTZ0cEVwSDNheHZoTl9BU2dsNVZWZlRsTUJQYkx6UWZZQ0ZLYmduZW9CX2M2VVJqZGp2TXBPdWdTLWFrclBJX3Z4dlNGN3huVVl1cWVzSlhEcXVyVGVWMEU1a2ZWdWZwb2MxN0NtNmJuamlyMTlxSFU5S25iNUNJOVd0WmdGQzZlNkhxTHZkTTZDTnBsRWdscmIydkZBWWhFUnE2UDFmbUlvSEF2WFlr?oc=5"
       },
       {
-        "title": "Kalshi Wants To Bring Perpetual WTI Futures To The US - Finimize",
-        "source": "Finimize",
-        "published": "Wed, 02 Sep 2026 13:01:48 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZFhmVko3bkxqR1ZFUl83cEliZElzbUxzTGZWSVlUdjE2MGNQRWRTdS1mN3ZpX2Nsd084dWxvby1zOGRUaS1HTUUtMU13YXhYTGE1eFdzTmlOLXZDUmlkOXlHdi1Ob0NCNTVzelR1a1Q5UkpqMWhlc0wtQ1RsZ25FT2NDMlhHTDJnc0E?oc=5"
+        "title": "Oil Reclaims $90 as U.S.-Iran Fighting Escalates; Brent Jumps More Than 7% in Two Days - bloomingbit",
+        "source": "bloomingbit",
+        "published": "Wed, 02 Sep 2026 13:35:26 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zM1ZVU3ZURkVnOFFsMHdKTEF0am5TYWJpci1lVFZaTHhJRWhERmF4SjRoRV96WENMRXBreEdTdjd3dVJpWC1oTE9UdWFvVDBWWmpMQQ?oc=5"
       },
       {
-        "title": "Oil prices fall after hitting over one-month high; traders weigh supply risks - globalbankingandfinance.com",
-        "source": "globalbankingandfinance.com",
+        "title": "Oil prices fall after hitting over one-month high; traders weigh supply risks - Global Banking & Finance Review",
+        "source": "Global Banking & Finance Review",
         "published": "Wed, 02 Sep 2026 12:33:11 GMT",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQWRYSHFyRDRwUVlILWp4Q0ZnMzkxRFZJMWR5cVZxNFh2dndtbFFYeThobWdsRWFTNUduXzlHdTlESms2a24zY3cxLUgwV1M0QU1pNW5jeDFmWTNJWE9zZnFReG9TWEpkQ2IzT3dQRGFEOW1rOHpRQ2hBQjhRSUpmQklrR2FPLUFaa2h0Vg?oc=5"
-      },
-      {
-        "title": "Brent gains as US-Iran war resumes - engine.online",
-        "source": "engine.online",
-        "published": "Wed, 02 Sep 2026 11:17:20 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ROFBIbnZnWHhwVEw5X0lPVWlORUdwaW04T3NrWGJvdjhFdGU3cDZwTjVPbkhnRFJWWUlOam1DVHZXTk5RdjRPSGFFcXlFZ0J1MXljclFPdVM5bldMVGF3MEt0a0M0dmU3Vm1sR25UWUoyb3d0REpiTndn?oc=5"
       }
     ]
   }
