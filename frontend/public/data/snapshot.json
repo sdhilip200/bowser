@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-09-03T17:48:09+00:00",
+  "generated_at": "2026-09-03T20:34:06+00:00",
   "fx": {
-    "nzd_per_usd": 1.696391,
-    "as_of": "Wed, 02 Sep 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.710674,
+    "as_of": "Thu, 03 Sep 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 95.18,
-      "latest_date": "2026-09-02",
-      "delta_1d_pct": 0.56,
-      "delta_30d_pct": 1.18,
+      "latest": 95.8,
+      "latest_date": "2026-09-03",
+      "delta_1d_pct": 0.18,
+      "delta_30d_pct": -4.86,
       "series": [
-        {
-          "date": "2025-09-02",
-          "usd": 69.14
-        },
         {
           "date": "2025-09-03",
           "usd": 67.6
@@ -1021,20 +1017,20 @@
         },
         {
           "date": "2026-09-02",
-          "usd": 95.18
+          "usd": 95.63
+        },
+        {
+          "date": "2026-09-03",
+          "usd": 95.8
         }
       ]
     },
     "wti": {
-      "latest": 90.63,
-      "latest_date": "2026-09-02",
-      "delta_1d_pct": 0.45,
-      "delta_30d_pct": 4.38,
+      "latest": 91.71,
+      "latest_date": "2026-09-03",
+      "delta_1d_pct": 0.77,
+      "delta_30d_pct": -0.52,
       "series": [
-        {
-          "date": "2025-09-02",
-          "usd": 65.59
-        },
         {
           "date": "2025-09-03",
           "usd": 63.97
@@ -2041,45 +2037,49 @@
         },
         {
           "date": "2026-09-02",
-          "usd": 90.63
+          "usd": 91.01
+        },
+        {
+          "date": "2026-09-03",
+          "usd": 91.71
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-09-02",
+    "as_of": "2026-09-03",
     "regular_91": {
-      "avg": 2.999,
-      "min": 2.735,
-      "max": 3.339,
-      "count": 68
+      "avg": 2.965,
+      "min": 2.596,
+      "max": 3.56,
+      "count": 69
     },
     "premium_95": {
-      "avg": 3.172,
-      "min": 2.736,
-      "max": 3.369,
-      "count": 29
+      "avg": 3.157,
+      "min": 2.716,
+      "max": 3.589,
+      "count": 38
     },
     "premium_98": {
-      "avg": 3.281,
-      "min": 3.146,
-      "max": 3.599,
-      "count": 11
+      "avg": 3.242,
+      "min": 3.079,
+      "max": 3.399,
+      "count": 8
     },
     "diesel": {
-      "avg": 2.706,
-      "min": 2.326,
+      "avg": 2.685,
+      "min": 2.196,
       "max": 3.999,
-      "count": 83
+      "count": 80
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 3.119,
+      "min": 3.119,
+      "max": 3.119,
+      "count": 1
     },
-    "observations_today": 118,
-    "observations_yesterday": 64,
+    "observations_today": 124,
+    "observations_yesterday": 63,
     "observations_older": 9
   },
   "mbie_waterfall": {
@@ -8590,22 +8590,22 @@
   "news": {
     "nz": [
       {
+        "title": "'Chaotic world': How Air NZ boss plans to turn around company after $336m loss - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Thu, 03 Sep 2026 09:11:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOS2hzLU5ST2FOaDJqYXRIcTFhZ0RzSWhaRklHVmx6TElkODNNeHk2Wk5lU0JSWTl2TldBdnRHT20yemJMOUNFY1N2M3JQQWQ4TU10V1lGRlI0SHNhTnVVNEZRNGl4ZEQtYUMwamU4QlUyNlFiSWhzNWt0SnFaQS1BVGlBZjNsM0F4RFBDdWpDWW5fNmRCejJxel9JZFdRc0dzT19mUU5fbU9sMmJISFF1R1pDeFhiM2lpU1lPR2lnYmlDcS1xdm1HeGFzbEJhakgzUGhLRk52RWtrNHBkREh2ODZiYlU0SVNsRHRBcldhYmFjV3dLRnRuTjc2X3dtZnRGZlRtdjVZYUFYRjJGQl9tOWdibmF1cXVnUTMybl8xcmkxTHFt?oc=5"
+      },
+      {
         "title": "Iran conflict pushes NZ fuel and freight costs up again - B2B News",
         "source": "B2B News",
         "published": "Wed, 02 Sep 2026 02:58:46 GMT",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdndwbVc2UnY4SnNyck1ra25JcTV5dVlFVmhNbnlBODQ2V3ZxV1hLMHVIU3BkaHhYWTZQbVlzRHYzZ3drdzBtcEx6VVViYWc5bGRtWUdYMFdtZVAzLTJualZqT053X1hkQlNuS3dUZXB3WnZIcWhIZHJIaW9YWXFLRHQzUFZLN29LT1JJ?oc=5"
       },
       {
-        "title": "Air New Zealand's Fortunes Should Turn as Temporary Issues Ease - Morningstar",
-        "source": "Morningstar",
-        "published": "Mon, 31 Aug 2026 12:14:26 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeDNWUnAzLV9CSFlMUjJQMmdxd0hPRWx4clozck91dWFWclc4QXRsc1R4NllwZTRTYjF5elJKWGJiM3EwS2ZBNTk3NnBNQWpwUUszRXhIWkk3enNneDB2QmRCOHBqa0JxVjdSMFhmZTFYQUx1RktsMmNmeFFRZE1oTlF4QXJfUFpjakc4MDcwOHd1am4ySENwVEhRdmxwaGl2SW55YkY3WTljeE9HcHVaNHNkTU4?oc=5"
-      },
-      {
-        "title": "Air New Zealand plunges to $242 million loss as fuel and engine costs bite - odt.co.nz",
-        "source": "odt.co.nz",
-        "published": "Fri, 28 Aug 2026 00:36:19 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbndPckpObjBCdlNQUkM2WXltUTlGa0QxRzQ2MXZfeUhIblVFc3VQVUF4OTkzeUtSWEtNckFoNjBVaUpqTkVPczJlWUNNd0pndXdzWW5HNERYcEtYcTVCTXM4andQYS1Scmh4bHBDVDFZUmxpQWJXWEJYLXNVVjEtang5c1Y2VzZzaVJVWWJFX2xVdXFObWs5MEE5R3dKMEJfVUMtNGE2bEVGQWN0UnBsOW9mZw?oc=5"
+        "title": "Diesel rebound pushes New Zealand construction costs higher - Stuff",
+        "source": "Stuff",
+        "published": "Mon, 31 Aug 2026 23:24:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHlVZmJPLTQ1OHhaN2t3WjhYcHdLWFdIQUt6R205VDBxZGhXTEtDSVhvVS1PejNGM2JaektQUDk5enhCUDNBSVRYUTlfdGkydmFfU1N6UTBNeXJCcERRWmVOY0VSdmhjanIwQUpkUU1vY0xYbkYweXpMRThuSmpkUFlSeVJLVFZ6ZW1zZTYybXppWDhCc3BMUmRDNDNmd0gyUHl3?oc=5"
       },
       {
         "title": "'Very challenging year': Air New Zealand posts $336 million loss - 1News",
@@ -8614,78 +8614,78 @@
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5UGV3NHpNYlc5M0lfQnV1SGlQQktKd0JndGZLT25udzlRQ2tqLW9VNkM0MS1iaXl1U1hyQkxubWNOOHQya1p4akFCX3R0by1yUVRfM1VsUFhHTmF6T25NNUg5V1VOTlVZVHd6S2ZsRkFQWDIwTTB1SW5INndPVk0?oc=5"
       },
       {
-        "title": "Oil, petrol prices on the march again as war talk heats up - thepost.co.nz",
+        "title": "Air New Zealand plunges to $242 million loss as fuel and engine costs bite - RNZ",
+        "source": "RNZ",
+        "published": "Thu, 27 Aug 2026 21:48:40 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2RCa21UWVhMTEZNUGtfbWVXelplREIyTTVNaEtSYzNzMXpyS1RVMHNDWDNoQm80Y3QwbUFMdnNDVjh3RWdvR3otT3pxbENSU2hBajJoOFJLdENObGxpZFNUTG5kalFQczlJck1lYzFfT0kxMmZ0RjBzUXpqbXRQMXM5dFBVTXJ5SW1xVXVnMzF3T1FoV2thbFhZQmEwSmJYeHo4N3EwRkxQaW1HbmN2OU1NQjkzWkVS?oc=5"
+      },
+      {
+        "title": "Air New Zealand loss: Middle East conflict caused $205m hit to result - BusinessDesk | NZ",
+        "source": "BusinessDesk | NZ",
+        "published": "Thu, 27 Aug 2026 21:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcmNsaHZTVnY1Y2M1bmZDTlRmcUFtWTYwNENDeGZwcWxhTG9HZTBZcm5iUGhPMkVtcmlSS3JTUEZ4aTFjMmNRdk12d0N6Vk5yaW5DMmI3b1RLM3hKQ1FmUVUyZEtBSC0xRmc2cFY0bTBLQnZ4Q1RxTUFLTl9obV95ZERBa3RlbFdsbklHZy14XzduMlVxZi01cnp0a2pIQXZZRHFZWFdrS2E1SWZEMXhn?oc=5"
+      },
+      {
+        "title": "‘Scheduling gap’ limits arrival of petrol and jet fuel to NZ - analyst watchful, not worried - thepost.co.nz",
         "source": "thepost.co.nz",
+        "published": "Wed, 19 Aug 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSFcxcVNLYWNHRGE0cFJScnE0QmNZN0dtcWhPS2pydEE3ejZva2RwRmxFR3RHRXY4Ym90WjV3X25jaVdNWjQ1aDdpM0ExR2pSdGFvdlJjQmItNzN1VVdTSmx6eWdMc1ZKVkdlMmhsZVJqbzRCZUxmMFRfYk8wUkJ1b1VsM216Yk1XRERpQVQ0ZTBVZGtLaFBjY2lNaDBhdTF4U1ZISGZFdHdwM1BWNVNDN0FZS2IyODA4UnRmbmZ0dk44X3lX?oc=5"
+      },
+      {
+        "title": "Falling fuel prices take edge off inflation data - RNZ",
+        "source": "RNZ",
         "published": "Mon, 17 Aug 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQXlHbEUtVEFhYS1yU0ZvbmF0aVQxYjMtTXdVSEZpZEwzSzUtSDF3NHlfRERkbkNMU2gzUWpfUHgtVFJDU1k4TkEzbEE3Z1RVU05jck5GYXdMR2hJVnROaC1rVUJUaHkwbG9oQkdUWmlYUlF2Vk41NnJ4Z18xeDg0TXBFb1lrVlNxcnJBRGw2Ulc2S3M?oc=5"
-      },
-      {
-        "title": "Driving New Zealand to fuel independence with smart EV policy - thepost.co.nz",
-        "source": "thepost.co.nz",
-        "published": "Mon, 20 Jul 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdzJzU1dZeU5ic1JZbFJfc2NRazEzbDM5OExrdkRZUG4zRF8tUTBqbWNxTWtRazdVRTAzYzJjUXM2YXBkZ1ZFZWc0eHZjTXZ6N2QxVG9BYXF1b3FsNG10R096a2t4UVc4N094eUlCR3hxcENwdTBpSkhQWnJpM1ZMR3RKRWprOU93blgyc2hEdE5TQ3psUHNqc2NhU2NQT1U?oc=5"
-      },
-      {
-        "title": "Petrol dips below $3 but questions linger over price drop speed - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Mon, 29 Jun 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObjhGVURkMTQxYzFzSWdaOXN2cElraEZndG5KUzg3dnhVejRlQ2JaVlEtWHJBQmRKQnlfVmw4N1Q1YzlKTUI0WVhtcW1aMVZkWVBvUW1WTWZjVHM5ZzBkaERzRG1oeWdWWHBFQTQ1RUxZbkZNVTkwbUh1ZGw3NUhHWkpXNkpyaGJwOWZmejlGZ29BdWZzLWJVdkhxLXpabmdYbmUySlpzYzQyNko5cEQtWDJSbWVjNjhtSFhSczBYTEFMOHFkel9J?oc=5"
-      },
-      {
-        "title": "How soon Kiwi drivers could see cheaper fuel after US-Iran peace deal - Newstalk ZB",
-        "source": "Newstalk ZB",
-        "published": "Tue, 16 Jun 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMEJ2OUdyYjd4T3ZlVzZteHV3VVU1X1lVRWk4UTYwSTNQSFBxaGFqRnM2aHhrQkRnSnRQNDZnSEs1ekFtbmdrQnRmY2hZX0hmeG50NW9iQlh6amlrWXpVLXRiRnptak1KLXdhM1d6QzJsWEExbktaME96VFdJZVFDVU53ZnVFUGpJYmUxU1VfVV93eHNiQUU1Y2pqaWZUZE5UcUlITnNTWQ?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdmVxd1ctWGl5ZHlZczFvWm42Y0pMRmk4eXZjZnprYzlEbGJ6ZG5MSUdvZzItU1JwUWFrSFdOT3YyVzNueWtOQXIxbF9vb2JTNEhkZXktcXo1Y1lIYWNnU3RzVXNzekdEV3BlNXo1TjIzTUdsZEZvRWlaNEFqRGd4cnJGUFpBa1dMazNma3FfQ3RobGtKeWpV?oc=5"
       }
     ],
     "global": [
       {
-        "title": "Crude oil nears $97 a barrel, diesel at highest since 2022 - qz.com",
-        "source": "qz.com",
-        "published": "Thu, 03 Sep 2026 17:32:11 GMT",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlZUJEQnRucXdPeFNnRmduZWtBODNwTEl1cUk1LU5WRDJ4cjBTRDA4Q2tpMWd2dkdaSHQzc1puY0IxeF9yT1h5RjI1eXdfNC1nYUpycWtRaGhjeENfQUhrMDZsZUNKMDVKWHdtaEJn?oc=5"
+        "title": "Oil Prices Rise Amid Middle East Escalation and Supply Concerns - Global Banking & Finance Review",
+        "source": "Global Banking & Finance Review",
+        "published": "Thu, 03 Sep 2026 20:15:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS3YyZnlQcWVZUHpqZ1hrUUNhRGM1N3hoQkRpMXJNTHF5VEZoeGJpRjJHYVhrbmo2emxyUXZudEZNc0NsOU0xSXhrS25LLV9pamppZ2FuSzhlTmtXdkhhaEhLeXc2RzRGUUlLcVQ0Si14NFBoOWNvaTdzYm1mT05aV0p1Vk5pZw?oc=5"
       },
       {
-        "title": "High Oil Prices Speed Up China's Shift Away From Crude - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Thu, 03 Sep 2026 17:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUHJKZUNZekJNRHdoaERwTkIyVVJZZldPT0REV1pMQmRzOFJBQ3VLRGVpOHhfMnozbDh6VmRaemd0a3dRdDl0QmRWVEp0UHdRYjlURkxoTVpDNm83MEQxT0tsZzJVajVTMXVIenVnaEllVjZoTWFROUhWamMyeTlydGRrM19PZ1ozN0gzaXctVjFoakk4YjIwQmRQQjhQNndZODBCUnZ4SWpuY05tUkHSAbMBQVVfeXFMTXEyeE1DY1BLVjUtSnJJaHZ4dS1MV1NzYml1eHozTkJWemJ3YVRvekFmXzFkTWR4Q2kzN2dQWWlxMlVCWHdYOHhqZVZ1TUE3d3Y3YWg3MHg2dkg5Mks4dnI5WU5UQnJ6WVdiVVpOMEt1c2lIZlRDbXNjbDRaZHRjSm9RckhQOFZkbkxuaEhoeXBwczRTS2pjd3hTV1ZBam5hVG4xbXgxWGI5RUJSOHY4RHVZMjA?oc=5"
-      },
-      {
-        "title": "Oil Jumps for Fourth Straight Day and Diesel Nears Record High - The New York Times",
+        "title": "Bessent Blames Ukraine for High Energy Prices - The New York Times",
         "source": "The New York Times",
-        "published": "Thu, 03 Sep 2026 15:39:13 GMT",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWnZkbk1hTzlhVkotM3JKYWdLVkJfREM3N0dqNDFXSW5JY04yLXpCMDVUVHQ0SFVRdG45NFdFZUlTVEY5MUotQUx0MjZkM2NWdTh6bXlWOTl4WTNlWHlfOTdFYnF2MFEyXzNVTHJ0d05OdlpieGcwQklJMmFfNHlxdg?oc=5"
+        "published": "Thu, 03 Sep 2026 19:56:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRy1hNTg0dHNzc1IyREhLSE5xc05SVUdicHU2dWZ2d0VTTVVva2tSU2dfN3N6ZlRLRHk0UE9Zb3VHT0lCdkNhejBUSTNwNjRkcFVRSjEtV3V2WGpucWR3cFpiOG1hNnU1N1Q5RDQtSV82MWctVGhxTXFvclBvSUJSNWJ6S1Y?oc=5"
       },
       {
-        "title": "Oil Extends Rally With Iran Conflict Seen Dragging On - WSJ",
+        "title": "Russia Sanctions Bill Stalls in US House Amid Tariff Concerns - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "published": "Thu, 03 Sep 2026 19:50:49 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeVRhQnU3aG5FWXZudWNBU1FKVW1hb2FqRlZ1SUN0V1F2VXVCZVpFekwzMmQwUllaYVJsbDhKb01OVkk3dGZadnB4dWNnUHpaR2xOQnU4ZVFfb2pSSVlseU54WlVXT1BnT05ZWUEtUThYbmtKNjI4dzBaSkNieHFEeXNyeWl3Wng0aU1uc2ZUNnRTeXpILTNqVmdfZk51RG5COUJydXBVUlZOUk9aRjRpYTln?oc=5"
+      },
+      {
+        "title": "Oil Prices Rise as Renewed U.S.-Iran Fighting Deepens Hormuz Supply Risks - WSJ",
         "source": "WSJ",
-        "published": "Thu, 03 Sep 2026 13:53:00 GMT",
+        "published": "Thu, 03 Sep 2026 19:21:46 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMlR5akN0RkpJX3dMQ00tZTA4SjFUR2ZIZFhYZlI3R0NJQy1veW1jM1FFRjNQSUcxVDE5Q0x3ODdpOXBteHJPTUpGajN4MG5xZUdza1lSRVpRZGZkVlNkT2dEUXE1NmxhSjNVWHhqM2xiU09LS2hteVhYX1AxSkg2Nlh2V2kxZmkzTkVhREFtc2pPZjNEb1RNeURlWVZJQ2JzNWF6eWVKcUl2dS00YURBNmhhamp1eUQwbUREOGdOT2VJRVhyaUtDWg?oc=5"
+      },
+      {
+        "title": "Crude Futures End Mixed With No End in Sight to U.S.-Iran Conflict - WSJ",
+        "source": "WSJ",
+        "published": "Thu, 03 Sep 2026 19:04:43 GMT",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc21PRFBnRHZya0ZIdkxhSUtQS01nWDhKSTJSclNXVm5HemQ1cDZENXotZGZrbUpnbjRueU5nQ1FPQmJGZ2pmMWd4OEJQY3pUM19fMDN5MXFCTmlBYWdNbC1WQWNxQkE5emluNU82ZEJJV3g5UGJmYTIteGtpaTJOWFE1RUp5dDVPaWktb19HZ2F2YnNLTnotblV2ajBVZzJ5Y3Q2djQwOA?oc=5"
       },
       {
-        "title": "Brent oil price above $96 per barrel after Iran fires missiles at Kuwait - cnbc.com",
-        "source": "cnbc.com",
-        "published": "Thu, 03 Sep 2026 13:28:22 GMT",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM1dVOUlGV2F6SHFhU0lGa0xCMFl0R3hmb25KTEpBVGFnUFlYcjRmSnR1RF9FelQ3THNaMjVRMERZYTRLYTItYTVyc3QtUVFoSFZoQ1dCU3pvQUpjdVRPZ3hPbldqODNyNTktdkhhbU9Oc1VqU25reEdZblhSMlg5QtIBhgFBVV95cUxNWVlmRTVYNWxjWElZQ19ramVxV0l2Z2wzbll4OXRGc2o3bHBjeEduTkd5VDF3Z2hoVS1lbjE5emNLb1MzSENyMnh6NTE5NmpqaWQtdUF2ZmNJeEo1VUxJbGU1Y2UyQWNHQl9LamhiSWY2aU5CdU11dDIweVoxTVIwWnlNQVBuUQ?oc=5"
+        "title": "October WTI Crude Oil Contract Closes Up $0.29, or 0.3%; Settles at $91.30 per Barrel. November Brent Oil Was Last Seen Down $0.43, or 0.5%, to $95.20 - marketscreener.com",
+        "source": "marketscreener.com",
+        "published": "Thu, 03 Sep 2026 18:38:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQY0tpeTRWTkE0MjVtNTZoVEFYZW1fbmgxWk1EN21CSHpDcW00V2gwa0t0U0UyZnp0TkN6NUpaaGxLejJUT01FREtnSkxJRFBCVkNqWG5NT0tRZE5xZUxaMlROVDBwSGNsajZYWE1pcjZQMS1IbjUxdjFWT1E5Wk96WjI3WUo5UUpseVRnblhRdmVOdDNEY01ONkJyQWRsZ2trVzN0M21rWDRkaHlMSlg3bjhBaDVmYWszTGQxcURPcTFnRkJoMWhiaW1paWoxYmV1SVA5MDhmcXJOVXljclVtUQ?oc=5"
       },
       {
-        "title": "Piper Sandler sees Brent at $90 in H2 — and says that may be an underestimate - Investing.com",
-        "source": "Investing.com",
-        "published": "Thu, 03 Sep 2026 11:55:46 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTTI0Y0VGZk93RS1kcEdsRGh4SDZZOXk4Sm1icnA4WU84Z3lfdkczRG9ockEtdzV6WWFhanB3RFRqYmJjRnlTd2JVay0za25sMlV1bU1wY21kcWFmOG9HamNwZ3hnM2hYT3lmZ0xyNDNoNldYcnhXbXlNN2p4aXhBSTFKQ1VMZlpwdmNFUktkWEJwUmd6NDNLVnhmYU56d21wQkgycHdqS0l4MnhZT3ZVTjV1dE50MGx6aTJYN3lLLTdMSVpOaWkybzU2QQ?oc=5"
+        "title": "Citi Raises Brent Forecast for 2026; Sees $150 Oil if Hormuz Disruption Persists - EnergyNow.com",
+        "source": "EnergyNow.com",
+        "published": "Thu, 03 Sep 2026 17:49:19 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdk5UVWpBQWFNVy1reG1ZeFlEdlQxcWlxWkMzTFNfUmFKdVFZaWRqNm4zTFo5V05Pd2o5b3hpOXNLeWJ3Tm9XdzR1aEk1VWd1S29vaW1GUVZ1OTU5c0hsUE5fWnhUV1RoakRubVlGcW14cHBhaER0VzZmeDVFNGZkeEVUb2l6WGhtTVlBUXBMTFFYNkMwalRYZmYzQUItWEhDLUhiVkdaOFBoU0Q4Vnc?oc=5"
       },
       {
-        "title": "Brent Could Hit $100 Soon - Rigzone",
-        "source": "Rigzone",
-        "published": "Thu, 03 Sep 2026 10:40:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZEtwNnhRUWtxcEJzODhVTHdmaFFuOEVFVXMzN0E2U2tBSmVnWlZ3ZTliT3dyRVpNb3dpWTgxVlItTm5YdmZHSFkxN3RQWHppQUVoZ2xwYVVyNzJQcTdMRTRiRjFLajl5cmtxbkhBcHJUZF80aEtUS3VUMFJsalFqQnVzU3BxRzU5?oc=5"
-      },
-      {
-        "title": "Brent and WTI Retreat as Markets Monitor Strait of Hormuz Crude Flows - Yahoo Finance UK",
-        "source": "Yahoo Finance UK",
-        "published": "Thu, 03 Sep 2026 09:48:15 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcjUwZ08wanplSnFxem1HVHFvdjNEOTBhRjBpVEFPTmYtUFZxTENCNDcwMEZQaHpvQXlCa1pMLTJxVUpzSGZZVmVVNzBUQ1RtTWlUbzBVekFISlk0LXNWUUNGRWlMeTNHOEpzMjFMV0JYdGs4SzUwMTN1eEs1WnJYV1o0Q2FSeXQ4VlE?oc=5"
+        "title": "'Conflict will not be resolved by buying or not buying oil': Jaishankar reacts on US sanctions bill for impor - India.com",
+        "source": "India.com",
+        "published": "Thu, 03 Sep 2026 17:48:03 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQQnVGZ0hDSzBZSmpCcFNQaXhKMHNHMzJXN0s1Rko4TFhMQkxfMnROUjNMaGotN0x1ZU9JazNuRF9vZGFuYnJUWE5tV1Z3T0VkdzBWT3pBRE0tdjhnVmFzOVlyUEVPN0VnNTBRYWhTZnAtOGdfSjY4SkFuNWtWUnZUbkVwVTNqdU1XQzVHMVBPX204cDItbVd6Z1dwRWlmblVIczlWVGVMQ0gzQmIzTnk4bXVyTHFtQWhjRk84YmxiR0R4Q3BxQ2dfV0RNUXRvQjNuZ2JfZkdzUlUxLWZDdmhTT2tWVmJfMnVRVE55VXA1aGhhV01hckhn0gH8AUFVX3lxTE1xaU9GLS1NOGlmdjZCUkw3ZG1uNDh4Tm8tX3JZWWF3SW84cE8zaDA5OXpDcXlYQmFvUm0yaTVManFYNFpZMUNnVTFSNU1IUTRQWGp0SnVVLVhIWjBDOUhvdmtyRHo0QjRVR1lYaHdmTXV3M3VfVHFMUnVVME9wUzBZR2hRWWwtUkRoYlVlaHZWZHZnNU1kNTBxTU03d3BNTXRhRlp3WHFRRUFZMFkxRmRzR1Nia3lHaThab2VWbS1CMHZhd3BtVVVNSzExbjNVbGQ1Z3pkaVZETTNRX1dSaVFseFlHQ3FzcF9TVkY3ekQzUmljdEExN0dERGYxdg?oc=5"
       }
     ]
   }
