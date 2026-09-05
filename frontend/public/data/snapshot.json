@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T19:59:02+00:00",
+  "generated_at": "2026-09-05T20:31:40+00:00",
   "fx": {
     "nzd_per_usd": 1.700319,
     "as_of": "Sat, 05 Sep 2026 00:02:32 +0000"
@@ -8582,12 +8582,6 @@
   "news": {
     "nz": [
       {
-        "title": "How airlines have hedged against fuel price increases - Reuters",
-        "source": "Reuters",
-        "published": "Thu, 03 Sep 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcVVmODR3enJZdXNPTVVBQmpJRjFueXBoclVMWWJNdVRuazdoMnZDb0ZJcEFMMjBLOUtmRm9WcHdTRUtaclluUUR0LV9IYWh4SDgyVkx1WVBCNTFJcE9aU0dnSThENEZNSkZoU2l5bHNvaGF2Vm8tcDlIbV84a05hUkFMMHJUVC1rdzVQQ3M3Q05JakllckFtaXdZRV9SZlRGd3RKWTktaWk?oc=5"
-      },
-      {
         "title": "Iran conflict pushes NZ fuel and freight costs up again - B2B News",
         "source": "B2B News",
         "published": "Wed, 02 Sep 2026 02:58:46 GMT",
@@ -8600,42 +8594,48 @@
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHlVZmJPLTQ1OHhaN2t3WjhYcHdLWFdIQUt6R205VDBxZGhXTEtDSVhvVS1PejNGM2JaektQUDk5enhCUDNBSVRYUTlfdGkydmFfU1N6UTBNeXJCcERRWmVOY0VSdmhjanIwQUpkUU1vY0xYbkYweXpMRThuSmpkUFlSeVJLVFZ6ZW1zZTYybXppWDhCc3BMUmRDNDNmd0gyUHl3?oc=5"
       },
       {
-        "title": "Air New Zealand's Fortunes Should Turn as Temporary Issues Ease - Morningstar",
-        "source": "Morningstar",
-        "published": "Mon, 31 Aug 2026 12:13:37 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeDNWUnAzLV9CSFlMUjJQMmdxd0hPRWx4clozck91dWFWclc4QXRsc1R4NllwZTRTYjF5elJKWGJiM3EwS2ZBNTk3NnBNQWpwUUszRXhIWkk3enNneDB2QmRCOHBqa0JxVjdSMFhmZTFYQUx1RktsMmNmeFFRZE1oTlF4QXJfUFpjakc4MDcwOHd1am4ySENwVEhRdmxwaGl2SW55YkY3WTljeE9HcHVaNHNkTU4?oc=5"
-      },
-      {
         "title": "'Very challenging year': Air New Zealand posts $336 million loss - 1News",
         "source": "1News",
         "published": "Fri, 28 Aug 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5UGV3NHpNYlc5M0lfQnV1SGlQQktKd0JndGZLT25udzlRQ2tqLW9VNkM0MS1iaXl1U1hyQkxubWNOOHQya1p4akFCX3R0by1yUVRfM1VsUFhHTmF6T25NNUg5V1VOTlVZVHd6S2ZsRkFQWDIwTTB1SW5INndPVk0?oc=5"
       },
       {
-        "title": "Air New Zealand plunges to $242 million loss as fuel and engine costs bite - RNZ",
+        "title": "Diesel burglaries more than double as fuel crime fears resurface - 1News",
+        "source": "1News",
+        "published": "Sun, 23 Aug 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSk50MjJGV3NOazZWcVBkdzJQNjJ5cGVWeUV2bDg0dllWNWtkVGRqWEpRUVZHODBlVUl4aElxOGFoRFZHWEF2c25XRmNZYml6Z1otazBQNDE0azdUbVNiSnNZcHBTWUdCQklldlltakpKVy1sR0VNaFlING1nZWxwVm1pUlMyamttOEh2YlR3WlFIM3lRNkxURzNFUVFEczRfMEE?oc=5"
+      },
+      {
+        "title": "‘Scheduling gap’ limits arrival of petrol and jet fuel to NZ - analyst watchful, not worried - thepost.co.nz",
+        "source": "thepost.co.nz",
+        "published": "Wed, 19 Aug 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSFcxcVNLYWNHRGE0cFJScnE0QmNZN0dtcWhPS2pydEE3ejZva2RwRmxFR3RHRXY4Ym90WjV3X25jaVdNWjQ1aDdpM0ExR2pSdGFvdlJjQmItNzN1VVdTSmx6eWdMc1ZKVkdlMmhsZVJqbzRCZUxmMFRfYk8wUkJ1b1VsM216Yk1XRERpQVQ0ZTBVZGtLaFBjY2lNaDBhdTF4U1ZISGZFdHdwM1BWNVNDN0FZS2IyODA4UnRmbmZ0dk44X3lX?oc=5"
+      },
+      {
+        "title": "New Zealand road user charging ‘open for business’ in 2027 - ITS International",
+        "source": "ITS International",
+        "published": "Tue, 18 Aug 2026 04:05:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOekxYcUQ4Y21vRDFmeHFtVDExcVdZYk9JLVVvUTNKY3NnYmZJUHNMazBGVG9KZ0dnTmpfMEZYMXg3ZFBYMXVzQll0QlgwQ2g5NkJIMTRfajRma01Ib1l5VnJoV3plZWlfN0cwM05yeUFPTld5MjY4YzFoQWx4SkNBRUdRQkJrRTJjeHln?oc=5"
+      },
+      {
+        "title": "Falling fuel prices take edge off inflation data - RNZ",
         "source": "RNZ",
-        "published": "Fri, 28 Aug 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2RCa21UWVhMTEZNUGtfbWVXelplREIyTTVNaEtSYzNzMXpyS1RVMHNDWDNoQm80Y3QwbUFMdnNDVjh3RWdvR3otT3pxbENSU2hBajJoOFJLdENObGxpZFNUTG5kalFQczlJck1lYzFfT0kxMmZ0RjBzUXpqbXRQMXM5dFBVTXJ5SW1xVXVnMzF3T1FoV2thbFhZQmEwSmJYeHo4N3EwRkxQaW1HbmN2OU1NQjkzWkVS?oc=5"
+        "published": "Mon, 17 Aug 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdmVxd1ctWGl5ZHlZczFvWm42Y0pMRmk4eXZjZnprYzlEbGJ6ZG5MSUdvZzItU1JwUWFrSFdOT3YyVzNueWtOQXIxbF9vb2JTNEhkZXktcXo1Y1lIYWNnU3RzVXNzekdEV3BlNXo1TjIzTUdsZEZvRWlaNEFqRGd4cnJGUFpBa1dMazNma3FfQ3RobGtKeWpV?oc=5"
       },
       {
-        "title": "Fuel and Engines Sink Air New Zealand Result - What’s On Invers",
-        "source": "What’s On Invers",
-        "published": "Fri, 28 Aug 2026 03:07:31 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zTEVlYlRZMmM2cjIxVmppejY3UWJzR2ZxMnRKRDNJUzhReTVORXU0RVN5UDMwRlVKbVpMLWE1MzJZWm56WEdOUUl4MHpOc1hTeHJjd3NWbV9oQzNqbGNrUzRQbUNUZ2FWQ3U4dkNOc2JyaVpuOXBGQjJn?oc=5"
-      },
-      {
-        "title": "Air New Zealand loss: Middle East conflict caused $205m hit to result - BusinessDesk | NZ",
-        "source": "BusinessDesk | NZ",
-        "published": "Thu, 27 Aug 2026 21:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcmNsaHZTVnY1Y2M1bmZDTlRmcUFtWTYwNENDeGZwcWxhTG9HZTBZcm5iUGhPMkVtcmlSS3JTUEZ4aTFjMmNRdk12d0N6Vk5yaW5DMmI3b1RLM3hKQ1FmUVUyZEtBSC0xRmc2cFY0bTBLQnZ4Q1RxTUFLTl9obV95ZERBa3RlbFdsbklHZy14XzduMlVxZi01cnp0a2pIQXZZRHFZWFdrS2E1SWZEMXhn?oc=5"
+        "title": "Air NZ passenger numbers fall as jet fuel price rises hit - RNZ",
+        "source": "RNZ",
+        "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWmZwcjZucW4yZ1N5eHhMNWhUSy04YU9fVENtSk5UbVZBUmdGQzNOeTNob3kzOXBabjQ2LWYxVGkxMnhvVTFZZ1ZYaEZqSXBhZjlBbkt1WlI4YmFfN3lKY0dFMS1sS1dMMl9ucUZrcUtmR3hoRzYwM0dYTWJOU2tKV0h5YWZDcmg1UnNOc0Z3WUtkYVluQnNhazhNSURjQ0dpd3c?oc=5"
       }
     ],
     "global": [
       {
-        "title": "Live updates • U.S. says it struck 3 Iranian oil tankers after missiles fired at American ships - Haaretz",
-        "source": "Haaretz",
-        "published": "Sat, 05 Sep 2026 18:16:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOLUc4UkRoY3luMlpTY05DUlRxVktjRlBWd2hLckpQa1VUZDZrcnVjNG5jVVN1U05PTVg4MzdkSUEzdURnNi16QnNvVGttOFJVOWdibTd4VUd1NGpxdFMxeEhsOE5pcGRtOUZTa0FwdFYwNDlkR2RYYUxPSGhNdERBLXk3UC00azBpbnhBbThJNUxHLWl6elhuNGdlVzRCdUtFeXpEQmF4dHJFaUR4dWxrck1HMHFXcjAzTElvbUI1Y3BSaVcyMENWZVpCVG1DdUc2UlMwSnJ1MkFGYkFOMnlLdlVoVUVGXy11SUVPdHZDNnlpaUduRlRhQlBTbU1zN2tESEgxeTBmWkZvcHMzT2lYcWpMR3FydEhF?oc=5"
+        "title": "US pressure on Iran starting to tell, as sanctions and blockade bite - KSL.com",
+        "source": "KSL.com",
+        "published": "Sat, 05 Sep 2026 20:25:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbm5pc0NTZVliVUNLanBEWTE5OGhGc3VFRDR0VC1zMW8ybE9KdkNlVWh2amhEWUVIZm9DeDlGRVNtQ1Z6SWJEVG5CZWlBN214anhOcXpERDlfQmF2ZUxjemc4Wm5UMXJrNmFvN0ZpZGNpRFJYT3I3cGZWSXdQc3Ywd09RYWEwbUdhejhhekRJWWlWVUtDVmdyN1NXM3RRSEhoTnM2ZWNfOA?oc=5"
       },
       {
         "title": "Iran targets Navy warships and US retaliates with 'higher economic cost' in new escalation phase - Fortune",
