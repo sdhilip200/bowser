@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-09-05T18:11:33+00:00",
+  "generated_at": "2026-09-05T19:59:02+00:00",
   "fx": {
-    "nzd_per_usd": 1.700553,
-    "as_of": "Fri, 04 Sep 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.700319,
+    "as_of": "Sat, 05 Sep 2026 00:02:32 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 96.11,
+      "latest": 96.28,
       "latest_date": "2026-09-04",
-      "delta_1d_pct": 0.62,
-      "delta_30d_pct": -0.69,
+      "delta_1d_pct": 0.8,
+      "delta_30d_pct": -0.52,
       "series": [
-        {
-          "date": "2025-09-04",
-          "usd": 66.99
-        },
         {
           "date": "2025-09-05",
           "usd": 65.5
@@ -1021,20 +1017,16 @@
         },
         {
           "date": "2026-09-04",
-          "usd": 96.11
+          "usd": 96.28
         }
       ]
     },
     "wti": {
-      "latest": 91.4,
+      "latest": 91.48,
       "latest_date": "2026-09-04",
-      "delta_1d_pct": 0.11,
-      "delta_30d_pct": 2.34,
+      "delta_1d_pct": 0.2,
+      "delta_30d_pct": 2.43,
       "series": [
-        {
-          "date": "2025-09-04",
-          "usd": 63.48
-        },
         {
           "date": "2025-09-05",
           "usd": 61.87
@@ -2041,46 +2033,46 @@
         },
         {
           "date": "2026-09-04",
-          "usd": 91.4
+          "usd": 91.48
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-09-04",
+    "as_of": "2026-09-05",
     "regular_91": {
-      "avg": 2.993,
+      "avg": 3.006,
       "min": 2.736,
-      "max": 3.179,
-      "count": 65
+      "max": 3.219,
+      "count": 75
     },
     "premium_95": {
-      "avg": 3.157,
+      "avg": 3.2,
       "min": 2.776,
-      "max": 3.319,
-      "count": 31
+      "max": 3.529,
+      "count": 43
     },
     "premium_98": {
-      "avg": 3.324,
-      "min": 3.289,
-      "max": 3.37,
-      "count": 4
+      "avg": 3.346,
+      "min": 3.299,
+      "max": 3.369,
+      "count": 3
     },
     "diesel": {
-      "avg": 2.702,
+      "avg": 2.718,
       "min": 2.356,
       "max": 3.999,
-      "count": 73
+      "count": 76
     },
     "lpg": {
-      "avg": 4.172,
-      "min": 4.172,
-      "max": 4.172,
+      "avg": 1.847,
+      "min": 1.847,
+      "max": 1.847,
       "count": 1
     },
-    "observations_today": 41,
-    "observations_yesterday": 124,
-    "observations_older": 9
+    "observations_today": 11,
+    "observations_yesterday": 149,
+    "observations_older": 38
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8614,6 +8606,12 @@
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeDNWUnAzLV9CSFlMUjJQMmdxd0hPRWx4clozck91dWFWclc4QXRsc1R4NllwZTRTYjF5elJKWGJiM3EwS2ZBNTk3NnBNQWpwUUszRXhIWkk3enNneDB2QmRCOHBqa0JxVjdSMFhmZTFYQUx1RktsMmNmeFFRZE1oTlF4QXJfUFpjakc4MDcwOHd1am4ySENwVEhRdmxwaGl2SW55YkY3WTljeE9HcHVaNHNkTU4?oc=5"
       },
       {
+        "title": "'Very challenging year': Air New Zealand posts $336 million loss - 1News",
+        "source": "1News",
+        "published": "Fri, 28 Aug 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5UGV3NHpNYlc5M0lfQnV1SGlQQktKd0JndGZLT25udzlRQ2tqLW9VNkM0MS1iaXl1U1hyQkxubWNOOHQya1p4akFCX3R0by1yUVRfM1VsUFhHTmF6T25NNUg5V1VOTlVZVHd6S2ZsRkFQWDIwTTB1SW5INndPVk0?oc=5"
+      },
+      {
         "title": "Air New Zealand plunges to $242 million loss as fuel and engine costs bite - RNZ",
         "source": "RNZ",
         "published": "Fri, 28 Aug 2026 07:00:00 GMT",
@@ -8626,12 +8624,6 @@
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zTEVlYlRZMmM2cjIxVmppejY3UWJzR2ZxMnRKRDNJUzhReTVORXU0RVN5UDMwRlVKbVpMLWE1MzJZWm56WEdOUUl4MHpOc1hTeHJjd3NWbV9oQzNqbGNrUzRQbUNUZ2FWQ3U4dkNOc2JyaVpuOXBGQjJn?oc=5"
       },
       {
-        "title": "'Very challenging year': Air New Zealand posts $336 million loss - 1News",
-        "source": "1News",
-        "published": "Thu, 27 Aug 2026 22:29:56 GMT",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5UGV3NHpNYlc5M0lfQnV1SGlQQktKd0JndGZLT25udzlRQ2tqLW9VNkM0MS1iaXl1U1hyQkxubWNOOHQya1p4akFCX3R0by1yUVRfM1VsUFhHTmF6T25NNUg5V1VOTlVZVHd6S2ZsRkFQWDIwTTB1SW5INndPVk0?oc=5"
-      },
-      {
         "title": "Air New Zealand loss: Middle East conflict caused $205m hit to result - BusinessDesk | NZ",
         "source": "BusinessDesk | NZ",
         "published": "Thu, 27 Aug 2026 21:00:00 GMT",
@@ -8642,11 +8634,17 @@
       {
         "title": "Live updates • U.S. says it struck 3 Iranian oil tankers after missiles fired at American ships - Haaretz",
         "source": "Haaretz",
-        "published": "Sat, 05 Sep 2026 16:45:00 GMT",
+        "published": "Sat, 05 Sep 2026 18:16:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOLUc4UkRoY3luMlpTY05DUlRxVktjRlBWd2hLckpQa1VUZDZrcnVjNG5jVVN1U05PTVg4MzdkSUEzdURnNi16QnNvVGttOFJVOWdibTd4VUd1NGpxdFMxeEhsOE5pcGRtOUZTa0FwdFYwNDlkR2RYYUxPSGhNdERBLXk3UC00azBpbnhBbThJNUxHLWl6elhuNGdlVzRCdUtFeXpEQmF4dHJFaUR4dWxrck1HMHFXcjAzTElvbUI1Y3BSaVcyMENWZVpCVG1DdUc2UlMwSnJ1MkFGYkFOMnlLdlVoVUVGXy11SUVPdHZDNnlpaUduRlRhQlBTbU1zN2tESEgxeTBmWkZvcHMzT2lYcWpMR3FydEhF?oc=5"
       },
       {
-        "title": "U.S. military hits 3 Iranian oil tankers after saying Navy ships were targeted with missiles - PBS",
+        "title": "Iran targets Navy warships and US retaliates with 'higher economic cost' in new escalation phase - Fortune",
+        "source": "Fortune",
+        "published": "Sat, 05 Sep 2026 17:25:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVFRQT1YwTmMwVEFxN1BybjFMQVVBYVExUmlxRXhvdGdVZnpHcGxsencwdXIzcm53MjNKRDg5dU03VWRxTlQyTUMxaW5idm5vVVJKb2hPb28tVmNWY3FlazZ5NXNVWWswcVp3bzlYUkVGemk4aWVKZXQyNmZhNDJHVXJJOXRkVWxTMm12enQ2X3l3TTA?oc=5"
+      },
+      {
+        "title": "U.S. strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles - PBS",
         "source": "PBS",
         "published": "Sat, 05 Sep 2026 16:02:10 GMT",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdldJeUlGX01ldmlUUTlESmUxWjA3Z00zM3prX0NUOG0tV2hVSl9yWUkwQUFrazhtQmNYTGpIMUhsRkIzbDYwcENWUm4xaEhfdW05SnZMU2pqZDZfbUVxbW5lU1hkeW5sOEtVVWhTZXdkUzN2ekZfQXZJZWRPSnR2OUtBQ1N1YVRDMVF2elNtRmM3VzVjVndrMnM3SWduamdUZ1RHQkxrX2ZjZ2N3dEZrdXJBMm1WNS1VdS1HU1pYTjNYU2lB0gHKAUFVX3lxTFAydC1pWnB5TEpHM2lEc29sWTRSS2VkR05PamRWaFM1WlNaYWcxLW1fcG5FVXZWSnVySWNqQWZjLW4zVEdoN3hSQjhtU0Rvb2lpanB0cE1RSUUwUk1la29aLVN1czYtNHVCUWhJV19yU1NNYjFGYjJGdHJ4ZWEtMTFNWDJ6WERGaG5jWFU2ZTMzYU5PNTdON19JWDNfVkhFVjhOY0UxQlhtWUZTcXllZ2l5QzdDekc0Y3NiSVlMQ2N4WVZ4Y0VpWXhoT2c?oc=5"
@@ -8656,12 +8654,6 @@
         "source": "Yahoo Finance",
         "published": "Sat, 05 Sep 2026 15:16:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbEFQazVmNGYyWDdMalVfNWVxOE8xUXAwcWxSbkNmeXBuZmJKYmc4VEcwZnNqZVhfTlRHR0lHVU9EUWxob2l2VHRGbk8wY1dDM2pHQ3JDNkJqYWtuYmZVZndYX1R1U3lNQmw5eTlwQWhPNFZwZk42Rk5YTDBsUmtQTTF3cWU5ZnN6VUFQOF9GNnMtdjA?oc=5"
-      },
-      {
-        "title": "TEMPORARY DEAL - US Eases Russia Oil Sanctions to Tame Price Surge, Riling European Allies - EnergyNow",
-        "source": "EnergyNow",
-        "published": "Sat, 05 Sep 2026 12:38:20 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZEwteXNCcjlLa1dveThnYmJJMnFFdWNySXl3T19HZThyeUw1Rk52ay1Vak55WFhYNmp4Mk4tbVBjMDBDdUVEVFR0dzFmTmc4MjFKY0NjQXo1eFBicmptSF8tR1NLRUlYQTVjTFZ3UjJSUTdxNExiYUdLNy1tX2pHQS1aS19UUTdVdXF3c3RiU0JmdU9nR1NNb0FycmlxYlZsU2Jhck5WeklVWmRQQjlnT2o0ZmJDQlVv?oc=5"
       },
       {
         "title": "Core Differences Between West Texas Intermediate (WTI) and Brent Crude and the Affect of the Iran War - EnergyNow.com",
@@ -8676,16 +8668,16 @@
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdk5UVWpBQWFNVy1reG1ZeFlEdlQxcWlxWkMzTFNfUmFKdVFZaWRqNm4zTFo5V05Pd2o5b3hpOXNLeWJ3Tm9XdzR1aEk1VWd1S29vaW1GUVZ1OTU5c0hsUE5fWnhUV1RoakRubVlGcW14cHBhaER0VzZmeDVFNGZkeEVUb2l6WGhtTVlBUXBMTFFYNkMwalRYZmYzQUItWEhDLUhiVkdaOFBoU0Q4Vnc?oc=5"
       },
       {
+        "title": "Iran War Upends IEA’s Oil Market Outlook as Global Supply and Demand to Contract in 2026 - EnergyNow.com",
+        "source": "EnergyNow.com",
+        "published": "Sat, 05 Sep 2026 11:33:21 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPak5XcGxWUXBlNVhTbFd3RkFvM2dzMUdvcm84a3Nzc2hxLVJYMU1zOHBsYlY0eV90Z2NlY0xDajNSdUxweFJ6WVprRjNzOHVrT0cwbXM0LUZvRHRmdF9VMEN0NUZpZ1VjYjFNeEdiSHZ1SHpyZ2otTVhyLXVsb09yVm1NUUhQM2dMMUNkQjFCalh1a2Y3bjlqX1ZNOHFVRDM5Ylh2clBwd0JmTUFtcmZUeUUyRnhsRXNjeUE?oc=5"
+      },
+      {
         "title": "Bilateral hostilities raise oil prices - Oil & Gas Journal",
         "source": "Oil & Gas Journal",
         "published": "Sat, 05 Sep 2026 09:11:34 GMT",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeWtmamFNeHRXYkZwcHdzeE1aTEw0YmYtS3c2d1Z1alptZk14aG1ORUxuMFJmaUlQUnVqaXY2YzVlUEVVRUtZYzQzb05CM1hhOFphRUJCbk1uSFNUVUJYVEU3UThXMkdWd2kxM3Y0NkVDWkJaZXhJS0dGTE81Y0RjZkoxMzItZlFvRS1yVXd6UlQ3ZXBCU0lxX2ZXT29IYnpBRXZIQzh2cml4dnRUMDh3?oc=5"
-      },
-      {
-        "title": "Elevated Crack Spreads & Crude Oil Prices Contribute to Higher Prices at the Pump - CleanTechnica",
-        "source": "CleanTechnica",
-        "published": "Sat, 05 Sep 2026 03:55:58 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVWNzVEZ1MjBlLVU5ODE3Rm5jSjhodkJvTm5ISFFhRUNNV3VuQ1R1dVJoV3pqZnV6VEpNODhjWWtTRm5FQXR1VkgzSnM0OFVRVi1BWE5oaFZreXRBVWUyWkJUYUdKeXFQQm1ZYVhLLTJISXNpeW05cTZwM2ZOTGl6NDVSc01aWWtHN2JvczFFSGlaTFQxeHFCcUp6cndXYlZYU3NOclhYdWJacDQyZnlhZzFEeWktbGV0?oc=5"
       }
     ]
   }
