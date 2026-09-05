@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T23:01:04+00:00",
+  "generated_at": "2026-09-05T00:52:45+00:00",
   "fx": {
     "nzd_per_usd": 1.700553,
     "as_of": "Fri, 04 Sep 2026 00:02:31 +0000"
@@ -8602,14 +8602,14 @@
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHlVZmJPLTQ1OHhaN2t3WjhYcHdLWFdIQUt6R205VDBxZGhXTEtDSVhvVS1PejNGM2JaektQUDk5enhCUDNBSVRYUTlfdGkydmFfU1N6UTBNeXJCcERRWmVOY0VSdmhjanIwQUpkUU1vY0xYbkYweXpMRThuSmpkUFlSeVJLVFZ6ZW1zZTYybXppWDhCc3BMUmRDNDNmd0gyUHl3?oc=5"
       },
       {
-        "title": "Air New Zealand's Fortunes Should Turn as Temporary Issues Ease - morningstar.com",
-        "source": "morningstar.com",
+        "title": "Air New Zealand's Fortunes Should Turn as Temporary Issues Ease - Morningstar",
+        "source": "Morningstar",
         "published": "Mon, 31 Aug 2026 12:13:37 GMT",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeDNWUnAzLV9CSFlMUjJQMmdxd0hPRWx4clozck91dWFWclc4QXRsc1R4NllwZTRTYjF5elJKWGJiM3EwS2ZBNTk3NnBNQWpwUUszRXhIWkk3enNneDB2QmRCOHBqa0JxVjdSMFhmZTFYQUx1RktsMmNmeFFRZE1oTlF4QXJfUFpjakc4MDcwOHd1am4ySENwVEhRdmxwaGl2SW55YkY3WTljeE9HcHVaNHNkTU4?oc=5"
       },
       {
-        "title": "Fuel and Engines Sink Air New Zealand Result - What’s On Invers",
-        "source": "What’s On Invers",
+        "title": "Fuel and Engines Sink Air New Zealand Result - whatsoninvers.nz",
+        "source": "whatsoninvers.nz",
         "published": "Fri, 28 Aug 2026 03:07:31 GMT",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zTEVlYlRZMmM2cjIxVmppejY3UWJzR2ZxMnRKRDNJUzhReTVORXU0RVN5UDMwRlVKbVpMLWE1MzJZWm56WEdOUUl4MHpOc1hTeHJjd3NWbV9oQzNqbGNrUzRQbUNUZ2FWQ3U4dkNOc2JyaVpuOXBGQjJn?oc=5"
       },
@@ -8640,10 +8640,22 @@
     ],
     "global": [
       {
+        "title": "Oil prices post sharp weekly gains as US-Iran hostilities disrupt supply - The Vibes",
+        "source": "The Vibes",
+        "published": "Sat, 05 Sep 2026 00:43:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMzA1Y1UtdU5aMTBZbTl3NG8tdGhnTzIxQzktQ1Zkb1pDR2J5UU8xdW11ak96X0RTdXFWQ2FwdVVxb3JGWVZTZlc4OWQ5a1E3Wno2TEpCMzZ3QTdMWWktOUpmdGJfOHpjbUhrQkdEQl9wUVgxeDA4VnFaajB2eTJqZUxJWU5VRjJ5Nml3SUFsdk1yRlBMcUwyOEJ5LVQ4eElDSEFOTEpUcVFvSDZraG9nNl9kUjVEaFlpT2FwSDNhaw?oc=5"
+      },
+      {
         "title": "Bilateral hostilities raise oil prices - Oil & Gas Journal",
         "source": "Oil & Gas Journal",
         "published": "Fri, 04 Sep 2026 22:05:25 GMT",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeWtmamFNeHRXYkZwcHdzeE1aTEw0YmYtS3c2d1Z1alptZk14aG1ORUxuMFJmaUlQUnVqaXY2YzVlUEVVRUtZYzQzb05CM1hhOFphRUJCbk1uSFNUVUJYVEU3UThXMkdWd2kxM3Y0NkVDWkJaZXhJS0dGTE81Y0RjZkoxMzItZlFvRS1yVXd6UlQ3ZXBCU0lxX2ZXT29IYnpBRXZIQzh2cml4dnRUMDh3?oc=5"
+      },
+      {
+        "title": "Iran down to 2 months of fuel supply as brutal US sanctions take their toll - New York Post",
+        "source": "New York Post",
+        "published": "Fri, 04 Sep 2026 21:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM3liMG9IcEs4dzM5ZHNMUXY5TGpWMmVrYXpoSlpQV09UUHdBN3NwUWU5TDhzY3cxcEJEelphWGtfXzh4VEQtc2FHRzRwNHZtN1c0MFRvd1NnTVU5Y2M3M1VhT1hoVzR6UjFDNDQ1TmhYNkN3bUpTZjU0RUlaaE9JMHowQ2d6S1ByZnNQRUJGTV95MGw1ZXNHa2l4a3ZzWkVNUkppMFV0TFpldWF2SkNmenZoWnJHX0xw?oc=5"
       },
       {
         "title": "Core Differences Between West Texas Intermediate (WTI) and Brent Crude and the Affect of the Iran War - EnergyNow.com",
@@ -8658,6 +8670,12 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOelZKTF9VZ2RXQU9ZZE91ZWdOdm42ajE3MXZQa1hCcjJzc2JLZ053d3hWZjJtU19uTWdGLWlDQWNfWk5UbnYtb0xibDZTSTR3bWNMT1BBOTU1ZTFSaVlKcGhjMEI5blI0UHFtZlNaZGFGVS1VSUh4cExTbnQzMUJOY3l6N1FxOFlSTlNweHV6aUwwQlE4NjR5Ug?oc=5"
       },
       {
+        "title": "Oil ends week higher on renewed US-Iran strikes, diesel hits record - Reuters",
+        "source": "Reuters",
+        "published": "Fri, 04 Sep 2026 20:30:21 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQVZJdUE0TzFvS2xtSUJLOVUxZUVRZVRpMi1aUlNuSFZzX3h5TW4zSGJya0w3SjFlSno4QUlvdU90cHBBOS1xRllCZjR2aVRnUW16ZmQyN3M1SlRVSl9BYlk2Z2dvWGIzdEo3cXdTZjdWZkIzYXRNRzk3ZkM2cWMwN2ZWMVh1T09pNnRKVVAwRDhNSnJnSTFwVi1MZXdMNUNwOFJTU215REpkR1V0X1pVa09vNkVHeG9oX2lpVjdoTVl1ajI5MzU0dUN3?oc=5"
+      },
+      {
         "title": "Oil Futures Post Weekly Gains on Middle East Escalation - WSJ",
         "source": "WSJ",
         "published": "Fri, 04 Sep 2026 20:02:00 GMT",
@@ -8668,24 +8686,6 @@
         "source": "Iran International",
         "published": "Fri, 04 Sep 2026 19:58:08 GMT",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40MV9GZHZhY1YtZU42OWxPYUpqWTllV2dHUzU5ZF80ZGpZa1NEbXh4cUhhd0N5UjJJMWVmWWFlWHY5R3BHVlBOcUN0N19rOWVTNUE?oc=5"
-      },
-      {
-        "title": "US issues sanctions on Turkish bank that it calls a 'critical financial lifeline' for Iran - KSL.com",
-        "source": "KSL.com",
-        "published": "Fri, 04 Sep 2026 19:18:45 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb3lHa1JxT0x6MDNxOW1KSzJ4aWF0U1oyY1pzbF92YS1aanE5SkRMcHVVTlZWdElDLVladWV1dG56S010d1ZrLURpWG03Q0FHOGFFM3dHZVA4WkVMNXdUY2FtdDBwbzdvaTYxdldEdVFWTUV4T25fcE1DQzdWS2lZZDU4Z2RlTWJfMUZ5djBFTVYxRTZGWTZiNFRfWnloWi1QU3hlalQzX2xDRFRUaVRaVmh3dFhrWlc2cGJERjFxaHltbU0?oc=5"
-      },
-      {
-        "title": "Kwatra briefs US Democrats on Ukraine amid Russia oil sanctions push - indiatoday.in",
-        "source": "indiatoday.in",
-        "published": "Fri, 04 Sep 2026 17:36:33 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMlBjQkxUcDhaRHFjYklPX3RQdm9OaDhRUDZHWmxjZF9UdmY0VmJFcFFQUE9KUllkYno3Y2dwVjNfdThMZ1BzNmJuMlJtUXV6NUN6MU1WQV80ckRpNzNmRU1ZQnIzeFl3RzFLVHVfWmFONVJCVGcydU9PME1DZHVwa3VCRzlONVRzakN5Ym9iVmdlN1NzcnFlT3BGUUdIcllrb0VXLWVnSldlZHRBY1hkTDVqSHI1eEVHSy04VXhfYkV4cEhoUEtHaXJUWUlCaFFlczZadHVRWWwzTzhFTHJfY05CU25LSlHSAewBQVVfeXFMTnRuQWtfS1FnOWFta3ZQTTdjVmZWWTJ2Q2plaldtUk40MEVuNnh2ZDdvdXBVMmowc3lqWS1mTklnSllocklVTkFvN2ZDZ19RZ3NxSmhPZndEQmZrekoxdVc0NXYtQmtPVWdOdDB3TGRjZWM3UVFBc04ta29iYjhYUUhBNnJVMFFGR1VjQWd6enhJdlRER1VfNTRkTVB6dkxFQW5CWlY3M2NMRUJwRzVYclBPMG5KejJQLUx6ODc2ci1aaWNJQV9xYlBIMF9yNGtBX29IYjZNN3NBdkxwY1pZSzktTkpaV0VUMTRhOXI?oc=5"
-      },
-      {
-        "title": "U.S. sanctions Turkish bank accused of enabling Iran as Bessent says he 'hopes for' no further bank penalties - CNBC",
-        "source": "CNBC",
-        "published": "Fri, 04 Sep 2026 17:25:22 GMT",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WZ0hINWMyZzlIZHhkSUVOdjZ3enJkM1BVVDlURXJfLW03d0VnOHlHVXJJYWJlcjlpc0tlY3BJckZYaElzT0luVlNaOVc4d3pLenZ5NlZ1OGtObkd3YU1HcC1EOTVldzEwRVNiMVZHZ3ZQWDlGLWczODdySzFTMFXSAYQBQVVfeXFMTXNvWVhTVVdwZnFMeVlRZXhYYkV4Y2VxY0VVeEFxVVNQWHVDZWNCSEZoRk50VENwbERmUlV4NjljVVpOSTIyNjlWQ2tfbTQxRTJxSG1QeWliWHE4cmdzWE1BaENpRHAwVHljbmV3MDcyZHhVQXB1SXBpcmVka0dpdm4wNm1L?oc=5"
       }
     ]
   }
