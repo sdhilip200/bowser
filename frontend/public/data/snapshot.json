@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-06T18:27:00+00:00",
+  "generated_at": "2026-09-06T20:03:04+00:00",
   "fx": {
-    "nzd_per_usd": 1.700319,
-    "as_of": "Sat, 05 Sep 2026 00:02:32 +0000"
+    "nzd_per_usd": 1.700302,
+    "as_of": "Sun, 06 Sep 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
@@ -11,10 +11,6 @@
       "delta_1d_pct": 0.8,
       "delta_30d_pct": -0.52,
       "series": [
-        {
-          "date": "2025-09-05",
-          "usd": 65.5
-        },
         {
           "date": "2025-09-08",
           "usd": 66.02
@@ -1028,10 +1024,6 @@
       "delta_30d_pct": 2.43,
       "series": [
         {
-          "date": "2025-09-05",
-          "usd": 61.87
-        },
-        {
           "date": "2025-09-08",
           "usd": 62.26
         },
@@ -2039,40 +2031,40 @@
     }
   },
   "nz_retail": {
-    "as_of": "2026-09-05",
+    "as_of": "2026-09-06",
     "regular_91": {
-      "avg": 3.006,
+      "avg": 3.004,
       "min": 2.736,
-      "max": 3.219,
-      "count": 75
+      "max": 3.197,
+      "count": 60
     },
     "premium_95": {
-      "avg": 3.2,
+      "avg": 3.203,
       "min": 2.776,
-      "max": 3.529,
-      "count": 43
+      "max": 4.129,
+      "count": 27
     },
     "premium_98": {
-      "avg": 3.346,
-      "min": 3.299,
-      "max": 3.369,
-      "count": 3
+      "avg": 3.394,
+      "min": 3.219,
+      "max": 3.569,
+      "count": 2
     },
     "diesel": {
       "avg": 2.718,
       "min": 2.356,
       "max": 3.999,
-      "count": 76
+      "count": 72
     },
     "lpg": {
-      "avg": 1.847,
-      "min": 1.847,
-      "max": 1.847,
-      "count": 1
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 11,
-    "observations_yesterday": 149,
-    "observations_older": 38
+    "observations_today": 84,
+    "observations_yesterday": 43,
+    "observations_older": 34
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8588,14 +8580,14 @@
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcVVmODR3enJZdXNPTVVBQmpJRjFueXBoclVMWWJNdVRuazdoMnZDb0ZJcEFMMjBLOUtmRm9WcHdTRUtaclluUUR0LV9IYWh4SDgyVkx1WVBCNTFJcE9aU0dnSThENEZNSkZoU2l5bHNvaGF2Vm8tcDlIbV84a05hUkFMMHJUVC1rdzVQQ3M3Q05JakllckFtaXdZRV9SZlRGd3RKWTktaWk?oc=5"
       },
       {
-        "title": "Iran conflict pushes NZ fuel and freight costs up again - b2bnews.co.nz",
-        "source": "b2bnews.co.nz",
+        "title": "Iran conflict pushes NZ fuel and freight costs up again - B2B News",
+        "source": "B2B News",
         "published": "Wed, 02 Sep 2026 02:58:46 GMT",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdndwbVc2UnY4SnNyck1ra25JcTV5dVlFVmhNbnlBODQ2V3ZxV1hLMHVIU3BkaHhYWTZQbVlzRHYzZ3drdzBtcEx6VVViYWc5bGRtWUdYMFdtZVAzLTJualZqT053X1hkQlNuS3dUZXB3WnZIcWhIZHJIaW9YWXFLRHQzUFZLN29LT1JJ?oc=5"
       },
       {
-        "title": "Diesel rebound pushes New Zealand construction costs higher - stuff.co.nz",
-        "source": "stuff.co.nz",
+        "title": "Diesel rebound pushes New Zealand construction costs higher - Stuff",
+        "source": "Stuff",
         "published": "Mon, 31 Aug 2026 23:24:48 GMT",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHlVZmJPLTQ1OHhaN2t3WjhYcHdLWFdIQUt6R205VDBxZGhXTEtDSVhvVS1PejNGM2JaektQUDk5enhCUDNBSVRYUTlfdGkydmFfU1N6UTBNeXJCcERRWmVOY0VSdmhjanIwQUpkUU1vY0xYbkYweXpMRThuSmpkUFlSeVJLVFZ6ZW1zZTYybXppWDhCc3BMUmRDNDNmd0gyUHl3?oc=5"
       },
@@ -8606,8 +8598,8 @@
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5UGV3NHpNYlc5M0lfQnV1SGlQQktKd0JndGZLT25udzlRQ2tqLW9VNkM0MS1iaXl1U1hyQkxubWNOOHQya1p4akFCX3R0by1yUVRfM1VsUFhHTmF6T25NNUg5V1VOTlVZVHd6S2ZsRkFQWDIwTTB1SW5INndPVk0?oc=5"
       },
       {
-        "title": "Air New Zealand plunges to $242 million loss as fuel and engine costs bite - rnz.co.nz",
-        "source": "rnz.co.nz",
+        "title": "Air New Zealand plunges to $242 million loss as fuel and engine costs bite - RNZ",
+        "source": "RNZ",
         "published": "Fri, 28 Aug 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2RCa21UWVhMTEZNUGtfbWVXelplREIyTTVNaEtSYzNzMXpyS1RVMHNDWDNoQm80Y3QwbUFMdnNDVjh3RWdvR3otT3pxbENSU2hBajJoOFJLdENObGxpZFNUTG5kalFQczlJck1lYzFfT0kxMmZ0RjBzUXpqbXRQMXM5dFBVTXJ5SW1xVXVnMzF3T1FoV2thbFhZQmEwSmJYeHo4N3EwRkxQaW1HbmN2OU1NQjkzWkVS?oc=5"
       },
@@ -8632,10 +8624,22 @@
     ],
     "global": [
       {
+        "title": "Iran Warns of Faster Retaliation as US Sanctions Deepen Economic Pressure - Межа. Новини України.",
+        "source": "Межа. Новини України.",
+        "published": "Sun, 06 Sep 2026 18:04:46 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QNFpfYl9DQTRzQUY5M25YYVVsV19fQzBEQndEWDN3OXQ5emZvdVhCV1BZemtkWW1XR1dLTDdDcEQzaC1HaWRUNjVZQXpGRi0zSEVlWE5YUURlVzA1cTRN?oc=5"
+      },
+      {
         "title": "Japan announces energy policy package to diversify oil supply and reduce Strait of Hormuz dependence - Energies Media",
         "source": "Energies Media",
         "published": "Sun, 06 Sep 2026 17:38:42 GMT",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OMGF4TGxjeU1mUDhkM1BGMWxia1dsNnM3QXVzWkd0cGhEdkQwTjBxWEFXV1pXcjBfVkxjWWcyang4bW1JMTI5LThJSVNzSHRPTTdXN0JtQmh4UlpLV2ZjU2pTMmpLMXQ0elktc25mZw?oc=5"
+      },
+      {
+        "title": "Iran War Causes a Shift in Oil and Energy Markets - Energy News Beat",
+        "source": "Energy News Beat",
+        "published": "Sun, 06 Sep 2026 17:10:51 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNTBWOW9RUmM2eVl0VnhoZG1TVDA2OUFKZERvTmhEaTdUSVA3NjQ3Q2JOMUpfV19GSlFEdVlheXpjMTVUZFJyNTluN1Jfc3lNZjBEX3VfeFpiVkt6ODRHSnhvSm15VGVJUklWRlZYR1NabE8tbzhtSkFpLWdyX0pLZUVwU05NSk1IUXFUY3Zvaw?oc=5"
       },
       {
         "title": "Crude Futures End Mixed With No End in Sight to U.S.-Iran Conflict - WSJ",
@@ -8650,20 +8654,14 @@
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sQ1dKaDZBazlmTE9UQWpjWVJHR3dkdnhRSTEtbjJ6TG05MXBYQVBldUZVdzJWYnQtSWtPR0lVaVlLNEYtUEZuM3JJVkxTYXBaZnFxSTljYURnMllaUm5pUFNnTWcwQjRONWNURXdkY0tNV0dNNkE?oc=5"
       },
       {
-        "title": "Citi and ANZ raise Brent crude forecasts amid Middle East supply disruptions - Yahoo Finance",
-        "source": "Yahoo Finance",
+        "title": "Citi and ANZ raise Brent crude forecasts amid Middle East supply disruptions - finance.yahoo.com",
+        "source": "finance.yahoo.com",
         "published": "Sun, 06 Sep 2026 15:26:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQnFHZVZ0NXNJemVOd3h5VkhpUEZzcjJ5bV9Kdm10SzRuU0ZpYWRXbmcxeURZWmlBOG1oUEdsMnJlT1lNQVZ5MnFNczJMRWtTajJTWWhQelRLc0dFNDROaTVpeXRXTG5nR1ZwYTAxcW9oSDM4em5wNGFwSnpNY0Jaa3E4eFRkek1hc2Zv?oc=5"
       },
       {
-        "title": "Brent forecasts rise as Citi targets $86 and ANZ sees $95 in short term - Yahoo Finance UK",
-        "source": "Yahoo Finance UK",
-        "published": "Sun, 06 Sep 2026 15:26:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU0JmS2V0c0JmTDUyRjBiN2RscTAyRlg0Tm5WckpPNm16Q1Y3SFo0RnVZU1JnTjdYMEsxNmU1T1hUVXdaRGdYNmN3TUpZSkN0WE93V2ZLeFJzamdJbG9VSllJRVRmU0pmb0xVSl9Qc3JwcFlOemJVck5IeXlLbnItb3lMbzVDYXFwZlE?oc=5"
-      },
-      {
-        "title": "WTI Crude Oil Forecast: Can Prices Break Above $94 This Week - dailyforex.com",
-        "source": "dailyforex.com",
+        "title": "WTI Crude Oil Forecast: Can Prices Break Above $94 This Week - DailyForex",
+        "source": "DailyForex",
         "published": "Sun, 06 Sep 2026 15:12:33 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR0w2UlYxQUEyeTgxcjRVSkEwSC1mVW9tYVBQRUxVVHFyTDhyY2hNbmZJY1ZKYUdSTzJPZ0NVdlZ4aFFtMEROVE1TbHJDcjBMTEZyYWZmc0NXT3A0OENobnNONy00cWpzTHVCZUVGQk42cTJnZHNldEFVSE1lZERkemdIeDlIX1hZZENoeWhpdzk2a0I3cjlRUVREdkxaWm1TOWthbE5RbGNCdw?oc=5"
       },
@@ -8672,12 +8670,6 @@
         "source": "FOREX.com",
         "published": "Sun, 06 Sep 2026 14:41:03 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN3NWVVFrLTJnMC1tUk1zOWJiZklhQWtOVENNZDB4MENFY2htV3p6S0w2MmtJRVE2ejBYdUxveFNmbkxEbE9oc09SR0xCMVVBOVEyRlJERWxCQzJDbXYzcG9QbjNfNFZKSlNDX0hKSi1PbGI3VjkyR19IeTFKNFhjbEl5c0hhdFZ5MENvU2JWLUdvcW9TU1ozdXNzMlFXOWFBWG9ELWViTEdJdw?oc=5"
-      },
-      {
-        "title": "'India Buys Oil For Itself, Not To Help Us': Russian Envoy Amid Sanctions - NDTV",
-        "source": "NDTV",
-        "published": "Sun, 06 Sep 2026 14:26:05 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSlFqWl9LVXJfSVNub041d0JRWkFsYlhHSkpNanNHUWRLWUlyc0l4RVhzenlwa2ljN1VjRGpJMkh0TTlzbXhIQzdFRVFKcW9hUEt6Z1A3YmVRRWFCS0Iyb2otYWVkQmszMU0xOHctNDVldkdDMGs2SDIxV1JTQ0c4cnY1WGJaS0JwektLRXhFb2FCeGt0RnRnLWRMbW9VelJsaGlsNHZzWDVoRXRHa2N1OHJHYjI0V1RUQ3FkdG5fYkfSAcgBQVVfeXFMUHF6Mk5KNmo0ZmtHc0MtTkY5TUhmOTZiNGpBMEowNmNwTk9HQUU3OHg2dkJwWUNSV1JoekViUlJOSkotVWZ6cUoxWlRPX190NkR6cU4tRVdTWmJiR0RoWFZMa3d1ZmdhOGYzRVoyNFROUDFrQnFtTVNFZ3JXc2s4RW1JYnl4d2pfOVRXMzVnX2xibHMxRE9EY21XUDVZSVdfVkhfRXNXYy1FeEZfOTNFTzZlSExLUzBrWWROZE5POW5ZV1lKck12UEw?oc=5"
       }
     ]
   }
