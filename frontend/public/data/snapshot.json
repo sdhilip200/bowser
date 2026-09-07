@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-07T17:47:52+00:00",
+  "generated_at": "2026-09-07T21:10:26+00:00",
   "fx": {
-    "nzd_per_usd": 1.700302,
-    "as_of": "Sun, 06 Sep 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.700098,
+    "as_of": "Mon, 07 Sep 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
       "latest": 96.28,
-      "latest_date": "2026-09-04",
-      "delta_1d_pct": 0.8,
-      "delta_30d_pct": -0.52,
+      "latest_date": "2026-09-07",
+      "delta_1d_pct": 0.0,
+      "delta_30d_pct": 8.96,
       "series": [
         {
           "date": "2025-09-08",
@@ -1014,14 +1014,18 @@
         {
           "date": "2026-09-04",
           "usd": 96.28
+        },
+        {
+          "date": "2026-09-07",
+          "usd": 96.28
         }
       ]
     },
     "wti": {
       "latest": 91.48,
-      "latest_date": "2026-09-04",
-      "delta_1d_pct": 0.2,
-      "delta_30d_pct": 2.43,
+      "latest_date": "2026-09-07",
+      "delta_1d_pct": 0.0,
+      "delta_30d_pct": 10.74,
       "series": [
         {
           "date": "2025-09-08",
@@ -2026,35 +2030,39 @@
         {
           "date": "2026-09-04",
           "usd": 91.48
+        },
+        {
+          "date": "2026-09-07",
+          "usd": 91.48
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-09-06",
+    "as_of": "2026-09-07",
     "regular_91": {
-      "avg": 3.004,
-      "min": 2.736,
-      "max": 3.197,
-      "count": 60
+      "avg": 3.016,
+      "min": 2.786,
+      "max": 3.199,
+      "count": 68
     },
     "premium_95": {
-      "avg": 3.203,
-      "min": 2.776,
-      "max": 4.129,
-      "count": 27
+      "avg": 3.191,
+      "min": 2.736,
+      "max": 3.369,
+      "count": 32
     },
     "premium_98": {
-      "avg": 3.394,
-      "min": 3.219,
-      "max": 3.569,
-      "count": 2
+      "avg": 3.361,
+      "min": 3.269,
+      "max": 3.42,
+      "count": 5
     },
     "diesel": {
-      "avg": 2.718,
+      "avg": 2.741,
       "min": 2.356,
       "max": 3.999,
-      "count": 72
+      "count": 78
     },
     "lpg": {
       "avg": 0.0,
@@ -2062,9 +2070,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 84,
-    "observations_yesterday": 43,
-    "observations_older": 34
+    "observations_today": 140,
+    "observations_yesterday": 34,
+    "observations_older": 9
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8624,52 +8632,52 @@
     ],
     "global": [
       {
+        "title": "Rosneft Ships First Crude From $157 Billion Vostok Oil Project - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Mon, 07 Sep 2026 21:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR1JqRWRmdDN0amV3Wldwa3JJbFFPRTBHX3E3WUlhVXFCZW9UOXVwTExTclhQT3VDdXBpWkZZcVJrc3BndWh4a1VkQm50UlZxT3pPeEFVX1c0aDNVc282eWhNeGdwRnJLZFYwR041b3ZkNnQwWk42NGhoOWd3SmI5R1B2OGhWSlg0eTAzSEUxRnVad2d6QzNYNnNvSU55bEVNbUpTZ0Zyd9IBrAFBVV95cUxPd19kN2ozcnhCaHA2VVV2VC02YXVRUnJkWDh1ajVGYWxGdWNXWVN4WmJaVldHZlc1LW84REJ0MkgtNFJWN1FYRkp5UE9aWTNja0JudnhtNjNiek43RTl0SmU5NW03ZS04MUdCTnRZV0R6dlNjd2xldjFTMkhLcmZzejBrUlRoZnBCWHVjNnNVSTVjVGJHcEJybTRlNi1vajgxUVBFX2xnMW9JVmFs?oc=5"
+      },
+      {
+        "title": "Oil nears $98 as Chinese crude buying rebounds, Middle East risks intensify - World Oil",
+        "source": "World Oil",
+        "published": "Mon, 07 Sep 2026 20:54:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZmM5LTNmenVNdUY4TzFodHZRcGlJdTZnTC1UWi1DVHF3eEk4X00xQnl5VzBLZmFkdzQySXAzYld3azVYeGw4aXp3Q1BPb09VZnVJck5KLWUwcGNNeGlZaDBjWXVFMVhkTGIyRzF0RFNHWU1YdTEzNF96anNLbW1FbmpvaHBTaXRIUG9lTFZLTU9UVHlvbTZrNTV3Y0IzZVBZcVlOb0ZWeG84Z3JtTWhQMUVpNA?oc=5"
+      },
+      {
+        "title": "Crude Oil WTI tests $93.64 resistance with overbought RSI: Live levels - Investing.com",
+        "source": "Investing.com",
+        "published": "Mon, 07 Sep 2026 19:27:14 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaG1tVlA4V0VrQ0FsRUNLOTZtVm1ueE1SVGFTT2o0VHdvQ05HTjFLdG9UcmxYSXNZbGpGV0N0c2kzczZWZktwWm9Dcm4tOUszR1FfSHRFS1lwME1jSnZ4eE9ySDVqN2x1N3VPRnRaM3l3YWxTQldKZW9PLWlzVWFlOXhYWWhoSFdEUHNZQTFySWFsMUg2ZUg2UDVIaXVfZzlKakp0R3ZfRTFabFB2eExhSTZnUERqdw?oc=5"
+      },
+      {
+        "title": "Sudan Could Become the Red Sea's Next Energy Security Flashpoint - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Mon, 07 Sep 2026 19:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVFgtbVR4MHc2NUVqdjdDVEpxTDB5ZkhIOHpLRjhTY1QtQjdBdzNGLWg2bG9rVDJWcXhxVUw1Q2NqaExUcmdOZ1VRQ29iYkRTMDFHMDJIUm8tQ29sTlptQ0hiWTdvVEFseW1PaDQxOWYxVXVXc0ZHSHBlaDRfaXRNSU5ESHVubEV6SlhBclRGc2ZqVDNFUjVuVzliR0RVUGt1WWFVdTh2ck9KcWh60gGyAUFVX3lxTE84enQzcmU5elFYY0ZaYWJnaXloX2tta0JCdE5Fb1g3Wlh3TEJPdjZPM0dwQ2dJa1hIVkZKaHpYY3RGdkM5Rmwydjc3dzVvSHFMbW40N0hqS3ZJZVpIeGgzbmJGLXJEV2lkTlhJWVl6MERKdjBiU2ZNdUZJU3RnbWkxS1hQWnk3dDZVTmhmc2x0dDdielg3ZGF6di1YZ3NpQms1TkhwOGJIcEZQY0swSEZMcHc?oc=5"
+      },
+      {
+        "title": "Iran warns US energy assets in Gulf are vulnerable after latest clashes - Reuters",
+        "source": "Reuters",
+        "published": "Mon, 07 Sep 2026 18:48:25 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM292TDh2Uk9IeUlEeFNFY1UyeFM3OFZzd2w1S013bEtmVnhXYmdfT0ptV1ZfTlRTRXBLVzFZdmZ6T0d2cVdkZHAtbmhFTjlHUmJRQkRVZDhwMGJZZUM2MEpBS041SmhGcEhWZTlQemFBcjRaNkwyWkhhUlNFc1dNZEVyQ1R0YzFnRm5ZNHd3VU5NV01EeWZVZjJrUW5VWGF2X2R1U0xzSFEwbE9iY1E?oc=5"
+      },
+      {
+        "title": "Global Fuel Oil Deficit Projected for 3Q26 - Mexico Business News",
+        "source": "Mexico Business News",
+        "published": "Mon, 07 Sep 2026 18:34:33 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY29hWTEyMWtJUkJSS05hVS1va3g0TkprNzc2ZExDeE5KM3E2NW1ZTzV0RVZpNlpzMVI5NjlUSzcyQXh5Wkl6RFNHSDFLUzRKS3RGc0NnWXBMNTltR1JNU2ZFWE9XUzU0S3R5NmQwS1BUR1RfaFo1Ung2SUZMRU5OcHl6NzJvclBh?oc=5"
+      },
+      {
+        "title": "Oil Prices Hit 6-Week High Monday - iHeart",
+        "source": "iHeart",
+        "published": "Mon, 07 Sep 2026 18:12:13 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSmpYTG1QYTV3NFI2cGVJOS1hT2FDT01EX3hkNXdUQUVLV0hFczRXVkRIem0ydVJFSWRfZ29zZFdJZTZxOVpFWGtHT21SeU1wdnpFLUFSbFJhay1PNUFzZ25VREtyRXFKLXlXcDhmVW04UzJIODRyS1lvNUJwUG02dFNzbw?oc=5"
+      },
+      {
         "title": "Russia Vows to Keep Selling Oil to India Despite U.S. Tariff Threat - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Mon, 07 Sep 2026 17:30:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOUp3NTFDYTZxUS03aGVDY0ZfZzV4b3RCYnNTUE01cTI3cm1sUU5JVmYtQ1B1eml0aC0ySkFiQ1pZeE03RkNkVkZNSk8yQzBkQzlqWWlRZmlCWXlwb3hNaWw1VENhY1BmYXp6M2ZiRERHdnd5cTBkbjBPOWxIRHYzLVA0ZjZPN2Y5ZnVRalE1bHVNdkVHeUxJMWtHM2FseEFFNGpyMTBCSDFkZGlDdS1vUGVncFlPQkgyMVB2al9R0gHDAUFVX3lxTFB1QWstLVN0SEFMdER4My1nVTd2WTlEQ3NaQlQ1UkNqeFBPc2g0Mm1PTTIzZkZsVTNSTFRkYVA0REpzZy1UV29VR01ISUstZXZUd0lQbnZXZi1nR3ozM2hjSllHaHZiZm1aaUloVDVTRDBtRWlyeGZZWl95VG8wZ1lFSzRMaFVGa01EMFJkcjh1cVNTMmVPbTZBTFRHcm1qSHh3SE55Qnp0TWZnUEc4LURrUEFsa1hPSWJmejNXMmxuY1BkZw?oc=5"
-      },
-      {
-        "title": "WTI Oil climbs as Middle East supply risks remain evelated - FXStreet",
-        "source": "FXStreet",
-        "published": "Mon, 07 Sep 2026 15:12:59 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNER4d0tFWGpFQnJ6aml2SVpXVlRXTUtmbTk3SUEwUng5NTBsbGEwOUlweWFuemRNWkNaM2V6Ykx5Z1Z1cW5ORVA1WE1ISVhSQjRTaTQwZ1BjOEZCdmJ2YzdmeGJJcS1ZZFZ6Z2pEcnpWNzBBZnBGZ0VoTG5WUzRBNG50dk96NWJJclRLR2pNSFRaY3VxejVOUzM2NjVnSElpaFln?oc=5"
-      },
-      {
-        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
-        "source": "LiteFinance",
-        "published": "Mon, 07 Sep 2026 15:04:13 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
-      },
-      {
-        "title": "Can Iraq Really Replace Saudi Arabia As The Middle East's Top Oil Producer - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Mon, 07 Sep 2026 15:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdkV2dU1VTjRJMVhQNVNaeURNNjJYYk5kY2hyaHdsVjBnUWJTSWRmT0ZFM1dkVlNmRXQ2T2c1cHJQdVBmYW9uVmhlZWsxMEQzWjV0ZG9NNm8wbUJaMVpwdWlNZ1VkX3Fvb05FUFJSYUZ4dzJwY1Z2VXptV1V0djBPU09TZDRwVzctUlhIRkVFZEdLb1NfMU1Qa0FlSEV2ZUFvLTVpUDc2RkZaM2hTMlJVVWtXaUlvVEXSAbwBQVVfeXFMTjZGR3B0TEUycGx6QnlJb1lWbFYzemNhSVVqekx4SkV5WmhJSkFKekE0WWdiaXlabmRidXdRME1zWXVaYV9GMm9FMDhzcTJXWm9BTTRwLUxDUVdKbFR0QURKSkRXMjJoMVlHaDZyaU8xSldwU0lSLWhKa2UtWkc0aXI4Q0UwVUxCald2RjBWZVhaby1lNFRRd1RmLXJmaU1LMkt3MVVfQXluQnh5ZVNUNDc0cGJrRUFQeDJ2OWI?oc=5"
-      },
-      {
-        "title": "Oil prices rise to 6-week high after Iran and U.S. trade blows, Saudi Aramco facilities reportedly hit - CNBC",
-        "source": "CNBC",
-        "published": "Mon, 07 Sep 2026 14:52:48 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTUQyOFhDMW1jRGlNSFNReHh0SlFkRmV1NFVFLWE1LWVXRjFOS25EUVNqWk9rRy12U3dTSWxUelZYTS1VLUdXZklTT0tzYnA1VjBQX0xLNVdWdWZQTG5oamNKdF9jWjhJVUZleDB0MGtveE1GNURRazNWcTQzYXZOQjRwYXhkYXM0SkJ4ZG9yQ0RjRkpZMk9lWkdQVzR2c3FkR25mb0RPQVVxUk1wU1NOY1lDNW11VEhHZ01CTG9wQXB2a3lqeVUtRkFpYWJiSkJ2UXfSAdcBQVVfeXFMTzZTTGdNUmozTkJaaHdVNkZYdUpoQWYxcXZxU2FSRV9PWkN1X2J2Q1VaRm9IaEpuenItLS1MNFc5RkJfWXlCamxvX25GbjYzYnlqQTdoWElvOE5kSllfM2RWaFA5UnZvMXd1T3hDOEJGZEdIR2JsM2cxV2tHYzNodG5OVlBuOHBZRlZLaVdyX3ZsUi1UMVBKR3lxNFNMRFBvalpiWEJCVFlkQ0h0WXpqV01zR3BrUThhNnNXY3J4SXBWOTR1eWhNQ3VTUjcxRm50clQyZXA3SnM?oc=5"
-      },
-      {
-        "title": "American and African Crudes Soar as China's Oil Imports Rebound - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Mon, 07 Sep 2026 14:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeFBWX1ZBZVZGTmNSM1oyWVJnNFhqMGxkM2tpYk9rNXpkcFF2Y09Ca1BOejEyTUpBVkF5b2ZtVlpScG4tenJyalZxeDVmckViNzZUaU5ROUFpRmJOVV9hcHdwQjdpa0ZXWjN4T2tTNERjbmpJTi1KaEtqdW5pWjdDU3NCaG1LRkNvRS00ZEowYUhFejE1RWk2TS10UTRDdnVCWnp5eE5rTXhZRWZvQVpLSk9ld0ZXOXZLbmfSAb8BQVVfeXFMTTdPUkhTUl9YTFZwLTdDZTZZZmRwUVFwVFA5VnJ1M1FiMm5FVjdZZ3Y1NmdUMmZtUXhRaENvZjMtY2h3TXhhNUtLRkJiNmtCZ1Qxa2Z5aTZrMnF4UEotem1VaUpBNlNKcXZGQ0V0Q1FBQkhmVi1KUGlGT0thZUdfdk5hb2NfQ2s2ME84czN5TDFKa1QzbTJ2UERUNjRrZ2Q3dHJTRzZzeUF6SVRUc0F3b2RtMXBNNGtVb0ZQajIyMWM?oc=5"
-      },
-      {
-        "title": "Brent Crude Rises to $96.79 per Barrel - fananews.com",
-        "source": "fananews.com",
-        "published": "Mon, 07 Sep 2026 14:17:53 GMT",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ2ZibUhjdTFGdmdGaE5TbVcxOGJ2VzFDeE5aUmdkWU5Lcl9GVlR6SVZ5MUFELXVYWWpJcHpnVDZlSXNuU2JyLXRYaDlKXzB5WE9Pd29BQi11cXQyNW9KTUhzdGFTZjdTQUVMbHhrc0ROU3htWnhLOXNsS2hTemt3Xw?oc=5"
-      },
-      {
-        "title": "Oil prices hold near six-week highs on US-Iran attacks - KSL.com",
-        "source": "KSL.com",
-        "published": "Mon, 07 Sep 2026 14:09:26 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdm5XZVJ6LWNFRzZzMjNwRGdLdTljZzlzcWE4OGtzV0NJV3l1RkZ3eW1SX3lXZ0JyeTlSaGwyVUF1M25ZdmF0YkpMSHZKaGl2dEkzczNpQ3Z0Q3U0ZGxrMndmS3FhakFSbUl0WGR3a1hQSjZhYUxtQnpMWXIzT004cmRMNTh6SHBYcV9SWHVuYnhaQWxqSFlxMk5mZExQOHE3S2VzNDFzR0s?oc=5"
       }
     ]
   }
