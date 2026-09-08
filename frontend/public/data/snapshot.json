@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-08T20:18:53+00:00",
+  "generated_at": "2026-09-08T20:46:38+00:00",
   "fx": {
-    "nzd_per_usd": 1.700098,
-    "as_of": "Mon, 07 Sep 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.700267,
+    "as_of": "Tue, 08 Sep 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 96.28,
-      "latest_date": "2026-09-07",
-      "delta_1d_pct": 0.0,
-      "delta_30d_pct": 8.96,
+      "latest": 99.3,
+      "latest_date": "2026-09-08",
+      "delta_1d_pct": 3.14,
+      "delta_30d_pct": 12.38,
       "series": [
         {
           "date": "2025-09-08",
@@ -1016,16 +1016,16 @@
           "usd": 96.28
         },
         {
-          "date": "2026-09-07",
-          "usd": 96.28
+          "date": "2026-09-08",
+          "usd": 99.3
         }
       ]
     },
     "wti": {
-      "latest": 91.48,
-      "latest_date": "2026-09-07",
-      "delta_1d_pct": 0.0,
-      "delta_30d_pct": 10.74,
+      "latest": 94.29,
+      "latest_date": "2026-09-08",
+      "delta_1d_pct": 3.07,
+      "delta_30d_pct": 14.14,
       "series": [
         {
           "date": "2025-09-08",
@@ -2032,37 +2032,37 @@
           "usd": 91.48
         },
         {
-          "date": "2026-09-07",
-          "usd": 91.48
+          "date": "2026-09-08",
+          "usd": 94.29
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-09-07",
+    "as_of": "2026-09-08",
     "regular_91": {
-      "avg": 3.016,
+      "avg": 3.034,
       "min": 2.786,
-      "max": 3.199,
-      "count": 68
+      "max": 3.259,
+      "count": 64
     },
     "premium_95": {
-      "avg": 3.191,
-      "min": 2.736,
-      "max": 3.369,
+      "avg": 3.227,
+      "min": 2.836,
+      "max": 3.589,
       "count": 32
     },
     "premium_98": {
-      "avg": 3.361,
-      "min": 3.269,
-      "max": 3.42,
-      "count": 5
+      "avg": 3.369,
+      "min": 3.096,
+      "max": 3.599,
+      "count": 10
     },
     "diesel": {
-      "avg": 2.741,
+      "avg": 2.779,
       "min": 2.356,
       "max": 3.999,
-      "count": 78
+      "count": 76
     },
     "lpg": {
       "avg": 0.0,
@@ -2070,8 +2070,8 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 140,
-    "observations_yesterday": 34,
+    "observations_today": 148,
+    "observations_yesterday": 25,
     "observations_older": 9
   },
   "mbie_waterfall": {
@@ -8588,8 +8588,8 @@
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHlVZmJPLTQ1OHhaN2t3WjhYcHdLWFdIQUt6R205VDBxZGhXTEtDSVhvVS1PejNGM2JaektQUDk5enhCUDNBSVRYUTlfdGkydmFfU1N6UTBNeXJCcERRWmVOY0VSdmhjanIwQUpkUU1vY0xYbkYweXpMRThuSmpkUFlSeVJLVFZ6ZW1zZTYybXppWDhCc3BMUmRDNDNmd0gyUHl3?oc=5"
       },
       {
-        "title": "Air New Zealand plunges to $242 million loss as fuel and engine costs bite - rnz.co.nz",
-        "source": "rnz.co.nz",
+        "title": "Air New Zealand plunges to $242 million loss as fuel and engine costs bite - RNZ",
+        "source": "RNZ",
         "published": "Fri, 28 Aug 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2RCa21UWVhMTEZNUGtfbWVXelplREIyTTVNaEtSYzNzMXpyS1RVMHNDWDNoQm80Y3QwbUFMdnNDVjh3RWdvR3otT3pxbENSU2hBajJoOFJLdENObGxpZFNUTG5kalFQczlJck1lYzFfT0kxMmZ0RjBzUXpqbXRQMXM5dFBVTXJ5SW1xVXVnMzF3T1FoV2thbFhZQmEwSmJYeHo4N3EwRkxQaW1HbmN2OU1NQjkzWkVS?oc=5"
       },
@@ -8632,16 +8632,34 @@
     ],
     "global": [
       {
+        "title": "Oil nears $100 on reports of new U.S. strike in Iran and attacks on Saudi infrastructure - NBC News",
+        "source": "NBC News",
+        "published": "Tue, 08 Sep 2026 20:30:29 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdkU0bkpZeXNwWmdHY0swdVpzNnN1aThuV1lPSXd5OVFlZmpVQ1dSRkp5SE14U29sdmZQX2NrekNLV0NfZjV4eFlUOW1GVlpuQnA1Wmw4OHJlMllvVGJ4TXJNai1SbDZhcDVyOGdxWkQ2VnR6QmVST2NReHF3Zl9NUkVaNFlnbllGY2Fz?oc=5"
+      },
+      {
+        "title": "Refining bottlenecks are emerging as the next big oil problem as Middle East skirmishes flare up - MarketWatch",
+        "source": "MarketWatch",
+        "published": "Tue, 08 Sep 2026 20:28:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVFFtU05SVlBtcE1UZzFjZHJfcGFPSmEzNWExSlZRSTVpUzBZdERqaUxvTE1vSnM0Nm9VSDRCbkxiOTVWUzBrbTRGWUpwNzAxSERWSy1yemxKeHp1bXFfVmo5MEwxMXFQd09lRzdzemhscmU0MjJnbzU5TWo5WlZ6SG9xR0U1c25QZUFlUUI0c1gzYV9EQ0xLa1ZOTFB3Y3lXeDdhb3dlWHg4aktYdkN4d1kwSEpQOVBhazdTMm8wRG1fbUlnY1FCWU55cEJZckZiQnJldkxB?oc=5"
+      },
+      {
         "title": "Crude Oil Prices Rise as Global Supplies Tighten - Barchart.com",
         "source": "Barchart.com",
         "published": "Tue, 08 Sep 2026 19:13:16 GMT",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNTNNdFVFYlA2VEJabWZvc3BSeDg5Mks1UllEYUNDNnVKSTBjR0RxUWZJTGgzMTNXXzZmYmtmRXZkdjJ4NU9ueVlmVTJLLXlPUjVPQU0xRFg1V19uWERQQ0ZHNGVENzlSbFdsX0hCMGo2OHFzYU44X2FlUlVheHJWbUthbkRBNUg4bC1KbTkwaWNmWTBkNkZB?oc=5"
       },
       {
-        "title": "Stocks Slip as Oil Pares Gains - WSJ",
+        "title": "WTI Oil Back At $90 as U.S. Launches More Strikes Against Iran - WSJ",
         "source": "WSJ",
-        "published": "Tue, 08 Sep 2026 18:09:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTElTcDZHTGJwaV9IeFJXTXFUdm52eER4Y0FmcWN5eEkyM0RKOEp0NlAwazFxUi1vVUV2ZDdhc0F1anFwd2IzUkd5N0d2eWV3aXJQM2JJZWRHQzdlQ09FR0F3OTcxdG5uUEFtWTFkeXJEYUk4UE5PZHdLVDdSTHZEUDZWdTBIZzFvaXFURXl1ejFqTzRmS3lkb202NXR0OFlNSXNhS3dhcVFiQXd5bWNv?oc=5"
+        "published": "Tue, 08 Sep 2026 18:35:13 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMzdDbWVSZS1UZjdwV19kdXlIejlhZ1pBYWtXcUtER09vczZpZ3VGUjV2M01hWlQycUFGTElJTFBVSTNaOUNmb1I2T1dDTjctUER3dFhtM2NqX3p2bU9OR1BISW9FcnZ3MS0wOWVMVU1sd0tVZ0d1WGd0c0RieFBSY01UbmpOSi05RXVyNVhqbnA3WGR0UTNNMnVaakFKRFowRHk1NGRzTnJwclR5NEpHSTYzWjFDOHh5bkE1X0djYmpFTnVi?oc=5"
+      },
+      {
+        "title": "Barclays Keeps $100 Brent Oil Forecast for 2026 But Risks Skew Higher - EnergyNow.com",
+        "source": "EnergyNow.com",
+        "published": "Tue, 08 Sep 2026 18:07:55 GMT",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS2NfUU1UN0puNEVTaHhEZUFOTnlKMzRmOEVHYVp0VkNackl3czZaWDRScGlnQm9kYkIyX01Ka3JvUkd2b0c3S2tkLTZYMDRZM2VKUnNxUnBITzYwRXhqS2oyUktDdTRNSGFqbG9GdlFMVmJJbmRXb0h5ZGkwSkhxMFdwam5KM094bm1qUXJSX1I3RU5VaERpdUJzUlAwZkNw?oc=5"
       },
       {
         "title": "How the U.S. Is Targeting Iran's Oil Money - Crude Oil Prices Today | OilPrice.com",
@@ -8650,34 +8668,16 @@
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNEd0ajVBMGZyNmJsMlNpV0wxOXRWWldXb2Q0X184cnFIaDMxTHVOTjZIb0VKOXExYk8zY2hDVDdzbTZWT0tsbWR0ZEI0emZOR0hmdC1IYUFqQVBVLTdseFUtb3d1aTdQZlRTcGMwa1JCMmFrd0pVZXpkSHhVWm1OR0t4b29LNFRkR1cwQm1xU0h0eTTSAZgBQVVfeXFMUGhfdHBJeFphRGlpUmFPMUhWWVJZM2RHN3czWE90aFgwVXAycy03T1RHZFUtSnM5RDdiajlXN0hNblZPaGFubzgwY0U0NXRnRkJiQUF2amV6c0JldXNZTWJ5VXlIakcycVExZ2FDaTRsd0M5UmVzdzRfc3dLZmxhX0o3UFNpR3J2bkYzZEdPaS16WVFOV0dOSV8?oc=5"
       },
       {
-        "title": "Oil Prices Reach Six-Week High - Marine Link",
-        "source": "Marine Link",
-        "published": "Tue, 08 Sep 2026 17:41:47 GMT",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92RDlvamhIRU1ycGRteUNiRWNqdkVyVS13aG9tanhpLVFvWUd1anBuTkU0Q1ZZS1N1T3h3NVA1M0dUM0F0U2pPQmsxazd0MU93UXgzNkNKMjFHVEpYbkREU1ozLVpCUGY5aEw1V21Ib2Z1REY0V1hB?oc=5"
-      },
-      {
         "title": "Oil Climbs Toward $100 a Barrel Following Houthi Attacks - The New York Times",
         "source": "The New York Times",
         "published": "Tue, 08 Sep 2026 17:37:32 GMT",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54N3UzSlJaTHRYV1g3cTYtWFctbWtEdGU5eWVBTWlEa0drQkxabDU2VTRtTGJ5OHA1QndlRzB4QS11cWNCcmE0UThzSUNDSVZFQUlYWmtieklycEpOUDVuV0NFREZOaGNFRVZkT05obUljbDV1ZnlJ?oc=5"
       },
       {
-        "title": "Brent oil surges near $100 as attacks halt Saudi energy sites - TheDailyNewsOnline.com",
-        "source": "TheDailyNewsOnline.com",
-        "published": "Tue, 08 Sep 2026 17:04:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcjEyemRXT3EtLTd1cUxfbE9vV21TaGppMlVDYkljbG8xQ2pjWHpjckJ5ZTE1U19teVBjcHRGTWhXLXFXd1BvVmZlYXBvUTFQamY3dnhwbkhLNlhqMGZBNmhQQlpkb281UG9jaC1aVmZDT2xISGE2M2VjUGNpdWcyazlKLW4yaExOQTJuWDd3cEdWUjFUSU02d0xKcVdzeXdUQ0Nfb0JfbktFaldZODRnVDNzVm40c1pMRklheHpXbFVOcDMxTmtqcG4wRVJoMldzUXVQdkhQVTRKYVpBRGlrZGxnTWY?oc=5"
-      },
-      {
-        "title": "Graham Russia Tariff Bill Contains Legal Ambiguities - Legis1",
-        "source": "Legis1",
-        "published": "Tue, 08 Sep 2026 16:13:25 GMT",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5VW9xMlJqbjJMSmc1QlI4a2Fydlh0VVluRllmZW9xeTJrd295STk3WkNzcy02MEtZY1VJRnl6c3NHRzYwSTBKWFhBaE9JcEFNVEdrZjZYMTNjWW5LdWZ1VmlCTEp0VGVabU1zbU9td2lJQQ?oc=5"
-      },
-      {
-        "title": "WTI Oil Back At $90 as U.S. Launches More Strikes Against Iran - WSJ",
-        "source": "WSJ",
-        "published": "Tue, 08 Sep 2026 15:37:59 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMzdDbWVSZS1UZjdwV19kdXlIejlhZ1pBYWtXcUtER09vczZpZ3VGUjV2M01hWlQycUFGTElJTFBVSTNaOUNmb1I2T1dDTjctUER3dFhtM2NqX3p2bU9OR1BISW9FcnZ3MS0wOWVMVU1sd0tVZ0d1WGd0c0RieFBSY01UbmpOSi05RXVyNVhqbnA3WGR0UTNNMnVaakFKRFowRHk1NGRzTnJwclR5NEpHSTYzWjFDOHh5bkE1X0djYmpFTnVi?oc=5"
+        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
+        "source": "LiteFinance",
+        "published": "Tue, 08 Sep 2026 17:30:20 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
       }
     ]
   }
