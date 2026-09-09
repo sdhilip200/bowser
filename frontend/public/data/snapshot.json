@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-09-09T18:44:33+00:00",
+  "generated_at": "2026-09-09T20:30:58+00:00",
   "fx": {
-    "nzd_per_usd": 1.700267,
-    "as_of": "Tue, 08 Sep 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.708006,
+    "as_of": "Wed, 09 Sep 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 99.3,
-      "latest_date": "2026-09-08",
-      "delta_1d_pct": 3.14,
-      "delta_30d_pct": 12.38,
+      "latest": 101.67,
+      "latest_date": "2026-09-09",
+      "delta_1d_pct": 3.83,
+      "delta_30d_pct": 20.91,
       "series": [
-        {
-          "date": "2025-09-08",
-          "usd": 66.02
-        },
         {
           "date": "2025-09-09",
           "usd": 66.39
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-09-08",
-          "usd": 99.3
+          "usd": 97.92
+        },
+        {
+          "date": "2026-09-09",
+          "usd": 101.67
         }
       ]
     },
     "wti": {
-      "latest": 94.29,
-      "latest_date": "2026-09-08",
-      "delta_1d_pct": 3.07,
-      "delta_30d_pct": 14.14,
+      "latest": 96.86,
+      "latest_date": "2026-09-09",
+      "delta_1d_pct": 4.12,
+      "delta_30d_pct": 22.21,
       "series": [
-        {
-          "date": "2025-09-08",
-          "usd": 62.26
-        },
         {
           "date": "2025-09-09",
           "usd": 62.63
@@ -2033,33 +2029,37 @@
         },
         {
           "date": "2026-09-08",
-          "usd": 94.29
+          "usd": 93.03
+        },
+        {
+          "date": "2026-09-09",
+          "usd": 96.86
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-09-08",
+    "as_of": "2026-09-09",
     "regular_91": {
-      "avg": 3.034,
-      "min": 2.786,
-      "max": 3.259,
-      "count": 64
+      "avg": 3.083,
+      "min": 2.778,
+      "max": 3.65,
+      "count": 74
     },
     "premium_95": {
-      "avg": 3.227,
-      "min": 2.836,
-      "max": 3.589,
+      "avg": 3.247,
+      "min": 2.926,
+      "max": 3.459,
       "count": 32
     },
     "premium_98": {
-      "avg": 3.369,
-      "min": 3.096,
-      "max": 3.599,
-      "count": 10
+      "avg": 3.34,
+      "min": 3.126,
+      "max": 3.469,
+      "count": 7
     },
     "diesel": {
-      "avg": 2.779,
+      "avg": 2.774,
       "min": 2.356,
       "max": 3.999,
       "count": 76
@@ -2070,8 +2070,8 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 148,
-    "observations_yesterday": 25,
+    "observations_today": 114,
+    "observations_yesterday": 66,
     "observations_older": 9
   },
   "mbie_waterfall": {
@@ -8582,8 +8582,8 @@
   "news": {
     "nz": [
       {
-        "title": "Diesel rebound pushes New Zealand construction costs higher - stuff.co.nz",
-        "source": "stuff.co.nz",
+        "title": "Diesel rebound pushes New Zealand construction costs higher - Stuff",
+        "source": "Stuff",
         "published": "Mon, 31 Aug 2026 23:24:48 GMT",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHlVZmJPLTQ1OHhaN2t3WjhYcHdLWFdIQUt6R205VDBxZGhXTEtDSVhvVS1PejNGM2JaektQUDk5enhCUDNBSVRYUTlfdGkydmFfU1N6UTBNeXJCcERRWmVOY0VSdmhjanIwQUpkUU1vY0xYbkYweXpMRThuSmpkUFlSeVJLVFZ6ZW1zZTYybXppWDhCc3BMUmRDNDNmd0gyUHl3?oc=5"
       },
@@ -8624,60 +8624,60 @@
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOekxYcUQ4Y21vRDFmeHFtVDExcVdZYk9JLVVvUTNKY3NnYmZJUHNMazBGVG9KZ0dnTmpfMEZYMXg3ZFBYMXVzQll0QlgwQ2g5NkJIMTRfajRma01Ib1l5VnJoV3plZWlfN0cwM05yeUFPTld5MjY4YzFoQWx4SkNBRUdRQkJrRTJjeHln?oc=5"
       },
       {
-        "title": "Fuel anxiety has more Kiwis plugging in - thepost.co.nz",
-        "source": "thepost.co.nz",
-        "published": "Sat, 15 Aug 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOFlHVmk0alJwMGhHemtQMlFpTlAtMU9DRkY5d1U1VklvWU9hRGNZVExGWEpnblNldWthNWw1bVh4WW5tNDMwclh4eDZmNmJMekt1U042RFBvRFotYTg0WW9XbGdEQVd2QmR3OVJBdU9FS2hyX2xreUJSNmdCTmJHbjhWSk5iWUV6?oc=5"
+        "title": "Air NZ passenger numbers fall as jet fuel price rises hit - rnz.co.nz",
+        "source": "rnz.co.nz",
+        "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWmZwcjZucW4yZ1N5eHhMNWhUSy04YU9fVENtSk5UbVZBUmdGQzNOeTNob3kzOXBabjQ2LWYxVGkxMnhvVTFZZ1ZYaEZqSXBhZjlBbkt1WlI4YmFfN3lKY0dFMS1sS1dMMl9ucUZrcUtmR3hoRzYwM0dYTWJOU2tKV0h5YWZDcmg1UnNOc0Z3WUtkYVluQnNhazhNSURjQ0dpd3c?oc=5"
       }
     ],
     "global": [
       {
-        "title": "Oil tops $100 as Middle East conflict intensifies - Honolulu Star-Advertiser",
-        "source": "Honolulu Star-Advertiser",
-        "published": "Wed, 09 Sep 2026 18:22:32 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVWZpVkRNODNEazVhUnliUVo4dXVWY04xUkViODg3Q1FMdGFoSWR4cThlTWpKbUhiSFdQS1QtV3dobTNIMUY0T0VWZWJqZDhINkZCN25RaGlSQXVxNVRLQ0pGZ1FwSVhNa0dRSVd1UnBVdEZhN3F6Qm5BbDQzTllJaDR6Q3cxZ0pfRUdiQUJ5QjhHZXlSVVRDVW8xMUNySGUtSmVvM3l2MzI?oc=5"
+        "title": "Global oil prices hit $101 per barrel as Middle East conflict roils markets - kten.com",
+        "source": "kten.com",
+        "published": "Wed, 09 Sep 2026 20:09:40 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNM1oyRnZXVGtFa1FjTi13YUZzMGhUTGgtVjNWZnhRdUxyWTFmdFdRNXJveHFOQWNkMzd0UGRrV3VBVVNubzdGMFU2Q0JCTzR4ZUIyaVIwSkZ3VFdCQUIyTW52d3dFeHZHOWRqQURSRzVSTzNEZ3dxV0lSUEpmR3liZWpHbmZIZktSZGxrVTZsRmpqV3pxai0wdlZpcFdzS2RnMTh6emRRQlA0TW5kZXBOMEpNTHZoY1dsSDI3WjZKQ3NBM3hqazlIaWU5OHY2c3NJMm5idkl0VTNzRHZIV1BWUDNGZk8wczN6ZzRRWEhsUTk?oc=5"
       },
       {
-        "title": "US EIA hikes oil price forecasts as Iran war drains global stockpile - WKZO",
-        "source": "WKZO",
-        "published": "Wed, 09 Sep 2026 18:02:39 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdFpwV240N1NTRXd3a1VNYlJabFBxRXhXYXZjY3JacGFHSjlZNEotbE8tWi0tc2x4TXlWQndKTlRTQkRORE0wcjdYNUhJX29RVU5wQWx3dXYxQl9KVGtDVTFfdEpoVGFTWWJlMEhlbGpKMjR0LWZLeEZoOTBadm1yWVJ5UDcyR0hkZWtTUUE5MmJYTW1UMTJncmh2NmpHUQ?oc=5"
+        "title": "Brent Crude Tops $100 for First Time Since July as US-Iran Fighting Escalates - The Media Line",
+        "source": "The Media Line",
+        "published": "Wed, 09 Sep 2026 20:03:59 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUjN6Y1Q3M1NPYkVWclM0RF9ROG8yRzdheHRnOGZCOU91eFFWYnctdEwxMFBNMmdVWjUzb3M0V1pwRnJMT0hjVFJUZnl1MzNEbzYzcWQyN2NCNXBfRDJxU25ES2tudV8td1c2azdPYzR5UDQwX0pkS2hTOGxwZkgxSHM3OXlrREpvUDNhZTNtN0RUU2FzZEFQeFhHeDdNUTVTd01BaXA1QjdiZmhFRkNGZFhn?oc=5"
       },
       {
-        "title": "Brent crude oil rises above $100 a barrel as Middle East conflict intensifies - Reuters",
+        "title": "Brent settles at over $100 a barrel as Middle East conflict intensifies - Reuters",
         "source": "Reuters",
-        "published": "Wed, 09 Sep 2026 17:45:32 GMT",
+        "published": "Wed, 09 Sep 2026 19:56:09 GMT",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV81aHB4Z3dteWpsZGxOM01KRFFXZ3hhZlBUUlJUb3Y0QXVXaWpfSXJxRGx0R2Z2LXRrb25jYWJBTUNxc3llTFNVdmRoQzkxRjlLc0czRUxKczdyYU8temtJbXJRUXNOUGpuRkdXenNZTFVLX3ZhUkFQZ191cjV3amlwZ0RocHBoUHNZYzVfZy1pSlFNNGlma0NMMFVvRFIxSXNUOTRyYnNDWU1qc0JxWmpDRHMyTmVj?oc=5"
       },
       {
-        "title": "Oil tops $100 as Middle East supply risks intensify - Oil & Gas Journal",
-        "source": "Oil & Gas Journal",
-        "published": "Wed, 09 Sep 2026 17:14:12 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTHB3MXh6VFFXeThtMGhLcGRldUh1NmRGVDN3XzNvVmRhVlBEek5NMThxdUR3cTkxM0xtcUJoSTRfci1yZ2c0bnVrRG9oUk5FNTRSNEMzc05uU1Q4UE1wRlJhOVZFT3NOT1NxM256cHVIX21SRHN1YWdZS2lqN3hPcFQ4S05pLVpIcEtReldmMHN5S1lJcjBXS0ZuOHlTcXdVaGZyZXpwVmVVT1NsMHdTRVEyMHdGc083cHRj?oc=5"
+        "title": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump - apnews.com",
+        "source": "apnews.com",
+        "published": "Wed, 09 Sep 2026 19:38:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdGg1NEo3VVRGTDl0eEFZVkVVWjVUTGtmVC1haUp5c2kzb1NYcXMzNFlVZk9rQl92VTNFREZuSDlBTEhYQ19Lci1ZV2tCTk1tLVRDMEcydzk4ZEZOY3dEMUhhSlU5eXdOVnBLQWRxUlk1bXl3QjNQWklTYm9jdVZ6NHB6V0FkamhIUFJJYjhsMVk5XzlOWnZfbm1IVTVmR05TYmc?oc=5"
       },
       {
-        "title": "Uganda Launches New Crude Grade as First Oil Exports Near - oilprice.com",
-        "source": "oilprice.com",
-        "published": "Wed, 09 Sep 2026 17:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb0Ztd3ljSVFXN1FVNFVDS3ZYeVVpcEM5bE9wU3VfM1B4emp5VUJ3R0ViVVhVeVpkZFFIaG5Qc1JFdl93VGRLRS0wSUh6cU85NjcyYXRmOWhza1dYbnRKMGd6VE42MXlySVF4SmQxWngzaEU1Y1FCQWZ2OEhrYnp3aWEtOE1zZHhjVmROd0FCRG9OLUlKVG9nc2JFb015UnB0cnfSAacBQVVfeXFMUFUtd0lPWndiV01NdGdpMS1kOU8yWW9iZ3ItSXZzQV9HZzJzOTIxT0lEZzZXR01rU2NLUkpoZlZZS1FBak5wWFhaREplQ0V4TURGcWdNczVDUVhOZGFTLXl0Rm5mSHhWdzNjazlUX3JadUszbjdrYkY3TVF0M2Q1V0VpRVA1SWl4UFA3NXdXd0gyTVlST2dIMTZnWWdzYjRONmZCX2ZDdzQ?oc=5"
-      },
-      {
-        "title": "Renewed Middle East Fighting Keeps Bid in Oil - WSJ",
+        "title": "Brent Crude Tops $100 A Barrel on Middle East Escalation - WSJ",
         "source": "WSJ",
-        "published": "Wed, 09 Sep 2026 16:42:00 GMT",
+        "published": "Wed, 09 Sep 2026 19:29:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPejBxVFJDamd2bjlxby1vZmhhSXc3bERlOXJLTVdia2dYWUNpdEhNU2Zxdk9mTHV0RFpSY1lSNFFrYXQ3RDZ1QjVWSndZMHFBRERLeEktalp5eDFYRlEzME9ndjZDYzEzSFdCa0s0RGRsQ09wR3V3akg4ejFpaWFSQUwxUFBnSkpXZW1yLVdpZHFwejBFX2pTN1RwNTYzanpaTmhIUEduenY2bUs4Z0NsUlA3SmZxZ0ZYekRnRzkzVHVXUXdZZHc?oc=5"
       },
       {
-        "title": "US, Iran Trade Strikes On Shipping As Oil Prices Surge Above $100 A Barrel - rferl.org",
-        "source": "rferl.org",
-        "published": "Wed, 09 Sep 2026 15:29:20 GMT",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GN0g4LTIzb1ZMTkdDQ0xJS3BrOXM1ZXJ4aDcxNlh4d0hjNVNGa3JiT3dzRDhDR0tHd3hfUllZbmZ2dTM3cDFSY3hfaWJvV1lONUc0U041d1p1MkhmS2VKNmRoWnVkem9RRWhRdFI5MldvS3PSAXZBVV95cUxQZGZrNkluWVJvZDgtVENNaWE3eFJkTDVsSkY1R2ZjWUg4Smh6NzlkY2cxcXczTGhHVlZGNldKeTRmR0xWV0NIWDlZdnl3dFlGci0tNThXOVRWZERsalQ1ZGdVVy1BSFJYZElWMVlldUpmQ3FVZUpR?oc=5"
+        "title": "Brent Hits $100 as U.S.-Iran Escalation, Houthi Strikes Deepen Gulf Supply Fears - WSJ",
+        "source": "WSJ",
+        "published": "Wed, 09 Sep 2026 19:29:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb1U4eTNZZ0F0VlUwYkJ1clV6eWxWWnV3QzFiVjBwTzdNNkJhMGJZN3hjQ0hCY3cxbFlabEc2UTc2WUg1dFpSZV9zZ0VvNURCeGJER2lkbTd5UWE1VWNvaDN1NDdlclk5c1RXR3A0VnZzSHRZY21HdnVPWHlpck5zV29LVVlwQlVoSmdHMXF4V2Z3cTdnWllHb0F3R0pYX3Bnai0yLWN4MkZuMHV2aTIyT2VQV2JYeVA4bHRmMFFPMGdPRm8?oc=5"
       },
       {
-        "title": "Oil prices climb over $100 per barrel as US war in Iran continues - ABC News - Breaking News, Latest News and Videos",
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "published": "Wed, 09 Sep 2026 15:22:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX0QxejlnLVRleDlrSkFQcWFfQ2s0d1N4WHdzVWxGWnZ3RzF6WFV3ZGI0RGpwVjlScnR6YzZzdVlCX2lOUTV6eEkwTS1nYVZweHRob1Bza3FqOERSeW01LWpqekZZY1NvNnRKQ1hON3Z4eV9YQ2JuV2dkcDRxZkhIUlVDbm9TTlFTZmV5UzMza1jSAZYBQVVfeXFMT0djYTR2UWNMX2dyUlBIa19XSE95VDMtdGFfTHpNZlA3UXgtZVp5QkVWY1NUS2pfbDZ6am1pbkEycy1JTndIdlFOUHpWTTlXR0hvS0tiOWNldXlxeFkwSHFwZFRtZXN5b1NzSEVLQUFNZFNpSWFvRktybXBYdHpZY1I4cHpPOVJ1Wk5QRkxhcDhmOHVDa3Rn?oc=5"
+        "title": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump - WHEC.com",
+        "source": "WHEC.com",
+        "published": "Wed, 09 Sep 2026 19:26:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM28xRGU5SGctczVhaFhnOGV0cEdqNEFfbE9odUgxYkpNMEloMzdoV2NKS0xFZnJNZk1UbFEtekdFaEUyWm1fb1FZWkkxV1R2VDlqOXhyLWF0LU1VZ01WNnNJanpZXy1yRzRLdzIzWjc4Rnk0MHhXcVFtMF81RVI5cy1RcS1nai1SM0hOVGprZ0NYRU44d1NUZkJialNqek5Cd1BsZm9sck15cVdVTVlSTW4wa0dscm1mMnpBZU9SR0ZNbVZiRDFydA?oc=5"
+      },
+      {
+        "title": "Oil surges past $101 to highest closing level since May as Middle East conflict intensifies - NBC News",
+        "source": "NBC News",
+        "published": "Wed, 09 Sep 2026 19:12:04 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaWsxSkpzekw3Y1IybTg0dk1CWkplQlBhTGpyTXRjX0tRZ1Baa0NQaDF0Znk3bkl4V19FTVpzcW5Vb3FXbmNWSmNoTEs2NW15cnJnYnExVDBlQkN4WExhSFctT092cloyMlU1cU8wbzk5Y09lTnFQUkRZZGFQZVUxSE1kSEdWYkI3WmJQbTdyWEFTSDBEaWpOcUZub0dNT3A5dkQ1eERNRV9IbmlvSUZKUTBNR3dMX21tUk9aemVkc0ZoVzlPNFA0?oc=5"
       }
     ]
   }
