@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T21:16:01+00:00",
+  "generated_at": "2026-09-09T23:24:39+00:00",
   "fx": {
     "nzd_per_usd": 1.708006,
     "as_of": "Wed, 09 Sep 2026 00:02:31 +0000"
@@ -8580,105 +8580,7 @@
   },
   "fuel_stocks": null,
   "news": {
-    "nz": [
-      {
-        "title": "Diesel rebound pushes New Zealand construction costs higher - stuff.co.nz",
-        "source": "stuff.co.nz",
-        "published": "Mon, 31 Aug 2026 23:24:48 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHlVZmJPLTQ1OHhaN2t3WjhYcHdLWFdIQUt6R205VDBxZGhXTEtDSVhvVS1PejNGM2JaektQUDk5enhCUDNBSVRYUTlfdGkydmFfU1N6UTBNeXJCcERRWmVOY0VSdmhjanIwQUpkUU1vY0xYbkYweXpMRThuSmpkUFlSeVJLVFZ6ZW1zZTYybXppWDhCc3BMUmRDNDNmd0gyUHl3?oc=5"
-      },
-      {
-        "title": "Air New Zealand plunges to $242 million loss as fuel and engine costs bite - RNZ",
-        "source": "RNZ",
-        "published": "Fri, 28 Aug 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2RCa21UWVhMTEZNUGtfbWVXelplREIyTTVNaEtSYzNzMXpyS1RVMHNDWDNoQm80Y3QwbUFMdnNDVjh3RWdvR3otT3pxbENSU2hBajJoOFJLdENObGxpZFNUTG5kalFQczlJck1lYzFfT0kxMmZ0RjBzUXpqbXRQMXM5dFBVTXJ5SW1xVXVnMzF3T1FoV2thbFhZQmEwSmJYeHo4N3EwRkxQaW1HbmN2OU1NQjkzWkVS?oc=5"
-      },
-      {
-        "title": "'Very challenging year': Air New Zealand posts $336 million loss - 1News",
-        "source": "1News",
-        "published": "Fri, 28 Aug 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5UGV3NHpNYlc5M0lfQnV1SGlQQktKd0JndGZLT25udzlRQ2tqLW9VNkM0MS1iaXl1U1hyQkxubWNOOHQya1p4akFCX3R0by1yUVRfM1VsUFhHTmF6T25NNUg5V1VOTlVZVHd6S2ZsRkFQWDIwTTB1SW5INndPVk0?oc=5"
-      },
-      {
-        "title": "'Chaotic world': How Air NZ boss plans to turn around company after $336m loss - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Fri, 28 Aug 2026 02:03:01 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOS2hzLU5ST2FOaDJqYXRIcTFhZ0RzSWhaRklHVmx6TElkODNNeHk2Wk5lU0JSWTl2TldBdnRHT20yemJMOUNFY1N2M3JQQWQ4TU10V1lGRlI0SHNhTnVVNEZRNGl4ZEQtYUMwamU4QlUyNlFiSWhzNWt0SnFaQS1BVGlBZjNsM0F4RFBDdWpDWW5fNmRCejJxel9JZFdRc0dzT19mUU5fbU9sMmJISFF1R1pDeFhiM2lpU1lPR2lnYmlDcS1xdm1HeGFzbEJhakgzUGhLRk52RWtrNHBkREh2ODZiYlU0SVNsRHRBcldhYmFjV3dLRnRuTjc2X3dtZnRGZlRtdjVZYUFYRjJGQl9tOWdibmF1cXVnUTMybl8xcmkxTHFt?oc=5"
-      },
-      {
-        "title": "Diesel burglaries more than double as fuel crime fears resurface - 1News",
-        "source": "1News",
-        "published": "Sun, 23 Aug 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSk50MjJGV3NOazZWcVBkdzJQNjJ5cGVWeUV2bDg0dllWNWtkVGRqWEpRUVZHODBlVUl4aElxOGFoRFZHWEF2c25XRmNZYml6Z1otazBQNDE0azdUbVNiSnNZcHBTWUdCQklldlltakpKVy1sR0VNaFlING1nZWxwVm1pUlMyamttOEh2YlR3WlFIM3lRNkxURzNFUVFEczRfMEE?oc=5"
-      },
-      {
-        "title": "‘Scheduling gap’ limits arrival of petrol and jet fuel to NZ - analyst watchful, not worried - thepost.co.nz",
-        "source": "thepost.co.nz",
-        "published": "Wed, 19 Aug 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSFcxcVNLYWNHRGE0cFJScnE0QmNZN0dtcWhPS2pydEE3ejZva2RwRmxFR3RHRXY4Ym90WjV3X25jaVdNWjQ1aDdpM0ExR2pSdGFvdlJjQmItNzN1VVdTSmx6eWdMc1ZKVkdlMmhsZVJqbzRCZUxmMFRfYk8wUkJ1b1VsM216Yk1XRERpQVQ0ZTBVZGtLaFBjY2lNaDBhdTF4U1ZISGZFdHdwM1BWNVNDN0FZS2IyODA4UnRmbmZ0dk44X3lX?oc=5"
-      },
-      {
-        "title": "New Zealand road user charging ‘open for business’ in 2027 - ITS International",
-        "source": "ITS International",
-        "published": "Tue, 18 Aug 2026 04:05:15 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOekxYcUQ4Y21vRDFmeHFtVDExcVdZYk9JLVVvUTNKY3NnYmZJUHNMazBGVG9KZ0dnTmpfMEZYMXg3ZFBYMXVzQll0QlgwQ2g5NkJIMTRfajRma01Ib1l5VnJoV3plZWlfN0cwM05yeUFPTld5MjY4YzFoQWx4SkNBRUdRQkJrRTJjeHln?oc=5"
-      },
-      {
-        "title": "Fuel anxiety has more Kiwis plugging in - thepost.co.nz",
-        "source": "thepost.co.nz",
-        "published": "Sat, 15 Aug 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOFlHVmk0alJwMGhHemtQMlFpTlAtMU9DRkY5d1U1VklvWU9hRGNZVExGWEpnblNldWthNWw1bVh4WW5tNDMwclh4eDZmNmJMekt1U042RFBvRFotYTg0WW9XbGdEQVd2QmR3OVJBdU9FS2hyX2xreUJSNmdCTmJHbjhWSk5iWUV6?oc=5"
-      }
-    ],
-    "global": [
-      {
-        "title": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump - AP News",
-        "source": "AP News",
-        "published": "Wed, 09 Sep 2026 20:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdGg1NEo3VVRGTDl0eEFZVkVVWjVUTGtmVC1haUp5c2kzb1NYcXMzNFlVZk9rQl92VTNFREZuSDlBTEhYQ19Lci1ZV2tCTk1tLVRDMEcydzk4ZEZOY3dEMUhhSlU5eXdOVnBLQWRxUlk1bXl3QjNQWklTYm9jdVZ6NHB6V0FkamhIUFJJYjhsMVk5XzlOWnZfbm1IVTVmR05TYmc?oc=5"
-      },
-      {
-        "title": "The global price of oil reached $100 a barrel on Wednesday for the first time since July as tensions in the Middle East escalated. That’s nearly 40 percent higher than on the eve of the war in Iran. - facebook.com",
-        "source": "facebook.com",
-        "published": "Wed, 09 Sep 2026 20:20:59 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONDgwc01qcVhIU25TYXhzNmRPVzNuWWpkNjJiSE1MVE5jZE01NG1STW53QnBjbkg3VEc4UDJIZGRqTW1PdDVEaDlPMV9sSHQ5d1QzZHhPSWVFZTNRMzNJUURCUDh4MlVMWm52RGhtNm1nZkNxYW5iMThLYm1OS2pQZGdRd3dvWGpkV1piak5OS3Z0S2tYZ1VvMWROUXJfMjBXMW1RTm5hZ2I0SC1Pbzg0OTIyZFZ3b2JreEdqNk0tMEJ3OFU1R1lXM21sNTRLTVB1Y0Jv?oc=5"
-      },
-      {
-        "title": "Brent Crude Tops $100 for First Time Since July as US-Iran Fighting Escalates - The Media Line",
-        "source": "The Media Line",
-        "published": "Wed, 09 Sep 2026 20:03:59 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUjN6Y1Q3M1NPYkVWclM0RF9ROG8yRzdheHRnOGZCOU91eFFWYnctdEwxMFBNMmdVWjUzb3M0V1pwRnJMT0hjVFJUZnl1MzNEbzYzcWQyN2NCNXBfRDJxU25ES2tudV8td1c2azdPYzR5UDQwX0pkS2hTOGxwZkgxSHM3OXlrREpvUDNhZTNtN0RUU2FzZEFQeFhHeDdNUTVTd01BaXA1QjdiZmhFRkNGZFhn?oc=5"
-      },
-      {
-        "title": "Brent settles at over $100 a barrel as Middle East conflict intensifies - Reuters",
-        "source": "Reuters",
-        "published": "Wed, 09 Sep 2026 19:56:09 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV81aHB4Z3dteWpsZGxOM01KRFFXZ3hhZlBUUlJUb3Y0QXVXaWpfSXJxRGx0R2Z2LXRrb25jYWJBTUNxc3llTFNVdmRoQzkxRjlLc0czRUxKczdyYU8temtJbXJRUXNOUGpuRkdXenNZTFVLX3ZhUkFQZ191cjV3amlwZ0RocHBoUHNZYzVfZy1pSlFNNGlma0NMMFVvRFIxSXNUOTRyYnNDWU1qc0JxWmpDRHMyTmVj?oc=5"
-      },
-      {
-        "title": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump - Boston Herald",
-        "source": "Boston Herald",
-        "published": "Wed, 09 Sep 2026 19:55:49 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV1NfNGhnbkNzX1JFSkVPdkNHaFdaOGZPZEMwaC1UNlFhaXMyazgwTVhGaGFSeDBrdDVpdmVDTnV0ZnFGWGM4VXZaMld2dU1qcUhLX2cxZkR1dVRzdmJ2UzRNX2xIekllelk2Q3RtaXg1U2ZkSTE0MC1ILW1FNlRCX1BMNHFCTHZ4bHdB?oc=5"
-      },
-      {
-        "title": "Brent Crude Tops $100 A Barrel on Middle East Escalation - WSJ",
-        "source": "WSJ",
-        "published": "Wed, 09 Sep 2026 19:29:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPejBxVFJDamd2bjlxby1vZmhhSXc3bERlOXJLTVdia2dYWUNpdEhNU2Zxdk9mTHV0RFpSY1lSNFFrYXQ3RDZ1QjVWSndZMHFBRERLeEktalp5eDFYRlEzME9ndjZDYzEzSFdCa0s0RGRsQ09wR3V3akg4ejFpaWFSQUwxUFBnSkpXZW1yLVdpZHFwejBFX2pTN1RwNTYzanpaTmhIUEduenY2bUs4Z0NsUlA3SmZxZ0ZYekRnRzkzVHVXUXdZZHc?oc=5"
-      },
-      {
-        "title": "Oil surges past $101 to highest closing level since May as Middle East conflict intensifies - NBC News",
-        "source": "NBC News",
-        "published": "Wed, 09 Sep 2026 19:12:04 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaWsxSkpzekw3Y1IybTg0dk1CWkplQlBhTGpyTXRjX0tRZ1Baa0NQaDF0Znk3bkl4V19FTVpzcW5Vb3FXbmNWSmNoTEs2NW15cnJnYnExVDBlQkN4WExhSFctT092cloyMlU1cU8wbzk5Y09lTnFQUkRZZGFQZVUxSE1kSEdWYkI3WmJQbTdyWEFTSDBEaWpOcUZub0dNT3A5dkQ1eERNRV9IbmlvSUZKUTBNR3dMX21tUk9aemVkc0ZoVzlPNFA0?oc=5"
-      },
-      {
-        "title": "Key oil benchmark tops $100 a barrel for first time since July - Politico",
-        "source": "Politico",
-        "published": "Wed, 09 Sep 2026 19:04:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS2lnQ0FmZWJuR3lOdHNHQzQ0ZjduekNOOFNleG83RlJQN0FHNmxZakpNT3VkT1l2UHB2SG96ank0QjhJRnpSRWRvT01UYlJUWTBwLVZZcERpc0VGeVJqeVpKWnpWWHp3eTdGOXJCQ0V0a1dpR2xDRmxQbGJOOHpXa1cwaFZ2aDA?oc=5"
-      }
-    ]
+    "nz": [],
+    "global": []
   }
 }
