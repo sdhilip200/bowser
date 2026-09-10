@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T23:24:39+00:00",
+  "generated_at": "2026-09-10T01:18:48+00:00",
   "fx": {
     "nzd_per_usd": 1.708006,
     "as_of": "Wed, 09 Sep 2026 00:02:31 +0000"
@@ -8580,7 +8580,105 @@
   },
   "fuel_stocks": null,
   "news": {
-    "nz": [],
-    "global": []
+    "nz": [
+      {
+        "title": "Diesel rebound pushes New Zealand construction costs higher - Stuff",
+        "source": "Stuff",
+        "published": "Mon, 31 Aug 2026 23:24:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHlVZmJPLTQ1OHhaN2t3WjhYcHdLWFdIQUt6R205VDBxZGhXTEtDSVhvVS1PejNGM2JaektQUDk5enhCUDNBSVRYUTlfdGkydmFfU1N6UTBNeXJCcERRWmVOY0VSdmhjanIwQUpkUU1vY0xYbkYweXpMRThuSmpkUFlSeVJLVFZ6ZW1zZTYybXppWDhCc3BMUmRDNDNmd0gyUHl3?oc=5"
+      },
+      {
+        "title": "Air New Zealand plunges to $242 million loss as fuel and engine costs bite - RNZ",
+        "source": "RNZ",
+        "published": "Fri, 28 Aug 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2RCa21UWVhMTEZNUGtfbWVXelplREIyTTVNaEtSYzNzMXpyS1RVMHNDWDNoQm80Y3QwbUFMdnNDVjh3RWdvR3otT3pxbENSU2hBajJoOFJLdENObGxpZFNUTG5kalFQczlJck1lYzFfT0kxMmZ0RjBzUXpqbXRQMXM5dFBVTXJ5SW1xVXVnMzF3T1FoV2thbFhZQmEwSmJYeHo4N3EwRkxQaW1HbmN2OU1NQjkzWkVS?oc=5"
+      },
+      {
+        "title": "'Very challenging year': Air New Zealand posts $336 million loss - 1News",
+        "source": "1News",
+        "published": "Fri, 28 Aug 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5UGV3NHpNYlc5M0lfQnV1SGlQQktKd0JndGZLT25udzlRQ2tqLW9VNkM0MS1iaXl1U1hyQkxubWNOOHQya1p4akFCX3R0by1yUVRfM1VsUFhHTmF6T25NNUg5V1VOTlVZVHd6S2ZsRkFQWDIwTTB1SW5INndPVk0?oc=5"
+      },
+      {
+        "title": "Fuel and Engines Sink Air New Zealand Result - What’s On Invers",
+        "source": "What’s On Invers",
+        "published": "Fri, 28 Aug 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zTEVlYlRZMmM2cjIxVmppejY3UWJzR2ZxMnRKRDNJUzhReTVORXU0RVN5UDMwRlVKbVpMLWE1MzJZWm56WEdOUUl4MHpOc1hTeHJjd3NWbV9oQzNqbGNrUzRQbUNUZ2FWQ3U4dkNOc2JyaVpuOXBGQjJn?oc=5"
+      },
+      {
+        "title": "'Chaotic world': How Air NZ boss plans to turn around company after $336m loss - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Fri, 28 Aug 2026 02:03:01 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOS2hzLU5ST2FOaDJqYXRIcTFhZ0RzSWhaRklHVmx6TElkODNNeHk2Wk5lU0JSWTl2TldBdnRHT20yemJMOUNFY1N2M3JQQWQ4TU10V1lGRlI0SHNhTnVVNEZRNGl4ZEQtYUMwamU4QlUyNlFiSWhzNWt0SnFaQS1BVGlBZjNsM0F4RFBDdWpDWW5fNmRCejJxel9JZFdRc0dzT19mUU5fbU9sMmJISFF1R1pDeFhiM2lpU1lPR2lnYmlDcS1xdm1HeGFzbEJhakgzUGhLRk52RWtrNHBkREh2ODZiYlU0SVNsRHRBcldhYmFjV3dLRnRuTjc2X3dtZnRGZlRtdjVZYUFYRjJGQl9tOWdibmF1cXVnUTMybl8xcmkxTHFt?oc=5"
+      },
+      {
+        "title": "Air New Zealand loss: Middle East conflict caused $205m hit to result - BusinessDesk | NZ",
+        "source": "BusinessDesk | NZ",
+        "published": "Thu, 27 Aug 2026 21:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcmNsaHZTVnY1Y2M1bmZDTlRmcUFtWTYwNENDeGZwcWxhTG9HZTBZcm5iUGhPMkVtcmlSS3JTUEZ4aTFjMmNRdk12d0N6Vk5yaW5DMmI3b1RLM3hKQ1FmUVUyZEtBSC0xRmc2cFY0bTBLQnZ4Q1RxTUFLTl9obV95ZERBa3RlbFdsbklHZy14XzduMlVxZi01cnp0a2pIQXZZRHFZWFdrS2E1SWZEMXhn?oc=5"
+      },
+      {
+        "title": "Fuel costs drive first retail sales fall in nearly two years | NZ Adviser - mpamag.com",
+        "source": "mpamag.com",
+        "published": "Mon, 24 Aug 2026 09:58:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSjNpend5N3plZzRTdTliejlnRmZVV3gtc0JDRS03NGN1aE5GUk1FODJYR2tJQ2RmMEY3QnFNbEVkeE1qM2Y5YjBFdm82UXdNbFlVeENfSTdaUVM1RE01UUJvWUwxMGM4b183TVFydk85OVJYcmo2RXFTckg1dWFnSVBnaDNFZjl3THlvZXVCVmRkUkktdmJjbDVET3ZzZ0pCWjhxREttRkw1Zw?oc=5"
+      },
+      {
+        "title": "Diesel burglaries more than double as fuel crime fears resurface - 1News",
+        "source": "1News",
+        "published": "Sun, 23 Aug 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSk50MjJGV3NOazZWcVBkdzJQNjJ5cGVWeUV2bDg0dllWNWtkVGRqWEpRUVZHODBlVUl4aElxOGFoRFZHWEF2c25XRmNZYml6Z1otazBQNDE0azdUbVNiSnNZcHBTWUdCQklldlltakpKVy1sR0VNaFlING1nZWxwVm1pUlMyamttOEh2YlR3WlFIM3lRNkxURzNFUVFEczRfMEE?oc=5"
+      }
+    ],
+    "global": [
+      {
+        "title": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump - apnews.com",
+        "source": "apnews.com",
+        "published": "Thu, 10 Sep 2026 00:35:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdGg1NEo3VVRGTDl0eEFZVkVVWjVUTGtmVC1haUp5c2kzb1NYcXMzNFlVZk9rQl92VTNFREZuSDlBTEhYQ19Lci1ZV2tCTk1tLVRDMEcydzk4ZEZOY3dEMUhhSlU5eXdOVnBLQWRxUlk1bXl3QjNQWklTYm9jdVZ6NHB6V0FkamhIUFJJYjhsMVk5XzlOWnZfbm1IVTVmR05TYmc?oc=5"
+      },
+      {
+        "title": "Oil extends gains, with Brent above $101 after U.S. destroys Iranian oil tankers - CNBC",
+        "source": "CNBC",
+        "published": "Thu, 10 Sep 2026 00:20:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcV94M21oS090d3U1X3c1UlBpV2VfSmpDSjFlLTl2WTRUQXNYSVR1THdQREVYTDJNSXlEcERrckMzSG5DbnJ4aFpHQnhvaUduVzBRNjFJVklzNkVQbEZxYlV3Z3ZTVUNmS3ZMdVBHVTdYTl9VZUlUcnVMQThKTHYwaUcwWUhoajFMMmRxRkphWU_SAZYBQVVfeXFMUHcyc1h1YmRjS2lxOEc5WDltZmtlRjRpMUdQczdWbmRleG5CUERDam1sV3pzNTQzdHdMMi0wV3k5OWxnOHpxQjNEQW8ySXZjaldiMWRRZDQ4bXdFM29WNFNYb3g1S2NIXzJaVlZ3V1MwNTFETjZ2Q1Q4YnA0S1Mtc29LemVMempLTTkxb2NVc0NWRW45cmdB?oc=5"
+      },
+      {
+        "title": "Oil Breaks $100and This Rally Has Legs - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Thu, 10 Sep 2026 00:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWWduQ3VZNkFodE5NTDdCVXhQZnNKak5kUm1oaXNaenRSeDBhYUpIRDdfSThmNC1qUGtUWUg3UUJnYnVoX2NtdlVhbFNNTHpDalBScnBIUEI2S2FHRmYtTnQtX0piOEZfano4ek9YaEgwZHBENXJHSmpubnFWUmExNzlSV2t2bVHSAYwBQVVfeXFMTm56bDZEaWpXSUNZb042TWFLS1B6NnV0RHY1LU1YYkVhU3NHS3lUSkd0Z2huMXV3cUUxcnYtWGw5aDItQm92a2hUX25Vbk10YVl4bExPRDNWa0JkZ1BROWN6b2FEZExJaXd4bnFNVkFrSEF5ZUtSRk5hUnR6eTExWnJCanVlaC0xRzREMjA?oc=5"
+      },
+      {
+        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
+        "source": "LiteFinance",
+        "published": "Wed, 09 Sep 2026 21:08:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
+      },
+      {
+        "title": "Oil’s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates - MarketWatch",
+        "source": "MarketWatch",
+        "published": "Wed, 09 Sep 2026 20:36:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmR0aUgzSGRINEhDbXhUWmo0VVFHWXNxT2NNOTQzeXBGQW5pbjlIaThkckY4UjJuLUtVMUJUbExLQUpFZ19JX0FiWkdNeExqNVI3LS1HbGJCSnJZcmVEbFAxbHRvWExPRVhSV2ZjQld0eU1xcUU4S2tmVnRjQnItcHFmQUg1N29rSDktT2ZwaWRUaXduODNFWg?oc=5"
+      },
+      {
+        "title": "The global price of oil reached $100 a barrel on Wednesday for the first time since July as tensions in the Middle East escalated. That’s nearly 40 percent higher than on the eve of the war in Iran. - facebook.com",
+        "source": "facebook.com",
+        "published": "Wed, 09 Sep 2026 20:20:59 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONDgwc01qcVhIU25TYXhzNmRPVzNuWWpkNjJiSE1MVE5jZE01NG1STW53QnBjbkg3VEc4UDJIZGRqTW1PdDVEaDlPMV9sSHQ5d1QzZHhPSWVFZTNRMzNJUURCUDh4MlVMWm52RGhtNm1nZkNxYW5iMThLYm1OS2pQZGdRd3dvWGpkV1piak5OS3Z0S2tYZ1VvMWROUXJfMjBXMW1RTm5hZ2I0SC1Pbzg0OTIyZFZ3b2JreEdqNk0tMEJ3OFU1R1lXM21sNTRLTVB1Y0Jv?oc=5"
+      },
+      {
+        "title": "Brent Crude Tops $100 for First Time Since July as US-Iran Fighting Escalates - The Media Line",
+        "source": "The Media Line",
+        "published": "Wed, 09 Sep 2026 20:03:59 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUjN6Y1Q3M1NPYkVWclM0RF9ROG8yRzdheHRnOGZCOU91eFFWYnctdEwxMFBNMmdVWjUzb3M0V1pwRnJMT0hjVFJUZnl1MzNEbzYzcWQyN2NCNXBfRDJxU25ES2tudV8td1c2azdPYzR5UDQwX0pkS2hTOGxwZkgxSHM3OXlrREpvUDNhZTNtN0RUU2FzZEFQeFhHeDdNUTVTd01BaXA1QjdiZmhFRkNGZFhn?oc=5"
+      },
+      {
+        "title": "Brent settles at over $100 a barrel as Middle East conflict intensifies - reuters.com",
+        "source": "reuters.com",
+        "published": "Wed, 09 Sep 2026 19:56:09 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV81aHB4Z3dteWpsZGxOM01KRFFXZ3hhZlBUUlJUb3Y0QXVXaWpfSXJxRGx0R2Z2LXRrb25jYWJBTUNxc3llTFNVdmRoQzkxRjlLc0czRUxKczdyYU8temtJbXJRUXNOUGpuRkdXenNZTFVLX3ZhUkFQZ191cjV3amlwZ0RocHBoUHNZYzVfZy1pSlFNNGlma0NMMFVvRFIxSXNUOTRyYnNDWU1qc0JxWmpDRHMyTmVj?oc=5"
+      }
+    ]
   }
 }
