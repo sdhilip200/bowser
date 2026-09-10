@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-09-10T18:35:17+00:00",
+  "generated_at": "2026-09-10T20:28:37+00:00",
   "fx": {
-    "nzd_per_usd": 1.708006,
-    "as_of": "Wed, 09 Sep 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.710876,
+    "as_of": "Thu, 10 Sep 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 101.67,
-      "latest_date": "2026-09-09",
-      "delta_1d_pct": 3.83,
-      "delta_30d_pct": 20.91,
+      "latest": 108.2,
+      "latest_date": "2026-09-10",
+      "delta_1d_pct": 6.91,
+      "delta_30d_pct": 19.24,
       "series": [
-        {
-          "date": "2025-09-09",
-          "usd": 66.39
-        },
         {
           "date": "2025-09-10",
           "usd": 67.49
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-09-09",
-          "usd": 101.67
+          "usd": 101.21
+        },
+        {
+          "date": "2026-09-10",
+          "usd": 108.2
         }
       ]
     },
     "wti": {
-      "latest": 96.86,
-      "latest_date": "2026-09-09",
-      "delta_1d_pct": 4.12,
-      "delta_30d_pct": 22.21,
+      "latest": 102.9,
+      "latest_date": "2026-09-10",
+      "delta_1d_pct": 7.13,
+      "delta_30d_pct": 21.83,
       "series": [
-        {
-          "date": "2025-09-09",
-          "usd": 62.63
-        },
         {
           "date": "2025-09-10",
           "usd": 63.67
@@ -2033,45 +2029,49 @@
         },
         {
           "date": "2026-09-09",
-          "usd": 96.86
+          "usd": 96.05
+        },
+        {
+          "date": "2026-09-10",
+          "usd": 102.9
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-09-09",
+    "as_of": "2026-09-10",
     "regular_91": {
-      "avg": 3.083,
-      "min": 2.778,
-      "max": 3.65,
-      "count": 74
+      "avg": 3.046,
+      "min": 2.666,
+      "max": 3.259,
+      "count": 70
     },
     "premium_95": {
-      "avg": 3.247,
-      "min": 2.926,
-      "max": 3.459,
-      "count": 32
+      "avg": 3.2,
+      "min": 2.816,
+      "max": 3.439,
+      "count": 34
     },
     "premium_98": {
-      "avg": 3.34,
-      "min": 3.126,
-      "max": 3.469,
-      "count": 7
+      "avg": 3.274,
+      "min": 3.006,
+      "max": 3.399,
+      "count": 5
     },
     "diesel": {
-      "avg": 2.774,
-      "min": 2.356,
+      "avg": 2.768,
+      "min": 2.266,
       "max": 3.999,
-      "count": 76
+      "count": 82
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 4.0,
+      "min": 4.0,
+      "max": 4.0,
+      "count": 1
     },
-    "observations_today": 114,
-    "observations_yesterday": 66,
+    "observations_today": 119,
+    "observations_yesterday": 64,
     "observations_older": 9
   },
   "mbie_waterfall": {
@@ -8600,16 +8600,10 @@
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2RCa21UWVhMTEZNUGtfbWVXelplREIyTTVNaEtSYzNzMXpyS1RVMHNDWDNoQm80Y3QwbUFMdnNDVjh3RWdvR3otT3pxbENSU2hBajJoOFJLdENObGxpZFNUTG5kalFQczlJck1lYzFfT0kxMmZ0RjBzUXpqbXRQMXM5dFBVTXJ5SW1xVXVnMzF3T1FoV2thbFhZQmEwSmJYeHo4N3EwRkxQaW1HbmN2OU1NQjkzWkVS?oc=5"
       },
       {
-        "title": "'Chaotic world': How Air NZ boss plans to turn around company after $336m loss - nzherald.co.nz",
-        "source": "nzherald.co.nz",
+        "title": "'Chaotic world': How Air NZ boss plans to turn around company after $336m loss - NZ Herald",
+        "source": "NZ Herald",
         "published": "Fri, 28 Aug 2026 02:03:01 GMT",
         "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOS2hzLU5ST2FOaDJqYXRIcTFhZ0RzSWhaRklHVmx6TElkODNNeHk2Wk5lU0JSWTl2TldBdnRHT20yemJMOUNFY1N2M3JQQWQ4TU10V1lGRlI0SHNhTnVVNEZRNGl4ZEQtYUMwamU4QlUyNlFiSWhzNWt0SnFaQS1BVGlBZjNsM0F4RFBDdWpDWW5fNmRCejJxel9JZFdRc0dzT19mUU5fbU9sMmJISFF1R1pDeFhiM2lpU1lPR2lnYmlDcS1xdm1HeGFzbEJhakgzUGhLRk52RWtrNHBkREh2ODZiYlU0SVNsRHRBcldhYmFjV3dLRnRuTjc2X3dtZnRGZlRtdjVZYUFYRjJGQl9tOWdibmF1cXVnUTMybl8xcmkxTHFt?oc=5"
-      },
-      {
-        "title": "Diesel burglaries more than double as fuel crime fears resurface - 1News",
-        "source": "1News",
-        "published": "Sun, 23 Aug 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSk50MjJGV3NOazZWcVBkdzJQNjJ5cGVWeUV2bDg0dllWNWtkVGRqWEpRUVZHODBlVUl4aElxOGFoRFZHWEF2c25XRmNZYml6Z1otazBQNDE0azdUbVNiSnNZcHBTWUdCQklldlltakpKVy1sR0VNaFlING1nZWxwVm1pUlMyamttOEh2YlR3WlFIM3lRNkxURzNFUVFEczRfMEE?oc=5"
       },
       {
         "title": "‘Scheduling gap’ limits arrival of petrol and jet fuel to NZ - analyst watchful, not worried - thepost.co.nz",
@@ -8618,66 +8612,72 @@
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSFcxcVNLYWNHRGE0cFJScnE0QmNZN0dtcWhPS2pydEE3ejZva2RwRmxFR3RHRXY4Ym90WjV3X25jaVdNWjQ1aDdpM0ExR2pSdGFvdlJjQmItNzN1VVdTSmx6eWdMc1ZKVkdlMmhsZVJqbzRCZUxmMFRfYk8wUkJ1b1VsM216Yk1XRERpQVQ0ZTBVZGtLaFBjY2lNaDBhdTF4U1ZISGZFdHdwM1BWNVNDN0FZS2IyODA4UnRmbmZ0dk44X3lX?oc=5"
       },
       {
-        "title": "New Zealand road user charging ‘open for business’ in 2027 - itsinternational.com",
-        "source": "itsinternational.com",
-        "published": "Tue, 18 Aug 2026 04:05:15 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOekxYcUQ4Y21vRDFmeHFtVDExcVdZYk9JLVVvUTNKY3NnYmZJUHNMazBGVG9KZ0dnTmpfMEZYMXg3ZFBYMXVzQll0QlgwQ2g5NkJIMTRfajRma01Ib1l5VnJoV3plZWlfN0cwM05yeUFPTld5MjY4YzFoQWx4SkNBRUdRQkJrRTJjeHln?oc=5"
-      },
-      {
         "title": "Falling fuel prices take edge off inflation data - RNZ",
         "source": "RNZ",
         "published": "Mon, 17 Aug 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdmVxd1ctWGl5ZHlZczFvWm42Y0pMRmk4eXZjZnprYzlEbGJ6ZG5MSUdvZzItU1JwUWFrSFdOT3YyVzNueWtOQXIxbF9vb2JTNEhkZXktcXo1Y1lIYWNnU3RzVXNzekdEV3BlNXo1TjIzTUdsZEZvRWlaNEFqRGd4cnJGUFpBa1dMazNma3FfQ3RobGtKeWpV?oc=5"
+      },
+      {
+        "title": "Fuel anxiety has more Kiwis plugging in - thepost.co.nz",
+        "source": "thepost.co.nz",
+        "published": "Sat, 15 Aug 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOFlHVmk0alJwMGhHemtQMlFpTlAtMU9DRkY5d1U1VklvWU9hRGNZVExGWEpnblNldWthNWw1bVh4WW5tNDMwclh4eDZmNmJMekt1U042RFBvRFotYTg0WW9XbGdEQVd2QmR3OVJBdU9FS2hyX2xreUJSNmdCTmJHbjhWSk5iWUV6?oc=5"
+      },
+      {
+        "title": "Air NZ passenger numbers fall as jet fuel price rises hit - RNZ",
+        "source": "RNZ",
+        "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWmZwcjZucW4yZ1N5eHhMNWhUSy04YU9fVENtSk5UbVZBUmdGQzNOeTNob3kzOXBabjQ2LWYxVGkxMnhvVTFZZ1ZYaEZqSXBhZjlBbkt1WlI4YmFfN3lKY0dFMS1sS1dMMl9ucUZrcUtmR3hoRzYwM0dYTWJOU2tKV0h5YWZDcmg1UnNOc0Z3WUtkYVluQnNhazhNSURjQ0dpd3c?oc=5"
       }
     ],
     "global": [
       {
-        "title": "WTI Oil nears $100 as Middle East tensions keep supply concerns elevated - FXStreet",
-        "source": "FXStreet",
-        "published": "Thu, 10 Sep 2026 18:06:36 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeTRqaTFDMng4Nm13OEFWQzdFNUV4d3RqNFdmSDM5R0FJYUV4a2F3eFBubGNYempnd1k5YmltZ3FDeE04bGpySGxKQkV4SHdZQWhZbFhDOV9VNmFMN2psbXBHbEVZNGRDR19pb05ieUdydWdTanJOSlNNeThXNDh6cVdvYWF4ZFhIVWlJUXI3clU2M3JhMklDNXFmSjZRWnpMRk1pM3pndEZnYV9zY3JiZGp5amI?oc=5"
+        "title": "Oil Futures Jump as Middle East Escalation Raises Supply Worries - WSJ",
+        "source": "WSJ",
+        "published": "Thu, 10 Sep 2026 19:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYjZoc2pfLVpmNkZ4SXJUMWN2b05QTHhLZE5LYy1DdVlTNXp0dkpRRzJSUEhqUzlvNGJPYkxBOUdjd0hjTGtJd0FOQkhvWEJibGdyOHAzYTdkUWRBcTRNQjdaSEUyRHpUT3YtNGk1d050VUw3S0NKN0ZnZTNHelIyU3E5dE04b1JWbGlTUXZ5aEMwWjRySzlZZQ?oc=5"
       },
       {
-        "title": "Oil surges 6%, Brent and US crude both surpass $100 on more tanker attacks - Reuters",
-        "source": "Reuters",
-        "published": "Thu, 10 Sep 2026 17:52:23 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVTlKVk5vOWlpYndFb2Flck9IczhtU2k5X1I3a0tlMjA2dkRmMEJncVFZdWctZW9wX05NaU9vUzNwMU5ld3UycklJMjhHaHB3WDdZVF81Z0t1WWNZak8tTFFwdDZtTHZvUnozMnVpUmtEanVsN2ZxM1A2QkxZS3IydDByTlQtd3RFYThzVnlwVmR0eGMyT1RQQldPZVp4VE1oSm5TcHBXVTd1dXM?oc=5"
+        "title": "US struck 5 Iranian tankers – 3 were also linked to Russia’s shadow fleet - Euromaidan Press",
+        "source": "Euromaidan Press",
+        "published": "Thu, 10 Sep 2026 19:15:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQWMzaGJwcm5Ma0ozMUpMNUM3blFVUkdadlc1Y2Fydmd6c0E5cWJxenR5cDZhbGlMV2dhMUhVemxGbEJrcmJIVW1NQm9jMHZPSE5TRUl0dmtKSWtGcWc0enN6clhVcThJNHRRNVBsYWFNdDVOVTg2ZjItUmpnSjNsVXo3alRsWWJlbEsyOHZKc1BXZmU5Rlc4UUdKazJHQ3g0OVhZYlZRRGVOQQ?oc=5"
       },
       {
-        "title": "Crude Oil Prices Soar on Fears US-Iran War to Persist - Barchart.com",
-        "source": "Barchart.com",
-        "published": "Thu, 10 Sep 2026 16:33:59 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNUJSRmVFaWx6ZUwydENBUllqcDFNQ1JBYWFPclN2LURzblBzbWx5WjdBelpXRUVOWkFRVXYwYkEyYTR6SVFqa2JadGZIRURVcEFGQUdvd1RucjAyVUxoNDY2SXA5Mkt0bnZxQmF0YllFVTA0NzVtLUFwdzIwSlduMkdHM0ZnVGh1a1hXLVpfcF96WmJRdXRwQzBLU0liQQ?oc=5"
-      },
-      {
-        "title": "US oil jumps above $100 and stock futures slump - KWKT - FOX 44",
-        "source": "KWKT - FOX 44",
-        "published": "Thu, 10 Sep 2026 16:32:32 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdDlMdzZzV3A4Mko2dElPbERMTWpfVmFIRHRPMGFXamdXeGREYjhXeVFNanNBTjdkUnQtRS1ZMTJyc1lUVmRkd29oelBUQkhZUmhvY0daQ29IY09tbFJUZ1A4UEc5dm1iUUJOZzZqUG1IUVRDZkJnVEx4d3dwVHNXaXJXczlCVUEzd0RZX19saEN0Y3dLZUhScmdyYzFDOTh0d1NRMzRTZlhqaUc5N1poTW5n0gG3AUFVX3lxTE9pNVJMZ0EyazdYZ0F0dkJQdWFQMjVNRm5OOFdndzN0dnJWWXkzY3NSU2J1MjZzdGZfaTR4NmYwLV9ZSlNVTlNFcUdYdE93MWU4enU0dFo0MENaQ3RJZTFtNWZjY1ZUbER1ZDh4Q3FxTlp5b3FWZTZHN2d3VWhHdGJrZDU5dlpvcjZod0pScFdtVHkwbmc2TXJnNng5OGl4azZuZEQ3WnE4ZmgzMENSZ2FFYnF4bWRJaw?oc=5"
-      },
-      {
-        "title": "Oil prices surge to $107 for the first time since May as bond yields jump - NBC News",
+        "title": "Oil prices soar to $108 for the first time since May as bond yields jump - NBC News",
         "source": "NBC News",
-        "published": "Thu, 10 Sep 2026 16:32:00 GMT",
+        "published": "Thu, 10 Sep 2026 19:10:45 GMT",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQUc0eUlnRzFSZkJ5NWp4TFc3c3RqY2t5YVV2N1p4c3lFZmJZdHE5NG1KRDF3S0NIc19YdTZsMXB1T0VYTUFCRWx5eDd4aVF4WnpUcVJyUzJpbzB1aUZ3cWtwRExJeGk4c0VGNjVDVzdmZEpYQmMtcWxhWUxXT3BHZDMxSTBxRHV1?oc=5"
+      },
+      {
+        "title": "Oil Prices Surge as Stocks and Bonds Wobble - The New York Times",
+        "source": "The New York Times",
+        "published": "Thu, 10 Sep 2026 18:55:56 GMT",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mVmNITlFwV0FlUC0xOEItRThDaHhmYkVGOGMyUTRaalNEc1lHQXRDaGx6SUF6dUd4NVd6NXdSOExaN1ZGTWdkWEEwZDhTYUFmVFY2MW1LV2I3LTJWM1VRaVVFZkFtV2s1Q0VkWDZjdmJGWWlKM3Y2ZHZuZHVSQQ?oc=5"
+      },
+      {
+        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
+        "source": "LiteFinance",
+        "published": "Thu, 10 Sep 2026 18:33:57 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
+      },
+      {
+        "title": "Global bond sell-off resumes as surging oil prices stoke fears about inflation - The Guardian",
+        "source": "The Guardian",
+        "published": "Thu, 10 Sep 2026 18:15:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNnZTNldEQUVCaWRsTTNsRGZfSlZqVXVfUXMwZkFpUWVNZEdoamVnUTZvZXRocnZKd1d2cVk2M0tlVEFwLVV0N3A3dGJkbU1yVnZBM0w2MG9kaU4zOUdpTXhSS3U0QjJmU1hPUm5fc09VTDZGaHNUdFAyVjVqVFo1eTQxM1NLWHh2LUN4U1pHbW81TURycVVHTV9iOExmQmlPcndLZXlYdEZ6WVJ2N3FMOFZEVHpvTzZQWnNzS0xkSldnMDNVbnVGeHRWMA?oc=5"
+      },
+      {
+        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate - BBC",
+        "source": "BBC",
+        "published": "Thu, 10 Sep 2026 17:38:31 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qbDJ3UmRJSUp3QzFjUk9JSWM3OFNpUzFXVWdqTUdGZ2kxUzh2cVRVdF9JQW0yajQ0RnA1ampZUHJJYk0tQTRGSzRQblhDTVpYeklnMHlRcHBkZw?oc=5"
       },
       {
         "title": "Oil jumps to $105, pushing up chances of a US interest rate increase - aljazeera.com",
         "source": "aljazeera.com",
         "published": "Thu, 10 Sep 2026 16:17:34 GMT",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc19jMzJlM0xreS14RUljWjdkMnVWa0NXVW1aMy1mVU5sRTNDdVFxU3pHNXU1blhvZFJCZlBWbnFCN1ZDOEFCZkt3WkFlTFBWLURDRFd5Ql82TWF6bUtkT1pPY0dTa0NyOUR4NGY4S2NNeGl4aXpGSVloenJneWZHbzd4elI5cjM0Vk9ySEs5WXFRMEl0dmV3cEhpZHpzVExkNEVsenVqdy1KRDlwaUdN0gG0AUFVX3lxTFBXcTZ2anZvVEQzRTMtUkpEeVY1bmpnVERpYnRqbWNiMDBad1ZuYkkzRmxHdDF2ZzBWNlNvUG5DaTNhb2E1c3lUSktwS0ctS19HZktKRXdtb3FSWUFsbFlhVlE3R2RkMjNzMF9qMnc4LXFoMndXYTVYdHJzY291eTJqeGZfOHFxS19LVHhtcW1RRUxkUll3dlBURm5pazZSTDFnMF92WHdfc2FyLU9zQ3JvLWdOeA?oc=5"
-      },
-      {
-        "title": "U.S. Crude Inventories Fall As Brent Prices Soar - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Thu, 10 Sep 2026 16:14:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcGNHbUQtVzJhUzJxclVjcWF2OGM4QVVlbUphQmMzYlB0SFhiQ096NnhvQ255MVcwR1dtR2xzNWl4UksxekgzcjFMd2NqMjh3RnJDaVR0bFZOd3RuTnBNN3duN0FNVVV3SlN4dE9yaGNsR0hrSlREZzM3TmstSkZXX3R1YW5RaHRaM2Q1dkxrU0tPS0XSAZgBQVVfeXFMTUxrdGZJeWNzazB3ZXpfLUM3VGlnNElSZmFjUnpiUXRUZDNaWEVOYUlrVDB6eGdSYnc3U2ZpZTZHVDBHZklNTC13QmFOR1U2Y282R2thbE5aTVNwMEJwZEN0WkpIVnlFNEFyRWp2c1k0cElkWExlbFFlampPU0hJTjNBNk14N1dVOGJJSDFGYU1OVmEzR0t6MzQ?oc=5"
-      },
-      {
-        "title": "Brent Trades Above $100 Amid Gulf Supply Risks - WSJ",
-        "source": "WSJ",
-        "published": "Thu, 10 Sep 2026 15:58:59 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYjZoc2pfLVpmNkZ4SXJUMWN2b05QTHhLZE5LYy1DdVlTNXp0dkpRRzJSUEhqUzlvNGJPYkxBOUdjd0hjTGtJd0FOQkhvWEJibGdyOHAzYTdkUWRBcTRNQjdaSEUyRHpUT3YtNGk1d050VUw3S0NKN0ZnZTNHelIyU3E5dE04b1JWbGlTUXZ5aEMwWjRySzlZZQ?oc=5"
       }
     ]
   }
