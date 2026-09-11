@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-09-11T18:40:32+00:00",
+  "generated_at": "2026-09-11T20:32:17+00:00",
   "fx": {
-    "nzd_per_usd": 1.710876,
-    "as_of": "Thu, 10 Sep 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.720936,
+    "as_of": "Fri, 11 Sep 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 108.2,
-      "latest_date": "2026-09-10",
-      "delta_1d_pct": 6.91,
-      "delta_30d_pct": 19.24,
+      "latest": 104.76,
+      "latest_date": "2026-09-11",
+      "delta_1d_pct": -2.67,
+      "delta_30d_pct": 17.67,
       "series": [
-        {
-          "date": "2025-09-10",
-          "usd": 67.49
-        },
         {
           "date": "2025-09-11",
           "usd": 66.37
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-09-10",
-          "usd": 108.2
+          "usd": 107.63
+        },
+        {
+          "date": "2026-09-11",
+          "usd": 104.76
         }
       ]
     },
     "wti": {
-      "latest": 102.9,
-      "latest_date": "2026-09-10",
-      "delta_1d_pct": 7.13,
-      "delta_30d_pct": 21.83,
+      "latest": 100.32,
+      "latest_date": "2026-09-11",
+      "delta_1d_pct": -2.11,
+      "delta_30d_pct": 20.01,
       "series": [
-        {
-          "date": "2025-09-10",
-          "usd": 63.67
-        },
         {
           "date": "2025-09-11",
           "usd": 62.37
@@ -2033,46 +2029,50 @@
         },
         {
           "date": "2026-09-10",
-          "usd": 102.9
+          "usd": 102.48
+        },
+        {
+          "date": "2026-09-11",
+          "usd": 100.32
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-09-10",
+    "as_of": "2026-09-11",
     "regular_91": {
-      "avg": 3.046,
-      "min": 2.666,
-      "max": 3.259,
+      "avg": 3.079,
+      "min": 2.776,
+      "max": 3.56,
       "count": 70
     },
     "premium_95": {
-      "avg": 3.2,
-      "min": 2.816,
-      "max": 3.439,
-      "count": 34
+      "avg": 3.266,
+      "min": 2.936,
+      "max": 3.479,
+      "count": 33
     },
     "premium_98": {
-      "avg": 3.274,
-      "min": 3.006,
-      "max": 3.399,
-      "count": 5
+      "avg": 3.372,
+      "min": 3.126,
+      "max": 3.479,
+      "count": 10
     },
     "diesel": {
-      "avg": 2.768,
-      "min": 2.266,
+      "avg": 2.806,
+      "min": 2.416,
       "max": 3.999,
-      "count": 82
+      "count": 81
     },
     "lpg": {
-      "avg": 4.0,
-      "min": 4.0,
-      "max": 4.0,
-      "count": 1
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 119,
-    "observations_yesterday": 64,
-    "observations_older": 9
+    "observations_today": 63,
+    "observations_yesterday": 120,
+    "observations_older": 11
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8594,8 +8594,8 @@
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHlVZmJPLTQ1OHhaN2t3WjhYcHdLWFdIQUt6R205VDBxZGhXTEtDSVhvVS1PejNGM2JaektQUDk5enhCUDNBSVRYUTlfdGkydmFfU1N6UTBNeXJCcERRWmVOY0VSdmhjanIwQUpkUU1vY0xYbkYweXpMRThuSmpkUFlSeVJLVFZ6ZW1zZTYybXppWDhCc3BMUmRDNDNmd0gyUHl3?oc=5"
       },
       {
-        "title": "Air New Zealand Revenue Rose. Engine and Fuel Costs Still Pushed It Into the Red - airwaysmag.com",
-        "source": "airwaysmag.com",
+        "title": "Air New Zealand Revenue Rose. Engine and Fuel Costs Still Pushed It Into the Red - Airways Magazine",
+        "source": "Airways Magazine",
         "published": "Sat, 29 Aug 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQXFmTDllZVN3U3Y3QmppOWhMUVhWbGUzYlE4aTNwek1aeVFXZGJNcU44NU41djNhRndPd2lqVXlYWHZsZnN2M1RuTXBnclRxZjhCelc4enotVFFpc1pORVNLaFl4Q2tyRjBiZlpHVHdwMXV2VXE0R2N6Y1h2ZmNVel9QWWNXa25k?oc=5"
       },
@@ -8618,8 +8618,8 @@
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zTEVlYlRZMmM2cjIxVmppejY3UWJzR2ZxMnRKRDNJUzhReTVORXU0RVN5UDMwRlVKbVpMLWE1MzJZWm56WEdOUUl4MHpOc1hTeHJjd3NWbV9oQzNqbGNrUzRQbUNUZ2FWQ3U4dkNOc2JyaVpuOXBGQjJn?oc=5"
       },
       {
-        "title": "'Chaotic world': How Air NZ boss plans to turn around company after $336m loss - nzherald.co.nz",
-        "source": "nzherald.co.nz",
+        "title": "'Chaotic world': How Air NZ boss plans to turn around company after $336m loss - NZ Herald",
+        "source": "NZ Herald",
         "published": "Fri, 28 Aug 2026 02:03:01 GMT",
         "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOS2hzLU5ST2FOaDJqYXRIcTFhZ0RzSWhaRklHVmx6TElkODNNeHk2Wk5lU0JSWTl2TldBdnRHT20yemJMOUNFY1N2M3JQQWQ4TU10V1lGRlI0SHNhTnVVNEZRNGl4ZEQtYUMwamU4QlUyNlFiSWhzNWt0SnFaQS1BVGlBZjNsM0F4RFBDdWpDWW5fNmRCejJxel9JZFdRc0dzT19mUU5fbU9sMmJISFF1R1pDeFhiM2lpU1lPR2lnYmlDcS1xdm1HeGFzbEJhakgzUGhLRk52RWtrNHBkREh2ODZiYlU0SVNsRHRBcldhYmFjV3dLRnRuTjc2X3dtZnRGZlRtdjVZYUFYRjJGQl9tOWdibmF1cXVnUTMybl8xcmkxTHFt?oc=5"
       },
@@ -8632,14 +8632,32 @@
     ],
     "global": [
       {
+        "title": "US House to vote on Russia sanctions backed by late Senator Graham - Reuters",
+        "source": "Reuters",
+        "published": "Fri, 11 Sep 2026 19:43:18 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXo0TE8tLVZ2VzF0TjRlTFJBbEZIRDVqWndXMTNMb0VlT1lxd1JBMEdpNGJmaVE2a2Q2emtmTUZ2NVdvOUloVEdrdnVrOVRnSTRWbmd4MGNSUzFXR3JUR0o5ZHloaU5JRzd5TVNtenpjd3ZBNk5aZU9ubVE5aTRlTUtFM0M1dWFCUGVZcEp0b01SejVmS0p4Z2RHV2YyRm1PQUR0UzUxeUtJM2NmQzJVdTVsRQ?oc=5"
+      },
+      {
+        "title": "Oil extends rally on further Middle East disruptions - Oil & Gas Journal",
+        "source": "Oil & Gas Journal",
+        "published": "Fri, 11 Sep 2026 19:36:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSS1pRmJNdm91dEhud0cwQXdMdXp6M0xfNEM0dGRmN1pDVVFqeEotVW1EOWl2Z1hzcmpPRWFrLVNCUExraV90Mk96eUxDMElSSVlibDZUZk41ellWMGFEYUxiMnNLSWtrOWxaNGZPZl9fUDItampsMXFpVThLa3JPRVNtaTFoOUFHcWtRVEpCWl9YMXNvLTM0RGhZT0JFMTY4Y1hldWZIemxiU0QyNXA1eFpFcHdjNHEzZ1dzU1psVmNWZw?oc=5"
+      },
+      {
+        "title": "Energy Markets Rattled After Saudi Pipeline Attacks - The New York Times",
+        "source": "The New York Times",
+        "published": "Fri, 11 Sep 2026 19:28:34 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMWVvcm9Wd1lzb2hKWlhRMmVTeXhHbXRGd1AxLXFYbmg2UTVKVWUtTnFXV0hMWFBQUGZQV0tQU2pubk5NNjI1VUNGTF9tZEhuc3JxTXZxT2pPSVI5ekdQbmFKTXROTklrdG5BcFRYU0ppa2Z0QmtjdUp4VXlSVURzYzVBaTQzQ0E?oc=5"
+      },
+      {
         "title": "US House to Vote Next Week on Russia Sanctions Bill That May Include Tariffs on Oil Buyers - bloomingbit",
         "source": "bloomingbit",
         "published": "Fri, 11 Sep 2026 18:00:36 GMT",
         "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EZm16b0h0NDlVZFVxbC1RY0x1YnhJUFczYVNGMWhEZS1IVDh3QnFMcmhPcVFmOHp3RHE3MWhNVDlJd2dzbWxYY3Jfd1hrc0dvbVV5OQ?oc=5"
       },
       {
-        "title": "US House to take up Graham's Russia sanctions bill next week - The Kyiv Independent",
-        "source": "The Kyiv Independent",
+        "title": "US House to take up Graham's Russia sanctions bill next week - kyivindependent.com",
+        "source": "kyivindependent.com",
         "published": "Fri, 11 Sep 2026 17:58:37 GMT",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTnRNNTlXYk1aUkxaMnBReERRRzRXWDdKWkRULV9qMkZEX2NaWklPQnBaWEpuU3o3anpkN2hqWVE2enhuel9QYUQ2RUJsLUhZdHhCd1ZJdGdTM1ZDT0lvcDhRaGFPWnNpVFNDem0wRUdXT2piVUJEZDBDUTZkN2pxa2VQU0MtWXQ0QjQtTnA2aTZQdw?oc=5"
       },
@@ -8650,34 +8668,16 @@
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNlB2dWVtajluRWZNLVFzbjJxSXQtVGcxWWtfcW1UVGJCYXppaDV1NnVWTURoZmQwRXJoWU04WnNFX0xjYU9XMkVrS3lTVF9Qbk1veDNMVnFXZFhleXNpLXhJMHB4dzNobTFxbWpPc01LNDlOR0tSM0tfREdyd2dDWk5HZUt6RUVpZWRhZGozTlNDSGtvcl8xbDNFQzgyX3VVS19US0k1TmkzNk9mTXVicnhxeFRTTmxZSkRvcUxFNTRjUDdVYXZDT2J1eGdMU293LWpiOFhWUk4?oc=5"
       },
       {
-        "title": "Diesel Jumps Above $6 a Gallon, Adding to Inflation Pressure - The New York Times",
-        "source": "The New York Times",
-        "published": "Fri, 11 Sep 2026 16:34:56 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMWVvcm9Wd1lzb2hKWlhRMmVTeXhHbXRGd1AxLXFYbmg2UTVKVWUtTnFXV0hMWFBQUGZQV0tQU2pubk5NNjI1VUNGTF9tZEhuc3JxTXZxT2pPSVI5ekdQbmFKTXROTklrdG5BcFRYU0ppa2Z0QmtjdUp4VXlSVURzYzVBaTQzQ0E?oc=5"
-      },
-      {
         "title": "Sanctions Weaken Russia’s Oil Refining Sector as Drone Strikes Disrupt Recovery - Межа. Новини України.",
         "source": "Межа. Новини України.",
         "published": "Fri, 11 Sep 2026 15:58:58 GMT",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzVzZvbXhBTC1ReGhiYlJWWm1IdWpCN0t3MkxVUGpuemN0LUpzYjlIdjVwdzBlUVFzUmI0aWhZOHAxNzBSenFYSmpCTTdLSEQtYlhVcjJmanJFNUpzcVB3X2E4QUEtYnVrb29JTTJLYVZKZlRL?oc=5"
       },
       {
-        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
-        "source": "LiteFinance",
+        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - litefinance.org",
+        "source": "litefinance.org",
         "published": "Fri, 11 Sep 2026 15:58:02 GMT",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
-      },
-      {
-        "title": "Russia Sanctions Bill Scheduled for a House Vote Next Week - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "published": "Fri, 11 Sep 2026 15:30:45 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdzhXU0hyclZKWmQ2bU5ueU05ZDhjcE9LdHlhTVFTMHpCcjZpbnVKYjk1MHd0ZVpFYlhabVNlaVVLTkxpNlJGWVlrU09RcXV3a040QUg3MnFzVDBNMU90Y1lTb01OcTBHRDBXbWs0N2stT0JXTWo2ZnpSbjhTQ1Y1YVZiZGR3UEVwV0lVY2VFdk02QW5VejRUNWZMbHRNUnlfR3ZWa1FmY3ltb3pualdpbG1B?oc=5"
-      },
-      {
-        "title": "Diesel soars to $6.05 a gallon as Middle East hostilities lead to oil supply uncertainty - Truckers News",
-        "source": "Truckers News",
-        "published": "Fri, 11 Sep 2026 14:26:15 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWlRjS2hvaHlRX3hHQlAxYWtnSHQ5Z0Q4OUo4Z0NFRzBhRC1MRy11ajczeHFvOC12eXhvZ3dUN2Z5b2hZS3ROdnpzcDdnSzF2djJ0c2lBUTBLVUh6R1M3WHhqNWFucjZySGFlX002NVlUM19JQVBJQU9EVk1qWTBrUjBxWVFvSDdNTS0tUjZmeXZCRElGOHVuNkhiSFljUGJBYkdId2ZrNjJoVDJBekpGNnUwMC1odW13REZnbXo4Z1BsWDhmaUg1Sm1Lay1FemFrcmpr?oc=5"
       }
     ]
   }
