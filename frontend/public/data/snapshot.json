@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-13T18:58:56+00:00",
+  "generated_at": "2026-09-13T20:23:59+00:00",
   "fx": {
-    "nzd_per_usd": 1.719599,
-    "as_of": "Sat, 12 Sep 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.719432,
+    "as_of": "Sun, 13 Sep 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
@@ -11,10 +11,6 @@
       "delta_1d_pct": -2.81,
       "delta_30d_pct": 17.5,
       "series": [
-        {
-          "date": "2025-09-12",
-          "usd": 66.99
-        },
         {
           "date": "2025-09-15",
           "usd": 67.44
@@ -1024,10 +1020,6 @@
       "delta_30d_pct": 19.69,
       "series": [
         {
-          "date": "2025-09-12",
-          "usd": 62.69
-        },
-        {
           "date": "2025-09-15",
           "usd": 63.3
         },
@@ -2031,40 +2023,40 @@
     }
   },
   "nz_retail": {
-    "as_of": "2026-09-12",
+    "as_of": "2026-09-13",
     "regular_91": {
-      "avg": 3.106,
+      "avg": 3.11,
       "min": 2.776,
       "max": 3.56,
-      "count": 75
+      "count": 68
     },
     "premium_95": {
-      "avg": 3.277,
+      "avg": 3.266,
       "min": 2.936,
-      "max": 3.599,
-      "count": 43
+      "max": 3.489,
+      "count": 28
     },
     "premium_98": {
-      "avg": 3.362,
+      "avg": 3.406,
       "min": 3.126,
-      "max": 3.5,
-      "count": 8
+      "max": 3.52,
+      "count": 7
     },
     "diesel": {
-      "avg": 2.808,
+      "avg": 2.815,
       "min": 2.416,
       "max": 3.999,
-      "count": 87
+      "count": 68
     },
     "lpg": {
-      "avg": 4.7,
-      "min": 4.7,
-      "max": 4.7,
-      "count": 1
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 23,
-    "observations_yesterday": 146,
-    "observations_older": 45
+    "observations_today": 126,
+    "observations_yesterday": 7,
+    "observations_older": 38
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8574,8 +8566,8 @@
   "news": {
     "nz": [
       {
-        "title": "Why officials are 'reasonably confident' of avoiding fuel supply shocks - RNZ",
-        "source": "RNZ",
+        "title": "Why officials are 'reasonably confident' of avoiding fuel supply shocks - rnz.co.nz",
+        "source": "rnz.co.nz",
         "published": "Sat, 12 Sep 2026 03:31:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQWhKUERsU3RQTzltU0xtdU9MQW53RGtvSHR0M1oydFVrQ21mcnlxY2lvMTMzMTdiRHlNamU2bG5ab3RGdHQ2YlllSDFfTVBqc1dzTlk5a09kM3BJUlZndktxU3RlU29mdGRObmpEM2FIRi1JTy0zMjJodXVYMVJHR2lHVXlNdFh5N1Q4cWVfeTlpTnAtOGpiREVUcDhoNW04c2g0Y2dzVkZZM0J5Wnpfd0hsQQ?oc=5"
       },
@@ -8610,8 +8602,8 @@
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zTEVlYlRZMmM2cjIxVmppejY3UWJzR2ZxMnRKRDNJUzhReTVORXU0RVN5UDMwRlVKbVpMLWE1MzJZWm56WEdOUUl4MHpOc1hTeHJjd3NWbV9oQzNqbGNrUzRQbUNUZ2FWQ3U4dkNOc2JyaVpuOXBGQjJn?oc=5"
       },
       {
-        "title": "Air New Zealand plunges to $242 million loss as fuel and engine costs bite - RNZ",
-        "source": "RNZ",
+        "title": "Air New Zealand plunges to $242 million loss as fuel and engine costs bite - rnz.co.nz",
+        "source": "rnz.co.nz",
         "published": "Fri, 28 Aug 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2RCa21UWVhMTEZNUGtfbWVXelplREIyTTVNaEtSYzNzMXpyS1RVMHNDWDNoQm80Y3QwbUFMdnNDVjh3RWdvR3otT3pxbENSU2hBajJoOFJLdENObGxpZFNUTG5kalFQczlJck1lYzFfT0kxMmZ0RjBzUXpqbXRQMXM5dFBVTXJ5SW1xVXVnMzF3T1FoV2thbFhZQmEwSmJYeHo4N3EwRkxQaW1HbmN2OU1NQjkzWkVS?oc=5"
       },
@@ -8666,10 +8658,10 @@
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ibG90cDl1RmZIOEVGZVJCLTNEVzZfNVJzX204UW5ya2lBZ1dWeUg4Y0stUUtpcUhoSW4zWDN0NnI2NGI3bnpkQTF0NVpGU2pNSTd3WElDTU82N3o0anVicFB3?oc=5"
       },
       {
-        "title": "Oil Prices Surge On Supply Risk, Brent Crude Rises 8% In 5 Days - MarketForces Africa",
-        "source": "MarketForces Africa",
-        "published": "Sun, 13 Sep 2026 11:48:53 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVzF3eUM1NGZwY1BlZWFBOHlnNVJXcFBhUTJNUENwNFh5UmNtSWtiTjNXSEgxM01fMFdsZjl3UFFVV0RoMXpEUUJESGIzVGlSVDN4UnF2bGExWjBteC1sNXUyMDFBWWx6YV8xNmtFMFBpY3lKUUN2SC1FZ242MEZleGdEMU1rOHBBTVVwLUh6SE1IZDBUdld0QkFmXzVEXzlDQlE?oc=5"
+        "title": "Russia Sanctions Bill: Can Trump Impose 100% Tariffs on India and China? - Diplomacy and Law",
+        "source": "Diplomacy and Law",
+        "published": "Sun, 13 Sep 2026 06:32:17 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VZ2kwRTN6VGpfdkxNajEza21JVlh0a2RlakE1bEhiUHJTOGVnYkllc2FyeHBvZlc2eXlPVUxCTjBSdkJaN0pZS3BfdjIxWnJDc3Q2MDFBbmtERjRZZVhUYktYaEw3SlR2Mmc?oc=5"
       }
     ]
   }
