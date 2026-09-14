@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T01:18:38+00:00",
+  "generated_at": "2026-09-14T06:36:05+00:00",
   "fx": {
     "nzd_per_usd": 1.719432,
     "as_of": "Sun, 13 Sep 2026 00:02:31 +0000"
@@ -8566,6 +8566,12 @@
   "news": {
     "nz": [
       {
+        "title": "Domestic Growth Slows; International Inflation Grows - Scoop - New Zealand News",
+        "source": "Scoop - New Zealand News",
+        "published": "Mon, 14 Sep 2026 02:05:35 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX3ZWR1pTNEZTR1BRUGlOcHJ3a0FNcFpkQ1k0dHZ6Yl9yTkZKUkR4U2dNM1QtZFpJd1lHNy0zZDd4QXJSbXdwV3BHcThvOTgzX1VKS3puY2NsM1lpcF9LbTVTcjBlVXFRRDhjc29tQUtnOUFzU2tsVjR6azdESjdlMUpWaEVxcW9vdm41Q0x3Q3dGQy1pRFRF?oc=5"
+      },
+      {
         "title": "Why officials are 'reasonably confident' of avoiding fuel supply shocks - RNZ",
         "source": "RNZ",
         "published": "Sat, 12 Sep 2026 03:31:00 GMT",
@@ -8578,8 +8584,8 @@
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORG5XajgzUVFrN0kwLXRUc0lCa3JibkRWZElVVlNRMFdYbzRTend3aUFqMDRHYVJiWTI0c3dWbllYd2VhcnhqVkNWNjdpd3dHelNudW0tYy1lVUNyV1czRFNLVVhTLURSNVdVcDNCczNUYzBZTW9JOFpwRndZZFFlQnNmX2NvUld0enR3NFpQWjJINlRUdkxweXc0VEx3TVlFYUs4d21aZ3JCR2oxRmF0bFpR?oc=5"
       },
       {
-        "title": "Diesel rebound pushes New Zealand construction costs higher - Stuff",
-        "source": "Stuff",
+        "title": "Diesel rebound pushes New Zealand construction costs higher - stuff.co.nz",
+        "source": "stuff.co.nz",
         "published": "Mon, 31 Aug 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHlVZmJPLTQ1OHhaN2t3WjhYcHdLWFdIQUt6R205VDBxZGhXTEtDSVhvVS1PejNGM2JaektQUDk5enhCUDNBSVRYUTlfdGkydmFfU1N6UTBNeXJCcERRWmVOY0VSdmhjanIwQUpkUU1vY0xYbkYweXpMRThuSmpkUFlSeVJLVFZ6ZW1zZTYybXppWDhCc3BMUmRDNDNmd0gyUHl3?oc=5"
       },
@@ -8590,14 +8596,14 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQXFmTDllZVN3U3Y3QmppOWhMUVhWbGUzYlE4aTNwek1aeVFXZGJNcU44NU41djNhRndPd2lqVXlYWHZsZnN2M1RuTXBnclRxZjhCelc4enotVFFpc1pORVNLaFl4Q2tyRjBiZlpHVHdwMXV2VXE0R2N6Y1h2ZmNVel9QWWNXa25k?oc=5"
       },
       {
-        "title": "'Very challenging year': Air New Zealand posts $336 million loss - 1News",
-        "source": "1News",
+        "title": "'Very challenging year': Air New Zealand posts $336 million loss - 1news.co.nz",
+        "source": "1news.co.nz",
         "published": "Fri, 28 Aug 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5UGV3NHpNYlc5M0lfQnV1SGlQQktKd0JndGZLT25udzlRQ2tqLW9VNkM0MS1iaXl1U1hyQkxubWNOOHQya1p4akFCX3R0by1yUVRfM1VsUFhHTmF6T25NNUg5V1VOTlVZVHd6S2ZsRkFQWDIwTTB1SW5INndPVk0?oc=5"
       },
       {
-        "title": "Fuel and Engines Sink Air New Zealand Result - whatsoninvers.nz",
-        "source": "whatsoninvers.nz",
+        "title": "Fuel and Engines Sink Air New Zealand Result - What’s On Invers",
+        "source": "What’s On Invers",
         "published": "Fri, 28 Aug 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zTEVlYlRZMmM2cjIxVmppejY3UWJzR2ZxMnRKRDNJUzhReTVORXU0RVN5UDMwRlVKbVpMLWE1MzJZWm56WEdOUUl4MHpOc1hTeHJjd3NWbV9oQzNqbGNrUzRQbUNUZ2FWQ3U4dkNOc2JyaVpuOXBGQjJn?oc=5"
       },
@@ -8606,62 +8612,56 @@
         "source": "RNZ",
         "published": "Fri, 28 Aug 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2RCa21UWVhMTEZNUGtfbWVXelplREIyTTVNaEtSYzNzMXpyS1RVMHNDWDNoQm80Y3QwbUFMdnNDVjh3RWdvR3otT3pxbENSU2hBajJoOFJLdENObGxpZFNUTG5kalFQczlJck1lYzFfT0kxMmZ0RjBzUXpqbXRQMXM5dFBVTXJ5SW1xVXVnMzF3T1FoV2thbFhZQmEwSmJYeHo4N3EwRkxQaW1HbmN2OU1NQjkzWkVS?oc=5"
-      },
-      {
-        "title": "'Chaotic world': How Air NZ boss plans to turn around company after $336m loss - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Fri, 28 Aug 2026 02:03:01 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOS2hzLU5ST2FOaDJqYXRIcTFhZ0RzSWhaRklHVmx6TElkODNNeHk2Wk5lU0JSWTl2TldBdnRHT20yemJMOUNFY1N2M3JQQWQ4TU10V1lGRlI0SHNhTnVVNEZRNGl4ZEQtYUMwamU4QlUyNlFiSWhzNWt0SnFaQS1BVGlBZjNsM0F4RFBDdWpDWW5fNmRCejJxel9JZFdRc0dzT19mUU5fbU9sMmJISFF1R1pDeFhiM2lpU1lPR2lnYmlDcS1xdm1HeGFzbEJhakgzUGhLRk52RWtrNHBkREh2ODZiYlU0SVNsRHRBcldhYmFjV3dLRnRuTjc2X3dtZnRGZlRtdjVZYUFYRjJGQl9tOWdibmF1cXVnUTMybl8xcmkxTHFt?oc=5"
       }
     ],
     "global": [
       {
-        "title": "Widening Mideast Instability Squeezes Global Oil Supplies - WSJ",
-        "source": "WSJ",
-        "published": "Mon, 14 Sep 2026 00:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQek1GbE56OFlTSzZMX1JMam9zLTZCR2NkT0I2bFY1a0ljUVJWZWM2LXdkenI5ZXVxbmNZYW1MMG4wNm1rQ2ZuZlVveEF0eDZGOFE0Y2kwODIwS0NqOFVOTlQ5bjkzakRIbEM4RlFadXQtcjZ2cEdKdzh3MURLVkZOVEp1XzctaUVNeWxETk1zTVNRb0VQMzVDUkpvQ1lEZVFJeFcwSmQ0OA?oc=5"
+        "title": "IEA cuts oil demand outlook - Oil & Gas Middle East",
+        "source": "Oil & Gas Middle East",
+        "published": "Mon, 14 Sep 2026 06:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtYlRDeW1NUklaS2J5WHp5R2x1RzNiNExWMHhPVUlLZFNsMVJPQzRWb3VYYVZKQXgyTTNmS0FfQ3JHdnFicDVCTXRVUGRtRDhZUDRqeGhRRVJNYzNsYVg1ZGpOTWpTMHhQc0pGczNEN2g0ZzJIRjNJ?oc=5"
       },
       {
-        "title": "Oil prices jump more than 2% after new strikes on Saudi, Strait of Hormuz - reuters.com",
-        "source": "reuters.com",
-        "published": "Sun, 13 Sep 2026 23:33:26 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXNvWlpHUEh2bzNITUYtX04zUG1vclFCeDZ1NVdQTkNXUk5OTmRESElsUXUyQjNsYVU1d2tEMFlNRjB1VXVnenR4UHZzd3F3dEZWR2tWSVZMREFiZXF6NjR5SlB5VmdaNXpTWHQ3UF9POFRGanpoR0NxZUV3ZUU4alAycW9mcGdLak5lQ2NXdlpHQ3I3eDVRM3JDWmI3SGdYUjZsbnJSaUVySHk3UFl4Y3AxVGFZbmg5?oc=5"
+        "title": "WTI Crude Climbs as Saudi Attack Rekindles Supply Fears - TradingPedia",
+        "source": "TradingPedia",
+        "published": "Mon, 14 Sep 2026 06:04:08 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN1ZFYVNRc3QtVkxnRlRrRXhONVR3ZGhfTGR6TGVTVWwyTXJMMktaWWFDajNPNE1ic3B0WWV5aTEyeHlkcWRYTE5RUVVUWEtPNEhrSjlCbGZfU0tleWs1TzFXa2RMU3VMbllmX1cxUWRoRkJaMFhOVV9IYVMyN3pPU1ltWFZIRGRZeHg2QmU4OEJoLUN3dGZKQ19sRV8?oc=5"
       },
       {
-        "title": "Middle East Turmoil: Pipeline Shutdown, Meeting Postponed, and Oil Prices Surge - Forth.News",
-        "source": "Forth.News",
-        "published": "Sun, 13 Sep 2026 23:11:38 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ibG90cDl1RmZIOEVGZVJCLTNEVzZfNVJzX204UW5ya2lBZ1dWeUg4Y0stUUtpcUhoSW4zWDN0NnI2NGI3bnpkQTF0NVpGU2pNSTd3WElDTU82N3o0anVicFB3?oc=5"
+        "title": "COMMENTARY: Oil markets survived the Iran war sprint. Now comes the marathon - Reuters",
+        "source": "Reuters",
+        "published": "Mon, 14 Sep 2026 06:02:49 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYkNyZjhwWkFHcjR0aVV2b3lPNFROSy0tNDZBQVJpWE9JelJyVWhtNFJjWlY3OW56NmdXY2s3Q0luV1h1cGZnRXJiM0VzMWxqVDFROENnOEFFMHpPN2VfWXJYTjZ3TW1EWlZLdU16clZBN28wVlI4SXJYeWR1U3kzZlAyempIWXVhaC1LdWNKbVo3QS1YMjZucjZnd3FTdnNaWmpNd2phODkxTlFwcng2aWo3WjZhdUdCOXZBejRyaW5kdw?oc=5"
       },
       {
-        "title": "Oil Prices Jump on Energy Supply Worries - The New York Times",
-        "source": "The New York Times",
-        "published": "Sun, 13 Sep 2026 22:29:36 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObV9VdmtUR0dLNm84eTMyUE5sdWtTUzVPUE9RTGJYZmNvdndNaXRocGNlTGhjTXJ1V2EzYV9lVHp2c1NpUDRkcDdFdUE5akZPME9FazZXVG9wbEU1ZEk4TGZYRl9JSGJNenBFSWJoZzJkRG5HeFFjMDFwd01mQTdqNjZQai1PU3ZtRlBNTHRYZEg5VUU?oc=5"
+        "title": "Brent crude oil price hits $108 - Pars Today",
+        "source": "Pars Today",
+        "published": "Mon, 14 Sep 2026 05:59:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10MG1FNTVMMzJHNVM3cTB3RWJ2NW1lbHVUVXNsQ2EyRjFpTTBwdW1QSHJyWUtuVTFVeXBPWXEwWWFTZW00aUd4WXkyNnZlMVdhUXdSSTdfcWg1ZExrQWdUZGRKOVJiQy1hck83UDBvc0Nab2szUndFbHY3Nk43QQ?oc=5"
       },
       {
-        "title": "Further Oil Price Spikes Could Rekindle Recession Fears - Crude Oil Prices Today | OilPrice.com",
+        "title": "Brent Hits $108 as Saudi Pipeline Shutdown Deepens Supply Fears - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Sun, 13 Sep 2026 21:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdERGM1lxRUJ0U1ZNVEZmbWJsNV9takZ5ZHZwZnd2OF96VjZwY01oY2dTMG1pdS0zM3R5WUY5Zi1SeTdYSkNrMWk3a3RscXhtUVhBUHRmZnVmZG9yU2dUeGpObmFSRGZGZGRYRDloclE3MmJhWkplaDRYYXJ3N0lKR1RJUHo4c0NkZGJRNjlLclczdDVkTzM0clRDdHJCQi1N0gGmAUFVX3lxTE5hZ1pkVWx1Zy03Zm13S2tmMjBzZkMzNXMwa2FPcXg1aHRzUVpGQVMtcTc4bGxYTGlVNjVQNnBkZ0pkRWs0Rk1uVjNhSmFTcnlQM3ZDQkd0WWFtUllybUFvMUg5TG83bDFEcWQzZHhoUU12ZkV1aVFLQjFrUHc3bTI4T3BxOUhJLVhIN0hfVC0yUURia1h2NVl0c1FTeU9MakpXZTNucUE?oc=5"
+        "published": "Mon, 14 Sep 2026 05:37:04 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNWE2VGZ2Uy1zNkRXazRCS25kZmxpQjJhaTV3NTZfYlRtYlloOXBLZzVnRUdBcGpfZGN5VFlfc25tQW5zSlNPM25pRnEyM0NoaFAxajFPTU01SWlQcVdvdVZqQ1h1NW1vanhkd2RjSzVUcVhIcURYSzN2Q1JjdHZTR2trUnAxR2djUGhKZ2tmbjF6OHFvWVpjR3RCcko4d2J6WkdsWFhRUmtMUlE4RS1SLWxubWlSOFNQOXfSAb8BQVVfeXFMUGY5N2tBTFZBeWVIMlVzeHlhYjNWQTdlbVVldU1FZlNKUThKWFlQQlVaNDA1LXJBdnJqVjRsNVBXZHYycUh0LUtYVHl1NGtiaERVazlFbFNneUloVlo2VWEzTDFPbzd1bHpaaW00Q3BoalpaeDRJWGhFa1dvX3BHRU9XdEgyWkc4WFc3clRtZmhhanhNWVJSZnFiVXhsLVIyVlMwNVFGT0lseVl1YXNNVHJHN3k0SmxKUm9OcTJ3LUU?oc=5"
       },
       {
-        "title": "Saudi pipeline outage threatens 4% of global oil supply (CO1:COM:Commodity) - Seeking Alpha",
-        "source": "Seeking Alpha",
-        "published": "Sun, 13 Sep 2026 20:27:19 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU21FUjFrWFNYcWF5ZG5yd3Zoano3X3RsZWs5eDFiZm5ZaU5lUWJhb3Bqd1dCNFU5NUQ3US1BRzBGNlMwLUg3UEsyTl94TG1ITE92ZnpWd2wzY0tnMzJ0M3gwNEQ0b20yZ3BKNEZINDBxQkVmWlF5czduQU53eUxuUElwaXRqb05WYlM5eFdDY1pZbE9Wa2l2bXRhQkVwUWlKZlE?oc=5"
+        "title": "When it comes to crude oil prices, it's all about location, location, location - The Economic Times",
+        "source": "The Economic Times",
+        "published": "Mon, 14 Sep 2026 03:18:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYmZfSTlReERsbFFsRjdyczUtN0JSaWRJV2owRHE3ZWNNejJDNWI1R3h0OFBZYnoxdVhhRHYyT2ZteXYwZklLLTFvSEliX2w1Z241QUtQUy1DRjlUTFNsLW1VMHctdGlFcnd5T1JCWDRJbnlMNkRKUGNhTlJnVFZEb2p0Vm1oSzNTYV9SZnRBWWE0NDkzUWxJcVFDLXdGd09UcHNkVmpyUUlmbVhSSGdxUVlfbWZqeDdBVFctTVRvbzV1OVJiTmkzb193d3I4TmhDbHJocG1BV21ubjFwRmdvVjZnbFc2cEVWWEdjWVoya9IB9AFBVV95cUxOYi1jb0I5TlhKWExxV3g4d1FzZllObU9DZENKZHBvaDlhYk41akVoYzZVdGJrMy1GQVZnR2JBSHk4dUJHTFVHNTFMYURPMlpZNDdpY2tNTnlQeThhSzE4c3dvaW0xT3FYRXJLY19zWG10azF5X2todWlJU0Q1a2oyOFpFYnlVYTh1TmhKOUdYZ29MU00wMFBWTG5ZSHJSUU5nOFNCMWJFZlRPRDNTZkN3X3BySlU5RXVEb3RYaXVlQllsaV9hUzRINV84aWlPRFdqZEhwTHdpelVDa29aRmw0bVhhZENwWm9OYTVGaFFjMzQ0MVJk?oc=5"
       },
       {
-        "title": "Saudi pipeline outage threatens loss of 4% of global oil supply - reuters.com",
-        "source": "reuters.com",
-        "published": "Sun, 13 Sep 2026 17:09:24 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb3FTbnBqRHlWOWIwM29yRVE2dmJnTlJOcVY0RV9oMFdYRm1WcXhCZThObGp5d1lHdE9GQVBkM080dlhZT0VleG1BUm1kOHpWbEJPZUcwTnNIaEJ2ZnpsZWJyd0RpWjdMcUpGMFotNnRmQ3lMeFRpMC1mUnlxbm1nVlFMSGdMWC1LU3lBMGZlOGoyN21QZWh3dU0yM3hVUU1pMDQ2RDdWRUJFcy0t?oc=5"
+        "title": "Satellite images show extent of damage to major Saudi pipeline, amid global oil supply fears - The Guardian",
+        "source": "The Guardian",
+        "published": "Mon, 14 Sep 2026 02:45:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONThDR2dBM2V3OWhrWDdHQ0xsRzB0eTBsZzB6cEszMjN4ZEZiQ2ZCRUdfZ1FRMGNQTk5aY081QnlSN0tjOEZrUFBHYjQtbUxxa25oaW9XVGM1QlV0QkhpVC12WldMZHlVUDR0YVhUTHVnbGJIMGo1VGJmdXJxMFgtZGtBRGJOdVN5SUQ1R0ExcEUwd1dBWktOSFBySmpwMEN4MXc0OHRZclREdw?oc=5"
       },
       {
-        "title": "Global Oil Inventories Depleted, Next Price Spike Could Roil Economies, Markets - energynow.com",
-        "source": "energynow.com",
-        "published": "Sun, 13 Sep 2026 13:27:04 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTzJ2Rmxmd19zVGUwVzJ3bzdEeHp4NTczY0tCM0MxYzlnNUU5UTRIZk45cndabTA0TnNoblRoc1FsWE12bTYtWGVHSWhkdEpBcnNYeDExZC1XWFN5SWhjS20ySEh4M1pHeFJ0RTFaSW9DT0JXYlMzNzdHS1dsWFUxWVZISjNMT045RkZoZmZDOFRHT3pFNHVDTVc0TlJEZVo5cVdMajNZSERCSmJH?oc=5"
+        "title": "Oil Prices Surge as Middle East Attacks Continue and Diplomacy Stumbles - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Mon, 14 Sep 2026 02:39:17 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONmYydkRWVVJiZ0hacFBMVEtFdEJsSHRnZXNZSEFacC1iM3BlYldxeFJuNGc0d0E0WHY5NklaUU02bVJJMFEzQUpzY2dyamZ3SXJ2N1RGeVdpcUdtblpWZnVPdjd6R3V3MHBYT3Rjbk1RQUItNDM5bkFrN2J0Tm1rUUdtaTVUSmF0akdhMDIxTkJrV3pTYmlENGRpTTZCckxobXFMRGlOdjhJNnQtNjFMQlZPVXA2MGl2MnY00gHAAUFVX3lxTFBuWE1QQVg1S0lDY0VuVU9Lam5RYmx3SkZyTWhudmdMZ0hHTzNMYW9ZcmoydmplNzZFVUFyVng4MzVGVTBOWnRGQVB1MUNDcm5Dc01tWGtVelpiTW0wTjdhMjE1WWdDR0VmclU4Z2g3WmhLTG13a2wycEtlXzFkR0JNZEZWeFZadkwxWENDT19CTGw3aFltNkZjSXl5eUxVc1IzVVB6LV9NTTNSRWpKVXlmSzZxNHJXSEl5RkJhaTlHSA?oc=5"
       }
     ]
   }
