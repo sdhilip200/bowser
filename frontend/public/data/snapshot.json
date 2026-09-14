@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-14T18:47:42+00:00",
+  "generated_at": "2026-09-14T21:33:44+00:00",
   "fx": {
-    "nzd_per_usd": 1.719432,
-    "as_of": "Sun, 13 Sep 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.720892,
+    "as_of": "Mon, 14 Sep 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 104.61,
-      "latest_date": "2026-09-11",
-      "delta_1d_pct": -2.81,
-      "delta_30d_pct": 17.5,
+      "latest": 106.15,
+      "latest_date": "2026-09-14",
+      "delta_1d_pct": 1.47,
+      "delta_30d_pct": 17.79,
       "series": [
         {
           "date": "2025-09-15",
@@ -1010,14 +1010,18 @@
         {
           "date": "2026-09-11",
           "usd": 104.61
+        },
+        {
+          "date": "2026-09-14",
+          "usd": 106.15
         }
       ]
     },
     "wti": {
-      "latest": 100.05,
-      "latest_date": "2026-09-11",
-      "delta_1d_pct": -2.37,
-      "delta_30d_pct": 19.69,
+      "latest": 101.89,
+      "latest_date": "2026-09-14",
+      "delta_1d_pct": 1.84,
+      "delta_30d_pct": 20.34,
       "series": [
         {
           "date": "2025-09-15",
@@ -2018,45 +2022,49 @@
         {
           "date": "2026-09-11",
           "usd": 100.05
+        },
+        {
+          "date": "2026-09-14",
+          "usd": 101.89
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-09-13",
+    "as_of": "2026-09-14",
     "regular_91": {
-      "avg": 3.11,
-      "min": 2.776,
+      "avg": 3.139,
+      "min": 2.876,
       "max": 3.56,
-      "count": 68
+      "count": 79
     },
     "premium_95": {
-      "avg": 3.266,
-      "min": 2.936,
-      "max": 3.489,
-      "count": 28
+      "avg": 3.296,
+      "min": 2.966,
+      "max": 3.569,
+      "count": 32
     },
     "premium_98": {
-      "avg": 3.406,
-      "min": 3.126,
-      "max": 3.52,
+      "avg": 3.384,
+      "min": 3.239,
+      "max": 3.489,
       "count": 7
     },
     "diesel": {
-      "avg": 2.815,
-      "min": 2.416,
+      "avg": 2.841,
+      "min": 2.526,
       "max": 3.999,
-      "count": 68
+      "count": 80
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 3.339,
+      "min": 3.339,
+      "max": 3.339,
+      "count": 1
     },
-    "observations_today": 126,
-    "observations_yesterday": 7,
-    "observations_older": 38
+    "observations_today": 150,
+    "observations_yesterday": 38,
+    "observations_older": 11
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8568,7 +8576,7 @@
       {
         "title": "Fuel prices tipped to keep rising as conflicts squeeze global supply - 1News",
         "source": "1News",
-        "published": "Mon, 14 Sep 2026 18:37:43 GMT",
+        "published": "Mon, 14 Sep 2026 19:35:26 GMT",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRXctcE1iSTZ3dG01T0JDYVFESW81ZHllZDVtaGJBQllVcGg4VVFQVzJ5cEdlR0otQ3NxbjhXVDdIbXpPX2ZkU3FxTEhPN195c1gyaDA1cHFmSW1HUVJkYmZQR3dWMUc2cGlxUFE4cDhzdWNQQ0VnTml1M2hVd1dEc3IxUWg1M3Y5cm5IbWUzay1qbE5rcEVZNXl0VVB5czhzX0htb1J6QQ?oc=5"
       },
       {
@@ -8584,8 +8592,8 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQWhKUERsU3RQTzltU0xtdU9MQW53RGtvSHR0M1oydFVrQ21mcnlxY2lvMTMzMTdiRHlNamU2bG5ab3RGdHQ2YlllSDFfTVBqc1dzTlk5a09kM3BJUlZndktxU3RlU29mdGRObmpEM2FIRi1JTy0zMjJodXVYMVJHR2lHVXlNdFh5N1Q4cWVfeTlpTnAtOGpiREVUcDhoNW04c2g0Y2dzVkZZM0J5Wnpfd0hsQQ?oc=5"
       },
       {
-        "title": "Air NZ warns more capacity cuts may be needed as fuel crisis drags on - businessdesk.co.nz",
-        "source": "businessdesk.co.nz",
+        "title": "Air NZ warns more capacity cuts may be needed as fuel crisis drags on - BusinessDesk | NZ",
+        "source": "BusinessDesk | NZ",
         "published": "Mon, 31 Aug 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORG5XajgzUVFrN0kwLXRUc0lCa3JibkRWZElVVlNRMFdYbzRTend3aUFqMDRHYVJiWTI0c3dWbllYd2VhcnhqVkNWNjdpd3dHelNudW0tYy1lVUNyV1czRFNLVVhTLURSNVdVcDNCczNUYzBZTW9JOFpwRndZZFFlQnNmX2NvUld0enR3NFpQWjJINlRUdkxweXc0VEx3TVlFYUs4d21aZ3JCR2oxRmF0bFpR?oc=5"
       },
@@ -8616,52 +8624,52 @@
     ],
     "global": [
       {
-        "title": "US Democrats list India for potential 100% duties over Russian oil - India Today",
-        "source": "India Today",
-        "published": "Mon, 14 Sep 2026 18:13:04 GMT",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOTRicC03eWJVbzVzQjNJbmdjcGNDNlN1LUdjRGMyMndOR2N2eTkxdnFFVzBKNGZtWFgyVXNBV1YtUWhxckdRdHd6cnphajYzUXhBX25jLXNiZy1LZmtOcGJFdVZRUkRBN2NKdWRlVGdIR1RmOGJqOTdnMEZhY1Njc3Z1WVk3YlFVN3BQTko4aEZjYXBHanY1NTUyQXJQR2tLbEN6OXBzWGh4YWpqNFQ0ckRRZm55MkFDUlhmODN0RFc0d3BCVmZ4S081V2zSAdIBQVVfeXFMTW9EaTU1UE9sXzY3ckVuTXphWi1oZG9nY01sWTRSS1NHOVd5eFltNUNfa0ZvZWM0RXdPY0xJbHF5VjItZTlwVWpIXzNZVjZNcUYzOXl1UmRPVlR3OHctOWYxQmVic05mV3Y2bnp3N0JaZjh2cnRYMDVhQlFCRHhydGZWSGV5dkNOd1pxSWVNc28xME9lNGxOWFpmMjdRYVE1M1V5aHBDUGxXRnF3V1VpcERmNlZ1QXJvS3NmOF96dnJKWmFVQzJGXzFxUEFnQ21zN0Rn?oc=5"
+        "title": "PVM analysts: Oil market losing its defenses against $120 Brent - World Oil",
+        "source": "World Oil",
+        "published": "Mon, 14 Sep 2026 21:27:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMmRsNG94eE5BQ0ZOSmxha0Z5V1h4WkY4bHoyUWRTRWtBdVJCY0t1a0xBOU5xN3BiRGFPd09oTTdVb1NjVTZaQ1V0ZDc2QWhxU0xFd3c3T2tuejlyUlJYWWpvTkFQRHJYcUQ5eVhKelFWdkpEdUdyVkk3QkpjOGhqZVpRQnpwSTRDU3JaTkREcVllemp6ejg0emQ1LW90WEdQRE9DNA?oc=5"
       },
       {
-        "title": "Iran’s proxy money machine: How the Houthis built a multibillion-dollar network despite US sanctions - Fox News",
-        "source": "Fox News",
-        "published": "Mon, 14 Sep 2026 17:52:18 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNHB0eFoyWFFzR21nOGVxaWdBbDhCZW95dXVweDhXelc3UFMxdVVaUi16UnZzYllLODU1cXJhWTUtbFpyVFgzbW51dnFUbjN0OEdpWkVUbGs0SVBqQmJBS2pWMFM2TVUwODZrenR3ZjBwLXBZSGd4ZmczV0h6ajJWdFJUalc5cEZURmpNeGtTQnVobXY0Zlp1Qk93b1c1X3dWNDcyYjNKLXBIQzBNLUpSU1JWVDRLeHJNNFHSAb8BQVVfeXFMT1BHU1BwNlA2LWxoTEl0dzIyd3BxdHBWWE9UNkJQeDI5WWFxOHE2alcza19GejFNVVJPOWR0SXhfUTVBTXdOeDhCY09SLXZGbEtBMVd1eDZXWll1cFJuZG9KSS1qcHRwdkZoZmhRRjFFTjJlTVNSM2FtckhwdGsyQnRCUmplQ3VnT2lqcTQyaFZyelBwNUhWTEFNaU1ycWw0WW1VQ3dmT1o1R3FzU2czcHQ0cVIxQnYwcF94TDZDbkk?oc=5"
+        "title": "Oil prices up after new strikes on Saudi infrastructure - The Hill",
+        "source": "The Hill",
+        "published": "Mon, 14 Sep 2026 20:23:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYUNyZGZvdDljdk5yYWNidjRMNkpiQ2ZEcy1qckJ2MlM1MmJzUVl1THZtZ3NKd0RGTFNrR21fc21SRDBIQ1BuN295Wl8ySlppWTlncHhHSzNQWTJ5MWFHUW53djNxdnh5dDlFYTRZOWNsXzNqNUg1RW9aWDJ3akk4dGNmY3BUcTVtZUxFT3hn0gGTAUFVX3lxTE9oSjRDR1BEQklvREFlc1ZfMTlsRVhNZGtDRmVpSEJDQk5XZEFpczJjdUs1UDNZWDMzNS1DVG80el9UWEZ6bDlMcWFUbU1RM05PVVF2NUFLY0gyMm9pQTZxYkxpZEJob2ZoVFdsQjR1akFaM3o3S003eGh0Nm9id3lpandDRTlYSFl6aW41ZmhUMGVSYw?oc=5"
       },
       {
-        "title": "Oil prices rise as Middle East conflict squeezes supply, pushes gas prices higher - cbs19.tv",
-        "source": "cbs19.tv",
-        "published": "Mon, 14 Sep 2026 17:28:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQR2tVQ2MzVFhNSDVRZllJOEN4bTJSeWFzVFpXMTlWSDBEVWtOeXkzQ2RBcmZma09UeXkyYXZqXy0tUWlHZnZRQTBET3hrTXE4aWtSby1ZSkRPLXlBcjcyVTBzY3N6TzVUY3hxcElmYmpqTWxqdkpWMGs1TDVUeDVzZ3RjczRUbXowSGhBSThHX1owUkFBLUducnk0SWVQVE9ReTNoTmJmckh0U2tpam9VcU9Qc0xTV2lXN2otdkU1YTZzOGFDa2Z0ZzdUZEI0WFdoQmtzZ0VCUTVaTWJNZWwwQTRGQllnU2h6NkRCbTF3Ni0?oc=5"
-      },
-      {
-        "title": "Attack on Saudi Arabian pipeline may cut four percent of world's oil supply - Middle East Eye",
-        "source": "Middle East Eye",
-        "published": "Mon, 14 Sep 2026 17:04:02 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcmtzQWVNeVNlX256VE9NaDBQeU9ySW85UE1peWtzcXY2aS0wOGFlM1J6bnk5R2ZGNVE1YTBDUzBvNThWYy1kWUZJVGFkTDRCN3cwU1pjX0VUVURLMW1KY2F5SFU5T2o3bmpkOUZtaUpPVmxyMTl0LWJPSkR1SXlTWnNnVFpDRWFoVEQyTl9vUnhXWkt0QjdtTV9SbElfLXEzZ3llTXRn?oc=5"
-      },
-      {
-        "title": "Crude oil prices jump even higher - CSP Daily News",
-        "source": "CSP Daily News",
-        "published": "Mon, 14 Sep 2026 16:45:06 GMT",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lVlV4eEJBdTUzeGx2aW5wZUVnSHRwWlZtOUxLeXZtT3lOVlQ3OVFiT2JKVjBNdUdBb2tPaHd2TEhYdy11Q0k1ZkNwUkcxaGl0dXJ4T0wzQUU3SEx2SkJITUlqZEFwazEwVmhLUHdFdVVOZVhZbWtv?oc=5"
-      },
-      {
-        "title": "10-year Treasury yield tops 5% as oil surges and diesel hits all-time high - NBC News",
-        "source": "NBC News",
-        "published": "Mon, 14 Sep 2026 16:44:12 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbkRkSl9oQ2hxWlMzQjZIME9USDQ0YTNFRXVuUlB3bUlSUm1wQXlYU0JWUUxVU3BDcFY3SkdXcHhxZUlNakQyTXdXUlVnc1pNUHdVMHhqUDVrU3VsVzA0ZXN6LWFyQ2FtZTYxRGo3QWJsVGRNOWgydGg4UDZxcERHa2FQejFCeFkyY0Q3djU4YTRxVExHS3BRcGU4clZKck5RajN0ZURFa2pHZTFmeEtRY2NodFB6TUk4NUFuUnZ0Sk1xR21IYks0?oc=5"
-      },
-      {
-        "title": "Brent Soars Toward $110 as Iran Says it Destroyed US Drone - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "published": "Mon, 14 Sep 2026 15:16:38 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaTl5S3MtQllmY3VEYVNJTElqd3hMZGtvRXFablRWZjNuTGRLN1dOWURnYUQxSzQwQ2xaWmNvcjlIRFNwdE1LT1NkUUt6YlhVZF92QmJNWHZjelI0QlQ1aVFqVEg1VHF0TEx6VG4xeGlMTGhrOGlObTZvSmhfTVB1c2psd2c2Z0NfOVpmcw?oc=5"
+        "title": "Satellite images show extent of damage to major Saudi pipeline, amid global oil supply fears - The Guardian",
+        "source": "The Guardian",
+        "published": "Mon, 14 Sep 2026 20:21:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONThDR2dBM2V3OWhrWDdHQ0xsRzB0eTBsZzB6cEszMjN4ZEZiQ2ZCRUdfZ1FRMGNQTk5aY081QnlSN0tjOEZrUFBHYjQtbUxxa25oaW9XVGM1QlV0QkhpVC12WldMZHlVUDR0YVhUTHVnbGJIMGo1VGJmdXJxMFgtZGtBRGJOdVN5SUQ1R0ExcEUwd1dBWktOSFBySmpwMEN4MXc0OHRZclREdw?oc=5"
       },
       {
         "title": "Oil Prices Jump as Attacks Choke Off Saudi Energy Supply - The New York Times",
         "source": "The New York Times",
-        "published": "Mon, 14 Sep 2026 14:59:00 GMT",
+        "published": "Mon, 14 Sep 2026 20:06:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OUFpsVy1IOUxNRlV1QlB5LS1jMnlKcVJjUUtZcHhzdUx1Q0JwTmtQOEN1VDViY0lhS0JMR1V2a2l6SjV5dEdoV2hWa28wemFYeks5Y1FGdnRGTFE1RmhUQ25PeHJIT3hQbDRfb0V3MnRqWTA5bUVj?oc=5"
+      },
+      {
+        "title": "Russia-Iran Sanctions Bill Could Reach Trump’s Desk Within Days, Says Congressman - Radio Free Europe/Radio Liberty",
+        "source": "Radio Free Europe/Radio Liberty",
+        "published": "Mon, 14 Sep 2026 19:29:46 GMT",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GVFVBY3JiLThMcDZsbUd0d2R2d1duNno5b1cwUngxdXplRE9QLWg2a21mWHVGcFhGRzdXdl94eW9JcnJZNUsybEpqQTNiT2xUM01jREtadnNiZm02N3owcUpBazdGaERvbkZxQWU1V0YzWXNBOEc2NE81emVIY2vSAYIBQVVfeXFMTXlpNDFsOXhSelEzNTg5anZSalYwemk2OTRyVlk2M3BlNFhsSDBldFNKc0NWeHJCcnpnNUktQ3pTdHE3R1Uxb2JkVFUySG44WWlabGhoYW0xZWtnUFpMNmpjRnVZNHRxc1lMQzVqdG1XZ1BNb0wtbDhKRy1mR21McWtUQQ?oc=5"
+      },
+      {
+        "title": "Oil Prices Surge Past US$100/b Amid Middle East Attacks - Mexico Business News",
+        "source": "Mexico Business News",
+        "published": "Mon, 14 Sep 2026 19:16:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNFFKWXVEYTVRaVhCTXVpTmxBWmJJRFFXS0x1Wjc5RmJfLWluYzhkS2tKTkN4QmVCSTJqNlVTdVlrZ2c0YmN1Vy1MQVp4UklZUXFSNE5UclUyaXJkSEZUVWRiMFdXeHRjbTUxQVFXTjhfRkM1czZjR2xFa2RUTTA0RV90ZHdvd1hBZm9IM293NHFXbTQwRkx4Y21meHY?oc=5"
+      },
+      {
+        "title": "Middle East Supply Constraints Lift Crude Oil Prices - Barchart.com",
+        "source": "Barchart.com",
+        "published": "Mon, 14 Sep 2026 19:13:50 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQnlLRlFSMExyeXN0SlVyRXE5aUNnWDVnQmRlS2g2QXJCbkNIQjJ5eXU1Ulh5UGpTdUMtRjV3Nnp4RE9WeGQtRWNUSFlfMjhHa2pvOS1yc1NpR2xHQzhHTGQ3WW9MTEE0NGhxUG9RZVpqQ3A2WUJkX2EtZFJZaVhNQTF6QlktRlFlX3cwckhNU2lweTljaEVOZHYySmo?oc=5"
+      },
+      {
+        "title": "US sanctions Russia’s VTB Bank over Iran ties as financial crackdown widens - Iran International",
+        "source": "Iran International",
+        "published": "Mon, 14 Sep 2026 19:03:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UMEVvSTR0WVAteGwtRXZLVlhiWkxXQURVVjR6aEp0N0lTZHBDLWpnTVlXNFNObGJ4WFpKLVYtTXByVnVxeDVReEQ3aEVwbHJyRXc?oc=5"
       }
     ]
   }
