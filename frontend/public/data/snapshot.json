@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T06:06:13+00:00",
+  "generated_at": "2026-09-15T11:56:26+00:00",
   "fx": {
     "nzd_per_usd": 1.720892,
     "as_of": "Mon, 14 Sep 2026 00:02:31 +0000"
@@ -8574,14 +8574,26 @@
   "news": {
     "nz": [
       {
+        "title": "NZ fuel supplies face increased risk, and no price relief - RNZ",
+        "source": "RNZ",
+        "published": "Tue, 15 Sep 2026 06:53:04 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSmcyeGdkOFgxQVEydXN4Vnd6RjVzcmdLMVlFbFhrOHBoMDJpQVhaelFYZDdaVkFrMEhEbEp5S2RCTDZCUWJldE93Z1FvUDFpZ2pHT1YwcVZ1ODRiY0JVWWYyQXU5SkE0ZmkyS3FRTEktektrS2NDRElVMHpkNEc2YVh4NGM2aVdzaHV6SlJ3aXhEUy00OUlyZFRWWGRaajNXLVE?oc=5"
+      },
+      {
+        "title": "New Zealand EV market enters mass adoption - drivencarguide.co.nz",
+        "source": "drivencarguide.co.nz",
+        "published": "Tue, 15 Sep 2026 02:51:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdkY3U3J2WmJISl8ya0hiV0YxbEdhV0Q2NzZHLWxnQTJBX1Jsb0JLMmhOMGZ3b2RYYlJJVjhVZS1QRDdpU08wVm14WTdJVW5vd2Mxa09HUkg0TmRsVzE3cnZmNVVfbnptNHdmeFdELS0tN205anJLcnFjenB2QnNYTFdiV1U3a2x6UE1GWGhHNjRoaWprRDVGNm5SaUVxdw?oc=5"
+      },
+      {
         "title": "Fuel prices tipped to keep rising as conflicts squeeze global supply - 1News",
         "source": "1News",
         "published": "Mon, 14 Sep 2026 06:37:21 GMT",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRXctcE1iSTZ3dG01T0JDYVFESW81ZHllZDVtaGJBQllVcGg4VVFQVzJ5cEdlR0otQ3NxbjhXVDdIbXpPX2ZkU3FxTEhPN195c1gyaDA1cHFmSW1HUVJkYmZQR3dWMUc2cGlxUFE4cDhzdWNQQ0VnTml1M2hVd1dEc3IxUWg1M3Y5cm5IbWUzay1qbE5rcEVZNXl0VVB5czhzX0htb1J6QQ?oc=5"
       },
       {
-        "title": "Domestic Growth Slows; International Inflation Grows - Scoop - New Zealand News",
-        "source": "Scoop - New Zealand News",
+        "title": "Domestic Growth Slows; International Inflation Grows - business.scoop.co.nz",
+        "source": "business.scoop.co.nz",
         "published": "Mon, 14 Sep 2026 02:05:35 GMT",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX3ZWR1pTNEZTR1BRUGlOcHJ3a0FNcFpkQ1k0dHZ6Yl9yTkZKUkR4U2dNM1QtZFpJd1lHNy0zZDd4QXJSbXdwV3BHcThvOTgzX1VKS3puY2NsM1lpcF9LbTVTcjBlVXFRRDhjc29tQUtnOUFzU2tsVjR6azdESjdlMUpWaEVxcW9vdm41Q0x3Q3dGQy1pRFRF?oc=5"
       },
@@ -8608,68 +8620,56 @@
         "source": "Airways Magazine",
         "published": "Sat, 29 Aug 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQXFmTDllZVN3U3Y3QmppOWhMUVhWbGUzYlE4aTNwek1aeVFXZGJNcU44NU41djNhRndPd2lqVXlYWHZsZnN2M1RuTXBnclRxZjhCelc4enotVFFpc1pORVNLaFl4Q2tyRjBiZlpHVHdwMXV2VXE0R2N6Y1h2ZmNVel9QWWNXa25k?oc=5"
-      },
-      {
-        "title": "Fuel and Engines Sink Air New Zealand Result - What’s On Invers",
-        "source": "What’s On Invers",
-        "published": "Fri, 28 Aug 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zTEVlYlRZMmM2cjIxVmppejY3UWJzR2ZxMnRKRDNJUzhReTVORXU0RVN5UDMwRlVKbVpMLWE1MzJZWm56WEdOUUl4MHpOc1hTeHJjd3NWbV9oQzNqbGNrUzRQbUNUZ2FWQ3U4dkNOc2JyaVpuOXBGQjJn?oc=5"
-      },
-      {
-        "title": "Air New Zealand plunges to $242 million loss as fuel and engine costs bite - RNZ",
-        "source": "RNZ",
-        "published": "Fri, 28 Aug 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2RCa21UWVhMTEZNUGtfbWVXelplREIyTTVNaEtSYzNzMXpyS1RVMHNDWDNoQm80Y3QwbUFMdnNDVjh3RWdvR3otT3pxbENSU2hBajJoOFJLdENObGxpZFNUTG5kalFQczlJck1lYzFfT0kxMmZ0RjBzUXpqbXRQMXM5dFBVTXJ5SW1xVXVnMzF3T1FoV2thbFhZQmEwSmJYeHo4N3EwRkxQaW1HbmN2OU1NQjkzWkVS?oc=5"
       }
     ],
     "global": [
       {
-        "title": "US Lawmaker Moves Amendment Naming India in Russia Sanctions Bill - Siliconindia",
-        "source": "Siliconindia",
-        "published": "Tue, 15 Sep 2026 05:40:32 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYTNxSDg3ZGRDSFhudXlLeUFNYW5GM3RHdVlRaXY2NkxSclRtNWwxNE9UY21BT3d6RGx0aVJFamI5SVRBSGxxaVpQZjZmaG5QYXZhQldBQ2NSRmotb3k4MnpPVjNKZEVEQTdNTTdiNXdFazhrcWxzYUFfc3otYWdlRmVheDVaY0s2VkpqOVpHNl9uYnFBRkh1S29hUjFKYldsSzEtMTJTcFVWSlRhVlRrejY3TF82ZTZMTDBIZzJfeUsyNlEyVDRUcg?oc=5"
+        "title": "Iran is now threatening world’s largest oil facility and vast pipeline after Houthi attacks escalate - nypost.com",
+        "source": "nypost.com",
+        "published": "Tue, 15 Sep 2026 11:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPak9oYVl1YjZIdldaRzJGQTN3OWZhU3EzZkhzd2xSR3RGMGJya1l1X3ZtdHAya3BkVjJKdTFVeDdIN3U1bzhkN190dEVqQmRMejg0QmxCUHBkMGc0WTVLYkRFaUotMENuLVBCcjBOZVlWajlVcWYtbjFJUDFfa3A1OEg5Z0V2RVNid1g2N1IxckRkUXctTnRqdVNKbkY3UlAwTWxvSk9FMmFEVmhLaVhrb29NWnU5RWlfZmNn?oc=5"
       },
       {
-        "title": "WTI Crude Oil Forecast: $103.40 Resistance Tests Recovery - investingLive",
-        "source": "investingLive",
-        "published": "Tue, 15 Sep 2026 05:40:29 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU21ZQlNmZTR6MVJwb09ORERTUUsxak1tb1hweXc5TERGdmdGaUJCMmdaMzkwYkRmOG83cU9RaWg3alQ2TmlhZFBJNjNXSDI3TUY5T2xZNjRxWlpwbDdoWGNxUEtTN1NlaEVSTU9xQjlwcjVoNkQ0dlhTakViakptSElMc1oydG15Umo5c2xGVU5GNU5vOHhHVHlB?oc=5"
+        "title": "Opinion | Democrats, don’t abandon Ukrainians and Iranians - The Washington Post",
+        "source": "The Washington Post",
+        "published": "Tue, 15 Sep 2026 10:53:10 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUVVpakh5cGtMa2Q3V011dGhOUEhPQVllUFkwTS1BQUMyVVFJVXNSMnVDU0hpU05vSkR1c1JOQ2hQVVRabXR3MDhaOTgtdlNXRkNwR0tUWDBvLVlkWkFoUGp6OEdBdFphVFlsUVVWMjlCODdPcjUyMmhZc2ppcVRWRkVaNWRBWmQ5U1JMcHRnM3lsenNFcFhraHo5Y2RJZWwwX2JfbUVfQjM?oc=5"
       },
       {
-        "title": "Oil climbs as Saudi pipeline outage, fresh attacks heighten supply concerns - Reuters",
-        "source": "Reuters",
-        "published": "Tue, 15 Sep 2026 04:25:54 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVGZNVlpqdGZqMGlsa1lSR2IyWU0tbmd2R1ZkY2o5VDNlb0VsMEdhbWlZVzJBLXJ0WU9MTm13WnN2R0M0Slg4TzFkb1VSYVRxQXE5ejQ5eTNRbGcxdUVSNTFKYlk2WmxYbkdPMTJIUEZJRVdBUmFKVHVCamlsUzB2NFJLbkNGbkJFSjR3TTlhNF9vT2g4MXk0MjlzOHhVaWNGX3U3RGlUS0JzekpCb0VBbU8zMGdUbFpIaGlCVHlwcEtoR0U?oc=5"
-      },
-      {
-        "title": "Arizona diesel prices hit record high as Middle East tensions drive up fuel costs - 12News",
-        "source": "12News",
-        "published": "Tue, 15 Sep 2026 03:35:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQT0hQV0Q2MzNZOWUwM29Fc3lnM0l1ZXB0WVlPTkZZX1VuTnNUZHlSUy1PU1JtdHRNUFNkQkx1cFRfVzBFSjhjSkVEZXNuSzMwUEUyem5yMHk3VldTOUdtVkc1ODBqQS01R2Foc1NqQWIxNUFaZGJNbTRiMWM1T0VaUElIcmhnLXQwT0VxOVpHU0lzdXI2Y1ZVTFFNb3BKc05WNW0wdTBWRkFrWVEtQUhxdGNBWEl5b3FIVjVqc1RQaVdJNnhZMTZlMHRlNllfbFdFSHFsQ1QtRU12ZnNOMzJFcWhWS3ZNbFprVHVGMUh3MVFKUm5pUnFmSGs3VkZPbU9p?oc=5"
-      },
-      {
-        "title": "Oil and Treasury yields haven’t moved this closely in seven years. That’s bad news for markets - CNBC",
+        "title": "Oil’s next test: Saudi Arabia races to restore a key safety valve for prices - CNBC",
         "source": "CNBC",
-        "published": "Tue, 15 Sep 2026 02:53:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QajFNYTNJSHNFdm9IaVRCSTZqM21IbllITnExcWVZdFNzek5zcE1jVkJocFZZNldiTXJfYS1SNTFPRlp3STdSUFVfTV9YOElGZl94Z2hvQXRwU21taUI3QThIUjdwVVkwUTBnUDI3QzNSTGFiMWkxb9IBfkFVX3lxTE1ybFZGX0lvUmRscWVKLVNOMm9faVh4ZUlfekhrY3RJQ2NUbFpSVVlpbHdMX3V3LW8zcjdQQjlpVFZ4T3ZXZW8yUjF1QzJvU3Y1eGwtSjdnWXdyOEdOTTB3Q1RkTXY4ODVYYnJGRkpHZEdPMWhpV1pveDhSRmxHQQ?oc=5"
+        "published": "Tue, 15 Sep 2026 09:58:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTXU5N0tnZ0pFSWgzbVpoZXdhNXpadXpGWXpEWmdrbDNMa3lNbnBFQ2Jwdk5helFyRnEySVg5TUhuczdHWllZelZnUkhFLWotTWFIY1FvUE1NOWlaakR0NXFEUUY3bzA3Tm9FZ1ozNEkxVmxRdTF0MDdJR01WMTB2Ti1lZWh2Q3RwaE9BN9IBkgFBVV95cUxNaG9wRDR6TUlYSGt1TldGZ3BfdmRkWE5hV2k0S0poT0FXRVZOd0phejlkSWVtQXB5NU5uVlVXVzVvcGFUbWRSa2dKMHlpT3VqWlRONHpmWWFQdm5PckVnVDBBMmdERnN2dVJkSG1qTk1uX205N3RLUDRnVlB4QmprdDBSOGNMODdubm5tNG5ibTlSZw?oc=5"
       },
       {
-        "title": "US lawmaker wants India named in Russia Sanctions bill - Rediff",
-        "source": "Rediff",
-        "published": "Tue, 15 Sep 2026 02:21:45 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcFMycUNJbXRseXpwcnJEMlZ0T29oQWdXZzNPcXRoYzMyVWJtMlZrZGFOY1hzMnNqMXlsTTk3YjdSUlRFbVZ6TEEtYmUxY1Raa0ZtZ1FtY2pLNGZEbmNIa3ctcmxQY045S01HSHNYeWhFbzA3ZHQ0Y1hNSFAzYjJXOVYtWmF0d2dqOEJuOGh3SjFRem9mQUVFQk51QW9KclI0SWZGUtIBpwFBVV95cUxORzk2aEwyd1ZrUExlSncwUW1XQ2tmZGhNUVFheDlrYVRha2p6ZkRzWW1SdTNpX0FadjlnU3dKTkY1elBFNFhEVkRvZy1heFFsbEE2ZzNGZDUxV2lSZWoxRlNnS3VVT2t1NGQ1ajZ0VWtiVnpfTkgxUE0wbDlQS2ZibzJCM3hMUjM1blFaV0NkSFd3Q19UZXFhRWthc3E5d2U0aHgtSHhIYw?oc=5"
+        "title": "Brent Rises to $107.83 as Markets Monitor Saudi Supply and Hormuz Shipping - Yahoo Finance UK",
+        "source": "Yahoo Finance UK",
+        "published": "Tue, 15 Sep 2026 09:34:40 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc1RPcU1tczNfRl9oMjRlUDgyaF9BZmVJLWxyVFJZVzlzTjBQd2lEUk9zSXY3ZXpWZzRRM2JpSU1QWm12al9qN29zTnZBZVVwY18yX3d1SnF1ZDlEX3gyT0FmTGZoaTNNNldKdUdwNURHVXp2V2N6R2poU2dTUVRHVQ?oc=5"
       },
       {
-        "title": "Oil Supply Shock to Worsen as Inventories Fall Further Even if Conflict Ends - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Tue, 15 Sep 2026 02:18:22 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaGYzaXl6WlJNeU56d01FU3p5VllfZnluamp1UU5FZWF6cUwwcVp1OXlNZENmeWk2S0xveU9zbmVHWGdiU1NLV1A5UDFIU2tQbEhySmZXdlpSMkdVNS12YW96ZzhRTUVWbGVPNlJFeTRtSGJsbjRjcTFrcDJETzFrVEd2RlZrUkUyZEpfTThKMjdhNGVFaWhRWTFVSXo3SVJYdk9ZSE9DdTFnd00?oc=5"
+        "title": "US lawmaker seeks India mention in Russia Sanctions Act; additional impact may be limited - fortuneindia.com",
+        "source": "fortuneindia.com",
+        "published": "Tue, 15 Sep 2026 09:31:56 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM1YtQVJvLTJXbVJJaC1mZlZCVHk3bjE1U3ZwZ2dsd1UtU2hnd1BZM05RdTVfVk94MnJqemVlWGRES0xuRGVNV3ZjYk5pVTdST2tYR0dkaDFZNjVwZEdHZU1BTzlKX1Exanl6OWV4bVdXU2NjUVF6MjdlaUJGQm5SY2dsWGs0WDdlR0lFaTI4NndLWXRDUEhLbjlpS1p3T3FXNmJLUlZtMEJ5MHJ4a1lVdlg4aUpLV1Y5eU5PLU5CMS1BbmR3SXA2aEpzN1LSAdoBQVVfeXFMUEd0RFNCdnc3U21fb181TTVKQnV1WXpyOVRnaU9DcFVjWG94ZVBUbVl0N3hoZE1EUzduSGRhWGQzdGd4VHZBUW9FaVJpMUQxbUR1RFB4cndxZ2VGUXpRMmRYUWtjTnFWamxEeEJ1eDlhU1pZN3M1UTkxMkxPLW5Wd01ocXJRTUpMTW93SDBUTzZRNUlhYTNxektUZDZTbE5obnduVzRGX2g3WnoxUXU3TFpuZWNDR1FLVXhtbzlVOUxPa2ExdlhwbzlmYlczcDNQSHRta0xXbGxnelE?oc=5"
       },
       {
-        "title": "Attacks Knock Saudi Arabia East-West Pipeline Offline, Driving Up Brent And WTI Prices: 18 outlets compared - NewsCord",
-        "source": "NewsCord",
-        "published": "Tue, 15 Sep 2026 02:07:55 GMT",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQUw4bjVPZjlINV9neHJXemZ4WDJXT2gxVXEyVG9pUU42cXVlQnFkeVJBdVVhaWVjbDcwMXlMbjk3WUdsc1dmUjV0WjJoZ1FnNkRnanZ0NUdKV3lYZV9kRjRJNllnR0h2WHZHME9VQjFzMGNGdmVOYjdSYVZjUHN2RWFKcmwyNTU1cmxsWVBQaTI2NzdjWW9sOHVyUlNwcXRRSmRfWFZ4NlVEay1NUFhlSGY5MnEwMVpFSWxyU253TlYyTzFUMU5wVGV2OFh6Uk0?oc=5"
+        "title": "WTI Crude Reclaims $99 as Geopolitical Risks Surge - TradingPedia",
+        "source": "TradingPedia",
+        "published": "Tue, 15 Sep 2026 08:05:31 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR2VLTmE5MVVXTUFBNUJRaUQxY0tvbVBHQlFTdlllZjMxR0ZOVnNpSHlYT0drMEY5RmN4Y3U3aWg3RDJmWkt4UHpoWVc3dDh5azcwOGdTa1FDdEdQcjNLcTZpQTVOMkRJeGRaeDltaWdRNUxfMmZfZEJreG14Mjdrcl9SMDFGaTBOeEZXV2drNWZ4aV9S?oc=5"
+      },
+      {
+        "title": "US Senate amendment mandates 100% secondary tariffs on top five Russian oil importers, including India - timesofoman.com",
+        "source": "timesofoman.com",
+        "published": "Tue, 15 Sep 2026 07:58:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQT0Z3WTl1RE92WjhFNnpmc0ltVkNrVkJwVGtSbDZ5dVZmT05VX3dvamVDb2dMT09ja2JwNXZLdjREU1VrX2tta2dOcmR4T1EzREFfUWZwUTVaLV9UM1haczh0c1dEVWs5a0I3dUlCWmFKNE5fRWpzRkRRUnpPTW9JMmFkNUJwdGU3bVVWRi1VVUNsN3VFT29oLTZJOUo1S19zb01GSjQ3MDQ2VUttZU1XVVFDMEdlWFJHdjRzMXhHRklvV3NILWM1OXUzekxHLVlHeDI2dFJR?oc=5"
+      },
+      {
+        "title": "Oil Prices Rise as Middle East Supply Concerns Persist - WSJ",
+        "source": "WSJ",
+        "published": "Tue, 15 Sep 2026 07:56:35 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYXllQnlVNEJ6c3dqT3FrUUhwVzZZeDRmVGtZdDNFa21QbmVIVHJEYTBqZnFkbUYxTV9FZjJWZ0hrak82UkdJYml3WDJRbWhDYzdaUGxWTURrN0VhazNiMWJaT1VuOFBUWkR0dV9KbEdYa19xaW40MlltdHFhbEZGZzlrb3VoTVR0bjNNM2xaT1FaNDUybm5pTkVLS01QV1hQUFhEckNn?oc=5"
       }
     ]
   }
