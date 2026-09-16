@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-09-16T20:02:08+00:00",
+  "generated_at": "2026-09-16T20:55:55+00:00",
   "fx": {
-    "nzd_per_usd": 1.730751,
-    "as_of": "Tue, 15 Sep 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.737448,
+    "as_of": "Wed, 16 Sep 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 108.45,
-      "latest_date": "2026-09-15",
-      "delta_1d_pct": 2.62,
-      "delta_30d_pct": 29.46,
+      "latest": 105.54,
+      "latest_date": "2026-09-16",
+      "delta_1d_pct": -2.95,
+      "delta_30d_pct": 32.99,
       "series": [
-        {
-          "date": "2025-09-15",
-          "usd": 67.44
-        },
         {
           "date": "2025-09-16",
           "usd": 68.47
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-09-15",
-          "usd": 108.45
+          "usd": 108.75
+        },
+        {
+          "date": "2026-09-16",
+          "usd": 105.54
         }
       ]
     },
     "wti": {
-      "latest": 105.6,
-      "latest_date": "2026-09-15",
-      "delta_1d_pct": 4.15,
-      "delta_30d_pct": 31.44,
+      "latest": 102.14,
+      "latest_date": "2026-09-16",
+      "delta_1d_pct": -3.49,
+      "delta_30d_pct": 34.8,
       "series": [
-        {
-          "date": "2025-09-15",
-          "usd": 63.3
-        },
         {
           "date": "2025-09-16",
           "usd": 64.52
@@ -2033,36 +2029,40 @@
         },
         {
           "date": "2026-09-15",
-          "usd": 105.6
+          "usd": 105.83
+        },
+        {
+          "date": "2026-09-16",
+          "usd": 102.14
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-09-15",
+    "as_of": "2026-09-16",
     "regular_91": {
-      "avg": 3.159,
-      "min": 2.916,
-      "max": 3.56,
-      "count": 66
+      "avg": 3.205,
+      "min": 2.986,
+      "max": 3.528,
+      "count": 65
     },
     "premium_95": {
-      "avg": 3.353,
-      "min": 3.026,
-      "max": 3.559,
-      "count": 32
+      "avg": 3.423,
+      "min": 3.036,
+      "max": 3.749,
+      "count": 30
     },
     "premium_98": {
-      "avg": 3.435,
-      "min": 3.239,
-      "max": 3.61,
-      "count": 8
+      "avg": 3.485,
+      "min": 3.387,
+      "max": 3.599,
+      "count": 6
     },
     "diesel": {
-      "avg": 2.89,
-      "min": 2.586,
+      "avg": 2.933,
+      "min": 2.666,
       "max": 3.999,
-      "count": 80
+      "count": 82
     },
     "lpg": {
       "avg": 0.0,
@@ -2070,9 +2070,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 141,
-    "observations_yesterday": 33,
-    "observations_older": 12
+    "observations_today": 140,
+    "observations_yesterday": 34,
+    "observations_older": 9
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8594,8 +8594,8 @@
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdkY3U3J2WmJISl8ya0hiV0YxbEdhV0Q2NzZHLWxnQTJBX1Jsb0JLMmhOMGZ3b2RYYlJJVjhVZS1QRDdpU08wVm14WTdJVW5vd2Mxa09HUkg0TmRsVzE3cnZmNVVfbnptNHdmeFdELS0tN205anJLcnFjenB2QnNYTFdiV1U3a2x6UE1GWGhHNjRoaWprRDVGNm5SaUVxdw?oc=5"
       },
       {
-        "title": "EVs save NZ $90m in oil imports amid fuel crisis - B2B News",
-        "source": "B2B News",
+        "title": "EVs save NZ $90m in oil imports amid fuel crisis - b2bnews.co.nz",
+        "source": "b2bnews.co.nz",
         "published": "Tue, 15 Sep 2026 01:40:34 GMT",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc1hIcGU1X0tpWlNYd1dmZ0YtOW9ZVG50R1Vadk1XQ3QyR09EWWtTdnRWZjBteXozNGVLT0hqbWloTHRxT2JYdFdEMWdtZHRMWnE4a19sWWhuSWNKWEZmUnVKZWhuWlh2SnEyOERBUU5tYWZ0bUZ1SzFFTWNRNDk3UA?oc=5"
       },
@@ -8606,8 +8606,8 @@
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT1plQi1YaTd3UHNMaW9UX2RPMmhXZ3NrdU9HNXRsRVNmSHZuUWRia2VPMVkxa0RpR2pSWDZscGtCRVFpNHA3eHpYYTdFcFVaSndDN3BKNlJJcFVXVUY4VDlZVHRGNlY2ZElibC1UeUdDdWw3VE1TcW1tUGphWS02Z0NaUm9WeVZ2MkVUX3l3X0E0WDVLTXhsNFdDd1U?oc=5"
       },
       {
-        "title": "Fuel prices tipped to keep rising as conflicts squeeze global supply - 1news.co.nz",
-        "source": "1news.co.nz",
+        "title": "Fuel prices tipped to keep rising as conflicts squeeze global supply - 1News",
+        "source": "1News",
         "published": "Mon, 14 Sep 2026 06:37:21 GMT",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRXctcE1iSTZ3dG01T0JDYVFESW81ZHllZDVtaGJBQllVcGg4VVFQVzJ5cEdlR0otQ3NxbjhXVDdIbXpPX2ZkU3FxTEhPN195c1gyaDA1cHFmSW1HUVJkYmZQR3dWMUc2cGlxUFE4cDhzdWNQQ0VnTml1M2hVd1dEc3IxUWg1M3Y5cm5IbWUzay1qbE5rcEVZNXl0VVB5czhzX0htb1J6QQ?oc=5"
       },
@@ -8632,14 +8632,38 @@
     ],
     "global": [
       {
+        "title": "Saudi Arabia Canceled Europe's Oil Cargoes, WTI Hit $103, and Treasury Yields Reached 5%. Here’s Why Bitcoin Fell With Bonds - 24/7 Wall St.",
+        "source": "24/7 Wall St.",
+        "published": "Wed, 16 Sep 2026 20:09:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxORGFvdGdERlhGTjZiTGJfNWlTbEZLbGU4X3NldTZLNXBVTXZTcVFfWFBvdFJHUEM2Y1lTNjcyaFNycFpxQ1RmdUxVQlFDV25QUGZYdGhxSjBRSUw3bGwtWlY1OXFMUk5EYW5wdkd3SUJmZTdRWjVOck1DbGRkcUdMdHlHdERtVE9KQmFmOXBnbTlHS1JGeWowS0JQSmNQSS12SVhGS0gwbGJsd1IxRHF1blB6TjRNb3ZFZ1d6bmt1NE5xbGJPVWx0d0RZWjlPMlMxTGxtbWdBRkVOMnd6eXFMbldadDQzMjhIVG5VLUI5SEJraThvTlEwc3V5WDA5dnlmcGNYbWx5TQ?oc=5"
+      },
+      {
+        "title": "Oil Futures Pull Back From Four-Month Highs - wsj.com",
+        "source": "wsj.com",
+        "published": "Wed, 16 Sep 2026 19:27:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWUlCM0QyM1lwZFlkZDZrN2lQV1kzSEZmTnJwU0hlMzlzbXVvQzhUWmtPOUxfTDZBNnlsamJVUHRQQXpZSXV0b1lOM2otZFMtVTlVVDExYUtzS3lDbjNuSzQwTUg2aUw1SENIdTJ0Tjg0N25vU0t2U1B2QnFVblltWEtibEVjaFlwQ1NpMFBvNGQ1UjJ6NXVv?oc=5"
+      },
+      {
         "title": "Crude Oil Prices Sharply Lower as Middle East Disruptions Ease - Barchart.com",
         "source": "Barchart.com",
         "published": "Wed, 16 Sep 2026 19:16:14 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEtOS19ncTNiejk5c2Zva2J1M05UOWhSaDB0dzNJQ3JiX1ZPS3E3cHc4Tl9JQXY1U2gxTm5ncUk4RXRNQUZtNlVWQnhVdlBuc2dMRTdnZDRlVlYwTGlLak82V05QWHc1dE91bExtblY2R0h3eVlvYzU3MEpPNWpjUmtqUW5XVWVMX255V3ZJSXFNbHFKUmhrV1Z3UEd5UHlmazM1Z0dadFVJQQ?oc=5"
       },
       {
-        "title": "US House expected to pass Russia sanctions bill backed by late Senator Graham - reuters.com",
-        "source": "reuters.com",
+        "title": "From Halkbank to Golden Global: Iran sanctions and Turkey’s banking ties - Iran International",
+        "source": "Iran International",
+        "published": "Wed, 16 Sep 2026 19:09:38 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfdC1pYTI4SGtZa0plQXQwX3Nqd0VjUjJxb0ZWb1QxeDQ3eVk0amNMMHpPMFZjQVNCZDhjOVdRZnpDRlBuYTgtdXdqaDlyd2VKV3c?oc=5"
+      },
+      {
+        "title": "Continental Strikes Venezuela Oil Deal with PDVSA - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Wed, 16 Sep 2026 18:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWm85OFhlQmFYRC0ya0hzM3lCYUROUkpLRW5lQkpDa3lpU3VqOTJ2V0lBM3h1UFlDUGRmcl9HN2h4TnBUa1JpWi1Fa3Y1Z0IyS3dnb09YYTFKcURfN3VJREVEWk8xMXhYTUdQSzd3YmR0MXZSSEk3OFpWNzV3cEtrdGNsbW5oVGtWTmJQWXBneGx0T0Jza1g2NF91aDg2MjRjcW10QXlRX1XSAa4BQVVfeXFMUC0yTlMyQ0VfcXJlSmlmYnJrMXR3Um9za2MwZ09YNDM4bno3YzdNU21aWDZvdVNiVmg5VFBOYTlDNm5MQTFlZFNCUDZSM0ZPbDI2bDY2MUp3OEo3eVRRa3UyTU5EOWNvWDgzcTlvWTE1TGQ3NzBKSVZoOWlzajk0c3g0V2NPMk84Rk1PS29icWkxSl9KcmpFTE1sUXlyVG5sNWJ4SVNQZHFoUEx0Q0xB?oc=5"
+      },
+      {
+        "title": "US House expected to pass Russia sanctions bill backed by late Senator Graham - Reuters",
+        "source": "Reuters",
         "published": "Wed, 16 Sep 2026 18:29:12 GMT",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdGtKVXRwQXN1c3J1bnpHcXNvRzJEbE9DVEVqV3JOQWttNmNhbHR3ekdVNWhKY1VUSHVuUmZvLXJILXNXRWI1bWhpSnJNV1BqUGhESUl0dGFpUUJDVmtvTmZpeV9ZR3F3bUhJZGFfNllUdENsemJHd0xubFBzUy0yanFES0xxX0FPc1p4UHpNQnh6VU1NSmhwOHp1ZHdka0ItUGlKN0NlcE1Id2J1RjVpcUVZLVZlcFZ6bnd1R0FMVQ?oc=5"
       },
@@ -8654,30 +8678,6 @@
         "source": "WRAL",
         "published": "Wed, 16 Sep 2026 17:44:38 GMT",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM3hGRm5lY05PaFlPY0JHQmZsR0NXdFdfUU1Va1I4eElWdmlqakxILXNFdDRMOTlXTGU1Z2JoNC1DcDdGSl8zdzRkVmNxN3RIZUVRb2x1WnJXdVlmemVPQXoteV9CY3otZ2ZySTVJUWJ3ME5WSXlpWFN1Y2cxdk1XY0M5cHUxUjFpdFBLZmZFRlhMaC1jeFczODZ4Z0poNk1NV2pDUmwyck1HYWFPQUE?oc=5"
-      },
-      {
-        "title": "100% tariff on India? Russia sanctions bill clears key hurdle, final House vote next - The Times of India",
-        "source": "The Times of India",
-        "published": "Wed, 16 Sep 2026 16:16:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQaEdkZjFaYU9PYXRrRUxKa2pNU2szZjA4WXdNdTZyODBXN2JpeU5QOHhZOTZQYnE2aUEtODFoVkloUFZOUDFMYWh1b1g5RG1oeUJRdVdsUDhTTFFGY0hmR0lVU1J4SVJscnFiOUFVV3dTZUV6QVdpNzgxVEJtcUNZN2RuUlJGUldHNUhjR1cycVNTWjdYT0ZIdmUxZm1kbGtneWEzYWJWZmVPMFAyb0liS2lpc0JLV0d2RS1zMm1CS3VCaWowVlR1alFuM0JpMTVoSjJTUzFockV3dVZqZG1lMngzanEzOTNUOVRPQ1Jpak5IUzJyT3dZWFY0UDRvZzRNVlNEYnJ30gGLAkFVX3lxTE9qN0lsTWVKTEllczNBdkpGR2VhemZ5akZNdTRlYUo4YW1MQnlfMEtURkI3Q2JRbWQzeXZVU3dVOE1xbVlUYjM0bjlwS3Y3S2VWNG1Uczk3b2lQckpkUVM3elFfQThCY0RGV3Z6cGVPTjBKT2FmWVNBRzVtVElqTndDbVRhSnJ0NXNMUnBZaFJLZ1h1UDM1b1N2bl96LWxlNlZiNk9xaW9VdXBxeHBmR1ktdGQ3S1FmWTdHazF2NWtvbVhnM1B5dHZBN2l5OS15M2FuZE51RGtFay1kNC1iZkYyaGtTWkc4MVFBdkt4Y290RU4zaG92SXRha2VlZGl3Q0NlaE80VTB1d1A2QQ?oc=5"
-      },
-      {
-        "title": "US House debates Russia sanctions bill targeting India and China oil trade - India Today",
-        "source": "India Today",
-        "published": "Wed, 16 Sep 2026 15:52:32 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRllLREJfanV4STFPYUxYM3kyVDhwRDFvMDlqa25wWFNpcThHem02MmNJaDVmM0c3SmlBSXZqS3BHWXFES1p1ZUJTMEhnYWZtczllMGpJcUJIOXdnS2VHVU9IZ0NXZC1hZzFNSE5tMktNbkYtS1VjSV9neW9RNVZjQzRGRHBzMC1XVEVBVHpSR19CU3R1UEhpdlJkVWlkMUEtbUJ1cTJQSHZBN2szUUpqaW50VTBMMDVQNXBkcHplUl9NS2pOOS1lZGhoSWI0Q194ak5oSlp0TGQwOUdoRUHSAeMBQVVfeXFMTUZKZHJKNVJ0dW9tMTVkS2FhS1MxNGJLQWZYTXVmZlNvaVZ6dktkVlZxdDY5UjVfN0s2LWNtVGxiNUxBblQ5aWJkV2FpWHQxTjhoc211Q25RZlotbmNTSzhPeGpHNFhCQU1DOXRyVWpSNUpYVlN1Qm5uZDJ5MGxFc0I3X3ZMakpiM2NFWFY2Y2RJM2V0dzEtZUhMVGtyQ05NWTAxWmtoTlVyZmp2Y0ZvSDVyNXFDbW9CZ0p0dHplQVlUWjBNbHFlZjkxR2oxb3hQT2pBQXhhNkszamJvSE1hTTVXNzQ?oc=5"
-      },
-      {
-        "title": "Oil prices fall around 4% as US seeks to ease Saudi supply concerns - aa.com.tr",
-        "source": "aa.com.tr",
-        "published": "Wed, 16 Sep 2026 15:36:32 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSUJZdmYtTWZjVVA2a2JRYXBNaFJqaHZnTFY4MFZnSS03LXo0eThZX2x6VUowWUlrbUh5QUs1c0l3bHZ4ZWJQOGVGYjBwMnhWb2pKME84aTNCb0NTNXEwUUpPdS1yR0RNUmNEZ0M5WGFQY2VGRTROWnJJNEpLRDhwb0s2TkIwd3hHTm9LUmh4QUJhekwyTE1jRmtvYTJIR1luYVVfUjZn?oc=5"
-      },
-      {
-        "title": "House set to pass sweeping Russia sanctions bill honoring Lindsey Graham - CNBC",
-        "source": "CNBC",
-        "published": "Wed, 16 Sep 2026 15:27:46 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcFhvRmY4VGxlaUd4NFpmcDNQR296QkhNUkdwM0U5RnQ3ZmJVT0UybXZSVEdxeDZhWHhIUFQwV0V1cWxXQzZLS0FLZ1h6WHNBN3VCQ1JCT1VES1M4ZzFWXzBHaVR3eE1xS0FYS01mOXluRU9QS1lLbklCSlY0OURHZjFUdTBmbkdGNUHSAY8BQVVfeXFMTVluWlFjSDFCMGw2U0dtak5mR2ZOV0ZicXlhQzBiWVhfRTdWNzNuYUxkOW9YOVZlRUplNk9YazR4TllhYjJfY2Y0LVZRMkt2Z0N6alJfTUEwYTRvUW1FNXlaODBxeExzbE4yMGplZ0xkZVRYSlltejJOWThQQUt2WHlvYWUyQmp0UmJTek8yMDg?oc=5"
       }
     ]
   }
