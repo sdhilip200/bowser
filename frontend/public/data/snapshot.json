@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-09-17T20:13:33+00:00",
+  "generated_at": "2026-09-17T20:59:16+00:00",
   "fx": {
-    "nzd_per_usd": 1.737448,
-    "as_of": "Wed, 16 Sep 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.742765,
+    "as_of": "Thu, 17 Sep 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 105.54,
-      "latest_date": "2026-09-16",
-      "delta_1d_pct": -2.95,
-      "delta_30d_pct": 32.99,
+      "latest": 104.2,
+      "latest_date": "2026-09-17",
+      "delta_1d_pct": -1.54,
+      "delta_30d_pct": 31.15,
       "series": [
-        {
-          "date": "2025-09-16",
-          "usd": 68.47
-        },
         {
           "date": "2025-09-17",
           "usd": 67.95
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-09-16",
-          "usd": 105.54
+          "usd": 105.83
+        },
+        {
+          "date": "2026-09-17",
+          "usd": 104.2
         }
       ]
     },
     "wti": {
-      "latest": 102.14,
-      "latest_date": "2026-09-16",
-      "delta_1d_pct": -3.49,
-      "delta_30d_pct": 34.8,
+      "latest": 101.25,
+      "latest_date": "2026-09-17",
+      "delta_1d_pct": -1.15,
+      "delta_30d_pct": 34.61,
       "series": [
-        {
-          "date": "2025-09-16",
-          "usd": 64.52
-        },
         {
           "date": "2025-09-17",
           "usd": 64.05
@@ -2033,36 +2029,40 @@
         },
         {
           "date": "2026-09-16",
-          "usd": 102.14
+          "usd": 102.43
+        },
+        {
+          "date": "2026-09-17",
+          "usd": 101.25
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-09-16",
+    "as_of": "2026-09-17",
     "regular_91": {
-      "avg": 3.205,
-      "min": 2.986,
-      "max": 3.528,
-      "count": 65
+      "avg": 3.195,
+      "min": 2.886,
+      "max": 3.56,
+      "count": 67
     },
     "premium_95": {
-      "avg": 3.423,
-      "min": 3.036,
-      "max": 3.749,
-      "count": 30
+      "avg": 3.343,
+      "min": 2.966,
+      "max": 3.617,
+      "count": 27
     },
     "premium_98": {
-      "avg": 3.485,
-      "min": 3.387,
-      "max": 3.599,
-      "count": 6
+      "avg": 3.551,
+      "min": 3.266,
+      "max": 3.769,
+      "count": 8
     },
     "diesel": {
-      "avg": 2.933,
-      "min": 2.666,
-      "max": 3.999,
-      "count": 82
+      "avg": 2.934,
+      "min": 2.546,
+      "max": 3.249,
+      "count": 73
     },
     "lpg": {
       "avg": 0.0,
@@ -2070,9 +2070,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 140,
+    "observations_today": 134,
     "observations_yesterday": 34,
-    "observations_older": 9
+    "observations_older": 7
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8632,52 +8632,52 @@
     ],
     "global": [
       {
-        "title": "JP Morgan says it has no clear oil market endgame as Iran conflict drags on - kelo.com",
-        "source": "kelo.com",
+        "title": "A sweeping US sanctions bill offers Ukraine new leverage on Russia, but enforcement looms - Chicago Tribune",
+        "source": "Chicago Tribune",
+        "published": "Thu, 17 Sep 2026 20:51:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWWpBaWljckJhWl9DcWk3T0FibUJUMUl5UjdYaWpRa0Y0dkNiMXZYRjNrYjVGMzAzZUlWOVFTZWx0VHpmN00waWxJaU52Mmpvd1pUZ0xBVTJVaUoyNVczUC1RTURidFdRSU5UUVprQ3NDTC1pMnBLQ2s0SlFQQ2tBMFRNYzN4ZHliX2pZ?oc=5"
+      },
+      {
+        "title": "Shafaq News..US sanctions Iran digital asset network - شفق نيوز",
+        "source": "شفق نيوز",
+        "published": "Thu, 17 Sep 2026 20:26:33 GMT",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9JNWdjUUphR0pUZFRnR2pPNHozUjhzYUVZMnZLaldEUEtGVjd4ZDZZLUpSUkJMRVB3aThSSkFfTWJKNkRaUmpEaWxub3VkdnBDYkY1WTlVcTlNbjRWMDF3RFlkczQ4eXJfeWZkQlFjRWV4elFvZkE?oc=5"
+      },
+      {
+        "title": "‘History is calling’: Congress gives Trump power to sanction Russian oil buyers with 100% tariffs - Washington Times",
+        "source": "Washington Times",
+        "published": "Thu, 17 Sep 2026 20:17:13 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZFdVblpETFdSS002dTVuWXZpWkdWbTZlV2ZZLXVtN0Q0eldZcUpENGdLLTJRWm80WDNIdWZ5R2g3S0I5aHRQWk5RbzREaldCd0YteTR0WWcyU05FeGREM19EMDNJZVJod0g2ZFkzRlllb2cxTmdEMXFIdEdFa2U2ZFl3U0pEQ0tGT0ZIOTlUNXVvLXZMSjdvWHVNcmVGb0RIUFVTRUdXdVgxZmxSZEdiZG5kOA?oc=5"
+      },
+      {
+        "title": "Crude Oil Futures Post Back-to Back Losses - WSJ",
+        "source": "WSJ",
+        "published": "Thu, 17 Sep 2026 19:55:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRmNCdkk3TTktN0J2bEEtcnBPZW1yNG1HTjR4VDBaZWlOSHNqYk5VMTA2Y0JIWFZMN2Q5UmtvRm9UWmZCVWh1LXNGR3NRMzJVNTl3U0kxWGVJR2tEUGI0NHU5Wmo5ckZZV3R1b0VFaHRNTnI1R25WX2xteU1DQWo4MVpJcWQ1dTloR2FubDFaYUZqLVZRZXBZNDhWd3VCMHk0WDVZNFFxRTJ4QQ?oc=5"
+      },
+      {
+        "title": "JP Morgan says it has no clear oil market endgame as Iran conflict drags on - KELO-AM",
+        "source": "KELO-AM",
         "published": "Thu, 17 Sep 2026 19:54:49 GMT",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMVpES1h6cGhJVjlrbmF2RzJUMDVQbmJMamVUaUJNN0dIRl82NkFfa3hsQUlUbi1SZmVDa3NHT3YycmFqdWdSS18yS09vQnBDN3FnV3RrM3RGdngxNmlYbDBqczRiak43N2luVllWWmpxLVBJNE9mdzFHZ1JES2J5TThrdjg1Q1FaUlJpeTBNTFlMRjRTc29pLUVtRW5XTVVXbmNkd1J4Zw?oc=5"
       },
       {
-        "title": "America Is Paying a Lot for Fuel, Not Running Out of Gasoline - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
+        "title": "America Is Paying a Lot for Fuel, Not Running Out of Gasoline - oilprice.com",
+        "source": "oilprice.com",
         "published": "Thu, 17 Sep 2026 19:30:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb2NyMlFrNmw2Ynp5b3phVlJpSXUtUzUxdlRnT3YwRWc1NmxBRE9JSnc2aHd4YW1mTTJ2dEpucWFMTW5tYVJlLUJQM1hKSTNLMDg3NWVrVnRwT3RxbjgyYkZvMU9rdlBwYUN2VzI5SENSQURSOFQ1dWNkbXFLclBUNXlPeENMTDFUMjhmbVItOVU2dS1xU2xtTWdwcGNETXJPY0tLOTBPd2xwWGtnZGc4ZUFJb2Z4eUXSAbwBQVVfeXFMT0NBOG5CdXdablFfMXhtTHlELTlpRF82cWI4bmtVSWtqX3NUckNZWEdNWjZBTElGdHJOcGZnRGwwM3NOMzlwWEFhWnZWaWVteXE1Zy1hZXE0b1dSbnVQQm4yZXFqX3lGOTRncmFiOUtPaGpSZHhGRjVNNzF5VGJBUzlfQ2hLMDE3YzU3N2RPcDR5ODdnTTRtSi1OZ3QybzNCeXNQN1FFM0lsbC11emdsLUVOU3VscFVYOXN0MzY?oc=5"
       },
       {
-        "title": "Russian Fuel Exports Rebound in August But Still Down 50% From Last Year - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
+        "title": "Russian Fuel Exports Rebound in August But Still Down 50% From Last Year - oilprice.com",
+        "source": "oilprice.com",
         "published": "Thu, 17 Sep 2026 19:15:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeE1QdWlYcWxFZWVfNUVtd3J5bGpLRlNFOFV4QVFIR3RoNzI5b25SR2ptcnc2ZTBrcDN0SWpyTEQyS2p0MnB4YjdiQUJYSUNaRm1qWE14ZkQxY09PR3U0Y0I0MU9qX1hZSEItdklqbVFoQmQzSU05OG8zQ192RWdYV0xOYkhUZDQzbGFqa3l3cmVBbUpuSTh5S1RubndoNl90WjNMS2Q2bmc1N0xqTHRqNXNmc18tMjdqTG1FX2JFbUo2THU1VVHSAcsBQVVfeXFMTThTV2hyM0pucEYwWThWakJEcVdTS2M0a3NyQnlJT05PbF9aOUdGeUJvWDBuTFR1MVJYX1VHVmtndElMUzJUdGUzYVJLUmpsR1VqRU9QdmZKeGhSam1lemZJRGp2d1F4OFhlT1RldW91Z3o5dlRPSVFWUnpIa2pqM3pvNkViQklzN01NUGkxZlhPb2pfNnZpX1prM2hKVFloRjNHT2pSdFJUZUJHTVFOXzZUYUw0VzU0WnN6WF85aEVzVlBwamJFblJVS1E?oc=5"
       },
       {
-        "title": "Stocks and bonds rally after Fed hikes rates and oil prices fall - NBC News",
-        "source": "NBC News",
-        "published": "Thu, 17 Sep 2026 17:48:34 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZENOeXVaU3JvVmFsd3dJT3RJdldFRHpraGhUVkMtVjBCcEl6N0RjQzdHMS1RVS12aUpVTFk2c016RllvT2xxaTJqbEZrSTBJYUFoMEgtQlM3Y1BKNEhRRWhSbUdRUGQ3RWV5RWpMdkZpMGNLMURsejl3VjNNZ1ZlM29ualVkWURfb09BRGN3?oc=5"
-      },
-      {
-        "title": "Gold prices rise amid weakening US dollar, falling oil prices - Anadolu Ajansı",
-        "source": "Anadolu Ajansı",
-        "published": "Thu, 17 Sep 2026 16:41:25 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMUtuZ2kzclNPeDRnY295TC1XZ1NjN0NULTFvaFFpNWkzV3NkNk5TU092VlFraDRfT0d4ejl2REI2X25nR1AwLXB3VTF2azVGUkowYzNGN084ZWdQOVdveDJTSjMybFVMekg1VW9zQ2IwXzJUbVp4dWVQUWFwYnNRV2JJd1pUeXJCd2pTdllBdU9ab2drZU9zeE4weHpVYmFfcEgw?oc=5"
-      },
-      {
-        "title": "Oil falls 2% to one-week low as Middle East supply disruption fears ease - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "published": "Thu, 17 Sep 2026 16:17:26 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSGlNX2pOM19UZllfNXotTUh4R0VOeEgyT2ptWEhiT0FvWEFOWVVpRUFmZ0VoTWc1aTRrNDJuelI4S0hQa1g4QXlQZmI0ZW92NTBZb0FLRk1oVG1Zb1RIOXFWenc3bEFfRU5RSURZTHhQeU1PbFdLSzY2Q3h5OVZpQ3N5MHVwb2NmaFFqWDRhS0p5QQ?oc=5"
-      },
-      {
-        "title": "Oil falls 2% to one-week low as Middle East supply disruption fears ease - Euronext Markets: Real-time Stock Market Data | live",
-        "source": "Euronext Markets: Real-time Stock Market Data | live",
-        "published": "Thu, 17 Sep 2026 16:17:26 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdkhKTnhYaVlhRmRGalZOMkhBVkZJYTdnR1A1VTVZc1AyNk9aMW9yb1BfdUkxZ0pqYWJwWWFZQ1p3NmhDdDJMb183bzVrM01pWVlrb1ZoZ1h3dHdoMHVmRnl3OXlacjk0N0FzU3lEYWFsdG9xMGhBcTR0cUJOVjVLRWVDbWEzNUZTRVVlLWxGT3RFV1JGVDl1TUJ3cEZkOXdOZFBEMTQ5R2Fxdko5YVE?oc=5"
-      },
-      {
-        "title": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Thu, 17 Sep 2026 16:13:58 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc043cHk1ZjIxLWc2RVJUX2p1NnRHMmpRamNpNkVJNTBkNjliR1Z4amtCdkdVUzkzUnBRQ2ZpWFhHdGRUUWtybzFieTY2ek9qazdPaG5Ec0d3akx6a24wMlYzaDdnbjZrbmNVdTdZdXZSYlhGTVFUOHJoTGZhQ1RJR2tyaDNGckF0OWM0QW1ta2lVbnFoOFE?oc=5"
+        "title": "US Congress passes Russia sanctions bill - DW.com",
+        "source": "DW.com",
+        "published": "Thu, 17 Sep 2026 16:49:11 GMT",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RUFVzeUhxTjN5UEpCUEN4bU14T3lYOVBROGxCckticlZFbGJWRTNGSU9IN3h5MDZCMTktVUpQREViUF9qYmRuZ1NwNWZPOHd0VW1lODBHYTFlUDk5czM4X3FOMDQyOTc1OE9YZzE1VG5DOHlDMVktWUxzWjg4QdIBfkFVX3lxTE5mQWlNTk5ST3BkWHFwZGhZaHZTMkdHZDlIVDNUd0pjcy16R083VkZWclNhd2FUTVRvQ3d4a01lRW1LcGl4TkNEdkdsUjhNUVVONFR5T3daQTNSZzlFa2VBTjFlQWU3QnhmSWo2a2VMU1BRV29UWEFWRi1CRXRaQQ?oc=5"
       }
     ]
   }
