@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T01:18:49+00:00",
+  "generated_at": "2026-09-17T06:18:34+00:00",
   "fx": {
     "nzd_per_usd": 1.737448,
     "as_of": "Wed, 16 Sep 2026 00:02:31 +0000"
@@ -8582,6 +8582,12 @@
   "news": {
     "nz": [
       {
+        "title": "New Zealand economy grows by 0.2% in June quarter - RNZ",
+        "source": "RNZ",
+        "published": "Thu, 17 Sep 2026 03:21:47 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT2d3R196bUJBZ0NWYVhkdUlEbDJsOHlDTGJKRExkdjdVZDBycjlJRHpOSFgzX2ZJR2F3azQ5STlveHYtWU5XTkZFR2k4WUhLMWNjd0Ywanp0cWlZWWVILUlyQ3FiWjlBN3pqc2g5clRiTVhyd0xPdk9EdGctMXdING9TRE96TXhjZmI4ZjNTd1JpQnBIVWN4QjZHR3FjMUNnWnFrWjRxaHUxUQ?oc=5"
+      },
+      {
         "title": "NZ fuel supplies face increased risk, and no price relief - RNZ",
         "source": "RNZ",
         "published": "Tue, 15 Sep 2026 06:53:04 GMT",
@@ -8598,12 +8604,6 @@
         "source": "B2B News",
         "published": "Tue, 15 Sep 2026 01:40:34 GMT",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc1hIcGU1X0tpWlNYd1dmZ0YtOW9ZVG50R1Vadk1XQ3QyR09EWWtTdnRWZjBteXozNGVLT0hqbWloTHRxT2JYdFdEMWdtZHRMWnE4a19sWWhuSWNKWEZmUnVKZWhuWlh2SnEyOERBUU5tYWZ0bUZ1SzFFTWNRNDk3UA?oc=5"
-      },
-      {
-        "title": "Petrol is over $3.10 and diesel is rising fast but what’s causing it? - Stuff",
-        "source": "Stuff",
-        "published": "Mon, 14 Sep 2026 23:35:09 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZW8wRzFhS1pGYmhZZERxMEZ0SWdmckFHMzBLVjV0OXE0dHBZQnRJTjgtY2plV1RubXUxSW9kUW1mY2Fxb3o4SnZGeHZVYXBWSHpMbHRqa08xUF9nS2NnSlo2THI3MDQyRlRsVFVyRGtnM3hFQ1JRLXhMYXRsV2VLcDlMSm8zNkM4LU85TjBTdVdQdnlnZ2I2WmtWRUxaQQ?oc=5"
       },
       {
         "title": "Electric vehicles save NZ $90m in oil imports amid fuel crisis - Newsroom",
@@ -8632,52 +8632,52 @@
     ],
     "global": [
       {
-        "title": "Oil prices extend losses as fears of Middle East supply disruptions ease - Reuters",
-        "source": "Reuters",
-        "published": "Thu, 17 Sep 2026 01:00:00 GMT",
+        "title": "WTI Extends Slide as Weak US Stock Draw Weight On Oil - TradingPedia",
+        "source": "TradingPedia",
+        "published": "Thu, 17 Sep 2026 06:07:42 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeXFsdGROdm9RbHpqUXBYeXVTUmhYcEZsZ2U0czYxRUVYT2JsWVJiVmpfeWtLbXE5SDVkN2o4QVVHRnpwTGNOR3ZXWEd0blRlSWlXNl9BWkJRZVQyc1YxZDlrenVYY0hkRzFfaURyb2lXT1p3UjFsTmhvRzN6cVZiczFneUF2aUhsdG9XcHpDX3VVcUZCZTVFLTN3?oc=5"
+      },
+      {
+        "title": "Thursday briefing: Yemen’s war continues to threaten oil supplies– but what about its people? - The Guardian",
+        "source": "The Guardian",
+        "published": "Thu, 17 Sep 2026 05:47:34 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNODdjUjBOWFppcm1DQkFHVWdROUhqY01MTUJhUGQzemd6THowVGJ1Rkg0Nm1LOE5ZQVNUd2pERnRDRnJLdUhkbHNoSzJBRW9meWdGTDFDN1dSbE1jYzZTSkN6OVE2SnEyTzNBLS03Uk1JSVM2WDg4RUd0ZHhoSks2c1JaZi15TUw5eHJhM3djVGVJTEJ0aGl6cWR4V01wRjFuRnFrWDhsVnp0X213enp5ekROTGs2bVY2VTJLZm9sQVlhamJpMDE4S211bHc1UDFN?oc=5"
+      },
+      {
+        "title": "India faces 100% tariff threat over Russian oil after US House vote - BBC",
+        "source": "BBC",
+        "published": "Thu, 17 Sep 2026 05:33:29 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoVV9BNjBYTTRFMFg1V01KazlncmxrX0hkSmM3UXNCbHR0SlowdU9ST2VaRVNvT3J0MFIwc0c0ZUxGM3NLV1A2ZEZwVVFDd1JaZDI3dHlqQzRwdFk?oc=5"
+      },
+      {
+        "title": "Oil Prices Slide as Saudi Arabia Reroutes Crude via Oman - oilprice.com",
+        "source": "oilprice.com",
+        "published": "Thu, 17 Sep 2026 05:20:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYzJGNEtRTjVBUUxpVjhGMTdFTHlJSVVtWmpkbzNlU2hMbXRfQ3dzNlhqa01rcXRlSGVxVkMtTFIta1hTN3hPcVdLVndJY21EVlJaY2Voa3pDWG9OUVNmM2x3V0h0VkZEMF9za1NqaF8tY2lBa1NnRnZkakpTLW4tN3otYVVzOXM4aUwtUmtDeWVGQ3U5d2ZDMmZyN1c1VksyaTNfM3JNY2VONWpQOEctbm5B0gG3AUFVX3lxTE5OS09DS01LQ0VvdVRGZGhJV1FCaW5LYXM3bW44ZlVlc1h2bzQ2Z3ltWlJrcFFEQ3YwTkNKOWtKLUplWnRYY25aVkNNNTBaOG9ESlhIaF8xYzVZVDdMbmJfSGJEeVlrd2hEcUpDeHd5eTNuNi1lSE55cGNLTmdZQmQtT3NnS0V4TnRjRG1OdnVYUFpVd2xEbGl3WnB5dWVkdHllVkNJT2JXT0NsVmZ0ampJbWxfSklvaw?oc=5"
+      },
+      {
+        "title": "WTI Crude Oil futures ease as diesel hits record high. - CME Group",
+        "source": "CME Group",
+        "published": "Thu, 17 Sep 2026 04:54:29 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVklFdG10alR2UlhaY0UySGo4WjAyc1h0M2RvakZkQVR2eEpwME9zQ1k5dEFtbWtOSkNNazlvWFZ2b2pRbnJtbnhPd2JmeFV1WDVNYl95NFpBaHlFMmh2TnpodDlRN0tIVnh3aGFUZjJVSDM5bHM1SWZROVZEcHlKc2NIOEdvaVdYSHI4Z3dxS0ZmYkszVGZzSTdfNnhpSFNCLTdLQnZDWlpIMk9OQ3c?oc=5"
+      },
+      {
+        "title": "US Sanctions Threaten India with 100% Tariffs on Russian Oil - Rediff MoneyWiz",
+        "source": "Rediff MoneyWiz",
+        "published": "Thu, 17 Sep 2026 04:44:01 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOUVpZ2YzbVZFenV6Yk5EaFBkWVNtbXpVbzQ5ZGlNMlVfLU1kQUgwbnYwR3NsTjJmTjdMdk1uV1BtQm1uenNMaTN1YTdRYlRCY0F0Um8zbVY0NlpDYnBaOUFfZU9BZ2poVFREbHZjSi00djdkOGpCYm9DWXZDem1IUlB6T1ZXa1d4WXAyazNSaGdhS2J6Ym13cVgxckdqX1RuaTFxdzM3LUt5Rm1rQ3hVMNIBtgFBVV95cUxPa1VIYnozMzN1eVBvRXVmS2JIeW5DVkpUVUloNG9tQVBWeDJRQzg1VlBkRHZLNWhIUUJpQ1dEeDlRZXFxZ19YYnVSZWh3NF9ka1hsaHNLUFNxbjZ1M0NHb3lvSzd3Xy1mWUc4MDFlZ282MnBLYlMzX2lmLXYxRm9mUmJmczhudnh5T1gwT2NpWmtYSU91LVk3NW1jVTVuRFJfVE5NY3FweXBjX2Vibk1VQXNZdW1HUQ?oc=5"
+      },
+      {
+        "title": "Oil prices extend losses as fears of Middle East supply disruptions ease - reuters.com",
+        "source": "reuters.com",
+        "published": "Thu, 17 Sep 2026 04:34:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQem15UTRSMDAta3NrU2VpWTcxVllaeWVZT2wyc1gwQUs5aER1ZFFtaG8zNmI4UkZGV09BOHV6eGVHdy1RbTZWZXVkdklmSkVnMUtqbk9JZkdPb19FakhJc1RaUFRMUlNxR3F1VUx2TTZRcElaQk9ISmJsaWozRFNETDcxcjZxT0lJTm4zbV9CN1hETXB2SnYzQkhwZVpobENkRTBfYU5UbjZoUVhGXzZtM2xNUDFWdkJqUVE?oc=5"
       },
       {
-        "title": "House passes Russia sanctions bill that gives Trump more tariff power - upi.com",
-        "source": "upi.com",
-        "published": "Wed, 16 Sep 2026 23:59:11 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORy1GRDh4SVFvLUZHekhQMGtzV0ZEdlRyS3JyVlo5dzZ0SEFNVzJzanZxdWNrd0NRQ3B0cjVTRUVwb1BjYVZZNGRWX2VWY3RTa2k4UHRlYjg2XzBQem5hMDFCQ2gxQm91MkpjZ3VvNkRWbERtemQxeEpEQ29mSWRVY1l1YU8zS3ZFemE1VU1wOHJ3Yl84bHFZ0gGcAUFVX3lxTE92TXd2WFZybFpmTkdyckQ1VnlHemVqdDJRY1JLRFdOMm5PMVVNcWU5RlZYcTRTRXZIQkVlMUpMWEg2NGxUZnNwTERTMEtZQUE3SmJMM3Q5bi1EWVphQlQxV3NjdE02QWhRSkt3bUdqZ3VSMm5BTWQ3TkxwanZtdEg4anFhWktlWXBoQ1c5MGdXTTBMWXVoSGJwSEt4Zg?oc=5"
-      },
-      {
-        "title": "U.S. House passes Russia sanctions bill seeking to impose up to 100% tariffs on India, others - The Hindu",
-        "source": "The Hindu",
-        "published": "Wed, 16 Sep 2026 23:12:59 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmVCMHJpRGp4a1NjbDRfUXVrb3ktVzBHLUJzTlBjc2t5WXcxVVl3ZkhjUWZHMkZnSl9DY0tFYVc4NmxvNE1pRWk5VjhVaE8ySmhKajV1dXBZVG11YXBST1ZYWHFxb1lhcFZXdnd4VktNM2gzczl3RUFNc2E1NUVETDREc3ZPRk94UXRTU1E2M2hVTU80UXhRYTZmUjBxNi1sQXV5RGxGMXJfZXVOY3NqYVF5TV85QQ?oc=5"
-      },
-      {
-        "title": "US House passes Russia sanctions bill championed by late Senator Graham - Reuters",
-        "source": "Reuters",
-        "published": "Wed, 16 Sep 2026 22:54:05 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdGtKVXRwQXN1c3J1bnpHcXNvRzJEbE9DVEVqV3JOQWttNmNhbHR3ekdVNWhKY1VUSHVuUmZvLXJILXNXRWI1bWhpSnJNV1BqUGhESUl0dGFpUUJDVmtvTmZpeV9ZR3F3bUhJZGFfNllUdENsemJHd0xubFBzUy0yanFES0xxX0FPc1p4UHpNQnh6VU1NSmhwOHp1ZHdka0ItUGlKN0NlcE1Id2J1RjVpcUVZLVZlcFZ6bnd1R0FMVQ?oc=5"
-      },
-      {
-        "title": "US lawmakers pass sanctions bill to put pressure on Russia’s economy - Financial Times",
-        "source": "Financial Times",
-        "published": "Wed, 16 Sep 2026 22:52:13 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdHduSm5xOXIyMVA0R05BdjJISU5uekJ5NWcxVG5oVHpCZ0NhdUh2V2QteG1fNWZUNXFNLWVRNTYzZ0loOEdsc0FaRk8xS1Y5OGFhUUxvdUdiQnEzWkdrMVc3X1FHV1Z3MDhnV2pnTUEwVV9yZHB0LWg3LXRNVWRDRDdTU1I?oc=5"
-      },
-      {
-        "title": "100% tariffs on India? After Senate, US House passes Russia sanctions bill, awaits Trump’s signature - The Times of India",
-        "source": "The Times of India",
-        "published": "Wed, 16 Sep 2026 22:40:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOaGhEcFQxNUppbVhpemk0WXJoY0hRVzYtZU5LbmhmcHBWbTBGQTU3bDJwVW5TdnUtLU1aWVAyMHNpdk1jTExoX1YzVUM1UWVsMmU4Ynd5N1B2aGxHNDNuYl9YdEU2bEVJS1RyNVZCb2VGblpqNkxiNUJNTTU4YV9zMjVwVTJDdEthSHBQOHNvc2VDNHk0eG5laFNjd3FBU05yTHZ6c3ZGVHM2MjgxeU80X2UwT3BqU0F3VlRnMHBGdFRueTE3OHhWWHF4RV9QaG5wMVZWLXdzdTdhc1BIOE1PSENjTDVPRFduZndha1I2MzR4NXZZM0JzaGVZS2lFbU5nWi1pcldBR1FJUdIBjwJBVV95cUxQZlctUlFtTWVhX3EzaUpxYzRIUXNFOEVRaWU5a1Z4bS1IUDY3ampPVEI0SmFzbFpKbEFlQ3BzdEt3SnNueG1OaEMzZW9MYzZRYld5NERhcjRxRGdaS1A4T0dkcUdsbUkwTlpBUFpHZzhHV2dXdnhJRG55MHJjWmZxWTF5WktjbnI2b0VnVjdYa3otNDNEMkJnVlY0U3hhbWpabGJJb0hhNGZER1lFb0V1aWVxVWV4a3gyT1V4Y1ZVaDRscXU3RlZZTmw5RVdXWXRQbW1BWElpbDhSRHBubkhPeDhHZXBQNURNR2J3d1kzajBraHVqbEx5UFlOWjhWd0U2eE9hdEhHbmhoekdTREZJ?oc=5"
-      },
-      {
-        "title": "‘History is calling’: Congress gives Trump power to sanction Russian oil buyers with 100% tariffs - washingtontimes.com",
-        "source": "washingtontimes.com",
-        "published": "Wed, 16 Sep 2026 22:37:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZFdVblpETFdSS002dTVuWXZpWkdWbTZlV2ZZLXVtN0Q0eldZcUpENGdLLTJRWm80WDNIdWZ5R2g3S0I5aHRQWk5RbzREaldCd0YteTR0WWcyU05FeGREM19EMDNJZVJod0g2ZFkzRlllb2cxTmdEMXFIdEdFa2U2ZFl3U0pEQ0tGT0ZIOTlUNXVvLXZMSjdvWHVNcmVGb0RIUFVTRUdXdVgxZmxSZEdiZG5kOA?oc=5"
-      },
-      {
-        "title": "House passes Russia sanctions bill, overcoming opposition from Democratic leaders - CBS News",
-        "source": "CBS News",
-        "published": "Wed, 16 Sep 2026 22:33:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EYWhRQVlOTGQ1b3AxdzQyR1VEUGh2UlFnV1ZWNG11VnhpTVp3NXh3STFJRTZDTzJmZC1mVk5JMFBCekxXRkQ5OHBFSVNZUFl3T0lJQ0QtNnZpNWgtRHhWcTA3SG5QY2F5T2NUcS1oWk8?oc=5"
+        "title": "Oil prices extend losses as fears of Middle East supply disruptions ease - TradingView",
+        "source": "TradingView",
+        "published": "Thu, 17 Sep 2026 04:32:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMGU4aXZzME5qZTY0dU9kdkt5X3FtSDFRVDVsR1RlOEVwdWhZa2lZOHJOdnBsTWltc3lmOWxIeE4wX0NEb2d0MFlld0xxeTVFanNBUjlpeXZnbzhLQTBiSTFVMjJrMEd1VHFRVktuMHIzUFNfbVZ0WWhLTGl1ZEl3TjJSNm1UMUdaZ2s4WUdwaWtuVnFEMEUtM1N3T3lVWXNuRmdieUpZUVR6TnNGdUU5Y211VWxYVGVCRnJNVmFDb2RBSmVEbFFER0VRMDlIRXVUM1hPZXVrcjFCdw?oc=5"
       }
     ]
   }
