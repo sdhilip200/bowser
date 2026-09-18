@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-09-18T18:35:03+00:00",
+  "generated_at": "2026-09-18T20:28:47+00:00",
   "fx": {
-    "nzd_per_usd": 1.742765,
-    "as_of": "Thu, 17 Sep 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.744296,
+    "as_of": "Fri, 18 Sep 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 104.2,
-      "latest_date": "2026-09-17",
-      "delta_1d_pct": -1.54,
-      "delta_30d_pct": 31.15,
+      "latest": 98.71,
+      "latest_date": "2026-09-18",
+      "delta_1d_pct": -5.83,
+      "delta_30d_pct": 19.66,
       "series": [
-        {
-          "date": "2025-09-17",
-          "usd": 67.95
-        },
         {
           "date": "2025-09-18",
           "usd": 67.44
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-09-17",
-          "usd": 104.2
+          "usd": 104.82
+        },
+        {
+          "date": "2026-09-18",
+          "usd": 98.71
         }
       ]
     },
     "wti": {
-      "latest": 101.25,
-      "latest_date": "2026-09-17",
-      "delta_1d_pct": -1.15,
-      "delta_30d_pct": 34.61,
+      "latest": 95.45,
+      "latest_date": "2026-09-18",
+      "delta_1d_pct": -6.34,
+      "delta_30d_pct": 23.5,
       "series": [
-        {
-          "date": "2025-09-17",
-          "usd": 64.05
-        },
         {
           "date": "2025-09-18",
           "usd": 63.57
@@ -2033,46 +2029,50 @@
         },
         {
           "date": "2026-09-17",
-          "usd": 101.25
+          "usd": 101.91
+        },
+        {
+          "date": "2026-09-18",
+          "usd": 95.45
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-09-17",
+    "as_of": "2026-09-18",
     "regular_91": {
-      "avg": 3.195,
-      "min": 2.886,
-      "max": 3.56,
-      "count": 67
+      "avg": 3.243,
+      "min": 2.959,
+      "max": 3.459,
+      "count": 68
     },
     "premium_95": {
-      "avg": 3.343,
-      "min": 2.966,
-      "max": 3.617,
-      "count": 27
+      "avg": 3.409,
+      "min": 3.099,
+      "max": 3.659,
+      "count": 32
     },
     "premium_98": {
-      "avg": 3.551,
+      "avg": 3.563,
       "min": 3.266,
-      "max": 3.769,
-      "count": 8
+      "max": 3.679,
+      "count": 10
     },
     "diesel": {
-      "avg": 2.934,
-      "min": 2.546,
-      "max": 3.249,
-      "count": 73
+      "avg": 2.974,
+      "min": 2.616,
+      "max": 3.259,
+      "count": 75
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 1.94,
+      "min": 1.94,
+      "max": 1.94,
+      "count": 1
     },
-    "observations_today": 134,
-    "observations_yesterday": 34,
-    "observations_older": 7
+    "observations_today": 50,
+    "observations_yesterday": 128,
+    "observations_older": 8
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8588,20 +8588,20 @@
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc1pSakxjVlZDQXBiQ3d2Q3BZdXBPeFFOX2pseFhHZTlkWmNZWkxueDdPYjc1QkRCS3JDS1kxYTVEWVozMTc1NVJzY2JDb3UwaUh6TmlRekxQQjdPdVkxOGhXM2xfZGJ2QVZ6MUNZYW91bWRWOFVGZGRyY1ExYmVLMmFFMlFzRDFqOVl0RmJNTFRFV3FWRmFjSFY3WTB0RTh4dkQ0dHRpdEJnTjZYRTNpWGI1SjdzZzh0c1Bfa2IyUndyamh4LTJIVDVCWEZOUWhvMzlodjB3?oc=5"
       },
       {
-        "title": "Petrol hits $3.25 a litre as AA warns prices are likely to stay high until mid-November - RNZ",
-        "source": "RNZ",
+        "title": "Petrol hits $3.25 a litre as AA warns prices are likely to stay high until mid-November - rnz.co.nz",
+        "source": "rnz.co.nz",
         "published": "Fri, 18 Sep 2026 03:17:05 GMT",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV3VaV1BZM3FLMVJDUTF5Tjd4NEpVZUkwVGpvSHhJR0xpc25jUlV6RGloM0ZFU2hvZWpYMEZ4aEl2N1UwR0JNMTFUUzBUZ1dFWFRvZGZlM0I1MnBPQkh4T3hGQnpJV0NwaGNycXdKTmI1TG4zU0haMkRvTlJreDA0NjYxMHMwRkkwQ19IRzZ0bWpoZE05Y3I0Y1paVmItbmpJSnhWTW1ISjFNY0RYRVI2R3QzZkVxY0hLN2c2a1JYSE5WcjdOclZvZ2s5MTg1aDlZaVE?oc=5"
       },
       {
-        "title": "New Zealand economy grows by 0.2% in June quarter - RNZ",
-        "source": "RNZ",
+        "title": "New Zealand economy grows by 0.2% in June quarter - rnz.co.nz",
+        "source": "rnz.co.nz",
         "published": "Thu, 17 Sep 2026 03:21:47 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT2d3R196bUJBZ0NWYVhkdUlEbDJsOHlDTGJKRExkdjdVZDBycjlJRHpOSFgzX2ZJR2F3azQ5STlveHYtWU5XTkZFR2k4WUhLMWNjd0Ywanp0cWlZWWVILUlyQ3FiWjlBN3pqc2g5clRiTVhyd0xPdk9EdGctMXdING9TRE96TXhjZmI4ZjNTd1JpQnBIVWN4QjZHR3FjMUNnWnFrWjRxaHUxUQ?oc=5"
       },
       {
-        "title": "NZ fuel supplies face increased risk, and no price relief - RNZ",
-        "source": "RNZ",
+        "title": "NZ fuel supplies face increased risk, and no price relief - rnz.co.nz",
+        "source": "rnz.co.nz",
         "published": "Tue, 15 Sep 2026 06:53:04 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSmcyeGdkOFgxQVEydXN4Vnd6RjVzcmdLMVlFbFhrOHBoMDJpQVhaelFYZDdaVkFrMEhEbEp5S2RCTDZCUWJldE93Z1FvUDFpZ2pHT1YwcVZ1ODRiY0JVWWYyQXU5SkE0ZmkyS3FRTEktektrS2NDRElVMHpkNEc2YVh4NGM2aVdzaHV6SlJ3aXhEUy00OUlyZFRWWGRaajNXLVE?oc=5"
       },
@@ -8632,10 +8632,22 @@
     ],
     "global": [
       {
-        "title": "Saudi Arabia Has Another Option to Get Its Oil Out - WSJ",
-        "source": "WSJ",
-        "published": "Fri, 18 Sep 2026 17:58:27 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORTBIS0lsWE5pcVlmb1lCcHlzYXdySlY5bTNBNDUxNGdKclJXU00zOVpLSkhlWVJFaktYN1ZRS0FEMUIxOUctb1hVb3I4TVZsci01YjRSaTBNN3VZUWNTU2o2VnpkdElIVHpvT21lT0pOcjVWWmxrN1RJeFpfNWtEWnFqd3R5a29IakZRT2xTanQtY2x1LXltMU5NVTZnUQ?oc=5"
+        "title": "Democratic Leaders Fear the New Russian Sanctions Bill Could 'Harm' Americans. Here's Why - Time Magazine",
+        "source": "Time Magazine",
+        "published": "Fri, 18 Sep 2026 19:36:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQjZnNmZPbHZxenlZNExLMlRmX2NKRXhHZlh1U1JqUTlMMzM3NXpZVVBOLUFRRklhakduNm90Q3AydDJ5djhBT3RGeHd0NnlJWEVXRWxHZkMzQUxsWl9UM3dWMFVIWVZFX0RMdTE3a2xvSWxBSzAwaXFhYk0wRl81blVORGVvcXV5RXhCbDFGVlhTMENENjRjbWYwdkhFLXBnc1JIRQ?oc=5"
+      },
+      {
+        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
+        "source": "LiteFinance",
+        "published": "Fri, 18 Sep 2026 18:36:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
+      },
+      {
+        "title": "Brent crude oil steadies on shifting Middle East supply outlook - Times West Virginian",
+        "source": "Times West Virginian",
+        "published": "Fri, 18 Sep 2026 18:17:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYTQzbUE5endJSllWMWxXU2xoNHlSSkhMOWFnaDVjOWVkOUtOMC01V3F0THlhUmE4bUpKWTBlNEFvSHRueG1rT0pFVUNQWXJTTi1abW9WcUZjVFItNFRHMEMxb1FVNjd4NFN2QmR4Rnl0dHBoNF9FVDYtSWtHdXhKaGxaM3Z3UGVQS053UGVfaGRvMWk5by1TR2FvSWRDRzZKRWk5N0gyVUtudFJhTjRQODFjeXRZMm1EeGNQVjBDbU0wUkViTlZ2NG5teEd0aXBnQ0x5Y3FVNkc1b05ZUUR5Z3lFV3JuUQ?oc=5"
       },
       {
         "title": "Saudi Arabia Cuts Europe Off From October Crude as Gulf Exports Surge - Crude Oil Prices Today | OilPrice.com",
@@ -8666,18 +8678,6 @@
         "source": "marketscreener.com",
         "published": "Fri, 18 Sep 2026 16:05:39 GMT",
         "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMnc3QXRJU2hhMFNGNzlfUVlxTGc5LWV3WjJRQnBULXN6dkk5V2JMSEVGMk5RZ1l0bms2YzdfZHdmeF9IUnhGVE8tVHY3c0JZb2VYazQ3VTI1Qm1qUGlKS0JVRmlKOXZIbWhINFVzVUg1V3R4MzZJSlRxMzMzN05ISHAwNTNjblRjZkZVSzM5bGM4b3hzeXhjTVV1YVoyc1F4SXUwSkJXVWprX1NZaVFKYnp3N1M1Q1pTQWt6UFZFVk40Slp2WmJ3aWx4N3RwbUJadnRnaTNvSk9Od3dyUVFCS0x5LXpjYXQ4?oc=5"
-      },
-      {
-        "title": "Russia's $118 Billion Arctic Oil Bet Pushes Ahead Despite Sanctions - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Fri, 18 Sep 2026 16:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONkNlcmx2SVJuaFZnZ3ZVVnVoSDlLakRGYnl0WHVidzJobUIySGdydGRMcjFkU3FLQ2xvUFRab0pfUHFXOFVnYy1kWms1VTdwTlRmQTA4SjBlVnJSU0ZybmhrX2ZmMzlmWGxnRVByUGh4bHpvNTFSVFVDajdsR2NUdFN6SXQ0RVMyYmgzemhTNzdQUV9SSEFLeU16MDFKOHF4dHhjeWRCVl9malloZ1c1MGNSONIBuAFBVV95cUxNNFBkRHd2SWw0aGptb0JtTVB1RzRTVVJTaGo5cUYxY2lTQ3BQOVA2bmhNc3NhVEVJY2ZTX3pWOW56cGpzd0JCdGNVMDJCMnBWUWVCSG1tRlExSWJvTVJIcUI1cTg5U2dtZFp3UTdRSEJFcDNEQ1l6bU43ZnY1Q1FtYmNpLU1HNEZ6andiWUtIUGRYRjdnUk5PS0kwMDJhTnFyM0drdFppNklkems0QXpWaVFRSklMVnd0?oc=5"
-      },
-      {
-        "title": "Crude Prices Supported by Middle East Supply Disruptions - Barchart.com",
-        "source": "Barchart.com",
-        "published": "Fri, 18 Sep 2026 15:32:32 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVEhTeW1lTW5WMzVfNFgtcGtqNzA1Q1JMOW9aWFZ0cDQ5Q1pGV2hUaVhJRFpEQUdkTzFWTDlfNWhfQWlJYm1YVVphVlQxRkpnWkNjOEVYSU1uaFJGMkNXWmZiSnFWSjZobEF1R2hZTFpmV2VXSlFpSlVRblJhbHBpX3llNnljSlBub3NlNFhOWmMzcFpCUDFtVVctdUV2Si02amc?oc=5"
       }
     ]
   }
