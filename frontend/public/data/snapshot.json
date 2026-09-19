@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-09-19T17:56:56+00:00",
+  "generated_at": "2026-09-19T20:07:39+00:00",
   "fx": {
-    "nzd_per_usd": 1.744296,
-    "as_of": "Fri, 18 Sep 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.748465,
+    "as_of": "Sat, 19 Sep 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 98.71,
+      "latest": 103.87,
       "latest_date": "2026-09-18",
-      "delta_1d_pct": -5.83,
-      "delta_30d_pct": 19.66,
+      "delta_1d_pct": -0.91,
+      "delta_30d_pct": 25.92,
       "series": [
-        {
-          "date": "2025-09-18",
-          "usd": 67.44
-        },
         {
           "date": "2025-09-19",
           "usd": 66.68
@@ -1017,20 +1013,16 @@
         },
         {
           "date": "2026-09-18",
-          "usd": 98.71
+          "usd": 103.87
         }
       ]
     },
     "wti": {
-      "latest": 95.45,
+      "latest": 100.3,
       "latest_date": "2026-09-18",
-      "delta_1d_pct": -6.34,
-      "delta_30d_pct": 23.5,
+      "delta_1d_pct": -1.58,
+      "delta_30d_pct": 29.77,
       "series": [
-        {
-          "date": "2025-09-18",
-          "usd": 63.57
-        },
         {
           "date": "2025-09-19",
           "usd": 62.68
@@ -2033,46 +2025,46 @@
         },
         {
           "date": "2026-09-18",
-          "usd": 95.45
+          "usd": 100.3
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-09-18",
+    "as_of": "2026-09-19",
     "regular_91": {
-      "avg": 3.243,
+      "avg": 3.264,
       "min": 2.959,
-      "max": 3.459,
-      "count": 68
+      "max": 3.529,
+      "count": 73
     },
     "premium_95": {
-      "avg": 3.409,
-      "min": 3.099,
-      "max": 3.659,
-      "count": 32
+      "avg": 3.451,
+      "min": 3.146,
+      "max": 3.65,
+      "count": 40
     },
     "premium_98": {
-      "avg": 3.563,
+      "avg": 3.569,
       "min": 3.266,
-      "max": 3.679,
-      "count": 10
+      "max": 3.759,
+      "count": 9
     },
     "diesel": {
-      "avg": 2.974,
+      "avg": 2.996,
       "min": 2.616,
-      "max": 3.259,
-      "count": 75
+      "max": 3.409,
+      "count": 79
     },
     "lpg": {
-      "avg": 1.94,
-      "min": 1.94,
-      "max": 1.94,
-      "count": 1
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 50,
-    "observations_yesterday": 128,
-    "observations_older": 8
+    "observations_today": 19,
+    "observations_yesterday": 140,
+    "observations_older": 42
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8582,6 +8574,12 @@
   "news": {
     "nz": [
       {
+        "title": "New Zealand's GDP grows 0.2% in June quarter despite fuel-price shock - Fibre2Fashion",
+        "source": "Fibre2Fashion",
+        "published": "Fri, 18 Sep 2026 12:49:59 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObUZmWld6N1dXWFFLUklnV0N2a3pWRnhnOUZVNm4tcHQ4c2xGYXpDZWZ0RUZOdk54S1NSMVpFREhndmpUMzRIbmRmci1qdXFjbUJkVHRmQ1ZxMENITW5LNTgyOTJBU2tPS3luTDlkNjBKRkpDb2w5cERYeXJjbUxiVGR3NldELTVaTVo0M01pWEJsMlJEUTVyV2taQVMyeEZ4U1M3d3EzcjRrbzZ0X052LXVhX2RqSndwUFZnQTF4LWFUdzdBa2YtVkpVRm1LM004bmc?oc=5"
+      },
+      {
         "title": "Petrol hits $3.25 a litre as AA warns prices are likely to stay high until mid-November - rnz.co.nz",
         "source": "rnz.co.nz",
         "published": "Fri, 18 Sep 2026 03:37:15 GMT",
@@ -8600,8 +8598,14 @@
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSmcyeGdkOFgxQVEydXN4Vnd6RjVzcmdLMVlFbFhrOHBoMDJpQVhaelFYZDdaVkFrMEhEbEp5S2RCTDZCUWJldE93Z1FvUDFpZ2pHT1YwcVZ1ODRiY0JVWWYyQXU5SkE0ZmkyS3FRTEktektrS2NDRElVMHpkNEc2YVh4NGM2aVdzaHV6SlJ3aXhEUy00OUlyZFRWWGRaajNXLVE?oc=5"
       },
       {
-        "title": "EVs save NZ $90m in oil imports amid fuel crisis - B2B News",
-        "source": "B2B News",
+        "title": "New Zealand EV market enters mass adoption - Driven Car Guide",
+        "source": "Driven Car Guide",
+        "published": "Tue, 15 Sep 2026 02:51:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdkY3U3J2WmJISl8ya0hiV0YxbEdhV0Q2NzZHLWxnQTJBX1Jsb0JLMmhOMGZ3b2RYYlJJVjhVZS1QRDdpU08wVm14WTdJVW5vd2Mxa09HUkg0TmRsVzE3cnZmNVVfbnptNHdmeFdELS0tN205anJLcnFjenB2QnNYTFdiV1U3a2x6UE1GWGhHNjRoaWprRDVGNm5SaUVxdw?oc=5"
+      },
+      {
+        "title": "EVs save NZ $90m in oil imports amid fuel crisis - b2bnews.co.nz",
+        "source": "b2bnews.co.nz",
         "published": "Tue, 15 Sep 2026 01:40:34 GMT",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc1hIcGU1X0tpWlNYd1dmZ0YtOW9ZVG50R1Vadk1XQ3QyR09EWWtTdnRWZjBteXozNGVLT0hqbWloTHRxT2JYdFdEMWdtZHRMWnE4a19sWWhuSWNKWEZmUnVKZWhuWlh2SnEyOERBUU5tYWZ0bUZ1SzFFTWNRNDk3UA?oc=5"
       },
@@ -8616,24 +8620,24 @@
         "source": "1News",
         "published": "Mon, 14 Sep 2026 06:37:21 GMT",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRXctcE1iSTZ3dG01T0JDYVFESW81ZHllZDVtaGJBQllVcGg4VVFQVzJ5cEdlR0otQ3NxbjhXVDdIbXpPX2ZkU3FxTEhPN195c1gyaDA1cHFmSW1HUVJkYmZQR3dWMUc2cGlxUFE4cDhzdWNQQ0VnTml1M2hVd1dEc3IxUWg1M3Y5cm5IbWUzay1qbE5rcEVZNXl0VVB5czhzX0htb1J6QQ?oc=5"
-      },
-      {
-        "title": "Domestic Growth Slows; International Inflation Grows - Scoop - New Zealand News",
-        "source": "Scoop - New Zealand News",
-        "published": "Mon, 14 Sep 2026 02:05:35 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX3ZWR1pTNEZTR1BRUGlOcHJ3a0FNcFpkQ1k0dHZ6Yl9yTkZKUkR4U2dNM1QtZFpJd1lHNy0zZDd4QXJSbXdwV3BHcThvOTgzX1VKS3puY2NsM1lpcF9LbTVTcjBlVXFRRDhjc29tQUtnOUFzU2tsVjR6azdESjdlMUpWaEVxcW9vdm41Q0x3Q3dGQy1pRFRF?oc=5"
-      },
-      {
-        "title": "Air New Zealand plunges to $242 million loss as fuel and engine costs bite - rnz.co.nz",
-        "source": "rnz.co.nz",
-        "published": "Fri, 28 Aug 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2RCa21UWVhMTEZNUGtfbWVXelplREIyTTVNaEtSYzNzMXpyS1RVMHNDWDNoQm80Y3QwbUFMdnNDVjh3RWdvR3otT3pxbENSU2hBajJoOFJLdENObGxpZFNUTG5kalFQczlJck1lYzFfT0kxMmZ0RjBzUXpqbXRQMXM5dFBVTXJ5SW1xVXVnMzF3T1FoV2thbFhZQmEwSmJYeHo4N3EwRkxQaW1HbmN2OU1NQjkzWkVS?oc=5"
       }
     ],
     "global": [
       {
-        "title": "Live - Iran says it wants Saudi-Yemen war to end as airstrike hits Riyadh airport - iranintl.com",
-        "source": "iranintl.com",
+        "title": "India Is Again Squeezed Between the Threat of Trump Tariffs and Russian Oil - The New York Times",
+        "source": "The New York Times",
+        "published": "Sat, 19 Sep 2026 18:58:53 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMXVQRExRZWVGbzV4R01QcFhXWVl4bU82RnF1aWJOLS1zTU94Y25jRjQwOFYzUFU4b2hFcEhKYzZhYlJjYkVWbXNrRWNPaGNSMlJZWXRQVnVHcnFVM054dkdaQzBITURTa2pzNXRPSlhwcVh6a3dfM3Ayb1VEeDZ0UA?oc=5"
+      },
+      {
+        "title": "The Global Oil Market Is Short VLCC Tankers — and Needs Them to Rebalance - Energy News Beat",
+        "source": "Energy News Beat",
+        "published": "Sat, 19 Sep 2026 18:51:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS0tkQUFqbVk5MjJUdFRWUUNXSVYxUjlsRVF5N21uZEVCd3FqOFpMMmZybjVJeTZUblhmQlBLa2JjWUJiTjRGU29yREtnejhlSmh3NU1raTU1bmlZZU9vWmV5RXFlRVVfbDJXYlJUR29tR19EaWJHd2Z5cDVMWTVHaF9GNFgxY0V3T3JOQnBocDVCa092dHVjUW50ZE9MZlE2cUpDYVd1MEtCaFFx?oc=5"
+      },
+      {
+        "title": "Live - Iran says it wants Saudi-Yemen war to end as airstrike hits Riyadh airport - Iran International",
+        "source": "Iran International",
         "published": "Sat, 19 Sep 2026 17:17:27 GMT",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BcTVua29tT2VUc1Rjck5kUFhWS3VPZzJNY21Cako2S1NKTDh3b1R5ZlZhRlpUVURza3F1VURXY0Y1QUJkZzA2blktQWk2NlNTcGwzZWVmUnlOMm5aTGc?oc=5"
       },
@@ -8656,28 +8660,16 @@
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU25hUm84YTVMblVTRlA5Y3hzekhpSDZadkpvZTJhQ2FxeGl0Q09uZDJIbWNqSy1iejBCNXJqZ1pVaEs2alVhbnkzQTNUdG9YTzU0Y0x6ZWZwcjRYeGEwM29nRmtySGU4X1RLTUluQkNjcWVLSEFIS0tHcjQ2eXZoQjd0WjJfVFdSd24tbnFMcWltN0tROU1pUHFHTEt0VjBhNzE0?oc=5"
       },
       {
-        "title": "Brent steadies on shifting Middle East supply outlook - Antelope Valley Press",
-        "source": "Antelope Valley Press",
-        "published": "Sat, 19 Sep 2026 11:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMHhDbFMxUHJnUHFHcS1ocGpiRU5KeHJ0dEJ1bjFVLVFQNkNfVkttVHIydU5mZnF2OU5TSkt4RnhtTmNFUjBGQkgxOURaQ1hwTXNCOXdvODdWbVNvN1hSbnV0NDVVN2Q2VUJwV1d1WG9UcVZUME16OUhTWndUYXp3X1dXOEZKX2paXzhHaHk3eFcxa0g3dVk1SkV3aUQ5QlpRVkRGeGUwTWZrSVNvOWcxXzkxbzAweVlBeUtwaVN1NHNDS05oeTV3Qk50cXQweGxjdm9RQTdSV0c?oc=5"
-      },
-      {
         "title": "Russia Warns New U.S. Sanctions Law Would Harm Trump’s Peace Efforts - The New York Times",
         "source": "The New York Times",
         "published": "Sat, 19 Sep 2026 09:00:11 GMT",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMGFVVjBESXNDS3pqTXUwbll6TlgyMzctMUpMSjY2c2tnTG1TRUN2UjM4dWE4MHZMWENTX1pXeHQ1MEpCUFNuQXFhVTZXNzMwQkJ1S29WMTFyOGw3NDRhVnp0V2dLSHRWY1ZLSHRGXzNydFZjbkVhN1VDWmJnSm5pSEViYzU?oc=5"
       },
       {
-        "title": "Trump Signs Russia-Iran Sanctions Act Into Law - WANA News Agency",
-        "source": "WANA News Agency",
+        "title": "Trump Signs Russia-Iran Sanctions Act Into Law - wanaen.com",
+        "source": "wanaen.com",
         "published": "Sat, 19 Sep 2026 07:58:02 GMT",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oZmRqTU9XbUg0Yk1DMXJMa0p5QzZvZ1ZRWVdHdUV1MGU0MDl4Q1Y3ZU82VmwzUFZwOGtfWmljY2o2WGdFTHJsejZnWGtxYjlUdWEzaU1uZGFzRzJfUlRkTWJnMklQU0o2TU1qc20zem95dWdU?oc=5"
-      },
-      {
-        "title": "Trump Signs Russia-Iran Sanctions Bill, Putting New Pressure Tools At His Disposal - Radio Free Europe/Radio Liberty",
-        "source": "Radio Free Europe/Radio Liberty",
-        "published": "Sat, 19 Sep 2026 05:53:39 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hZUd3TVBEWFJra0RKbGdzWE9xNlFyZVFrMTRseDNSMmhRY3pSMDEtWWQzWWY0VTlqQ3NVUnlQSXktRE9heUktVXgxVzc3QdIBUEFVX3lxTE1nNGlOb3JoQVVpNkowWjU0XzQ1NExCZkg0UFF5NmdLM09nbGhsLW1sUkJUcFpGYXl2Q00xR0haWDBnbnlHNkJqWFdnUWpTTDd0?oc=5"
       }
     ]
   }
