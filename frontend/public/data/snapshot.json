@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T17:32:50+00:00",
+  "generated_at": "2026-09-20T19:47:03+00:00",
   "fx": {
     "nzd_per_usd": 1.748465,
     "as_of": "Sat, 19 Sep 2026 00:02:31 +0000"
@@ -8574,6 +8574,12 @@
   "news": {
     "nz": [
       {
+        "title": "Air New Zealand wants to fly greener. The fuel it needs costs far more - thepost.co.nz",
+        "source": "thepost.co.nz",
+        "published": "Sun, 20 Sep 2026 16:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTU53ci1GWWxiQzN3WUc5MDFvT3piVERmSk1ucGoyRm1nWEFCbGV1anppMWZPVzNnTnpTenZoZjdrYm9lc1c3T0h4WmxlTjl0N2xVd1I1SkQ0MW9jb1hnaG1JR1NWQ3EyV29qOTJrNkVJaWNiTXFNNnNITHZ3QVo0eGRqVFJ6UWxzZXdmbzNhUk5IUXd6b3F1U2g1bVRwcDhqZ3RpeEpLWFE?oc=5"
+      },
+      {
         "title": "New Zealand's GDP grows 0.2% in June quarter despite fuel-price shock - Fibre2Fashion",
         "source": "Fibre2Fashion",
         "published": "Fri, 18 Sep 2026 12:49:59 GMT",
@@ -8614,15 +8620,15 @@
         "source": "Newsroom",
         "published": "Mon, 14 Sep 2026 17:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT1plQi1YaTd3UHNMaW9UX2RPMmhXZ3NrdU9HNXRsRVNmSHZuUWRia2VPMVkxa0RpR2pSWDZscGtCRVFpNHA3eHpYYTdFcFVaSndDN3BKNlJJcFVXVUY4VDlZVHRGNlY2ZElibC1UeUdDdWw3VE1TcW1tUGphWS02Z0NaUm9WeVZ2MkVUX3l3X0E0WDVLTXhsNFdDd1U?oc=5"
-      },
-      {
-        "title": "Fuel prices tipped to keep rising as conflicts squeeze global supply - 1News",
-        "source": "1News",
-        "published": "Mon, 14 Sep 2026 06:37:21 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRXctcE1iSTZ3dG01T0JDYVFESW81ZHllZDVtaGJBQllVcGg4VVFQVzJ5cEdlR0otQ3NxbjhXVDdIbXpPX2ZkU3FxTEhPN195c1gyaDA1cHFmSW1HUVJkYmZQR3dWMUc2cGlxUFE4cDhzdWNQQ0VnTml1M2hVd1dEc3IxUWg1M3Y5cm5IbWUzay1qbE5rcEVZNXl0VVB5czhzX0htb1J6QQ?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Hormuz Crisis to Push Global Coal Demand to Record High - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Sun, 20 Sep 2026 19:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNkdjY2xzQWFpSFcxMWtmREVrbU0tOUVVUVFuY25lRGdNdmQzcHVqb1pZMUpEQmJMQUd1UlNnaEVKd0czaERET3ROYnlLbDFxS2M4alJtWkFROHNVNkRpVTdYNEMwQ0VXUWh2YVp3QnJFMkhjbXVMVzJNS0plX0JzNUdlNWtWcDJiekMybTN6RkR2REF5c2s1RdIBngFBVV95cUxPUDJkT0hlQ0ZhSVJnbTk4c05OVWRBeV9zREQxR0RWRHZxeVJMUXhKU1RWWlpMLUFGLWVlX0NCcVlsVWpSNjBxNy1oY3Z0RkNvbGJVNlRyVlZNUnp5UlRMZzdyblJnU0pKZy1aaXp0ZU1PVG5RT2tsSzh1ZTBHRkNiUGRDeGFhV2NOZW1waG5RNGZQSk1zUlljdGVETmM0Zw?oc=5"
+      },
       {
         "title": "China Will Dominate Global Nuclear Energy Through 2035, Analyst Says - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
@@ -8630,16 +8636,10 @@
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOajVFOVQxa2NzV3RuUy1MN3E4SzBZWEJUN2trRTdBT1NXZHRnZWVlQS1vdGJkc2prMWJ4dWhtVjVoYWU0aWE2aFlBZ0ZQVURoWjNfWDlzcHlxLWVnbVdfODJnV3JrbkhzcGx6ZlotRnhydGdwV1Z1YU1zZ0ZQTnFJbkdPVTZ3Z2c3Q1VOU1dfc05JNzVfcGtwUkljMmJMYkdyRWRfSkNCT25wYUJtV0t0Sk12Z1F2MkRtaGJ6RGVsUWdyamNU0gHKAUFVX3lxTFBrcmw4X2NETTZjVW5mTnY5RzFONktLWkFIR0lWby1mdmNaR2hneVhhdjQzNko2Q3BLNDUtZlNLUnBRaTZLbjU1Zlk3dmpzZGVhRUgyLWlRaTBENnhTTkZUb2ItQlFybFkyTzlDLUJSdU9IVDVPcG1jWXFGd21WeHFBc3ktUXZydVZoUko4ay04MDBOcTVILVU2Z0xpMDFCVTVlVFpqRTBDRmRIN1RiNmZVeUtINWRpamdIekZoRGYxWkJiZ0FfTmZlZFE?oc=5"
       },
       {
-        "title": "IEA: Oil markets under growing strain as Middle East supply disruptions persist - EnviroNews Nigeria",
-        "source": "EnviroNews Nigeria",
-        "published": "Sun, 20 Sep 2026 14:15:54 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZnV0bGdjYllMRW5rYThXMTg0WGVxT2d2X29fNTlVRURDTF9JX0pucFJYdVgyMTc2Q0ZRNy1EcndNRFVoWm9KZDBqYmh5czFIa00yX1ZaZVBfSVlxT2JYRENVNUNveWMxUkFpY1E3WGs4MVJ6NjV1ZENpRXdaZFZfOEViTDQ1LTVnM0dCRURtTFN3OHFXZkt5OC1KYjNOemlBZy1neGhLMDZoSGRLb2VSY2VXSQ?oc=5"
-      },
-      {
-        "title": "Live - Trump weighs next move on Iran, signals major decision soon - Iran International",
-        "source": "Iran International",
-        "published": "Sun, 20 Sep 2026 14:13:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BcTVua29tT2VUc1Rjck5kUFhWS3VPZzJNY21Cako2S1NKTDh3b1R5ZlZhRlpUVURza3F1VURXY0Y1QUJkZzA2blktQWk2NlNTcGwzZWVmUnlOMm5aTGc?oc=5"
+        "title": "Refineries Are Now the Main Chokepoint for Global Energy Supplies - WSJ",
+        "source": "WSJ",
+        "published": "Sun, 20 Sep 2026 10:28:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMlRwNWNJRExFUV9VRmxrVjZ3RllpY1d4cTdBOGRIS2J3UXNGU3VqdFowYUxYbVhPaXpWWnNfTkdRVW5sUTVWREt3aHFtajZXcFN4dEh1LUMzc01LWVFtMUlTRVo2ZVBBSzlaUWQ4VFBqNjBvVGxFOEpPdm9JNXhWNGp4YUtGT3k1djBYWXB3aU1NRlRXUUV6aHpQRkRuamJSMGgzSDVqQ3BZYU5WUkcyeUktVkU?oc=5"
       },
       {
         "title": "Global Oil Inventories Depleted, Next Price Spike Could Roil Economies, Markets - EnergyNow.com",
@@ -8648,28 +8648,28 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTzJ2Rmxmd19zVGUwVzJ3bzdEeHp4NTczY0tCM0MxYzlnNUU5UTRIZk45cndabTA0TnNoblRoc1FsWE12bTYtWGVHSWhkdEpBcnNYeDExZC1XWFN5SWhjS20ySEh4M1pHeFJ0RTFaSW9DT0JXYlMzNzdHS1dsWFUxWVZISjNMT045RkZoZmZDOFRHT3pFNHVDTVc0TlJEZVo5cVdMajNZSERCSmJH?oc=5"
       },
       {
-        "title": "Citi Raises Brent Forecast for 2026; Sees $150 Oil if Hormuz Disruption Persists - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Sun, 20 Sep 2026 08:42:03 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdk5UVWpBQWFNVy1reG1ZeFlEdlQxcWlxWkMzTFNfUmFKdVFZaWRqNm4zTFo5V05Pd2o5b3hpOXNLeWJ3Tm9XdzR1aEk1VWd1S29vaW1GUVZ1OTU5c0hsUE5fWnhUV1RoakRubVlGcW14cHBhaER0VzZmeDVFNGZkeEVUb2l6WGhtTVlBUXBMTFFYNkMwalRYZmYzQUItWEhDLUhiVkdaOFBoU0Q4Vnc?oc=5"
-      },
-      {
-        "title": "Trump signs Russia, Iran Sanctions Act - IranOilGas",
-        "source": "IranOilGas",
+        "title": "Trump signs Russia, Iran Sanctions Act - iranoilgas.com",
+        "source": "iranoilgas.com",
         "published": "Sun, 20 Sep 2026 08:16:19 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSk1meW4tTVlKakpEUUhhcmdXaExHajJ2WVE1YTlyZmNxYm9hcmV5UkswX1h1c0xWaksxTG5vdGEzNF9WZlZCXzk3QkxPSFpmWENUQ0Z6VGl5SjI4OVlmcDN1a2ZQX3lOaTRyRGpoYldMakV3TG1lNk5OYktDOTMzc2FQSFVqYi1qbEJvMVh0UjZiLW1Qd29NbG1pUXNoU3A3NUE?oc=5"
-      },
-      {
-        "title": "Refineries Are Now the Main Chokepoint for Global Energy Supplies - WSJ",
-        "source": "WSJ",
-        "published": "Sat, 19 Sep 2026 20:54:24 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMlRwNWNJRExFUV9VRmxrVjZ3RllpY1d4cTdBOGRIS2J3UXNGU3VqdFowYUxYbVhPaXpWWnNfTkdRVW5sUTVWREt3aHFtajZXcFN4dEh1LUMzc01LWVFtMUlTRVo2ZVBBSzlaUWQ4VFBqNjBvVGxFOEpPdm9JNXhWNGp4YUtGT3k1djBYWXB3aU1NRlRXUUV6aHpQRkRuamJSMGgzSDVqQ3BZYU5WUkcyeUktVkU?oc=5"
       },
       {
         "title": "TEMPORARY DEAL - US Eases Russia Oil Sanctions to Tame Price Surge, Riling European Allies - EnergyNow",
         "source": "EnergyNow",
         "published": "Sat, 19 Sep 2026 19:20:01 GMT",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZEwteXNCcjlLa1dveThnYmJJMnFFdWNySXl3T19HZThyeUw1Rk52ay1Vak55WFhYNmp4Mk4tbVBjMDBDdUVEVFR0dzFmTmc4MjFKY0NjQXo1eFBicmptSF8tR1NLRUlYQTVjTFZ3UjJSUTdxNExiYUdLNy1tX2pHQS1aS19UUTdVdXF3c3RiU0JmdU9nR1NNb0FycmlxYlZsU2Jhck5WeklVWmRQQjlnT2o0ZmJDQlVv?oc=5"
+      },
+      {
+        "title": "India Is Again Squeezed Between the Threat of Trump Tariffs and Russian Oil - The New York Times",
+        "source": "The New York Times",
+        "published": "Sat, 19 Sep 2026 18:58:53 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMXVQRExRZWVGbzV4R01QcFhXWVl4bU82RnF1aWJOLS1zTU94Y25jRjQwOFYzUFU4b2hFcEhKYzZhYlJjYkVWbXNrRWNPaGNSMlJZWXRQVnVHcnFVM054dkdaQzBITURTa2pzNXRPSlhwcVh6a3dfM3Ayb1VEeDZ0UA?oc=5"
+      },
+      {
+        "title": "Oil Touches Pre-War Levels on Rising Middle East Supply - EnergyNow.com",
+        "source": "EnergyNow.com",
+        "published": "Sat, 19 Sep 2026 15:44:49 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc0x2dW5mVTB6dmR1TU9yVGVfaGxUdHlBTU83NG1fVmVlaThzczFFSXJRb2l6MDJrOFc4bXJXWFNzRklySEg5eUp4bXBtbXRnUjk4NzV6THJWdUhiWkJfX3N1b0tLRU5DeHpfSUxzc09rY2dQeFU0ek16SDJObmpYYzZXY2VCMTdNdmg1N3A1VQ?oc=5"
       }
     ]
   }
