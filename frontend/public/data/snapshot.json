@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-09-20T19:47:03+00:00",
+  "generated_at": "2026-09-20T20:24:05+00:00",
   "fx": {
-    "nzd_per_usd": 1.748465,
-    "as_of": "Sat, 19 Sep 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.749184,
+    "as_of": "Sun, 20 Sep 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 103.87,
+      "latest": 99.29,
       "latest_date": "2026-09-18",
-      "delta_1d_pct": -0.91,
-      "delta_30d_pct": 25.92,
+      "delta_1d_pct": -5.28,
+      "delta_30d_pct": 20.37,
       "series": [
-        {
-          "date": "2025-09-19",
-          "usd": 66.68
-        },
         {
           "date": "2025-09-22",
           "usd": 66.57
@@ -1013,20 +1009,16 @@
         },
         {
           "date": "2026-09-18",
-          "usd": 103.87
+          "usd": 99.29
         }
       ]
     },
     "wti": {
-      "latest": 100.3,
+      "latest": 96.08,
       "latest_date": "2026-09-18",
-      "delta_1d_pct": -1.58,
-      "delta_30d_pct": 29.77,
+      "delta_1d_pct": -5.72,
+      "delta_30d_pct": 24.31,
       "series": [
-        {
-          "date": "2025-09-19",
-          "usd": 62.68
-        },
         {
           "date": "2025-09-22",
           "usd": 62.64
@@ -2025,36 +2017,36 @@
         },
         {
           "date": "2026-09-18",
-          "usd": 100.3
+          "usd": 96.08
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-09-19",
+    "as_of": "2026-09-20",
     "regular_91": {
-      "avg": 3.264,
+      "avg": 3.241,
       "min": 2.959,
-      "max": 3.529,
-      "count": 73
+      "max": 3.559,
+      "count": 56
     },
     "premium_95": {
-      "avg": 3.451,
+      "avg": 3.401,
       "min": 3.146,
-      "max": 3.65,
-      "count": 40
+      "max": 3.589,
+      "count": 22
     },
     "premium_98": {
-      "avg": 3.569,
+      "avg": 3.55,
       "min": 3.266,
-      "max": 3.759,
-      "count": 9
+      "max": 3.659,
+      "count": 7
     },
     "diesel": {
-      "avg": 2.996,
+      "avg": 2.997,
       "min": 2.616,
-      "max": 3.409,
-      "count": 79
+      "max": 3.259,
+      "count": 74
     },
     "lpg": {
       "avg": 0.0,
@@ -2062,8 +2054,8 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 19,
-    "observations_yesterday": 140,
+    "observations_today": 117,
+    "observations_yesterday": 0,
     "observations_older": 42
   },
   "mbie_waterfall": {
@@ -8616,8 +8608,8 @@
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdkY3U3J2WmJISl8ya0hiV0YxbEdhV0Q2NzZHLWxnQTJBX1Jsb0JLMmhOMGZ3b2RYYlJJVjhVZS1QRDdpU08wVm14WTdJVW5vd2Mxa09HUkg0TmRsVzE3cnZmNVVfbnptNHdmeFdELS0tN205anJLcnFjenB2QnNYTFdiV1U3a2x6UE1GWGhHNjRoaWprRDVGNm5SaUVxdw?oc=5"
       },
       {
-        "title": "Electric vehicles save NZ $90m in oil imports amid fuel crisis - Newsroom",
-        "source": "Newsroom",
+        "title": "Electric vehicles save NZ $90m in oil imports amid fuel crisis - newsroom.co.nz",
+        "source": "newsroom.co.nz",
         "published": "Mon, 14 Sep 2026 17:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT1plQi1YaTd3UHNMaW9UX2RPMmhXZ3NrdU9HNXRsRVNmSHZuUWRia2VPMVkxa0RpR2pSWDZscGtCRVFpNHA3eHpYYTdFcFVaSndDN3BKNlJJcFVXVUY4VDlZVHRGNlY2ZElibC1UeUdDdWw3VE1TcW1tUGphWS02Z0NaUm9WeVZ2MkVUX3l3X0E0WDVLTXhsNFdDd1U?oc=5"
       }
@@ -8648,8 +8640,8 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTzJ2Rmxmd19zVGUwVzJ3bzdEeHp4NTczY0tCM0MxYzlnNUU5UTRIZk45cndabTA0TnNoblRoc1FsWE12bTYtWGVHSWhkdEpBcnNYeDExZC1XWFN5SWhjS20ySEh4M1pHeFJ0RTFaSW9DT0JXYlMzNzdHS1dsWFUxWVZISjNMT045RkZoZmZDOFRHT3pFNHVDTVc0TlJEZVo5cVdMajNZSERCSmJH?oc=5"
       },
       {
-        "title": "Trump signs Russia, Iran Sanctions Act - iranoilgas.com",
-        "source": "iranoilgas.com",
+        "title": "Trump signs Russia, Iran Sanctions Act - IranOilGas",
+        "source": "IranOilGas",
         "published": "Sun, 20 Sep 2026 08:16:19 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSk1meW4tTVlKakpEUUhhcmdXaExHajJ2WVE1YTlyZmNxYm9hcmV5UkswX1h1c0xWaksxTG5vdGEzNF9WZlZCXzk3QkxPSFpmWENUQ0Z6VGl5SjI4OVlmcDN1a2ZQX3lOaTRyRGpoYldMakV3TG1lNk5OYktDOTMzc2FQSFVqYi1qbEJvMVh0UjZiLW1Qd29NbG1pUXNoU3A3NUE?oc=5"
       },
@@ -8666,10 +8658,10 @@
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMXVQRExRZWVGbzV4R01QcFhXWVl4bU82RnF1aWJOLS1zTU94Y25jRjQwOFYzUFU4b2hFcEhKYzZhYlJjYkVWbXNrRWNPaGNSMlJZWXRQVnVHcnFVM054dkdaQzBITURTa2pzNXRPSlhwcVh6a3dfM3Ayb1VEeDZ0UA?oc=5"
       },
       {
-        "title": "Oil Touches Pre-War Levels on Rising Middle East Supply - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Sat, 19 Sep 2026 15:44:49 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc0x2dW5mVTB6dmR1TU9yVGVfaGxUdHlBTU83NG1fVmVlaThzczFFSXJRb2l6MDJrOFc4bXJXWFNzRklySEg5eUp4bXBtbXRnUjk4NzV6THJWdUhiWkJfX3N1b0tLRU5DeHpfSUxzc09rY2dQeFU0ek16SDJObmpYYzZXY2VCMTdNdmg1N3A1VQ?oc=5"
+        "title": "Russia Warns New U.S. Sanctions Law Would Harm Trump’s Peace Efforts - The New York Times",
+        "source": "The New York Times",
+        "published": "Sat, 19 Sep 2026 18:35:14 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMGFVVjBESXNDS3pqTXUwbll6TlgyMzctMUpMSjY2c2tnTG1TRUN2UjM4dWE4MHZMWENTX1pXeHQ1MEpCUFNuQXFhVTZXNzMwQkJ1S29WMTFyOGw3NDRhVnp0V2dLSHRWY1ZLSHRGXzNydFZjbkVhN1VDWmJnSm5pSEViYzU?oc=5"
       }
     ]
   }
