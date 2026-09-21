@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-21T20:59:38+00:00",
+  "generated_at": "2026-09-21T21:44:27+00:00",
   "fx": {
-    "nzd_per_usd": 1.749184,
-    "as_of": "Sun, 20 Sep 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.748389,
+    "as_of": "Mon, 21 Sep 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 99.29,
-      "latest_date": "2026-09-18",
-      "delta_1d_pct": -5.28,
-      "delta_30d_pct": 20.37,
+      "latest": 95.96,
+      "latest_date": "2026-09-21",
+      "delta_1d_pct": -7.62,
+      "delta_30d_pct": 14.85,
       "series": [
         {
           "date": "2025-09-22",
@@ -1009,15 +1009,19 @@
         },
         {
           "date": "2026-09-18",
-          "usd": 99.29
+          "usd": 103.87
+        },
+        {
+          "date": "2026-09-21",
+          "usd": 95.96
         }
       ]
     },
     "wti": {
-      "latest": 96.08,
-      "latest_date": "2026-09-18",
-      "delta_1d_pct": -5.72,
-      "delta_30d_pct": 24.31,
+      "latest": 91.97,
+      "latest_date": "2026-09-21",
+      "delta_1d_pct": -8.31,
+      "delta_30d_pct": 17.64,
       "series": [
         {
           "date": "2025-09-22",
@@ -2017,46 +2021,50 @@
         },
         {
           "date": "2026-09-18",
-          "usd": 96.08
+          "usd": 100.3
+        },
+        {
+          "date": "2026-09-21",
+          "usd": 91.97
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-09-20",
+    "as_of": "2026-09-21",
     "regular_91": {
-      "avg": 3.241,
-      "min": 2.959,
+      "avg": 3.291,
+      "min": 3.031,
       "max": 3.559,
-      "count": 56
+      "count": 71
     },
     "premium_95": {
-      "avg": 3.401,
-      "min": 3.146,
-      "max": 3.589,
-      "count": 22
+      "avg": 3.487,
+      "min": 3.206,
+      "max": 3.639,
+      "count": 33
     },
     "premium_98": {
-      "avg": 3.55,
-      "min": 3.266,
-      "max": 3.659,
-      "count": 7
+      "avg": 3.616,
+      "min": 3.456,
+      "max": 3.739,
+      "count": 9
     },
     "diesel": {
-      "avg": 2.997,
-      "min": 2.616,
-      "max": 3.259,
-      "count": 74
+      "avg": 3.053,
+      "min": 2.756,
+      "max": 3.509,
+      "count": 79
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 1.883,
+      "min": 1.869,
+      "max": 1.897,
+      "count": 2
     },
-    "observations_today": 117,
-    "observations_yesterday": 0,
-    "observations_older": 42
+    "observations_today": 152,
+    "observations_yesterday": 34,
+    "observations_older": 8
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8568,8 +8576,14 @@
       {
         "title": "Pain at the pump as petrol, diesel jump 30c a litre in three weeks - 1News",
         "source": "1News",
-        "published": "Mon, 21 Sep 2026 19:32:44 GMT",
+        "published": "Mon, 21 Sep 2026 21:38:20 GMT",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYmd2NlJRbUotSW9aWFRwS3JndmhqZVEzUkxuRk53a0pLQ2VPMnZXZjZ3RzYxblN2OVdjeUJDMlBSM1ZKX2Q1QkxVei1sYVZKY1lXanp5akN1OGl0LTdRZTlGYUJZUGlCNUlJbkZKMWZEUXZlSS1RTS1wWjRWbE9VZXBnbEVvRlVScFlpc3dORFoxaUdYcWd0TllVbXFFOEdWaDM4?oc=5"
+      },
+      {
+        "title": "Transport operators urge NZTA to keep abreast of fuel volatility in its contracts - thepost.co.nz",
+        "source": "thepost.co.nz",
+        "published": "Mon, 21 Sep 2026 16:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY2h6dG5ibnBTSGRNWUdacFJ4dmQtbk5qc3pjRjd5Vjk5OXlESlNOSkpJUzVXWnFSWGZDVkJKaDZ3cUVfdlNuaGhfMVpSS01hODBYcTFkSWl0bUpIRFJOaHFsSm13SW8wMW94Rk5LR1RQTTJ6M2tCaHN2YnMtZ3VPSW9sQ2NJZDJqS1IybHhiZGJ3S3FTN3dFNTA1eTFzaGJtQ0NPRWZ5TG5ENG5DMWdCb3Ryd05mbnJH?oc=5"
       },
       {
         "title": "Another 30c a litre: Kiwi motorists hammered by fresh petrol price surge - Stuff",
@@ -8578,8 +8592,8 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNnFKY3NxQ25vMnEyR3ZWMWZEamNER1BFREFoYThmbVV3UFE5NlN3a2lvRTZzLW40ZXZFUUpKaVh0aENkLS10cm4td2RjR281SUoxUmZFX3NzSUZOMVVoWG9nVTRNOXNYWXB3UjR0WkJBSXhrWU9BRG5TbmtiQk91VmNmd25zZUFMTnFJUjR4aGZzQjIzcDFwSFBCM2dsR1RlT0FDVUY0YjFLeHNS?oc=5"
       },
       {
-        "title": "Fueling up for Homegrown as petrol prices surge above $3/L - Waikato Times",
-        "source": "Waikato Times",
+        "title": "Fueling up for Homegrown as petrol prices surge above $3/L - waikatotimes.co.nz",
+        "source": "waikatotimes.co.nz",
         "published": "Sun, 20 Sep 2026 16:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSzZpMW5tYzlpZlpGYVIycVctcmFXR3BQT2J1WlE1NVVuYlB6bmNKeGdwNzZqY0NPWFZnZlFVTDEyM2xaN0JYaE9Gc3RBdkJZVUljbEhwOGFBckdpMm1hMHFBRVNTUzduTTZpZGp4S3ZwbkxTYmVZdTRFTThhRjA4MUppcFQ1ZmlCUjNCX3ZRV0h4YTZTX0hJZjUyNA?oc=5"
       },
@@ -8590,8 +8604,8 @@
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbnpSSWdkNVhRWW1KNXk5SUZJcGhrN29laW1uQ2RyWF9fMXRMN3d0bnMxVkpsSlFhZWdwOHVPSGU5VkJqTlRiZUh5WUthZEFFZ3lRVjF6ZzJvYlg4WS1nTWhrYjJjQ3cta2Y4YUg4RnpQZkFaMEF6YlEyWF82dmtGSU9Lek9EeDRuR3JuemsxZFlCNEUwYjVwRV84NWpDeWx5aDM1elY1b08zQQ?oc=5"
       },
       {
-        "title": "New Zealand's GDP grows 0.2% in June quarter despite fuel-price shock - fibre2fashion.com",
-        "source": "fibre2fashion.com",
+        "title": "New Zealand's GDP grows 0.2% in June quarter despite fuel-price shock - Fibre2Fashion",
+        "source": "Fibre2Fashion",
         "published": "Fri, 18 Sep 2026 12:49:59 GMT",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObUZmWld6N1dXWFFLUklnV0N2a3pWRnhnOUZVNm4tcHQ4c2xGYXpDZWZ0RUZOdk54S1NSMVpFREhndmpUMzRIbmRmci1qdXFjbUJkVHRmQ1ZxMENITW5LNTgyOTJBU2tPS3luTDlkNjBKRkpDb2w5cERYeXJjbUxiVGR3NldELTVaTVo0M01pWEJsMlJEUTVyV2taQVMyeEZ4U1M3d3EzcjRrbzZ0X052LXVhX2RqSndwUFZnQTF4LWFUdzdBa2YtVkpVRm1LM004bmc?oc=5"
       },
@@ -8606,12 +8620,6 @@
         "source": "RNZ",
         "published": "Fri, 18 Sep 2026 03:37:15 GMT",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV3VaV1BZM3FLMVJDUTF5Tjd4NEpVZUkwVGpvSHhJR0xpc25jUlV6RGloM0ZFU2hvZWpYMEZ4aEl2N1UwR0JNMTFUUzBUZ1dFWFRvZGZlM0I1MnBPQkh4T3hGQnpJV0NwaGNycXdKTmI1TG4zU0haMkRvTlJreDA0NjYxMHMwRkkwQ19IRzZ0bWpoZE05Y3I0Y1paVmItbmpJSnhWTW1ISjFNY0RYRVI2R3QzZkVxY0hLN2c2a1JYSE5WcjdOclZvZ2s5MTg1aDlZaVE?oc=5"
-      },
-      {
-        "title": "Choked Red Sea doubles threat to NZ fuel supplies - newsroom.co.nz",
-        "source": "newsroom.co.nz",
-        "published": "Thu, 17 Sep 2026 17:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb0JMU3RUc2k2OWlMbXZCdGsyRkh4QUpVTEwydDduTFhuVEtRWjcwbjcyWHBycU5Rdjl5NVh1cU9LbnRmN01CZjM3R3lNbXNLbFdvMkgzZXZSc3hrSm9VRUE5azZJd2o2QnlRZjFFWVBMazM4cWNVZjQzVUphbW1Sd1VmTW4ybDV6THZlYm5YZjAydFBJZXc?oc=5"
       }
     ],
     "global": [
@@ -8634,16 +8642,16 @@
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON2RKTTJrVlJfYk5oc0xkcFJldlNPYUJYMW10Zk1lSmRuWmRWRG9OdTRqZEdDLXRoWkVoRHQ1ZjhVcC0xVEFIbWliWEdOQVBOaElhSHVqZkZxNDBuRTJESkFqenJVenRONFN0MEJzN1ExdFlpaGg4dGg4bDVxVHBNQWZVLWRhR3lWWEtTWW8yX2VJWFVURWEwSTMwLTlvc0hoeG16WlhDM0fSAa4BQVVfeXFMTXBkb0lNcDJBX3g5NHNoUlJYMUJWYkJSdDlVMDZrQ21FaDhkZ1prZUMwM1k4UDNKaEpDS1FUSFZPMUw0N01vVlJWeVlpVkx0SXRpT1VYM0M4aGFYbk9fQTNYTW9EU2V1b21PWEdCWm10a1U1SUdjaXZqUUhtOGhvbENpUmVtMVdWY29vNm16czg4SlR6QUFHallqdDRQdnNNbU5oT2NTOWE0NFlTVEhn?oc=5"
       },
       {
+        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
+        "source": "LiteFinance",
+        "published": "Mon, 21 Sep 2026 19:58:19 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
+      },
+      {
         "title": "US-Iran Diplomacy Drag Global Oil Prices Down - Mexico Business News",
         "source": "Mexico Business News",
         "published": "Mon, 21 Sep 2026 19:10:48 GMT",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSUk2YlFnTTFBMkwzYmxDTlJxTk5RemNfSXVRYWFuSkh1V01mcGpYNGlPTUNxQW1NbnNJMGloTW9xX0s1OGVkWXZ3ai11Ym9ZMHhRWWNtdW5QeXFKYmdVT19iR1g3aXhBa0UzTkFiRHBoNld4SGQ0TWVkbTdJWi04UkRYLUxaNUpra09VcWRzVHlKUQ?oc=5"
-      },
-      {
-        "title": "Gas prices in Florida jumped this past week amid global supply disruptions tied primarily to renewed conflicts in the Middle East. - facebook.com",
-        "source": "facebook.com",
-        "published": "Mon, 21 Sep 2026 18:53:28 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaW1NUTd5WGpCY3hYVFYxSFdCdDRHcGNKblppUE1scmZ3OWF5dHZPNXhpdVFRckZUU0dXdFoyZmxWb19rWUtpVXN6b2k0VmZyOElGTkw2c3pqYjJMa0VnM1RGNmpHd3V0U0p6SXk3amx1RXM0ems5Uk5EeGw4RXRMTjRrX3JzQ2ZkelJUTTg0Ul8wdFNyb0gzd203M0NnY2xCY1ZkRDZIRW5HNFVuMFA5cDQyUml0a2NNSXk0LXVpUWhDQV9lYTI5ZHRzMzNrY1VmYXc5YlhPLUZoekh3WHRJ?oc=5"
       },
       {
         "title": "Oil prices retreat as Middle East supply concerns ease amid diplomatic talks - Oil & Gas Journal",
