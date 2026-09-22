@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-22T18:20:50+00:00",
+  "generated_at": "2026-09-22T20:56:38+00:00",
   "fx": {
-    "nzd_per_usd": 1.748389,
-    "as_of": "Mon, 21 Sep 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.749682,
+    "as_of": "Tue, 22 Sep 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 95.96,
-      "latest_date": "2026-09-21",
-      "delta_1d_pct": -7.62,
-      "delta_30d_pct": 14.85,
+      "latest": 98.63,
+      "latest_date": "2026-09-22",
+      "delta_1d_pct": -1.7,
+      "delta_30d_pct": 12.44,
       "series": [
         {
           "date": "2025-09-22",
@@ -1013,15 +1013,19 @@
         },
         {
           "date": "2026-09-21",
-          "usd": 95.96
+          "usd": 100.34
+        },
+        {
+          "date": "2026-09-22",
+          "usd": 98.63
         }
       ]
     },
     "wti": {
-      "latest": 91.97,
-      "latest_date": "2026-09-21",
-      "delta_1d_pct": -8.31,
-      "delta_30d_pct": 17.64,
+      "latest": 89.85,
+      "latest_date": "2026-09-22",
+      "delta_1d_pct": -6.19,
+      "delta_30d_pct": 9.4,
       "series": [
         {
           "date": "2025-09-22",
@@ -2025,45 +2029,49 @@
         },
         {
           "date": "2026-09-21",
-          "usd": 91.97
+          "usd": 95.78
+        },
+        {
+          "date": "2026-09-22",
+          "usd": 89.85
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-09-21",
+    "as_of": "2026-09-22",
     "regular_91": {
-      "avg": 3.291,
-      "min": 3.031,
-      "max": 3.559,
-      "count": 71
+      "avg": 3.357,
+      "min": 3.101,
+      "max": 3.749,
+      "count": 76
     },
     "premium_95": {
-      "avg": 3.487,
-      "min": 3.206,
-      "max": 3.639,
-      "count": 33
+      "avg": 3.539,
+      "min": 3.186,
+      "max": 3.809,
+      "count": 27
     },
     "premium_98": {
-      "avg": 3.616,
-      "min": 3.456,
-      "max": 3.739,
-      "count": 9
+      "avg": 3.689,
+      "min": 3.619,
+      "max": 3.799,
+      "count": 5
     },
     "diesel": {
-      "avg": 3.053,
-      "min": 2.756,
-      "max": 3.509,
-      "count": 79
+      "avg": 3.115,
+      "min": 2.896,
+      "max": 3.779,
+      "count": 78
     },
     "lpg": {
-      "avg": 1.883,
-      "min": 1.869,
-      "max": 1.897,
-      "count": 2
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 152,
-    "observations_yesterday": 34,
+    "observations_today": 145,
+    "observations_yesterday": 33,
     "observations_older": 8
   },
   "mbie_waterfall": {
@@ -8576,7 +8584,7 @@
       {
         "title": "Pain at the pump as petrol, diesel jump 30c a litre in three weeks - 1News",
         "source": "1News",
-        "published": "Mon, 21 Sep 2026 18:03:51 GMT",
+        "published": "Tue, 22 Sep 2026 18:52:07 GMT",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYmd2NlJRbUotSW9aWFRwS3JndmhqZVEzUkxuRk53a0pLQ2VPMnZXZjZ3RzYxblN2OVdjeUJDMlBSM1ZKX2Q1QkxVei1sYVZKY1lXanp5akN1OGl0LTdRZTlGYUJZUGlCNUlJbkZKMWZEUXZlSS1RTS1wWjRWbE9VZXBnbEVvRlVScFlpc3dORFoxaUdYcWd0TllVbXFFOEdWaDM4?oc=5"
       },
       {
@@ -8592,16 +8600,10 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNnFKY3NxQ25vMnEyR3ZWMWZEamNER1BFREFoYThmbVV3UFE5NlN3a2lvRTZzLW40ZXZFUUpKaVh0aENkLS10cm4td2RjR281SUoxUmZFX3NzSUZOMVVoWG9nVTRNOXNYWXB3UjR0WkJBSXhrWU9BRG5TbmtiQk91VmNmd25zZUFMTnFJUjR4aGZzQjIzcDFwSFBCM2dsR1RlT0FDVUY0YjFLeHNS?oc=5"
       },
       {
-        "title": "Air New Zealand wants to fly greener. The fuel it needs costs far more - The Press",
-        "source": "The Press",
+        "title": "Air New Zealand wants to fly greener. The fuel it needs costs far more - thepress.co.nz",
+        "source": "thepress.co.nz",
         "published": "Sun, 20 Sep 2026 16:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbnpSSWdkNVhRWW1KNXk5SUZJcGhrN29laW1uQ2RyWF9fMXRMN3d0bnMxVkpsSlFhZWdwOHVPSGU5VkJqTlRiZUh5WUthZEFFZ3lRVjF6ZzJvYlg4WS1nTWhrYjJjQ3cta2Y4YUg4RnpQZkFaMEF6YlEyWF82dmtGSU9Lek9EeDRuR3JuemsxZFlCNEUwYjVwRV84NWpDeWx5aDM1elY1b08zQQ?oc=5"
-      },
-      {
-        "title": "New Zealand's GDP grows 0.2% in June quarter despite fuel-price shock - fibre2fashion.com",
-        "source": "fibre2fashion.com",
-        "published": "Fri, 18 Sep 2026 12:49:59 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObUZmWld6N1dXWFFLUklnV0N2a3pWRnhnOUZVNm4tcHQ4c2xGYXpDZWZ0RUZOdk54S1NSMVpFREhndmpUMzRIbmRmci1qdXFjbUJkVHRmQ1ZxMENITW5LNTgyOTJBU2tPS3luTDlkNjBKRkpDb2w5cERYeXJjbUxiVGR3NldELTVaTVo0M01pWEJsMlJEUTVyV2taQVMyeEZ4U1M3d3EzcjRrbzZ0X052LXVhX2RqSndwUFZnQTF4LWFUdzdBa2YtVkpVRm1LM004bmc?oc=5"
       },
       {
         "title": "New Zealand Petrol and Diesel Prices Rise, First in Four Months - VOI.ID",
@@ -8610,10 +8612,16 @@
         "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBSVGhfSWF0LWR3cG5ZUHIyUS1raENfM2sxSm9oWGUxS3ZTcmFRQ0NobkhNOGdaN1JjMHhaRlZDcy1EM2duNFhN0gFCQVVfeXFMUDljMkR3YmR0VlJUZFpqdVdQWE1rZkc3cWJERGhNSWtVTUhiWHJQOEVDUi1nRWpwUE1LdHZBZHFWaWZB?oc=5"
       },
       {
-        "title": "Petrol hits $3.25 a litre as AA warns prices are likely to stay high until mid-November - RNZ",
-        "source": "RNZ",
+        "title": "Petrol hits $3.25 a litre as AA warns prices are likely to stay high until mid-November - rnz.co.nz",
+        "source": "rnz.co.nz",
         "published": "Fri, 18 Sep 2026 03:37:15 GMT",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV3VaV1BZM3FLMVJDUTF5Tjd4NEpVZUkwVGpvSHhJR0xpc25jUlV6RGloM0ZFU2hvZWpYMEZ4aEl2N1UwR0JNMTFUUzBUZ1dFWFRvZGZlM0I1MnBPQkh4T3hGQnpJV0NwaGNycXdKTmI1TG4zU0haMkRvTlJreDA0NjYxMHMwRkkwQ19IRzZ0bWpoZE05Y3I0Y1paVmItbmpJSnhWTW1ISjFNY0RYRVI2R3QzZkVxY0hLN2c2a1JYSE5WcjdOclZvZ2s5MTg1aDlZaVE?oc=5"
+      },
+      {
+        "title": "Fuel prices see first rise in four months amid renewed US-Iran conflict - rnz.co.nz",
+        "source": "rnz.co.nz",
+        "published": "Fri, 18 Sep 2026 00:03:38 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOODBuTGYyNnNuUllWSXpydHJVSDlMVnE5dHZLaE42eUJiRURZRUcxdGlQdWwwNGtBWUFxS19MM3NzZmxsYVE1YnBZUHREYnRiZUFXTDJLOVZ0Z3lJOXJvVHFXOEI0Y2xtbHBTRTViel9rQV9NcVhBcGpuOHhRcmZmT3FrRVJrcVBSX0NWWEMxaC04MU90ZWgtaVRVVGdkcVpKdUVMbzl1OE1LcmVGLVVsQUpxUnd4Zw?oc=5"
       },
       {
         "title": "Choked Red Sea doubles threat to NZ fuel supplies - Newsroom",
@@ -8623,6 +8631,30 @@
       }
     ],
     "global": [
+      {
+        "title": "Global Oil Price Drops Below $100 a Barrel - The New York Times",
+        "source": "The New York Times",
+        "published": "Tue, 22 Sep 2026 20:05:50 GMT",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LeWlhaXZTNVRtczlmYnpMczlmcnA5b3RMZkNqX1NDZGFfX3NCXzdMYzFzNXhNXzY0bjM0a01tTVY1TF93bElWRnYxYzdsLW13aDhYZEhpejZWZVkzSlpmVGxXNGIwam5rOGt4RnVLbnQzWTdRYllQb1Fic2ppenM?oc=5"
+      },
+      {
+        "title": "Oil prices see-saw, as markets weigh Trump’s UN speech, potential Saudi pipeline fix - NBC News",
+        "source": "NBC News",
+        "published": "Tue, 22 Sep 2026 19:55:10 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObU1tZnZwTkhweW9HMkM5cDFMMjB3YUY1ZFdaN3ZfRzktSEhudU5wYzVPVVNZcDhIVFBZaWNBT2ItVFo1VmJPZUZETmRzR1pUU3Z1Qk1Nc0Y1dmNSRTNPZ2RBeUkySDBGcGJGMlFxa1JTLUI2SDVTYXgyX2JIX3NzUXZLbm1Kcmt2enRjSThGaVItRVJCb09jOENjVU95NGdoam5RUS1fZlg0cUtCNVA0N2N3?oc=5"
+      },
+      {
+        "title": "Wall Street holds near its record after Brent oil briefly falls below $98 per barrel - Boston Herald",
+        "source": "Boston Herald",
+        "published": "Tue, 22 Sep 2026 19:54:02 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWEJFUDEyOVlPc2VKd05hV1VkbkpIOXdFa0xVTTNCbnpQSnkwVU9Eb0pKSHp2WXRsaWQyQkF6Nm9hWUw2UUZsei1aUU1MV0I5U2trcWtROFlXLVQwX0pqMnFyeHRMRElNbGdNU2hnNUVOV2RkdzFXNjZDNXUyMmU0aA?oc=5"
+      },
+      {
+        "title": "Oil Prices Fall on U.S.-Iran Diplomacy Hopes - WSJ",
+        "source": "WSJ",
+        "published": "Tue, 22 Sep 2026 19:53:17 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV0dWcVNNMlhnbkxPYlRmRnlNblltd1JsbHNab0pINjBpTGFPYlR0aTdiZ1ZfRzNXMlJTRXhMeTF1S0xxY29pUk84UzFxQ3dmZy11S0VEWFZjMmczOXE3cjRBTFFQMDF1NlFERTJaYkZHSURES0JySlNQWHhOSGV4SC1yWGdlSXJLaE1TNjc0a1Y2YXdKR1hieEd4cw?oc=5"
+      },
       {
         "title": "A Small Break for Oregon Drivers as Oregon is One of Five States with a Small Week-over-week Decline in the Average Price of Gas - AAA",
         "source": "AAA",
@@ -8636,40 +8668,16 @@
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYjI0bXFnTXFWWFIzTUJITzZ1SjRINUhER29hdHRiaGtmdWQ3TkRCRG4xbGNOamdoOUFxQzFQUEhaOGY3TngtZU9qX3hvQk5lVnhrVW81cGljdFkwejBfSjhsc0FkOHZGVTVWbGNva2JLV1psNnJ6Mm5EU0lTeHg0SlUxSXhzYjFNa1YzWEN6VmZ3eGpmTmM0blVUYUtZMXk0YW1QYUR6UjVEeWdDMjlQdGgxTEVVUTN2dll0RjlrcC1JcVk1cERjTw?oc=5"
       },
       {
-        "title": "Global Oil Price Drops Below $100 a Barrel - The New York Times",
-        "source": "The New York Times",
-        "published": "Tue, 22 Sep 2026 16:28:11 GMT",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LeWlhaXZTNVRtczlmYnpMczlmcnA5b3RMZkNqX1NDZGFfX3NCXzdMYzFzNXhNXzY0bjM0a01tTVY1TF93bElWRnYxYzdsLW13aDhYZEhpejZWZVkzSlpmVGxXNGIwam5rOGt4RnVLbnQzWTdRYllQb1Fic2ppenM?oc=5"
+        "title": "India's Russian Oil Imports Slide as Refiners Hunt for Alternatives - oilprice.com",
+        "source": "oilprice.com",
+        "published": "Tue, 22 Sep 2026 17:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaVdhdURrU1ZGY3RXRk9mLUQ5aXI2WXhBNC0zRW9iSHlVVlBPbW4wWS12WUhGZ3hQdkJXd1BQTkVxWmFoaFQ3YjFlS1NDdGpMaWVyZUx1U0tvRXlZNUpUcWx1d0R3LTBXcWpfSjZwVWVYMlEtZmwyQkE0bk1tOFE3Z09KQVlUZkRYbDg3ZC1jeUpZSUZndmZ0eTdvNElYVFVhUDdtNTBlUDJEWUlMSllOUEczTXdfNEJfQjhabkNfZ9IBxAFBVV95cUxNdWN3QVFlX2xvSGFwVDRIUEhabTVyTmJ1R2VPOU5nSU5FTFhNVnBnOHlxNEZLQWEwNTBvRzd2SnpHZVZQai1pbTlFZUJOeXROZTExSnFfWXhlc0Nsc1V3d19DQzJ1RlJvSEtfMU41aS1iV0RKbXBHdlBsRnROdUk4cm5UcjlOdjFjajRsR2djSE5kUTNaN3YzNkVBOFBvcHcteHlQTTlBYTVRWXZmajFiVTlQODVzZzdaODNFM01iT2p5MU5S?oc=5"
       },
       {
-        "title": "Wall Street holds near its record after Brent oil briefly falls below $98 per barrel - Boston Herald",
-        "source": "Boston Herald",
-        "published": "Tue, 22 Sep 2026 16:16:58 GMT",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWEJFUDEyOVlPc2VKd05hV1VkbkpIOXdFa0xVTTNCbnpQSnkwVU9Eb0pKSHp2WXRsaWQyQkF6Nm9hWUw2UUZsei1aUU1MV0I5U2trcWtROFlXLVQwX0pqMnFyeHRMRElNbGdNU2hnNUVOV2RkdzFXNjZDNXUyMmU0aA?oc=5"
-      },
-      {
-        "title": "Wall Street holds near its record as Brent oil falls below $100 per barrel - Times Union",
-        "source": "Times Union",
-        "published": "Tue, 22 Sep 2026 15:33:45 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM2ZuYXZsNzNFZDBZRzhHLXZUa0ViNWhjUmxTcUN3dXZEdGhnbndtUUVMbWN4QnpMLUI5Ump4Q1VHS1I2UjJSNXkwMFVVODlsNU1DbXZLQ1oyaXdPQUp1VG9YcUo2bVRzVU9UbVNfYTVjcmZMOEdSbDFmWks2dUh2cmxvekloMkVLdDZhQjBVRjBveThCMGdRQWFWVzdPNzI5RWFzZDcxdVNYa3c?oc=5"
-      },
-      {
-        "title": "Oil erases losses after Trump says Iran war could be settled after midterms - NBC News",
-        "source": "NBC News",
-        "published": "Tue, 22 Sep 2026 15:23:21 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObU1tZnZwTkhweW9HMkM5cDFMMjB3YUY1ZFdaN3ZfRzktSEhudU5wYzVPVVNZcDhIVFBZaWNBT2ItVFo1VmJPZUZETmRzR1pUU3Z1Qk1Nc0Y1dmNSRTNPZ2RBeUkySDBGcGJGMlFxa1JTLUI2SDVTYXgyX2JIX3NzUXZLbm1Kcmt2enRjSThGaVItRVJCb09jOENjVU95NGdoam5RUS1fZlg0cUtCNVA0N2N3?oc=5"
-      },
-      {
-        "title": "Saudi Arabia restarts East-West oil pipeline, sources say - Reuters",
-        "source": "Reuters",
-        "published": "Tue, 22 Sep 2026 15:12:19 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNmJidHFzNHlscWlnT2hsWFdKc1hNRFMxOWRnTTRQRHVHbV9tRTJySFJoOGFoZXdNdTIwMngxZlczRmY3dWJxWkNiWTRYclVyT0JoWXQyUHJpNThicmpUNDMwWjNqREdrYmw3Ty1peU9oaEtRdC1GWXE1S0o1eGlrWDZONDhqS0FDbWotZXV1LXBvTEhUWHdlT1BzYU5udjNKTTFXdk1hX0wwVk1yczRTdV94R0p4UUQ1bEViTXJ2S2pEaTVLTFlvdw?oc=5"
-      },
-      {
-        "title": "Russian Oil Flows Dip as US Sanctions, Saudi Supplies Loom - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "published": "Tue, 22 Sep 2026 15:03:13 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSjY4YUhLMUNfc1dTcVlyZ3J6NW9lcHlVdU5KczhOLTgwUjhyRmNLcG8zeHdIdzEzdERWb1NIVjZaVFBjZXZNR21KQjRLRm5idldIaFctdlJ3R0RVTWRqRW5BZzEzR1RFZjJSdFdHYTFLUVR6OWg5MkxRNFVrUkVPOGplU0tYX0p5TDFXcnBxamptUTZ1MUhUdnJteEFVYXhYYmdnbnpOVS0zZmJpbzNfaTJWRTJPLUtnQXp5M21XMmJ3NnpvZi0tUw?oc=5"
+        "title": "Saudi Pipeline Restart Fails to End Oil Market Tightness - oilprice.com",
+        "source": "oilprice.com",
+        "published": "Tue, 22 Sep 2026 16:10:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNjYtZXgxajdTTkR4Z3ZQMzJNWVpUOWQxLURHSG1la0xHeGFlem9EX0VQRG5YUGlnYWY4aDNqUUVBaGh4RUtoNFNPY3NRbkdwVTFwUmQ0UGxRSHVJbmphcEhOcFBZLVgzNnBscWJVMEZ6eFNUTUxORS1RS19DZHhvZzEyR21GR0ZFOWRwQjc5T09tTWdtMWZkUm92SW1DWTEt0gGmAUFVX3lxTE84OXh4R2xobXY3Rk1scDhHUVZwenRRc3hYenZ4d09WUktCSTY2Q1d3dUJGTGJjR3AtNUUwNHhfSXlYZTRPNFJPd2RudnFYeW54T1ZycVB6ZTF1eGVaTVE1ZTZDdEdYSUJrZjZUc2ppbHhnM19fanNlRVJJdVVuZFBnQjBwazBSSEJDLWM3d253T1FJSHNXQ25GVU55M2lpOFNjb0VjaEE?oc=5"
       }
     ]
   }
