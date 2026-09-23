@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-09-23T18:39:34+00:00",
+  "generated_at": "2026-09-23T21:09:19+00:00",
   "fx": {
-    "nzd_per_usd": 1.749682,
-    "as_of": "Tue, 22 Sep 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.746729,
+    "as_of": "Wed, 23 Sep 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 98.63,
-      "latest_date": "2026-09-22",
-      "delta_1d_pct": -1.7,
-      "delta_30d_pct": 12.44,
+      "latest": 98.36,
+      "latest_date": "2026-09-23",
+      "delta_1d_pct": -0.9,
+      "delta_30d_pct": 10.63,
       "series": [
-        {
-          "date": "2025-09-22",
-          "usd": 66.57
-        },
         {
           "date": "2025-09-23",
           "usd": 67.63
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-09-22",
-          "usd": 98.63
+          "usd": 99.25
+        },
+        {
+          "date": "2026-09-23",
+          "usd": 98.36
         }
       ]
     },
     "wti": {
-      "latest": 89.85,
-      "latest_date": "2026-09-22",
-      "delta_1d_pct": -6.19,
-      "delta_30d_pct": 9.4,
+      "latest": 92.69,
+      "latest_date": "2026-09-23",
+      "delta_1d_pct": -2.01,
+      "delta_30d_pct": 11.41,
       "series": [
-        {
-          "date": "2025-09-22",
-          "usd": 62.64
-        },
         {
           "date": "2025-09-23",
           "usd": 63.41
@@ -2033,36 +2029,40 @@
         },
         {
           "date": "2026-09-22",
-          "usd": 89.85
+          "usd": 94.59
+        },
+        {
+          "date": "2026-09-23",
+          "usd": 92.69
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-09-22",
+    "as_of": "2026-09-23",
     "regular_91": {
-      "avg": 3.357,
+      "avg": 3.395,
       "min": 3.101,
-      "max": 3.749,
-      "count": 76
+      "max": 3.669,
+      "count": 75
     },
     "premium_95": {
-      "avg": 3.539,
-      "min": 3.186,
-      "max": 3.809,
-      "count": 27
+      "avg": 3.593,
+      "min": 3.356,
+      "max": 3.75,
+      "count": 33
     },
     "premium_98": {
-      "avg": 3.689,
-      "min": 3.619,
-      "max": 3.799,
-      "count": 5
+      "avg": 3.683,
+      "min": 3.499,
+      "max": 3.819,
+      "count": 8
     },
     "diesel": {
-      "avg": 3.115,
-      "min": 2.896,
-      "max": 3.779,
-      "count": 78
+      "avg": 3.143,
+      "min": 2.919,
+      "max": 3.489,
+      "count": 73
     },
     "lpg": {
       "avg": 0.0,
@@ -2070,8 +2070,8 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 145,
-    "observations_yesterday": 33,
+    "observations_today": 146,
+    "observations_yesterday": 35,
     "observations_older": 8
   },
   "mbie_waterfall": {
@@ -8588,12 +8588,6 @@
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQempacFIxRnFORzZNSGpDRm9uazdndlQ0VVJ3R0VXWEVxVzhXclcwYzRnZFRWWXFsRTV5b1RhRW9XbE5ZWWJKTHpDTnZKYjFhdWpjVnJrd2p6NVkxbGhsZlJFaHlQYVBuMU9lNWhKMExNMVJKSF85ZVZDc0lxZDNsVUJhMTl1SWdYRm41Qm9TU25UQlhZWjZ4aG1WSHpnSkg3YUdoODA5M1dSRlhJNnRj?oc=5"
       },
       {
-        "title": "Pain at the pump as petrol, diesel jump 30c a litre in three weeks - 1News",
-        "source": "1News",
-        "published": "Mon, 21 Sep 2026 18:03:51 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYmd2NlJRbUotSW9aWFRwS3JndmhqZVEzUkxuRk53a0pLQ2VPMnZXZjZ3RzYxblN2OVdjeUJDMlBSM1ZKX2Q1QkxVei1sYVZKY1lXanp5akN1OGl0LTdRZTlGYUJZUGlCNUlJbkZKMWZEUXZlSS1RTS1wWjRWbE9VZXBnbEVvRlVScFlpc3dORFoxaUdYcWd0TllVbXFFOEdWaDM4?oc=5"
-      },
-      {
         "title": "Another 30c a litre: Kiwi motorists hammered by fresh petrol price surge - Stuff",
         "source": "Stuff",
         "published": "Mon, 21 Sep 2026 02:20:52 GMT",
@@ -8628,14 +8622,50 @@
         "source": "Newsroom",
         "published": "Mon, 14 Sep 2026 17:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT1plQi1YaTd3UHNMaW9UX2RPMmhXZ3NrdU9HNXRsRVNmSHZuUWRia2VPMVkxa0RpR2pSWDZscGtCRVFpNHA3eHpYYTdFcFVaSndDN3BKNlJJcFVXVUY4VDlZVHRGNlY2ZElibC1UeUdDdWw3VE1TcW1tUGphWS02Z0NaUm9WeVZ2MkVUX3l3X0E0WDVLTXhsNFdDd1U?oc=5"
+      },
+      {
+        "title": "Fuel prices tipped to keep rising as conflicts squeeze global supply - 1News",
+        "source": "1News",
+        "published": "Mon, 14 Sep 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRXctcE1iSTZ3dG01T0JDYVFESW81ZHllZDVtaGJBQllVcGg4VVFQVzJ5cEdlR0otQ3NxbjhXVDdIbXpPX2ZkU3FxTEhPN195c1gyaDA1cHFmSW1HUVJkYmZQR3dWMUc2cGlxUFE4cDhzdWNQQ0VnTml1M2hVd1dEc3IxUWg1M3Y5cm5IbWUzay1qbE5rcEVZNXl0VVB5czhzX0htb1J6QQ?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Oil Prices Rebound Amid Persistent Middle East Supply Risks - WSJ",
+        "source": "WSJ",
+        "published": "Wed, 23 Sep 2026 20:48:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRUo0V3BWdFhfQ2RSSDVkT2d1Vk9XWmluUktieE1hSU8za2kyOHRRZWxyNXpubVVweFdOTC1uMmprOUlhdjFOUVhhQTFlSDlhVnY1Wloxa2VzME92cm9oZWYtUmJ6R0lvOXl0SW5wTlBaRWtCNkRXMERyb3V5bmJQanhWQlptQzI4M3UwTm81TnMwSnJobHV2TEwzUmx5Mlk5T3MzOGJjNG1uYTV2MWNpU1drRUdUd245UVdHazVB?oc=5"
+      },
+      {
+        "title": "Hormuz Supply Crisis to Change LNG Market Forever - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Wed, 23 Sep 2026 19:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRkY0VzhCcEduRGRDc1JyVkhCQWdHcDlJbVNNWFFFTmJKeURQdHR6blBJQ18wNjJ5YlUzZU8tTk5IdGd1bGpwMGtSbG1TWi1SZkpBaDNfbV9aZ016aHdJeE1qZ2tERWQ4TWdVR2RTMUFHbml5ck5vUDRrZVRYQ1J4b3hwbjQ3a2tzUXpaSERPQUhGTHhFR2ZYSFNR0gGfAUFVX3lxTE5mX2JyLXJMVk1TMkQzX2RJSElXRVh5WGhwU0RyNVdPUWVqWVZ2cUlsaERwaXlpT0ZFZ25iWVNVZzgzODdBWTZET2pJSU96Wl9tZWQ4bTAxUEhxMHNqRnFsd3FpeEtTV0JiNkV2YU11YmJzZHNGYnU5UU90N2tqWDJONWMyUEJBN0lQeGxaMXFIYnVGajlSR2JaeXdvWmFlaw?oc=5"
+      },
+      {
+        "title": "Oil settles up around 4% as Iran's president vows to never surrender - reuters.com",
+        "source": "reuters.com",
+        "published": "Wed, 23 Sep 2026 18:48:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeFhpNFFXWGZ2azRGVllBNXpwLXZQeTFySkY3Vi12SmpTNmMyY09oU3RMa3Rqb21pNUl0ZGhSbVBWQnZBOXdOb19xSlU3TnNra0F6OWowVHp5RHlSblJGTVhXandWeEFJaDBOTi1VcjdrSjVNeGVJZnVjeUJXM3NVYUgxZ28yQkVuWXNhc1pxd093NVVBTHZnWm40c01OS00zZHAwRWVR?oc=5"
+      },
+      {
+        "title": "November WTI Crude Oil Contract Closes Up $1.64, or 1.8%; Settles at $92.16 per Barrel; November Brent Oil Last Seen Up $3.37, or 3.4%, to $102.62 - marketscreener.com",
+        "source": "marketscreener.com",
+        "published": "Wed, 23 Sep 2026 18:37:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQV1FWZEpULVN2T0NFM3FwcmxJWXV1MEVnYTlrUDNTczZhWGNfX0dwM2tldU5LbGVhTldDYkl4cldUcUxxRGVVMVNmZlFFU0ZfblVGd0NONDZUZjI3UnlZRTBSQy0xcTRGeHNNbFE5Y2RlT0haWXdIRXBaN0ptMFRwR0FBTVBJYVBMY21lT1V5WUFCS0hSU0c4WnVIY3VwdXk5Z2NnblBqVm41Rmd4aDg5ejV4RUFHTEhveld3SGFjeWsyUjhWbVVaWWtGOWNyS3M5cjNPRXVBMm5EdVdCZXVVYg?oc=5"
+      },
       {
         "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
         "source": "LiteFinance",
         "published": "Wed, 23 Sep 2026 17:35:12 GMT",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
+      },
+      {
+        "title": "US extends by one month waiver on sanctions for Russian oil transactions - News On AIR",
+        "source": "News On AIR",
+        "published": "Wed, 23 Sep 2026 15:14:01 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdkIzVWFzUkFzY3AxZzFEdjR2Z3pJWVFxQ2xTbmY3X3VHd0cxNGdIU05hb3JnRFJISEFYRm9KSXd4SzRfRGRTck9EMjBBVDk0bHYxbEpXbWFjNHRrLTlTMEYyR2hjdXFvbnAzbjZFUWNUc0RvVFpmMHNkODFHS1ZJZjNMT1BDZXU0Qm84ZnhpUE5xQnhkU21VVWdva3U1Q00?oc=5"
       },
       {
         "title": "EIA Reports 3M Barrel Crude Build as Distillate Stocks Fall 12% Below Average - Crude Oil Prices Today | OilPrice.com",
@@ -8644,40 +8674,10 @@
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNkNBNm5XNjhGS3dwRjRXWF92Z0FXLTBKV0o3TG5mQ0didUJkdk1rSTlseF93UHRuXzJOMHlQWnlPUWpvZHJ2RUFjRHdQXzRmS3NqSHpYYmh0M2hheW5ydmJkejJIS09XLWFXZS1zSU1MVkJwcWhoSjNmWEVqMUJrZzlDSTVJZk04YjB1UXdNR3Y3N3dxbmlrZ05mTmpUd2pLak1naW9pcndKcFg0S2U1clIzZzlPX1lIZTVmSjRnYkczQdIBxwFBVV95cUxOaHdLeHNVb2hXSnZhQlpwQzlDTnBucEx5ZGphdEpnTWprS3RDSE1KTnBtMGJQNkxyWC1pMVlQSGNPYlktUXdFSlRjSlpFT1RlbFQ3d0I1NWJ3T2xjMVAyVWg4LWt5MENjVkIzMS1OY3cxc1dMLUh0LTg1dTZWczExT2hBMk15UlpvY0hFYUNOS3p1MXBubzZQNXRXN3o2b255UWEzUE9ESGZOSVhHYXpZZzlrbVBFaldzeGdYcTY3c2djNVB4elY0?oc=5"
       },
       {
-        "title": "Current price of oil as of September 23, 2026 - Fortune",
-        "source": "Fortune",
-        "published": "Wed, 23 Sep 2026 14:31:28 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MQlhZYnZHNkNsc0k4M3R2RGZISkJQcWtjM0ZRMms4ODVvdlQ4RlhqQ290Y0dCcm1YSV9ZaUxmOHMzYlNyQzFKT0ZsbnROazVGc1REVVc0WEFkZ01WYUpoS3JR?oc=5"
-      },
-      {
         "title": "WTI and Brent Forecast: Oil Bulls Return at Key Support - FXEmpire",
         "source": "FXEmpire",
         "published": "Wed, 23 Sep 2026 14:18:51 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnQxanhramR1bFNYd0lpVVI0UnRsT1NjRmpXVzlQWmZ6N0QtNl9mRHNpUWRIMG9iTHc4SVpBUWtFTzdONThMMlpSNVZYUGlzNnFVbnNzYUNLR1Fsd2U0ejhPZTBTZllXcjA2NVZaQzdsUjZTVW1NanRzTGg4R0JqSWtKVGpmM29MQVRWcURsSzZqVzdqS0R2MWdsVXlWRVl0ei1aRVRwWGg?oc=5"
-      },
-      {
-        "title": "China's 80% Grip on Iranian Oil Looms Over Trump-Xi Summit - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Wed, 23 Sep 2026 14:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXl4bnBTU1RZOXFmckx5S3RBVzBER2NWZUZ5LWtCMWFpQ1Z3SDVOeHdOWXBlT2R6UEZkRXpiSWJEU205eUV3c0JLSHNqTmh4bkVIVWpYT2NHN0ZUMklJWV92SkhYWVVUSGFvY3p6VDlQR2xCOW02X0U0bF9qRkVMUjN6N05EWnFDekpqMU5JNGczS1p6RGIxclBqMHRlSUtzYU9BVks3blQtdGpK0gGyAUFVX3lxTE9XaW5DTktIZGZkamZJU1AxWlJTN1VBTFM4SVlscHRSeVZBc0JqV25ZU3FuRF9IeGJROGE4alVMSlNYc25sS0lkSkVIZUJBaXBESXRxbmZxbW12aXkxRE9WeUNfVkRSVWJIaDJpb3RwZnRqYXVyWm1TeUw3NU1BLVhrT2RLN2V5T1ZxSHFidDhHYmk3NkFZb05LR2szZkVyRUxrVno2VnM4dU1pQTBNZGhFYXc?oc=5"
-      },
-      {
-        "title": "Most Gulf bourses rise on oil supply recovery, diplomacy hopes - Reuters",
-        "source": "Reuters",
-        "published": "Wed, 23 Sep 2026 13:40:11 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR0hzU1g3RnRjT3ZZZW5OUzdTbDhuM1p5ZVRva1Rwd0N0UjJ6QVN1NHY2empObkNUN1NlTHZVdDhUdWxkRTFUbDEzMUpqdU9iZjR5WG9TWFQwM19zcWFOTTk3MFJBcnJQRHlOSE1IZFl2SWxKaGJSQ3QxV1RoeTFJZVFBaHgtSnYtR05qZkpoZk5STFc0amJYOVUzS3h2ZHd0RmlMRWE4X3l5aVZVTkRiaEJn?oc=5"
-      },
-      {
-        "title": "Iran Talks Push Brent Below $100 While Diesel Shortage Holds - Crux Investor",
-        "source": "Crux Investor",
-        "published": "Wed, 23 Sep 2026 13:10:55 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZmpCdTI1c1BCUTBlN3lMWF9NZjNHelhEd01FWVBkdloxV0JqWnFUbGNQczhlb2JJZkFHeTJLcmNHQ2x5Y0Z5Z2ZBc0pPQ1FVZGdmS2dFc1hwb2lKM2tTeEtndGIxVEVtd3UxOHhLd1ZaSmVaY195eVlLaFlpZXZuU1F6NU5PSnFNTTRvVENYYXRqRW5hSXJucE1B?oc=5"
-      },
-      {
-        "title": "Oil Prices Rebound Amid Persistent Middle East Supply Risks - WSJ",
-        "source": "WSJ",
-        "published": "Wed, 23 Sep 2026 12:58:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRUo0V3BWdFhfQ2RSSDVkT2d1Vk9XWmluUktieE1hSU8za2kyOHRRZWxyNXpubVVweFdOTC1uMmprOUlhdjFOUVhhQTFlSDlhVnY1Wloxa2VzME92cm9oZWYtUmJ6R0lvOXl0SW5wTlBaRWtCNkRXMERyb3V5bmJQanhWQlptQzI4M3UwTm81TnMwSnJobHV2TEwzUmx5Mlk5T3MzOGJjNG1uYTV2MWNpU1drRUdUd245UVdHazVB?oc=5"
       }
     ]
   }
