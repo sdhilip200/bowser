@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T21:09:15+00:00",
+  "generated_at": "2026-09-25T23:35:47+00:00",
   "fx": {
     "nzd_per_usd": 1.766275,
     "as_of": "Fri, 25 Sep 2026 00:02:31 +0000"
@@ -8582,20 +8582,26 @@
   "news": {
     "nz": [
       {
+        "title": "The region where petrol prices are rising faster than anywhere else - 1News",
+        "source": "1News",
+        "published": "Fri, 25 Sep 2026 21:36:14 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMGJkNUZpTVNRVWVSTmJHSThIUU82UEs3bjA1VW1oVnRraXpJZ0xsdnRzQk9fMlFMV2JlYmE2U1dGUjRvUzI5ZDkycGtBZ2lvYzhXako3blB2eEV3YnYta0tORS1LdmhPSTZsNDhfN2tLV3Vhb0ZHVk5pSzNHX09FRFotWjF1ajZUNW50MEpDRmo2b1FVTXNBVVRlVUhmZVNFRUZFNnh3?oc=5"
+      },
+      {
         "title": "What's going on with fuel prices? - RNZ",
         "source": "RNZ",
         "published": "Thu, 24 Sep 2026 19:59:01 GMT",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdFBnUVBLVnZCLXo0VjFxalBZYWI1OG1TTlpqN1RGdjNWWkFuMHNkREN1MUlXTDVUNDJwV191NFdQbzVlTWhpRk5ZTU9oR3hnSkhqdjM0REdJT2xKblctTTNYOXQ5LW5XYW1wUTJPYXJrbWJEeDhKTEFxZXpxMHhfTjY1Sl9wRDhHNUs1WQ?oc=5"
       },
       {
-        "title": "Fuel prices surge as 91 petrol hits $4.15 on Waiheke - Indianweekender",
-        "source": "Indianweekender",
+        "title": "Fuel prices surge as 91 petrol hits $4.15 on Waiheke - indianweekender.co.nz",
+        "source": "indianweekender.co.nz",
         "published": "Thu, 24 Sep 2026 09:06:36 GMT",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc0xOQTliMG4zRTd1MzBoYXRwcXZLSk1aOFp2SHVjT2haYk1ycXV4V1dPa240Y3lKeVhCWDg5TGJ2dFJhZEVqcE1vdTBxbTl5OW54TGFaQkZNNllqbmJ1MWZLMnhpODJrQ3BiSDktMWNFRkF6eHdyNmxhSE5RSUlycXg4SGxuZTB1ZXZtY25KSndHTVJUVGhTRVNDOVQ4eGlFNlJkUdIBpAFBVV95cUxOc0xOQTliMG4zRTd1MzBoYXRwcXZLSk1aOFp2SHVjT2haYk1ycXV4V1dPa240Y3lKeVhCWDg5TGJ2dFJhZEVqcE1vdTBxbTl5OW54TGFaQkZNNllqbmJ1MWZLMnhpODJrQ3BiSDktMWNFRkF6eHdyNmxhSE5RSUlycXg4SGxuZTB1ZXZtY25KSndHTVJUVGhTRVNDOVQ4eGlFNlJkUQ?oc=5"
       },
       {
-        "title": "Fuel prices surge as 91 petrol hits $4.15 on Waiheke - Indianweekender",
-        "source": "Indianweekender",
+        "title": "Fuel prices surge as 91 petrol hits $4.15 on Waiheke - indianweekender.co.nz",
+        "source": "indianweekender.co.nz",
         "published": "Thu, 24 Sep 2026 08:07:26 GMT",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZS1wSW9DcG9lWGd3c0ZTMnNVN1cyeHFsNUlRVnkxblZIZEtiakdMR1RRWmt3WkRwTEpCZW1RbXJiZzBrcEotWG1ra2JtR0Q3LWNkVTBYa0NDUVNvWEdCZkdWZjEtRmtBTEtVaEtNdndJYkplWXl0by13enpMYmZXTDNULTdCcFpVcHdUQ3NVcEdKcS1G0gGkAUFVX3lxTE5zTE5BOWIwbjNFN3UzMGhhdHBxdktKTVo4WnZIdWNPaFpiTXJxdXhXV09rbjRjeUp5WEJYODlMYnZ0UmFkRWpwTW91MHFtOXk5bnhMYVpCRk02WWpuYnUxZksyeGk4MmtDcGJIOS0xY0VGQXp4d3I2bGFITlFJSXJxeDhIbG5lMHVldm1jbkpKd0dNUlRUaFNFU0M5VDh4aUU2UmRR?oc=5"
       },
@@ -8622,15 +8628,27 @@
         "source": "thepost.co.nz",
         "published": "Mon, 21 Sep 2026 16:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY2h6dG5ibnBTSGRNWUdacFJ4dmQtbk5qc3pjRjd5Vjk5OXlESlNOSkpJUzVXWnFSWGZDVkJKaDZ3cUVfdlNuaGhfMVpSS01hODBYcTFkSWl0bUpIRFJOaHFsSm13SW8wMW94Rk5LR1RQTTJ6M2tCaHN2YnMtZ3VPSW9sQ2NJZDJqS1IybHhiZGJ3S3FTN3dFNTA1eTFzaGJtQ0NPRWZ5TG5ENG5DMWdCb3Ryd05mbnJH?oc=5"
-      },
-      {
-        "title": "Another 30c a litre: Kiwi motorists hammered by fresh petrol price surge - Stuff",
-        "source": "Stuff",
-        "published": "Mon, 21 Sep 2026 02:20:52 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNnFKY3NxQ25vMnEyR3ZWMWZEamNER1BFREFoYThmbVV3UFE5NlN3a2lvRTZzLW40ZXZFUUpKaVh0aENkLS10cm4td2RjR281SUoxUmZFX3NzSUZOMVVoWG9nVTRNOXNYWXB3UjR0WkJBSXhrWU9BRG5TbmtiQk91VmNmd25zZUFMTnFJUjR4aGZzQjIzcDFwSFBCM2dsR1RlT0FDVUY0YjFLeHNS?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Nigeria Joins IEA As Crude Output Hits Six-Year High - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Fri, 25 Sep 2026 22:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNE5XMGhxQ1RLZktCYmFNTGhlS0tJeS1sejl4dWx4T21odTBSWmRpS24yUHdQNTl2Z3A5TWdxVUlOUVJOWHZqS3E2YlJvSEMwZWJSelZzQTM1bXpTR2JnZlJzQm84c19KeUs2MGoyaXVDVjNiMUdZVFlHZFYwdHhxblJUQkFnMGFEdFhPaTAzMWJqSEJfM0kxbU1TY2ZpUHRKdVHSAacBQVVfeXFMT2hhTjVuOThSanJQWVBwRkpNeWxyMTFKNWZNUWhwZm5jVjhYY3d0dGZ3emFhNmwzMGtWX3hpTEJyWGhWRDRYeXpMYTdIUmNTb2VCRWpZUlE2dlZQUG5hY0N0NnBRVnFsclZoVHVTSWJDV3BHU0FHdVM0Y05EOWcxcnJMWmFURGI0bGx0anI1SkpYbzU0VDQzdzk2NmZqbl9aeEVyejJPaEk?oc=5"
+      },
+      {
+        "title": "Asia Crude Imports Reach 23.96 Million Bpd in September, Highest Since February - News and Statistics - IndexBox",
+        "source": "IndexBox",
+        "published": "Fri, 25 Sep 2026 21:40:38 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMGMwQnJBUTJJUGdJNy1UTG84d290ZURxRkt6QW9BZ3daOUFjQjNxY3EyM0N2eWY5N1JHUkxVbHdBakptZHlpck8zWWc3MDBJMEt1ZUg5RHAydmEyN3BYZ1FhQWRYS1N4Z20wS1lGYWk4bU9zSWhUSkxURklQUHdqMzZYVThwR1UzOGdpRFctVWs2Z3RrVHVOVG1JVWVpUTkyaGwzV1JnSm50R3k1S0F3?oc=5"
+      },
+      {
+        "title": "Oil Ends Week Lower as U.S.-Iran Truce Hopes Hit WTI, While Middle East Supply Risks Keep Brent Above $100 - EnergyNow.com",
+        "source": "EnergyNow.com",
+        "published": "Fri, 25 Sep 2026 20:59:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcjNYb09tMXh1b3RRajI4SVZzWDdGekROWEFRZV9LSVZqTDFma1ZRVzdsQmNGalpUTWx3ejNFanpSZ1pkRUFTMER4YWZTelg0aWpRYTE4UFRvUzJFUEJyTW1KOVdiLWllRE1teWZSaS1VRmcySm9VQVhyVGJFT3JzMHN4Nlk0R1NZQWQxdHBocGFDeEdUVmtWRDc0d0JnUHZPcHg1bWttU1JJZkhha2ZOeEE0U2JsU1ZKMF9MY2tuNGF2TUl3WkVZTU9SR1RIREk?oc=5"
+      },
       {
         "title": "A volatile week for crude ends with lower prices - Oil & Gas Journal",
         "source": "Oil & Gas Journal",
@@ -8638,46 +8656,28 @@
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdFJlMWN2R1ZIT2QzYzAzdFRaQUdKT2pIOGdjUHFGVnZGeVVfTVVQQmRfY0F0TEV0eXVYV2g0WHJvdDFpak5iZzUtbDB1VTc4ZnVPSjlyTVVITGxTeFFNM21sWGFzYi12ZjQxamR0QjF1dWxXbjU0U3V6N19qSW55MHhZQktSV2pBMDdIUjl3cmNlMWt6Rk95eFFTTFZRVk9VRzNhZzRYRm1MbHJsRVdwZjFUcEJyRGVUeVBhMA?oc=5"
       },
       {
+        "title": "Why Record Heat Failed to Lift U.S. Natural Gas Prices - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Fri, 25 Sep 2026 20:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR3BtWFVOX1pmZS0wOFVjYkxSRjJxZjZuTU1XRHB3a1FzNzBvX1dvR0lFaXFOeFl3UGlfTlk3ZGNOUHNlS05EUVIyNTdxYUFvY3lBcDdNOE9FWDJiUEhieUxrRHRZS2tDUE5BRnlsZHN1M3dWSnlkNUVDcUlORWNDNHVsU1g1SWlGeUt6WHFlYnFvZlM4U3pIQlBjWUxrVXE4R2ZUZzQxTXVGODJU0gGyAUFVX3lxTFB6bS1valJIaGFlRUZfSUdkYjI0R0ZpN3hRd3pNVDIyV2FTSC1HdUJiZFVxNjJaREFhemJ0UTItWmhvdGUtOFI2TDRhdEtQX05yaVh3RVpoaVNLc1A0Ny01cG43dGdfRU1lN0lybEZGZUV2T2l3LTh6Q19SX25JY1JDVC1JbTRnbHFvX1pnRzE1bnRBWl8zelQ2cnlZQTBJa0hGQTJIMjRPWVRZYWVWT3BSTWc?oc=5"
+      },
+      {
+        "title": "Goldman Sachs Says Global Oil Demand Takes Big Hit, Sees Risks to Price Forecast - EnergyNow.com",
+        "source": "EnergyNow.com",
+        "published": "Fri, 25 Sep 2026 19:52:29 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN3Y1MVB3RUk0OFhpLWdlR1I2YlQwc21jQWRFdnNBakh3SGhVZ2ZPZU1rNVZwNWxBMHpOcHZIRjBNalZNXzMya2xraFN6cDNCYlBKUVp0TDFockxGbThyMmhEWWZJNTdkcUxIb2ttQnZCZk1pNnVrUWgwWWMyLXpxYWlodFdnVUpqZWdaUVFESy1RY1lDLVZ5a2JjS1pKZk5tWEZ5U1BqWl9ydVNPOFRv?oc=5"
+      },
+      {
+        "title": "Morgan Stanley Lowers Oil Price Forecasts After US-Iran Peace Deal - EnergyNow.com",
+        "source": "EnergyNow.com",
+        "published": "Fri, 25 Sep 2026 19:51:17 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSVctRUFVM1l4Z3VNRnhLZVN0dV9KMENjZW1wWWo4eXJycklOLTdJSkJNSm9qbTB4WDB5OUFsaktnUDc0V2JheDl0eUZoZk43bVpCMjhSTEFJeXNpeWhlc1FhZnhvOXN3Q3B4R0ppbkM3ZmJreFpEbUd3Y3A3WmxTY2Jla1RzSXUwekdNV1l4bnlZOEw3bG85TUt2S08wRm9FNkNlajRR?oc=5"
+      },
+      {
         "title": "Iran proposes Hormuz reopening in exchange for sanctions relief - Latest news from Azerbaijan",
         "source": "Latest news from Azerbaijan",
         "published": "Fri, 25 Sep 2026 19:34:06 GMT",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaS1fSmhweEFsZmdvZGc2VVduUFBrTUVvVnBHd1hqNEs5ams1Q1RNcy1WbFM5dlJHeks1bTJWQTdxb1ZVMWtCSHRRWDRDczhkQWg1WjFUY0Rpb2E0UEJFc1RtbnNtX0lsQkZpWHBtOWhvSmVKSXBiWVg1bWNhaVZGZjNDSkN0dnNtMDhKSQ?oc=5"
-      },
-      {
-        "title": "Iran offers Hormuz reopening for sanctions relief and ceasefire talks - India Today",
-        "source": "India Today",
-        "published": "Fri, 25 Sep 2026 18:24:43 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMlFpWDJzSDlmVVlDdV9SQ0ZHWFVQbTQ1SjFjc1NRbG5fVi1xT3lHc09oZk9fQnIyeFFDSGNuTmhSeTNNbXdSN3pwMzZUeFNnU1J0SjI4V0tfVzF3ZnFUQzNhUzZZbHRtU1FNWHByVjJUbFlTelZJYVlaZ1RheDZEOHktZ3RYOHNHU04yOGlrQTJqbDF5ckktZ1R4Q1c0RUpady1NVEVXWHN6Y3BqemUxZHFKSVJfYWZ6NjI1emtxMi3SAcYBQVVfeXFMTmx5WXY0ejVhZ2ZaNlRNeVlMVHJhbmU2VHNxOHRMV2ZReWNrWFNRcUltVEN2cGkzSnFJUklGdFhmV0F0X1pDQUNxNEl0bnVhZjBKSm1SVnpLdkdxbUQ3emhvUXdnc0VIQVpGbHc0VlZEY1RiTGcwS3FhOFJsLUdWMU1qMW5BeVY4ZDBBLWw0N2prU1RBczNKb01DWUZucVpuVlVvcGRtRXRIOXV4dFpYeFdGdExOc1ZfSmowM0hjX2RZNHlLLS1n?oc=5"
-      },
-      {
-        "title": "Oil Prices Fall Amid Middle East Supply Concerns - gurufocus.com",
-        "source": "gurufocus.com",
-        "published": "Fri, 25 Sep 2026 17:29:39 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZU1BRF9CZFhrYlhETS1faHZpRlNsbzU2bEMzbFp6RWlVSXFDNWVzQmdRTExOcERHV1JxcXZxZEc0dEl0UHdSZ1RuWFRBaEs3R0JkZjk1dl9GMUNfZmN4b21PclVZWktBbzhNY0M0T0pQdnRKa3hyVDNvcHFnb3ZsWWVfbjlOOHlBbGxwaUtaZC0?oc=5"
-      },
-      {
-        "title": "Oil Prices Lower Alongside Possibility of US-Iran Truce - Marine Link",
-        "source": "Marine Link",
-        "published": "Fri, 25 Sep 2026 17:18:13 GMT",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeV9NNjdGT2JjaG9tWlZ1Y1dGU0JwVmgzTVJ5bTZackpFRVVpMzU3Z1VfWFU4dnlIMGh1Sk5nLWVxX3ZWZ0NWUmVNVmRzWVhheU9yclBxNDBHVjQzaUI4cy1yTVJ0ak0tRjZaUnI4eUpDNFUyQlFDUVNYRTVRMl9uZWE5SQ?oc=5"
-      },
-      {
-        "title": "U.S. Oil, Gas Drilling Perks Up As Pressure Mounts - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Fri, 25 Sep 2026 17:15:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTko0Wm85LURROWM3UEZZa3JDZjZVVEJoazB0STBGU2xJS3ZvUjY2eWdPT1VYWFlQa3ZiUHFNMFhSZEx4NXF3b2dNY3ZXTG5LVDVWd3dsbGJWT2IxNnpvSjJRNVVKS0VzRGQ1SGI5eU4zV3VXMUVJRUVrMHlWWFZia0hnWjA2M2hzYS1qRVJLZGluVFY50gGaAUFVX3lxTE9aTS0wcDlYQTh4ZXQwS1N0cWt4dDRLLVVBOVpPbW1wYkt2Nm9DYURXRzNvdnRiNEkyejJYeW5yV3FWOUdMSVc0dVZ4cUh2akNxYlRBZmhGRmNyYm4wM0NOejduOUNWZVBRR1VsTU92Nm1UdjNJWmhHZmphSmUzZ3pkZmRzTUxEbXF4ajhzMXRLMVlCZHlRWGN6QWc?oc=5"
-      },
-      {
-        "title": "BP Eyes Bigger U.S. Shale Footprint After Devon Deal Talks - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Fri, 25 Sep 2026 16:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRXFnTlFFc2V3eUxuNEVmT2ZxNktleUZ6Wko4M3J2QkQyQkdaUGkxdkowTEtVbTI5cHkwaVpYNlZSNEZ1dlVrRmE3WVdjWFJDT1E3V1k1eGw5UF9ObHZYcEpta1Ntd1NBanNMVmhxTnREcDBlQ1o4U0FweGlNT0YwRmNrbm56UXk5Z1ktSzMtcWktNUhPUk9fTlZrTlhpeXdiQThCdGxuVWpBVng2anFpRDZn0gG3AUFVX3lxTE9wdUNqY3dhdUE3UWRNeDgzZkF2QUUySVFMSWhFcHVvNDBVWUVZVWM3Tm1jbHBzY0o5WlZxYnZLNFo5UHVpbU9ldTY2MDM3dEd4NG5EVU9iaWVVVGZfNzk3OU9WQXhwbGFxUHRwS1JINS1VUXFsa2lLdGg5ekR6VUhpN1YtZnh1aUVUeGZ1QXhEb3ZlVGdBUWtCSC1RY3ZKWUZNN2RYbUlLQldlZFQ1LUlfZ21lT19qTQ?oc=5"
-      },
-      {
-        "title": "Why WTI Is Suddenly Trading $12 Below Brent - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Fri, 25 Sep 2026 16:15:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObTdQc3ZENkRHRjVPTDdDdUh5ZFNaR2dQM2xVQnpHblpZV295dmpBV01tR2dFZzM2S3JkWGFRQ3lNaXVBVnhvem1CMUlreEVzYW9HN1l3MFlMbjBlRzhRQ1V1Wk81OWUyUm5XeHByYzQxZWtTUHVLbzdQR3JWOU5OUE1FNkdlUjhHSzBERWhR0gGTAUFVX3lxTE5OM25fbHNJM09TQU9zQVVwdFlXY0lvY243Y295UHBKanp1N3g1Yk1TZjZjVEpGRWdRY05kMjl5NU9jWWdTQ0F6S3YxelUtRGd0M0EtazBGRW1Lekh5aGVJUlVJZktFZlVmcGNYS2NnWUJILU1MX0xiMDZrM2QxMmtoT1VnTUVJOXZqazRGMExWd2l2NA?oc=5"
       }
     ]
   }
