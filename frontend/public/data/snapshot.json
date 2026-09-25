@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-09-25T20:27:36+00:00",
+  "generated_at": "2026-09-25T21:09:15+00:00",
   "fx": {
-    "nzd_per_usd": 1.761005,
-    "as_of": "Thu, 24 Sep 2026 00:02:32 +0000"
+    "nzd_per_usd": 1.766275,
+    "as_of": "Fri, 25 Sep 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 107.03,
-      "latest_date": "2026-09-24",
-      "delta_1d_pct": 3.83,
-      "delta_30d_pct": 20.29,
+      "latest": 97.44,
+      "latest_date": "2026-09-25",
+      "delta_1d_pct": -8.59,
+      "delta_30d_pct": 11.91,
       "series": [
-        {
-          "date": "2025-09-24",
-          "usd": 69.31
-        },
         {
           "date": "2025-09-25",
           "usd": 69.42
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-09-24",
-          "usd": 107.03
+          "usd": 106.6
+        },
+        {
+          "date": "2026-09-25",
+          "usd": 97.44
         }
       ]
     },
     "wti": {
-      "latest": 94.76,
-      "latest_date": "2026-09-24",
-      "delta_1d_pct": 2.82,
-      "delta_30d_pct": 13.8,
+      "latest": 92.45,
+      "latest_date": "2026-09-25",
+      "delta_1d_pct": -2.28,
+      "delta_30d_pct": 13.78,
       "series": [
-        {
-          "date": "2025-09-24",
-          "usd": 64.99
-        },
         {
           "date": "2025-09-25",
           "usd": 64.98
@@ -2033,46 +2029,50 @@
         },
         {
           "date": "2026-09-24",
-          "usd": 94.76
+          "usd": 94.61
+        },
+        {
+          "date": "2026-09-25",
+          "usd": 92.45
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-09-24",
+    "as_of": "2026-09-25",
     "regular_91": {
-      "avg": 3.366,
-      "min": 3.069,
-      "max": 3.629,
-      "count": 73
+      "avg": 3.426,
+      "min": 3.086,
+      "max": 3.75,
+      "count": 63
     },
     "premium_95": {
-      "avg": 3.55,
-      "min": 3.206,
-      "max": 3.939,
-      "count": 38
+      "avg": 3.612,
+      "min": 3.216,
+      "max": 4.029,
+      "count": 34
     },
     "premium_98": {
-      "avg": 3.718,
-      "min": 3.436,
-      "max": 3.819,
-      "count": 9
+      "avg": 3.719,
+      "min": 3.588,
+      "max": 3.829,
+      "count": 4
     },
     "diesel": {
-      "avg": 3.125,
-      "min": 2.816,
+      "avg": 3.179,
+      "min": 2.916,
       "max": 3.419,
       "count": 78
     },
     "lpg": {
-      "avg": 5.0,
-      "min": 5.0,
-      "max": 5.0,
-      "count": 1
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 124,
-    "observations_yesterday": 67,
-    "observations_older": 8
+    "observations_today": 81,
+    "observations_yesterday": 88,
+    "observations_older": 10
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8632,6 +8632,12 @@
     ],
     "global": [
       {
+        "title": "A volatile week for crude ends with lower prices - Oil & Gas Journal",
+        "source": "Oil & Gas Journal",
+        "published": "Fri, 25 Sep 2026 20:41:20 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdFJlMWN2R1ZIT2QzYzAzdFRaQUdKT2pIOGdjUHFGVnZGeVVfTVVQQmRfY0F0TEV0eXVYV2g0WHJvdDFpak5iZzUtbDB1VTc4ZnVPSjlyTVVITGxTeFFNM21sWGFzYi12ZjQxamR0QjF1dWxXbjU0U3V6N19qSW55MHhZQktSV2pBMDdIUjl3cmNlMWt6Rk95eFFTTFZRVk9VRzNhZzRYRm1MbHJsRVdwZjFUcEJyRGVUeVBhMA?oc=5"
+      },
+      {
         "title": "Iran proposes Hormuz reopening in exchange for sanctions relief - Latest news from Azerbaijan",
         "source": "Latest news from Azerbaijan",
         "published": "Fri, 25 Sep 2026 19:34:06 GMT",
@@ -8644,14 +8650,8 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMlFpWDJzSDlmVVlDdV9SQ0ZHWFVQbTQ1SjFjc1NRbG5fVi1xT3lHc09oZk9fQnIyeFFDSGNuTmhSeTNNbXdSN3pwMzZUeFNnU1J0SjI4V0tfVzF3ZnFUQzNhUzZZbHRtU1FNWHByVjJUbFlTelZJYVlaZ1RheDZEOHktZ3RYOHNHU04yOGlrQTJqbDF5ckktZ1R4Q1c0RUpady1NVEVXWHN6Y3BqemUxZHFKSVJfYWZ6NjI1emtxMi3SAcYBQVVfeXFMTmx5WXY0ejVhZ2ZaNlRNeVlMVHJhbmU2VHNxOHRMV2ZReWNrWFNRcUltVEN2cGkzSnFJUklGdFhmV0F0X1pDQUNxNEl0bnVhZjBKSm1SVnpLdkdxbUQ3emhvUXdnc0VIQVpGbHc0VlZEY1RiTGcwS3FhOFJsLUdWMU1qMW5BeVY4ZDBBLWw0N2prU1RBczNKb01DWUZucVpuVlVvcGRtRXRIOXV4dFpYeFdGdExOc1ZfSmowM0hjX2RZNHlLLS1n?oc=5"
       },
       {
-        "title": "Current price of oil as of September 25, 2026 - Fortune",
-        "source": "Fortune",
-        "published": "Fri, 25 Sep 2026 17:40:53 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DVE10MHdQOXV3X0ZlbGNJS0J4ZXg2Tm1GSVVQcmdJVExmVUo5R2FPbjBDRVJ3eUZLeWd2SC1CVnZLUHNYZkx6M1NoNnFkMGpKUHFBZjh4clhDZDZlZ1Vmak5B?oc=5"
-      },
-      {
-        "title": "Oil Prices Fall Amid Middle East Supply Concerns - GuruFocus",
-        "source": "GuruFocus",
+        "title": "Oil Prices Fall Amid Middle East Supply Concerns - gurufocus.com",
+        "source": "gurufocus.com",
         "published": "Fri, 25 Sep 2026 17:29:39 GMT",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZU1BRF9CZFhrYlhETS1faHZpRlNsbzU2bEMzbFp6RWlVSXFDNWVzQmdRTExOcERHV1JxcXZxZEc0dEl0UHdSZ1RuWFRBaEs3R0JkZjk1dl9GMUNfZmN4b21PclVZWktBbzhNY0M0T0pQdnRKa3hyVDNvcHFnb3ZsWWVfbjlOOHlBbGxwaUtaZC0?oc=5"
       },
@@ -8662,22 +8662,22 @@
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeV9NNjdGT2JjaG9tWlZ1Y1dGU0JwVmgzTVJ5bTZackpFRVVpMzU3Z1VfWFU4dnlIMGh1Sk5nLWVxX3ZWZ0NWUmVNVmRzWVhheU9yclBxNDBHVjQzaUI4cy1yTVJ0ak0tRjZaUnI4eUpDNFUyQlFDUVNYRTVRMl9uZWE5SQ?oc=5"
       },
       {
-        "title": "BP Eyes Bigger U.S. Shale Footprint After Devon Deal Talks - oilprice.com",
-        "source": "oilprice.com",
+        "title": "U.S. Oil, Gas Drilling Perks Up As Pressure Mounts - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Fri, 25 Sep 2026 17:15:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTko0Wm85LURROWM3UEZZa3JDZjZVVEJoazB0STBGU2xJS3ZvUjY2eWdPT1VYWFlQa3ZiUHFNMFhSZEx4NXF3b2dNY3ZXTG5LVDVWd3dsbGJWT2IxNnpvSjJRNVVKS0VzRGQ1SGI5eU4zV3VXMUVJRUVrMHlWWFZia0hnWjA2M2hzYS1qRVJLZGluVFY50gGaAUFVX3lxTE9aTS0wcDlYQTh4ZXQwS1N0cWt4dDRLLVVBOVpPbW1wYkt2Nm9DYURXRzNvdnRiNEkyejJYeW5yV3FWOUdMSVc0dVZ4cUh2akNxYlRBZmhGRmNyYm4wM0NOejduOUNWZVBRR1VsTU92Nm1UdjNJWmhHZmphSmUzZ3pkZmRzTUxEbXF4ajhzMXRLMVlCZHlRWGN6QWc?oc=5"
+      },
+      {
+        "title": "BP Eyes Bigger U.S. Shale Footprint After Devon Deal Talks - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Fri, 25 Sep 2026 16:30:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRXFnTlFFc2V3eUxuNEVmT2ZxNktleUZ6Wko4M3J2QkQyQkdaUGkxdkowTEtVbTI5cHkwaVpYNlZSNEZ1dlVrRmE3WVdjWFJDT1E3V1k1eGw5UF9ObHZYcEpta1Ntd1NBanNMVmhxTnREcDBlQ1o4U0FweGlNT0YwRmNrbm56UXk5Z1ktSzMtcWktNUhPUk9fTlZrTlhpeXdiQThCdGxuVWpBVng2anFpRDZn0gG3AUFVX3lxTE9wdUNqY3dhdUE3UWRNeDgzZkF2QUUySVFMSWhFcHVvNDBVWUVZVWM3Tm1jbHBzY0o5WlZxYnZLNFo5UHVpbU9ldTY2MDM3dEd4NG5EVU9iaWVVVGZfNzk3OU9WQXhwbGFxUHRwS1JINS1VUXFsa2lLdGg5ekR6VUhpN1YtZnh1aUVUeGZ1QXhEb3ZlVGdBUWtCSC1RY3ZKWUZNN2RYbUlLQldlZFQ1LUlfZ21lT19qTQ?oc=5"
       },
       {
-        "title": "Why WTI Is Suddenly Trading $12 Below Brent - oilprice.com",
-        "source": "oilprice.com",
+        "title": "Why WTI Is Suddenly Trading $12 Below Brent - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Fri, 25 Sep 2026 16:15:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObTdQc3ZENkRHRjVPTDdDdUh5ZFNaR2dQM2xVQnpHblpZV295dmpBV01tR2dFZzM2S3JkWGFRQ3lNaXVBVnhvem1CMUlreEVzYW9HN1l3MFlMbjBlRzhRQ1V1Wk81OWUyUm5XeHByYzQxZWtTUHVLbzdQR3JWOU5OUE1FNkdlUjhHSzBERWhR0gGTAUFVX3lxTE5OM25fbHNJM09TQU9zQVVwdFlXY0lvY243Y295UHBKanp1N3g1Yk1TZjZjVEpGRWdRY05kMjl5NU9jWWdTQ0F6S3YxelUtRGd0M0EtazBGRW1Lekh5aGVJUlVJZktFZlVmcGNYS2NnWUJILU1MX0xiMDZrM2QxMmtoT1VnTUVJOXZqazRGMExWd2l2NA?oc=5"
-      },
-      {
-        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
-        "source": "LiteFinance",
-        "published": "Fri, 25 Sep 2026 16:04:55 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
       }
     ]
   }
