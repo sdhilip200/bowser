@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T02:02:16+00:00",
+  "generated_at": "2026-09-26T07:35:12+00:00",
   "fx": {
     "nzd_per_usd": 1.766275,
     "as_of": "Fri, 25 Sep 2026 00:02:31 +0000"
@@ -8582,14 +8582,20 @@
   "news": {
     "nz": [
       {
+        "title": "Air New Zealand Flags Recovery Year After Fuel-Driven 2026 Loss - The Globe and Mail",
+        "source": "The Globe and Mail",
+        "published": "Fri, 25 Sep 2026 01:31:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdU9kREZKMGpOdTdLbjNIMlUyMnlJS253dlV3cjZIR2FhVXhvc3VhNnh4U2lZNHlIVk1Ed2toUEZGZGlxUzlzTFMzWjl6ZjdwdHpVM0pHc0l4bU9JVDRLZGVqVEdvU2Z2X1RqNUxxVF9Kem1ZeTkxODBNUnFJZ2RLeEZCQ1RxeXd5dFVqczFudm5nRWdYT3pieDZ5OW40Rk9rcHJ6UFV4eWdQLXJyRDB0NEhJb0gzQkhIMjZpT1AyeUVBYnY0MkpLZS1rdzZtMWdjRWhfcXRaLUNIWDFZ?oc=5"
+      },
+      {
         "title": "What's going on with fuel prices? - RNZ",
         "source": "RNZ",
         "published": "Thu, 24 Sep 2026 19:59:01 GMT",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdFBnUVBLVnZCLXo0VjFxalBZYWI1OG1TTlpqN1RGdjNWWkFuMHNkREN1MUlXTDVUNDJwV191NFdQbzVlTWhpRk5ZTU9oR3hnSkhqdjM0REdJT2xKblctTTNYOXQ5LW5XYW1wUTJPYXJrbWJEeDhKTEFxZXpxMHhfTjY1Sl9wRDhHNUs1WQ?oc=5"
       },
       {
-        "title": "The region where petrol prices are rising faster than anywhere else - 1News",
-        "source": "1News",
+        "title": "The region where petrol prices are rising faster than anywhere else - 1news.co.nz",
+        "source": "1news.co.nz",
         "published": "Thu, 24 Sep 2026 18:01:16 GMT",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMGJkNUZpTVNRVWVSTmJHSThIUU82UEs3bjA1VW1oVnRraXpJZ0xsdnRzQk9fMlFMV2JlYmE2U1dGUjRvUzI5ZDkycGtBZ2lvYzhXako3blB2eEV3YnYta0tORS1LdmhPSTZsNDhfN2tLV3Vhb0ZHVk5pSzNHX09FRFotWjF1ajZUNW50MEpDRmo2b1FVTXNBVVRlVUhmZVNFRUZFNnh3?oc=5"
       },
@@ -8618,24 +8624,30 @@
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQempacFIxRnFORzZNSGpDRm9uazdndlQ0VVJ3R0VXWEVxVzhXclcwYzRnZFRWWXFsRTV5b1RhRW9XbE5ZWWJKTHpDTnZKYjFhdWpjVnJrd2p6NVkxbGhsZlJFaHlQYVBuMU9lNWhKMExNMVJKSF85ZVZDc0lxZDNsVUJhMTl1SWdYRm41Qm9TU25UQlhZWjZ4aG1WSHpnSkg3YUdoODA5M1dSRlhJNnRj?oc=5"
       },
       {
-        "title": "Pain at the pump as petrol, diesel jump 30c a litre in three weeks - 1News",
-        "source": "1News",
+        "title": "Pain at the pump as petrol, diesel jump 30c a litre in three weeks - 1news.co.nz",
+        "source": "1news.co.nz",
         "published": "Mon, 21 Sep 2026 18:03:51 GMT",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYmd2NlJRbUotSW9aWFRwS3JndmhqZVEzUkxuRk53a0pLQ2VPMnZXZjZ3RzYxblN2OVdjeUJDMlBSM1ZKX2Q1QkxVei1sYVZKY1lXanp5akN1OGl0LTdRZTlGYUJZUGlCNUlJbkZKMWZEUXZlSS1RTS1wWjRWbE9VZXBnbEVvRlVScFlpc3dORFoxaUdYcWd0TllVbXFFOEdWaDM4?oc=5"
-      },
-      {
-        "title": "Transport operators urge NZTA to keep abreast of fuel volatility in its contracts - thepost.co.nz",
-        "source": "thepost.co.nz",
-        "published": "Mon, 21 Sep 2026 16:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY2h6dG5ibnBTSGRNWUdacFJ4dmQtbk5qc3pjRjd5Vjk5OXlESlNOSkpJUzVXWnFSWGZDVkJKaDZ3cUVfdlNuaGhfMVpSS01hODBYcTFkSWl0bUpIRFJOaHFsSm13SW8wMW94Rk5LR1RQTTJ6M2tCaHN2YnMtZ3VPSW9sQ2NJZDJqS1IybHhiZGJ3S3FTN3dFNTA1eTFzaGJtQ0NPRWZ5TG5ENG5DMWdCb3Ryd05mbnJH?oc=5"
       }
     ],
     "global": [
       {
-        "title": "Natural Gas, WTI Oil, Brent Oil Forecasts – Oil Retreats As Traders Bet On U.S. – Iran Negotiations - FXEmpire",
-        "source": "FXEmpire",
-        "published": "Sat, 26 Sep 2026 00:46:23 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTnp5ZnJxREZEbm9DZHUzV0t6ZEFJVnZ2RWJLRmtScVd2c1lmVnhxTVdNZ2ZlZlZSMHBESVZRaVRHM3RvUnltLUllajVDWHExbW9uR1hEby1vOWpIVXBONDlXOTVyZENkbmw4ZWtUc2FTTTNsYV9jcEp5bFFZMmtUZXNxWkExQ1VkbE9lSDlfcWowOGlWckdSQmFtaEd5SVp1dzFxMHY1blh6ZDN1TW5KMjNiOUNsTUF1OEhoTFRLemlXaUhVeHZ5MEVzSkI5ZmlRU0cyUFFaa3NYTGc?oc=5"
+        "title": "Oil Prices Drop Sixth Day on U.S.-Iran Talks, Saudi Pipeline Restart - News and Statistics - IndexBox",
+        "source": "IndexBox",
+        "published": "Sat, 26 Sep 2026 04:13:35 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOT3B6WFdNRDR6NlotNndVVnVobFoxUjI3UzVLSFZiU0wwM0hfY3ZfOTR2blpHQ1VCbzdBNnZ6V1dVYlhVa1dpOGl0Y1k5Vlk3WllJeGFGZW54emR5OXVoS1Z2NGxRUS1JX1p5M1hreFlHZFRBLVhmYy1VcmdBaE1tMVR4eTFZU0RZUHlOUm9RZVE1X2doVF95Y0JMQnlJU3hBTzVILTNqZUdMYWRLOGFOYmZvZ0hJVVhZWXg2MFM0N3U5SEJDRzNPaDBqUjMyTDg?oc=5"
+      },
+      {
+        "title": "Oil prices slide 2% as US-Iran seek path out of war, Saudi supply fears persist - The Times of India",
+        "source": "The Times of India",
+        "published": "Sat, 26 Sep 2026 02:15:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbmFwZzA1alZ1NEJxbU5IeW1ydFJ1bEFUNGZaRVlGNllSNHo2RDhtN1RDZm85X21NRVJFN0NtbDZMSUItLTFUQ2hvclNEeUxvSDRWRU9pNDdMTVlybnVoT1Qway1BTEVSb19YZ2ZXdlpkV2dnZ295bkdHMUpFR1ZKenQzNzA5cWNld0E2dU81ZkktNmZVLWdmazBxMzRyc0xMS3JneFJRTGgydEllenJrQTh5c1QtZEhraEtxeWtjbGlKR3ZaQzliOGo1SkNyal9JNzIwaUxXZzB2aFNfaERzdjFNT0lVSkp1amNvS09HMHpkcFZFdzlPYXJFYko4RmpQ0gGGAkFVX3lxTE53aDFUcmo4TWJhOF85VVVaZW5jMHNERXRjVlgzRFJURTRCN3VBc19WcFo0VkRRZDdGdnJ5TlRBVUhreWF3eS01dVU3MUJuVF9HRUcwVFYtV0J3bWJ5ajhQWVhuN3duam1vaTEtb3lzbVpLZWFYZHl1cHJnSFExR2w0cGZYLWlvb1ctUTFueV9TVE4tb0stYzZBVEsxR28yWXBnaW04MXhMdWNMYVpqZjl6QmVVU00tallfUEVlYi1jSDRfbDg1ZC1FNnpPc2hKSS1JY01aWF9LVXB1czZXeDJ3X1hwcFUyRFVxVUR5Q2JHSXlwaUxoVlB6TzdrT2p6emtBX0R4RGc?oc=5"
+      },
+      {
+        "title": "Trump rejects Iran’s seven-day ceasefire plan, sees renewed bombing after midterms - Ynetnews",
+        "source": "Ynetnews",
+        "published": "Sat, 26 Sep 2026 01:24:52 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1bTVYeG5NdnkzdVBkcmtIdkdrbzlMN3hwV2t3NktqVENxUDV5anZEd3p2WEhZcmt0dEJLTlFlcUUwLXJoT0ZLallSaWpZOTUxQkdteFpB?oc=5"
       },
       {
         "title": "Brent Crude Weekly Gain: Middle East Supply Fears Persist - News and Statistics - IndexBox",
@@ -8656,28 +8668,16 @@
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
       },
       {
-        "title": "Talk of US export ban on diesel deepens US crude futures' discount to global benchmark - Reuters",
-        "source": "Reuters",
-        "published": "Fri, 25 Sep 2026 22:49:11 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOakktX2lMSTlPSnViWHdvbUxHTm14WGIwOGR5dzk2LThBRGJoMklPZXFIRlc2YlUzYWRLaGJMd21hREl5QnVsQXFnYVFhSDFsdnJhcy1wWGtaemRiS3RveDNxWHd0QUNnS1lmcjhEcFhXMTNSUjZySkhMZmxzU3ZVT2l6UnduUnUzT0JlQVdPUFN2cmhjNDdUT2JqU21zXy0tN1BFM2NNMUJmQTdVSFJjQnduaXA4dWl6MlMycm90U3UyUXQ3WVBj?oc=5"
-      },
-      {
-        "title": "Global Oil Inventories Depleted, Next Price Spike Could Roil Economies, Markets - EnergyNow.com",
+        "title": "Global Oil Output to Return to Pre-Iran War Level by Year’s End, US EIA Says - EnergyNow.com",
         "source": "EnergyNow.com",
-        "published": "Fri, 25 Sep 2026 22:29:52 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTzJ2Rmxmd19zVGUwVzJ3bzdEeHp4NTczY0tCM0MxYzlnNUU5UTRIZk45cndabTA0TnNoblRoc1FsWE12bTYtWGVHSWhkdEpBcnNYeDExZC1XWFN5SWhjS20ySEh4M1pHeFJ0RTFaSW9DT0JXYlMzNzdHS1dsWFUxWVZISjNMT045RkZoZmZDOFRHT3pFNHVDTVc0TlJEZVo5cVdMajNZSERCSmJH?oc=5"
+        "published": "Fri, 25 Sep 2026 23:03:56 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNFA1a0JOZkNidjVKMUdMeFhSZ2dCTFpYbzlER0pmZGRWZUtjMkEtLVVTOUZHSkFwbFQ3cUV5WDNsSldBVVdBdlVqYXpzWllJSTJqNmNVTlpsRVZsU3lOdlNFaE9ZcDVDUHdvdkpjSTl1OFZhTEpmT2hZUGg5cVZ3blpSUFRsODROR3p0TmlnM0habkI3dHZsRm82VVoxY2NOQ20xYjNLTDY?oc=5"
       },
       {
-        "title": "Nigeria Joins IEA As Crude Output Hits Six-Year High - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Fri, 25 Sep 2026 22:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNE5XMGhxQ1RLZktCYmFNTGhlS0tJeS1sejl4dWx4T21odTBSWmRpS24yUHdQNTl2Z3A5TWdxVUlOUVJOWHZqS3E2YlJvSEMwZWJSelZzQTM1bXpTR2JnZlJzQm84c19KeUs2MGoyaXVDVjNiMUdZVFlHZFYwdHhxblJUQkFnMGFEdFhPaTAzMWJqSEJfM0kxbU1TY2ZpUHRKdVHSAacBQVVfeXFMT2hhTjVuOThSanJQWVBwRkpNeWxyMTFKNWZNUWhwZm5jVjhYY3d0dGZ3emFhNmwzMGtWX3hpTEJyWGhWRDRYeXpMYTdIUmNTb2VCRWpZUlE2dlZQUG5hY0N0NnBRVnFsclZoVHVTSWJDV3BHU0FHdVM0Y05EOWcxcnJMWmFURGI0bGx0anI1SkpYbzU0VDQzdzk2NmZqbl9aeEVyejJPaEk?oc=5"
-      },
-      {
-        "title": "Asia Crude Imports Reach 23.96 Million Bpd in September, Highest Since February - News and Statistics - IndexBox",
-        "source": "IndexBox",
-        "published": "Fri, 25 Sep 2026 21:40:38 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMGMwQnJBUTJJUGdJNy1UTG84d290ZURxRkt6QW9BZ3daOUFjQjNxY3EyM0N2eWY5N1JHUkxVbHdBakptZHlpck8zWWc3MDBJMEt1ZUg5RHAydmEyN3BYZ1FhQWRYS1N4Z20wS1lGYWk4bU9zSWhUSkxURklQUHdqMzZYVThwR1UzOGdpRFctVWs2Z3RrVHVOVG1JVWVpUTkyaGwzV1JnSm50R3k1S0F3?oc=5"
+        "title": "Goldman Sachs Says Global Oil Demand Takes Big Hit, Sees Risks to Price Forecast - EnergyNow.com",
+        "source": "EnergyNow.com",
+        "published": "Fri, 25 Sep 2026 23:03:03 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN3Y1MVB3RUk0OFhpLWdlR1I2YlQwc21jQWRFdnNBakh3SGhVZ2ZPZU1rNVZwNWxBMHpOcHZIRjBNalZNXzMya2xraFN6cDNCYlBKUVp0TDFockxGbThyMmhEWWZJNTdkcUxIb2ttQnZCZk1pNnVrUWgwWWMyLXpxYWlodFdnVUpqZWdaUVFESy1RY1lDLVZ5a2JjS1pKZk5tWEZ5U1BqWl9ydVNPOFRv?oc=5"
       }
     ]
   }
