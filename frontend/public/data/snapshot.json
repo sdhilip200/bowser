@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-09-26T19:45:08+00:00",
+  "generated_at": "2026-09-26T20:41:58+00:00",
   "fx": {
-    "nzd_per_usd": 1.766275,
-    "as_of": "Fri, 25 Sep 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.765037,
+    "as_of": "Sat, 26 Sep 2026 00:02:32 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 97.44,
+      "latest": 104.32,
       "latest_date": "2026-09-25",
-      "delta_1d_pct": -8.59,
-      "delta_30d_pct": 11.91,
+      "delta_1d_pct": -2.14,
+      "delta_30d_pct": 19.81,
       "series": [
-        {
-          "date": "2025-09-25",
-          "usd": 69.42
-        },
         {
           "date": "2025-09-26",
           "usd": 70.13
@@ -1017,20 +1013,16 @@
         },
         {
           "date": "2026-09-25",
-          "usd": 97.44
+          "usd": 104.32
         }
       ]
     },
     "wti": {
-      "latest": 92.45,
+      "latest": 92.41,
       "latest_date": "2026-09-25",
-      "delta_1d_pct": -2.28,
-      "delta_30d_pct": 13.78,
+      "delta_1d_pct": -2.33,
+      "delta_30d_pct": 13.74,
       "series": [
-        {
-          "date": "2025-09-25",
-          "usd": 64.98
-        },
         {
           "date": "2025-09-26",
           "usd": 65.72
@@ -2033,36 +2025,36 @@
         },
         {
           "date": "2026-09-25",
-          "usd": 92.45
+          "usd": 92.41
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-09-25",
+    "as_of": "2026-09-26",
     "regular_91": {
-      "avg": 3.426,
+      "avg": 3.437,
       "min": 3.086,
-      "max": 3.75,
-      "count": 63
+      "max": 3.749,
+      "count": 68
     },
     "premium_95": {
-      "avg": 3.612,
+      "avg": 3.622,
       "min": 3.216,
-      "max": 4.029,
-      "count": 34
+      "max": 3.839,
+      "count": 37
     },
     "premium_98": {
-      "avg": 3.719,
+      "avg": 3.732,
       "min": 3.588,
-      "max": 3.829,
-      "count": 4
+      "max": 3.919,
+      "count": 7
     },
     "diesel": {
-      "avg": 3.179,
+      "avg": 3.173,
       "min": 2.916,
-      "max": 3.419,
-      "count": 78
+      "max": 3.399,
+      "count": 74
     },
     "lpg": {
       "avg": 0.0,
@@ -2070,9 +2062,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 81,
-    "observations_yesterday": 88,
-    "observations_older": 10
+    "observations_today": 36,
+    "observations_yesterday": 104,
+    "observations_older": 46
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8632,12 +8624,6 @@
     ],
     "global": [
       {
-        "title": "Oil Prices Jump on Houthi Attacks, U.S.-Iran Escalation Fears - WSJ",
-        "source": "WSJ",
-        "published": "Sat, 26 Sep 2026 18:27:19 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcUtBVUJSRWdjelUySnhBRGJUNDN2TEd4QndjRnBXa0NJS1h3cVBBaFJkdlF3SHBrTTJJYUhScUt5WVFQRHZObXVJLXF3aUhqSVVReFFmcnRtMGEtclVxZXJnZjF3TW93eFJjYXM2VUw3S0txTnNhNU9leFRiSGpXcFNwVElPTEJlZ2VwYnByUXRvOUo3N2p4X3dRaURoMld3VEprbTBiWGMtMXhGXzdPYTlfaWZsSXB0NmN1NlM1dmxBcVE?oc=5"
-      },
-      {
         "title": "Pump Pain Outruns Crude: Refinery Hits, Not Just Oil Supply, Are Driving Local Fuel Costs - southshorepress.com",
         "source": "southshorepress.com",
         "published": "Sat, 26 Sep 2026 15:51:17 GMT",
@@ -8678,6 +8664,12 @@
         "source": "Kyiv Post",
         "published": "Sat, 26 Sep 2026 10:01:02 GMT",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5GalJGdE0wcTJTSko5RjVKR3VUYVVCRXBCOFN4Q24tclNhX3J2YjZwc0xXczIzc0kzUURfaTFvX1E0bEVVd0ViR0g3SQ?oc=5"
+      },
+      {
+        "title": "Iran offers Trump fast Hormuz deal tied to sanctions relief - India Today",
+        "source": "India Today",
+        "published": "Sat, 26 Sep 2026 09:50:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS2tUalpTd2YzSlpPSmpQMkZpbEpJMTdRdF9ya3VKYlBTRUJSNHRyUHdRR1dLUHNRLUI0OWNfQ09UVHc5bXRCY2d5Zm0xOUFSQmU3a0VZZVYxQVgzcTdsSVg0NDI0R2FmLXBWMjNZVEF4TmVOU3NBMVA1M3Z0OFFBOTNGTjQ1TGl4TXYzWGF3ZjNhdjIxaHpFOFgzWE4xaW50d01UblU4ME1nS1N0dVh4dG5jLXhTUWRSaUHSAb8BQVVfeXFMT2tneWVWTDJlRENCb0lxRlFCNXN5REUyZHFNaE1ObmRZQV9WLTlFNjM3dV8xY2Jqd2RteTRJaUgyNkduMkY0SWZiN2hva2g4aXFLdzVRZUFHS2hVNmpJRzU2dV9yYUYxVXVlRTFLUFdCeVZiOUM0czRrcU9IX01FbnJsT3BkUUFERzJYaGhCY3ViMnlfcXJwdU5DWnhOX21WNVJ4MG12OVJmREFtZGxzRE1YanZqMk1TZHlpbTRoR28?oc=5"
       }
     ]
   }
