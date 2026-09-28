@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-28T21:52:34+00:00",
+  "generated_at": "2026-09-28T22:58:31+00:00",
   "fx": {
-    "nzd_per_usd": 1.765025,
-    "as_of": "Sun, 27 Sep 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.767657,
+    "as_of": "Mon, 28 Sep 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 97.44,
-      "latest_date": "2026-09-25",
-      "delta_1d_pct": -8.59,
-      "delta_30d_pct": 11.91,
+      "latest": 98.67,
+      "latest_date": "2026-09-28",
+      "delta_1d_pct": -5.42,
+      "delta_30d_pct": 11.47,
       "series": [
         {
           "date": "2025-09-29",
@@ -1009,15 +1009,19 @@
         },
         {
           "date": "2026-09-25",
-          "usd": 97.44
+          "usd": 104.32
+        },
+        {
+          "date": "2026-09-28",
+          "usd": 98.67
         }
       ]
     },
     "wti": {
-      "latest": 92.41,
-      "latest_date": "2026-09-25",
-      "delta_1d_pct": -2.33,
-      "delta_30d_pct": 13.74,
+      "latest": 93.29,
+      "latest_date": "2026-09-28",
+      "delta_1d_pct": 0.95,
+      "delta_30d_pct": 13.22,
       "series": [
         {
           "date": "2025-09-29",
@@ -2018,35 +2022,39 @@
         {
           "date": "2026-09-25",
           "usd": 92.41
+        },
+        {
+          "date": "2026-09-28",
+          "usd": 93.29
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-09-27",
+    "as_of": "2026-09-28",
     "regular_91": {
-      "avg": 3.433,
-      "min": 3.086,
-      "max": 3.64,
-      "count": 75
+      "avg": 3.454,
+      "min": 3.236,
+      "max": 3.709,
+      "count": 80
     },
     "premium_95": {
-      "avg": 3.591,
-      "min": 3.216,
-      "max": 3.779,
-      "count": 31
+      "avg": 3.659,
+      "min": 3.366,
+      "max": 3.819,
+      "count": 51
     },
     "premium_98": {
-      "avg": 3.756,
-      "min": 3.588,
-      "max": 3.859,
-      "count": 8
+      "avg": 3.758,
+      "min": 3.569,
+      "max": 3.909,
+      "count": 10
     },
     "diesel": {
-      "avg": 3.179,
-      "min": 2.916,
-      "max": 3.899,
-      "count": 79
+      "avg": 3.197,
+      "min": 2.996,
+      "max": 3.399,
+      "count": 91
     },
     "lpg": {
       "avg": 0.0,
@@ -2054,9 +2062,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 147,
-    "observations_yesterday": 0,
-    "observations_older": 46
+    "observations_today": 184,
+    "observations_yesterday": 37,
+    "observations_older": 11
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8566,8 +8574,8 @@
   "news": {
     "nz": [
       {
-        "title": "‘It’s ugly’: Petrol prices are surging again, but how high will they go? - Stuff",
-        "source": "Stuff",
+        "title": "‘It’s ugly’: Petrol prices are surging again, but how high will they go? - stuff.co.nz",
+        "source": "stuff.co.nz",
         "published": "Mon, 28 Sep 2026 04:00:54 GMT",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbDJjQ1NOOENNa2Y5SjllblZJdEdSRXBzejBsT202QU4wUElsMzE2ZEREcmdTeEZ5akV0RVo3V1dHNWNaTzFjc2VKWDh1OWx2MkZ4RFhpNnBGY1ZmSzR5MTJFMVkxOVJhUkcxbEk0Yi03bUpkSHd0SGNYX254TWN3RDRmVUFaOGVN?oc=5"
       },
@@ -8602,8 +8610,8 @@
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZS1wSW9DcG9lWGd3c0ZTMnNVN1cyeHFsNUlRVnkxblZIZEtiakdMR1RRWmt3WkRwTEpCZW1RbXJiZzBrcEotWG1ra2JtR0Q3LWNkVTBYa0NDUVNvWEdCZkdWZjEtRmtBTEtVaEtNdndJYkplWXl0by13enpMYmZXTDNULTdCcFpVcHdUQ3NVcEdKcS1G0gGkAUFVX3lxTE5zTE5BOWIwbjNFN3UzMGhhdHBxdktKTVo4WnZIdWNPaFpiTXJxdXhXV09rbjRjeUp5WEJYODlMYnZ0UmFkRWpwTW91MHFtOXk5bnhMYVpCRk02WWpuYnUxZksyeGk4MmtDcGJIOS0xY0VGQXp4d3I2bGFITlFJSXJxeDhIbG5lMHVldm1jbkpKd0dNUlRUaFNFU0M5VDh4aUU2UmRR?oc=5"
       },
       {
-        "title": "Fuel prices rise sharply - with 91 reaching $4.15 on Waiheke - Stuff",
-        "source": "Stuff",
+        "title": "Fuel prices rise sharply - with 91 reaching $4.15 on Waiheke - stuff.co.nz",
+        "source": "stuff.co.nz",
         "published": "Thu, 24 Sep 2026 01:22:22 GMT",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTDlJbHZiX3RyRWRNYm1fTnpfZjFyaWZCWVlyLTR4a1pON2dxM09JeVBENVdUa3ltV3dWQ2NPTktVZGNmUE52aGdYblZMSldsVnRQZ2I0eEJzd1dkbFhPRU9ORWs1a1praF9lMFZ1MDRFTTg5dlYxZXRlWHZkUHQ4UFF6dXU1S0s4bEt4TmF0STZPM3Nk?oc=5"
       },
@@ -8616,34 +8624,34 @@
     ],
     "global": [
       {
+        "title": "Natural Gas, WTI Oil, Brent Oil Forecasts – Oil Retreats From Session Highs As Trump Is Reportedly Ready To Ease Iran Sanctions - FXEmpire",
+        "source": "FXEmpire",
+        "published": "Mon, 28 Sep 2026 22:30:25 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNY3dyeFU5cHl0SnRhb2VrT0Y3elNoS2RhT0FPZ0IwSFFQZ2ZmMXAxMXB6cWlVMXZQUWR3T2ZBNGU3c0tFTk04QktzZnU5dDdrUlV6TGRnWmxCcVBzY2JRNlRqbkhiU2NZNTlZZmctOE9TZzJsNWlrbHlZM2lsRzZnWjFZOWtZRlFvUzE1M1FjSUhBaktiUUctVFh1bC1HSktjQnpBVEU2cVk0d2tWSGU5T2QzRVQwXzhHZ3pxbG5jajVxT0hmaVZkVUhqaEpWN2xGbUNhbGhtU0drN25DUnljSGxnWklyenR0SEU3LVU1TWtXR09QTE1OSzNPblRaY2E0eU83Vw?oc=5"
+      },
+      {
+        "title": "Standard Chartered Record CTA Long Bets Are Capping Oil's Upside - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Mon, 28 Sep 2026 22:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZUtmaFJNVy12NWw5NmZscVZSb2l3OXc0Zmc2NUhJRndJa004ckZmZ3FRaTJJMXlmWGZEMGZBNjc1Rkpob3dHZmlfUVpLTXFoV1huV3NGVlFSbDRPTjBVYXk1M1NBQmtYcVZRNEhyRmFoUTBQbHV6ZThPREZaVkJlWVFsbVVmMHBtM2lQa3NxQU4zZkdEa3B3N1dCb1IxY2I4VHhyUWlSazV3NTjSAbABQVVfeXFMTWVCelRodHNUUXR6elY0WVFFV0JXemtfVzk0Y2RINzZDWWExcDVhd2tocUk4TEZ6WDZuck1sOVdIYzZWSjB4ZjAwUllZUG95ZXd4blF0X0ZFNk93c3o4NEZ3MVl3WFlaSUNtczhsMFotUGhqVHFyekFJU3REcUV3Z08yeUh4VmdZWHhQUnFva1pRd3I5SmNlX3B0UXNCV28zLXFSWFpuLUczSWgtRjZOYlE?oc=5"
+      },
+      {
+        "title": "Oil Prices Edge Higher Amid Supply Concerns and Diplomatic Talks - Global Banking & Finance Review",
+        "source": "Global Banking & Finance Review",
+        "published": "Mon, 28 Sep 2026 21:31:51 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRV9tYU5fWS1GSDNLTFBEc0xWeDNwSzlhcHBXR1FZQWtUYWoyMHBsNmJwOXdDRDFqS3NJVXVLWnFIb3BBcnNCaURXZlA1ZGd4UGpFNzNkMVlFVDFoRkNXS2NweTd4T194ZFB4aW5uWHZFcWJBMXdIVURGX1pBUEl6eHNvR1drVzUxT0RBc29QcUw?oc=5"
+      },
+      {
         "title": "How AI Could Upend the Secretive World of Fuel Trading - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Mon, 28 Sep 2026 21:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdmZyWkhxdXF3a0xnUzlQYWYyMnZfeDl6ekhqMkxxWW5vVVFmOTJRQ0lGUkl4ZzhnZVJIMXktQy1hUXlPUW5uaGhKLWVzd3g4Nkx4b1Zqd2VKTTFpVE1WSU5kczRkZzFBMjJNTXM1Z0RyNW52M1RMcmxVUXpQUGVQQWRDY3hEMkNsbXlyS1pqaVJuMm5PdWhKSFpRZUVPZ09FSk1qV9IBqgFBVV95cUxQTVpFUDZFa25rTmVXeVBCMGl3VFZFMzlBdzVfc2hGcnBlakVmZGthREQzLTh6ajJZRC1nc1ZaMDNlVTNNblVVdWtvNU9wUEJ2eTh6MlhKYVpmNFFfWERlQUJldW5LVTM4MDJFQnVNejViV3ctUE1YUGNQQU5fa05FdDhSOWQyUGp2QlZpdkZmajhYOFNqRzNpMVB4ZU1aQzlYUkdIRHIzMEpKQQ?oc=5"
       },
       {
-        "title": "Natural Gas, WTI Oil, Brent Oil Forecasts – Oil Retreats From Session Highs As Trump Is Reportedly Ready To Ease Iran Sanctions - FXEmpire",
-        "source": "FXEmpire",
-        "published": "Mon, 28 Sep 2026 20:28:09 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNY3dyeFU5cHl0SnRhb2VrT0Y3elNoS2RhT0FPZ0IwSFFQZ2ZmMXAxMXB6cWlVMXZQUWR3T2ZBNGU3c0tFTk04QktzZnU5dDdrUlV6TGRnWmxCcVBzY2JRNlRqbkhiU2NZNTlZZmctOE9TZzJsNWlrbHlZM2lsRzZnWjFZOWtZRlFvUzE1M1FjSUhBaktiUUctVFh1bC1HSktjQnpBVEU2cVk0d2tWSGU5T2QzRVQwXzhHZ3pxbG5jajVxT0hmaVZkVUhqaEpWN2xGbUNhbGhtU0drN25DUnljSGxnWklyenR0SEU3LVU1TWtXR09QTE1OSzNPblRaY2E0eU83Vw?oc=5"
-      },
-      {
-        "title": "Oil Prices Climb on Continued Impasse in U.S.-Iran Talks - The New York Times",
-        "source": "The New York Times",
-        "published": "Mon, 28 Sep 2026 20:08:47 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wRlA1VlY2Nkw2SGJULTYySUR3QW9ILTRzMkJhSFZPUHJYNEZ3UFpjdUZCMk5xRlZGZGpBYzYzVzlOdmlacWNzU1NaSjlieXIxV1RPSGgyZjZhTVJTY0pfeE5uS2JGU2duWlRGQkZfbWduSXpXUWpGenJ3?oc=5"
-      },
-      {
         "title": "Brent crude oil price on September 29, 2026 at 5:00 PM EDT - Robinhood",
         "source": "Robinhood",
         "published": "Mon, 28 Sep 2026 19:46:40 GMT",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNnNwNnRta096WVF1ZmJra0k5V2VJenJRSXNSWC1nWDV6SllQTVQ5Nnc0aWJ5MEttNU1FbTdubm8yblZBcUlMczJ3VUs0YkZUaDAxbjdwQkYwSkwySFN6a2tkRE5iUG10c2Z4RFk2MGtmSzdJOU1RM1VqYnRSZXk2UXpmZWwxQUZacVh6Z2l5NlJuZFhQekNsODZ3TEVobzNiS09UTkthc0JyM2FjU1pYUndpcGEtSWlIWkQ2VExYU190R0tmSUxZeHhLM3RWc2FSc2c?oc=5"
-      },
-      {
-        "title": "Europe's Gas Forecasts Are Not an Energy Strategy - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Mon, 28 Sep 2026 19:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMzBwelNUVEhMU0JpUmlyZnhtcXE2WkhGMWhFb3ZwMzk2UXAxYXZqdjRqc3R3Z1YtMm1BaDcyR0R6SEhBdC1xUnM0eDM5UGpPYkJQVHg4dzlaX3pCX3BXNkZicTJaOGVlS3c4a3JQNFNDYlNUV3Zvem02TXRyamxhZTNyU3M0MXBwSlY4VXRNa3o0Wm5GLUp5YdIBngFBVV95cUxQTWtOMW9Oc09IcWsxWHFmdVdDWlpVdHlWSlM5NVNGSWhVa3ZPcHlzcUVJYTVjSUY4UFN0QUdKUG00ZHY1RWJiTUxhWFlKZlc1V1cwN3lxYjR4Z2gyckpkYWZRaTNHVFRIU1NQRnFQczF0QmZ2N25Qa3Vaa1VXUElJYlhvTEpzMnlzaVhleUZDWkhNVnZUZm5KU0V6NmtBUQ?oc=5"
       },
       {
         "title": "U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982 - Crude Oil Prices Today | OilPrice.com",
@@ -8658,10 +8666,10 @@
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVDNwMF82X1FHUU4zT2dHbGRzSldoUm1hZjBiODU2YlFnVTViLVYyS1lGdjdzMVZ5QjBuTG9nckpKYWE3ZFpYUjFKUmtFalN3cnR3SVJPMXBUSkZjSUtLdHRCVzB4M3dTUWpjVmRfVVN6RVJWR2xUWENHZnR1Z1hvQzJUeVA?oc=5"
       },
       {
-        "title": "Record Diesel Costs Add Fresh Pressure on UK Economy - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Mon, 28 Sep 2026 18:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONlNTbndJUVJRV1hxTms2c0NIR0loN29JT3I4SEdjZTVqZzlabXBsUHBxSzlBUVNPT1hrYmJsUVBGR2ZoQW9xblg5ZldPYWhsUDBVUFMyYWtwNDliODNoUU03anlHOF95MDRFRnNvSFM1Slh4UFp0RDZJQlVnSGtERURJdWFSdDEzbFFSVllfWGFHSEhkWnY3NzFEMFNXdkRVOWfSAacBQVVfeXFMTVJ4d0psMTVPem9zYXhxdTdBRUMzaWU5X2ZlZFBWNjNHQnFYRkdkYkpvRmstNUNuLXlLZjVRbHlwRTJhWDlZS2p0dFFpWkJyUGw3RjR0QUdjeFlaNnB2bGxBT3k1bHZMNzVHYzJZTXJ2S1c0ZU10TTJObzR6bVBSWk5zSzdLZi1MaXowWXM0SGUyN1pZei1uZlNEYWx1M0kyMnQxRXdqWFk?oc=5"
+        "title": "Oil Prices Pare Gains After Saudi Pipeline Reopens - WSJ",
+        "source": "WSJ",
+        "published": "Mon, 28 Sep 2026 18:22:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUmdBMWtUcFBJLUFsS1dSQThUVVU1TDNjVlQyMzBFYi1qeVZ5bHBmeE1oRERGdHdOaFU1QXVWU2J4WHEzaWxMNWN3NUxtS2ZvY19Gc2FvcldWQ0dfV0t0YUxZWXdYY1JXNWxQNHRxZk5rZHRXOHZ0Sm9VaHhhOWVfNVRzQlpQZGpGNHVxZldidm1VRXVhaVJqYTlDR2dHQjFjYkdHMlZ4d3N2SkY0dHc?oc=5"
       }
     ]
   }
