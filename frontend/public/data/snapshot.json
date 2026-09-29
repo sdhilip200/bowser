@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-29T19:56:44+00:00",
+  "generated_at": "2026-09-29T21:56:24+00:00",
   "fx": {
-    "nzd_per_usd": 1.767657,
-    "as_of": "Mon, 28 Sep 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.765387,
+    "as_of": "Tue, 29 Sep 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 98.67,
-      "latest_date": "2026-09-28",
-      "delta_1d_pct": -5.42,
-      "delta_30d_pct": 11.47,
+      "latest": 95.67,
+      "latest_date": "2026-09-29",
+      "delta_1d_pct": -9.13,
+      "delta_30d_pct": 5.28,
       "series": [
         {
           "date": "2025-09-29",
@@ -1013,15 +1013,19 @@
         },
         {
           "date": "2026-09-28",
-          "usd": 98.67
+          "usd": 105.28
+        },
+        {
+          "date": "2026-09-29",
+          "usd": 95.67
         }
       ]
     },
     "wti": {
-      "latest": 93.29,
-      "latest_date": "2026-09-28",
-      "delta_1d_pct": 0.95,
-      "delta_30d_pct": 13.22,
+      "latest": 88.94,
+      "latest_date": "2026-09-29",
+      "delta_1d_pct": -3.95,
+      "delta_30d_pct": 5.25,
       "series": [
         {
           "date": "2025-09-29",
@@ -2025,36 +2029,40 @@
         },
         {
           "date": "2026-09-28",
-          "usd": 93.29
+          "usd": 92.6
+        },
+        {
+          "date": "2026-09-29",
+          "usd": 88.94
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-09-28",
+    "as_of": "2026-09-29",
     "regular_91": {
-      "avg": 3.454,
+      "avg": 3.478,
       "min": 3.236,
       "max": 3.709,
-      "count": 80
+      "count": 85
     },
     "premium_95": {
-      "avg": 3.659,
+      "avg": 3.665,
       "min": 3.366,
-      "max": 3.819,
-      "count": 51
+      "max": 3.809,
+      "count": 36
     },
     "premium_98": {
-      "avg": 3.758,
-      "min": 3.569,
-      "max": 3.909,
-      "count": 10
+      "avg": 3.795,
+      "min": 3.657,
+      "max": 3.919,
+      "count": 12
     },
     "diesel": {
-      "avg": 3.197,
-      "min": 2.996,
-      "max": 3.399,
-      "count": 91
+      "avg": 3.205,
+      "min": 2.979,
+      "max": 3.509,
+      "count": 86
     },
     "lpg": {
       "avg": 0.0,
@@ -2062,9 +2070,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 184,
-    "observations_yesterday": 37,
-    "observations_older": 11
+    "observations_today": 182,
+    "observations_yesterday": 28,
+    "observations_older": 9
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8624,6 +8632,36 @@
     ],
     "global": [
       {
+        "title": "WTI Crude Oil Forecast: Bearish Signals Point Toward Lower Support - FXEmpire",
+        "source": "FXEmpire",
+        "published": "Tue, 29 Sep 2026 21:28:53 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVkNDR296T2xiMUpnRTlYZndiU0NyY2Q2bHZQR3FSM3JJMThNTVhiSGpJZDNoZHEzbkc1TmxYRzE2bVN0alpLeVNQOFRpcU1RWDZIaXdVSjczM2p0QU51TXUtNGtsb3ZJbFd0OTNDa2Q3b1BpRHZ4Mmx0RTVxOHh4aTNhMUVwMmxSTnJDVTJObHlqd25zcEZnMGp6cHVVdmQ2cl9jLXdxZFQzNzA?oc=5"
+      },
+      {
+        "title": "Mideast Oil Exports Rebound Even as Prices Remain Elevated - nytimes.com",
+        "source": "nytimes.com",
+        "published": "Tue, 29 Sep 2026 21:03:56 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRzljeTVxYzlLdkp0c0pTcXRMd3EtaFFmZXNzdUoya3JfeTR6Y0dQRVo0OVQ0V2tQVUpIbDlzTDc5NjlkeS1famFDNFg1TV9UWElSSGpBVWwtaThjcUFCVWFGalRJbThCbHltd3ZsYnUxb0lmbDQ3VkhlZ1g0MHdVX09KNA?oc=5"
+      },
+      {
+        "title": "US Distillate Stocks Continue to Fall As Crude Inventories Build - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Tue, 29 Sep 2026 21:02:23 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNelRlVUxpc3htcC1yX0szYmR1WnAxbHVramIwMVhBZHFSc25HMThGbHZadFM0MVAwY2xHajhOMjNBOWprY3d1Tl9QUzk1Ujk3QmhpNWRKZkNHNEhVc2VUYkY2UUd5bkVsejVVQzE3NW50MU5jazRjX0RlYy1uejh5eV9QSkw4YTh4RTVEME9ndGFvTVhLQzNmdXZHZVM4dGRpLTFWU005TjJuT0VWMDQzbUgxUVNka0Vwbi1wSdIBwgFBVV95cUxNLXV6cDFIUzc5TjVaVVZEODhDVVdjdl94cXo1Wk55OEV4TWRDUVd5SW5OQnNPVDk5OXJrbFd5QnhGSGJJWFJpSC1uMFJmVENyRDlCVHdQTEY2R2pDNTUzZ3ZWZ01JUTJrU0tsMW1xZTJZblhLNVdwWjE4U1RlN01PY3FFTjFydU9zVy1RSDhKemJjMU1VdTFqaEJ1TDZ0MkZDR1A2NTVicFc4QTRGMEw4MjJOLXBXWU12MDBzS2pRUUdPdw?oc=5"
+      },
+      {
+        "title": "Syria Cuts Russian Crude Supplies Amid US Pressure - Energy Intelligence",
+        "source": "Energy Intelligence",
+        "published": "Tue, 29 Sep 2026 20:02:04 GMT",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xUDl2c2xLZGdMZWpYUVdIYmFjVE5Rc2hGUzhadFBrZkdXaEpoWmttaHBZbVB0dGdXSjB3UUJRaTMzYmptZ01PTlpNUXlTQk0zZExWTG55NHV1UGtSMmN2dExxdEFLejlRbFVZbWFNR1BKQQ?oc=5"
+      },
+      {
+        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
+        "source": "LiteFinance",
+        "published": "Tue, 29 Sep 2026 19:36:14 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
+      },
+      {
         "title": "November WTI Crude Oil Contract Last Seen Down $3.00, or 3.2%, to $89.60 per Barrel. November Brent Oil Last Seen Down $2.55, or 2.4%, to $102.73 - marketscreener.com",
         "source": "marketscreener.com",
         "published": "Tue, 29 Sep 2026 19:11:29 GMT",
@@ -8636,40 +8674,10 @@
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EQ2JJX2xER191QzNaT3Vreno0endDUnItajk1aGEyLVd2aGppX25JUW9DRjU0Ti00X1VmcEJUdGJPNEU5X3M2RHlrQjk5SFFNejR1UDY1WFZEMWVqMjhoMG1B?oc=5"
       },
       {
-        "title": "U.S. Taps Strategic Oil Reserve Again as Diesel Tops $6 - oilprice.com",
-        "source": "oilprice.com",
+        "title": "U.S. Taps Strategic Oil Reserve Again as Diesel Tops $6 - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Tue, 29 Sep 2026 18:20:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUmh1Zk12eEg5dFcxY081Uy1Xdk9qRFZFNU5veE1fbE5NVU9Mb0dyU3lRTmdaZFRBNVdITlg4NUx5Q0tOUGhMTXlGSVI5X0kwMlZSeS1mZ29tcjVnZ3JfSGdEekZReFhQeGh4VnkwOTlnTEp1TEhaUWtqVkNBMTU2d3pYdXBqak9uYjBhQ3F6TnVDWnpKN0FiY3FfTGJIRndISU9EcG9hYlRCR1lQ0gGyAUFVX3lxTFBUSmV4NmJHckZkSExyRThMZ2FDa3c0Um1OS0h4S3hxVkN1eElSYUNWZVFQcFBweTFSQ21DWXJjZExhcTJUT2lNdW1BYmMwVW5VSXBLb0k0OTkzcHcyUm5DSjI5dmdrMnM4enlId05xNDV3SUNrbnFPRmlmWFRObW9qbWlwR1pGLVNCUEZrdUJBVjdLRmRydE9BTkV3T0x4cmJ1UTgyY0hXb3ZZN3lOanI5LVE?oc=5"
-      },
-      {
-        "title": "Oil Prices Lower As Focus Shifts To Middle East Supply - Marine Link",
-        "source": "Marine Link",
-        "published": "Tue, 29 Sep 2026 18:01:07 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX243RVlPMHpGNVBVajF4VWxCRTI3Z3ZselRCdGR4eU1RSlg4UHR6ZGQyaWl6S1FGWm5LQWJ6bml2Vm5TamxuZF9QUm42MTFvY3pWdEdILUExdmY3VWdxSnNmWlhCRFFPSmhoVktnOGZhTWoxcUZtakg0bzNpR3djZW81YnFENmM?oc=5"
-      },
-      {
-        "title": "Pump Prices Ease in 32 States including Oregon - AAA",
-        "source": "AAA",
-        "published": "Tue, 29 Sep 2026 17:56:35 GMT",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc2NRZ2dGRmVNOUJfVDJJdXlpQ2o2cEJDWk9hd3dRV18yZ0REMFJaaXh2cDIzd0JWcWRyZ1QwaGhQSXM4SlF6d2VxTm9DaF9KaklMeEFwakxkRlBPWUM0UkJJN0E4UGxCaUFINTEzejJ6OEVwc3p2VmdidlBzSmhkNg?oc=5"
-      },
-      {
-        "title": "Brent Crude Drops as US SPR Release Boosts Supply - TradingView",
-        "source": "TradingView",
-        "published": "Tue, 29 Sep 2026 17:23:58 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWmJPUUtSNXFDSDNweFFIb0t2VHZvV2hENG00eUhRVElZeUxYUmtzWlljaDBEOHZOTUxIdVRWMWhVblNOVVRJaHFTckNMMFBJSUN6TC1ZcVdwNGlCM0tDWEY0V2NUU1hPUFRLS2JiUEMtLXpwX3UzTTdpaGFQd3MzRVJPdERmRWw0SERYVDAtNTNQbS1zcEVITnV2OXZnUmdkR2c?oc=5"
-      },
-      {
-        "title": "Iran’s rial hits record low as pressure on oil exports mounts - Al-Monitor",
-        "source": "Al-Monitor",
-        "published": "Tue, 29 Sep 2026 16:27:04 GMT",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTWhQLWt5MVBUb2RBdk1KODExekVTc0ZOcVhFOE12UkNIekFUZlpyMUNvZ202ZWV1RXlRVExBckxkR2JkamFhUDR1V21XYTQ4ZEtVVEVHVG94MlJnUUJKV3V1cnNOT0d6bV9kVjYxVS1ieXM5dnJ3VEdvQUs4TUNfZk9IWGdybDFSM01LUzFFV0ZZVUprdGQtQWE4Y2wxYVJv?oc=5"
-      },
-      {
-        "title": "Global Oil Inventories Depleted, Next Price Spike Could Roil Economies, Markets - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Tue, 29 Sep 2026 15:42:35 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTzJ2Rmxmd19zVGUwVzJ3bzdEeHp4NTczY0tCM0MxYzlnNUU5UTRIZk45cndabTA0TnNoblRoc1FsWE12bTYtWGVHSWhkdEpBcnNYeDExZC1XWFN5SWhjS20ySEh4M1pHeFJ0RTFaSW9DT0JXYlMzNzdHS1dsWFUxWVZISjNMT045RkZoZmZDOFRHT3pFNHVDTVc0TlJEZVo5cVdMajNZSERCSmJH?oc=5"
       }
     ]
   }
