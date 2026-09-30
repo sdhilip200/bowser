@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-09-30T20:45:20+00:00",
+  "generated_at": "2026-09-30T21:55:07+00:00",
   "fx": {
-    "nzd_per_usd": 1.765387,
-    "as_of": "Tue, 29 Sep 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.772692,
+    "as_of": "Wed, 30 Sep 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 95.67,
-      "latest_date": "2026-09-29",
-      "delta_1d_pct": -9.13,
-      "delta_30d_pct": 5.28,
+      "latest": 97.92,
+      "latest_date": "2026-09-30",
+      "delta_1d_pct": -4.55,
+      "delta_30d_pct": 7.58,
       "series": [
-        {
-          "date": "2025-09-29",
-          "usd": 67.97
-        },
         {
           "date": "2025-09-30",
           "usd": 67.02
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-09-29",
-          "usd": 95.67
+          "usd": 102.59
+        },
+        {
+          "date": "2026-09-30",
+          "usd": 97.92
         }
       ]
     },
     "wti": {
-      "latest": 88.94,
-      "latest_date": "2026-09-29",
-      "delta_1d_pct": -3.95,
-      "delta_30d_pct": 5.25,
+      "latest": 90.34,
+      "latest_date": "2026-09-30",
+      "delta_1d_pct": 1.07,
+      "delta_30d_pct": 6.36,
       "series": [
-        {
-          "date": "2025-09-29",
-          "usd": 63.45
-        },
         {
           "date": "2025-09-30",
           "usd": 62.37
@@ -2033,36 +2029,40 @@
         },
         {
           "date": "2026-09-29",
-          "usd": 88.94
+          "usd": 89.38
+        },
+        {
+          "date": "2026-09-30",
+          "usd": 90.34
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-09-29",
+    "as_of": "2026-09-30",
     "regular_91": {
-      "avg": 3.478,
-      "min": 3.236,
-      "max": 3.709,
-      "count": 85
+      "avg": 3.469,
+      "min": 3.265,
+      "max": 3.639,
+      "count": 81
     },
     "premium_95": {
-      "avg": 3.665,
+      "avg": 3.674,
       "min": 3.366,
-      "max": 3.809,
-      "count": 36
+      "max": 3.859,
+      "count": 45
     },
     "premium_98": {
-      "avg": 3.795,
-      "min": 3.657,
-      "max": 3.919,
-      "count": 12
+      "avg": 3.733,
+      "min": 3.599,
+      "max": 3.889,
+      "count": 8
     },
     "diesel": {
-      "avg": 3.205,
-      "min": 2.979,
-      "max": 3.509,
-      "count": 86
+      "avg": 3.219,
+      "min": 3.006,
+      "max": 3.899,
+      "count": 90
     },
     "lpg": {
       "avg": 0.0,
@@ -2070,9 +2070,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 182,
-    "observations_yesterday": 28,
-    "observations_older": 9
+    "observations_today": 181,
+    "observations_yesterday": 35,
+    "observations_older": 8
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8632,16 +8632,22 @@
     ],
     "global": [
       {
+        "title": "Brent Nears $98 Amid Supply Concerns - tradingview.com",
+        "source": "tradingview.com",
+        "published": "Wed, 30 Sep 2026 20:32:36 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM0s1ZElOX0ZLMXdtSXhQcVpHcGZEdTBsNU80akw2c1ZFTlZYUWRReUhxVXlKNzZhbENaU1JVTF90cWtOWXdLSDM4dG1WQzlUUXpyTTdJRWNXZl9WTGNTeDRhd2EwUW9rRnoyRFlsWE1JLWxBZ3VEMGdFdXFUWDFrcjlJUXptOW1GTGNfSm5odw?oc=5"
+      },
+      {
         "title": "Oil prices rise by about $1/bbl on stalled US-Iran talks and tight fuel markets - Reuters",
         "source": "Reuters",
         "published": "Wed, 30 Sep 2026 19:16:51 GMT",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbEZNSGlvd0hfTjdOVTQxTEVYczRjUjdId3NlSGJDSV90UVVjTGhjaFF2OS1xckpOWElrcWRoUXNPa29WTHhsLW9yWVc2N1REdXZONl9iZ2ZUSkNOQ0xndE16LWpMa3c3T2FHWE0yajBlek1La3hVeTVnWkpLc2hhTTRNMnVILWY0RG9VbzVVZnZGV0JmM3VJWkNhVmlfNDlVMThOSVNtNlR3cFJUekNpMVZ3aE03Zw?oc=5"
       },
       {
-        "title": "November WTI Crude Oil Contract Closes Up $1.04, or 1.2%, Settles at $90.42 per Barrel. November Brent Oil Last Seen Up $1.04, or 1.0% to $103.63 - marketscreener.com",
-        "source": "marketscreener.com",
-        "published": "Wed, 30 Sep 2026 18:43:41 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQzBoc0dBT0R5SXU4V3ZpUHlNbWtFcmFaT3Z2ZmdmaTNlN0V5cUloRk15MWhJUUZsLXR2b19ZZ3QwRVJJempSNjBwTk1WX0VSWTdkLXc0RGlyeFhrLXFMNk5TY1QtYWVDdlhPMW4xZ2cwMnZ1ZHlZTldha2hJVzk2VE14WHNvVnZrY2ozYnBtRzAwVDNfMTRGY21MbzVkNHlMMnZ6d0tEOWlpWk16a20ybXJDb2ZLZTh6Y2tCSmcxWXpYYy11Mm5lN1pMN2RfUGtTeE5hUk45SGhkOS05bldueQ?oc=5"
+        "title": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank - EnergyNow.com",
+        "source": "EnergyNow.com",
+        "published": "Wed, 30 Sep 2026 17:57:49 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc043cHk1ZjIxLWc2RVJUX2p1NnRHMmpRamNpNkVJNTBkNjliR1Z4amtCdkdVUzkzUnBRQ2ZpWFhHdGRUUWtybzFieTY2ek9qazdPaG5Ec0d3akx6a24wMlYzaDdnbjZrbmNVdTdZdXZSYlhGTVFUOHJoTGZhQ1RJR2tyaDNGckF0OWM0QW1ta2lVbnFoOFE?oc=5"
       },
       {
         "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
@@ -8672,12 +8678,6 @@
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Wed, 30 Sep 2026 14:43:18 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQk1jaFhsVlJkSFp3NHFvUUNiMlF3NEJKcDN1STFCTVBSU0xjWDJLRzZsU0J6QzNHVVk5RFJkRjFybkJsdS1HM184THRZVkRPX3NPamtpaFZqUUUxX19tY3VRSU5kYkVpWnQydnFELXAycXpLVVdDUndub1RYXzgzWEhJSF9fN1ZMSU1kaTMyVHA3LXlUaGcycmoxNlFvdml0bDFfRkpCRjbSAa4BQVVfeXFMUEdldzhrNlJDZmhiN0ZKQkdBeWpnTjdaOWhIWF80b1lmMXZmOTVyMk4ydGpuZm5wdkxYV1d1NHhXaWpvQnRfemRVa1hYNUh0c214QXozUDZ3cWw0RHpaTXAyWVpZd1RLdW5uQk83WTNLMXpldVE5d1h1MDRtS2ZyVTNVU1MwbDRiWTRsTGRibXVRM3ZFbFFKWGlCRWdhdFR0dFhwRlBKNkYybWxRTnhR?oc=5"
-      },
-      {
-        "title": "Japan, South Korea Fill Middle East Crude Supply Gap - energyintel.com",
-        "source": "energyintel.com",
-        "published": "Wed, 30 Sep 2026 14:16:40 GMT",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5NF90dnlUMHNBTlp3ajI5QVRkWlk0MjFKU0RjdUxqOC1tTTRRQmVzV0VERWNsV01PZGFiTE91c3RPWXBSU1c4akJscVR4TFNWNm1NOUhwQU1reHpkLVdXN2NfaGdfQkFEcW5yNUxJNWROUQ?oc=5"
       }
     ]
   }
