@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-10-01T19:27:58+00:00",
+  "generated_at": "2026-10-01T22:23:27+00:00",
   "fx": {
-    "nzd_per_usd": 1.772692,
-    "as_of": "Wed, 30 Sep 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.774167,
+    "as_of": "Thu, 01 Oct 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 97.92,
-      "latest_date": "2026-09-30",
-      "delta_1d_pct": -4.55,
-      "delta_30d_pct": 7.58,
+      "latest": 102.71,
+      "latest_date": "2026-10-01",
+      "delta_1d_pct": -0.79,
+      "delta_30d_pct": 12.1,
       "series": [
-        {
-          "date": "2025-09-30",
-          "usd": 67.02
-        },
         {
           "date": "2025-10-01",
           "usd": 65.35
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-09-30",
-          "usd": 97.92
+          "usd": 103.53
+        },
+        {
+          "date": "2026-10-01",
+          "usd": 102.71
         }
       ]
     },
     "wti": {
-      "latest": 90.34,
-      "latest_date": "2026-09-30",
-      "delta_1d_pct": 1.07,
-      "delta_30d_pct": 6.36,
+      "latest": 93.14,
+      "latest_date": "2026-10-01",
+      "delta_1d_pct": 3.01,
+      "delta_30d_pct": 8.52,
       "series": [
-        {
-          "date": "2025-09-30",
-          "usd": 62.37
-        },
         {
           "date": "2025-10-01",
           "usd": 61.78
@@ -2033,36 +2029,40 @@
         },
         {
           "date": "2026-09-30",
-          "usd": 90.34
+          "usd": 90.42
+        },
+        {
+          "date": "2026-10-01",
+          "usd": 93.14
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-09-30",
+    "as_of": "2026-10-01",
     "regular_91": {
-      "avg": 3.469,
-      "min": 3.265,
+      "avg": 3.45,
+      "min": 3.116,
       "max": 3.639,
       "count": 81
     },
     "premium_95": {
-      "avg": 3.674,
-      "min": 3.366,
-      "max": 3.859,
-      "count": 45
+      "avg": 3.626,
+      "min": 3.216,
+      "max": 3.909,
+      "count": 39
     },
     "premium_98": {
-      "avg": 3.733,
-      "min": 3.599,
-      "max": 3.889,
-      "count": 8
+      "avg": 3.777,
+      "min": 3.506,
+      "max": 3.949,
+      "count": 11
     },
     "diesel": {
-      "avg": 3.219,
-      "min": 3.006,
-      "max": 3.899,
-      "count": 90
+      "avg": 3.178,
+      "min": 2.856,
+      "max": 3.369,
+      "count": 85
     },
     "lpg": {
       "avg": 0.0,
@@ -2070,9 +2070,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 181,
-    "observations_yesterday": 35,
-    "observations_older": 8
+    "observations_today": 177,
+    "observations_yesterday": 31,
+    "observations_older": 0
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8582,8 +8582,14 @@
   "news": {
     "nz": [
       {
-        "title": "Rising diesel price could make rest of year more expensive for households - RNZ",
-        "source": "RNZ",
+        "title": "System-wide fragility pushes global fuel crisis into dangerous new phase - Newsroom",
+        "source": "Newsroom",
+        "published": "Wed, 30 Sep 2026 16:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb1VEOTV2SnhaNW9YOFZSRHhfM1l0NEYxdGFoSDNYSktMQUp0WTQ2UDVrQ2ltYlFEMUw1N1ZCVGJtdHFPWWcwcmpYbk44eE5HTVRrLWRhTFc2VDdKOUpzTlhGVmpHa2ljYlpISFVRcFNlaFEyTzdFS09fdnRSQVhUSHg5OTZhZzFSS3VrZ3ZMUFZfWWtPUnFKbWpPYjJoYjFIbVRiVHV6RWdDWTg?oc=5"
+      },
+      {
+        "title": "Rising diesel price could make rest of year more expensive for households - rnz.co.nz",
+        "source": "rnz.co.nz",
         "published": "Tue, 29 Sep 2026 16:44:43 GMT",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTG45aDlXbjBib0ROcDQ4Q1gzM1RWWmF1TXJNNFNqSWgxNGN1d1FaaFJkdU4tcDhGbkp5THAyaERhTUdSci05d2VrcEJoQkxfRXFfcENnNkpaY2toTmtRVDN3SzZ1QXBMSk9EWGRmaUt0QzNYU0pBcExhNWZmTUU5MmpmbVFWT0pHbmpDSG1uYkt5cHNteFAwZzF6akd4ZGdmZzNrZjdQMG1kNTZuSTU4VWZ6S29aS3di?oc=5"
       },
@@ -8606,14 +8612,14 @@
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTUd6RlgzTWF1XzNqSDVNaGlwM01UNVRNaEFibTg0OThLOHJHV0tyZm1udnhVSjB3Mjl6MThrMWxyM0t5eHFlRlhuYzlJZ0tSUEF1M3RaVG9fTFhPTEtPbU9GZlEwUjhnbEEwZFEzN1lYdThXSHVZOThrSVNoN0NoSzB2Zks0X3B2S1RpOHB1S0I0VG9rMUE?oc=5"
       },
       {
-        "title": "Petrol and diesel prices remain under pressure as oil stays high - RNZ",
-        "source": "RNZ",
+        "title": "Petrol and diesel prices remain under pressure as oil stays high - rnz.co.nz",
+        "source": "rnz.co.nz",
         "published": "Sun, 27 Sep 2026 18:49:27 GMT",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcWZjcXhlN3ZWVndMUEk5TG8xdEpSWmdKZjA0UkJLWW5TUVQ2b1dNRUJ0Nmx3NUdnSkROa2RpUW45Tk1Gd0pSdWxsZ21XbnJWU3JLbU1RVm9MQTAxS3N4bXVTaFlxeC1hdEhxX0NQYkR0ZGQ2cFFiZmlOVjFVWU5hX1BGTGxMNWNST2Nla2xHczVDR0Foa3VYY2JjMFlLXzRxWU1nZFFWRm5QeDdT?oc=5"
       },
       {
-        "title": "What's going on with fuel prices? - RNZ",
-        "source": "RNZ",
+        "title": "What's going on with fuel prices? - rnz.co.nz",
+        "source": "rnz.co.nz",
         "published": "Thu, 24 Sep 2026 19:59:01 GMT",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdFBnUVBLVnZCLXo0VjFxalBZYWI1OG1TTlpqN1RGdjNWWkFuMHNkREN1MUlXTDVUNDJwV191NFdQbzVlTWhpRk5ZTU9oR3hnSkhqdjM0REdJT2xKblctTTNYOXQ5LW5XYW1wUTJPYXJrbWJEeDhKTEFxZXpxMHhfTjY1Sl9wRDhHNUs1WQ?oc=5"
       },
@@ -8622,62 +8628,56 @@
         "source": "1News",
         "published": "Thu, 24 Sep 2026 18:01:16 GMT",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMGJkNUZpTVNRVWVSTmJHSThIUU82UEs3bjA1VW1oVnRraXpJZ0xsdnRzQk9fMlFMV2JlYmE2U1dGUjRvUzI5ZDkycGtBZ2lvYzhXako3blB2eEV3YnYta0tORS1LdmhPSTZsNDhfN2tLV3Vhb0ZHVk5pSzNHX09FRFotWjF1ajZUNW50MEpDRmo2b1FVTXNBVVRlVUhmZVNFRUZFNnh3?oc=5"
-      },
-      {
-        "title": "Fuel prices surge as 91 petrol hits $4.15 on Waiheke - Indian Weekender",
-        "source": "Indian Weekender",
-        "published": "Thu, 24 Sep 2026 09:06:12 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZS1wSW9DcG9lWGd3c0ZTMnNVN1cyeHFsNUlRVnkxblZIZEtiakdMR1RRWmt3WkRwTEpCZW1RbXJiZzBrcEotWG1ra2JtR0Q3LWNkVTBYa0NDUVNvWEdCZkdWZjEtRmtBTEtVaEtNdndJYkplWXl0by13enpMYmZXTDNULTdCcFpVcHdUQ3NVcEdKcS1G0gGkAUFVX3lxTE5zTE5BOWIwbjNFN3UzMGhhdHBxdktKTVo4WnZIdWNPaFpiTXJxdXhXV09rbjRjeUp5WEJYODlMYnZ0UmFkRWpwTW91MHFtOXk5bnhMYVpCRk02WWpuYnUxZksyeGk4MmtDcGJIOS0xY0VGQXp4d3I2bGFITlFJSXJxeDhIbG5lMHVldm1jbkpKd0dNUlRUaFNFU0M5VDh4aUU2UmRR?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "U.S. Pressure Campaign Leaves Iranian Tankers Stranded in Asian Waters - wsj.com",
+        "source": "wsj.com",
+        "published": "Thu, 01 Oct 2026 21:20:21 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcTYtME5MY1VOMUROV2FaaG9ySXVlQ3NoZE80a0o2VXVNVGtYaWFJbGFTY1d1Qi1tVHlQaGJLQXBkMFRIano1SjE1TWh6d2lRUHNyRUo5QWpUQWdzYW1EOTA3UVVnakZRWUdXWXpPOGtnZjNncTFxQTJiamNmZm93SUpIbTBTT2pZT3doRk0tLV85WkR4SGRkZmdWaE5sUVJIc1dmZl90Y09TS3ZpUUE?oc=5"
+      },
+      {
+        "title": "WTI Crude Oil Price Forecast: Bullish Reversal Tests Key Resistance - FXEmpire",
+        "source": "FXEmpire",
+        "published": "Thu, 01 Oct 2026 21:11:26 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUmZITWlYZ2E2YVd3RnlaZ0ZJQVJvZjgzM3FFeDBxVmFncXhuc0haNmViT29RUVotT2tucU92QVNDM2tMNVdqN3I3N251Tjhna0JxOF9NTUZ5Wm1mMlBWQm9NQXVjSGJIV3JmSE55LWJ6ZHF6QVpUam5pRWZqQThCQkxJLVZ4NlhwZ2RBVkV0WTI4NDZtS2djMXdNMjEtNnlvZmRlWFdhZ2k5SnBVRU5QMUk4LTRjQWpQ?oc=5"
+      },
+      {
+        "title": "China Halts October Fuel Exports as Global Diesel Crunch Deepens - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Thu, 01 Oct 2026 20:40:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUnJ0N2drNXc5bzBLc0c5UGEtSHdYeVhDYjJHa1h3WEtwT1hfNHpXZHhabDlXSWpMSmJBTS1Jb2w0a2ZVVXpUV04tWHBMSFYyWXJLb0RMV1BnOEJtU3FoLTZodGlJN3BaczdVTkFBbWRjc1JHaGxwcWFTWFpFVTU1QUYwb3YxNFMyNTRoSWVQWlU4Z1R2SFhBVG5IVWNpcU95ZGRXT0huRVlVempwVXJaaTJzRWxKNFdfWlVSNdIBwgFBVV95cUxPQWM2ekY0VnNiMlF5eHpLNjQ5NHB6YnVmTDA0eGZucjB1S3NJUjBFREUwcGJhN1dvNmZfM1Q2Tzk3WnhCY21tNnFCbHBHaldfTGMxaHpWQnNnaWVRX0tPd1FTSWhHVjYxWjRQNS1BRkJ5M1FnS2ZZaFZocGxrNmJQMjBjZkNId0dWMGZVeGctb3dzVzdBVmNJTFFPelNwMXB3YndvNF92NElNZWU5Z0hHM2dNejY4Y2ttNVBFWU1qV3RKUQ?oc=5"
+      },
+      {
+        "title": "Swings in the bond market shake stock markets worldwide, as AI optimism supports Wall Street - Boston Herald",
+        "source": "Boston Herald",
+        "published": "Thu, 01 Oct 2026 20:11:21 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRVJ5aER4M1FJSkd5TlRqcG5vczZCOTFGWmkxUkMwWmx2b3lPSUxRNHE2R3BtWEJhdjNadWtDZ0pzcUhUVVllbzdtZTBPQWhOVDZ3XzFNVk14YW9aSU1qV0NaaHo4b1VLcXFxaERpQ1FnbzVfSV8xU3gwWkZPSXV5eA?oc=5"
+      },
+      {
+        "title": "Oil Climbs as U.S. Sends Another Aircraft Carrier to Middle East - wsj.com",
+        "source": "wsj.com",
+        "published": "Thu, 01 Oct 2026 20:02:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNmhPcVdsYXVvN2poOUlFX1dYN3htRTFkenA5T2VwekZleFZRZ0Uyb1ZUbWkzOXVzaUdlXzJKQWFzSDN6cURIMmUxbG00QWhvR2Utdy1acFplejVvU3hWTDlHRG5zZnNyalNnZ01DdEp1bUxBcWxLak9KTmhjbUw3VXJ5TFRodWExMEVETkNoRi1JemdmTF9IbGZBcGo2ZW5zREdjSjNlQ2R4X3hKbkNzb3REQl9CVEx4U2xIZDRvZDBCMUNOYVZzdHhZMkVXRDBQUmlrRnA1M3ZaSTFfX1l2M0t6bEZaT0treWMw?oc=5"
+      },
+      {
+        "title": "Trump's Talk of Diesel Export Ban Splits Brent and WTI Oil Prices - United States Brent Oil Fund, LP ETV - benzinga.com",
+        "source": "benzinga.com",
+        "published": "Thu, 01 Oct 2026 19:30:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR1JLb3dzMUVVbjE3YTBwZXJuMzZNRnQ1d2xTa1lMX2UxMW83OWVodktqS0VUcWFrRkQyR0FuZG1oYXJleGVpaEJnUnRFWXh3cVVtRG05UzFRdTVLZHNCV0dVdnI4M1lVanRoc21kZzdjWFMtRHhpY0d6NDVUMmJkcUR1dTJadW9HUDlEQy1RekEzdmxjdi1wMENobU8ydUUwV3R0dXN1Rk1abnlMWnc?oc=5"
+      },
+      {
+        "title": "Crude Oil Prices Surge on Possible Escalation of US-Iran War - Barchart.com",
+        "source": "Barchart.com",
+        "published": "Thu, 01 Oct 2026 19:14:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY0VyaGRjNmR5Mjlmd3d5VnMxbVY0RzFaV3lidUN2YVUtbzNYazZiSGpJOHo3ZXdFZktLelFoQ25iN2ViS0xRYTU5dGMzNnh6MnNEQURnb0NIUFFUbkVld252ZTVXaXZBQWxGdS04dXllVXBWMU1uU2pGWURuTWRacXdodmFXQjltRDF2eVBMcTB6dW1EWl9TcG1qU01SOGNmb18tQ0x3MA?oc=5"
+      },
       {
         "title": "Middle East Oil Exports Stage a Remarkable Comeback - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Thu, 01 Oct 2026 19:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR1IwaGFidXlsWVlFUXJ0TWNtVG1lVVBxeFdQTUtzUzBranFUVGdCazFwcF81Q2Y2UFRWTlRaSi1hV1RKcHdtMjNRTENKSEI4d3ZpWENHbVdpOHd1ZVhLV0hzT2tqTzhza2pJOVpyRkFBUzJJZF9vZlp6YzFEeUt4WHo3X2F1V0h6UnVKTi1YbFQ1VGotYVRGRS1GbFNQRnQw0gGmAUFVX3lxTE9LS25zYmNHT3B4YjZIaFFqeVFLWTJJVHJ1NmJJRThuZnpVUjdSTlBFX1VBQTl6VUNLd3hXMnJjTkViQ3F6N3lQLVFaWlpqU2VFNEluSEZxNWtManVwcUdJNjRtNkIwcWxPV1ZvanlEQ2psV2NkZWVhek12a1dybWpNMkZJcjlFM3RJNlpfVWRCaDJQWm1tZGQ1Q3A2XzkwczVTV1BkSHc?oc=5"
-      },
-      {
-        "title": "US targets Iran auto, rail and metals sectors in new sanctions blitz - Iran International",
-        "source": "Iran International",
-        "published": "Thu, 01 Oct 2026 18:40:09 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpQThVZV9GX01OVUFiRzhtUC1lVVRsZDVxUElSWnhWckxKdHdPWThiaHlNUHFtOWdpNkVZUDl2UXk4ZnNPTlc2dnpLZ0ZBM0RXZFE?oc=5"
-      },
-      {
-        "title": "More swings for bond yields rattle financial markets worldwide - Boston Herald",
-        "source": "Boston Herald",
-        "published": "Thu, 01 Oct 2026 16:47:19 GMT",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRVJ5aER4M1FJSkd5TlRqcG5vczZCOTFGWmkxUkMwWmx2b3lPSUxRNHE2R3BtWEJhdjNadWtDZ0pzcUhUVVllbzdtZTBPQWhOVDZ3XzFNVk14YW9aSU1qV0NaaHo4b1VLcXFxaERpQ1FnbzVfSV8xU3gwWkZPSXV5eA?oc=5"
-      },
-      {
-        "title": "OPINION: Sledgehammer for Putin - Kyiv Post",
-        "source": "Kyiv Post",
-        "published": "Thu, 01 Oct 2026 16:18:07 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IU2RTa0NDZzJWamlKR0hkbkZQM3FQZU5BVHgwVjFnbzlnMk4xci1PZWN5bzBrVzZUNTh2T0xYMlZpdGhoQjltRVZTbXdZblE?oc=5"
-      },
-      {
-        "title": "Global Supply Risks Underpin Crude Oil Prices - Barchart.com",
-        "source": "Barchart.com",
-        "published": "Thu, 01 Oct 2026 15:42:40 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVER6cTcxQmF0ZGZzQjRuVHZhMTFlZ003dy0xbk90VGlfWkRiaEIxcno1WlZTTkYzVkZoSmE3cUlpRVNJMlZVd0hCZEI2dGxZSmp3MFQ0RHc4SUU5NzRobVVMY3dRWjZmS1dGYXdzakFLbGFfVkRiUjIyc1VOWmdZRi1VNXRSYnVlQUJfc0hLT0YyV1E?oc=5"
-      },
-      {
-        "title": "Chart of the Day: WTI Crude Remains in a Violent Uptrend - TheStreet Pro",
-        "source": "TheStreet Pro",
-        "published": "Thu, 01 Oct 2026 15:32:31 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNG9TX280MXNVcUlzTmtxYnRLZkVPSkV5a2dUTDk1NGgyMkVaSUNMakExZmRjeTVHZk9DakpZVG9SdGR4N3VROS1kc0h2MnpnR1I2UXFKbk1yejgzUUR3MDlrQzFSd1ByUF8zZFA1dHI4VXU5ZWpuZjl1ejVoT1FCS0JybFpYS2U0dmRvcVBXLXg1WHZrRXc?oc=5"
-      },
-      {
-        "title": "New U.S. Sanctions Law Can Squeeze Russia – With Help - tol.org",
-        "source": "tol.org",
-        "published": "Thu, 01 Oct 2026 14:38:02 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRjMydno5cDlVZXZCckdGYS1wRkJ2enJCUlNDS2hNMkxDUm1EZ256T1d3WGZESjdnTzRNNzhHTExXRjh0ZXc3ei12YlJ3SVlnaWlubGZraHNaYkFZSm5GV2lVdlljSnJQaW43T1VhTHVHb2VNbU1pWHJvbVpoWTVDM0laYktyd2xSaUMtUnY1UQ?oc=5"
-      },
-      {
-        "title": "India Emphasizes That Shipping Chaos, Not Supply, Is Driving High Oil Prices - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Thu, 01 Oct 2026 14:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWkRVWmpvM01mRllqZHhNcjFfZnpQZlhPZWZwOVJtQUswR0pHRmt2aHZUUFY5dTV2dXhRczVOcGNQZkZTQlBROVNaUFJiVzdraklQNmM5VUlBVnZWN0s1czQ4dlVfNTl3a2V4UGN1TWhiczM3QXg4UGFXR1V4U0JjOS1LUm42MERtMUx2RXpGdDdRTzRIbUdWNThPMTZ5aXpuLU56WFVPUjBaTG5DTjlvLThDc3ZjUDBEWkZlYlg5QWJkdXhZVjlFMHJ30gHPAUFVX3lxTE1KR282MFF5UFBxQlFZeGtUR01xVU5YNFQzdDREVmlqZWdraFduNzBQWDNhejY3OU1RamU2dXdsTnRzdFhwUlJGckdLVFFfV0ZYSU1CODZJOUZOZWZCdmN0YTdvMU4xWHpLYUEzNDVFOGVpeC1aSnpEU1lxY2lWcVJvMnNwSmJEQWl1ekRqSmwwcUVXaF9CM3pMaG94R05ILWZUYTZpSkN5NzlUbUFXVHJDc1RDZ0toenljN3N6Y0dWV0ZmZ2hFSkMtdzlHYWktOA?oc=5"
       }
     ]
   }
