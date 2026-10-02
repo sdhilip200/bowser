@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-10-02T20:10:21+00:00",
+  "generated_at": "2026-10-02T21:52:38+00:00",
   "fx": {
-    "nzd_per_usd": 1.774167,
-    "as_of": "Thu, 01 Oct 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.784419,
+    "as_of": "Fri, 02 Oct 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 102.71,
-      "latest_date": "2026-10-01",
-      "delta_1d_pct": -0.79,
-      "delta_30d_pct": 12.1,
+      "latest": 102.7,
+      "latest_date": "2026-10-02",
+      "delta_1d_pct": 0.38,
+      "delta_30d_pct": 9.51,
       "series": [
-        {
-          "date": "2025-10-01",
-          "usd": 65.35
-        },
         {
           "date": "2025-10-02",
           "usd": 64.11
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-10-01",
-          "usd": 102.71
+          "usd": 102.31
+        },
+        {
+          "date": "2026-10-02",
+          "usd": 102.7
         }
       ]
     },
     "wti": {
-      "latest": 93.14,
-      "latest_date": "2026-10-01",
-      "delta_1d_pct": 3.01,
-      "delta_30d_pct": 8.52,
+      "latest": 91.26,
+      "latest_date": "2026-10-02",
+      "delta_1d_pct": -1.73,
+      "delta_30d_pct": 3.91,
       "series": [
-        {
-          "date": "2025-10-01",
-          "usd": 61.78
-        },
         {
           "date": "2025-10-02",
           "usd": 60.48
@@ -2033,36 +2029,40 @@
         },
         {
           "date": "2026-10-01",
-          "usd": 93.14
+          "usd": 92.87
+        },
+        {
+          "date": "2026-10-02",
+          "usd": 91.26
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-10-01",
+    "as_of": "2026-10-02",
     "regular_91": {
-      "avg": 3.45,
-      "min": 3.116,
-      "max": 3.639,
-      "count": 81
+      "avg": 3.474,
+      "min": 3.21,
+      "max": 3.709,
+      "count": 66
     },
     "premium_95": {
-      "avg": 3.626,
+      "avg": 3.646,
       "min": 3.216,
-      "max": 3.909,
-      "count": 39
+      "max": 3.839,
+      "count": 35
     },
     "premium_98": {
-      "avg": 3.777,
-      "min": 3.506,
-      "max": 3.949,
-      "count": 11
+      "avg": 3.836,
+      "min": 3.656,
+      "max": 3.989,
+      "count": 10
     },
     "diesel": {
-      "avg": 3.178,
-      "min": 2.856,
-      "max": 3.369,
-      "count": 85
+      "avg": 3.208,
+      "min": 2.886,
+      "max": 3.417,
+      "count": 72
     },
     "lpg": {
       "avg": 0.0,
@@ -2070,8 +2070,8 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 177,
-    "observations_yesterday": 31,
+    "observations_today": 138,
+    "observations_yesterday": 37,
     "observations_older": 0
   },
   "mbie_waterfall": {
@@ -8600,8 +8600,8 @@
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOHpLVnA4TlFna05Wa0VwTVRqb0xZOUNyYl9naW1EUFduSHprWmE2TUZRenVFbVE3OGdBVlhUU1gyT1ZKU2xWdG1jc1hiOFN2ZVBlLW1FUHdjejc3UDkxT19XMXBmbzB1QmNUU3VpUG5WcnJxVXFnTV9zbEx5R0JkWHluY0UxVFk3cG9hZEhJS2Jad2JCVmw5SnRnZUtTR09lb1VDTUdaLTlDUQ?oc=5"
       },
       {
-        "title": "System-wide fragility pushes global fuel crisis into dangerous new phase - newsroom.co.nz",
-        "source": "newsroom.co.nz",
+        "title": "System-wide fragility pushes global fuel crisis into dangerous new phase - Newsroom",
+        "source": "Newsroom",
         "published": "Wed, 30 Sep 2026 16:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb1VEOTV2SnhaNW9YOFZSRHhfM1l0NEYxdGFoSDNYSktMQUp0WTQ2UDVrQ2ltYlFEMUw1N1ZCVGJtdHFPWWcwcmpYbk44eE5HTVRrLWRhTFc2VDdKOUpzTlhGVmpHa2ljYlpISFVRcFNlaFEyTzdFS09fdnRSQVhUSHg5OTZhZzFSS3VrZ3ZMUFZfWWtPUnFKbWpPYjJoYjFIbVRiVHV6RWdDWTg?oc=5"
       },
@@ -8632,10 +8632,28 @@
     ],
     "global": [
       {
+        "title": "Oil Ends Volatile Week Mixed as Emergency Reserve Release Knocks WTI Lower but Brent Holds Above $102 - EnergyNow.com",
+        "source": "EnergyNow.com",
+        "published": "Fri, 02 Oct 2026 21:01:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcEdEallZRk5rOTM3SzdybHI0YTNjZFJ3dzV0X25tbWExVmJpVTJoNnRaRUlIVkczZmFSUWwzY2NESkp5UFNRd3d4bnZwWTk0RjhJbllYRm1WVkxlcFlhVEtGanVHWWNsSFdBZ1ZpamJscmo4eTFJQ3RGMzJLdzJFSFY1cFNQUXN4cWYyUXlINzlsUmhSSDhxb21icVZsem92OTFTLWlqRVo5YmcyMURBQnY1U2FZRExhSFg1X3ZvSVVWRzBXY0JDQ0FYaw?oc=5"
+      },
+      {
+        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
+        "source": "LiteFinance",
+        "published": "Fri, 02 Oct 2026 19:31:57 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
+      },
+      {
         "title": "Brent climbs, WTI down as Europe agrees to release diesel reserves - Yahoo Finance",
         "source": "Yahoo Finance",
         "published": "Fri, 02 Oct 2026 19:13:51 GMT",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOXpYZTJja0psbGRJRU5abXZNZkotREVPN2VKY2lEb2VRaHR0dGZVZ0dKdXFVYnFtc29aa1RRdTN2bEtBUEdxd0MwZkJEeDRiNjlzUURWSHZzTjFKZ2tSM0dqb2NEVGI2QkctaWE1WHpoMUpDb0Y2UlhFUmFFbGc2SXh1UTZ1ZFVXRTV2UHlVUjdNWDQ?oc=5"
+      },
+      {
+        "title": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Fri, 02 Oct 2026 19:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNkRSYWU1SUxvN2pWS0dKdWluZndLaDY3UU9RVUxxTFpxWFVjeE1OcDFLZVZmTXB6OERkQlFqVjJpb1otYXZodnJ1dU1kWWxFbU12UXpYMUNYajBWbXdKSW1EMUh1UnZqM1VFWUtNUU05UDFLMzV1VjNOS3RRQWMwaFR4N2JvLVVzdW0tdHhqTE8xdzIxUXI0ZXdMcjZLc3JscENHMGFyU2ZLRjI5ZU8zN2pQWlHSAboBQVVfeXFMTnY5R1VtbDhFX0p0TW9ETjMyQkhpNXNFb3Z1OV9pRjZucEdHQ0xPempFazIwOGdvUHpxTTg5cU1oMkd3ajY5TE5UTlg5aVhiYzJ0dzMySDQ4QlJrd2hETmxqb2otRTBVbTVaXzJkYWZsRnZ6Mkc1NTBReXc0bEs1ZU5vTEV5OEFlUGZrSXlxeVI0WlV6ZVJuZXpSU0ItRDBFN3I1d2pkZExyTkc3OWg3NVlESEVYX1E5NkNR?oc=5"
       },
       {
         "title": "U.S. Oil Drilling Inches Up As Prices Fall - Crude Oil Prices Today | OilPrice.com",
@@ -8644,40 +8662,22 @@
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNDY0ZGdsd1hWeWNaXzJ0blRXMEt3a200V2IzSmR5d2NyallMaXU3MUtWNTk3c0JLTjBEUzZSaEdFQVF2blJBem1KaXB6U3hIUUJWTkVBdHpkUm52YnBuZTFMbFUzN3ZIYlFwaHQ3eGlTTnN0OElWM3Q4dTRpV3hwUmJwa3R6MmkxYVd30gGQAUFVX3lxTFAwUXh2RE1LQlg4bUo5azhpb3RXMmhoRDdzenFUZzMwUnZieXpVTWRDMEpESEdYcThCVWdNUk9URXBLYUxHNHJBekpyUEJ5SjRBQnpnUWxIOWhraFA3RlNVVG9PRFNZZk1Qam9pMmNVci1hRjE5NGFKRmhMRDY5SnN3WTRQMnlyTFdxQ0V0UFE0VQ?oc=5"
       },
       {
-        "title": "Crude Oil Prices Tumble as G7 Nations Release Crude and Diesel Reserves - Barchart.com",
-        "source": "Barchart.com",
-        "published": "Fri, 02 Oct 2026 15:35:54 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMjI2T2JzeGx1SXJpeHZ3dlRXU3JlWklxWVA1S1NJMG5hNUNhSWFYSkRBSHV0NTFiNVJkUlRRR0ZCNHBtWldaN3l2QmpKNm4zYTh1MGd1WU9Oa0h3R0x1Z2xzZ1JVZWFwdV81U0N6aFZJenNCWElKdDM1aUJOSTJveU53WC10a2lRdnZ2NEpVV0p1WW5wNDk2R21aYkQzMHBrVV9hbURCSzNlZHk0ZFlOaXgtSkdrZw?oc=5"
-      },
-      {
-        "title": "Three reasons Middle East oil supply is nearly back to pre-Iran war levels - BBC",
-        "source": "BBC",
-        "published": "Fri, 02 Oct 2026 15:29:28 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yZFNFQkVkLUY3YWY1TU85akxlY1hGQzI4TGZ4ZEt1WUdIOWRJN3YzNzFObUZYdDFWSjl1TDVPZjYwQVA1NGJhaWF0SW0zZTRwWFJMWDJUaU1ZeVZHVlE?oc=5"
-      },
-      {
-        "title": "G7 Moves to Release 100 Million Barrels to Counter Diesel Crisis - Crude Oil Prices Today | OilPrice.com",
+        "title": "Dated Brent Above $120 Signals a Serious Oil Squeeze - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Fri, 02 Oct 2026 15:23:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTmMxTXpjS0huemNBNUhPZWNRcXktTWlPZm1oYWlGSFRGZGtZaVVtWVk3RmxWUmd1bHFDYkxVZFluSy1tc082U0p0by1CZnVuWWo1N3o1VzkyMnMyc1dnOUF5WnJnaTgtZ2JNalVTMUw1LWd1YWdVOFZHejFXSHJ2UndrSkVBSkVVV29fRFJ2T25jdUpZa0VWWnUwdy1tcWhyVGp3ZmJlLWMyWEdLbF9mVDRKcGRTMWFkakt2U9IBwgFBVV95cUxQR2o1OFpOT05ZOG9TN0JZcXg4NzU0THg2Q0d1emJHa1lVSF9remNQRnR6WHRVYWRnRC1WRHFWaE1Ja1VxZnZxT0hGUEFOTlBJV2JaOFZPZ3laOUQ2by1ySVo4dVRrTVlJc0p3VS1YaHZTd1Baa0JCazEyTzZpcVZpM19LeHMzZ2xtcUk2dFFaWVltVjFaR0k5bkRnSGM1VWwzVjNReVpaRUo4S1FqUlhydG9EeHRkcDYtVjJNZlhwN1p6Zw?oc=5"
+        "published": "Fri, 02 Oct 2026 16:50:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZTRtWjItNTByemhMREx4TU5lR0lqZFFSem1nYjZ3bXdSTUJudjlicTdUVVdNaHRkaVZLUWF6ZXhGem16bHpiNGlaZ1U3MjBCbVZhQmlFLWdQVldaRDMwMjhsQ09INnVwQ2FtRnZqSUQzQVM1ZDNoX1FpTkcwb0xsNmY4OGVEcDdidjZMVGpsUFJhTmNrQ3VMSDBn0gGfAUFVX3lxTE16LXdFYXBkV05DU0dJZnlxQXMtZTRxT1B4VDMyN3NIR2I5X0hWNnFjTHdLM0RFaUItOVBxaDVyd0RYRDRzZ0tpVk53dVN1blc4cGlOb0lkWWxBOXU1U3haUHZ0YnRGdDdUYm9uTktmendqLVQwYlk1SDJ3SXhMOUJZRV9vNWpOYzgyN3QyQUJJUWhsVFEtSWNwSEVrV2Y1aw?oc=5"
       },
       {
-        "title": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Fri, 02 Oct 2026 14:54:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc043cHk1ZjIxLWc2RVJUX2p1NnRHMmpRamNpNkVJNTBkNjliR1Z4amtCdkdVUzkzUnBRQ2ZpWFhHdGRUUWtybzFieTY2ek9qazdPaG5Ec0d3akx6a24wMlYzaDdnbjZrbmNVdTdZdXZSYlhGTVFUOHJoTGZhQ1RJR2tyaDNGckF0OWM0QW1ta2lVbnFoOFE?oc=5"
+        "title": "US futures mixed with Brent crude bouncing back above $100 a barrel and bond yields soaring - abcnews.com",
+        "source": "abcnews.com",
+        "published": "Fri, 02 Oct 2026 16:03:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQURVSkpXZjYzT2t4SWpXOUpSWmVUS0JqTGFuRmVLZlFOWWl4QjYzY3hDUEI5bEJORjFtc3czRHR0YlpPMnotS19taWt5c2o3RTV1LUJqZG13SGEzRGJEb2ZSeFN3Ml9qaTlzRVJTZDd5anhyR2d0X0F5UzJuOUl0dDhWT25OekdPUm9pdGNjWFFtOXlQa2ZodnRnRW1mZU3SAaQBQVVfeXFMUHpibjI0OE5jQ0lLTHlCSkF6cHlPZWkzZFZxbzN1LWo4X1lTZWJ3ZWNtREo1b3ViSTNFcFFadTluUG9LWmI2Ung0YkY3WExSaVJleldmLWJybFJrQ25QcDFfWW9qb2JsQ3pqMENKd1RrcXZNR0xTWTE0aEhaWGdnQTdMX0h2VlExazlFazl5M1NuVi1MU2NRb1phcjFxMXljcVR0NHE?oc=5"
       },
       {
-        "title": "WTI Whipsaws as Gulf Supply Improves and Middle East Risk Returns - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Fri, 02 Oct 2026 14:45:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeENQdEQ1S2xlY04xT0M5NWVuRy1yWl8zR0hxQ0gwdFlzWHV2cVl5cjNtLXFjRWw5VFJWaEdUZS02REtUTExPYV9zcGdYTndRZE56YVNJb2dlRU41ZzVnMkZLRXk1MVUwbzZXaXl2MEI0WC1iV3ZhYThfZUpOenZIMWkxSHZLOU1Oc0VoQ1p0bk40WnlPOXlHY2RCeTUwNGZRU1RyTXlaQUJ4ZjlVRFVPVG9WNNIBuAFBVV95cUxNZFlrVG82elVPbE4zZ2RTRXBMek9xeFl3NjlXZjY4eHo1aUhlVWVUWDdGUktvQlFNZnR3d2M2MjlUaDk4UnR3UFVHUnlQaGFYVmFkZWZOMXNFaXhFWGN6dHVJbWFBbHlXS0t2anNiUlpKXzM3Yl8xT2p5dWhXZU0xclJGeXV0OUowaTdLVFNPaU9fLUxOMDZuY001Mk93d1B3bFlWM1JDRlZhZERyWDB4a3NoTGpPTHB0?oc=5"
-      },
-      {
-        "title": "Global Oil Output to Return to Pre-Iran War Level by Year’s End, US EIA Says - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Fri, 02 Oct 2026 13:56:17 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNFA1a0JOZkNidjVKMUdMeFhSZ2dCTFpYbzlER0pmZGRWZUtjMkEtLVVTOUZHSkFwbFQ3cUV5WDNsSldBVVdBdlVqYXpzWllJSTJqNmNVTlpsRVZsU3lOdlNFaE9ZcDVDUHdvdkpjSTl1OFZhTEpmT2hZUGg5cVZ3blpSUFRsODROR3p0TmlnM0habkI3dHZsRm82VVoxY2NOQ20xYjNLTDY?oc=5"
+        "title": "Sanctions keep catching Russia’s gas tankers, so Moscow is building new ones, UK says - Euromaidan Press",
+        "source": "Euromaidan Press",
+        "published": "Fri, 02 Oct 2026 15:41:46 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMUNWMThUUzZxQVJjNEYwVmoyZ090UlA5QkZKd3lBdWdYZDc3N1EtaU44Y0UxdkFucV9sb01fZTFRUE9mNzRfYU5TZW5BSERJYVBJMThiMEtkU05LZXhXMWNjYkJJalVPQjVDQ2lqYWxJRjJNWjh5ZWdXY0xnemcxLU94emo5ZkFzdDJ6SGJtNlRtQS1UNG95YVd6MU9HcERJSV96VXc2ZXJLVFU2SkdrMGVlMW5mdkVoZjZqMnlxTQ?oc=5"
       }
     ]
   }
