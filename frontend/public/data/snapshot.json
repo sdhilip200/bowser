@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T02:35:37+00:00",
+  "generated_at": "2026-10-02T09:01:46+00:00",
   "fx": {
     "nzd_per_usd": 1.774167,
     "as_of": "Thu, 01 Oct 2026 00:02:31 +0000"
@@ -8582,6 +8582,12 @@
   "news": {
     "nz": [
       {
+        "title": "NZ fuel supplies secure but 'less room for error', Z Energy warns - RNZ",
+        "source": "RNZ",
+        "published": "Fri, 02 Oct 2026 03:35:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOHpLVnA4TlFna05Wa0VwTVRqb0xZOUNyYl9naW1EUFduSHprWmE2TUZRenVFbVE3OGdBVlhUU1gyT1ZKU2xWdG1jc1hiOFN2ZVBlLW1FUHdjejc3UDkxT19XMXBmbzB1QmNUU3VpUG5WcnJxVXFnTV9zbEx5R0JkWHluY0UxVFk3cG9hZEhJS2Jad2JCVmw5SnRnZUtTR09lb1VDTUdaLTlDUQ?oc=5"
+      },
+      {
         "title": "System-wide fragility pushes global fuel crisis into dangerous new phase - Newsroom",
         "source": "Newsroom",
         "published": "Wed, 30 Sep 2026 16:00:00 GMT",
@@ -8622,62 +8628,56 @@
         "source": "RNZ",
         "published": "Thu, 24 Sep 2026 19:59:01 GMT",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdFBnUVBLVnZCLXo0VjFxalBZYWI1OG1TTlpqN1RGdjNWWkFuMHNkREN1MUlXTDVUNDJwV191NFdQbzVlTWhpRk5ZTU9oR3hnSkhqdjM0REdJT2xKblctTTNYOXQ5LW5XYW1wUTJPYXJrbWJEeDhKTEFxZXpxMHhfTjY1Sl9wRDhHNUs1WQ?oc=5"
-      },
-      {
-        "title": "The region where petrol prices are rising faster than anywhere else - 1News",
-        "source": "1News",
-        "published": "Thu, 24 Sep 2026 18:01:16 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMGJkNUZpTVNRVWVSTmJHSThIUU82UEs3bjA1VW1oVnRraXpJZ0xsdnRzQk9fMlFMV2JlYmE2U1dGUjRvUzI5ZDkycGtBZ2lvYzhXako3blB2eEV3YnYta0tORS1LdmhPSTZsNDhfN2tLV3Vhb0ZHVk5pSzNHX09FRFotWjF1ajZUNW50MEpDRmo2b1FVTXNBVVRlVUhmZVNFRUZFNnh3?oc=5"
       }
     ],
     "global": [
       {
-        "title": "WTI Crude Oil Price Forecast: Bullish Reversal Tests Key Resistance - FXEmpire",
-        "source": "FXEmpire",
-        "published": "Fri, 02 Oct 2026 02:25:03 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUmZITWlYZ2E2YVd3RnlaZ0ZJQVJvZjgzM3FFeDBxVmFncXhuc0haNmViT29RUVotT2tucU92QVNDM2tMNVdqN3I3N251Tjhna0JxOF9NTUZ5Wm1mMlBWQm9NQXVjSGJIV3JmSE55LWJ6ZHF6QVpUam5pRWZqQThCQkxJLVZ4NlhwZ2RBVkV0WTI4NDZtS2djMXdNMjEtNnlvZmRlWFdhZ2k5SnBVRU5QMUk4LTRjQWpQ?oc=5"
-      },
-      {
-        "title": "Oil prices soar to $103 per barrel again as Middle East supply concerns intensify - The Times of India",
-        "source": "The Times of India",
-        "published": "Fri, 02 Oct 2026 02:11:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPYW1hRkZoNERnOXN0dHMzSkQ0LVc5eDUtNm1tSUJ5Y1plLW01VUFOLXpLZUVfWVJaUG5XMVp4Q2QwV0hmVldzRUVrTlJDYVp5SmJfWUNnYUFzaFZnOE5CdGhBTVU3M0QtQkZ5ZU9uXzY0RU1pMThENF9XQW82NTNtMGlEYjd2c1Z4WlpTQUxjdzQ4WUlUTkRpdzEzU0lsRE9VQThZazFYYWRKUjdaelVfTXlFdEV3ZzRUZUpjb1YycW4zVXUtOTVTSE93VDNmSkpoblpFRThqMTAxMXJKNm1PYnpUUVBSeGZrMVVXNDc3Smc0dDRsZFRnTHNHQnJpbmdwSDExatIBigJBVV95cUxPTnB1UTdLSGR2Zm5kcUs4Y1FiWGVwWGZrQW9idTVhdFdUN2NtZU1JWF9NLVBtNGtFOXhJVVFiakpUNTFiclc3d013QXF0c1Z6ek5FekQxVzJUTGRzNmJaVERPVGF0UVVlTHJ1bjFUSFpKYk9ITDcyZlhVdklHYmIzTGRMeGNKZk9WeTByQ3FvOHQ1MGhWcmxDUUVXVFlMM0JuamllaGJPWGZHc2trUDdlNmZNX0tvSS1pMlhIcy04SWx2NWZSS1ZMbWFwTC0weVo2M2dQc19YeVN0YURFXzhKN0w2ZEFuZF9rNXB6ZnI3ZlhkQUJEc1psUXAyeG5vOThEQnFHYm4wU05QQQ?oc=5"
-      },
-      {
-        "title": "5 Energy ETFs That Have Soared in 2026 - oilprice.com",
-        "source": "oilprice.com",
-        "published": "Fri, 02 Oct 2026 00:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRXhKZ0tMeHBGVXltVG5hbzZvRVNBbVVZaWhzQ1B2emNscnpxWkVTalVSaUtwRnJ1SFUtTFhUQnk4ZlJlVlpLUi02YkNaVDd1ZS1OVDU3QmozOHhPTkZsMlZFamY1Nk9aQWxiUzB0QTY4ZXF0RTdyZkxhUDRyRzFsMDdVNEVMVjhjcEsyQXlZd9IBlAFBVV95cUxQLXh2S0pNdkVvNzlLc0lNX1NZd050RmpUejlMNnJZTjl0S3JKTnM2NEZZSldSczZRVmpDRDFyMEpsREF3NlN1TWg5b2dObGozdEJMTXJ6aVpTeW1IRkg4M0xUWm13Mkp3bE1DYXFSYVFnbGUyTnY2Z3ZiSzF3WjhpUTJsX0F5XzJfRHNDLV9XUDZSeHl3?oc=5"
-      },
-      {
-        "title": "U.S. Pressure Campaign Leaves Iranian Tankers Stranded in Asian Waters - WSJ",
+        "title": "Oil Prices Fall as Middle East Crude Exports Recover But Shipping Risks Remain - WSJ",
         "source": "WSJ",
-        "published": "Thu, 01 Oct 2026 23:24:44 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcTYtME5MY1VOMUROV2FaaG9ySXVlQ3NoZE80a0o2VXVNVGtYaWFJbGFTY1d1Qi1tVHlQaGJLQXBkMFRIano1SjE1TWh6d2lRUHNyRUo5QWpUQWdzYW1EOTA3UVVnakZRWUdXWXpPOGtnZjNncTFxQTJiamNmZm93SUpIbTBTT2pZT3doRk0tLV85WkR4SGRkZmdWaE5sUVJIc1dmZl90Y09TS3ZpUUE?oc=5"
+        "published": "Fri, 02 Oct 2026 08:45:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdnBHZHk3blRobW1RR1dhMnZOcjBhNHhXN3ZWZHdpMVpkTHRiU1dSN1c0TjVEUWxPVDFacG84LXc5aDEwQkNhWF9JUjVZTTNaTG5Rb3JBNUVoa1ZvVjhEajBxdlBVTWYzTXl2X1I2TGllakdEQkNNcGt1UzZDaUZnbkprMENuVkpZMWlfYmhCUDI1bjhEc291U25Mc0R0TFpzVlQzMkZOZGVZTldLUWFHMVJ5VGN6RG1Jal9qNXF1MHZ3QzUwc2c?oc=5"
       },
       {
-        "title": "Goldman Says US-Iran Escalation Could Slow Recovery in Gulf Oil Supplies - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Thu, 01 Oct 2026 22:44:35 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQmFVeC1mcDVCUkwxSExCWTh0RkpoSzB6dHYyRlp0ckxNMHhGQnFvdGtxaXFWQmFvaTh3U0V6Y1pyVVN0SDk0REI0U25DLS1zWGM5a1Nkd0x2XzE2S0s0OXNjNFdsOS14bEt5d2ItcmE3WlE2T05FTE9jb2lEcTl1cWhtdlA0QXBCelU1dXQxdnU1NUQwUV9RcGNVYzdBTFVrTnBVQnh3?oc=5"
+        "title": "Oil prices stable amid mixed supply signals from the Middle East - thenationalnews.com",
+        "source": "thenationalnews.com",
+        "published": "Fri, 02 Oct 2026 08:00:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZHlBamJIdFZNa0VsUV95V3lxc2VKTTEyTmg4U05VS0lUTjc3TnBCdDZrWUlhQm1CVnVkckprNzJ3cXptUy1LcUYwd1FwYzB1Wm8yTW1HeVZIZWxHbGtYV2dMZ1pZeGZ0TkhqU2Rzdm9Ganh0dUZSYlZBWmdRcmFrR2hZQm5keDNLdlM2Q1pWbzFNTUIyY2hVMVlHQzZydFJNNmtZVUIwTVk1Vm9UdkVONjJXbzJJdEFIRTRmeDZwTWViUQ?oc=5"
       },
       {
-        "title": "US futures mixed with Brent crude bouncing back above $100 a barrel and bond yields soaring - ABC News - Breaking News, Latest News and Videos",
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "published": "Thu, 01 Oct 2026 22:00:33 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQURVSkpXZjYzT2t4SWpXOUpSWmVUS0JqTGFuRmVLZlFOWWl4QjYzY3hDUEI5bEJORjFtc3czRHR0YlpPMnotS19taWt5c2o3RTV1LUJqZG13SGEzRGJEb2ZSeFN3Ml9qaTlzRVJTZDd5anhyR2d0X0F5UzJuOUl0dDhWT25OekdPUm9pdGNjWFFtOXlQa2ZodnRnRW1mZU3SAaQBQVVfeXFMUHpibjI0OE5jQ0lLTHlCSkF6cHlPZWkzZFZxbzN1LWo4X1lTZWJ3ZWNtREo1b3ViSTNFcFFadTluUG9LWmI2Ung0YkY3WExSaVJleldmLWJybFJrQ25QcDFfWW9qb2JsQ3pqMENKd1RrcXZNR0xTWTE0aEhaWGdnQTdMX0h2VlExazlFazl5M1NuVi1MU2NRb1phcjFxMXljcVR0NHE?oc=5"
+        "title": "The Commodities Feed: Oil falls as Middle East supply fears ease - ING Think",
+        "source": "ING Think",
+        "published": "Fri, 02 Oct 2026 07:57:07 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTURHb3ZvaEJ6eUpMcmM2ZUxJeHZJWG9Qa0plNl92MUlPZWhvSnBZTWl5Q2tfN25KcXk5Q1Q3SmdScHRtSDhLOTZoX05VVV9PSlotYmZqU1I4X2kzSG9walZqYjdyb3FfenVWT2dHTDRVbHc0Ym9kTmwyeGJMeEF2QWV1RWM3b0xWbXB6VU10QUFhV2RMUXU4bzVrNA?oc=5"
       },
       {
-        "title": "Venezuela's Oil Exports Drop 9% as Freight Costs Bite - oilprice.com",
-        "source": "oilprice.com",
-        "published": "Thu, 01 Oct 2026 21:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOblpoZTdOZk5LNHBxdFlvQU8td0NaUWZubktpR1A2SWpOX0lhREFzM0FqUXlKX3p5cnJEWHFDbm1sOF8wZ1ZNNUZnMllXYWh2N19DNG9tZWJUVy13RlY2cHlqYS1WUWpvWUpOeWtMRlNGUkRvajY3RHJ2LWV2b25wQWRmNVFzMkJqOEZhZW5Yd0xhTG5IbnJVREVR0gGfAUFVX3lxTE9mZzFFcXBEU2t0ckxhM2FvV0xEWUE0ODlKXzk3SWo5djBnQWNESU1TYkwtbXhKd3N1U0xjbVZ4Zk1pYkg1LXdTUE0tZDd6VGk3YUV0OUFfR2w2b002a3o3WENKeDB5ZEF6MFNQbXNMSm52Z0t4SUtMRDJjdzRSVVFweUdfRTB4Sk5ZVS1PWUJTdnZoTGZkdmFsVFNaY1h2VQ?oc=5"
+        "title": "Oil dips as traders weigh U.S.-Iran tensions against supply recovery - Investing.com",
+        "source": "Investing.com",
+        "published": "Fri, 02 Oct 2026 07:23:13 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVFFPcm5SRmlrMG9JWUp5c0xCNmhpZlNkMVR6RUwzY3N6ckpjdWhQSHRIb0d1TGo3d292empuTzhOZVlnOFhaQUNtN1NZRFhRa3pkVzlkblhodkdYNDQzVkhiRS1BdTE1RUpOcklSQ3VNeWJmOUVHUXZYMW4tT25rMXFCQVgySnJRdmJxdlJ1SnU3QXg1UDB6ckFfcnZrT01IV3Z0OFNGU1ZndEd6X2JUTk16cnh6dWZNVUNJ?oc=5"
       },
       {
-        "title": "China Halts October Fuel Exports as Global Diesel Crunch Deepens - oilprice.com",
-        "source": "oilprice.com",
-        "published": "Thu, 01 Oct 2026 20:40:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUnJ0N2drNXc5bzBLc0c5UGEtSHdYeVhDYjJHa1h3WEtwT1hfNHpXZHhabDlXSWpMSmJBTS1Jb2w0a2ZVVXpUV04tWHBMSFYyWXJLb0RMV1BnOEJtU3FoLTZodGlJN3BaczdVTkFBbWRjc1JHaGxwcWFTWFpFVTU1QUYwb3YxNFMyNTRoSWVQWlU4Z1R2SFhBVG5IVWNpcU95ZGRXT0huRVlVempwVXJaaTJzRWxKNFdfWlVSNdIBwgFBVV95cUxPQWM2ekY0VnNiMlF5eHpLNjQ5NHB6YnVmTDA0eGZucjB1S3NJUjBFREUwcGJhN1dvNmZfM1Q2Tzk3WnhCY21tNnFCbHBHaldfTGMxaHpWQnNnaWVRX0tPd1FTSWhHVjYxWjRQNS1BRkJ5M1FnS2ZZaFZocGxrNmJQMjBjZkNId0dWMGZVeGctb3dzVzdBVmNJTFFPelNwMXB3YndvNF92NElNZWU5Z0hHM2dNejY4Y2ttNVBFWU1qV3RKUQ?oc=5"
+        "title": "ConocoPhillips Signs 20-Year LNG Deal With Venture Global - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Fri, 02 Oct 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdHFHa2JiRURTTjBRdEVfWGNhOXExOWxYTlZNWGZEVTY0QUV4S2lQdm1RcHJtbktxOHhyNFVyUW1IYmVqbWVPeGFiWk0tSG5YU0lFM3UxOHRYU2MwSHI2M18xU3g1ZVhZVkZBdm43MkltSjdiRkI2dmw0T2xtcUFUcWtHSTZwbkRpSTcyVW5maTVNVVpvSTlOZGo5czVhanYzYTdTUXJzX0VNV3h4b3Q0Y3VsUdIBuAFBVV95cUxPRm9fR0t6YWdoRkpmWERUeDJISkdKMHZwRHdocVZsNGszbXA3SUlSaWJ6ODQyMzZuMEZwaWZXVmdjT003aFVtRVdrZi1PT2RLWkdGZERlSUZJZVNIRFBZT3NDSThsTXJwbWU1SElhOTVIRkJEQ0VyZTMwczJqREI3Ty1GN1k1MFh5UnJiZTFsemZyWG1ERzhuS25FLUg5My1nLUZfVWlieGJyWHJ6cmpaWXRHM09LVUoz?oc=5"
+      },
+      {
+        "title": "Oil retreats as market weighs mixed supply signals - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "published": "Fri, 02 Oct 2026 06:40:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOXpYZTJja0psbGRJRU5abXZNZkotREVPN2VKY2lEb2VRaHR0dGZVZ0dKdXFVYnFtc29aa1RRdTN2bEtBUEdxd0MwZkJEeDRiNjlzUURWSHZzTjFKZ2tSM0dqb2NEVGI2QkctaWE1WHpoMUpDb0Y2UlhFUmFFbGc2SXh1UTZ1ZFVXRTV2UHlVUjdNWDQ?oc=5"
+      },
+      {
+        "title": "U.S. Treasury Expands Sanctions on Iran’s Industrial Lifelines and Shadow Banking Network - irannewsupdate.com",
+        "source": "irannewsupdate.com",
+        "published": "Fri, 02 Oct 2026 05:23:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdUljLXJOSVN1aHhxUFdSNDA0TGpIU05JbWZZeG8yYTlCLXloZ19IaEpfSG5sejcwaC11VFJXeXR1V2FTLTlEbTF2SU5YQjJqQmpZZkVCNVgxeEt2RXZ3S1hiT1hXNWdLY0loMmhUektoMXlfNkJaZEF3Nl9DMXFXUl9ybmxwYkRrbUFDT2l3V1VWQVUtTWdfS3JxRlQtOE5wbXNPZjgxWnlhdUdUaTZsRU1iamJSZ2h2RnJaX2RmMVdRZ1JTbGw1c1pR0gHKAUFVX3lxTE91SWMtck5JU3VoeHFQV1I0MDRMakhTTkltZll4bzJhOUIteWhnX0hoSl9Ibmx6NzBoLXVUUld5dHVXYVMtOURtMXZJTlhCMmpCallmRUI1WDF4S3ZFdndLWGJPWFc1Z0tjSWgyaFR6S2gxeV82QlpkQXc2X0MxcVdSX3JubHBiRGttQUNPaXdXVVZBVS1NZ19LcnFGVC04TnBtc09mODFaeWF1R1RpNmxFTWJqYlJnaHZGclpfZGYxV1FnUlNsbDVzWlE?oc=5"
+      },
+      {
+        "title": "Brent Holds Above $102 as Gulf Export Rebound Offsets U.S. Military Moves - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Fri, 02 Oct 2026 05:06:59 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaEVPMFVqSGFlQWx5RngxUzNXX1JHbHlycGJMRHdFT0tvTzNrWGFRRDBuX3FrMDB5UjNaemVUT3E5c1pKRnotdUhXSEwtcjU0ajZVOFJ1Y0tCOWlkVzFnVkhQSTEweDRsS0duT29pNlg2am1sSDItbnl3bGlJSERHcGg4bS1CQmhqdWVRdTh5bXVQSXZEZ1l1RHBXbURVNHFnQ0ktOGpreEFuVHdHRTRkUV9NZFdqRE1pNEZIOHhER3hxaVJP0gHKAUFVX3lxTE90SkZhYUVuM0djeXBlaG55RGwzcHMzajRRdkdBQVZmUmtaMWVMclpJS0thYzZBblY4eTFmZjl5Y202c0ZRNHBsYlVYXzF2YlJ5SHlfU3Exa0hJbzlUbVZNRVF4RTVhcVE0OU51dWwyQnFKWUJGRVUyX1NHRVpmT3Bxd3pwQ2hOQUJIRVZUNHRmb285T29namZDTTNnN1FtRk1MRUZJdGRnX2Z4TlpjR2c2QVhtb2VqaUNKdFZMTjZLSGlxM3Y4UWF0NXc?oc=5"
       }
     ]
   }
