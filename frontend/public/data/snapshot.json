@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-10-03T18:39:05+00:00",
+  "generated_at": "2026-10-03T20:39:26+00:00",
   "fx": {
-    "nzd_per_usd": 1.784419,
-    "as_of": "Fri, 02 Oct 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.781371,
+    "as_of": "Sat, 03 Oct 2026 00:02:32 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 102.7,
+      "latest": 102.25,
       "latest_date": "2026-10-02",
-      "delta_1d_pct": 0.38,
-      "delta_30d_pct": 9.51,
+      "delta_1d_pct": -0.06,
+      "delta_30d_pct": 9.03,
       "series": [
-        {
-          "date": "2025-10-02",
-          "usd": 64.11
-        },
         {
           "date": "2025-10-03",
           "usd": 64.53
@@ -1017,20 +1013,16 @@
         },
         {
           "date": "2026-10-02",
-          "usd": 102.7
+          "usd": 102.25
         }
       ]
     },
     "wti": {
-      "latest": 91.26,
+      "latest": 91.11,
       "latest_date": "2026-10-02",
-      "delta_1d_pct": -1.73,
-      "delta_30d_pct": 3.91,
+      "delta_1d_pct": -1.9,
+      "delta_30d_pct": 3.73,
       "series": [
-        {
-          "date": "2025-10-02",
-          "usd": 60.48
-        },
         {
           "date": "2025-10-03",
           "usd": 60.88
@@ -2033,46 +2025,46 @@
         },
         {
           "date": "2026-10-02",
-          "usd": 91.26
+          "usd": 91.11
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-10-02",
+    "as_of": "2026-10-03",
     "regular_91": {
-      "avg": 3.474,
+      "avg": 3.489,
       "min": 3.21,
-      "max": 3.709,
-      "count": 66
+      "max": 3.749,
+      "count": 70
     },
     "premium_95": {
-      "avg": 3.646,
+      "avg": 3.694,
       "min": 3.216,
-      "max": 3.839,
-      "count": 35
+      "max": 4.099,
+      "count": 44
     },
     "premium_98": {
-      "avg": 3.836,
+      "avg": 3.79,
       "min": 3.656,
-      "max": 3.989,
-      "count": 10
+      "max": 3.899,
+      "count": 8
     },
     "diesel": {
-      "avg": 3.208,
+      "avg": 3.22,
       "min": 2.886,
-      "max": 3.417,
-      "count": 72
+      "max": 3.399,
+      "count": 77
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 4.7,
+      "min": 4.7,
+      "max": 4.7,
+      "count": 1
     },
-    "observations_today": 138,
-    "observations_yesterday": 37,
-    "observations_older": 0
+    "observations_today": 42,
+    "observations_yesterday": 113,
+    "observations_older": 37
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8632,16 +8624,16 @@
     ],
     "global": [
       {
+        "title": "G7 to release 100 million barrels of oil and diesel, will it curb prices? - Al Jazeera",
+        "source": "Al Jazeera",
+        "published": "Sat, 03 Oct 2026 17:17:57 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWE16VFQ0OUl3bzdndnJJWThfVk44RkJpSW5DVnNhVlpvUEVXRERibG9uY1JHRjJfUDd3NWJjN1RKSjl5UWlzN0dfLTFOY1hWQTJRZm9YUDhOMlJldWNJbzdYRVgzUDFud3RCVzJURDU3bnNHZEpWaWNudGFZcXpfa004eTFPY1d0dkJ1TWZadWJyT29pd3M5UktYX3AyX2RydkJxZUxNak40b2t0YU9XdEVR0gG3AUFVX3lxTE5SbFhyWHIxSVZyTDJxQkQzeUo5VWRJYlBvN0ptQ0stVXNTN1lNbXh1X2xRMUVTWDl6akZEYlZYcmRWdFdIbWROQVBOX0hPc1NjRDFyM1hBYlloTXNtb2xocWZXWnA4SWNxTVNCVno3N042V3V1U195bjU4cWlZSWx6SGJXQ1Y1UlFtX0RSaEZ0T0UxemhCTzgwS0VuWUF2bkhldEt5UkRZZVJ6VWsxaTBRNGJScVNQdw?oc=5"
+      },
+      {
         "title": "Bessent Says Iran to Have ‘No Oil on the Water’ as US Pressure Intensifies - کوردستان 24",
         "source": "کوردستان 24",
         "published": "Sat, 03 Oct 2026 14:45:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVVVKcVBPZU5Ea3NaRjl6bW9sY280d2lRYVU0cmgwcUJ5RF9zZW8zTkowajlwazQ4RWRoMk8tVGNaV05paUFpamlaMHVGMDdfR0pSdlJXZDZ1eUg0UGxtUFhrTzhlMDV2MHVwaWt0V2p4QjNEaWJPV1hiOTJXYzhoV0NnX09BdldKSGpyZzRqVWhiY3NpNzRwUzBuUGcyWVUtc21wOU9weGIyTTFLQUJscGdXY3ZLY0E?oc=5"
-      },
-      {
-        "title": "G7 to release 100 million barrels of oil and diesel, will it curb prices? - Al Jazeera",
-        "source": "Al Jazeera",
-        "published": "Sat, 03 Oct 2026 14:39:03 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWE16VFQ0OUl3bzdndnJJWThfVk44RkJpSW5DVnNhVlpvUEVXRERibG9uY1JHRjJfUDd3NWJjN1RKSjl5UWlzN0dfLTFOY1hWQTJRZm9YUDhOMlJldWNJbzdYRVgzUDFud3RCVzJURDU3bnNHZEpWaWNudGFZcXpfa004eTFPY1d0dkJ1TWZadWJyT29pd3M5UktYX3AyX2RydkJxZUxNak40b2t0YU9XdEVR0gG3AUFVX3lxTE5SbFhyWHIxSVZyTDJxQkQzeUo5VWRJYlBvN0ptQ0stVXNTN1lNbXh1X2xRMUVTWDl6akZEYlZYcmRWdFdIbWROQVBOX0hPc1NjRDFyM1hBYlloTXNtb2xocWZXWnA4SWNxTVNCVno3N042V3V1U195bjU4cWlZSWx6SGJXQ1Y1UlFtX0RSaEZ0T0UxemhCTzgwS0VuWUF2bkhldEt5UkRZZVJ6VWsxaTBRNGJScVNQdw?oc=5"
       },
       {
         "title": "US Treasury Secretary: Iran Will Have No Oil Shipments at Sea This Week - صوت الإمارات",
@@ -8650,22 +8642,10 @@
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX3pMZmVkSkliYUI3b1psZjNQREIycmhFbWdDeWoza3c1M3hmbGhRbHlvMmNvTmw4UFl1a0k1dU1KRjdiU3J3SFNEWGdtREdlX1ROZ3VsOWRiM0dqWVBNdVE1NDl3UkdJbGFBdXBQRmk1X0xjWEs5eS14ZkNkbjBFc09EWnBnSG00S1JTSzFqVlVjQ204X0h3bURFY3QtcHBBMHEtVEZWVGpJclZtSm1Qbk4wNlUwNkhDNHBsN0JObw?oc=5"
       },
       {
-        "title": "China Resumes Curbs on Fuel Exports, Tightening Global Energy Markets - The New York Times",
-        "source": "The New York Times",
-        "published": "Sat, 03 Oct 2026 12:47:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMG9mN3BIeUw3clNoaTdsYkpwdUt2YmM2QmU0aE9Nem0zTXFkUE82ZGJMSG9wRmx4N0J5Y3BlMEktMzEwLUlxTmpZRmlZRG5qVkRzbUZHaDh1YVU3TFltNFZXZEs5NjE2Z0UtSEYwQ2swR0diRTkxYjBCZF96NXlrLXhB?oc=5"
-      },
-      {
-        "title": "The United States Must Close the Caspian to Iran and Russia’s Sanctions-Busting Trade - Middle East Forum",
-        "source": "Middle East Forum",
-        "published": "Sat, 03 Oct 2026 11:31:12 GMT",
+        "title": "The United States Must Close the Caspian to Iran and Russia’s Sanctions-Busting Trade - meforum.org",
+        "source": "meforum.org",
+        "published": "Sat, 03 Oct 2026 12:08:36 GMT",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSjR1cTltdVRmRThsX3FlTDI4TnV0QWw0Q2RudFY1cUo4OTBoWGxJa2U2eWNRSEFlZTEtMHB1bkI4MzhvY19ZZG8wSnpKTGpPX2NQdi1ReUM0VHc5OGJrZl9kUXhBVmtHeENILXNtRVllZ3NVckhUeHNNdXVxM2pPVHBuWk5KOFdkZmZwUDY3WV9QT08xYVJTQldYckhJWEVwMEpJT1pxWi1fUV9yQ1A0YWRyVjBEMl9QTkdsdklR?oc=5"
-      },
-      {
-        "title": "Oil Prices Ease 4% In 5 Days, Brent Hovers Below $100 - MarketForces Africa",
-        "source": "MarketForces Africa",
-        "published": "Sat, 03 Oct 2026 08:44:13 GMT",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSnNycVFBTmJpOTV6TXBEdmltcTdxUFpyb3VDY2NDclhLQTdoRXVJVWlVTk45RzlFV281R2JIOU15SXpORDF3MXZ5YTNycVJXejZLZE5iaFZuQVV5RkpPMkE4Z2QtM1hVOEcxSURaU0FTQ0s5NVVuOUkxeVhlbnpjcFZrcw?oc=5"
       },
       {
         "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat - BBC",
@@ -8678,6 +8658,18 @@
         "source": "IndexBox",
         "published": "Sat, 03 Oct 2026 04:30:33 GMT",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHNBeDlkdUJwNlFPZlhmamp5V3ZzbUJ0ckE2TU5nMDdVQ3NoZ2tDUk5vRjZZeGkyek1iSlJNY09tN2RJb3VxS3V0WGdzaHJEWjVsbjlRR1ZGOVNURVYzOU9ueXg5VTczdnlsQXVBVmVzNU92WXZITmlEMGIzN2tJTVUxaFRRbnpDb1FDcw?oc=5"
+      },
+      {
+        "title": "Brent Crude Is Now Trading Above $100. What Does That Mean For the Crypto Market? - The Motley Fool",
+        "source": "The Motley Fool",
+        "published": "Sat, 03 Oct 2026 01:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZy1GNWFZSktaVGRiOFo5N2oxNWEzU0hyZ3N5SElCcDlZMU9ScVBLZ2JEYTBVNHNJTG5zSXduNGU1ZHVFQ0dEcDdiakFZT0RwRUtwZ1h5WkdlRE02eTRIS0Y4UjU1U2QtUmxBdUlBMkxfUWNpRjMzeUVCZzdwYjRZcGIzTnc4bElaQW1SN2VqanR4OFJqV0lrYg?oc=5"
+      },
+      {
+        "title": "WTI Crude Oil futures recover from one-month lows. - CME Group",
+        "source": "CME Group",
+        "published": "Fri, 02 Oct 2026 23:29:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNUlWRkRDX3c3YjdFZ3VqRWRLMkR2TXVmckNmNWluRGtrcFJrWmVseUlUdHVqbjVhYnVhLXpudGNTd1lVUmpMNVFfcE4xQWtzVDhwQ0dGZFo5WExaQzVxT1d5ekFaWERiRFBqbUFxazhlNm5ITENRSm1BUDhXeHFETGNFaGRPalR6MmVhd25LRDdHZ2ZCN3k3MlhIeEsxdnBzNFBMVzJGQng?oc=5"
       }
     ]
   }
