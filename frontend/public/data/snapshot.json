@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T20:16:55+00:00",
+  "generated_at": "2026-10-04T20:55:10+00:00",
   "fx": {
-    "nzd_per_usd": 1.781371,
-    "as_of": "Sat, 03 Oct 2026 00:02:32 +0000"
+    "nzd_per_usd": 1.781468,
+    "as_of": "Sun, 04 Oct 2026 00:02:32 +0000"
   },
   "crude": {
     "brent": {
@@ -11,10 +11,6 @@
       "delta_1d_pct": -0.06,
       "delta_30d_pct": 9.03,
       "series": [
-        {
-          "date": "2025-10-03",
-          "usd": 64.53
-        },
         {
           "date": "2025-10-06",
           "usd": 65.47
@@ -1024,10 +1020,6 @@
       "delta_30d_pct": 3.73,
       "series": [
         {
-          "date": "2025-10-03",
-          "usd": 60.88
-        },
-        {
           "date": "2025-10-06",
           "usd": 61.69
         },
@@ -2031,39 +2023,39 @@
     }
   },
   "nz_retail": {
-    "as_of": "2026-10-03",
+    "as_of": "2026-10-04",
     "regular_91": {
-      "avg": 3.489,
+      "avg": 3.493,
       "min": 3.21,
-      "max": 3.749,
+      "max": 3.67,
       "count": 70
     },
     "premium_95": {
-      "avg": 3.694,
+      "avg": 3.655,
       "min": 3.216,
-      "max": 4.099,
-      "count": 44
+      "max": 3.869,
+      "count": 34
     },
     "premium_98": {
-      "avg": 3.79,
+      "avg": 3.809,
       "min": 3.656,
-      "max": 3.899,
-      "count": 8
+      "max": 3.879,
+      "count": 7
     },
     "diesel": {
-      "avg": 3.22,
+      "avg": 3.225,
       "min": 2.886,
-      "max": 3.399,
-      "count": 77
+      "max": 3.66,
+      "count": 82
     },
     "lpg": {
-      "avg": 4.7,
-      "min": 4.7,
-      "max": 4.7,
-      "count": 1
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 42,
-    "observations_yesterday": 113,
+    "observations_today": 148,
+    "observations_yesterday": 0,
     "observations_older": 37
   },
   "mbie_waterfall": {
@@ -8574,9 +8566,9 @@
   "news": {
     "nz": [
       {
-        "title": "‘Plan for the worst, but hope for the best’: Households to remain under pressure until 2027 - nzherald.co.nz",
-        "source": "nzherald.co.nz",
-        "published": "Sun, 04 Oct 2026 18:47:35 GMT",
+        "title": "‘Plan for the worst, but hope for the best’: Households to remain under pressure until 2027 - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Sun, 04 Oct 2026 20:00:19 GMT",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNa0Z0S2JPNDJKb1V4T0NIMmJXV00zOFJCU1ZxV0E5eFVSMmNRU004eTBLamZvZVVKX0dDeXRYTVNpWWs5WHhFVVJtcnkxUnRveTZlNmo4dnZMcjJLVDJCbkNxMzJLcUF3TDVublA2ODFlRnVNXzB0VHBia3B5N1dtSkFtdEt0QnRDR0RYeW9SaVNMbmwxNXE2RVZqSjRwcG5BZTlMdUVDMDZXcmdXNHdUVkdyNEJKaXQ4TDZmQlZINGdOaXhPMnR0RXNUTXhfVURUZXBqLS1qVl80NzRSOVJNUndrU0M0TXVUaXZ3NFBRalI?oc=5"
       },
       {
@@ -8592,8 +8584,8 @@
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTC0yaVo4U2xlb1QzQTMyZVVTOGV6MDljb2J4TzZfWGduZXI5MGk0YVpBMG5nUWNmMVo3eXFFRGZXZFN5QjhXWkxreEFSQW4xQWZjXzJfVk9tNG41Z2dLMFRiWXBsWHpOdVB2SmdjM0M3T3V0Z09QTTFNS3djQ2lHb0lmaDY3TnQ1Sk5tYXpwTmR0NFRiYTZRN2UwV3JEaUFZenpvTzZ3U0kwSWJMM2JvcQ?oc=5"
       },
       {
-        "title": "NZ fuel supplies secure but 'less room for error', Z Energy warns - RNZ",
-        "source": "RNZ",
+        "title": "NZ fuel supplies secure but 'less room for error', Z Energy warns - rnz.co.nz",
+        "source": "rnz.co.nz",
         "published": "Fri, 02 Oct 2026 03:35:15 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOHpLVnA4TlFna05Wa0VwTVRqb0xZOUNyYl9naW1EUFduSHprWmE2TUZRenVFbVE3OGdBVlhUU1gyT1ZKU2xWdG1jc1hiOFN2ZVBlLW1FUHdjejc3UDkxT19XMXBmbzB1QmNUU3VpUG5WcnJxVXFnTV9zbEx5R0JkWHluY0UxVFk3cG9hZEhJS2Jad2JCVmw5SnRnZUtTR09lb1VDTUdaLTlDUQ?oc=5"
       },
@@ -8604,14 +8596,14 @@
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb1VEOTV2SnhaNW9YOFZSRHhfM1l0NEYxdGFoSDNYSktMQUp0WTQ2UDVrQ2ltYlFEMUw1N1ZCVGJtdHFPWWcwcmpYbk44eE5HTVRrLWRhTFc2VDdKOUpzTlhGVmpHa2ljYlpISFVRcFNlaFEyTzdFS09fdnRSQVhUSHg5OTZhZzFSS3VrZ3ZMUFZfWWtPUnFKbWpPYjJoYjFIbVRiVHV6RWdDWTg?oc=5"
       },
       {
-        "title": "Latest fuel price surge dents business confidence - ANZ survey - nzherald.co.nz",
-        "source": "nzherald.co.nz",
+        "title": "Latest fuel price surge dents business confidence - ANZ survey - NZ Herald",
+        "source": "NZ Herald",
         "published": "Wed, 30 Sep 2026 05:14:46 GMT",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd2x6bWdGeE5fS0I5dnlMc1JTYkpUS01Fd0hsUjVEaVc2QUdEUGFIVDh3ZmpUby04ZXFjRWMwM01Ib29iQzR2bVhmYkxIZlhRV2M3WUM1WHdhbE9kWUZPSTFVbUFYNThqRGhlT3RfdloyUlhIdFljZGJSYjlKYldwWXdzanNoa3RTMEtBZVBGdDQzSHpDVW5zY3RwR1Z6eUNQSm4yNVZ5RG56QmRKbU9kOVhXMmM0bzdESWdfRnFKc3ZTNnVUWmtfVThITEl6QQ?oc=5"
       },
       {
-        "title": "Rising diesel price could make rest of year more expensive for households - RNZ",
-        "source": "RNZ",
+        "title": "Rising diesel price could make rest of year more expensive for households - rnz.co.nz",
+        "source": "rnz.co.nz",
         "published": "Tue, 29 Sep 2026 16:44:43 GMT",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTG45aDlXbjBib0ROcDQ4Q1gzM1RWWmF1TXJNNFNqSWgxNGN1d1FaaFJkdU4tcDhGbkp5THAyaERhTUdSci05d2VrcEJoQkxfRXFfcENnNkpaY2toTmtRVDN3SzZ1QXBMSk9EWGRmaUt0QzNYU0pBcExhNWZmTUU5MmpmbVFWT0pHbmpDSG1uYkt5cHNteFAwZzF6akd4ZGdmZzNrZjdQMG1kNTZuSTU4VWZ6S29aS3di?oc=5"
       },
@@ -8624,28 +8616,22 @@
     ],
     "global": [
       {
-        "title": "OPEC, Allies Hold Oil Output Steady Amid Middle East Tensions - WSJ",
-        "source": "WSJ",
-        "published": "Sun, 04 Oct 2026 18:56:15 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYmFlX3pxTllubHhKWkgycEVOdlZ3c2F3TzA5OUU4RmFmWmQ2dWlaY3B1TlFfek85dHhZakt3aFJHZjlEUEJ2Zk9MVldfeTdUVkxoUzN1MU9wUWlUdGhFd3M4T3dNamMxbGprT1A3R3g4UGI0Q2RyU3hrczI0WExYWlpNa3N4RjlNRzFGN0U5d1NPN3p4VlN2R2MzRkc4WXlyV3Z4Z21ZZHVtY3FzYmc?oc=5"
-      },
-      {
         "title": "Iran’s Top Security Official Warns of Dire Economic Crisis - The New York Times",
         "source": "The New York Times",
         "published": "Sun, 04 Oct 2026 18:47:12 GMT",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjTkdNTTJ1N3hoU1ZWVWJaZUdsZk5oMjZhOXBOSC1aSDFvOWRjVU1ET3hncElzUlpRQTJWbXY1bVQ5cTVCWDgyRVZ6a2tpeWFvZFRiNmN6Q1NqSDMzeHU1Yk5UeHJYVUJSU1R1Q0ZRM0MxNjlZRmNON3RjbnV5Tzg?oc=5"
       },
       {
-        "title": "Oil News: Diesel Release Pressures WTI as OPEC+ Shortfall Keeps Brent Firm - FXEmpire",
-        "source": "FXEmpire",
-        "published": "Sun, 04 Oct 2026 17:25:50 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSW1XTG1LSlBuUmVqYjdOMllyeEtpRE03bTFpdHFrT2tfMzVMSHl0T1RKWG5tMDZHLWNjclppMHZpMnVzLV9yLUE5VnMxVE9DVF9zbnh0NDU0STNzeFJRRDlJRGdCYlE2SVM4Y0FENXNQWGhmWjRWM2JRb2RyVkRmeEN1cG9TWFdxcElONUZkYWZTR1hfdHBFLU1ZNGUxUDRoLS1CX2ZoVktGV2haakhzczlJTHFBOWpyajZfS1RMamNzTmJWQUhVaVNiVTVueDFTdnZUWFNxc2Y?oc=5"
-      },
-      {
         "title": "OPEC+ holds output targets steady as Middle East conflict tightens supply - Investing.com",
         "source": "Investing.com",
-        "published": "Sun, 04 Oct 2026 16:24:27 GMT",
+        "published": "Sun, 04 Oct 2026 18:23:40 GMT",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb1dNRTNmdkl1eTFwTzFCc0RCajhVVnA3VzZBS0k1ZW84ZDdGQkxZWlZvRkw3NVhsOUFLU1NPUGd4OHlZVm5kUjFWdzNCVDZpVGhPM0JoaVhtcEJ1ZTBfbFI4ZVJUVWhNbEVoQ21fOWQ2VTdabzlyNHRlZWZER0h6UTk1RUI4MnV4MkZSczVsQzl2am1ZbTQ1S242UzhtQ3ZjMmU1V1NLT3l0Q192eV94cl9iLTgxalY5cWRmbGZyUk85WmZaSDBRUTRzc00yRzhF?oc=5"
+      },
+      {
+        "title": "Oil News: Diesel Release Pressures WTI as OPEC+ Shortfall Keeps Brent Firm - FXEmpire",
+        "source": "FXEmpire",
+        "published": "Sun, 04 Oct 2026 17:30:01 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcnVneldHMnFMVnlCNWV2ZklqV2UwUXNlTThGcWxkc2h0dmVBaUJza0tBcDFiOHhFaW96WHoyR29FcHR5dmJkdllUQWNpM3NkWEk2MWtTWXJfT2tpT1pUOXp3UzB2b2hObGZ1Q1NyeHR0VUFVUEFQUEpNb0pVRnhfOTUzdU5vbmt1RXF0QzN3S0JXLTdjaFFLU213WmpsXzdBOFp0N3otblF3X05ZVUcwNUtMLXpvTFQ4YnlnbXJUNUFtOUVCc20xZExnNXBKc1ZtODNJSUthZ04?oc=5"
       },
       {
         "title": "Private Equity Firms Double Down on Fossil Fuels - Crude Oil Prices Today | OilPrice.com",
@@ -8664,6 +8650,12 @@
         "source": "TradingView",
         "published": "Sun, 04 Oct 2026 12:40:23 GMT",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZk1KSXdKYmpBVXR0OGhKTzJBRkt0aHlERlphSGFhYnRPd2RnYldPVThjN2hLYVVscmk2Y2FtUnB2WUFNLWJFY3o1QUM0N1VaYlZDcGVWMHJvZWN4VjU4VU5PRnRoNk5MeV9NdlVZY3Y2WU1kX1ZHVWNPOGxNMEZNdjYwcW5ZTEcyT0wwbDhzQkFRcTl1ZVdDQTVYVWVCQkNJbGhXUjh4WTB1LWJlSUlPZDRaQk1YZG1DWTBWeGs1bjJrXzJ4d0Jn?oc=5"
+      },
+      {
+        "title": "OPEC, Allies Hold Oil Output Steady Amid Middle East Tensions - WSJ",
+        "source": "WSJ",
+        "published": "Sun, 04 Oct 2026 11:32:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYmFlX3pxTllubHhKWkgycEVOdlZ3c2F3TzA5OUU4RmFmWmQ2dWlaY3B1TlFfek85dHhZakt3aFJHZjlEUEJ2Zk9MVldfeTdUVkxoUzN1MU9wUWlUdGhFd3M4T3dNamMxbGprT1A3R3g4UGI0Q2RyU3hrczI0WExYWlpNa3N4RjlNRzFGN0U5d1NPN3p4VlN2R2MzRkc4WXlyV3Z4Z21ZZHVtY3FzYmc?oc=5"
       },
       {
         "title": "IEA Slashes 2026 Supply Forecast as Hormuz Reopening Remains Elusive - EnergyNow.com",
