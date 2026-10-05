@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-05T18:39:15+00:00",
+  "generated_at": "2026-10-05T23:47:37+00:00",
   "fx": {
-    "nzd_per_usd": 1.781468,
-    "as_of": "Sun, 04 Oct 2026 00:02:32 +0000"
+    "nzd_per_usd": 1.781308,
+    "as_of": "Mon, 05 Oct 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 102.25,
-      "latest_date": "2026-10-02",
-      "delta_1d_pct": -0.06,
-      "delta_30d_pct": 9.03,
+      "latest": 100.21,
+      "latest_date": "2026-10-05",
+      "delta_1d_pct": -2.0,
+      "delta_30d_pct": 6.17,
       "series": [
         {
           "date": "2025-10-06",
@@ -1010,14 +1010,18 @@
         {
           "date": "2026-10-02",
           "usd": 102.25
+        },
+        {
+          "date": "2026-10-05",
+          "usd": 100.21
         }
       ]
     },
     "wti": {
-      "latest": 91.11,
-      "latest_date": "2026-10-02",
-      "delta_1d_pct": -1.9,
-      "delta_30d_pct": 3.73,
+      "latest": 89.18,
+      "latest_date": "2026-10-05",
+      "delta_1d_pct": -2.12,
+      "delta_30d_pct": 2.44,
       "series": [
         {
           "date": "2025-10-06",
@@ -2018,45 +2022,49 @@
         {
           "date": "2026-10-02",
           "usd": 91.11
+        },
+        {
+          "date": "2026-10-05",
+          "usd": 89.18
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-10-04",
+    "as_of": "2026-10-05",
     "regular_91": {
-      "avg": 3.493,
+      "avg": 3.513,
       "min": 3.21,
-      "max": 3.67,
-      "count": 70
+      "max": 3.659,
+      "count": 86
     },
     "premium_95": {
-      "avg": 3.655,
-      "min": 3.216,
-      "max": 3.869,
-      "count": 34
+      "avg": 3.703,
+      "min": 3.366,
+      "max": 3.879,
+      "count": 44
     },
     "premium_98": {
-      "avg": 3.809,
-      "min": 3.656,
-      "max": 3.879,
-      "count": 7
+      "avg": 3.845,
+      "min": 3.756,
+      "max": 3.959,
+      "count": 12
     },
     "diesel": {
-      "avg": 3.225,
-      "min": 2.886,
-      "max": 3.66,
-      "count": 82
+      "avg": 3.234,
+      "min": 2.996,
+      "max": 3.419,
+      "count": 87
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 1.847,
+      "min": 1.847,
+      "max": 1.847,
+      "count": 1
     },
-    "observations_today": 148,
-    "observations_yesterday": 0,
-    "observations_older": 37
+    "observations_today": 196,
+    "observations_yesterday": 26,
+    "observations_older": 0
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8568,30 +8576,36 @@
       {
         "title": "Petrol price hits all-time-high as average litre of 91 tops $3.50 - 1News",
         "source": "1News",
-        "published": "Mon, 05 Oct 2026 17:25:46 GMT",
+        "published": "Mon, 05 Oct 2026 23:26:50 GMT",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV081OVF5QWx6eUJ1aVFfcW5ucTY5ZkE3QjZoOXlKbjNzYjJKYlQwM1Qwc2RSNEJrbWdiVVhtNVBCWFdNV0JpeTFPUnFjMU9OangteUdVRTkwaW5uY2ZMVzJYenN0ampSZV8teThBQi1vVjFqYVp2N0FWekQ1RzV6SExfN3JWTFFSRVdvS0hwak84SmJPOGh4Sk5xdExwQW9P?oc=5"
       },
       {
         "title": "Fuel prices hit highest level since Iran war began - Indian Weekender",
         "source": "Indian Weekender",
-        "published": "Mon, 05 Oct 2026 06:41:17 GMT",
+        "published": "Mon, 05 Oct 2026 21:44:12 GMT",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaGhaRGI3bkRZZlNkdDloMVJqWW41eDh5dzFDZFUxWDZVNlJDcU8yTl9DSHJjbEN2R0M5dWwtTHNNM0dhTnhGTkRvaXY3TGt1bHVfVDRfVTRyTmxnRERXZndBbXdRQUExRUIxSGpFVndYMVZ4OWlzVlMxVkxRSXRHWjd3MHNhYzVoVWp1NGU3aHNIRzTSAaMBQVVfeXFMT2F4OFBOVm1mRWlYM3ZtSzF2eWVuWklIXzlFZ256d2dmWHZ6Q3c5M2V1YlhzTXhjaERvU1VzRUxXUzdiWDBoZmRQNGkxalpOaV8zVVJuQ01jalJRTW1nYXBocTltMmkxUzRORzh0bkRSQ1lQa2NRel9LT25Hbk9JNjR3OWdRbjAzNU0wYmhrTGtjWldxVHZ2Z0dodndkYWZzSGcwWQ?oc=5"
       },
       {
-        "title": "Fuel prices reach highest point since start of Iran war - stuff.co.nz",
-        "source": "stuff.co.nz",
+        "title": "New Zealand Firms Turn More Upbeat Despite Higher Fuel Costs - Finimize",
+        "source": "Finimize",
+        "published": "Mon, 05 Oct 2026 21:01:39 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQU9WZDNTQ1MwUXpHYjZSQWZrYkpVeE50MC1HblZoVG1GVXdROVNOVWszMTlDeGNCWUE0eFZReFJZZUkzcG5BR1JwcFNfcThvVzJBUjhWNDBxbWs1a1B6bENmNm1kTVFObXczb2VsZ2cwa2xwWTVMQ2xQeW53amxNMGJzLTRjVXdtejA0QVQyUzVrU2s?oc=5"
+      },
+      {
+        "title": "Fuel prices reach highest point since start of Iran war - Stuff",
+        "source": "Stuff",
         "published": "Mon, 05 Oct 2026 05:29:51 GMT",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYnFROVNKSk9hT2p0RFlBVWVTWEVmS1J3U0NXeUhtVlk1QUpOOTF1T3ptUmhPOGpyQU0tLVotWW82Q1UwM1JfVHhRT2ZzZVNJcVJaWnBQQUlWTjUtWnRVaDVCZEF3ZWk1ZHV0MUJrQXZ6SUJ6Z0tURzVldENvWTcyU3A3QUhvRTNUdUhlRXhOVHhJdw?oc=5"
       },
       {
-        "title": "New Zealand electric car registrations triple as petrol tops $3 a litre - newswire.co.nz",
-        "source": "newswire.co.nz",
-        "published": "Fri, 02 Oct 2026 19:20:56 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLWh2YnVjcGRMNUNPUGZRMmVEVnJ5RzZsMWpYdjBiaUpXMTlaZ1E5RjB0ekdTenFlWEhrcjc5a2sxd0diWUs0SkptSnpJNm5tdHc1VUVtUmhOUk5YWmsxdjZQYmZXRzItZWcwTmpBaDNQd3RtOTZOU1llWnFVLWpvVmVrSHExdUhJbnNEcGRIbnVhVG5VMThCTG1tNGQ4dUdWenc?oc=5"
+        "title": "‘Plan for the worst, but hope for the best’: Households to remain under pressure until 2027 - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Sun, 04 Oct 2026 16:04:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNa0Z0S2JPNDJKb1V4T0NIMmJXV00zOFJCU1ZxV0E5eFVSMmNRU004eTBLamZvZVVKX0dDeXRYTVNpWWs5WHhFVVJtcnkxUnRveTZlNmo4dnZMcjJLVDJCbkNxMzJLcUF3TDVublA2ODFlRnVNXzB0VHBia3B5N1dtSkFtdEt0QnRDR0RYeW9SaVNMbmwxNXE2RVZqSjRwcG5BZTlMdUVDMDZXcmdXNHdUVkdyNEJKaXQ4TDZmQlZINGdOaXhPMnR0RXNUTXhfVURUZXBqLS1qVl80NzRSOVJNUndrU0M0TXVUaXZ3NFBRalI?oc=5"
       },
       {
-        "title": "The global shockwaves locking in high prices – and why Wellington can't fix the cause - stuff.co.nz",
-        "source": "stuff.co.nz",
+        "title": "The global shockwaves locking in high prices – and why Wellington can't fix the cause - Stuff",
+        "source": "Stuff",
         "published": "Fri, 02 Oct 2026 15:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTC0yaVo4U2xlb1QzQTMyZVVTOGV6MDljb2J4TzZfWGduZXI5MGk0YVpBMG5nUWNmMVo3eXFFRGZXZFN5QjhXWkxreEFSQW4xQWZjXzJfVk9tNG41Z2dLMFRiWXBsWHpOdVB2SmdjM0M3T3V0Z09QTTFNS3djQ2lHb0lmaDY3TnQ1Sk5tYXpwTmR0NFRiYTZRN2UwV3JEaUFZenpvTzZ3U0kwSWJMM2JvcQ?oc=5"
       },
@@ -8602,66 +8616,60 @@
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOHpLVnA4TlFna05Wa0VwTVRqb0xZOUNyYl9naW1EUFduSHprWmE2TUZRenVFbVE3OGdBVlhUU1gyT1ZKU2xWdG1jc1hiOFN2ZVBlLW1FUHdjejc3UDkxT19XMXBmbzB1QmNUU3VpUG5WcnJxVXFnTV9zbEx5R0JkWHluY0UxVFk3cG9hZEhJS2Jad2JCVmw5SnRnZUtTR09lb1VDTUdaLTlDUQ?oc=5"
       },
       {
-        "title": "System-wide fragility pushes global fuel crisis into dangerous new phase - newsroom.co.nz",
-        "source": "newsroom.co.nz",
+        "title": "System-wide fragility pushes global fuel crisis into dangerous new phase - Newsroom",
+        "source": "Newsroom",
         "published": "Wed, 30 Sep 2026 16:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb1VEOTV2SnhaNW9YOFZSRHhfM1l0NEYxdGFoSDNYSktMQUp0WTQ2UDVrQ2ltYlFEMUw1N1ZCVGJtdHFPWWcwcmpYbk44eE5HTVRrLWRhTFc2VDdKOUpzTlhGVmpHa2ljYlpISFVRcFNlaFEyTzdFS09fdnRSQVhUSHg5OTZhZzFSS3VrZ3ZMUFZfWWtPUnFKbWpPYjJoYjFIbVRiVHV6RWdDWTg?oc=5"
-      },
-      {
-        "title": "Rising diesel price could make rest of year more expensive for households - RNZ",
-        "source": "RNZ",
-        "published": "Tue, 29 Sep 2026 16:44:43 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTG45aDlXbjBib0ROcDQ4Q1gzM1RWWmF1TXJNNFNqSWgxNGN1d1FaaFJkdU4tcDhGbkp5THAyaERhTUdSci05d2VrcEJoQkxfRXFfcENnNkpaY2toTmtRVDN3SzZ1QXBMSk9EWGRmaUt0QzNYU0pBcExhNWZmTUU5MmpmbVFWT0pHbmpDSG1uYkt5cHNteFAwZzF6akd4ZGdmZzNrZjdQMG1kNTZuSTU4VWZ6S29aS3di?oc=5"
       }
     ],
     "global": [
       {
-        "title": "Oil prices would have hit $200 a barrel if not for East-West pipeline, Aramco chief says - thenationalnews.com",
-        "source": "thenationalnews.com",
-        "published": "Mon, 05 Oct 2026 16:43:45 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONWpLcDdBdTBqSC1GbG1haXpRTlFNMkRBVkljck5zM1NMRHh3clJkZjZrbFdoT0kyalhFb25NTUh4VFpxbERLRTdNbWNwc0RiaFpkRk0yN0loamZTOHRxc3BUMTYxQ2EtbkF0Tk0xTWl4dUpVdzdON0xlMVNLUzFoak9nV3d2S1RNLU1iNVl6di1JU1ljVE95ODBJNFFMVFd6MGg5Z1JGdW9WOE1NaFY5Z0xXb3VSLTNGSm5mQmpPVWFKaEFvdmpzcGo5RElPNG0xanVNTkxCcG52WE1SeGdn?oc=5"
+        "title": "Oil Extends Decline on Recovery in Middle East Exports; WTI Near $89 - en.bloomingbit.io",
+        "source": "en.bloomingbit.io",
+        "published": "Mon, 05 Oct 2026 23:25:42 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qN285ZnVHOFZ1bG00TEF4TjNKZThIVlRRd1M0ZzM4SHFHNDNrMmxTX0ROejVJc2VzYW5YOG9hTTBZOFFDRHQyN0ZEWWs4bWVoVWx4Uw?oc=5"
       },
       {
-        "title": "Oil futures: Brent rebounds after Saudi attacks, G7 stock release - qcintel.com",
-        "source": "qcintel.com",
-        "published": "Mon, 05 Oct 2026 16:39:53 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdDAwdmxYNldOWkpObTVpNmlEMlhvWnBfQm83Vm1pOFlLZGVVRGFBT2pnSFJOYV9MeXpTZ3NqUHYxNHVoY0h2T1NScEZXU0lRMmpQbHZrMG9QY0xtcmszaVhWYk92VEJodFpzeDF5Xzd2WnBRaUMxSGF6QTI0T2hjNlQzSGt4aVl4V3lDLUdWd0ppQS1OVDhEbHk5NjJaeDBRNXA0SkNKVmtkdw?oc=5"
+        "title": "Natural Gas, WTI Oil, Brent Oil Forecasts – Oil Dives As Saudi Aramco Cuts Prices For Asian Buyers - FXEmpire",
+        "source": "FXEmpire",
+        "published": "Mon, 05 Oct 2026 22:35:26 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMHVWTF9wTGpKZ0F1a1hMdnZjZHJYbnhxcHJWdjE5bzc5cjVOWWhaS0JwcGlmR21FTmRXS2hZcktqUFVRWHNLdHlDMmphUUpFMjNWNDJmdUgwbXdwVWRqWDJ0T1o4MDY2ZU9YT0hjaDhqaHJ1VDJ4bUkzNGlFT1c3ZDlZYTRoemNmSHNtbjVuZktaTmlKbW95TjVlN2taZ0IwOUdNZjMzaGwxaUxmVjQ1S3hHU0t3cEZZRzVtMGlLQUhBcWxhcW5yZEd2elhFWUJwTEh2LXpwMk1hcEIzd1E?oc=5"
       },
       {
-        "title": "Crude oil prices and refinery margins generally increased throughout the third quarter - U.S. Energy Information Administration (EIA) (.gov)",
-        "source": "U.S. Energy Information Administration (EIA) (.gov)",
-        "published": "Mon, 05 Oct 2026 16:04:35 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KRmxycVhJeUlHVmVsTnlsQXgtdFpsQ1BYaUxiUjF3bjZuYmFfUHlQY3JTdHBkMEJwVWJOUmpjM2hjNXl2X1BwVFJwQVlCUGlSXzBfWEVOZU9UQVVuN0xjdEJCVQ?oc=5"
-      },
-      {
-        "title": "Oil market turmoil could last for years, executives say - Reuters",
-        "source": "Reuters",
-        "published": "Mon, 05 Oct 2026 15:41:45 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRFBWUXdRbEpSdW95M2JsWlZMNF9VRXhZdUp2eVBoSXJYYllUbmZ2anNWMFFrQ3lGWFU2cnNxUW1zWTk2alRMS2VhVUtqdndlVi0xc21BT3Fwa2hnd0tjZWxQZDJtaGNvQk41c2lfSWZQR0FaampUcHpFQXdvbG1vUElBZmhuU3FRbC1fNW9MZ2c3eS12dHM5a05QeHVtR3VCYXhmcTZ3TW9CYjdZa1JhdlZWLWVMOHNGM1dQVUhHNTVCQi1fNkE?oc=5"
-      },
-      {
-        "title": "Global crude oil stocks ‘scarily thin’, Saudi Aramco boss warns - The Times",
-        "source": "The Times",
-        "published": "Mon, 05 Oct 2026 15:36:12 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd0RBZFJ3LWpMdXVzcTRVTDZkaF9UYlNjZnpNRmtkN2ZHLXBRZ2xKdVZIOFA1enBlU3FpQ0liMm9nUExNa0gwb2I1QlFidjg2VmhvT3MyaWxRdUFZWGQxOUlEemRMOGxIbklBenp2eVNDVjROeS1zSGtwd1pXZkVBM2RVcHVPVnk1MzI3TlRKX2pZem1FYThuVWRLNzdxeFZlOTNUTm4xRVozZw?oc=5"
-      },
-      {
-        "title": "Aramco CEO Warns Oil Inventories Are 'Scarily Thin' - oilprice.com",
+        "title": "G7 Oil Stocks Release Is A Band-Aid Fix in Broken Fuel Market - oilprice.com",
         "source": "oilprice.com",
-        "published": "Mon, 05 Oct 2026 14:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTmZ0bTlVeFJLUjB0OFFpSE9oWjRIaExGYjctQVdNeU95WUdFdWVtclpweHBGOGtkdEpkOGRwYTk2UWRkTDNiX2t4UU8tSHhWY2FFT09aTFZ5YW51cWRBSFBzTDdndkFVV2gzVjFTX0NMNzFNT3g0bHBteUJFTUZvXzRRNjB2Ym5CVHY0ZWh2alhjSUVXbTc1OUwzejNoNjFfM1JqOW9kNjDSAa4BQVVfeXFMTjM5MVJXR3J4ZGhVRkNpSmtWM1gxUjNiUzRiRWJaVDdxMkZ3RVBlYlNadXhyRVdpMWlLc1ZaT0pXb0E0WTRxRnNDNk5wMEpxU2hUZnl3SmVtaUpFR1gxU3ZkSENWdVk3QV9DU001eG1GZGVQSUZJSVZMLTVOdEtORDN2TEhteUd6LU15d1BSWGtMZ1dBODFubnZPM2pFUVliVjdQVnMyVjRLVnhuNV93?oc=5"
+        "published": "Mon, 05 Oct 2026 22:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTDVrZllrbzhuUlJpZUg2N0U4RkdLRGV4ZEpBWVFNazBlQi11WkExZWFLcUtBc1JNd05QY1pHcnBhY2NJU2JkbXRRMGhLblRZWENOaTA5OFRsQkJhbjh5ZWY5WXBPOERBbmM2NlJJSHFsQ2d0eVNGYzY2MlhuSVRaekx5N3A4RGZOeUtFNnJlS21scTdUQjhjc1FOazA0N01lZWdMUUlMUFJoaGV5U0HSAbMBQVVfeXFMTkk4akl2SFFQa1VwQ1VUcjJpZUEyTmJ3VmZUOGlJZ2lKcTB5QVg5NFJxRDJMVWJLNmplcXZHU29rVXl0YS1ENlF5QjhYNENucVpiemlXWXhwZWF6alpLSUl6ZGpvZ1FBYXk3X1RtNG9HQmJsaHVCR2RoWVVWMUxzUklWMm9GUjluaDB0SURvLTBtSDhGYWltdHpidzZLd0dMVjVGSjMyUlZaWE1TSzFzZF91Q3c?oc=5"
       },
       {
-        "title": "Oil prices swing over concerns about global market - Transport Topics",
-        "source": "Transport Topics",
-        "published": "Mon, 05 Oct 2026 14:04:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94NmJ2d1JiZGJ4OFU5Q1ZsNzJVX1FrbG5qWVFVMjVHc28zY1JpSm9fQUpLcTJwLXNvcDMyZUJEaHVRT1Vya2hSdTRKbnhJcnlOX09iQlJ5XzJGaUoxaDA4dkdGU0dmTEU?oc=5"
+        "title": "Singapore Eyes Nuclear Power as Iran War Exposes Its Import Problem - oilprice.com",
+        "source": "oilprice.com",
+        "published": "Mon, 05 Oct 2026 21:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYTVuVDdqM1ItLVBBVEFmNzQ5RmlmUkQ5N2hBdHJWU1U0VGhrTFVYeHBycE1rNVBoSjN6WENMVnV4c1p4NjBiOVFLWHJmTVFwRFBnQlpUT3UyeW81aGU5QXV1cmg4MlNuMDhWcURiOGk5MjBsNXc3V3VjSE5BTjlGZm9yVnBrSDZldVQ5ck9jeHRMNGdmOFY0dExObFhkNUxENTVNSWExUEQwOHhqSUJRYnpLLTd0TzE1MldsaWZOU2QwUEpZ0gHKAUFVX3lxTE9wYXNfUXBlNFJldXVYMlNLRi1EWk9jZDUtVURtSm1yVDRaYll4d1U5TFZ3TWRXX3lfXzlxNUYta3NHTmlpWTdkNF8wcnZublJtdThzMU9qQXZTQ3lEYjNsdUZEZFhVX2ZwRUl4N3A0cS1DbmJ4cTlFeGlZS0ZfNWRKb3NPYkkya190aXZ1NU0xdmZOZHdJUTc5Mmd2TkdFUXVyckRQYTF6U2ZQVEpoenkySEx2T0FTV2NsWjYwV0VjYzZ4UHczZDJRR3c?oc=5"
       },
       {
         "title": "Oil Prices Fall as G-7 Plans Crude, Diesel Release But Hormuz Shipping Risks Persist - WSJ",
         "source": "WSJ",
-        "published": "Mon, 05 Oct 2026 13:53:00 GMT",
+        "published": "Mon, 05 Oct 2026 20:10:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOFA5UUZFdndtdnBodnFleklOcmpCZmdBUzlROTlFSkFiWkZsNG5sMHU4M0VoR2ZLNFVNYlhKbmpjYlc4Q0NObmdDdFNLenRmU0VQdVZfWXU1YU44NWFUcnlWeUNtQkhBMlAyZGpDemdPY3VkY3NzdDRpNWlOcTlabURzNE1udEdkOVVYeW5qcmhndjM3VHVHYVFSZy0yQzYyR1VnSnJGWVdZdEZTUV9IeF84OXpEaFcyNUxzNFIwaFAybGplVHN3cTM1THc?oc=5"
+      },
+      {
+        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - litefinance.org",
+        "source": "litefinance.org",
+        "published": "Mon, 05 Oct 2026 19:49:10 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
+      },
+      {
+        "title": "Crude oil prices and refinery margins generally increased throughout the third quarter - U.S. Energy Information Administration (EIA) (.gov)",
+        "source": "U.S. Energy Information Administration (EIA) (.gov)",
+        "published": "Mon, 05 Oct 2026 19:37:34 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KRmxycVhJeUlHVmVsTnlsQXgtdFpsQ1BYaUxiUjF3bjZuYmFfUHlQY3JTdHBkMEJwVWJOUmpjM2hjNXl2X1BwVFJwQVlCUGlSXzBfWEVOZU9UQVVuN0xjdEJCVQ?oc=5"
+      },
+      {
+        "title": "Crude Oil Prices Fall on Dollar Strength and Saudi Price Cuts - Barchart.com",
+        "source": "Barchart.com",
+        "published": "Mon, 05 Oct 2026 19:21:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeVVfRXZaWFVQUFZqZXdLdUlwZW9nbVdqWVN3a0h4eGNTVjZfREphdE11QXJDY0Z1Y0w0SksyUDJaSUwwR2pDdVUyQzlkaUlfMTRFZHFxb1k1amhzblE3X0JBSk91UWYzRW5YUWhDMEVSSlVxdWR3T3BGTXJ4eDUwS2NvQzZwZDRZbG14WVQtNXFRcm5oNlpEQUtybU1GTjNCV0k0ZFR2YUk?oc=5"
       }
     ]
   }
