@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-06T19:06:35+00:00",
+  "generated_at": "2026-10-06T22:23:25+00:00",
   "fx": {
-    "nzd_per_usd": 1.781308,
-    "as_of": "Mon, 05 Oct 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.78636,
+    "as_of": "Tue, 06 Oct 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 100.21,
-      "latest_date": "2026-10-05",
-      "delta_1d_pct": -2.0,
-      "delta_30d_pct": 6.17,
+      "latest": 101.08,
+      "latest_date": "2026-10-06",
+      "delta_1d_pct": 0.76,
+      "delta_30d_pct": 9.67,
       "series": [
         {
           "date": "2025-10-06",
@@ -1013,15 +1013,19 @@
         },
         {
           "date": "2026-10-05",
-          "usd": 100.21
+          "usd": 100.32
+        },
+        {
+          "date": "2026-10-06",
+          "usd": 101.08
         }
       ]
     },
     "wti": {
-      "latest": 89.18,
-      "latest_date": "2026-10-05",
-      "delta_1d_pct": -2.12,
-      "delta_30d_pct": 2.44,
+      "latest": 89.72,
+      "latest_date": "2026-10-06",
+      "delta_1d_pct": 0.32,
+      "delta_30d_pct": 5.54,
       "series": [
         {
           "date": "2025-10-06",
@@ -2025,45 +2029,49 @@
         },
         {
           "date": "2026-10-05",
-          "usd": 89.18
+          "usd": 89.43
+        },
+        {
+          "date": "2026-10-06",
+          "usd": 89.72
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-10-05",
+    "as_of": "2026-10-06",
     "regular_91": {
-      "avg": 3.513,
+      "avg": 3.527,
       "min": 3.21,
-      "max": 3.659,
-      "count": 86
+      "max": 3.709,
+      "count": 81
     },
     "premium_95": {
-      "avg": 3.703,
+      "avg": 3.744,
       "min": 3.366,
-      "max": 3.879,
-      "count": 44
+      "max": 4.059,
+      "count": 42
     },
     "premium_98": {
-      "avg": 3.845,
-      "min": 3.756,
-      "max": 3.959,
-      "count": 12
+      "avg": 3.825,
+      "min": 3.649,
+      "max": 3.96,
+      "count": 9
     },
     "diesel": {
-      "avg": 3.234,
-      "min": 2.996,
-      "max": 3.419,
-      "count": 87
+      "avg": 3.244,
+      "min": 3.036,
+      "max": 3.409,
+      "count": 88
     },
     "lpg": {
-      "avg": 1.847,
-      "min": 1.847,
-      "max": 1.847,
-      "count": 1
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 196,
-    "observations_yesterday": 26,
+    "observations_today": 176,
+    "observations_yesterday": 36,
     "observations_older": 0
   },
   "mbie_waterfall": {
@@ -8574,12 +8582,6 @@
   "news": {
     "nz": [
       {
-        "title": "Petrol price hits all-time-high as average litre of 91 tops $3.50 - 1News",
-        "source": "1News",
-        "published": "Tue, 06 Oct 2026 17:35:48 GMT",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV081OVF5QWx6eUJ1aVFfcW5ucTY5ZkE3QjZoOXlKbjNzYjJKYlQwM1Qwc2RSNEJrbWdiVVhtNVBCWFdNV0JpeTFPUnFjMU9OangteUdVRTkwaW5uY2ZMVzJYenN0ampSZV8teThBQi1vVjFqYVp2N0FWekQ1RzV6SExfN3JWTFFSRVdvS0hwak84SmJPOGh4Sk5xdExwQW9P?oc=5"
-      },
-      {
         "title": "Fuel price hits tipping point - RNZ",
         "source": "RNZ",
         "published": "Tue, 06 Oct 2026 17:31:25 GMT",
@@ -8604,10 +8606,10 @@
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNazZ5WndlSTlGaXJtaEk3cUM4Y2cxXy1uZUoyNlk4V1NGeDNXdnZaU2JmNExXZy1RcElVS0E3bFN2UHdsOEMwR3hPOXFrcUE0UTA4ZWZGV1NVbU1NZGNpYWNYUjYwMDZnT1FqZG1xVXQwRFNuMWZGT0tleFhhang3d01WVnZQUl9Yam11RTc1MkUzWURFRERuTUVxUDgza3RJQ3RIaUVB?oc=5"
       },
       {
-        "title": "NZ fuel supplies secure but 'less room for error' - 1News",
+        "title": "Petrol price hits all-time-high as average litre of 91 tops $3.50 - 1News",
         "source": "1News",
-        "published": "Mon, 05 Oct 2026 09:52:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLWhRTG9EZnVMajNZWHkzM0I4blZNQnVOUUduektkb3dQaGVPOTlkTVBIaGlwdFE2YlN0Ri1MM0d5MEtGMF9YUDRfdjZWYjUwbDZaN0l1SDE0UENqSWdfLXpvbmdKZTh5azJGNWg5X3c3bVNGdnpYZ0tFNmJaRFYwZlJRbEdyZDhhZVVR?oc=5"
+        "published": "Mon, 05 Oct 2026 12:45:46 GMT",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV081OVF5QWx6eUJ1aVFfcW5ucTY5ZkE3QjZoOXlKbjNzYjJKYlQwM1Qwc2RSNEJrbWdiVVhtNVBCWFdNV0JpeTFPUnFjMU9OangteUdVRTkwaW5uY2ZMVzJYenN0ampSZV8teThBQi1vVjFqYVp2N0FWekQ1RzV6SExfN3JWTFFSRVdvS0hwak84SmJPOGh4Sk5xdExwQW9P?oc=5"
       },
       {
         "title": "Fuel prices hit highest level since Iran war began - Indian Weekender",
@@ -8620,14 +8622,44 @@
         "source": "NZ Herald",
         "published": "Sun, 04 Oct 2026 16:04:27 GMT",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNa0Z0S2JPNDJKb1V4T0NIMmJXV00zOFJCU1ZxV0E5eFVSMmNRU004eTBLamZvZVVKX0dDeXRYTVNpWWs5WHhFVVJtcnkxUnRveTZlNmo4dnZMcjJLVDJCbkNxMzJLcUF3TDVublA2ODFlRnVNXzB0VHBia3B5N1dtSkFtdEt0QnRDR0RYeW9SaVNMbmwxNXE2RVZqSjRwcG5BZTlMdUVDMDZXcmdXNHdUVkdyNEJKaXQ4TDZmQlZINGdOaXhPMnR0RXNUTXhfVURUZXBqLS1qVl80NzRSOVJNUndrU0M0TXVUaXZ3NFBRalI?oc=5"
+      },
+      {
+        "title": "New Zealand electric car registrations triple as petrol tops $3 a litre - https://newswire.co.nz/",
+        "source": "https://newswire.co.nz/",
+        "published": "Fri, 02 Oct 2026 19:20:56 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLWh2YnVjcGRMNUNPUGZRMmVEVnJ5RzZsMWpYdjBiaUpXMTlaZ1E5RjB0ekdTenFlWEhrcjc5a2sxd0diWUs0SkptSnpJNm5tdHc1VUVtUmhOUk5YWmsxdjZQYmZXRzItZWcwTmpBaDNQd3RtOTZOU1llWnFVLWpvVmVrSHExdUhJbnNEcGRIbnVhVG5VMThCTG1tNGQ4dUdWenc?oc=5"
       }
     ],
     "global": [
       {
-        "title": "Is the West's 100-Year Venezuela Oil Bet About To Backfire - Crude Oil Prices Today | OilPrice.com",
+        "title": "Oil News: WTI and Brent Bounce as Thin Inventories Limit Release Impact - FXEmpire",
+        "source": "FXEmpire",
+        "published": "Tue, 06 Oct 2026 22:00:56 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWWh0azUwZ2p2SlJ2T2RYTXhac2czeUxkU3k5YnItZG5NZ2dQOXJOYXdsUTN4OXBzOUpZZWRRTzg2bkloVG9wUFlHMzVyLXBoYzFKRzVvYXF1RG9VVU0zSHNCNUxGQUZNQlYzcThxMlRydjV4b2dJTlZFd3ZnTkIyR3pvSDZxUVg5NEVHZjZsTHNEYWJ0aEJSakxSdW01U2F1SGF2V1I3eXk1TkpkUnV4YUZHcmlMcWFmWXB5N2pUdVpTaS1xMnlfQQ?oc=5"
+      },
+      {
+        "title": "Oil prices stable as market weighs supply risks, rising Middle East exports - Reuters",
+        "source": "Reuters",
+        "published": "Tue, 06 Oct 2026 22:00:38 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2pUdllqZ01ILVZhYUF3SUxMbElJVnBReFhYeE8tUXVUYlVmMVE3WkVTWjJnVTBVMEg5M2Npd0lOM1BHTGVmaVFEbEtGZ2JmVUd4WWhFUzAwdU1zOTNGVFZNaWhORU1KTlN1M0llbXlTemtiVDd2a1pEeVQ0aDRYSW5rX0xYam10ek5xVTctY1dwZW1qUlRNOHZDeUFjWl91cXR5NVRQQ0ZXT1BBcnNjV0pXYWtIbVlHbmRTanpNaUszT1Rx?oc=5"
+      },
+      {
+        "title": "G7's 100 Million Barrel Release Is Mostly Already Priced In - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Tue, 06 Oct 2026 19:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRm5DdExwSloxSGdNazJCMXFHWnZMLVl6WU90WTNwRWVBc2dBVVVqMVJWNkwxN0hkcHdxVzZFQm5vSWNCYTJLZGQ3VHZRZmRJbW0zUS1MQUNXRGlMbGxkalhvcXctVmI5UWQtdUsyTnZoMzczRzBOU3NsM0hiYl9tbmQycEVOUnB6Q2YxcHNTNElGVHZZMjBSVFRyRnB6N3VDWnfSAacBQVVfeXFMTXA0OEVhbExnYklLVlZJa0ZrY2dFWTZ6Q2VfaHdmTmIwVU9wVWpVM1VFdk1ZTTd2UFRKaWFrM212LXpYWnFFamQ2Z3BDYnJuYzNxeFY4T1RhWmR4dWZxZm43TDdReE1PcXdBeVp3VDJCWjFReFJuRXdGSHI0WVY5OFVkUDRDVFhmc3pLMHpuMHJjY0xNZDNtcmlvNV9uOW9zeGd2SlIwSGs?oc=5"
+        "published": "Tue, 06 Oct 2026 22:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMlRyc1V2cWd0U2NGdVpKckM4LTFteHlXeElka2xaSFl1MlBPUWZqQ3pERXRTVE0wUnJwX1BVNThxQmJCdEI1UVdQZmMtc3ZwMG5QY3IyOGZ1aGhpeVVjZGdERkhsNUl6OU9mQWVjR1B2U0NBMzZSLTFLREh6aTNFLXdtM1NCQlVRLU1GZ0pucDBfbGk1enFRWWZuLTJhTVRqemU00gGoAUFVX3lxTE12S3Y3RUxBZ0hMSEEzOGZkT0oyRUFUbkRIWHdtQWRGajczYjFfYTJ4c2I4ajFSaVBpQ2lhWVNJQS1hODMzZUJZT2txNVJFeldqaGhzekVNdFhKaE5XV21Rd19pMHdNazVOTmhpMkZaWVZQNGIzaTFJX091OTNfMHNfek1CR1VIYVAtZDdlRXhXRTFjSXRjUHpVMWZEcWNmTTlNcHFOQzM4WQ?oc=5"
+      },
+      {
+        "title": "Halliburton Shuns Falklands Oil Project - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Tue, 06 Oct 2026 20:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORERjSWlZVVVQX1ZtU2lGWC12X3ROc3A3bkNyVEplcHBPOXZpeUN3ejJlUzZsVVVieEhzQkN6ekRrNDNfS2NoSUozWERGOEMxM3A1QmhXZ3VsdnJtMzFpZFNmeVFyMThiSDJQRG1qcEg0eE1CVllQN0dMVVZnY0Q3VnlIZ2psa1F6LXRoN0ZMTG7SAZYBQVVfeXFMTkdNb0NxMUxkNE9SNkxBMXAwQ0pkWXI5WmU0YWFkUWh5SVdHRFFuelh1bkg4NEpXYU9IVXNuSllHRXVpWHdpN0J2VWZMT0pxRkpNR041NDJFUTJ3Ti11dWlyZFRnS2RGVFJvRmVCLXhFemJBdW05Q1hqN3loaWZVanU2RlFHVy1ZaEpqN0lzSFBTNl9HTHN3?oc=5"
+      },
+      {
+        "title": "Oil Futures Little Changed as Market Weighs Export Recovery, Shipping Risks - WSJ",
+        "source": "WSJ",
+        "published": "Tue, 06 Oct 2026 19:31:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONUtscjBad2NrYlFpckhZRUc0SUFnc3YzYjhqenRqaHlUUHE5Z1BpVGJlRjZWaE5BSzZxUWtoNnFoXzg1VVd5QlNWY3RMLVBiUW1QUXNaTUFBMExBMTNEaXQ3bU13QnlfbUJScW5yNUJDQTJ2SUJXMmo3NXZyOTBtb2FNOThkNjc1ZlgwU3JGRkRSclhaS25UQjk4QWNiZ2Y2bkpiMkJidk1LakNnTmNodTVYN0Q0cTg?oc=5"
       },
       {
         "title": "Oil prices stable as market weighs supply risks, rising Middle East exports - The Mighty 790 KFGO",
@@ -8646,30 +8678,6 @@
         "source": "LiteFinance",
         "published": "Tue, 06 Oct 2026 17:48:28 GMT",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
-      },
-      {
-        "title": "US EIA hikes oil price forecasts again as Iran war drains global stockpile - Reuters",
-        "source": "Reuters",
-        "published": "Tue, 06 Oct 2026 17:39:05 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZk8xUmkwZm83ZUdaTWpWaEVibFZzckNxOVFNOG9OTjlWdzJBdXRqWk5GUUFoME5DWXJmNThNRlIzdVBxUXNfeGd5cTFFNjlVZmg1VkFwVXdONzVLNGh0RVF5S203NlRieWFBNEY3b0dnZlZ3MERxUGlYWTRDaGwzYUJaYWJxWjI1WTlJbDNfMFJ0TVlqSjdFNnl6SVF6UVhmQlhNM2pRUnltSDVMMXNmS21JZkMySWNFVjhtbXVSMUw?oc=5"
-      },
-      {
-        "title": "The world has nearly burned through its oil stockpile buffer, executives say - Reuters",
-        "source": "Reuters",
-        "published": "Tue, 06 Oct 2026 17:27:44 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRXpPa01RZzZ1ZlNmZS1XU1FlVnlKbTNhblkyVFU1dkttNzY2WllwRXNVdHVSNlBkV21wQi05d3NQdTFQcjQ1Vm5CcG1XQ1gtaDdZUmZiZXZaVVA1ZXBIcEpoOHBIZ0k1RnpKWXpsOVBjWWhrQzlWNW53SFM2dm5LeWJFVThkLUNHMzY2VFN1cFl0QXpqc2U5T2FvM1M1TmQyRjUwTDBBTFJ3NkRLS0ZENmY4cDNPam13OG9pRUFZUGw?oc=5"
-      },
-      {
-        "title": "Oil prices stable as market weighs supply risks, rising Middle East exports By Reuters - Investing.com",
-        "source": "Investing.com",
-        "published": "Tue, 06 Oct 2026 17:17:07 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVnozNm9UbkpwVF80OF9xbXJiTHBCZm1NNTA0cWRQWHh2TjZHOHlZeDNxV1J2dHE3dkMzcUNXdUhBek5MeEJCUTRCOTJLaVQtZy15ZkZHMGNleTZISU9QS3NMYVNsMFJjbVFUOE5sYWNNNzNtZWJqQ1JTTW5qaDhBcXVHekxXRVB2TnNKbGw4dnJwX3NTSWY2NmRkaF9YN21mZFdsMVlvM2gwZFE3MU1RVmM4blR1djQ0VldLU2FaTzhNTUF1S2Zqa3BB?oc=5"
-      },
-      {
-        "title": "Brent crude returns to around $100 as Hormuz shipping risks persist - Anadolu Ajansı",
-        "source": "Anadolu Ajansı",
-        "published": "Tue, 06 Oct 2026 16:52:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUDZsVWY2bGZ6QnZPUzJTcTl1bk92LWpaTkNTRWI1N3Y2NHA1ZzR3V2hsQVRyazRvdFk1R1ZvN3dqWHZESHEtMkYzcXRIWmNOZ0lTV1JjZ2dLVk14RDJCeTVPdVBqVF9fUS1FVVBVWTFhSnhLa2pMd01xNWo2MVBzMHcxSi0zRjAzTzJ3dWpOZGRNdjJmU0diZ204eXhyMm84THdiQ0F3?oc=5"
       }
     ]
   }
