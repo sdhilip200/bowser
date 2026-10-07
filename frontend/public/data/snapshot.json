@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-10-07T21:38:07+00:00",
+  "generated_at": "2026-10-07T22:48:13+00:00",
   "fx": {
-    "nzd_per_usd": 1.78636,
-    "as_of": "Tue, 06 Oct 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.778822,
+    "as_of": "Wed, 07 Oct 2026 00:02:32 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 101.08,
-      "latest_date": "2026-10-06",
-      "delta_1d_pct": 0.76,
-      "delta_30d_pct": 9.67,
+      "latest": 101.15,
+      "latest_date": "2026-10-07",
+      "delta_1d_pct": 0.57,
+      "delta_30d_pct": 14.19,
       "series": [
-        {
-          "date": "2025-10-06",
-          "usd": 65.47
-        },
         {
           "date": "2025-10-07",
           "usd": 65.45
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-10-06",
-          "usd": 101.08
+          "usd": 100.58
+        },
+        {
+          "date": "2026-10-07",
+          "usd": 101.15
         }
       ]
     },
     "wti": {
-      "latest": 89.72,
-      "latest_date": "2026-10-06",
-      "delta_1d_pct": 0.32,
-      "delta_30d_pct": 5.54,
+      "latest": 89.04,
+      "latest_date": "2026-10-07",
+      "delta_1d_pct": -0.45,
+      "delta_30d_pct": 8.11,
       "series": [
-        {
-          "date": "2025-10-06",
-          "usd": 61.69
-        },
         {
           "date": "2025-10-07",
           "usd": 61.73
@@ -2033,46 +2029,50 @@
         },
         {
           "date": "2026-10-06",
-          "usd": 89.72
+          "usd": 89.44
+        },
+        {
+          "date": "2026-10-07",
+          "usd": 89.04
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-10-06",
+    "as_of": "2026-10-07",
     "regular_91": {
-      "avg": 3.527,
-      "min": 3.21,
-      "max": 3.709,
-      "count": 81
+      "avg": 3.535,
+      "min": 3.246,
+      "max": 3.699,
+      "count": 82
     },
     "premium_95": {
-      "avg": 3.744,
-      "min": 3.366,
-      "max": 4.059,
-      "count": 42
+      "avg": 3.726,
+      "min": 3.356,
+      "max": 3.989,
+      "count": 40
     },
     "premium_98": {
-      "avg": 3.825,
-      "min": 3.649,
-      "max": 3.96,
-      "count": 9
+      "avg": 3.841,
+      "min": 3.686,
+      "max": 3.989,
+      "count": 13
     },
     "diesel": {
-      "avg": 3.244,
-      "min": 3.036,
-      "max": 3.409,
+      "avg": 3.231,
+      "min": 2.865,
+      "max": 3.509,
       "count": 88
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 1.959,
+      "min": 1.959,
+      "max": 1.959,
+      "count": 1
     },
-    "observations_today": 176,
-    "observations_yesterday": 36,
-    "observations_older": 0
+    "observations_today": 191,
+    "observations_yesterday": 26,
+    "observations_older": 7
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8632,9 +8632,9 @@
     ],
     "global": [
       {
-        "title": "OFAC Targets Iran’s Aviation and Rail Sectors for Additional Sanctions - www.thompsonhinesmartrade.com",
-        "source": "www.thompsonhinesmartrade.com",
-        "published": "Wed, 07 Oct 2026 21:32:59 GMT",
+        "title": "OFAC Targets Iran’s Aviation and Rail Sectors for Additional Sanctions - Thompson Hine",
+        "source": "Thompson Hine",
+        "published": "Wed, 07 Oct 2026 21:32:41 GMT",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMkQ4eWE3amlqRTE5aGx1T0VzaHlncXJFcHY2TmRBMEtlZ1VHRlprRENaQllrdVY0NVVKdkxRaW56djNZem5kTTE2b1kxV1pYUDlwVmdvcVI3TFUwRVpHNmlJa283ZHgtV3V0ZzBKT0FOWmtQbEpuMnJGYmNRSEVJeEZDTWs5Sm1abndfUDVlWDExSGNDMkdOd2NtXzIzUi15VW80aFVEb0xFV1FGR1k2QzF2eVBYdVU?oc=5"
       },
       {
