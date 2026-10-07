@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T09:19:26+00:00",
+  "generated_at": "2026-10-07T16:43:24+00:00",
   "fx": {
     "nzd_per_usd": 1.78636,
     "as_of": "Tue, 06 Oct 2026 00:02:31 +0000"
@@ -8582,6 +8582,12 @@
   "news": {
     "nz": [
       {
+        "title": "EV rush and broken holiday plans as Cantabrians feel petrol price pain at the pump - The Press",
+        "source": "The Press",
+        "published": "Wed, 07 Oct 2026 15:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWGdEZXB5VGRraTFyZzEtZGhINTdsMjdmQkhZNGRCUm1zRkFVbmtqeVZFRUg4SnhuZ3ZrOU9Mdm5GdW5NalNETS1SLXg2VkkwUVNZWkY0Y2hkTHZfNXpqTzJJNlI2STdqZXA4UTc5bkZoX0ZrYi1uMWt2ZkVFczV2WW5iR1RZajI5Q2dGZ1lpQVRtYVhvOUZWcWRJRmwtYkdINlQxcWotVlhJSlJtOUh5d1ZucjFMTGdS?oc=5"
+      },
+      {
         "title": "Card spending climbs 7.7% as fuel prices hit $3.53 a litre - NZ Advisor",
         "source": "NZ Advisor",
         "published": "Wed, 07 Oct 2026 06:37:37 GMT",
@@ -8622,62 +8628,56 @@
         "source": "Indian Weekender",
         "published": "Mon, 05 Oct 2026 08:49:44 GMT",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaGhaRGI3bkRZZlNkdDloMVJqWW41eDh5dzFDZFUxWDZVNlJDcU8yTl9DSHJjbEN2R0M5dWwtTHNNM0dhTnhGTkRvaXY3TGt1bHVfVDRfVTRyTmxnRERXZndBbXdRQUExRUIxSGpFVndYMVZ4OWlzVlMxVkxRSXRHWjd3MHNhYzVoVWp1NGU3aHNIRzTSAaMBQVVfeXFMT2F4OFBOVm1mRWlYM3ZtSzF2eWVuWklIXzlFZ256d2dmWHZ6Q3c5M2V1YlhzTXhjaERvU1VzRUxXUzdiWDBoZmRQNGkxalpOaV8zVVJuQ01jalJRTW1nYXBocTltMmkxUzRORzh0bkRSQ1lQa2NRel9LT25Hbk9JNjR3OWdRbjAzNU0wYmhrTGtjWldxVHZ2Z0dodndkYWZzSGcwWQ?oc=5"
-      },
-      {
-        "title": "Fuel prices reach highest point since start of Iran war - Stuff",
-        "source": "Stuff",
-        "published": "Mon, 05 Oct 2026 05:29:51 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYnFROVNKSk9hT2p0RFlBVWVTWEVmS1J3U0NXeUhtVlk1QUpOOTF1T3ptUmhPOGpyQU0tLVotWW82Q1UwM1JfVHhRT2ZzZVNJcVJaWnBQQUlWTjUtWnRVaDVCZEF3ZWk1ZHV0MUJrQXZ6SUJ6Z0tURzVldENvWTcyU3A3QUhvRTNUdUhlRXhOVHhJdw?oc=5"
       }
     ],
     "global": [
       {
-        "title": "Iranian Oil, a Minor Player and the Limits of U.S. Sanctions - The New York Times",
-        "source": "The New York Times",
-        "published": "Wed, 07 Oct 2026 09:02:02 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZzFKamVMcUVHSXE4OUpnODBFUFZxNE02U2JpQmZWcjdkSk5TdHl6QlFYZHlyRDgwYTlON3htNVJHOHRCRHBCWmJmU2tBd2tnOHVBV3VqTVViVFdDM0xwam9BMmlFZWVLSDBFU2dlZjhZVk1vS2ZBTU9xWk56Nmtzb2Qtd2poejlrSUZ2YVhkQVZENXRX?oc=5"
+        "title": "South Korea Denies Supplying Oil to Russia - 조선일보",
+        "source": "조선일보",
+        "published": "Wed, 07 Oct 2026 15:50:52 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcWFFU3RRU0VJdmVYcEhYczFYdzU2WWN4ZC1UbUNTZjl0dDV0RG9LS3pUYno1NS1SUDJiS0FLdVFWdFJDcVVfbTcxU29Za2FaNlhQUHVlWHFrd2d3alAzY1dUcHMyeXhTTS1oT3IzemFJZmIxeXJVUWhQUWpIa1NqSGFKcW81V184?oc=5"
       },
       {
-        "title": "Oil stable as higher Middle East exports offset supply threats - The Lufkin Daily News",
-        "source": "The Lufkin Daily News",
-        "published": "Wed, 07 Oct 2026 08:36:08 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNc01GRGpQUzFjalBTVHlzTTBwYi13NGxfWUFoN3FXSHdoWWh1YVhKWHVHRjJHLVNEVFdtemN6ZkZ6YVJNajZKdjRnSjFVdHpDWU95U3E1T01KQzl5bnpSQjJaNnRLUGNyNjFOUEZ0bUxBYnpPM3NKeXRZM2NuZVVBV2g2RUtWMGdrNElWcUJjd1VBeWZBRDg4QVMtR3J1OUZlbGt3Sm9uekthbW5JdGJRWEV4U0wyZFE1c3pRWnlLdWV2NmVaMEkyemJBXzF3aFVkQjJha3pzcGtYUzlhNlRGNzQ2TG91bWdLQ0RRcnhQcUthVmhp?oc=5"
+        "title": "Crude Prices Supported by Middle East Supply Concerns - Barchart.com",
+        "source": "Barchart.com",
+        "published": "Wed, 07 Oct 2026 15:40:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ2xOTVRUclNWVEdncTJzSDQxak5CR0lOcEZvUXVONDB0QnNVbFpTYUVJNzVTaWRHQTZJdTJXbU1wVThSU295aDVELVpFazBKT1IwM1E1eVFhbklWd0xSYWYwdDlud1ZfNjBkdkNTSW5BYXRROGR2ZUVlVE9mU3ZMNC1fYmx5MkNBc3J4NGZYNDFYeXJOWUlUMVZQUzY3Zw?oc=5"
       },
       {
-        "title": "Brent rises above $101 as storm, Houthi attacks fuel supply concerns - Anadolu Ajansı",
-        "source": "Anadolu Ajansı",
-        "published": "Wed, 07 Oct 2026 08:31:41 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSXkzM2Z0akxhTS1QaUszNjcta1pFSmNzN2ZiWkNhVTVfa08za1lXaHV6X0I0ellXTW5zOF9wU0c2Wjd4ZVY5RXliRE12T2FVcHdLdnhWczBqX1FfVUM4MkNmRVZkM2NQaDVKNTBjNFcyZEx3Sno5c3BuXzhraEd1N1hYR2tmLW01YTM4VjFCQ1E4YWkzMnBneE9RaXd0ekN2UUNWNm55cUg3Zno30gG0AUFVX3lxTE9IejlkQzFJMUVtTHJ0TkpHX0FlbTVGOGUxeTVTMHhhQ3puOGNhZFRrZ2xzN2NEdzNHM2JDTTJiNFN4U0taNTc1WTVyN1pDTGdwRjZkdHk0enJfeF9GTHRjVG03VS1iZjgxSG1PREFlOVJ1R1paemJYYVhzVkZKY3dXVExPaUVMSGY4VXJ3XzlJSDhybU5ZUUlEWEVWUVh5Y2Z0SU5hb2dZQ001N01IcVBFLUxHWg?oc=5"
+        "title": "Kalshi seeks CFTC approval for perpetual WTI crude contract - Bloomberg - Investing.com",
+        "source": "Investing.com",
+        "published": "Wed, 07 Oct 2026 15:34:36 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNnFneTl2ZlY0enRnc2RuSkJJdHptcW9LOTBzZk5LeWJmUmdwU1hQT19STDZONUNwRktjWmNmaHJMX04zakVYTXFuU0lyMHB1X05LTWxwZmt2NkIzRzlCYm9HMVFiemlXOS1VQzVpS1lsbktZbkZ3UG5OR3EzeHdyaWd1YVpZYlpSdjJtV251UUFERE50bmNTdEsta2h4QmhFUVJxZXAtQXd3c3B4dnd3aldyZThmSUpqZlRob0hYeDlmWU1tRGc?oc=5"
       },
       {
         "title": "Oil Prices Rise as Houthi Attacks, U.S. Gulf Storm Raise Supply Risks - WSJ",
         "source": "WSJ",
-        "published": "Wed, 07 Oct 2026 08:29:00 GMT",
+        "published": "Wed, 07 Oct 2026 14:20:57 GMT",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRHUxNFFZWVFoTFM4cFRPMW50NmpZd1JBRWN2OGlJRm1IWnZ1aVVlZTc5MU5uZXV5M1c5Uk8wR2FEQzR4VHVkaWxjMUV1UVBra05GaVpiQXE3X2VGMlRVNTdYeFR5THBOdjFQV2cydGpiR3ZWUmhvV1NMMFRvMEtwY2Y2RDZIanFYbW9WVTRFRElCQ2txcHVqQW04NEwwUHZSeERzd3BtVnV3WUtPbm5CcWZjaHQ4Ylk?oc=5"
       },
       {
-        "title": "Oil Prices Fall as G-7 Plans Crude, Diesel Release But Hormuz Shipping Risks Persist - WSJ",
-        "source": "WSJ",
-        "published": "Wed, 07 Oct 2026 08:08:52 GMT",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOFA5UUZFdndtdnBodnFleklOcmpCZmdBUzlROTlFSkFiWkZsNG5sMHU4M0VoR2ZLNFVNYlhKbmpjYlc4Q0NObmdDdFNLenRmU0VQdVZfWXU1YU44NWFUcnlWeUNtQkhBMlAyZGpDemdPY3VkY3NzdDRpNWlOcTlabURzNE1udEdkOVVYeW5qcmhndjM3VHVHYVFSZy0yQzYyR1VnSnJGWVdZdEZTUV9IeF84OXpEaFcyNUxzNFIwaFAybGplVHN3cTM1THc?oc=5"
+        "title": "Oil prices rise above $100 on Gulf storm, Houthi attacks - Quartz",
+        "source": "Quartz",
+        "published": "Wed, 07 Oct 2026 14:11:33 GMT",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CcmktZnFZc3l5WFMxYmhqMnZuazZKWjJDd18waG9JSXFhTm1SemVHbkVnRmdkUE1uc0YtcnJJOFBDV2loWmp2X0E3N0Jxb1lkb0dNV3owZmJiN1RGSV9GS2gzRlQ5S19DODFxVjh1SHVrcGVJOC13WTNidWQyZw?oc=5"
       },
       {
-        "title": "Brent Crude Tops $101 as Markets Weigh Supply Risks - Fana News -",
-        "source": "Fana News -",
-        "published": "Wed, 07 Oct 2026 07:58:20 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLXBySGZjaFIxZ2FPa0U4c01DZEktOWt1YUdTM2FqMFQ2dGxYMzl3OXBmYnVNbXFCcXV3ZU5NQ2FPX0RRMEhxcDkwRDRwbmpCcWpNN0hiMWl5X3VxMGtmaUZIelh6RFFmb0Zid1hOakFnZWxaMGZERGt2ZU1NTUpnUnZIM3Flb09LdU9JNWxRS2NkUQ?oc=5"
+        "title": "IEA Discusses G7's 100 Million-Barrel Oil and Diesel Release - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Wed, 07 Oct 2026 13:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMnNIRFRyWVlzX21mdDZMbXVxVGtNRExfNi1uUTUtSXdLZjJfWTFPTDdTWS03b2ZKOUw3RUJsTGxPSEVPa05BcnEwbHotOG45ZHZuRFBZcW1ydEZJbE10Vk9xSmJjbk5pRUxEc1l5VnktejlqQlRpdjZHaHdpQ1UzNGFsOFNieTYxZzV5eVl5U1l5bGJYdVFEVmJPdlhJUDhkU1VfSExPTjRiRUd4UnM4UkZKZjlRd9IBuwFBVV95cUxQZHk1VG1oWmRsaVZoRmRiUHhZQVZvWjktUWRHbFQ2ZzVodVdIWF8zVW1tZFpiSXJvN0hiT0xfNlBiRzg3dGRfZl9VZ1RrNEo5cGRETEZmOWMwZUhBSkJnUDBjZGw1ZERmSTNqd25qVzg0cGlmT0EyZ2pzNGNNUEdSdVhtLWN2OVY1NkZxQ2pHLV85NEc1S3hfMzh3UWk0MTJJdGN0SzFJWUMzazZZYjBiU01OamsxQ0twUXU4?oc=5"
       },
       {
-        "title": "EIA Raises Oil Price Forecasts as Iran War Tightens Global Markets - Egypt Oil & Gas",
-        "source": "Egypt Oil & Gas",
-        "published": "Wed, 07 Oct 2026 07:31:52 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT3NXZzdYRE1WXzdYMDEwSVl6S0NvcUp1Z3dYNXVoZ2xaQXVXMFhvSEROR3k2dzBENHlfdEVUMG1WX0ZKMlhYZnhpeG1uajBWNXJEbUI3djNmMWxqVFY0OWZ2eWxSNHZhS0RLSXNyZ0VxZUZiVFhMbXM3cWQzUTNxOGRaRUFteDlBU0plRTJscHhQTDFqeDd6Y0JLNEpZUQ?oc=5"
+        "title": "Brent crude surpasses $101 as tensions rise over the Strait of Hormuz: How much further can oil’s golden corridor go? - Moomoo",
+        "source": "Moomoo",
+        "published": "Wed, 07 Oct 2026 12:43:26 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ2dkYnl6dHNldjVzWGQwNERYNDJqX2dCX2xhOXhRMUl3U3EzV3RoTk5Ud0xGWndGOUQtWk9GUWtBeFNPTTlXcll3NWUxTWVBc0N5Z05QamgyV1B3NjVTSW9wU1ZaMWI3RGpsWDhZZkRSa3dYYU10UFhtT0R1ZHJsTFFSWmRfdUpQY3JHUlFHZGJ0ZU1WUm1ndXhTR2pSakVpSG1IVg?oc=5"
       },
       {
-        "title": "South African rand slips as stronger dollar and oil supply risks weigh - Reuters",
-        "source": "Reuters",
-        "published": "Wed, 07 Oct 2026 06:52:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVjdTMnJCcXR4d0xSblZKVU5zX0VBT0lQX2h4NXFFaWI2Qk1LeWI1TXc3bzVjN0dWYVZTN01ydEl4WWhDSjZrXzRYODhpWXRKMTllS0piQ2kwT3JwR01xdmZsYS1yU3o1M3JhT1JwWDFDQ1R2X19OdEVWS1FPU0RheTFMT1dfVVpqRXBYR0dnN1ZXOXRpeEw4LWlfRmJVSW5Nd3NXSEg0OUpWeDZkR29sbl9n?oc=5"
+        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
+        "source": "LiteFinance",
+        "published": "Wed, 07 Oct 2026 12:42:20 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
       }
     ]
   }
