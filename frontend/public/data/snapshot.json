@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-10-08T20:39:45+00:00",
+  "generated_at": "2026-10-08T22:59:14+00:00",
   "fx": {
-    "nzd_per_usd": 1.778822,
-    "as_of": "Wed, 07 Oct 2026 00:02:32 +0000"
+    "nzd_per_usd": 1.785734,
+    "as_of": "Thu, 08 Oct 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 101.15,
-      "latest_date": "2026-10-07",
-      "delta_1d_pct": 0.57,
-      "delta_30d_pct": 14.19,
+      "latest": 103.71,
+      "latest_date": "2026-10-08",
+      "delta_1d_pct": 3.5,
+      "delta_30d_pct": 18.07,
       "series": [
-        {
-          "date": "2025-10-07",
-          "usd": 65.45
-        },
         {
           "date": "2025-10-08",
           "usd": 66.25
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-10-07",
-          "usd": 101.15
+          "usd": 100.2
+        },
+        {
+          "date": "2026-10-08",
+          "usd": 103.71
         }
       ]
     },
     "wti": {
-      "latest": 89.04,
-      "latest_date": "2026-10-07",
-      "delta_1d_pct": -0.45,
-      "delta_30d_pct": 8.11,
+      "latest": 91.11,
+      "latest_date": "2026-10-08",
+      "delta_1d_pct": 3.21,
+      "delta_30d_pct": 10.8,
       "series": [
-        {
-          "date": "2025-10-07",
-          "usd": 61.73
-        },
         {
           "date": "2025-10-08",
           "usd": 62.55
@@ -2033,36 +2029,40 @@
         },
         {
           "date": "2026-10-07",
-          "usd": 89.04
+          "usd": 88.28
+        },
+        {
+          "date": "2026-10-08",
+          "usd": 91.11
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-10-07",
+    "as_of": "2026-10-08",
     "regular_91": {
-      "avg": 3.535,
-      "min": 3.246,
-      "max": 3.699,
-      "count": 82
+      "avg": 3.515,
+      "min": 3.125,
+      "max": 3.759,
+      "count": 86
     },
     "premium_95": {
-      "avg": 3.726,
-      "min": 3.356,
-      "max": 3.989,
-      "count": 40
+      "avg": 3.702,
+      "min": 3.166,
+      "max": 4.019,
+      "count": 41
     },
     "premium_98": {
-      "avg": 3.841,
-      "min": 3.686,
-      "max": 3.989,
-      "count": 13
+      "avg": 3.861,
+      "min": 3.487,
+      "max": 3.98,
+      "count": 10
     },
     "diesel": {
-      "avg": 3.231,
-      "min": 2.865,
-      "max": 3.509,
-      "count": 88
+      "avg": 3.216,
+      "min": 2.826,
+      "max": 3.499,
+      "count": 92
     },
     "lpg": {
       "avg": 1.959,
@@ -2070,9 +2070,9 @@
       "max": 1.959,
       "count": 1
     },
-    "observations_today": 191,
-    "observations_yesterday": 26,
-    "observations_older": 7
+    "observations_today": 182,
+    "observations_yesterday": 39,
+    "observations_older": 9
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8632,52 +8632,52 @@
     ],
     "global": [
       {
-        "title": "Treasury is sanctioning 17 tankers tied to Iran's shadow fleet oil network - Quartz",
+        "title": "Brent Crude Gains More Than 4% on U.S.-Iran Tensions, Hurricane Isaias -- 3rd Update - Moomoo",
+        "source": "Moomoo",
+        "published": "Thu, 08 Oct 2026 22:12:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMG1BeUkzX0lxX0ttY3RBY25KRXpRZi1OOHVVclJ2eWxxVUZZU29DVTRaQndGbUV3TmVNanVoR0FJYklkYnh0bVZzdFFpa182Nmg4X19aa0ZRSXZZSGVKcFA0enM2YURfeDQzekktQzBwSzQ1Ty1WLTZVbk0tVlByQlFGV3VYOEllWUcweVg1aHNpcFZhNUpXYQ?oc=5"
+      },
+      {
+        "title": "U.S. sanctions 17 vessels in ‘Most significant blow yet’ to Iran’s shadow fleet - الحرة",
+        "source": "الحرة",
+        "published": "Thu, 08 Oct 2026 21:34:53 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1jN3JITC1JaHVlLUFCZEdkUXQwUHVfQUFCc09iWXQwWXVyenhhNk9wVkpsaGc2U2prRFFHUGZ4VDB0UQ?oc=5"
+      },
+      {
+        "title": "WTI Crude Oil Price Forecast: Bullish Breakout Targets New Highs - FXEmpire",
+        "source": "FXEmpire",
+        "published": "Thu, 08 Oct 2026 21:15:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYTF5Z1ZyWlRoNFdSNFpVVzdtc2Z2VUZLTlI5QV9OU0J3NUxYOU1uel9ZWWZxN21XbFF6SEltbTU2Y0doY3RKbnZSeUFMb3QwUlBtamhwQTh0UjFtaUxrM2JreFloRlNxem1qSXFMQzQ5dmlSUUZ3OXF2alJqTW5PVjZPX0dCekl4N2tHSzlVSWczaWlIdjJZNlc1RVdNUDlnN3NtamdJSDl3YmUwRnJmaV9nU2Y?oc=5"
+      },
+      {
+        "title": "Iran War Energy Shock Puts Hydrogen Back on the Table - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Thu, 08 Oct 2026 21:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdVFBd3M4T2ptb1R0YkdWOVo0dHczS2dwbk9pTERDQ3NmUmhOS0s1M3hzV1BVOFJyWElwcGxVbEx6RHdpQlhTNGs4bFdRcXBvQ2daWDFSWWh2QkNNNFAzbEJpeGZ1OXppUl9MUUp3c3M3cmtRSHBMR1ZjSFNiQkhKS3pGXzNYWkd1d1FiX09uVkt0bmNCRVR4XzZLdFlseDdGMFRF0gGoAUFVX3lxTE9BNkQ2UmxFQjdoTVdIU0pEUldPZktYNk05bEd5alV2QlhWQU1lQUxjQ0R5WEFJdHgxazRBQjk4LUtiYU9hSDZnb3JISWJlUWJwQmxwZEtWaFpIZmM0eUVKM0hrTDZUOFpFMW5sLVV6OUVYanYyZDZKSXI1VHA1WF9RT2ZLbXktYUtCOW5oUW5sQjE5cUxlMEwyWUFHcEtFc29ZOXVNZE0tUQ?oc=5"
+      },
+      {
+        "title": "Rising oil prices, falling technology stocks and reversing bond yields keep Wall Street unsettled - Baltimore Sun",
+        "source": "Baltimore Sun",
+        "published": "Thu, 08 Oct 2026 20:32:05 GMT",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4xZEFMU25vTXdBemdBZHVYRGx4UkpKVmtHWGp1d2xZY1dKU0R5Nlc1R3VRQy1YcTVqTlpLR2tXWVZvMG42emtDbHgwWlVYbmp6S1p6TWUxdDFISzAtOWZ5YktmZ19nQmpXUDg1X2VtbEFGdWR6RTFlVGdwaw?oc=5"
+      },
+      {
+        "title": "Trump’s pledge not to strike Iran before midterms fails to soothe oil markets - NBC News",
+        "source": "NBC News",
+        "published": "Thu, 08 Oct 2026 20:19:19 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLTA0TXdyTldZVG9YbjBHRHJZUXJvN3JVZHlmRlRnVVgwOFJSVHZlM3ItWG9QeWUyVUJObVd0WjgtUGhES1NkOE9QSFJ1dFBZV3FtX2ctdkNHSjgyWU9RN184RTh3akIwcXE4SU9qaktLTGNlTE5WLW1OUC0xMzBEV0hneW9ZQQ?oc=5"
+      },
+      {
+        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
+        "source": "LiteFinance",
+        "published": "Thu, 08 Oct 2026 20:17:38 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
+      },
+      {
+        "title": "Treasury sanctions 17 vessels in Iran shadow fleet crackdown - Quartz",
         "source": "Quartz",
         "published": "Thu, 08 Oct 2026 20:10:03 GMT",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8ydDIwbVN1YjJibXFILWs5RXRCelJ5Tjl5dmRVVi1HOUIzQVhwc1hOZ0FsbFNfbVVOSVkzUU5YVkdvaE1DVGtKQUx6SnlDM2FDeW5abExLUUdWa1JSNjk3VkFac3F1U2s2OTh0ME4xX21zMXFa?oc=5"
-      },
-      {
-        "title": "Refinery outages pumping up fuel prices more than cost of crude oil - Federal Reserve Bank of Dallas",
-        "source": "Federal Reserve Bank of Dallas",
-        "published": "Thu, 08 Oct 2026 19:36:58 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54QVNSRE5wVG1lQmwyWlpvX1gwbmNKbmJmaXc0NTFjR2Q5ZGJMbThDTEhjUS1Wem9qY2dHXzZwYXlLeUNtWVdiTzdVZ2hva3lueEJFLU9KcFdpaFZVZTJvcTI4ZmU?oc=5"
-      },
-      {
-        "title": "Crude Prices Finish Sharply Higher on Middle East Tensions - Barchart.com",
-        "source": "Barchart.com",
-        "published": "Thu, 08 Oct 2026 19:16:34 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNODFhX09FeGtDLVBZWVVEY3JsdU00ZGE2bDRUVzJUUFpJNzY5aWYzY3o5UFY2RUJ1dWk5akdfMUFKRG81VkwzZmdsYjBjLVM1MXZrMzBOT1hKbExjZ3k2Y1JxemlrNnVDbU81ZzFwNmF1RGdVWDB3Qk5NWG9nNlhMNjlCbTk5NEVGMm9VcHp3dFlIaEdyTkhYbzJVbmF3WE91VGUwMQ?oc=5"
-      },
-      {
-        "title": "US imposes fresh sanctions on Iran's shadow fleet - Reuters",
-        "source": "Reuters",
-        "published": "Thu, 08 Oct 2026 18:35:24 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUm45bHRGMFlmNEV2d2lTTkFvQURQckhMSGhYRlhxWUtOb1d2cGhCTnVXUEJaMF94S2xZNXFWMF9ONTVraWdWdnVOME04c2xyMk5tRnhHVjI3YVFmQTZIWVR6MXhDUUNram9tRjlsejRlRXVQUERDX3NkY2ZIVmlsOV9Ic0wxOVNPSmVCRmtVVExGcWZNY0tCTw?oc=5"
-      },
-      {
-        "title": "Why are gas prices still high even as traffic improves in the Strait of Hormuz? - ABC News - Breaking News, Latest News and Videos",
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "published": "Thu, 08 Oct 2026 18:33:49 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONWZQR2hxUElNUUpGeWxZM20wTnJUM0JuTE1NSzVKRm0zUXBHS1RMOHpnTDFjbkZtZVV6djZLOUZta1U0TldfakxxOUgzTWNBeXBzcGJndW1vRk1kYVY4Q1IwOTBqMnd2VG5RZ0tlaEZ1STBRWlhOU2xLZVREQWwtS1NSaWN0NzU0MEV3UmdabTRnaUQ3MURPWDh30gGfAUFVX3lxTE1ZS2M1VW5HU3ZuYUN1M05nOHlsaGRvQWpscWJvN3NpcWMzR1J5RUw2UUdHVXhLZWtSSS10d01ZbmthTWRXaEtrOEJVbVRfc3JVMVExQXlydlhZbF9TMGhlRGhvVVlYYW8yMnpyd01ubEF4ZDR2M25HZFRzMzJHSVNadXFObnQ1bm1pQjhpYzFOeTd4Y1lwTVprNHYzNElCRQ?oc=5"
-      },
-      {
-        "title": "The Oil Crisis America Saw Coming - The Atlantic",
-        "source": "The Atlantic",
-        "published": "Thu, 08 Oct 2026 18:10:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX29Cd3dycEpYMTNXV0x4MTItWjFVWnE0TjNmSWNtTlpPQ0lUaHNUUWFIclJGNnJNSUFQVFR0UVEwMWNETTBsTmVWc1AwN1N1VGlvVXVJaFlfTl9TempkemREVjFZbHpVZmJWREVNelk3TzZnc2dSOU5PRHNCTDhFRGlDMkRZcW4zREk3b1RER0dEbGt2ZFU3dW5sWTVVajU0UXc?oc=5"
-      },
-      {
-        "title": "Oil jumps 5% as Hormuz tanker attacks escalate, US Gulf hurricane shuts in production - Oil & Gas Journal",
-        "source": "Oil & Gas Journal",
-        "published": "Thu, 08 Oct 2026 17:38:25 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZWE4MDk0OC16dUFpdERsSlVkNTFVbHNKTGZUY1RFRFRFd2E4UUlWUXNSN1hWaGJQbjh3X0NpM2ZtOFd6ZG1pa3BUa1JMVF9KNWVoaXNTOG16eUhxcnZPaC0xbjlPUVJSTkc4QmpBdXFyUm9fQzNiTE5tQmZhYkhSUmJ1V05xOGVSTU5KNmpJb0hzcEJhaE5QNFMzTmNrcElQa255ZWVxWjBUdWtlMDRCdjVfY2hTS2tsNXN3a1NvZkRWNjUtTzdCb2xJcXhNWWdQSDNlZ0lmejBTRUNlS0l4VWJaVXhDQVk?oc=5"
-      },
-      {
-        "title": "U.S. Gasoline Prices Set October Record Even as National Average Slips - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Thu, 08 Oct 2026 17:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM1pPdHlta29JTlhucVNQZ1pKcG1XSDZVb3hoZGFFRldoc1VHUFMzbTdBSXAxVDNDQnFsaWVGM1pYMVZiU21iakQ3OGUwNjZaYTlwbG1YQjZLblRMRHIyRFJRZ1hFS0gtWExlc1FfcklCNWdoVlJUdlZaT3g2OTVQR28yXzZTeDlxR3ZHMDMzWnNlSjVfTjZMQjV4RGJkVGpGelFUUV9QQThWSERldjlrMkhGRGQ3N3pDckhhZ2o0dV9FQdIBxwFBVV95cUxNVlpWUWZDcVBpT3BoeXFiRnJiYjdieHZGMEFlcjFQcXhkQnFvN2hHQWN4RURuR2pxa2tNUDQ1YUhTWHI4OFptRXRIbTNHNUl6TnJrbkgtVjdUWUFRdTRBYllUTDNwSFNLWEN2dzIxc1VKYldMRmxPN3Z6YllEQldINDRnOHgtd3QyWDZsTlFEQjRCdmtaR3NjUFd2Sm1Pczdhck95VEZmOEdwZ2ZGVlhLemRmRWE3MVNseWtTLWV0NDEwZmp4WHlV?oc=5"
       }
     ]
   }
