@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-10-09T19:35:42+00:00",
+  "generated_at": "2026-10-09T22:20:18+00:00",
   "fx": {
-    "nzd_per_usd": 1.785734,
-    "as_of": "Thu, 08 Oct 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.785496,
+    "as_of": "Fri, 09 Oct 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 103.71,
-      "latest_date": "2026-10-08",
-      "delta_1d_pct": 3.5,
-      "delta_30d_pct": 18.07,
+      "latest": 104.43,
+      "latest_date": "2026-10-09",
+      "delta_1d_pct": 0.14,
+      "delta_30d_pct": 16.42,
       "series": [
-        {
-          "date": "2025-10-08",
-          "usd": 66.25
-        },
         {
           "date": "2025-10-09",
           "usd": 65.22
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-10-08",
-          "usd": 103.71
+          "usd": 104.28
+        },
+        {
+          "date": "2026-10-09",
+          "usd": 104.43
         }
       ]
     },
     "wti": {
-      "latest": 91.11,
-      "latest_date": "2026-10-08",
-      "delta_1d_pct": 3.21,
-      "delta_30d_pct": 10.8,
+      "latest": 91.66,
+      "latest_date": "2026-10-09",
+      "delta_1d_pct": 0.19,
+      "delta_30d_pct": 9.73,
       "series": [
-        {
-          "date": "2025-10-08",
-          "usd": 62.55
-        },
         {
           "date": "2025-10-09",
           "usd": 61.51
@@ -2033,45 +2029,49 @@
         },
         {
           "date": "2026-10-08",
-          "usd": 91.11
+          "usd": 91.49
+        },
+        {
+          "date": "2026-10-09",
+          "usd": 91.66
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-10-08",
+    "as_of": "2026-10-09",
     "regular_91": {
-      "avg": 3.515,
-      "min": 3.125,
+      "avg": 3.578,
+      "min": 3.316,
       "max": 3.759,
-      "count": 86
+      "count": 65
     },
     "premium_95": {
-      "avg": 3.702,
-      "min": 3.166,
-      "max": 4.019,
-      "count": 41
+      "avg": 3.781,
+      "min": 3.396,
+      "max": 3.979,
+      "count": 35
     },
     "premium_98": {
-      "avg": 3.861,
-      "min": 3.487,
-      "max": 3.98,
+      "avg": 3.912,
+      "min": 3.686,
+      "max": 4.079,
       "count": 10
     },
     "diesel": {
-      "avg": 3.216,
-      "min": 2.826,
-      "max": 3.499,
-      "count": 92
+      "avg": 3.253,
+      "min": 2.836,
+      "max": 3.999,
+      "count": 69
     },
     "lpg": {
-      "avg": 1.959,
-      "min": 1.959,
-      "max": 1.959,
-      "count": 1
+      "avg": 3.068,
+      "min": 2.307,
+      "max": 3.829,
+      "count": 2
     },
-    "observations_today": 182,
-    "observations_yesterday": 39,
+    "observations_today": 139,
+    "observations_yesterday": 33,
     "observations_older": 9
   },
   "mbie_waterfall": {
@@ -8632,52 +8632,52 @@
     ],
     "global": [
       {
-        "title": "Trump eases Russia sanctions to allow Putin to release diesel fuel onto the global market amid price spike - NBC News",
+        "title": "President Trump announces deal with Putin to deliver Russian diesel fuel to the US - New York Post",
+        "source": "New York Post",
+        "published": "Fri, 09 Oct 2026 22:13:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYVRtNF9Ja0tLZXFSV1FwTkNVRkpGMF9tbmNGVVZQLTBNa3dna1RsV3YyRndURU9SUGZjNzVkaUtDeUFqRUlnVHd2S3FzT09OTzNCS2RJMGViU3p1QzNiTHVxUGJDMTM2MllDTnRndHMya3YwWmhrdEtmd09tYnR4OUQyYkhyclZOM28tQjRrUUhBMElUZjc5anFzeWQ1Vkw4OVZ6YkJBS0JMNHl0ZU5CTjI2UGN6RXItdjNJTXZB?oc=5"
+      },
+      {
+        "title": "Brent bullish bets dip as rising Mideast flows tempered by ship attacks - Quantum Commodity Intelligence",
+        "source": "Quantum Commodity Intelligence",
+        "published": "Fri, 09 Oct 2026 21:54:34 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcXJUY19kSHRSVWlTOGhMeGhPdFpfQTl5QnJqbzZ0elI3MjM1LTJyRFFrVGVaZDRvTGFINkJrNU9KNDRURWpNMzZQbDhqQU9VLXdTS2JxWG9OYUdCUWdzOFA5T09RMjhzWGstU3V1LW5EWGNUY20wajdNcFl6LUt1d202MGlfSDNUOGJsbmpnenc5ZGZvNjd2dDkySkU0b05SclVvVXE2ZDlRcG43UVVxMkZKZzk?oc=5"
+      },
+      {
+        "title": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms - NPR",
+        "source": "NPR",
+        "published": "Fri, 09 Oct 2026 21:24:13 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMFpNSmprS19HeUk1dlJtTTNEbUdRbEl3cmJqQ2JYSzJNZWVXYkludUtkSTdwYUpRQWstTlFla0RWUjlQWXVFVllqX1djaXhPbE5Qd2xOSEo5TUtYQkU3RG1SZkMtdUJTWEhxVERueVVjSUdMYzNYVEhkNGxNWHMtSElPa3NDMkIybTBjd1BTMWVHWGpERWpIam1sLUY1NXJHcTMxdjVtWVVuZWlvb3ZZcE9RRml1X2M0MU5Wd1B4MXN2eUdPOGRZNnkzNDJsX2ZUeWZSX2xHV1Y2N3Rf?oc=5"
+      },
+      {
+        "title": "Trump says US to import Russian diesel in deal with Putin before midterms - USA Today",
+        "source": "USA Today",
+        "published": "Fri, 09 Oct 2026 21:24:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTGFyN21yaExWSTBhczQ0Y3E4aTdJUm1fTGhJYUNGX0FxVGZic1hCR0RIVW9ISEN2V1NBWnNhSGFMcGNVdFpnWWNjTy16WlI5c3NXSk53RXZQTGdaMXNYUGdYeXloSWRTUFBIVkE5X0NkVExjWnNJa21nSm9ueTdlN0NRaE9UOEQ1UFJLQzhSZDVoRnBsMFNEdE40dDNGOTBiRGFsWGpycXlwVEZZOTdldWtCdThhUFF3dmhzb1pyWVd0cU5h?oc=5"
+      },
+      {
+        "title": "Trump announces Russia will release millions of tons of diesel to help with skyrocketing costs - CBS News",
+        "source": "CBS News",
+        "published": "Fri, 09 Oct 2026 21:02:47 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRU9DSnZQQ0lwUUJXeXRRbXNKRFVuUWhKbW9WUlV0OTZiamhnclJaYXpwb2tNMlZTVFlwR1B5MGk0TjlpREZBd0R5NmFjbXhIQzlKMy1ubjNUeTZYY0dDT2ppNHU2c3pOTzRtT2FWaGIxaFdJNGgydElPaGRabEVTQm1zd1Q3WnZkVGVXNC1B?oc=5"
+      },
+      {
+        "title": "Trump eases Russia sanctions, says Putin will release diesel amid massive price spikes - NBC News",
         "source": "NBC News",
-        "published": "Fri, 09 Oct 2026 19:00:54 GMT",
+        "published": "Fri, 09 Oct 2026 20:33:14 GMT",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVXFFRkltbDNZaFpHRnM1UGJFdzNPNmhuUGZFQzI1eXRDYXZMTHI2NmpDRUVXaG9zanRscUl1MGtqWTVaQ203Ym5JVzNQU0t2VWpOX0J6LVM0OWJSQVF1VHMxMVNfclBwczFrRnJQZHlfc0ZkejlDdWRjeU12MGV2eEZ3?oc=5"
       },
       {
-        "title": "Middle East Tensions and Hurricane Threat Drive Brent Crude Above $104 - BigGo Finance",
-        "source": "BigGo Finance",
-        "published": "Fri, 09 Oct 2026 18:07:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rS0cwUThxZnRBU2o2dWVSUkQ3UmZHN3NQT290OWdXdUZGUFI1MDlpeTQ4QWNhcHFhMG0zdTJYV1VpcWFwZWNEOWhMVUt1SVc1T29LM0xWVk1vZlhLODN4YVU1MnV3eTdMcGl3emdiZk90MEZ6RGc?oc=5"
+        "title": "Trump strikes diesel deal with Putin, reversing years of pressure on Russia over Ukraine war - France 24",
+        "source": "France 24",
+        "published": "Fri, 09 Oct 2026 20:00:24 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZHFCRE56TmxpdkEwZ1pBVWpVX25FMGo2ZVB6dnRVZmFxaEtuWTQwWWJuYWMxVnFIRDdYMGJRZ1RzWTVhVEMyRXkwZkNqeHdHaEU0c3ZlaFZFVklTVUotTWF0MnpjNi1KWjlzMkh0ZE9KXzhGT2Z5cThUc0lvZms5R2dMVk5neXJYU29FWHRlMk51NVhkUlpMUEg0SURVWlkzTG5Ncm9VdlJ3TktJZTQtYnRKc2gxUjVSaGVvem53YVhVOHJwN1VJZ1c3Q0xaU1Iz?oc=5"
       },
       {
-        "title": "U.S. Oil Drilling Continues to Inch Upward - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Fri, 09 Oct 2026 17:31:16 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObTBNck1Jc1dfZ0VaS05kMlRIZ3ZldHk0b096Nld4cWplS0hkazJ4blViNXFmcHdoYkVEYm5rcTFySVB2ZzE0YmlZbl9uUmpGVjQ0WTVITkFxSlF2TWV3VDNzOER3YzFFcUk5VVVoVW1SSVRWbFgxM0RmT1lXWkdKQy10NjNuRUExdTBr0gGQAUFVX3lxTE0zV1V2VzVxT1N1STNTSnQzREFMNlhYU2E3RVdlY1ctZmhuZTlkNmxDemxTOWVvNHE5Y2t5NDdtcGFIanpZd19KWTVXWm1JRFlNb1B0eUMwcjBnV1JiNWdYdG9xS1N3M0ZsT3VrcDd4c0o2akExVFFlc1lLZlIzdWJJa0gwZE5ybTlfSTd6UjhLcQ?oc=5"
-      },
-      {
-        "title": "The Week in Oil : Escalating Middle East Attacks Threaten Supply Recovery - marketscreener.com",
-        "source": "marketscreener.com",
-        "published": "Fri, 09 Oct 2026 16:45:26 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNGJkdVdickJXRUdNc1AtenY4QVlHcmFtT3RKVTF6TjVldWwwN2FHcVVkYXhOSGw3TlVwbU1QWWtOZlh4bzFpMDRaWXV3QnZNaE1HNDUyX1FqVjc3Ui1aMzdIeUZqUV9feWstLVJRU1NlU1VHX2pyRFdtdjhnR2ZKNGcyNzBCTWpXVWJBNXZtbUhlMXIwcS1OMW1CSno1R01tQUNhQWNzZjRrTWVXVTVIV0ItVkMxYkljNGhZVkRwSlhKdw?oc=5"
-      },
-      {
-        "title": "Trump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Fri, 09 Oct 2026 16:35:22 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcjhpUHVoZlppeHJ0OWFmNW82ZWh1VFM4Vlp6Rmx6V3E5bnVHc0QxVk1wdy1wN0hLaW1lbGFFNGMzSnpnbVowQmVSSlNLT3JGQjRRc29xUE1aaVc5UkdEcVJEOXdmQk9tMk52a3dNYjlMVzRYSzExNWlySjBEeFAtS3k4NDJuc19iNWtZNmt2NnY1TUxlZHNXa1J5NUVEWTRmcm5pSmNGa0lkbzkt0gGyAUFVX3lxTE83WDNmUVZwd3R4ajlVSzZuMU0taU1xMVhxdEVsUUxRY1JXTFNZWmQxYUhMSk5YT05QWUFRemxxWW1jajdWdU52MkpsT1J1VTVwYk5PQVJmX1ZWNy0tZVZURkdWQ3BWdWd5eDhPdHdLY0hEcmk4c0diZmRKOFlKVTRYa2JXMHZDNTlPc2VfQnhTOEdmVTNIb01fWWp3TFZCSnRQa3NuQlhDTWpoUVhhYTNaUkE?oc=5"
-      },
-      {
-        "title": "Brent Rises Past $103 - TradingView",
-        "source": "TradingView",
-        "published": "Fri, 09 Oct 2026 16:07:25 GMT",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nN192eG0wNVctLWxibFVUeU1MSnJReVlZYVlINVJaY3JVOUdRQkhYN1R5cUZpUGxTU3dxRUVIY211SDVYc1BMb1ZZM0ZYczBwcDZIU3FtbXdsS2lYRVYzYVduZVlrTGZjRDM5RVRUXzVhRk1YVlByN0lMaw?oc=5"
-      },
-      {
-        "title": "Oil Futures Return Some Gains As U.S. Strike Concerns Wane - WSJ",
-        "source": "WSJ",
-        "published": "Fri, 09 Oct 2026 13:43:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT29lZGY1VzlRMTFhY0RnZWw0SkYzLVBiSGpSOTA2dFJFeFlFbWp0X0JaejJvMEo4VzJSRUhldU9FZFFrZDIwODRaaU8zRlBIZlRkOWZWNl8ydVZtTVlrZFVDREFHUjUzWm85MFg3aW1WODl2UE9idDJueHpmWGMtbG14cmw4bkxaTExHVURGY2RaeVRpenEzTHc1b1BaOGFZY2EyMV9CSXlSMzQ2UjFFS0diTHBrdw?oc=5"
-      },
-      {
-        "title": "Oil prices head for mixed weekly close amid conflicting market signals - Anadolu Ajansı",
-        "source": "Anadolu Ajansı",
-        "published": "Fri, 09 Oct 2026 13:25:34 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb01oWFp1MEV4MzZTM1dKdzYxNGFGVDVFZjExcW9ObnE4S3RCWmNxSDFud1pqV01mMXhQODFfUHVZS3hJcTJvOTY4dG5DekdfQ25yc1JfZzBkbjFPODNlTzhWV3VHTWJxUFBJUVRiVmNxeU9vY0N6X1o5aURObjdqTU5SZUFFVEk4ckpyUjQzbFlCbE5Ra1A4OHVvUkozblZaNC1UbUQ4aElpTzFuVGg3R09B?oc=5"
+        "title": "Putin Cons Trump Into Making Massive Oil Deal With Russia - The New Republic",
+        "source": "The New Republic",
+        "published": "Fri, 09 Oct 2026 19:54:21 GMT",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Fb1FWMTEyMTBvbk1WOERlTzJEUHo0YUlVNVl1a0ZldVpZNFZIOEZyUWJRaTZDeHFMV2NheXpYN3BsU3lqUGZUTUtlVVdWd044bFJ5bkRiRFpoTnNPdzIxb1g5cTNWc1Uwb3V3LVltUW4?oc=5"
       }
     ]
   }
