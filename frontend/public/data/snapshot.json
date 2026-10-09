@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T22:20:18+00:00",
+  "generated_at": "2026-10-09T23:32:58+00:00",
   "fx": {
     "nzd_per_usd": 1.785496,
     "as_of": "Fri, 09 Oct 2026 00:02:31 +0000"
@@ -8582,6 +8582,12 @@
   "news": {
     "nz": [
       {
+        "title": "'All gas, no brakes': Westpac NZ now expects annual inflation to hit 4.2% by end of 2026 - Interest.co.nz",
+        "source": "Interest.co.nz",
+        "published": "Thu, 08 Oct 2026 21:52:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVXpmSXJTaUdBR284MElueElpUEVuLXRNNzZoRmg3R0trc3JRS2hCT1ZQX0VFNHY4VXpUZTREUzdxeW1LUjRJVzFNUHZQMDZ5cDYySnVkUkxsWE5zcy1RYXRFRVBJcnZqa2hWR0FwVE9WYkk1aWFnRWJRUkFKWHpFUTBTaUIteHZ0LURxQjF4dFBUS0hEVWRRNVAzT3F5S0hlX09SR1pvOGpybVNSdmZlSFFfOHJocl9sV1dhbjZRRQ?oc=5"
+      },
+      {
         "title": "EV rush and broken holiday plans as Cantabrians feel petrol price pain at the pump - The Press",
         "source": "The Press",
         "published": "Wed, 07 Oct 2026 15:00:00 GMT",
@@ -8622,15 +8628,27 @@
         "source": "IndexBox",
         "published": "Mon, 05 Oct 2026 22:10:37 GMT",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNazZ5WndlSTlGaXJtaEk3cUM4Y2cxXy1uZUoyNlk4V1NGeDNXdnZaU2JmNExXZy1RcElVS0E3bFN2UHdsOEMwR3hPOXFrcUE0UTA4ZWZGV1NVbU1NZGNpYWNYUjYwMDZnT1FqZG1xVXQwRFNuMWZGT0tleFhhang3d01WVnZQUl9Yam11RTc1MkUzWURFRERuTUVxUDgza3RJQ3RIaUVB?oc=5"
-      },
-      {
-        "title": "Petrol pains: Why are fuel prices continuing to rise? - Newstalk ZB",
-        "source": "Newstalk ZB",
-        "published": "Mon, 05 Oct 2026 19:10:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNaTRmQUp5UkdHLWNITzU0QWFoSG9oODdvRWJYdHZ5VVF2dVB1ZmdJWVo0MEhVTWxvWEk2cW9hR05VLTlrX3ZRMGt3WTBSaTJpZ21LUzNGcVcwLVhOb3VaRWhWN0tsX3RqdEV2VHg5c2V5Y2ljcTJjVm5VTEJZVTBYWDlfVWllb1JvTnZ5QkF6S1VBR2tTZlRKTEtKZlN4MUluQnZhS042NWUwOFhBMC1Kc1pXVnlfdldTYUUwQTd2aHQ1Nk9yTGNrQTZSYm9nOGh0NWQwTDhpdC1oU1ptRUpNSGNOU1VNaE1wenR3R2FuTTlCMW4tUjBzTkx6am5PYUdMcDhHWDRoRGpnU09WT0xBRHIydU5OS0pzbGQxcFc4RHBzaEk?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Trump says US to import Russian diesel, reversing pressure on Moscow - USA Today",
+        "source": "USA Today",
+        "published": "Fri, 09 Oct 2026 23:10:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTGFyN21yaExWSTBhczQ0Y3E4aTdJUm1fTGhJYUNGX0FxVGZic1hCR0RIVW9ISEN2V1NBWnNhSGFMcGNVdFpnWWNjTy16WlI5c3NXSk53RXZQTGdaMXNYUGdYeXloSWRTUFBIVkE5X0NkVExjWnNJa21nSm9ueTdlN0NRaE9UOEQ1UFJLQzhSZDVoRnBsMFNEdE40dDNGOTBiRGFsWGpycXlwVEZZOTdldWtCdThhUFF3dmhzb1pyWVd0cU5h?oc=5"
+      },
+      {
+        "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law - CNBC",
+        "source": "CNBC",
+        "published": "Fri, 09 Oct 2026 23:02:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbTB3TGU4cm8tNFhlSWRLeVlydl95WXA3RlMxdFhpd1NaNDY0MUZZaDFRQ0g5VVprZV9ERkNMV0lMTWRUc1ZYQlpYdEdiTG1vQjVkR2ZpZmlGT2h0RFppaHh2MTV2djZzQXp5Y0NJenRodENaSHp1djhFTWY4YXRfc3hZSDJTaEnSAYwBQVVfeXFMUEI4blVkNFA2U0p3ZV85TURQRFNFQm1WYjBXQWpVNW1TN05fWEpEcUFXdTVpQUV6c3htcndpcElIUzdKUG9RUjNUa3dVWFpsLUdFRnpHV1p4VExfLWUwM2YxVGZwT2ZsRHRZSFFVNGhVd0N4Wm1KcDNDNTFIM1lMNXpxNldMczA3Z19rcE0?oc=5"
+      },
+      {
+        "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices - BBC",
+        "source": "BBC",
+        "published": "Fri, 09 Oct 2026 22:30:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qNW1Jc21nbVotN3llaW5rWm5QVWxyTzdxZnp0WXpxSmx2LWlDNjE0aS00NzJnUENpcXVkSzMxWVFkUGZxOXY3YktLdWk0VldFSWFFOFAzeXJNTW8?oc=5"
+      },
       {
         "title": "President Trump announces deal with Putin to deliver Russian diesel fuel to the US - New York Post",
         "source": "New York Post",
@@ -8644,40 +8662,22 @@
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcXJUY19kSHRSVWlTOGhMeGhPdFpfQTl5QnJqbzZ0elI3MjM1LTJyRFFrVGVaZDRvTGFINkJrNU9KNDRURWpNMzZQbDhqQU9VLXdTS2JxWG9OYUdCUWdzOFA5T09RMjhzWGstU3V1LW5EWGNUY20wajdNcFl6LUt1d202MGlfSDNUOGJsbmpnenc5ZGZvNjd2dDkySkU0b05SclVvVXE2ZDlRcG43UVVxMkZKZzk?oc=5"
       },
       {
+        "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin' - BBC",
+        "source": "BBC",
+        "published": "Fri, 09 Oct 2026 21:54:28 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBienVVTnRKNXU2d0JqVGJDU3ljYlpadlltOE1jc3pkb3pacGFpQXhXUzZ5OUJESU5mUmdXekZ3eFNMeF8xajBwdHlYLUJNcFJqOE9ldHNXYXhVVXc?oc=5"
+      },
+      {
         "title": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms - NPR",
         "source": "NPR",
         "published": "Fri, 09 Oct 2026 21:24:13 GMT",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMFpNSmprS19HeUk1dlJtTTNEbUdRbEl3cmJqQ2JYSzJNZWVXYkludUtkSTdwYUpRQWstTlFla0RWUjlQWXVFVllqX1djaXhPbE5Qd2xOSEo5TUtYQkU3RG1SZkMtdUJTWEhxVERueVVjSUdMYzNYVEhkNGxNWHMtSElPa3NDMkIybTBjd1BTMWVHWGpERWpIam1sLUY1NXJHcTMxdjVtWVVuZWlvb3ZZcE9RRml1X2M0MU5Wd1B4MXN2eUdPOGRZNnkzNDJsX2ZUeWZSX2xHV1Y2N3Rf?oc=5"
       },
       {
-        "title": "Trump says US to import Russian diesel in deal with Putin before midterms - USA Today",
-        "source": "USA Today",
-        "published": "Fri, 09 Oct 2026 21:24:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTGFyN21yaExWSTBhczQ0Y3E4aTdJUm1fTGhJYUNGX0FxVGZic1hCR0RIVW9ISEN2V1NBWnNhSGFMcGNVdFpnWWNjTy16WlI5c3NXSk53RXZQTGdaMXNYUGdYeXloSWRTUFBIVkE5X0NkVExjWnNJa21nSm9ueTdlN0NRaE9UOEQ1UFJLQzhSZDVoRnBsMFNEdE40dDNGOTBiRGFsWGpycXlwVEZZOTdldWtCdThhUFF3dmhzb1pyWVd0cU5h?oc=5"
-      },
-      {
-        "title": "Trump announces Russia will release millions of tons of diesel to help with skyrocketing costs - CBS News",
-        "source": "CBS News",
-        "published": "Fri, 09 Oct 2026 21:02:47 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRU9DSnZQQ0lwUUJXeXRRbXNKRFVuUWhKbW9WUlV0OTZiamhnclJaYXpwb2tNMlZTVFlwR1B5MGk0TjlpREZBd0R5NmFjbXhIQzlKMy1ubjNUeTZYY0dDT2ppNHU2c3pOTzRtT2FWaGIxaFdJNGgydElPaGRabEVTQm1zd1Q3WnZkVGVXNC1B?oc=5"
-      },
-      {
         "title": "Trump eases Russia sanctions, says Putin will release diesel amid massive price spikes - NBC News",
         "source": "NBC News",
         "published": "Fri, 09 Oct 2026 20:33:14 GMT",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVXFFRkltbDNZaFpHRnM1UGJFdzNPNmhuUGZFQzI1eXRDYXZMTHI2NmpDRUVXaG9zanRscUl1MGtqWTVaQ203Ym5JVzNQU0t2VWpOX0J6LVM0OWJSQVF1VHMxMVNfclBwczFrRnJQZHlfc0ZkejlDdWRjeU12MGV2eEZ3?oc=5"
-      },
-      {
-        "title": "Trump strikes diesel deal with Putin, reversing years of pressure on Russia over Ukraine war - France 24",
-        "source": "France 24",
-        "published": "Fri, 09 Oct 2026 20:00:24 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZHFCRE56TmxpdkEwZ1pBVWpVX25FMGo2ZVB6dnRVZmFxaEtuWTQwWWJuYWMxVnFIRDdYMGJRZ1RzWTVhVEMyRXkwZkNqeHdHaEU0c3ZlaFZFVklTVUotTWF0MnpjNi1KWjlzMkh0ZE9KXzhGT2Z5cThUc0lvZms5R2dMVk5neXJYU29FWHRlMk51NVhkUlpMUEg0SURVWlkzTG5Ncm9VdlJ3TktJZTQtYnRKc2gxUjVSaGVvem53YVhVOHJwN1VJZ1c3Q0xaU1Iz?oc=5"
-      },
-      {
-        "title": "Putin Cons Trump Into Making Massive Oil Deal With Russia - The New Republic",
-        "source": "The New Republic",
-        "published": "Fri, 09 Oct 2026 19:54:21 GMT",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Fb1FWMTEyMTBvbk1WOERlTzJEUHo0YUlVNVl1a0ZldVpZNFZIOEZyUWJRaTZDeHFMV2NheXpYN3BsU3lqUGZUTUtlVVdWd044bFJ5bkRiRFpoTnNPdzIxb1g5cTNWc1Uwb3V3LVltUW4?oc=5"
       }
     ]
   }
