@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T19:37:03+00:00",
+  "generated_at": "2026-10-11T21:33:44+00:00",
   "fx": {
-    "nzd_per_usd": 1.782014,
-    "as_of": "Sat, 10 Oct 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.782233,
+    "as_of": "Sun, 11 Oct 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
@@ -11,10 +11,6 @@
       "delta_1d_pct": 0.42,
       "delta_30d_pct": 16.74,
       "series": [
-        {
-          "date": "2025-10-10",
-          "usd": 62.73
-        },
         {
           "date": "2025-10-13",
           "usd": 63.32
@@ -1024,10 +1020,6 @@
       "delta_30d_pct": 9.96,
       "series": [
         {
-          "date": "2025-10-10",
-          "usd": 58.9
-        },
-        {
           "date": "2025-10-13",
           "usd": 59.49
         },
@@ -2031,30 +2023,30 @@
     }
   },
   "nz_retail": {
-    "as_of": "2026-10-10",
+    "as_of": "2026-10-11",
     "regular_91": {
-      "avg": 3.562,
+      "avg": 3.58,
       "min": 3.316,
       "max": 3.759,
-      "count": 54
+      "count": 74
     },
     "premium_95": {
-      "avg": 3.756,
+      "avg": 3.775,
       "min": 3.396,
-      "max": 3.979,
-      "count": 29
+      "max": 3.919,
+      "count": 34
     },
     "premium_98": {
-      "avg": 3.949,
+      "avg": 3.932,
       "min": 3.686,
-      "max": 4.059,
-      "count": 7
+      "max": 4.079,
+      "count": 10
     },
     "diesel": {
-      "avg": 3.248,
+      "avg": 3.25,
       "min": 2.836,
       "max": 3.999,
-      "count": 63
+      "count": 82
     },
     "lpg": {
       "avg": 0.0,
@@ -2062,9 +2054,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 67,
-    "observations_yesterday": 53,
-    "observations_older": 33
+    "observations_today": 159,
+    "observations_yesterday": 0,
+    "observations_older": 41
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8610,7 +8602,7 @@
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzdkgyU3AxbmZXWUpsd1R4R2pzVDVXNlUzSlQ1ZmFKdk9VSmRMdzNRZW1LY1ZDT3NoZWRzUDB0X1h5RlR0MFNQWU5wdlBaTjJXMFVHZ2tsMFBucEdCdnAwYVV4aDFhQXIzTi1iaHdybGZrQXFxNVN4dVMtRnV4UQ?oc=5"
       },
       {
-        "title": "NZ new EV sales hit 2026 high as petrol shock continues - NZ Herald",
+        "title": "Electric vehicle sales hit new high as petrol shock continues, overall market booms - NZ Herald",
         "source": "NZ Herald",
         "published": "Mon, 05 Oct 2026 23:10:35 GMT",
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNkJVTFBTQTZjV2lfMzF3YVJMclN5RmtCSC1zMVhHWkJXcnZEcTFETEdySjhQbURWblJycHgxUnhpRklRbG1tcWdwSV80RElacEdlN2Zybm96U3RadEZ5dlFXUzM3RE5qQzZHX19jdnhKakNQd0V1d1l3b3ZUaTdxLUNUbEVUbnBpU18xYVE0czlVVnExQzlRNDBIaGNwaFphVnNtYVB0Z1dUUUpjTVJqdVZCM3F2a3g0N1RtaUpQdTcwZXc1TmNyc0JmU2x3QUZnNEVPN2N1QXJRelh6MG5HRWtjenl5MFBmMkE?oc=5"
@@ -8626,8 +8618,14 @@
       {
         "title": "Prominent Republican senator says Trump's Russian diesel deal may be illegal - Reuters",
         "source": "Reuters",
-        "published": "Sun, 11 Oct 2026 19:02:44 GMT",
+        "published": "Sun, 11 Oct 2026 19:10:09 GMT",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcDdtenR1Q0JlMzNKUUlHb0ROcUkwZHVpRlQ4ZDFDT2d2WlJndmVVMldTdC1EZkp6TUhSSHNNOWU3SFh3YnJVVk1wTFZIRl9nQTh5OEhHaGtUd1ZOUmJyaGtUOFJIZkFOb2E2N1VtREhDVEZFaHVPMXdaM3pRYlVLWUxTUW45WEllbmNVQ3RQTjZBSDltRXJIbUtJVHJGcU9lVEtNMTgtT0l5VWh2Tk5YQWdma0piSGhMWDQyYkhtc0tkZ2tNelE?oc=5"
+      },
+      {
+        "title": "Brent And WTI Crude Oil Price Forecasts Raised As Supply Risks Persist - Exchange Rates UK",
+        "source": "Exchange Rates UK",
+        "published": "Sun, 11 Oct 2026 17:15:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVWxxVGtKemcwOTUxODJtU2ZFLTQtZExwSkNSaWVZMUhBb016NzVKdnBNVU53a2tDT2c0YWJHRVIya2cxMEFhb1VkMzhlRzJiYUV3YWEwTG1zYWlseWNTdkxLN0MyOFIzRjhtN2ZIQkJyUnpVeTNYNkJicjE0Q2ZWUEpfVnRMMEQ5Y3h3YmFHb1Fwc3ItZTNtQXhFWlRPY2xDTFpyVWJzTFRtOHVsbU5rdER4bzRqc3ZST3VuZk9PcE5FUm9GVUlXSGxn?oc=5"
       },
       {
         "title": "How Ukraine uses precision drone strikes to hobble Russian oil refineries - The Washington Post",
@@ -8664,12 +8662,6 @@
         "source": "The Times of India",
         "published": "Sun, 11 Oct 2026 13:58:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPSExfRDJYekloRWdBLS1CVkQzYkh1Vi0zR0xRUTI0bjFTZVdPU05EZ0pUeU1aVHRLTlhhVFJBLTJKR29FOXdxbEo5MklBX0hzZl9ERVNsT25Kay1IaHQxZEU1N1hDbVJpcVlPYWtsbXlQelFNay1YSG9ZUTlGOXdWZlNsRmNXTDdvV3BEem0yU25majM3RjlWS1RmSUZ5ajdSX3EzZW5zV2d6V3NvaVBpbDhya1VXaG5yVTRIYkR4SjJlWlFjbHl1REZsaVZCTExjTVo3N3dHcHcxdnhadWFCX08yOUVLMzJfTDd0NUJBNzh6cnPSAfgBQVVfeXFMTVJNY05RSVozUWxTVTRDNkRuQTY5bHM0bnhiSVU2bkE5S2U1Y3lrNVNnR1gzeTEzNDBhRkV4NHRyaW9KMEJibFpTYjhtYXpOVmdTbzJidE95bVhfcnRpQW9ndFd2bmJNUGdSUFkwZkxCNGduZ2JEOUlFZHZzVTB0d1diOTlxQ0Y4Q0xzb3I2LXpEYjBVbUJsejZCQWRNdU9UeEoweGJDWWh3TTVOcW5WdzZCMExCeDR4dTExbUNWZmZtRDhWMUNsMFJ2bWFrcDRQQk9SN0FVb3dxZTZVUHlQRmZoM0w2QlNBeW5DQjAxSHh1OFpwcUI0YkI?oc=5"
-      },
-      {
-        "title": "US pressure threatens Iran’s political survival but may not bring concessions - Iran International",
-        "source": "Iran International",
-        "published": "Sun, 11 Oct 2026 10:09:16 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10NjZHZXJNdlc3d2JudGw0OGhVWHVfMHZibWc2V2F5VV9wX3RUUG9jVXBuakNqeVpCclduY1ZvYmljQS1uNW1nQzlYeUd1S194Z2c?oc=5"
       }
     ]
   }
