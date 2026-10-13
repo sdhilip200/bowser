@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-13T21:48:33+00:00",
+  "generated_at": "2026-10-13T22:20:29+00:00",
   "fx": {
     "nzd_per_usd": 1.788691,
     "as_of": "Mon, 12 Oct 2026 23:57:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 105.99,
+      "latest": 106.32,
       "latest_date": "2026-10-13",
-      "delta_1d_pct": 1.21,
-      "delta_30d_pct": 18.68,
+      "delta_1d_pct": -0.31,
+      "delta_30d_pct": 17.49,
       "series": [
         {
           "date": "2025-10-13",
@@ -1012,16 +1012,20 @@
           "usd": 104.72
         },
         {
+          "date": "2026-10-12",
+          "usd": 106.65
+        },
+        {
           "date": "2026-10-13",
-          "usd": 105.99
+          "usd": 106.32
         }
       ]
     },
     "wti": {
-      "latest": 93.19,
+      "latest": 94.76,
       "latest_date": "2026-10-13",
-      "delta_1d_pct": 1.46,
-      "delta_30d_pct": 11.74,
+      "delta_1d_pct": 1.09,
+      "delta_30d_pct": 10.49,
       "series": [
         {
           "date": "2025-10-13",
@@ -2024,8 +2028,12 @@
           "usd": 91.85
         },
         {
+          "date": "2026-10-12",
+          "usd": 93.74
+        },
+        {
           "date": "2026-10-13",
-          "usd": 93.19
+          "usd": 94.76
         }
       ]
     }
@@ -2033,37 +2041,37 @@
   "nz_retail": {
     "as_of": "2026-10-13",
     "regular_91": {
-      "avg": 3.605,
+      "avg": 3.601,
       "min": 3.356,
-      "max": 3.819,
-      "count": 87
+      "max": 3.789,
+      "count": 77
     },
     "premium_95": {
-      "avg": 3.832,
-      "min": 3.526,
-      "max": 4.078,
-      "count": 41
+      "avg": 3.806,
+      "min": 3.516,
+      "max": 4.059,
+      "count": 48
     },
     "premium_98": {
-      "avg": 3.93,
+      "avg": 3.963,
       "min": 3.686,
-      "max": 4.179,
-      "count": 14
+      "max": 4.069,
+      "count": 10
     },
     "diesel": {
-      "avg": 3.244,
-      "min": 2.966,
+      "avg": 3.251,
+      "min": 2.996,
       "max": 3.999,
-      "count": 86
+      "count": 87
     },
     "lpg": {
-      "avg": 4.9,
-      "min": 4.9,
-      "max": 4.9,
-      "count": 1
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 185,
-    "observations_yesterday": 34,
+    "observations_today": 182,
+    "observations_yesterday": 30,
     "observations_older": 10
   },
   "mbie_waterfall": {
@@ -8624,6 +8632,12 @@
     ],
     "global": [
       {
+        "title": "OPEC Sees Oil Demand Growth Surging to 2.6 Million Bpd in 2027 - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Tue, 13 Oct 2026 21:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOFpnUFFzTWtzbElMTlJpWDl4eDE1anR2dTl3M2NydkdTSk93TUpldWZYYVBHemJNQ1dYcDhvaGozNVZCbk9PZzlXQzZCWGtIQjNmWTVKUzRtV0ZjNFRRamZEUGJFMVdUcV9sa1gwTWg1R1FYSHJ5VFcxYVh1UEoxbkJBY09OMm5iQXc0Uzlrd2k2YklZYU9lVzZGUml0UVRLbkpiQTRqb0x5SWU4dnFDYUZxZ2pXbVJK0gG-AUFVX3lxTFBkc0VxQkFtaEtqRkxyTEhjeG5fMkExeW80T1lYMmI4Nlh4ZlhFczVKbWQzejZ1aU1QSVpFYXUzYlUzaTFkSEpvM3RNaE91anVJLXJyVUxiWmNDTjl0MTRPa1BWWmJ5ZzZPeUZJU1VHd3hFZkpQODQ2MDNsamdIOGlXOFp4VHFocnl1ZjcyN3ByUkJXVHA0NHlXbEJkVHVOV2hoNDdZdjFIX1JsdnliUUVGckZLQ2h4Tk1fOWY0Rnc?oc=5"
+      },
+      {
         "title": "WTI Crude Oil Price Forecast: Reversal Signals Point to Further Gains - FXEmpire",
         "source": "FXEmpire",
         "published": "Tue, 13 Oct 2026 21:15:20 GMT",
@@ -8664,12 +8678,6 @@
         "source": "LiteFinance",
         "published": "Tue, 13 Oct 2026 18:19:15 GMT",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
-      },
-      {
-        "title": "Argentina Takes Falklands Oil Fight to International Tribunal - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Tue, 13 Oct 2026 17:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUkN2RzJoRWVpWFJsXzM4S3BPUTZjbHJPXzBzR2ZlVmhkQWtDTDctRTZUS1Nxd3MyMzMyNFVXeDI0T3pSN2J2aEx0ZEZOTms0MkJ2OFJLd0lQa0VzQTBlVy01bzFaS0dXUm8wZC1lWW5sVlBzdG5lcUxVSDRlLTdqSkg2dHNYSUxxTUYzOTQ2MXVDZUZ5cDJfMkRGczNNenFRZ2VuYUdqTFZtNnR0OV9wTkRycGJyZHlf0gG-AUFVX3lxTE05VzRvZjNWbFEwSk1QWURwNjZZbGxDN1JGMUtOVHlqcVhReW4tMHU2MGM0OGhBTGh6dktCc3ZNVG1nRTdoR0Z5REJWM2RyRHpCMEs4Nlh0M1FheVdwbEEyalVMMHhPbkNxQzhQTi1TbnQzOW8zVVF2eG5YU21pbG1hX0FOSDN4UEVpN01QOGwwSFk1Yk1HbHk1Rm9fbEN2QlhsMU10RHFtSGxnZmFWMUtIV3ZGd1N0VzY0S3RReUE?oc=5"
       }
     ]
   }
