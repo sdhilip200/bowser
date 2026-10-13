@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-12T19:45:56+00:00",
+  "generated_at": "2026-10-13T00:12:13+00:00",
   "fx": {
-    "nzd_per_usd": 1.782233,
-    "as_of": "Sun, 11 Oct 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.788691,
+    "as_of": "Mon, 12 Oct 2026 23:57:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 104.72,
-      "latest_date": "2026-10-09",
-      "delta_1d_pct": 0.42,
-      "delta_30d_pct": 16.74,
+      "latest": 105.99,
+      "latest_date": "2026-10-13",
+      "delta_1d_pct": 1.21,
+      "delta_30d_pct": 18.68,
       "series": [
         {
           "date": "2025-10-13",
@@ -1010,14 +1010,18 @@
         {
           "date": "2026-10-09",
           "usd": 104.72
+        },
+        {
+          "date": "2026-10-13",
+          "usd": 105.99
         }
       ]
     },
     "wti": {
-      "latest": 91.85,
-      "latest_date": "2026-10-09",
-      "delta_1d_pct": 0.39,
-      "delta_30d_pct": 9.96,
+      "latest": 93.19,
+      "latest_date": "2026-10-13",
+      "delta_1d_pct": 1.46,
+      "delta_30d_pct": 11.74,
       "series": [
         {
           "date": "2025-10-13",
@@ -2018,45 +2022,49 @@
         {
           "date": "2026-10-09",
           "usd": 91.85
+        },
+        {
+          "date": "2026-10-13",
+          "usd": 93.19
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-10-11",
+    "as_of": "2026-10-13",
     "regular_91": {
-      "avg": 3.58,
-      "min": 3.316,
-      "max": 3.759,
-      "count": 74
+      "avg": 3.605,
+      "min": 3.356,
+      "max": 3.819,
+      "count": 87
     },
     "premium_95": {
-      "avg": 3.775,
-      "min": 3.396,
-      "max": 3.919,
-      "count": 34
+      "avg": 3.832,
+      "min": 3.526,
+      "max": 4.078,
+      "count": 41
     },
     "premium_98": {
-      "avg": 3.932,
+      "avg": 3.93,
       "min": 3.686,
-      "max": 4.079,
-      "count": 10
+      "max": 4.179,
+      "count": 14
     },
     "diesel": {
-      "avg": 3.25,
-      "min": 2.836,
+      "avg": 3.244,
+      "min": 2.966,
       "max": 3.999,
-      "count": 82
+      "count": 86
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 4.9,
+      "min": 4.9,
+      "max": 4.9,
+      "count": 1
     },
-    "observations_today": 159,
-    "observations_yesterday": 0,
-    "observations_older": 41
+    "observations_today": 185,
+    "observations_yesterday": 34,
+    "observations_older": 10
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8616,52 +8624,52 @@
     ],
     "global": [
       {
-        "title": "World's fifth most populous country turns to Libya for crude oil as Middle East supply disruptions drive search for alternatives - Business Insider Africa",
-        "source": "Business Insider Africa",
-        "published": "Mon, 12 Oct 2026 18:49:28 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNDcxdHVGRGZ2bE1PS0d4UlVGUEE2b1ZvSnhlZzlUeTdPNEdMOUhickFvdXNDMGdJd3hURlFnN0ZoWDY5OTFHekV0MTV4WUVEcTlISXRMRklCME9EN0t4c1kxOC1aZG1rY1BrdHdJMkgtTnJkaDhmVXNmcUJ1eTFaU0FSLXB4eUdISjczdHl2Y3AtWFI4QjR5TWNiN1Y4ZGJqcW8tVW8zMHA5cWZFMTJKMWtQeFl2emM0Y3dyaXdIQWVaZUpoV3dnQUk3aHJ1OVZ6Y2JaNDBtUVY1UQ?oc=5"
-      },
-      {
-        "title": "Middle East supply risks overshadow Russian diesel deal - Oil & Gas Journal",
-        "source": "Oil & Gas Journal",
-        "published": "Mon, 12 Oct 2026 17:08:34 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbmh5LXRWN2JwY0ZHQmh1OWZPSl9MNmxEZV9fbzJYRld6NExkR2tqRGZfOEdKZGlXWG01Z3Y4Qi1STlVfUTlxb2pNWl82a3J1bDYxVFEzc2JBdEJ6MVNjV1NCMDNIWGhTeHJXRk1HaEhQWV9jSzE5X2RocjUya0ZyckZhY2xHdVFzZ0tEbW9xRzdNcm5jcS14UTd4LXBtSHNpVmNLTnVwNVlmZHJWemo0QlVZbHJoWDFVV19nYlgwb3QzQQ?oc=5"
-      },
-      {
-        "title": "Bipartisan lawmakers criticize Trump's diesel deal with Russia - Spectrum News",
-        "source": "Spectrum News",
-        "published": "Mon, 12 Oct 2026 16:29:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZndfZVJVSHdyU2Y2M1puVFFDdGFFWWh5SEgzdnpUQklMZk9kR3RmdEs2eHdIcGp0VDZIcjBxN2ZIblE4cXZ0NzI5OHlzOHRDY081emZtdHNBaDlXeWFGc2hwS1o2MUx4NnFwT0k5WXBaVi1ibG5zbEVPYXhBRVQ1Y0xsM3lUZjRtZE5xNUdSN2pya2NFVDAzWjZR?oc=5"
-      },
-      {
-        "title": "What's in the diesel deal between Putin and Trump? - Reuters",
+        "title": "Trump defends Russia diesel deal as lawmakers from both parties complain - Reuters",
         "source": "Reuters",
-        "published": "Mon, 12 Oct 2026 16:00:03 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQVYyWUE3V0taZldlY0hsb2o0Rko0Y0QxTGJrbk80SHhyT3VKcWR1LTNfMFFEcEowbklSemZfRHp0Vk51cTBIQWFxNTBMSGZWTGZJejR4TUtoN1V6NGpWcnJtZWhScXY2MGotd1E4eW05UHd1cVZWb3NJLVI2NXl0QnJlRWlMeW1sVVFKSm1mQnBUd29yZVE?oc=5"
+        "published": "Mon, 12 Oct 2026 22:59:47 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWUNYSF8xeXZscDAyZTZVNC1zZHNtdHhqMng2bVZTenRCTDJWX0FDeV9pMjllMzRMRmJ0blkwMFZ1MENpd1RmbWltR1R0SmV6Q1JUQnpHbnZxNmQtYmZZaFpxdXVLS3Vxd2xqYmI1UVhLM3hCM2gybXN2LUZ5Q2JOdDByZUIwemdsenlGY3FxOENNME5lT0xocWNDYmN6X0ZxQXBiVFNHNnlENmVTOXdqU3pxdlpscHM?oc=5"
       },
       {
-        "title": "Oil prices rise 2% as attacks on Saudi Arabia overshadow Trump's diesel deal - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "published": "Mon, 12 Oct 2026 15:30:33 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQalBiZ1ByS3BBZGdEVGRJdGNyYXJPbWFackFYUUNGN0xIRDdoS2VrVU9idVpkU21DV1F0QzRfOHlDOW5jYWFscl94Wk1WQUtCWFExOUE2dmJiQUs5SnJIVW1ZX05IMjBNd0FFWTUwMGxnLWQwZjFuSGZNZFNBaC1WblU4T25IeU9Ga1JZSEZVS0RQeVJSM2c?oc=5"
+        "title": "Oil Holds Advance as Expanding Middle East War Threatens Supply - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "published": "Mon, 12 Oct 2026 22:01:55 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTkhVUHZmTDFoVTNnbXBIZlBxdl9WcTNRd1hXck91OXpJcEhOdEdOamV3V21KbzZYaVpraENpOExKX0M0Y2xTaVNTY1FaY3NfVk5SR3FqdFFRQ0hIZENYTWVLTzVnRGFpTS0xeTBVaV9fbVhkY1FDQTFweDg4dTFWNnpfcDd4ZEVpcUY3V1FscHMxZjdmUmh3TS03eTRvUQ?oc=5"
+      },
+      {
+        "title": "Global Coal Demand Rises as LNG Shortage Deepens - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Mon, 12 Oct 2026 22:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOEdIdVhGREpWOXJfWElIZDdtTHlOWjRld2pLUzZCalJHS3FUMGtTU19rT1RjZmY5dkRxVWpqcDFhWW1UNlhTR0Y3YktwU0x1RkNXRXFEWkRsQ0xPVFk2TnlOdEhTZEJOQ1FIMU9vS29LVDBzal9zdnVSVHpGemp2Y2JyLXVwV3lYbkVrcnk1OUNlSUZWZTUyNNIBngFBVV95cUxNU2dZRlBMOTBHSFpHMG5xMnJxV0VwTFF2TDA5OG9fZGJGZUlCLVZzWUhHUXNWTkVDSnpLbGV3aVpZTzNubGotUTM1LXlURTFoR283MHhLOGY2ajVwSEM5Tng3Y1dOb3hrNlJhWWVvdlJCYjl6cG9HbFpTTV9PaXprOTV4VHBBaDFlWDVkaTJaeUpxUHpHT2dBdWoxSjVDQQ?oc=5"
+      },
+      {
+        "title": "Oil sales intermediaries owe Iran up to €11bn — Al Jazeera - UA.NEWS",
+        "source": "UA.NEWS",
+        "published": "Mon, 12 Oct 2026 21:49:10 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaVFjRFo5OTcxbTNja2lMalZtYkRqd1JGZV9CV0RRU2s5ZC1pM3pJRl9FYXIwajA5b2MtbDZzQUEwTC1Va3o1QW43eWQ4LWJIQ0l0Qk5uS3ZHZlBLXzVKRWpRTVBkRFVOeFhwU3dCWk5uVVRTZFRyUnM3MkFjMzVNd3Y3c3pkS25TRUdDMHM5YmJOSVRsVmMxRg?oc=5"
+      },
+      {
+        "title": "Goldman sees Brent at $90 - Oil & Gas 360",
+        "source": "Oil & Gas 360",
+        "published": "Mon, 12 Oct 2026 21:32:52 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOT0hQRW1UajdieUwzVGdXbllya1JTQm41VUlBYW9CeFNncDFtbWZ3YmVPSFBRYUQ4ZTVLbGEtNmpET0lNVXdKYTh3SGVENUU0QXhxa0tFOWh0U0FFbGQ0dGpzcHE?oc=5"
+      },
+      {
+        "title": "Oil prices spike after Houthi attacks on Saudi airports - The Hill",
+        "source": "The Hill",
+        "published": "Mon, 12 Oct 2026 21:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTTZ5RGNoVEhkQU9PWXZCMWlyaTB2NFJmb2dZa2FMSkl3VWdrTUZrY3dTTU9scnJ6TUxWazRLbjluTUNFUVFKUFFGaDdjUng4QWczcERLUXhlNEFMWTNBVWs2bDJWYXZZZU5yX2hvdmdOandqZVJiVWhKYzg0QTRhZm1LNFFhajFfRVlpajdicE_SAZYBQVVfeXFMT1hrMExFRVMxY2V5MF80bTRKbVRpMzR1eVQyRjVFQnBTOTJjTkVwb3RHTm1KOGRxNEE2Yl9ieWkxQ0t4SFQ5SFB2enFyTlVsTTdOZjZZWEVTMU81ZkhjSHVBOUlCUi1hUVViV1JhaWZxbWNBSGdJMlA0XzdoalFsM2dLOXpPSVdMdUhScE9CQ0tnVjZNVmZR?oc=5"
+      },
+      {
+        "title": "Why do Iran’s oil ‘intermediaries’ owe the government billions? - Yahoo! Finance Canada",
+        "source": "Yahoo! Finance Canada",
+        "published": "Mon, 12 Oct 2026 21:16:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb19VM0pJNnJqaU40bnZ5Q3RWcXBWcVZKbmJlQUhubWsxWVBCdDFoU0RMVTRBR1hwNTJYMXVZUGhHRGtSSms1X2NvVUc5c2h1Z3pJeU5SdU1iTFBXYkV4ZlBkTGRKTTh3eW1ZbHJ1dTlXQ0NtNE55cUp2Zkl0YzJGb3Q5ckJqSTQ?oc=5"
       },
       {
         "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
         "source": "LiteFinance",
-        "published": "Mon, 12 Oct 2026 14:54:37 GMT",
+        "published": "Mon, 12 Oct 2026 21:05:39 GMT",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
-      },
-      {
-        "title": "Brent Oil Nears $107 as Houthi Strikes on Saudi Arabia Fuel Supply Fears - Kurdistan24",
-        "source": "Kurdistan24",
-        "published": "Mon, 12 Oct 2026 14:17:38 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQWxOV2lFYUFGYTZwUktlZXluTElaWm1nS3FxcDgzcF9EcUNfOUl1N2ZJOF9MbzNvdWRrOE5DWGVlWHpWdWJPUmg2WnFMQW1IMkZBb1FYRkktRF9jV1BnMGdkQWtYdS1QelQxLU1IOGxGR2Z0SHJRdm41MkU2dkJaU2VuRGxkSHpkdDZiOF8tTVdlWUJLVERRVlZmaERrQkQ0VFYzeDhKRXV3cXhfak1TUF9QN1AyUQ?oc=5"
-      },
-      {
-        "title": "Brent Crude Rises Above $105 - WANA News Agency",
-        "source": "WANA News Agency",
-        "published": "Mon, 12 Oct 2026 14:15:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxcHRLZmF6bGdiWER1YldMV1Z3YVdhZ29JYlMxcEt2Z2dSLWdKNkI4QmRJWkZKWmdSNFZIWUVNamJSUnAwMkF0WDJoN3dvUlE4Ujhxa0xJYUVrMUk?oc=5"
       }
     ]
   }
