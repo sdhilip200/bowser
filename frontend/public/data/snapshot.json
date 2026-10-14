@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-10-14T20:52:57+00:00",
+  "generated_at": "2026-10-14T21:19:24+00:00",
   "fx": {
-    "nzd_per_usd": 1.788691,
-    "as_of": "Mon, 12 Oct 2026 23:57:31 +0000"
+    "nzd_per_usd": 1.781721,
+    "as_of": "Wed, 14 Oct 2026 00:02:32 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 106.32,
-      "latest_date": "2026-10-13",
-      "delta_1d_pct": -0.31,
-      "delta_30d_pct": 17.49,
+      "latest": 106.06,
+      "latest_date": "2026-10-14",
+      "delta_1d_pct": 0.35,
+      "delta_30d_pct": 12.05,
       "series": [
-        {
-          "date": "2025-10-13",
-          "usd": 63.32
-        },
         {
           "date": "2025-10-14",
           "usd": 62.39
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-10-13",
-          "usd": 106.32
+          "usd": 105.69
+        },
+        {
+          "date": "2026-10-14",
+          "usd": 106.06
         }
       ]
     },
     "wti": {
-      "latest": 94.76,
-      "latest_date": "2026-10-13",
+      "latest": 95.17,
+      "latest_date": "2026-10-14",
       "delta_1d_pct": 1.09,
-      "delta_30d_pct": 10.49,
+      "delta_30d_pct": 5.49,
       "series": [
-        {
-          "date": "2025-10-13",
-          "usd": 59.49
-        },
         {
           "date": "2025-10-14",
           "usd": 58.7
@@ -2033,36 +2029,40 @@
         },
         {
           "date": "2026-10-13",
-          "usd": 94.76
+          "usd": 94.14
+        },
+        {
+          "date": "2026-10-14",
+          "usd": 95.17
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-10-13",
+    "as_of": "2026-10-14",
     "regular_91": {
-      "avg": 3.601,
-      "min": 3.356,
-      "max": 3.789,
-      "count": 77
+      "avg": 3.627,
+      "min": 3.406,
+      "max": 3.829,
+      "count": 78
     },
     "premium_95": {
-      "avg": 3.806,
+      "avg": 3.814,
       "min": 3.516,
-      "max": 4.059,
-      "count": 48
+      "max": 4.019,
+      "count": 42
     },
     "premium_98": {
       "avg": 3.963,
-      "min": 3.686,
+      "min": 3.787,
       "max": 4.069,
-      "count": 10
+      "count": 11
     },
     "diesel": {
-      "avg": 3.251,
-      "min": 2.996,
+      "avg": 3.26,
+      "min": 2.979,
       "max": 3.999,
-      "count": 87
+      "count": 80
     },
     "lpg": {
       "avg": 0.0,
@@ -2070,9 +2070,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 182,
+    "observations_today": 173,
     "observations_yesterday": 30,
-    "observations_older": 10
+    "observations_older": 8
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8594,6 +8594,12 @@
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWGdEZXB5VGRraTFyZzEtZGhINTdsMjdmQkhZNGRCUm1zRkFVbmtqeVZFRUg4SnhuZ3ZrOU9Mdm5GdW5NalNETS1SLXg2VkkwUVNZWkY0Y2hkTHZfNXpqTzJJNlI2STdqZXA4UTc5bkZoX0ZrYi1uMWt2ZkVFczV2WW5iR1RZajI5Q2dGZ1lpQVRtYVhvOUZWcWRJRmwtYkdINlQxcWotVlhJSlJtOUh5d1ZucjFMTGdS?oc=5"
       },
       {
+        "title": "Card spending climbs 7.7% as fuel prices hit $3.53 a litre - NZ Advisor",
+        "source": "NZ Advisor",
+        "published": "Wed, 07 Oct 2026 06:37:37 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTUpuQkhVOFdaQzhiZkNWQTlkd2M0OXZsTHJic20xZVdqZGZ5ZW9BTHlnUmFJLTZEZzEzQm01djY2TmpyZVlaak1HWFZqdUdscWZaNTRyakhmd0xzUzdlMEVRMzJwLVU1T0V5SzUzU3ZySnpUcTB3Z2ZSNG1LUUZRRnF6enJHZUpFdjlIYllYMXp4TFpYbVpiV2VLUFpVZVB5OWc?oc=5"
+      },
+      {
         "title": "Fuel price hits tipping point - RNZ",
         "source": "RNZ",
         "published": "Tue, 06 Oct 2026 17:31:25 GMT",
@@ -8622,20 +8628,20 @@
         "source": "Newsroom",
         "published": "Thu, 01 Oct 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb1VEOTV2SnhaNW9YOFZSRHhfM1l0NEYxdGFoSDNYSktMQUp0WTQ2UDVrQ2ltYlFEMUw1N1ZCVGJtdHFPWWcwcmpYbk44eE5HTVRrLWRhTFc2VDdKOUpzTlhGVmpHa2ljYlpISFVRcFNlaFEyTzdFS09fdnRSQVhUSHg5OTZhZzFSS3VrZ3ZMUFZfWWtPUnFKbWpPYjJoYjFIbVRiVHV6RWdDWTg?oc=5"
-      },
-      {
-        "title": "Jet fuel prices take off to new heights - Infometrics",
-        "source": "Infometrics",
-        "published": "Mon, 28 Sep 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTUd6RlgzTWF1XzNqSDVNaGlwM01UNVRNaEFibTg0OThLOHJHV0tyZm1udnhVSjB3Mjl6MThrMWxyM0t5eHFlRlhuYzlJZ0tSUEF1M3RaVG9fTFhPTEtPbU9GZlEwUjhnbEEwZFEzN1lYdThXSHVZOThrSVNoN0NoSzB2Zks0X3B2S1RpOHB1S0I0VG9rMUE?oc=5"
       }
     ],
     "global": [
       {
         "title": "Oil Gains as Global Supply Risks Mount - Rigzone",
         "source": "Rigzone",
-        "published": "Wed, 14 Oct 2026 20:40:36 GMT",
+        "published": "Wed, 14 Oct 2026 20:50:59 GMT",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUXFtVkhYUGtRTW5SZnByQVVGclAtbFhoVVFzTWxVWVJGTlA0TmdjSUNGbHV4M2xhTHEwZUEzRE10bGlYd1FIX0h2VEVMV1FtUlhlQ1dzSVN6TVJPNVBwUEJxbXRBWTJJSXdENjlGLXpoVHlWT1V0YW9kVGpUUlM5MVY2bDAwbmJIVEl4VDdLcU04T0thLUNGbTd1Ul9yYnhNVXc?oc=5"
+      },
+      {
+        "title": "Oil Prices Rise as Traders Weigh Saudi Aramco Attack Report, Hormuz Shipping Risks - WSJ",
+        "source": "WSJ",
+        "published": "Wed, 14 Oct 2026 20:12:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZzlrRVp3SjY0Qjc1ejhzdHcxQWFQejJLS2hfZzJocWhnV3AtUi1OM1NGX2s2b0NjQkV4NnpYZUxTOGJTRVBlSEM2blAzMXRhbjNydFRjVnYyNGM4a25waTR1aGVTVWt1MXlKOURybDlzS0kxQXVrbUNlQTlRN3lxa3YxMEZ5djByOUhzTlg4MUZUYTRMT1V6MzBYODY3d2FhSk5zRkxMdWpocU1KYTV0TUVLMUtHcWZHbkJWVHVHc2NIRGFwQ1F2c0x3?oc=5"
       },
       {
         "title": "IEA Cuts 2026 Oil Demand Forecast, With Partial Recovery Seen Next Year - Yahoo! Finance Canada",
@@ -8654,12 +8660,6 @@
         "source": "The New York Times",
         "published": "Wed, 14 Oct 2026 18:20:24 GMT",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uTTFfTURzNnFkMDYyU0czbk5Oai1adnh2U0dLVlA4eFlZUGJ6MlgtS2VNejU4c09aVE55d2ZyQXJMR0VuZ0xHUDRIdlNiUWJZUlhBUUFDX2NZRlpOU0c2T0ZXYWlUSnJYbGw2VVZiTkJiZ2szdEtNdmxzYXY?oc=5"
-      },
-      {
-        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
-        "source": "LiteFinance",
-        "published": "Wed, 14 Oct 2026 18:12:40 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
       },
       {
         "title": "Oil Prices Rise, Middle East Tensions Continue to Threaten Global Supply - Morocco World News",
