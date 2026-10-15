@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-10-15T18:40:44+00:00",
+  "generated_at": "2026-10-15T20:58:52+00:00",
   "fx": {
-    "nzd_per_usd": 1.781721,
-    "as_of": "Wed, 14 Oct 2026 00:02:32 +0000"
+    "nzd_per_usd": 1.784407,
+    "as_of": "Thu, 15 Oct 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 106.06,
-      "latest_date": "2026-10-14",
-      "delta_1d_pct": 0.35,
-      "delta_30d_pct": 12.05,
+      "latest": 105.77,
+      "latest_date": "2026-10-15",
+      "delta_1d_pct": -0.27,
+      "delta_30d_pct": 10.6,
       "series": [
-        {
-          "date": "2025-10-14",
-          "usd": 62.39
-        },
         {
           "date": "2025-10-15",
           "usd": 61.91
@@ -1018,19 +1014,19 @@
         {
           "date": "2026-10-14",
           "usd": 106.06
+        },
+        {
+          "date": "2026-10-15",
+          "usd": 105.77
         }
       ]
     },
     "wti": {
-      "latest": 95.17,
-      "latest_date": "2026-10-14",
-      "delta_1d_pct": 1.09,
-      "delta_30d_pct": 5.49,
+      "latest": 96.15,
+      "latest_date": "2026-10-15",
+      "delta_1d_pct": 1.11,
+      "delta_30d_pct": 5.65,
       "series": [
-        {
-          "date": "2025-10-14",
-          "usd": 58.7
-        },
         {
           "date": "2025-10-15",
           "usd": 58.27
@@ -2033,36 +2029,40 @@
         },
         {
           "date": "2026-10-14",
-          "usd": 95.17
+          "usd": 95.09
+        },
+        {
+          "date": "2026-10-15",
+          "usd": 96.15
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-10-14",
+    "as_of": "2026-10-15",
     "regular_91": {
-      "avg": 3.627,
-      "min": 3.406,
-      "max": 3.829,
-      "count": 78
+      "avg": 3.6,
+      "min": 3.296,
+      "max": 3.759,
+      "count": 83
     },
     "premium_95": {
-      "avg": 3.814,
-      "min": 3.516,
-      "max": 4.019,
-      "count": 42
+      "avg": 3.781,
+      "min": 3.396,
+      "max": 4.03,
+      "count": 38
     },
     "premium_98": {
-      "avg": 3.963,
-      "min": 3.787,
-      "max": 4.069,
-      "count": 11
+      "avg": 3.902,
+      "min": 3.666,
+      "max": 4.019,
+      "count": 10
     },
     "diesel": {
-      "avg": 3.26,
-      "min": 2.979,
-      "max": 3.999,
-      "count": 80
+      "avg": 3.226,
+      "min": 2.906,
+      "max": 3.679,
+      "count": 78
     },
     "lpg": {
       "avg": 0.0,
@@ -2070,9 +2070,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 173,
-    "observations_yesterday": 30,
-    "observations_older": 8
+    "observations_today": 163,
+    "observations_yesterday": 36,
+    "observations_older": 10
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8582,6 +8582,12 @@
   "news": {
     "nz": [
       {
+        "title": "Diesel is the most important factor in NZ's building sector recovery - Stuff.co.nz",
+        "source": "Stuff.co.nz",
+        "published": "Thu, 15 Oct 2026 15:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV3Z0RGNsbjhuZ0NTbDhHd3l5b0w5M3lodjY3S0VUbGdOVVB0MTlKT0VNWmRNVWFDYm5uSk1rSHVuai12V3FMdVM2X2xnVnBqM1pMdmZkUmtTZUdqcGdrQWJPMkdLNEM0dklMUWhtVlpXVTJGYWdQNGVjVGtLTTFVZ3hCdy04NnZVTzdpb2Njb3gxZV9jd1ZsNmFlbGtVTnBwVXlrSg?oc=5"
+      },
+      {
         "title": "Who is cashing in as petrol prices hit record high at the pump - RNZ",
         "source": "RNZ",
         "published": "Mon, 12 Oct 2026 05:28:00 GMT",
@@ -8622,15 +8628,39 @@
         "source": "Indianweekender",
         "published": "Mon, 05 Oct 2026 08:49:44 GMT",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaGhaRGI3bkRZZlNkdDloMVJqWW41eDh5dzFDZFUxWDZVNlJDcU8yTl9DSHJjbEN2R0M5dWwtTHNNM0dhTnhGTkRvaXY3TGt1bHVfVDRfVTRyTmxnRERXZndBbXdRQUExRUIxSGpFVndYMVZ4OWlzVlMxVkxRSXRHWjd3MHNhYzVoVWp1NGU3aHNIRzTSAaMBQVVfeXFMT2F4OFBOVm1mRWlYM3ZtSzF2eWVuWklIXzlFZ256d2dmWHZ6Q3c5M2V1YlhzTXhjaERvU1VzRUxXUzdiWDBoZmRQNGkxalpOaV8zVVJuQ01jalJRTW1nYXBocTltMmkxUzRORzh0bkRSQ1lQa2NRel9LT25Hbk9JNjR3OWdRbjAzNU0wYmhrTGtjWldxVHZ2Z0dodndkYWZzSGcwWQ?oc=5"
-      },
-      {
-        "title": "Petrol price hits all-time-high as average litre of 91 tops $3.50 - 1News",
-        "source": "1News",
-        "published": "Mon, 05 Oct 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV081OVF5QWx6eUJ1aVFfcW5ucTY5ZkE3QjZoOXlKbjNzYjJKYlQwM1Qwc2RSNEJrbWdiVVhtNVBCWFdNV0JpeTFPUnFjMU9OangteUdVRTkwaW5uY2ZMVzJYenN0ampSZV8teThBQi1vVjFqYVp2N0FWekQ1RzV6SExfN3JWTFFSRVdvS0hwak84SmJPOGh4Sk5xdExwQW9P?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Oil Prices Diverge as Supply Risks Mount - Rigzone",
+        "source": "Rigzone",
+        "published": "Thu, 15 Oct 2026 20:26:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObEVFTUtzN0x6ampfSE54T3NLTUI5ZU1vS3laWW5GZ1dIZURkYWJfbHRLU1F4X0QwN29HWVliRlVHNjh2eHFOVFNXYzNmUzZnTkdqM0phdFV3N3FYTEk1ZnNXUXRRSEp6Vy1UTFhMeWdkOGFzWVhSZmxNazB4U2hXMGNDWjZQaDhTbXlUSXZLUXlQY1F4QWZfUDk2WElTbW1tWHhHaA?oc=5"
+      },
+      {
+        "title": "Oil Prices End Mixed as Traders Weigh Demand Outlook, Hormuz Shipping Risks - WSJ",
+        "source": "WSJ",
+        "published": "Thu, 15 Oct 2026 19:37:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNW1MMHhCS1RGcmU1N242QUVfclBfWW56RTVPeWhhUFowX2owYlRJWlBFa1BEMFZaM2daaFVtbG1aVlBBOFJhbnVhR19jMEhmZ0FpYXFZcTllS25ETExYdUtWRTVIVkI3MVdGMDBDOTZDOVhJQm9CUkVDaDNvcWFQeFQxZ1NmdkpHZGZTdmFEUWNJS2R6QVNyZXNrWTNOazZOTUlvVWNwaVV5NENQbTNkTEJ2MVFyYmR6?oc=5"
+      },
+      {
+        "title": "US extends sanctions waiver for Russian oil giant Lukoil until 2027 - Euronews.com",
+        "source": "Euronews.com",
+        "published": "Thu, 15 Oct 2026 19:35:19 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNzZCaVpGUDNmUExJV0dsbmt6V2RPbW1wdVpXNjc4RkZaOHo4SEF6QmFWbTdQcFVtVzg0ZXJueTNBaDNMLXRIa3M4blMxQXBkYUxGSEhXSzU3aTNFaDNPQmRtSUpJYUpfNWNZRmcwbnpxcHFEeFplYmJXajNyM181VVZ6dnQzQmpLX0p4WUVzMUJ0WXJjQmRCRXE5MXdmQVJMLWIwb2d3?oc=5"
+      },
+      {
+        "title": "Oil News: WTI Rallies on U.S. Draw as Brent Stalls on Shadow Fleet Talk - FXEmpire",
+        "source": "FXEmpire",
+        "published": "Thu, 15 Oct 2026 19:30:34 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbUZvclNtNzhpNm1raXV1Zmd6Y0Q3ejZBRjZzQmpfbEYxcE9iSHZNOE82QWZtOWZtUVBZTzFNemNNOGpEV0UxeHNMQVZIc0NsM0ZURml4UFZKWWhHcm1lN0tELUdsM1J4VXd1YmcxcnYtTlFhVVVMR1Vib2UxaGJhcS1iS2o1M0hiNl9NaGhQOGs1dzN4N3FKenU1N1k1NW9XcDRObG9vSm5DR1FNRGxDV1c0dmNlcGhjdTZzQmY4c2l3QkhGZVhn?oc=5"
+      },
+      {
+        "title": "CRUDE WRAP: WTI (X6) SETTLES USD 2.88 HIGHER AT 97.97/BBL; BRENT (X6) SETTLES USD 0.14 LOWER AT USD 105.92/BBL - Newsquawk",
+        "source": "Newsquawk",
+        "published": "Thu, 15 Oct 2026 19:12:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLWM1LV8xRjhuQUdPQVp5R2dHQzlxZktpaE01ZGlCU1VKTjFabGpiam0yOWVyaTh4eGVVQXZ1ZzVpbGh6Y1UxTkFjWkJhdHcyVDhUVE84SGNfVHg3NWV0SzlfaVdPVTlCS0FJS3lwTGRpYUpoaDFQSGktWFVHRVFJVE9ZTkE5dUo1c0FDRnJabGpiUXNWRUp1ZzlvZ0YxbFhqUjU4VExqOVV0dGZuLVRITmtTSGdMNmJaaFI0UFFLa3luTDBlT0t1dzR6c1VlSFk?oc=5"
+      },
       {
         "title": "Oil futures: Brent steadies as US weighs easing tanker sanctions - Quantum Commodity Intelligence",
         "source": "Quantum Commodity Intelligence",
@@ -8648,36 +8678,6 @@
         "source": "Barchart.com",
         "published": "Thu, 15 Oct 2026 16:33:33 GMT",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeFg3OTBKVE9ma0xrVWEyRnFGTXVLZXFZd0E3alJKYlZmYXVVM3FTenNVcEk3MVBzbWJiRkpvMXE3R0lmUk9WNGl5WFFpOGJ3RDZMSWNZUzhqd0VzYlloR2Y2NTBqY2JTYjJ5MjFwRDFrRFVEZXhTci1qcEpuajNqcF83akszb29wYzl0TzJoTjlETzRwbXlzbV83SE1KVXE1YTRKUGJRbjQtSXQ2ZzRnUg?oc=5"
-      },
-      {
-        "title": "UK Tightens Russian Oil Sanctions as U.S. Weighs Relief - gCaptain",
-        "source": "gCaptain",
-        "published": "Thu, 15 Oct 2026 16:13:31 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcExld0o5M0MyMUMzMnBKTk5QRE9vWTZhM3BLb095cXFNNmxZSDhqVDhlVHlMOThnYVN2di0zYS1Eb2tlSnluNHRrcEo3Z2pWWVdjZkpseHNfd0dQZ3RSc3AtN2M1aTdTNGRrX1ZEbFg1TlZMQm5Od1k4VUNXS0xJbXdn?oc=5"
-      },
-      {
-        "title": "Global Oil Inventories Depleted, Next Price Spike Could Roil Economies, Markets - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Thu, 15 Oct 2026 16:12:13 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTzJ2Rmxmd19zVGUwVzJ3bzdEeHp4NTczY0tCM0MxYzlnNUU5UTRIZk45cndabTA0TnNoblRoc1FsWE12bTYtWGVHSWhkdEpBcnNYeDExZC1XWFN5SWhjS20ySEh4M1pHeFJ0RTFaSW9DT0JXYlMzNzdHS1dsWFUxWVZISjNMT045RkZoZmZDOFRHT3pFNHVDTVc0TlJEZVo5cVdMajNZSERCSmJH?oc=5"
-      },
-      {
-        "title": "Current price of oil as of October 15, 2026 - Fortune",
-        "source": "Fortune",
-        "published": "Thu, 15 Oct 2026 15:15:37 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zYm55eXNiaDB1X2R6VHZPYmxySWV1TUVSUi1uNU1vNlA4Y0tTekhFYl9rNkNBcmpLaUFTUmtOMUREVm9nLUUyVTRuUTdCX05iV1VHaHJ3cFY0ZTl4QjJqcHhR?oc=5"
-      },
-      {
-        "title": "Brent oil slips as US weighs easing sanctions on global 'shadow fleet' - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "published": "Thu, 15 Oct 2026 14:52:49 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkpLaFMwM0tpZVl5NWh2RUdZeUxWeXJaeWhQcFVncW5LVHRGNGVyMW5ZbGxHZTRBZjl5Z1NmeXdZaFBaU3RjR1lFdnVfZzdzU0hHRU9JNzdLa3pHZHV5UTduYkVoNzRXMDA3MC1RaUh4SFhVSnpMck5PdHVobWN4dVA3S00tZVJadlZyTDBLQWxBZw?oc=5"
-      },
-      {
-        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
-        "source": "LiteFinance",
-        "published": "Thu, 15 Oct 2026 14:51:28 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
       }
     ]
   }
