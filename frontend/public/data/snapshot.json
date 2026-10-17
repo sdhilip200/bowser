@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-10-17T18:24:45+00:00",
+  "generated_at": "2026-10-17T20:12:10+00:00",
   "fx": {
-    "nzd_per_usd": 1.780763,
-    "as_of": "Fri, 16 Oct 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.768738,
+    "as_of": "Sat, 17 Oct 2026 00:02:32 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 109.66,
+      "latest": 109.86,
       "latest_date": "2026-10-16",
-      "delta_1d_pct": 3.53,
-      "delta_30d_pct": 14.8,
+      "delta_1d_pct": 3.72,
+      "delta_30d_pct": 15.01,
       "series": [
-        {
-          "date": "2025-10-16",
-          "usd": 61.06
-        },
         {
           "date": "2025-10-17",
           "usd": 61.29
@@ -1017,20 +1013,16 @@
         },
         {
           "date": "2026-10-16",
-          "usd": 109.66
+          "usd": 109.86
         }
       ]
     },
     "wti": {
-      "latest": 98.97,
+      "latest": 101.41,
       "latest_date": "2026-10-16",
-      "delta_1d_pct": 1.02,
-      "delta_30d_pct": 8.4,
+      "delta_1d_pct": 3.51,
+      "delta_30d_pct": 11.07,
       "series": [
-        {
-          "date": "2025-10-16",
-          "usd": 57.46
-        },
         {
           "date": "2025-10-17",
           "usd": 57.54
@@ -2033,36 +2025,36 @@
         },
         {
           "date": "2026-10-16",
-          "usd": 98.97
+          "usd": 101.41
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-10-16",
+    "as_of": "2026-10-17",
     "regular_91": {
-      "avg": 3.597,
+      "avg": 3.604,
       "min": 3.356,
-      "max": 3.799,
-      "count": 66
+      "max": 3.749,
+      "count": 70
     },
     "premium_95": {
-      "avg": 3.792,
-      "min": 3.309,
-      "max": 4.03,
-      "count": 32
+      "avg": 3.79,
+      "min": 3.516,
+      "max": 3.979,
+      "count": 26
     },
     "premium_98": {
-      "avg": 3.947,
-      "min": 3.859,
-      "max": 4.019,
-      "count": 5
+      "avg": 3.988,
+      "min": 3.909,
+      "max": 4.079,
+      "count": 12
     },
     "diesel": {
-      "avg": 3.256,
+      "avg": 3.252,
       "min": 2.996,
-      "max": 3.94,
-      "count": 70
+      "max": 3.679,
+      "count": 66
     },
     "lpg": {
       "avg": 0.0,
@@ -2070,9 +2062,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 78,
-    "observations_yesterday": 85,
-    "observations_older": 10
+    "observations_today": 65,
+    "observations_yesterday": 66,
+    "observations_older": 43
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8582,12 +8574,6 @@
   "news": {
     "nz": [
       {
-        "title": "New Zealand Dollar Outlook: Fuel Costs Test The RBNZ's Gradual Rate Path - Exchange Rates UK",
-        "source": "Exchange Rates UK",
-        "published": "Sat, 17 Oct 2026 10:45:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUzZXM3RQalZ0a0xZY3BqOTJScDlMVGg0a1ZvczZOTGQtdVU2NzlDRC1ZbG9CSDN5S2l4Y2Q3cWFvdWstWU1iMkVFckpGS2tWUHdWeVhCSG1MTFBtSDFKaHNUQ0FpcnFNU0ZnOUh2VEVfeTlxZjlGcWJlU25oNFlmUXFNdW5GaDBiN0xMb1RvVUVUSTVaZkdkVXlfQ0xqWnVteWRqWUl6UXItTGdkVXJNV1FQSHUyb1NmaHZnN2JJOE9SZGFXM25QaWF2RQ?oc=5"
-      },
-      {
         "title": "Oil-obsessed Donald Trump is pushing Kiwis into electric cars - Waikato Times",
         "source": "Waikato Times",
         "published": "Fri, 16 Oct 2026 20:50:04 GMT",
@@ -8628,9 +8614,33 @@
         "source": "RNZ",
         "published": "Thu, 15 Oct 2026 18:40:45 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWHdmbHc2VzFlSDhtNlUwNGVOU3ZUbndmdWl0QV9aUXhXWFU2cmlHQjBFZ3p2UE1lNElGV0swQVVUb2J4Y1dZSmI1SmFkT0VGZ1djR01LV0gxYUFzU2VrcXlBNU04Z3RIRG5CQlp5RlNKSUlveWE3cHRrQ2xZcWRhT04xRHVDS3pSWU9Ccmp3UDhxWTZ4d01nZS1hU1hGdGF2XzZjUk90bUdVUQ?oc=5"
+      },
+      {
+        "title": "Diesel is the most important factor in NZ's building sector recovery - Stuff.co.nz",
+        "source": "Stuff.co.nz",
+        "published": "Thu, 15 Oct 2026 15:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV3Z0RGNsbjhuZ0NTbDhHd3l5b0w5M3lodjY3S0VUbGdOVVB0MTlKT0VNWmRNVWFDYm5uSk1rSHVuai12V3FMdVM2X2xnVnBqM1pMdmZkUmtTZUdqcGdrQWJPMkdLNEM0dklMUWhtVlpXVTJGYWdQNGVjVGtLTTFVZ3hCdy04NnZVTzdpb2Njb3gxZV9jd1ZsNmFlbGtVTnBwVXlrSg?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Trump signs order putting Russia sanctions on hold, drawing bipartisan anger - The Washington Post",
+        "source": "The Washington Post",
+        "published": "Sat, 17 Oct 2026 19:28:55 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3k5eWRlOVpmZUFuR1pVdXllbU5veXJ0UTJHMUdwWUQxY0t2OTZNWDR4dktfc3NFZlQ4aHRjd3BhVC1ZdF9yLUhIeE9ZSElGdjBoeVFJX1MxNFJadHFlaG1QTHJTcVl1MEZOWllvTjduYUpuRURxRjNpRFU5M3ZhY3ItbnZoWHljeE9EdjV4bzBhMFUtZkYxb09TX2hWNElWTjZlZW1vbDF6LUF2Ul9lY0p3?oc=5"
+      },
+      {
+        "title": "Trump signs order waiving Graham Act sanctions on Russia, drawing backlash from some lawmakers and Zelenskyy - ABC News - Breaking News, Latest News and Videos",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "published": "Sat, 17 Oct 2026 17:37:30 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaExZUlBtbDZ3YXN2cGZ0Z0RMRVcxT3hlaG8xMnRiSm16d0pSdnBHUzJzSHB1YVVFUXNSMUFGTXZHRE4yb3JyTHczam54WFAxQjRLSjcwTlBuY0pKUGVTbGtjdE5PWVlSdXVFZ1FtUlBLXy1DZUhYRVhEOEZnTHJZTWZQb2J0ejZ3bG9DU0g0cnYyVU9XUllQenJTVkdJc2xucG5r0gGoAUFVX3lxTE00QU9Jbml5eUQxemhUMzRMLVhWLVNGM05PNEp6eGtVaF94RmFmaTJ0WGVxdGVNR2dySDR6QXJtaVpIUFN6N3dnSDB3bkp1T3IteU5HZ1VYbFpPU0tYNVJxd25mQ0xqcVVXOF9NTmFvem14R3NLTkhsTy1pay1XZzRVUEk5eldiY3NFcU03RXVicTQxZ0l5MkFuRmtwbE54TzAxMVltaXNJRA?oc=5"
+      },
+      {
+        "title": "Trump waives new Russia sanctions in the \"national interests\" - Axios",
+        "source": "Axios",
+        "published": "Sat, 17 Oct 2026 17:18:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VUzFHTi03ajF4UU41MUNRZ2lBU2VubkVFOFVCUE9WeU1QZGx6U094RXEwZDVXY1FsaWZieE1wbWdaa0k1TDZtY0l4XzdJWWh3cTkwNFQ4UFJBX1Bmb3BOQTlwVW14dw?oc=5"
+      },
       {
         "title": "Texas Researchers Say Permian Wastewater Could Cool AI Data Centers - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
@@ -8644,40 +8654,22 @@
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRXVhc19uZHIxWTJ4SkhmU3psaU8tc3FaY3lramdvbjB2cG9BMks4YXhmd0JqeXdfQTV1RmZrb2M4RlowV3VHNGVaeFFLWExHTmdQeHNYY0l4VmJIcVRwQkFHVG1VNkZBLW1CeU5Cc0ZWNlhteDRvVmh4OENGSE1BX1J5QW05czhRVHhCTVRMUDhrRUhyVC1uMENQT0x5OUxjLVpybXhGaWFPTTRvVFc2eHhHSGJHc0ZBcUFLaWFqV2xEREdnbTIyMTUtckV1blFpLWhBTg?oc=5"
       },
       {
-        "title": "Diesel, Midterms, Low Stocks: Why Trump Blinked On Russian Oil Sanctions - NDTV",
-        "source": "NDTV",
-        "published": "Sat, 17 Oct 2026 14:23:42 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLTgzMzVEMDVQQ2h3U05KbFpwZ1FHMVBGUWY1WjNoY0ZGbHBXX3JBbXpmSVdHRnJPOUxuN2xiS2VlWHotcmUtekd6X0h6NmxQT2RBM3g1Zkw2X18tcGI1TFhHT0Q0eW5pR045ODBnT1BIVzlJMjhCdVdQd2hZeUdWLTdJNS1OZXZwNGp0ek5LYVZLdXRKMTU4X1lfUFFNZWdhLUVhdGpDcTJCck9vRFBZ0gG3AUFVX3lxTE1YeHcwWVZVZ1ZoYmdESFNLNjNOUDZ4Ujk1eUUtV0syWGY5dVoxNVc5UVBKcFI4b2NUeW05NWo2ZUVkeFBON3VLcC02RTEwdl9XbWRwOGxqSEVORGNSVWxQNGthUWNCV3ZHemFsbzVQTzVWSUdSa18xSG8yMVdIaVFiVVFXSEI0OVBxMmtwY25EMU5FUnVxQnNCaWo4R3FCZG02QlowMXdRVHZMZlhRV3duVkxGZmR4bw?oc=5"
+        "title": "Bolivia's Energy Crisis Deepens as Natural Gas Reserves Run Dry - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Sat, 17 Oct 2026 15:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOczRyYW1ZcmdaOC1GbzhlMm1ieVFDekR4VTRpdDRWMDBBN2FfeVNrLXRQd2JTQTF3TFNuVjlLbXFXc19KdlB3c0dtbndvWC1oYVJkZ0ZyaTVQZnZFTWxxSmw3QXJrS0d4ek9kQTg1amVRQ3U0WVYtNnBYd0hQbkhpcU4tQm9DNUVaNnY1bmZNSWlBNDlKYVFNSGpybEE5UkF1cVFScjVTeDhha0dOTEVj0gG0AUFVX3lxTE1waUdraEV3T0JKQXU0ekZENkkxd3dINlE5ZEpENVhFTFhHMFhFNUhxNFVNNFFHWjdDTzdJbDVZWER3TjFWWEctc3lEbFRmUGExdVE2N18weE56OGd1YmhjaElUSnFpZFQwbFNxOFltdUdUd3MzcTVKa3RsM3dGRjFLdmlEZjYxQVJxQlY0UnN5YmdkZ3ZlOGgxTlZlVkRpS2RuMXp6Z285Y25Oai0wMzdEMnRFcw?oc=5"
       },
       {
-        "title": "ExxonMobil Is Up 49% in 2026 With Brent Near $110. Here’s What the Stock Could Be Worth When Oil Cools - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "published": "Sat, 17 Oct 2026 14:14:17 GMT",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWnhoU1NwTkRDTUZPbnFlWnRsYUxVVDNlNGhLYzRvNlRWdVBUd21NMFp5X3Y4M3RObnFDYXA5bHhMcFZvRUZLc0pvOWUyOWY5Uks2ZTNJXzdvM0d2TzRHQlc0OG1EVzN2dlhXZndsTnltNjg0NUJfZ1FNV1ltUGJSQTYtYUZySjFMSGgwV1MwaXRtWUxIemc3ak9R?oc=5"
+        "title": "Trump Signs Order Exempting Russia From Sanctions Law - The New York Times",
+        "source": "The New York Times",
+        "published": "Sat, 17 Oct 2026 13:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbjBtZHJzaWs1Q0M1VEQ3LVg3VTRvdkdwTFNKY2xwbG82X0ZYZGR1X3ZYZk1uOGRqWFdhcl90YUNTVlQ5dWNjV0Y1bmpYcWo4TENqdnhTMy1VQVV6MEtpM2ZlQXRuN2o3TS11UUNrR0F3Vnp4T0NqNHBiTndVY1ZGMU1sT2Nka2c?oc=5"
       },
       {
-        "title": "Zelenskyy says Trump is ‘rewarding Putin’ as he waives new Russia sanctions passed by Congress - NBC News",
-        "source": "NBC News",
-        "published": "Sat, 17 Oct 2026 11:59:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSUF6amxpY2lMcWdiQ09tRkNjZjZGWjFyemRBN2kyQmx3RUl2ZlN6cDJLN3ZOeFBYZEJucUpHNWpNRHpsZFh4UmkxMFZ6ak1OQ1pVemhGaEtSOGJENXljeVItbGlZUUxMNG5LSmNacXZHSjVoOTRyLTZrcTJmZ2prSWctNkE2eEYwcG15bWJnQVlWUkNKdUZKODVZSHhYellTLWNFZnkzMEFiT1FKak1adHVqV25DLUFWWC1uMDIyc0dYX0lSVFRmdDRnUVlEd094?oc=5"
-      },
-      {
-        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies - BBC",
-        "source": "BBC",
-        "published": "Sat, 17 Oct 2026 11:56:06 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RS3I2MGlpT0lTUm00NkJ5SUpIbVZRX0I5U3N0ZlViR1RXbjlDR0VCcEppZmVEQVFKU29vSE5Nd2RYc3Yxc1lyTGxURHhUUjNRQURHT1RSWDhZaUE?oc=5"
-      },
-      {
-        "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas? - Al Jazeera",
-        "source": "Al Jazeera",
-        "published": "Sat, 17 Oct 2026 11:16:54 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2J3andQTW1UOC1yU3dPTUdSZHB2R0l4SVlwSFB6VzN2a2VoSnc3SWhjcnF3cTd0RG5KcVB3UldJOW5FU29TWkg2TkM1bFNqc0F1dXF6WFl1Y2ItbU84UlpYMTNVQ3RxNkNGVE9oNURSREtKNXp5UU15U1BKOFB4dllmNDlpLXdIM0lucWoyTlFBWTNfZXlZenRtQ0M1YzlUOHg3U0VsWC1WSHVBNHFiRFhZTdIBuAFBVV95cUxQa1NLdm9ma2pEWjVNczBpY3VfeFpHcjVQelNreTE0QjV2eEQ0RGlzcmxkSU1ndkVOSi1LMnl6cS1EU19hZmE1dGJRT3ZCZDN2VDdSOUNyWEZWRG9ZemtRalVmNXV2SHFqc0pvVHBQdFRoT3VQM0EtWEotWG9pRVJfNE5rREhlanRQbzB3Vl9VM3llZGljN3JyXzBmV1c3TUxRY0Z5T3VraGhMRHlXQTVOYW8tblVhTU45?oc=5"
-      },
-      {
-        "title": "Oil Prices Climb on Middle East Supply Worries - IndexBox",
-        "source": "IndexBox",
-        "published": "Sat, 17 Oct 2026 10:20:29 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaDhuTkZxRDBhQXBEbmNpSHBlWWhqSXVQYlZoS0VnaDBrcVNFWXRwRlJSWGlLMGdsazFyNFJCem1FbDJPWjFmcXQwWDdJWVZHQ0hPSEFvR1dYQmNiSWRLblJsX3d6bWYwVmtOYWd2NmtNR1I1aXk1eVZ5OEQ1R19PVWxB?oc=5"
+        "title": "Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says - The Guardian",
+        "source": "The Guardian",
+        "published": "Sat, 17 Oct 2026 13:28:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVJVYkJ2aENjcjBpOGo4YUNUS01pOGowSWxpc0hzUXlUWUN0ZnFISmpiQXlXNXgwb1N5VzhsX19aN3RIRXptOVlBSktwZW1DR0N3eVhSUUt3QlRQQnFTSUhNcnpIcWIxVnNweHRFMFc5ZTUzZWktVGwwMTkzRGRTZGo2Qm0zY3o5aHFNTHJfY2lheGp0TXpOOWtlZm5WRGZZZ0JHTFktaHNBYjNrdkNZTVd4T1B4bXNkaVNNbkh5RQ?oc=5"
       }
     ]
   }
