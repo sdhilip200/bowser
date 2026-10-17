@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T15:57:47+00:00",
+  "generated_at": "2026-10-17T18:24:45+00:00",
   "fx": {
     "nzd_per_usd": 1.780763,
     "as_of": "Fri, 16 Oct 2026 00:02:31 +0000"
@@ -8582,6 +8582,12 @@
   "news": {
     "nz": [
       {
+        "title": "New Zealand Dollar Outlook: Fuel Costs Test The RBNZ's Gradual Rate Path - Exchange Rates UK",
+        "source": "Exchange Rates UK",
+        "published": "Sat, 17 Oct 2026 10:45:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUzZXM3RQalZ0a0xZY3BqOTJScDlMVGg0a1ZvczZOTGQtdVU2NzlDRC1ZbG9CSDN5S2l4Y2Q3cWFvdWstWU1iMkVFckpGS2tWUHdWeVhCSG1MTFBtSDFKaHNUQ0FpcnFNU0ZnOUh2VEVfeTlxZjlGcWJlU25oNFlmUXFNdW5GaDBiN0xMb1RvVUVUSTVaZkdkVXlfQ0xqWnVteWRqWUl6UXItTGdkVXJNV1FQSHUyb1NmaHZnN2JJOE9SZGFXM25QaWF2RQ?oc=5"
+      },
+      {
         "title": "Oil-obsessed Donald Trump is pushing Kiwis into electric cars - Waikato Times",
         "source": "Waikato Times",
         "published": "Fri, 16 Oct 2026 20:50:04 GMT",
@@ -8594,10 +8600,10 @@
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLTdBZ1ExOUp5RlRmbnlMSE5CczZnX256N1IzRnZsV1NfdzIzZXA3bUdHeFNGLVYzTGJKQnFvMEVBdGQwdm81amFzMEF1RWFzamoyRHJaMWVVYU5PRk1ScHhBNVYwb1FQT19ySmhRdE0wQ1AyQk5aYmhoSTFsNWJVLXlzelduYWJyQjBwR2Q5b0FjX0pDRlRPbTlia0tKWXhEazJXbDNubmgwZw?oc=5"
       },
       {
-        "title": "Fuel price tops $4 at the pump - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Fri, 16 Oct 2026 04:45:22 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQmhVb29KRjYwaDFtbzNtVW9PcG5HaEw3d1FCYlV4c0pBcjF0SGV5M2FSQ0tMUm05WGZlS052T215OUlRcTlMZVVnbk9rY2twV2FGQ2pQdTdoaVZqR3Ntak5CSnpvNlcwUzI4ZnkyRGYteGpIQ0t0NGFDYUstbEtIdlVzb092QkRncGZJa0t1Q28?oc=5"
+        "title": "Fuel price tops $4 at the pump - RNZ",
+        "source": "RNZ",
+        "published": "Fri, 16 Oct 2026 03:58:25 GMT",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ncHZ2Y0x2ck1YbmlFd2t1ajhsZEU0Q096eXUzelotbmhhbWZ0UVBvaHREU1h2LXN0M2QxczRMcDlsX0xoUXU3cHVmdjRxQ3lYU1VWMlhCYVd0TzhxU0pXZ3FCN3BXOU1pbUxSeVN3Wko5OVZKbkRNQVdXV19JQQ?oc=5"
       },
       {
         "title": "Higher prices for fuel suggests inflation pressures have strengthened - RNZ",
@@ -8618,12 +8624,6 @@
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeVR4OGpNR1AzU1dsQ3NsbXd1ejI2Y2JtaWZaeXRMUXRxbXVld3V5clJtalFQMkxTeTNFcmRjQllCaW9XNjJPcUptRTRGREpMVmpBTVFaZ01EX0YzQXNqWTFzdUc2OHFuMV9oS1g2VlMxVmtScXRzbHItc0hWU0VNZFFEWVlmZTVfbzJuc2NSRXppN0t4blBOeTNpaTZocVFiMi1ZTlJ0V0NHVHlJZ1l2THYwSk5Xck44Y0FvWA?oc=5"
       },
       {
-        "title": "New Zealand manufacturing PMI jumps to 56.5, 15th straight month of expansion - investingLive",
-        "source": "investingLive",
-        "published": "Thu, 15 Oct 2026 21:39:55 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ01id1JlRmJnaXBMdHRLT0FMc0JZWHRXalpyVmRBeERYSS1ZeGJPYzJrY3RoVTRPYVVpSTZIMUZQOUdfSmtjNGpCblNFZ2hySTAwLUdzWmxadV9ual9VTUFmbGo3U2tGQjg2Y1dhNHplRGFUemxzQk55aXhxN2FpbEpMT2R1RDB5M1ZObkRjYVBhZU92ZEhWN3lNdzdVYktaRVRpTk9Ga0RpaUhl?oc=5"
-      },
-      {
         "title": "Why is the price of petrol rising while oil prices are falling? - RNZ",
         "source": "RNZ",
         "published": "Thu, 15 Oct 2026 18:40:45 GMT",
@@ -8632,28 +8632,28 @@
     ],
     "global": [
       {
-        "title": "Trump signs executive order waiving sanctions against Russia - The Washington Post",
-        "source": "The Washington Post",
-        "published": "Sat, 17 Oct 2026 15:22:23 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3k5eWRlOVpmZUFuR1pVdXllbU5veXJ0UTJHMUdwWUQxY0t2OTZNWDR4dktfc3NFZlQ4aHRjd3BhVC1ZdF9yLUhIeE9ZSElGdjBoeVFJX1MxNFJadHFlaG1QTHJTcVl1MEZOWllvTjduYUpuRURxRjNpRFU5M3ZhY3ItbnZoWHljeE9EdjV4bzBhMFUtZkYxb09TX2hWNElWTjZlZW1vbDF6LUF2Ul9lY0p3?oc=5"
+        "title": "Texas Researchers Say Permian Wastewater Could Cool AI Data Centers - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Sat, 17 Oct 2026 17:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ0hhS2NTaXlQMXlDZ25HbmtVb0F2bF9RRkVtRUkyS2JyZE54UTFaTXlMOXVoYXBjVUtqSVFqS25IQy1iMnk5TXpyNGFjajRuY3JMYklFR0thZ2t5X3pwTnA5ZUsxTEVBOG0tN0dUbVBzQzVkQS1laDhTN1NWOEtFUnlIclZNMk5wZ1F3OU0yTnBSTlNQcFc0QXB0aGFIM0RVb1JfTG5hc2RLYUlpQUJF0gG0AUFVX3lxTE1wd2t0cXVfSkVOclhkQlgyUVc1eHcxZHl1MUhZNGtKZGhyZzNIbFI5cDdRME5RaE9uT3k4dUpHaVZIUVo1Tm9iQ3p1VGpaMEwwanhmaElDVTRSUVpJNDZBR0xEbHpPUE44NXpOc2lmOW9WRm1ocm9LSzQwb2dVd2VmN0NId2V6OWs3RnVtc0wtb21Pck9TU0kzMVVoRGxqZ2N1SUNuU0ZNYmZDd0tjdERZb1FCQw?oc=5"
       },
       {
-        "title": "Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says - The Guardian",
-        "source": "The Guardian",
-        "published": "Sat, 17 Oct 2026 13:28:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVJVYkJ2aENjcjBpOGo4YUNUS01pOGowSWxpc0hzUXlUWUN0ZnFISmpiQXlXNXgwb1N5VzhsX19aN3RIRXptOVlBSktwZW1DR0N3eVhSUUt3QlRQQnFTSUhNcnpIcWIxVnNweHRFMFc5ZTUzZWktVGwwMTkzRGRTZGo2Qm0zY3o5aHFNTHJfY2lheGp0TXpOOWtlZm5WRGZZZ0JHTFktaHNBYjNrdkNZTVd4T1B4bXNkaVNNbkh5RQ?oc=5"
+        "title": "Trump waives sweeping Russia sanctions, mulls easing pressure on Iran's 'shadow fleet' amid global energy crisis - thecradle.co",
+        "source": "thecradle.co",
+        "published": "Sat, 17 Oct 2026 15:33:09 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRXVhc19uZHIxWTJ4SkhmU3psaU8tc3FaY3lramdvbjB2cG9BMks4YXhmd0JqeXdfQTV1RmZrb2M4RlowV3VHNGVaeFFLWExHTmdQeHNYY0l4VmJIcVRwQkFHVG1VNkZBLW1CeU5Cc0ZWNlhteDRvVmh4OENGSE1BX1J5QW05czhRVHhCTVRMUDhrRUhyVC1uMENQT0x5OUxjLVpybXhGaWFPTTRvVFc2eHhHSGJHc0ZBcUFLaWFqV2xEREdnbTIyMTUtckV1blFpLWhBTg?oc=5"
       },
       {
-        "title": "Trump says he won't impose sanctions on Russia, thwarting Congress - USA Today",
-        "source": "USA Today",
-        "published": "Sat, 17 Oct 2026 13:12:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRF9fbXVkcmF6WG1jT3VzZ3JUcjFERUZENms1VG40bHZwWGxfZ21sa3BGMmpnVU1VZzI5NkxVQjJVMGlvclFnTnM4U3hyUXFGQ2tlckJZNUlNMlZtclp3eExUTU5aZUNoLTRyRFVPOGU2b29JUWd6NHlZVGtlRU5MN0JpVXYxMENoc2hfSjM4NGljVGFyZTd3a0hGbzdnak43MHVMckN3?oc=5"
+        "title": "Diesel, Midterms, Low Stocks: Why Trump Blinked On Russian Oil Sanctions - NDTV",
+        "source": "NDTV",
+        "published": "Sat, 17 Oct 2026 14:23:42 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLTgzMzVEMDVQQ2h3U05KbFpwZ1FHMVBGUWY1WjNoY0ZGbHBXX3JBbXpmSVdHRnJPOUxuN2xiS2VlWHotcmUtekd6X0h6NmxQT2RBM3g1Zkw2X18tcGI1TFhHT0Q0eW5pR045ODBnT1BIVzlJMjhCdVdQd2hZeUdWLTdJNS1OZXZwNGp0ek5LYVZLdXRKMTU4X1lfUFFNZWdhLUVhdGpDcTJCck9vRFBZ0gG3AUFVX3lxTE1YeHcwWVZVZ1ZoYmdESFNLNjNOUDZ4Ujk1eUUtV0syWGY5dVoxNVc5UVBKcFI4b2NUeW05NWo2ZUVkeFBON3VLcC02RTEwdl9XbWRwOGxqSEVORGNSVWxQNGthUWNCV3ZHemFsbzVQTzVWSUdSa18xSG8yMVdIaVFiVVFXSEI0OVBxMmtwY25EMU5FUnVxQnNCaWo4R3FCZG02QlowMXdRVHZMZlhRV3duVkxGZmR4bw?oc=5"
       },
       {
-        "title": "Why oil prices could be poised for a 'super spike': Analyst - Yahoo Finance",
+        "title": "ExxonMobil Is Up 49% in 2026 With Brent Near $110. Here’s What the Stock Could Be Worth When Oil Cools - Yahoo Finance",
         "source": "Yahoo Finance",
-        "published": "Sat, 17 Oct 2026 11:59:27 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWm5YZmdHT0ZrWGV3eVA4Nk9HUjQ2VktEM3RvVVM1cUhWWi1tVzFhZ28xcmlZVVFGZ2hVTzFJNWNRblJ3YzljWlBEYVpyaEZ5OVFwTWM3aHEwS2M1RDdibHJxaERadmk3U2NOZk56blVNM092UWRIaThndmZYQnBlYzB5Vkd1S01PaTBmMHo5djdVZHU1Q1J6ODZ6b0tMMElzOEhPVWtqSVFvWE45dkF4MTN3?oc=5"
+        "published": "Sat, 17 Oct 2026 14:14:17 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWnhoU1NwTkRDTUZPbnFlWnRsYUxVVDNlNGhLYzRvNlRWdVBUd21NMFp5X3Y4M3RObnFDYXA5bHhMcFZvRUZLc0pvOWUyOWY5Uks2ZTNJXzdvM0d2TzRHQlc0OG1EVzN2dlhXZndsTnltNjg0NUJfZ1FNV1ltUGJSQTYtYUZySjFMSGgwV1MwaXRtWUxIemc3ak9R?oc=5"
       },
       {
         "title": "Zelenskyy says Trump is ‘rewarding Putin’ as he waives new Russia sanctions passed by Congress - NBC News",
@@ -8662,22 +8662,22 @@
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSUF6amxpY2lMcWdiQ09tRkNjZjZGWjFyemRBN2kyQmx3RUl2ZlN6cDJLN3ZOeFBYZEJucUpHNWpNRHpsZFh4UmkxMFZ6ak1OQ1pVemhGaEtSOGJENXljeVItbGlZUUxMNG5LSmNacXZHSjVoOTRyLTZrcTJmZ2prSWctNkE2eEYwcG15bWJnQVlWUkNKdUZKODVZSHhYellTLWNFZnkzMEFiT1FKak1adHVqV25DLUFWWC1uMDIyc0dYX0lSVFRmdDRnUVlEd094?oc=5"
       },
       {
-        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
-        "source": "LiteFinance",
-        "published": "Sat, 17 Oct 2026 10:39:44 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
+        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies - BBC",
+        "source": "BBC",
+        "published": "Sat, 17 Oct 2026 11:56:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RS3I2MGlpT0lTUm00NkJ5SUpIbVZRX0I5U3N0ZlViR1RXbjlDR0VCcEppZmVEQVFKU29vSE5Nd2RYc3Yxc1lyTGxURHhUUjNRQURHT1RSWDhZaUE?oc=5"
+      },
+      {
+        "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas? - Al Jazeera",
+        "source": "Al Jazeera",
+        "published": "Sat, 17 Oct 2026 11:16:54 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2J3andQTW1UOC1yU3dPTUdSZHB2R0l4SVlwSFB6VzN2a2VoSnc3SWhjcnF3cTd0RG5KcVB3UldJOW5FU29TWkg2TkM1bFNqc0F1dXF6WFl1Y2ItbU84UlpYMTNVQ3RxNkNGVE9oNURSREtKNXp5UU15U1BKOFB4dllmNDlpLXdIM0lucWoyTlFBWTNfZXlZenRtQ0M1YzlUOHg3U0VsWC1WSHVBNHFiRFhZTdIBuAFBVV95cUxQa1NLdm9ma2pEWjVNczBpY3VfeFpHcjVQelNreTE0QjV2eEQ0RGlzcmxkSU1ndkVOSi1LMnl6cS1EU19hZmE1dGJRT3ZCZDN2VDdSOUNyWEZWRG9ZemtRalVmNXV2SHFqc0pvVHBQdFRoT3VQM0EtWEotWG9pRVJfNE5rREhlanRQbzB3Vl9VM3llZGljN3JyXzBmV1c3TUxRY0Z5T3VraGhMRHlXQTVOYW8tblVhTU45?oc=5"
       },
       {
         "title": "Oil Prices Climb on Middle East Supply Worries - IndexBox",
         "source": "IndexBox",
         "published": "Sat, 17 Oct 2026 10:20:29 GMT",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaDhuTkZxRDBhQXBEbmNpSHBlWWhqSXVQYlZoS0VnaDBrcVNFWXRwRlJSWGlLMGdsazFyNFJCem1FbDJPWjFmcXQwWDdJWVZHQ0hPSEFvR1dYQmNiSWRLblJsX3d6bWYwVmtOYWd2NmtNR1I1aXk1eVZ5OEQ1R19PVWxB?oc=5"
-      },
-      {
-        "title": "Trump waives new Russia sanctions in the \"national interests\" - Axios",
-        "source": "Axios",
-        "published": "Sat, 17 Oct 2026 10:11:58 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VUzFHTi03ajF4UU41MUNRZ2lBU2VubkVFOFVCUE9WeU1QZGx6U094RXEwZDVXY1FsaWZieE1wbWdaa0k1TDZtY0l4XzdJWWh3cTkwNFQ4UFJBX1Bmb3BOQTlwVW14dw?oc=5"
       }
     ]
   }
