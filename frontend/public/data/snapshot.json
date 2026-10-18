@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T23:02:33+00:00",
+  "generated_at": "2026-10-18T00:57:06+00:00",
   "fx": {
     "nzd_per_usd": 1.768738,
     "as_of": "Sat, 17 Oct 2026 00:02:32 +0000"
@@ -8574,12 +8574,6 @@
   "news": {
     "nz": [
       {
-        "title": "New Zealand Dollar Outlook: Fuel Costs Test The RBNZ's Gradual Rate Path - Exchange Rates UK",
-        "source": "Exchange Rates UK",
-        "published": "Sat, 17 Oct 2026 10:45:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUzZXM3RQalZ0a0xZY3BqOTJScDlMVGg0a1ZvczZOTGQtdVU2NzlDRC1ZbG9CSDN5S2l4Y2Q3cWFvdWstWU1iMkVFckpGS2tWUHdWeVhCSG1MTFBtSDFKaHNUQ0FpcnFNU0ZnOUh2VEVfeTlxZjlGcWJlU25oNFlmUXFNdW5GaDBiN0xMb1RvVUVUSTVaZkdkVXlfQ0xqWnVteWRqWUl6UXItTGdkVXJNV1FQSHUyb1NmaHZnN2JJOE9SZGFXM25QaWF2RQ?oc=5"
-      },
-      {
         "title": "Oil-obsessed Donald Trump is pushing Kiwis into electric cars - Waikato Times",
         "source": "Waikato Times",
         "published": "Fri, 16 Oct 2026 20:50:04 GMT",
@@ -8620,26 +8614,32 @@
         "source": "RNZ",
         "published": "Thu, 15 Oct 2026 18:40:45 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWHdmbHc2VzFlSDhtNlUwNGVOU3ZUbndmdWl0QV9aUXhXWFU2cmlHQjBFZ3p2UE1lNElGV0swQVVUb2J4Y1dZSmI1SmFkT0VGZ1djR01LV0gxYUFzU2VrcXlBNU04Z3RIRG5CQlp5RlNKSUlveWE3cHRrQ2xZcWRhT04xRHVDS3pSWU9Ccmp3UDhxWTZ4d01nZS1hU1hGdGF2XzZjUk90bUdVUQ?oc=5"
+      },
+      {
+        "title": "Diesel is the most important factor in NZ's building sector recovery - Stuff.co.nz",
+        "source": "Stuff.co.nz",
+        "published": "Thu, 15 Oct 2026 15:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV3Z0RGNsbjhuZ0NTbDhHd3l5b0w5M3lodjY3S0VUbGdOVVB0MTlKT0VNWmRNVWFDYm5uSk1rSHVuai12V3FMdVM2X2xnVnBqM1pMdmZkUmtTZUdqcGdrQWJPMkdLNEM0dklMUWhtVlpXVTJGYWdQNGVjVGtLTTFVZ3hCdy04NnZVTzdpb2Njb3gxZV9jd1ZsNmFlbGtVTnBwVXlrSg?oc=5"
       }
     ],
     "global": [
       {
         "title": "Trump’s waiver of sanctions on Russia stirs bipartisan outrage - The Washington Post",
         "source": "The Washington Post",
-        "published": "Sat, 17 Oct 2026 22:58:22 GMT",
+        "published": "Sun, 18 Oct 2026 00:55:53 GMT",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3k5eWRlOVpmZUFuR1pVdXllbU5veXJ0UTJHMUdwWUQxY0t2OTZNWDR4dktfc3NFZlQ4aHRjd3BhVC1ZdF9yLUhIeE9ZSElGdjBoeVFJX1MxNFJadHFlaG1QTHJTcVl1MEZOWllvTjduYUpuRURxRjNpRFU5M3ZhY3ItbnZoWHljeE9EdjV4bzBhMFUtZkYxb09TX2hWNElWTjZlZW1vbDF6LUF2Ul9lY0p3?oc=5"
       },
       {
         "title": "Graham Breaks With Trump Over Russia Sanctions Law Her Brother Championed - The New York Times",
         "source": "The New York Times",
-        "published": "Sat, 17 Oct 2026 20:14:00 GMT",
+        "published": "Sun, 18 Oct 2026 00:19:59 GMT",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN0xxdGlST1lPUUZIZzZ1NGkwWS1kSzA5cVBBNUFSMi1vdGtha2Uya2ZVdFNodWtKR3EwZ0pPREZJM2Y0YUZ5TW85ZDBVVHFWZVljSkRmN0k3RndvVm1vbFB1eHBoM015SXpsRkVrWENYYnE0ZzFpdWlaUUNaeHdwS1hULUxpZVdiQ3paZEp3?oc=5"
       },
       {
-        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies - BBC",
-        "source": "BBC",
-        "published": "Sat, 17 Oct 2026 19:19:19 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RS3I2MGlpT0lTUm00NkJ5SUpIbVZRX0I5U3N0ZlViR1RXbjlDR0VCcEppZmVEQVFKU29vSE5Nd2RYc3Yxc1lyTGxURHhUUjNRQURHT1RSWDhZaUE?oc=5"
+        "title": "Trump waives most Russia sanctions and tariffs days before they were to take effect - KEYE",
+        "source": "KEYE",
+        "published": "Sat, 17 Oct 2026 22:45:43 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNODdZWVR6ZWZpeURNaEZSWk5BdEN5bnVMN2lvNnNLQTRTNE5FcEdVSEtnQWFtQlVDM2QtYTVyV2dSdTRjZHhVWXJiR3ZQMko2RExWR294M0x0NTlYQ2NYUWxJcEJxRkRXWjRzdF8yUjR6M2VUekNaN2ZqRU5uTWdFNFdHYlJudkhDRnNiRmpJckdCYldvM0RSa0NyMEhGNmZYQk1lOUp0QlBiTDZUQ2xpZUJ5UjFkdE5OX2RRT0lZMG8?oc=5"
       },
       {
         "title": "Zelenskyy says Trump is ‘rewarding Putin’ as he waives new Russia sanctions passed by Congress - NBC News",
@@ -8660,16 +8660,16 @@
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVHR3SlkxeDNvT0xQbzhMNVJiekNEekNpWUN5RXo2T29maGFUVUR4NlJBT29seHlCQ2JBbGxPbEdHQkg3R2JodG5Ob2k2QU9wbXhRRVZSZHhPeVdhU0tydmNwRENSQzQzZDJsRkxIWFhHbF8yV184dnVCNUVUOTV2TUVnUFpEQm1HUnM3WWVHNUdTM0ItN0JLVjh2N3Z1VFYyZGR2ddIBqgFBVV95cUxNTXhoMnV2c2JEMGZtdEJfNXdTbUtzMDFwQzVyNlphZmRWak14RUQtSjFBVkZZZEktaDk3UndPTWVVQmRCX1p3YXlMcUdzeUdOSFJIakxrSWxlS0ZnQzREYkFCcXY2Y1hJckQySUxSVEpDelZUcldub0JZaXpQNWhCT0Y0T0VEUHpDYmVVUTVZLVBMTmpRQVlTM0hNSWxoSmlDQzNHUFBBQ1VPdw?oc=5"
       },
       {
+        "title": "Trump waives new Russia sanctions in the \"national interests\" - Axios",
+        "source": "Axios",
+        "published": "Sat, 17 Oct 2026 17:26:35 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VUzFHTi03ajF4UU41MUNRZ2lBU2VubkVFOFVCUE9WeU1QZGx6U094RXEwZDVXY1FsaWZieE1wbWdaa0k1TDZtY0l4XzdJWWh3cTkwNFQ4UFJBX1Bmb3BOQTlwVW14dw?oc=5"
+      },
+      {
         "title": "Europe Braces for a Winter Energy Crisis as Gas Reserves Run Low - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Sat, 17 Oct 2026 17:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWjZjN0FDbUFpVVhSalJDTWstV0U3OUZpcXRtTHhGSXc1M2FMQnlpaURqX1BjOEkwV3NIaHVUaG5OODd0Q2NMYjVJdjZoTUZMLVBUWkhlbGFMTTdDQzNoZExvV0F5X1dSRmp0eHdtYlNWUWR5YUt5dlFrVFJRVG0zYl94LU9uckxxa21mc3pSS0lROVdrOG44YnNmcFJPaUR2WDFzZkRaS0c5Z0hWMnVRcHJn0gG3AUFVX3lxTE95ZVY3M2ZmQ0xXRU5rTkN2QUtiZ2FXa2RwczV0NDJfQUxaQmxmVF9RdjYtT21JdVFpUU1SXzZCaC0xc1lSaVVFdXRva3JKQXE0emc2NXgxQVNmd1RiTlJDWGhkSF9Kb0EtRl9nZnRrY1RidEpqNUg3UTAteG5zMm1HWjRoaFRnU011OUtmSDZmYnB2dFA4MGdBTjRISXFQMUh6S1dOY3A1aUFoYXg4N0xNaDEwSWZmNA?oc=5"
-      },
-      {
-        "title": "Diesel, Midterms, Low Stocks: Why Trump Blinked On Russian Oil Sanctions - NDTV",
-        "source": "NDTV",
-        "published": "Sat, 17 Oct 2026 14:23:42 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLTgzMzVEMDVQQ2h3U05KbFpwZ1FHMVBGUWY1WjNoY0ZGbHBXX3JBbXpmSVdHRnJPOUxuN2xiS2VlWHotcmUtekd6X0h6NmxQT2RBM3g1Zkw2X18tcGI1TFhHT0Q0eW5pR045ODBnT1BIVzlJMjhCdVdQd2hZeUdWLTdJNS1OZXZwNGp0ek5LYVZLdXRKMTU4X1lfUFFNZWdhLUVhdGpDcTJCck9vRFBZ0gG3AUFVX3lxTE1YeHcwWVZVZ1ZoYmdESFNLNjNOUDZ4Ujk1eUUtV0syWGY5dVoxNVc5UVBKcFI4b2NUeW05NWo2ZUVkeFBON3VLcC02RTEwdl9XbWRwOGxqSEVORGNSVWxQNGthUWNCV3ZHemFsbzVQTzVWSUdSa18xSG8yMVdIaVFiVVFXSEI0OVBxMmtwY25EMU5FUnVxQnNCaWo4R3FCZG02QlowMXdRVHZMZlhRV3duVkxGZmR4bw?oc=5"
       }
     ]
   }
