@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-18T19:41:54+00:00",
+  "generated_at": "2026-10-18T20:09:56+00:00",
   "fx": {
-    "nzd_per_usd": 1.768738,
-    "as_of": "Sat, 17 Oct 2026 00:02:32 +0000"
+    "nzd_per_usd": 1.768403,
+    "as_of": "Sun, 18 Oct 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
@@ -11,10 +11,6 @@
       "delta_1d_pct": 3.72,
       "delta_30d_pct": 15.01,
       "series": [
-        {
-          "date": "2025-10-17",
-          "usd": 61.29
-        },
         {
           "date": "2025-10-20",
           "usd": 61.01
@@ -1018,15 +1014,11 @@
       ]
     },
     "wti": {
-      "latest": 101.41,
+      "latest": 99.02,
       "latest_date": "2026-10-16",
-      "delta_1d_pct": 3.51,
-      "delta_30d_pct": 11.07,
+      "delta_1d_pct": 1.07,
+      "delta_30d_pct": 8.46,
       "series": [
-        {
-          "date": "2025-10-17",
-          "usd": 57.54
-        },
         {
           "date": "2025-10-20",
           "usd": 57.52
@@ -2025,36 +2017,36 @@
         },
         {
           "date": "2026-10-16",
-          "usd": 101.41
+          "usd": 99.02
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-10-17",
+    "as_of": "2026-10-18",
     "regular_91": {
       "avg": 3.604,
       "min": 3.356,
-      "max": 3.749,
-      "count": 70
+      "max": 3.752,
+      "count": 76
     },
     "premium_95": {
-      "avg": 3.79,
-      "min": 3.516,
-      "max": 3.979,
-      "count": 26
+      "avg": 3.764,
+      "min": 3.309,
+      "max": 3.919,
+      "count": 27
     },
     "premium_98": {
-      "avg": 3.988,
-      "min": 3.909,
-      "max": 4.079,
-      "count": 12
+      "avg": 3.947,
+      "min": 3.869,
+      "max": 4.019,
+      "count": 5
     },
     "diesel": {
-      "avg": 3.252,
+      "avg": 3.237,
       "min": 2.996,
       "max": 3.679,
-      "count": 66
+      "count": 74
     },
     "lpg": {
       "avg": 0.0,
@@ -2062,8 +2054,8 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 65,
-    "observations_yesterday": 66,
+    "observations_today": 139,
+    "observations_yesterday": 0,
     "observations_older": 43
   },
   "mbie_waterfall": {
@@ -8666,10 +8658,10 @@
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5Y19GNzJNeHk5MFU3SFdubTkxdVVNckw5Xy1Dc3Q0bmtCTTliR0tzNUJxMHdoR3JDTm9iY3VtSHhpclJyZ1pTTk9OZVJWa0FKWHkzVmxvbjhraDFWX29PbFlOeDgxMUJhdWNSWm1JVVg0Rkh6Q2Ffc1FnSdIBfkFVX3lxTFBtaTQ0ckxNS01uazlRMGpRemdWLXBRQ3RYaDFIUWpEbFVZaWRzNU56akd3OVJxQTlxZjFYUVZMWFc3WmIzdV9nNG5ucTMxZ29wTC1DV1VWS2g4b2FabTRrdE16WTFVR3Npd2xUbDg1b3ZvU2RnNWNYc3VHdFVaQQ?oc=5"
       },
       {
-        "title": "Iran keeps Strait of Hormuz reopening offer on table, says path depends on US - The Economic Times",
-        "source": "The Economic Times",
-        "published": "Sun, 18 Oct 2026 10:32:11 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQX001ZjNPUTIwcVFhcUQ2YXlLNXpDWS0tYnB0TUt4WU52dVZzOVJKT2RhdHVnaG1oeHJlUVg2S3g4TUZNRjc3Y3ExNXJidzQtT25VX0g5QjhQY09VZ3hNX0E0NWpqaTVHbGNUOHJRYVZfaEpnRGE5amNsNi1OVzlsTnZDekdocGhKazZUV2UxaWttNl80X1NQR3lWZmNTQ2ZNV3EtbWUwRWQyRUx6VG5INjhlN1l6YlFMck43MmlLWThjSVF2S2NoMU9tZWdQeXZFMlRYLU5nTkU0ckFkUUFmemVuMHdfZkV2SWVUSlFxR3VaUdIB9wFBVV95cUxNdkM1V3c4dHBSOXBGd0NSMC1iN0VvU2ZjWTRJcVg1dHp1Ynota3pYNVBZZlpCMFVTN0RMRG1JUUlKNTNtaXV4UUVYMFVNVld5dzNoNDVhT3lBcGV4VEhSRlRheFZGcWV5SGlxd2RuN0FvWjB1aWh0YUFFZllhNGktUmMtSTZueGtTWmpqQlBxWVk0ZnpUVlg3UHRJTVVWcFRidmdjV0FwaEs5dDQ2Xy1HQ05MRTloUE1zT2pzazJTYWhDNHFNV05yVUYxQzdTVFFNVGZPaU1nQnYyTXNIbmJJYkEtNzhjamdJRjIxcU5tU0l4WGRFazZn?oc=5"
+        "title": "Iran's Oil Production Capacity Rises Amid Sanctions, Reaching Over 3.7 Million Barrels Per Day - WANA News Agency",
+        "source": "WANA News Agency",
+        "published": "Sun, 18 Oct 2026 10:20:13 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVElGMjBFLTUzV3o5N2RZS1ptTmdBWlhfbGJIdGhFTHpnTC1HX3k5Q3UwUEVJZThyVFFLT3JPcTEtQmF4aTZiWE9DdThVV3JXZU12andZSUVHNmltLVF1bktXcThlQjU1bm1BajR0UG16ay1vRlc5eXA3Tkc4eEZ1RndPR3pYV0NIUlNYd0RZLVdkaFl3cXR6cTZtbDdrUXFxWm13VG13d0N2MFYwYS1ieXBB?oc=5"
       }
     ]
   }
