@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T00:08:50+00:00",
+  "generated_at": "2026-10-19T04:59:42+00:00",
   "fx": {
     "nzd_per_usd": 1.768403,
     "as_of": "Sun, 18 Oct 2026 00:02:31 +0000"
@@ -8566,6 +8566,18 @@
   "news": {
     "nz": [
       {
+        "title": "New Zealand annual imports from Southeast Asia up 15 pct - www.malaysiasun.com",
+        "source": "www.malaysiasun.com",
+        "published": "Sun, 18 Oct 2026 20:45:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSi1pRXVyT2ZtRVZfLWh0bVpsaFBhNlpIdlVHT3pMSEkwS2NhaUZCY2JlMkRKZk9rdGxLRTNiVGtBMHJfQ0FERXBTZ196VmpJN29STE1Jeno3ZWpjYlFHckJiamN6eGFlLW9NQkUwX0Ezb0RRNnNzVWl1eEs3UGZBUXh3MkJpRTBKR3RPd1JmX1hEMXFhOVZtUFBKUm9xSG8?oc=5"
+      },
+      {
+        "title": "Foodstuffs’ FPI basket prices up only 1.6% – but concerns remain about weak NZD and fuel costs - Foodstuffs North Island",
+        "source": "Foodstuffs North Island",
+        "published": "Sun, 18 Oct 2026 19:32:09 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMXZyMlpTbHpjVGkxZkYtc3NSQWVUQ3hhbnZUa1JIeHN5a3JrOUhPb2hqaTlVZ3BNUWVjaWYxSnpER1J1RGpla09VMGlXalp2THR1NVJEMXdSOVZfcEJ0X0d1MTN1TW5TMndfMS1JTWotaTRJNUJHdW9Ca3N0T2lRSkhYS2ZHVUV4d1gwckxuRkxfTF93S21oakc5d1JXMTBZSll6QkRVQU9IX0RFRzJBZTd3eGtLQTFqTzNfYmJMNW1iSl9aLTBhc29Qd3BQLWs?oc=5"
+      },
+      {
         "title": "Oil-obsessed Donald Trump is pushing Kiwis into electric cars - Waikato Times",
         "source": "Waikato Times",
         "published": "Fri, 16 Oct 2026 20:50:04 GMT",
@@ -8600,26 +8612,38 @@
         "source": "Interest.co.nz",
         "published": "Thu, 15 Oct 2026 22:42:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeVR4OGpNR1AzU1dsQ3NsbXd1ejI2Y2JtaWZaeXRMUXRxbXVld3V5clJtalFQMkxTeTNFcmRjQllCaW9XNjJPcUptRTRGREpMVmpBTVFaZ01EX0YzQXNqWTFzdUc2OHFuMV9oS1g2VlMxVmtScXRzbHItc0hWU0VNZFFEWVlmZTVfbzJuc2NSRXppN0t4blBOeTNpaTZocVFiMi1ZTlJ0V0NHVHlJZ1l2THYwSk5Xck44Y0FvWA?oc=5"
-      },
-      {
-        "title": "Why is the price of petrol rising while oil prices are falling? - RNZ",
-        "source": "RNZ",
-        "published": "Thu, 15 Oct 2026 18:40:45 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWHdmbHc2VzFlSDhtNlUwNGVOU3ZUbndmdWl0QV9aUXhXWFU2cmlHQjBFZ3p2UE1lNElGV0swQVVUb2J4Y1dZSmI1SmFkT0VGZ1djR01LV0gxYUFzU2VrcXlBNU04Z3RIRG5CQlp5RlNKSUlveWE3cHRrQ2xZcWRhT04xRHVDS3pSWU9Ccmp3UDhxWTZ4d01nZS1hU1hGdGF2XzZjUk90bUdVUQ?oc=5"
-      },
-      {
-        "title": "Diesel is the most important factor in NZ's building sector recovery - Stuff.co.nz",
-        "source": "Stuff.co.nz",
-        "published": "Thu, 15 Oct 2026 15:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV3Z0RGNsbjhuZ0NTbDhHd3l5b0w5M3lodjY3S0VUbGdOVVB0MTlKT0VNWmRNVWFDYm5uSk1rSHVuai12V3FMdVM2X2xnVnBqM1pMdmZkUmtTZUdqcGdrQWJPMkdLNEM0dklMUWhtVlpXVTJGYWdQNGVjVGtLTTFVZ3hCdy04NnZVTzdpb2Njb3gxZV9jd1ZsNmFlbGtVTnBwVXlrSg?oc=5"
       }
     ],
     "global": [
       {
-        "title": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies - Reuters",
-        "source": "Reuters",
-        "published": "Sun, 18 Oct 2026 23:52:29 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmVLc19hd0VSYXIydVNTWENKZ2J5WVNvVDRQUjRfTUJXWGhjOGxGZkFHVm9SNnZzeU9TWUhrYnJTRU1sVFRnX1BwZVd3NHB5a0NLdThkbDRldlg2eHdhTll2b3RnQTJ4U3dHVGczM25FdjJHRGQ5WGJDV2Qxd1hzLV9EcjNWaUQ4cXEzbWVHRzNuS1dGVVNBSmdXWGR6THN1dXhvSUdFS0dMMTJZTnBBZEFfZ2JoYVVFSWNMZw?oc=5"
+        "title": "Brent Crude Holds Near $110 on Mideast and Ukraine Conflicts - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "published": "Mon, 19 Oct 2026 02:50:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZW11ZjRDTUdpUHpzY1JpNFZtWjZ1bGhZejdHX2h3Q0NTb1pKU0pxM0NtSDR5QlA4YnQ5NHUybkxGS0VxSWJQcHo0NWcyb3A4S21SbVNld2cyLTQ5eFowV2lqRlh1QUMteG1taWQ5b0dPUGg1SnpxVUlRYmlDWkkxZzBQWVpBTjlwdzEyZDBTRWRacVU1ZFhZMjhrMGd5dw?oc=5"
+      },
+      {
+        "title": "Oil News: Brent Pulls Back From $110 as Weekend Threats Fail to Extend Rally - FXEmpire",
+        "source": "FXEmpire",
+        "published": "Mon, 19 Oct 2026 02:03:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbVdTWHRqcGJZMkxxYXdQOERIUGpBMVNITlVnZmNnc2ZoOGlYRVV1QWprRGFPVHBMQjFfSHpiWGJwcllMWTBZc1owZFIzRmRJVUFab0FBdXlJMC01dmk4Q1pqUWFSemVQRG1IT0xpT2NlLTY2RHp1MDIzYzNWWnNTbjBJUWdHWXNhZFQycTNWcXpxcHBZREFFZURJSGltU2pRN1JrWDZOWE9hYy02U1R5cVd3MWRzY1hoS3p3SnUwbWh4NHhwQ1J6NkFEMGlOUQ?oc=5"
+      },
+      {
+        "title": "Oil prices ease as Trump waives Russia sanctions, Middle East risks persist - The Times of India",
+        "source": "The Times of India",
+        "published": "Mon, 19 Oct 2026 01:43:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQOTg3a3JIRTlWS3hJVUJaTEttMnM2SWJMRkVHSjY1b0ZHYWRVT0kzbklmRGV2Uzd2SlRCaU8zdHM5cDV4YThIZkhwdGVrMS1pMWtKdk5BTFN2UTRrV2x5Y2x5ZWR5aTJ3dG9pY01Uc05WYVJGNFFkUnVSMzczYzUtYjBocG1CNHcwTTlQbW5vZ1lpZGtRbldNNWpjREM3UDdFUEdneXY1Z0JyS2RiWXlLNkhvMlR3T2dtMFlvUFVPc3plNzVCSUJvY3g4UERIRmRoQmZNM2JhaXNobkJ3Nks3YjAyUUFVekxBb2h4Q0U4YjRENmRMb0JFVzFVQVLSAYICQVVfeXFMTk9EQ3BZdFJKU2ZhcklvMmp0ZWNLcmphTDRaZ3ZXdTZHUE12UHk4TlpIZDdXaVZsb1VCbXAwVk5hcWV6N3dBR1FOTXktSlprLUZwbS1YNXZuR2sxY3B4WVFZalUyN3BQTFhFM2NVblI2eUhwbW5MZDF4NjFReVZ0bVRlTGhHZ2U0Q2tJSnplVXBaTnZzRVFHQmJsQ21nZXR0b0R1cGVwLVdmNFpkTDBUcVZ6eXlFT2ZiSHpuUUUyUHltQWpSRUl3MThJZUxHd0F0b1kyTUtEZGttRGw1Yi1vbEdYb0t0Wl81YTdPQ3VSS2R5Vzk0SkJRTkE5VmVtX0h0UDRR?oc=5"
+      },
+      {
+        "title": "Brent Crude Retreats From Five-Month High, But Holds Near $108/Barrel As Attacks In Middle East Continue - NDTV Profit",
+        "source": "NDTV Profit",
+        "published": "Mon, 19 Oct 2026 01:26:30 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTTJRLTRiT0pIeEZ3LVlEVVBxMzBaRVoweXNSNWE1VUItSmRMY25KVnFHMS1oWmx3a3ZKcFdnZ3E0VVlRSEllVWxiZDJkbVhBS0V2emJMYXMyRDAwWnBTRGdocEJLTEJJM0xWRHktSm9MMGZJdm5LOHlqNmdmaVhweHFrdjlYNmVFLXljZjhWRTB0RWhoaFNLMmNRM29jVmJsdl9QaDJzWHc5aFlPWnpjRVlkdld5Mk9La2NBaFVvVG5naTZudzdUUHotX0Rya3ZFa3pndGNRQk5VQ01zdmtUSURVbkh0SUx10gHwAUFVX3lxTFBFTnNreFdZdjczdVp3SWs5VVpVZ05PZ2k1QTlFYVV0S0wtSDYwQlRMeEV0SkZoVlFjQXZPNlN0NkJKMU1Uc2JMUlBBMEFVUGs1bnZ5dy12ZlZzQUpXNGQ2SGpjR0IwWHl5dl9rT2hQMW1zczR5UWtuQ2tKdXdfdmFueFFleDd5OWUwaEVHZVNhMjk4UTVmMDRCLTdwdVRnNmNpWDNydHFjbEMwYmVFdmw1T2kyV0pCcDFKeVRCZG5wSUNDT25LQWVUN1l4Ykl3UUFQS0ZZRmFiU0N4MUpKX01MZ25zemxhM0xBNjlzaHNQSg?oc=5"
+      },
+      {
+        "title": "Crude Oil Prices Fall with WTI Down $4 as Vance Signals Possible De-escalation in Iran War - FXLeaders",
+        "source": "FXLeaders",
+        "published": "Mon, 19 Oct 2026 01:01:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSG0tVHpocnI2WloweFpBeFprSko2aUppcUl1U2xvYWxrSE9aODA4Nk93eEdCVTRldUNNcTZFSEFuSTBYcDVmYmhVNGlfWDcybXhZM0hkelgyS2x3M1JGcllKWVlLamR1MENwczJjYmkwOTdiNDkyLVhQQnF5R1lKQW4xbGFzOWlkd0pnUklwcUxyaUJBbU5xRkV0d0VnWURJUTRuVUNuVkxPOGRJVzFhbkdoVk5icEV2N3BnS2dNcXgzcGFkdWVDNHNnWGo?oc=5"
       },
       {
         "title": "Oil Slips From Five-Month High as Middle East Supply Holds Near Prewar Levels - bloomingbit",
@@ -8634,34 +8658,10 @@
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BMUJHak52aTRJWkJQQ1pybGlqMnpzdFlVaVJRd2FOX0dTTi1ZSGgwOXRwUDZBdkZVYTRoY01JZGlQVEVCbVI0NmctTnpSZ21fREV6UW1CZEtIWXlIRk5SbTVqNC1wa0xuNUtSVXN3a2hBR2FHNWc?oc=5"
       },
       {
-        "title": "Oil slips as Trump’s sanction waiver may lead to more Russian fuel supplies - The Mighty 790 KFGO",
-        "source": "The Mighty 790 KFGO",
-        "published": "Sun, 18 Oct 2026 23:20:03 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbWl4b1BPZVdPdmR3ZkVNY18wUkVpS2hJcEd1bEtTVFZwTzR6d043S01OQ0lFQml1dTlTRk9LdG5HaVJiOTlibDZES0ZWajRyaUpUOFQ0V1FUNE45aTVWc1FabW1oVFVtQVA3X2U1TjBsX1BMc1RMNURkTENTUDFGczBFMDVodWxGVmxJeXlVN1plaWMtdnI0bDUwcTlvRzhldUdpYWhB?oc=5"
-      },
-      {
         "title": "Oil Prices Near $110 Raise New Cost Concerns for U.S. Agriculture - AgroLatam",
         "source": "AgroLatam",
         "published": "Sun, 18 Oct 2026 23:01:39 GMT",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWHJJSkYtbE9YQzh0YTUxQkItUUh6VU9nX1pWUFdqdk9XM1FLUzRKTlp3X2VWVjhTRnFzQ0NFV1h5TlRrVU1XVXhtM2RadjZFT1FjMktwUkdxX3RmSTNER1RNNi1rT1hMbVNpbGNldUtuWTg3d3pMdTlhZktOdERqa2FYbUJ6aG9DUi1DdV9HTVhyMkJzMkx5T1c5dE43cUE2?oc=5"
-      },
-      {
-        "title": "Record Shipping Costs Force Oil Producers to Slash Prices - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Sun, 18 Oct 2026 23:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU084bnV2Uk1VVnBfTVVQOXVDYktTQ1FVWFRTcllwS0dGWTdrcWRwQ0NqakdaRTlDSThIajZGT21ROUdXSzdCeWNiSEFmbC1ra1NSXzNZS3F5OEdnUHQ3VjF5aG5oMUt0Z0ZzRm1OS3JVM2YxSGhCTkRMNllyaDBqZDhfMXJaYUhRWkw2RFVZYjg5RElweDBGdmpjdURacjNkdWfSAacBQVVfeXFMUFZWQlBEUmZnTFNNMnFhOFNRSmwzUU9SOVlnNl9BbnVhQlV3MDVGejFMTDB1aXFtUjI5NHg5N3JILTBGYmk0TDhqcDIyeXEzazhxOGNkc1FDemk4eGNjWmwzNHp2emZCdUltUnFVX3pHcXVMTVZrVF9sUGhtTUU1amNhMG9rb1NtV3BzMXR3ZGdoQ2tjM0RFLXBkYVQ5OTNqMWVjcnYyVGc?oc=5"
-      },
-      {
-        "title": "Brent crude hovers near $109 a barrel as Ukraine resumes energy strikes, tankers attacked in Middle East - CNBC",
-        "source": "CNBC",
-        "published": "Sun, 18 Oct 2026 22:15:39 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUUdqTmNWUUFKcWcydVFMaU5uUkthdnpkZ3Z1Y0FaTU54UjdfZDlfYnNJcTU0WTNGU1hRa0Etc3pFNjNPQjBXcjB5S3pFbGMyRUlLTjVoTzdNQjNWVTJsZTNVUER4NDdDQWZMdWdhWnBGR1NkWDJQYnlVT3lJUGsyZmlMY1BKQXliNUZMVHZXWdIBlAFBVV95cUxQMnMyZDFwdWNxYnZScnhQRUlrUnJzcGZPcHQtRTFNWXNURXFBZC1CMThXXzlCLWt4NFpIRDFvREpUSDlVU1h4RDF5UU51Z1VOaVU1WHBWWFN1V1NhSjFMM0hTS3pqOVZXTi1jbnIzYUlNMGo1eGh1RjA0eHRvSWRQT05WNVpUOGl0SkhlU01MdzlsYnhu?oc=5"
-      },
-      {
-        "title": "East African oil could loosen Asia’s grip on Australia’s fuel supply - Lowy Institute",
-        "source": "Lowy Institute",
-        "published": "Sun, 18 Oct 2026 16:01:59 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPREctaTJ3VlNQb2V2TGV2M3VQVU1Fdk9kbi1zTEt0RktNc19FSmg5MllXcnJ6MTR6ZWYtSHlEbFY5a0RKdkl6UWRuVC1OMzRwZjlCR1I1VTIxZGZHM0laVjRBWVFIQm16RUQ2aXpZdHRXUmVsbjBuQ3cweEZndGVHeVJMUzdHTlZWcW5kRjVNNTF0eWk2Z1doSFAyT3ZscEpQOFNITDhDUlMwSWpRWl9JVTFLYVM?oc=5"
       }
     ]
   }
