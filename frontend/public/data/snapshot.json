@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-19T21:38:07+00:00",
+  "generated_at": "2026-10-19T22:02:29+00:00",
   "fx": {
-    "nzd_per_usd": 1.768403,
-    "as_of": "Sun, 18 Oct 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.768993,
+    "as_of": "Mon, 19 Oct 2026 00:02:32 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 109.86,
-      "latest_date": "2026-10-16",
-      "delta_1d_pct": 3.72,
-      "delta_30d_pct": 15.01,
+      "latest": 109.21,
+      "latest_date": "2026-10-19",
+      "delta_1d_pct": -0.59,
+      "delta_30d_pct": 13.43,
       "series": [
         {
           "date": "2025-10-20",
@@ -1010,14 +1010,18 @@
         {
           "date": "2026-10-16",
           "usd": 109.86
+        },
+        {
+          "date": "2026-10-19",
+          "usd": 109.21
         }
       ]
     },
     "wti": {
-      "latest": 99.02,
-      "latest_date": "2026-10-16",
-      "delta_1d_pct": 1.07,
-      "delta_30d_pct": 8.46,
+      "latest": 98.24,
+      "latest_date": "2026-10-19",
+      "delta_1d_pct": -3.13,
+      "delta_30d_pct": 7.39,
       "series": [
         {
           "date": "2025-10-20",
@@ -2017,46 +2021,50 @@
         },
         {
           "date": "2026-10-16",
-          "usd": 99.02
+          "usd": 101.41
+        },
+        {
+          "date": "2026-10-19",
+          "usd": 98.24
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-10-18",
+    "as_of": "2026-10-19",
     "regular_91": {
-      "avg": 3.604,
-      "min": 3.356,
-      "max": 3.752,
-      "count": 76
+      "avg": 3.61,
+      "min": 3.296,
+      "max": 3.919,
+      "count": 85
     },
     "premium_95": {
-      "avg": 3.764,
-      "min": 3.309,
-      "max": 3.919,
-      "count": 27
+      "avg": 3.795,
+      "min": 3.486,
+      "max": 3.969,
+      "count": 49
     },
     "premium_98": {
-      "avg": 3.947,
-      "min": 3.869,
-      "max": 4.019,
-      "count": 5
+      "avg": 3.969,
+      "min": 3.87,
+      "max": 4.119,
+      "count": 10
     },
     "diesel": {
-      "avg": 3.237,
-      "min": 2.996,
+      "avg": 3.228,
+      "min": 2.906,
       "max": 3.679,
-      "count": 74
+      "count": 81
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 5.0,
+      "min": 5.0,
+      "max": 5.0,
+      "count": 1
     },
-    "observations_today": 139,
-    "observations_yesterday": 0,
-    "observations_older": 43
+    "observations_today": 185,
+    "observations_yesterday": 31,
+    "observations_older": 10
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8658,10 +8666,10 @@
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVno0MEV6TEdQMmp2MUFzdUt5aEpQbkFNRHRfQWNBbDg3VEdLY2FpbEFLWk1fdFhGZDBqenhrcnBwclhaY3FLTWdyc1NEVHVRQU11WnlLS21SQ1RsS1BFQVNqZ0lraS10cHE0cmI3VXplZkFaWHcyb1lBbDVwUXJEWU5CenhRamt2WWkzWjFjM3pIOGNMZWxVcVRCYjk0UdIBowFBVV95cUxQUUZrd2Fnall0clJRRm1ZNC1SWWM3VXlnUmQ0T2lhMUE3cFN6YmpsUlBraHh6X0I0LWxjNS1ienJKMnFhbWRuX1AzWTFCaExVYmUxS3pZYWhteGFNTlB6ZmgzdnpRTnllYmZxZXJVUWJLbWZwZ2kxZ04yZS1BVDJUQUtMazI1eUEzWkNLek5jYlhqOXZRajJZakREVFJMU1kxRGNZ?oc=5"
       },
       {
-        "title": "What's Trump's Thinking Behind The 'Diesel Deal' With Russia - Crude Oil Prices Today | OilPrice.com",
+        "title": "Canada's Inflation Rises to 3.1% as Fuel Oil Prices Jump 58% - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Mon, 19 Oct 2026 16:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeDM0eERWWG1qWl9peENwX2RTU3llYzZNTkRPVnNLSWlxdnlFakJhVmFFd1JzWDZmY244SVVCdjVHN3RkcGJQYTFKZFRIZFR0QVNMOVN4Yk1DVzBQbHo2alJTN1puUmRWTW1EZVRUc1h5UjRlS29tZnd3c3MtbldjaElXUVJZa1J2clVVOXNVWWp6LV9yMDhhTGVrWGpzU2to0gGmAUFVX3lxTFBjSkZiRFZzQ2lhY1RLTUlZQld0amJubEl2SW5tNHBLbUlJblU2dm5OSnktUFNZRjhFcldtblo1VE4xanFXeTZHN3h3WnhjZWMzbF85WTB6SlY0cUlycFJ4NTZoNy15ekhNZmNic3NLb25sUjFDV0VVdGpROXlJR3JYSWNWMzlQb2MxUF9CSkNBYmgzNlZfcmhsWGpIOFo2VWdTVTAwRXc?oc=5"
+        "published": "Mon, 19 Oct 2026 16:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcDIwWFF3U1lQeGNlTjdLRGFGeXlmLXkwSks2VlNicnFISE1BRnAzendOdlJfTUcxbWwzVmIyTXpNdlBUTldyY1FpR3F1eEp6VmxNazR4N2FCWG5HTlRHZFZDc3NWRjZkdXY4aUlhcHpINmZyZWZ3TEkyWkpSb1pULUNra3MwbVN1NXkwS1NHQi1kcWtYUUlmd1FBRmhUdEJPbHVQdGVLb2NlLWN5enJVbXFn0gG3AUFVX3lxTE9jRTJoVkxSUVh5ZGxZSDhmam1pM01qN1FpYnllbmIzRHhDT2hadzlxSWZPSmFyNV9YNk1ZN3F4QXFCSGVZUUxGZ0FMdnJCVHFNUnhkSnhiQjhhLTUyQ21KM2RQRC16QXZrOWdSZlVzRWM4dVVKZHZPeUNvSHYzMjczYzBMbjVGREZPUzhBUTdlai1VdThoVHJmbkxycEpUeWZhYTNjNTdYTlVDU3FJd0tKTlhvQ0p2MA?oc=5"
       }
     ]
   }
