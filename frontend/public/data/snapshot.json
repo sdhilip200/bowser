@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T21:18:12+00:00",
+  "generated_at": "2026-10-21T23:28:48+00:00",
   "fx": {
     "nzd_per_usd": 1.760423,
     "as_of": "Wed, 21 Oct 2026 00:02:32 +0000"
@@ -8582,6 +8582,18 @@
   "news": {
     "nz": [
       {
+        "title": "Inflation eases to 3.7% - Stats NZ - 1News",
+        "source": "1News",
+        "published": "Wed, 21 Oct 2026 22:26:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94elpQQ29RSWttLWt2cHROcGJNUjczYm5NYllUM0pRNUtPcm9MRUpmWG45ZUY4RjVxN2RZUlVsYmFQZWJXeEhEazBOS0c3RHRjNEpZam9kOG83LWZ3dzNVX1Vwb3FCQlB4TEZ5cW9ZNEFUX3dU?oc=5"
+      },
+      {
+        "title": "New Zealand Inflation Slows Ahead of Fourth-Quarter Fuel Spike - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "published": "Wed, 21 Oct 2026 21:46:56 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWjJjbUJnRUxkMXU0Y3ZDMjd2WDh5cl9BS3AxWk5oM2dHRmkwV1pPTnVLd1ZwZW9WVmFoVkNjdzBTazJvZnljZ1lHTm03b0x4VmRmR09WQ3p2cmM3R0VzWExhR29GSGRJYS1QVHdHZmdnTC00ZUVVTFhjTlZoYmx0aWZKYS1FU0IxVDZoeVJCZkNzZXhaeHZuOFNka0VSdDV5WERQMGZodkRpVjRKaVplMFJKMHh3OU1yYTVwSmVKQXRCaFRfS2J3dXlYY28?oc=5"
+      },
+      {
         "title": "New Zealand CPI preview: Q3 inflation seen easing to 3.8% ahead of likely RBNZ hike - investingLive",
         "source": "investingLive",
         "published": "Wed, 21 Oct 2026 19:58:37 GMT",
@@ -8600,22 +8612,10 @@
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNazRseHNYN01mcEpjSnBqV1dyamNxSHRTODA5bnpWZ2xqRTF3SVJTZVlrTW4tdlFENE9CblVBVS04SElqQS13VnNBX1Q4Q3FIbUEzbHJJZU9XTVdsMlpsMUNidC0xNFNMM0V2Y2hQSi10M3pNYW9TTGV2NGdycUJZT3FIbV81ZFptZWYtbXhDM1FtMzdxU18xbkFBMW5VVEZKUkliOW8wLTBOay00WDFpbU5tR3Y4WXg2Uml1Y0djSjFxQWdlS3ZiYUMyOEo2cGZPNEx4VDF0Rlk?oc=5"
       },
       {
-        "title": "Latest The New Zealand Refining Company (NZR) share price and news on BusinessDesk - BusinessDesk",
-        "source": "BusinessDesk",
-        "published": "Wed, 21 Oct 2026 00:46:03 GMT",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nYUhNbnVpZ05zMGF5UWlLdlcybEpQSjFtaTNkN251OVZXWTJ2azVDNUNIUWlPNnN6Q1dVR0x3Mnp6WDRwWktrVXNWOGwtTHpNWDVkeGFmNGpfNFYwLTlLYWNiWGxuMnJ2ZUN6TF9qMV9zZDE2cW9GV1ltYzU?oc=5"
-      },
-      {
         "title": "Foodstuffs Concerned About Weak Dollar & Fuel Costs - Supermarket News",
         "source": "Supermarket News",
         "published": "Tue, 20 Oct 2026 00:23:49 GMT",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbWFCMjVNMkZSZTU5TDRZeDd6Q1VLckU1MHFlYmwyWUFQSzNuMG1YbjZSMmtlNXM3TndPZGpZNDdkQ2RTUDRUUm5ZX21hRXNtUVlGVThYZWM0X29KUHBMWEdMRmQzM3IycUN4T0xRb2NSWGhnT3BQbVhQcVdkbXNRb3h3MTF4RVRXR3R3OThB?oc=5"
-      },
-      {
-        "title": "New Zealand’s Import From Southeast Asia Rises 15% To US$9 Billion - BusinessToday Malaysia",
-        "source": "BusinessToday Malaysia",
-        "published": "Mon, 19 Oct 2026 02:23:44 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOczZaWndjckRucVFXUDRTQjZuZWNPLWx3MU84ZHJhN1lJOVR2TDMtTmFNYzUwSHpnWmJ1R0J4Z2tWUF9hODdkYlAtUE9KNmlNVW5Sa2NVRUJ1QU1xZEdZRThBVkNkNU9TRVpIeWdHWnZiMkFoQzUwWGd0VlhkcC1wUnN0d0NDdGNWcXlSQTliZHFRUDRvV3I4UEY4RllDalFrMUpxNDlkY1BqZFVC?oc=5"
       },
       {
         "title": "Foodstuffs’ FPI basket prices up only 1.6% – but concerns remain about weak NZD and fuel costs - Foodstuffs North Island",
@@ -8632,16 +8632,28 @@
     ],
     "global": [
       {
+        "title": "Oil Rises as Deadly Saudi Attack Fans Middle East Supply Fears - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "published": "Wed, 21 Oct 2026 22:05:54 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcGpORlFHazhXTnJBNnc2TndhSzgzUGRSLXd1Zm9fb0xKRzJZTUs1NGRPdE9McUpmZFlFenhNaGYwOGNIREM5NXRMMTZ4VXg5clJDaWFqcGRKRDRBSUh1bUpLenQ4ZTdyQi1qT1p3RjhRT0V6UVdUdGFuLWJxakVvMHRRanRvUGduVXA1bkZmaWlNRHFlOEdhVFhxTHAzUQ?oc=5"
+      },
+      {
+        "title": "US sanctions Greece-, Panama-based law firm over aid to Iranian shipping - WTVB",
+        "source": "WTVB",
+        "published": "Wed, 21 Oct 2026 21:13:04 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRWZZZ1lzSGlKYlVtM2F5V1RvS18teE1VMjZ3R0RzMUIzUm1nejdJRHhUQTFLS3ZicUtSd0thVjlyd3FjWVBRODlfOTZlVzhrNUN6ZFRmdmc5cERjYXE0bzhqOU1TN1RaakhVYzFoLUZ0dFZuaFRkeXppd2VBcEstSVJGNTJpcHVWQU1FbmJBSU1mVE9vc3g1anhsQmJLQXJZQzdEOA?oc=5"
+      },
+      {
+        "title": "‘We Will Find You’: U.S. Sanctions Law Firm Over Iran’s Shadow Fleet - Dallas Express",
+        "source": "Dallas Express",
+        "published": "Wed, 21 Oct 2026 21:03:29 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd0E4V2RHbnZXWEVXM3FLbW9KYzc2YkRkTTlLVGRidkJocGtBTmJuNnJYRXJ4dzVmSlF6Njk5MVZZYUNvYU5FckJ5U0k3YUVjeEJlcFh5a1ZDOFk4cnRrQkZranlKX05reVhJc3ptSFQ0dW0xeXdkX0dJMDZIb2dBbWpTYk1pN3BJc0hKVWwzSVBWc0Z3TXZYZ3lxT3ZiQURtQlpZSDFVS0NlUQ?oc=5"
+      },
+      {
         "title": "EU Adopts Record Russia Sanctions Designations as UK Targets Oil, Crypto and Supply Networks - JD Supra",
         "source": "JD Supra",
         "published": "Wed, 21 Oct 2026 20:42:56 GMT",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdzRQazIxZllhUXdpbDRMSV92Zmp5aXk1cTRLZ2N1eXlEYVViUHQ1Y25yNExNX3E5QnpUVlItZjJzSnYzdEhadWlGUVlkS1V2YUhKbDlnUkcyUDhvakI2Y21wWTVQMnNvbUZ0dUg0Uk1GNDFveHVFMGF0M0tDV3Y4WGV3?oc=5"
-      },
-      {
-        "title": "US Sanctions Law Firm, Shipping Agents Over Alleged Links to Iran’s Shadow Fleet - Arab Times Kuwait News",
-        "source": "Arab Times Kuwait News",
-        "published": "Wed, 21 Oct 2026 20:39:36 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeG9aVkFtVS1XbjNrSFBNV3RxZVNNYnRFb2ZPdGtkYlNkc3Ewc2lFLXNoNUpNTWI2V2N2ZHlBdDB5ME5LcTRoZ3ZjOVNKbWlFcjVVZGhaSGRZUGZiWkJZOWtIWWdqekZzN0g3Rk5na3lUcmZyd2UtVzBEbkJLc0tyRzFuS3RCZmVsY20wY3ZmQ0xncjN1UXZIQWdRVU5RUEFSMTdGMUN1Z3I2TXU5emd1cjM2eEZWeEU?oc=5"
       },
       {
         "title": "Oil Futures End Mixed as Traders Weigh Supply Recovery Against Shipping Risks - WSJ",
@@ -8666,18 +8678,6 @@
         "source": "Newsquawk",
         "published": "Wed, 21 Oct 2026 18:56:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUEVTQTZJZUhCZDhaTlJWM1I3WFlMck9CUTBYZzVac19rV09yXzRObUxBelgwWlNiOXEyWkRPNklwR3VHblgyTVBxTnBsdGR4OHRfdXVUaWdSSEFXeWJ1U1UwTXpRTUlwc0QwNGZhbmJUWmo5VkVpejNCSm5YOHpKRHJpVTJob3BkdHFFUGp1TQ?oc=5"
-      },
-      {
-        "title": "Iran War Upends IEA’s Oil Market Outlook as Global Supply and Demand to Contract in 2026 - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Wed, 21 Oct 2026 18:41:14 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPak5XcGxWUXBlNVhTbFd3RkFvM2dzMUdvcm84a3Nzc2hxLVJYMU1zOHBsYlY0eV90Z2NlY0xDajNSdUxweFJ6WVprRjNzOHVrT0cwbXM0LUZvRHRmdF9VMEN0NUZpZ1VjYjFNeEdiSHZ1SHpyZ2otTVhyLXVsb09yVm1NUUhQM2dMMUNkQjFCalh1a2Y3bjlqX1ZNOHFVRDM5Ylh2clBwd0JmTUFtcmZUeUUyRnhsRXNjeUE?oc=5"
-      },
-      {
-        "title": "Global Oil Inventories Depleted, Next Price Spike Could Roil Economies, Markets - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Wed, 21 Oct 2026 18:31:18 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTzJ2Rmxmd19zVGUwVzJ3bzdEeHp4NTczY0tCM0MxYzlnNUU5UTRIZk45cndabTA0TnNoblRoc1FsWE12bTYtWGVHSWhkdEpBcnNYeDExZC1XWFN5SWhjS20ySEh4M1pHeFJ0RTFaSW9DT0JXYlMzNzdHS1dsWFUxWVZISjNMT045RkZoZmZDOFRHT3pFNHVDTVc0TlJEZVo5cVdMajNZSERCSmJH?oc=5"
       }
     ]
   }
