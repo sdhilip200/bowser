@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T07:28:35+00:00",
+  "generated_at": "2026-10-22T13:12:52+00:00",
   "fx": {
     "nzd_per_usd": 1.760423,
     "as_of": "Wed, 21 Oct 2026 00:02:32 +0000"
@@ -8582,12 +8582,6 @@
   "news": {
     "nz": [
       {
-        "title": "Inflation eases to 3.7% - Stats NZ - 1News",
-        "source": "1News",
-        "published": "Thu, 22 Oct 2026 03:36:40 GMT",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94elpQQ29RSWttLWt2cHROcGJNUjczYm5NYllUM0pRNUtPcm9MRUpmWG45ZUY4RjVxN2RZUlVsYmFQZWJXeEhEazBOS0c3RHRjNEpZam9kOG83LWZ3dzNVX1Vwb3FCQlB4TEZ5cW9ZNEFUX3dU?oc=5"
-      },
-      {
         "title": "New Zealand inflation slows to 3.7% in Q3, below forecasts, keeping RBNZ hike on track - investingLive",
         "source": "investingLive",
         "published": "Wed, 21 Oct 2026 23:23:17 GMT",
@@ -8606,12 +8600,6 @@
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWjJjbUJnRUxkMXU0Y3ZDMjd2WDh5cl9BS3AxWk5oM2dHRmkwV1pPTnVLd1ZwZW9WVmFoVkNjdzBTazJvZnljZ1lHTm03b0x4VmRmR09WQ3p2cmM3R0VzWExhR29GSGRJYS1QVHdHZmdnTC00ZUVVTFhjTlZoYmx0aWZKYS1FU0IxVDZoeVJCZkNzZXhaeHZuOFNka0VSdDV5WERQMGZodkRpVjRKaVplMFJKMHh3OU1yYTVwSmVKQXRCaFRfS2J3dXlYY28?oc=5"
       },
       {
-        "title": "New Zealand CPI preview: Q3 inflation seen easing to 3.8% ahead of likely RBNZ hike - investingLive",
-        "source": "investingLive",
-        "published": "Wed, 21 Oct 2026 19:58:37 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ3NoU2pMc0hhUVNtWVViYjlJeV9odGNCd1N6UEdna1I0bUlhWDdQUHdEQjIwS0RUTTVTbUpnaGhIbEhQSjA4a2E5dzhjNm1Tbm1Fel84YWxjZkNRVnFzbko0aG1LZXRMTjQzRU5tQm9yVjVSUHJKWU5nbHlhZUltXzIyRnk3YTNvaThCcy1PZ2xlSHBSMjB6ejRremRIUzMwX1FMTTgyR3ZOYXdJc3V2Z3lxb244R3dhdi02alptVQ?oc=5"
-      },
-      {
         "title": "Inflation dip likely to be short lived - RNZ",
         "source": "RNZ",
         "published": "Wed, 21 Oct 2026 17:55:56 GMT",
@@ -8624,60 +8612,72 @@
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNazRseHNYN01mcEpjSnBqV1dyamNxSHRTODA5bnpWZ2xqRTF3SVJTZVlrTW4tdlFENE9CblVBVS04SElqQS13VnNBX1Q4Q3FIbUEzbHJJZU9XTVdsMlpsMUNidC0xNFNMM0V2Y2hQSi10M3pNYW9TTGV2NGdycUJZT3FIbV81ZFptZWYtbXhDM1FtMzdxU18xbkFBMW5VVEZKUkliOW8wLTBOay00WDFpbU5tR3Y4WXg2Uml1Y0djSjFxQWdlS3ZiYUMyOEo2cGZPNEx4VDF0Rlk?oc=5"
       },
       {
-        "title": "New Zealand's annual imports from South-East Asia are up by 15 per cent - The Star",
-        "source": "The Star",
-        "published": "Mon, 19 Oct 2026 15:19:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTy1aN3BvVjJpTVF2bDBFNWZqMnp0cERkR19idUptY0ozejEyMFpZck9WbTU5UHVIdWVDcTVDeEd3dm5zZlhOVThEMG52cV9SR1JQTEk4dlQ1U1AxdExBVklKcDBrTXBHWjBPZVFrbUFqN3pXTGNmcTJxSVJqU1FfUC0tbkpGMUppbUR2U1NlMVFaYmN4ZmdKTTFtMlZJNGE1Z1VUMzNKNFh5VjY1cEk2NHdQYnlpNWJyREVNVUxWY0pqbEVNY0NQbTROSHVFcFE2V0E?oc=5"
+        "title": "Latest The New Zealand Refining Company (NZR) share price and news on BusinessDesk - BusinessDesk",
+        "source": "BusinessDesk",
+        "published": "Wed, 21 Oct 2026 00:46:03 GMT",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nYUhNbnVpZ05zMGF5UWlLdlcybEpQSjFtaTNkN251OVZXWTJ2azVDNUNIUWlPNnN6Q1dVR0x3Mnp6WDRwWktrVXNWOGwtTHpNWDVkeGFmNGpfNFYwLTlLYWNiWGxuMnJ2ZUN6TF9qMV9zZDE2cW9GV1ltYzU?oc=5"
+      },
+      {
+        "title": "Foodstuffs’ FPI basket prices up only 1.6% – but concerns remain about weak NZD and fuel costs - Foodstuffs North Island",
+        "source": "Foodstuffs North Island",
+        "published": "Sun, 18 Oct 2026 19:32:09 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMXZyMlpTbHpjVGkxZkYtc3NSQWVUQ3hhbnZUa1JIeHN5a3JrOUhPb2hqaTlVZ3BNUWVjaWYxSnpER1J1RGpla09VMGlXalp2THR1NVJEMXdSOVZfcEJ0X0d1MTN1TW5TMndfMS1JTWotaTRJNUJHdW9Ca3N0T2lRSkhYS2ZHVUV4d1gwckxuRkxfTF93S21oakc5d1JXMTBZSll6QkRVQU9IX0RFRzJBZTd3eGtLQTFqTzNfYmJMNW1iSl9aLTBhc29Qd3BQLWs?oc=5"
+      },
+      {
+        "title": "NZ petrol prices jump 6.4% as banks split on inflation outlook - NZ Advisor",
+        "source": "NZ Advisor",
+        "published": "Fri, 16 Oct 2026 05:53:28 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLTdBZ1ExOUp5RlRmbnlMSE5CczZnX256N1IzRnZsV1NfdzIzZXA3bUdHeFNGLVYzTGJKQnFvMEVBdGQwdm81amFzMEF1RWFzamoyRHJaMWVVYU5PRk1ScHhBNVYwb1FQT19ySmhRdE0wQ1AyQk5aYmhoSTFsNWJVLXlzelduYWJyQjBwR2Q5b0FjX0pDRlRPbTlia0tKWXhEazJXbDNubmgwZw?oc=5"
       }
     ],
     "global": [
       {
-        "title": "Iran's Oil Reserves Run Dry as U.S. Naval Blockade Tightens - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Thu, 22 Oct 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdmxMVV9JeVp3T3JjUTA3V1drVUJ2QmVTN19zM3Z1TjIzX0V5M2pJcnZRNGZqd3d4czBoLVBBU3hxUzJkR3E4SUdCYUpfYnFhRVUtVW9KbzJjaXFZWDhTamNfUUZvM21VeDd1NEM1RUJ1TFRvN214UlZ5cmhCUHhDOGg2THNmMFd4RzZTYWJRekowbUdKRmFFQW1qbUxST1ZmV0Y4bDJUck9NQTBweXE4Z3ln0gG3AUFVX3lxTE9OTzk5VFlja0JsR0NoOWV1OTdUMTQ2VFFMZmFPSExzUG5JM0pVQk1FbVc1MmZVRmdSb053aFAySFZjVUhsUmpfWS1nSUpGTlBkT3BFRkU5dEhXSm0zX21UdkJta2lVSVFuT3d0UVA5Q29IVjlLcDF3eWdicmJMWElPbVlpNmZ3cVF4R2cxSUNHQkgtMDFmWExpNnFERWVTczhTWTVoVEJpRzRsRnlVbHdacThTcFA1Yw?oc=5"
+        "title": "US sanctions law firm accused of helping Iran evade oil embargo - ICLG",
+        "source": "ICLG",
+        "published": "Thu, 22 Oct 2026 12:11:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTktUZzd4ekFmLWRVRXo0WFN4WDRBTnBPVTBXNFV6dGNPVVdmUkdUd2VWS1h3WHVaM2FkZl9nZzFPR1JKTkltUTZkRTZlLUZ4MGxnTnJ5SDAwNkVwUnlKMkI2ZW9rYzBKcGhsb3JrQVo3TDc0Z0R6Mm5Tc3hwdU5NaTlWV19yWnlsNHdac20tVQ?oc=5"
       },
       {
-        "title": "Oil jumps $2 on escalating Middle East tension - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "published": "Thu, 22 Oct 2026 06:39:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaUJCYWJFR1VUQ2JfYVlWWVBxSzYwMnEzcVQxUU9faWFiYm9qNGxZd2NrX3c1MDZULThNTHRmdG9LOHoxbDdGaHlHcms5aGo0QWxWVGJrSzZSREl6QjJ6eWNGclhyVWpSa0VtMHBIVnBJc2J5YWNMUzdCSVhneWtkTFpqT19Bdw?oc=5"
+        "title": "Current price of oil as of October 22, 2026 - Fortune",
+        "source": "Fortune",
+        "published": "Thu, 22 Oct 2026 12:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10Tk1UaDhGcERocVc0REZmLTVLZEEzUUo0TGt4VWRzQVNuaF8zMThZWHhVNzk3UjBpaG1PR25tLXFxWmlpdzE3WXFpS0lXa29UNy11N2xWTHpkX3J5TExxVmtR?oc=5"
       },
       {
-        "title": "India's Mideast oil imports return to pre-war levels in September - Reuters",
-        "source": "Reuters",
-        "published": "Thu, 22 Oct 2026 06:02:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRl9GVUFVbTBqSFIzbnJpZmJ0c3Q5ZFJlQ0hQUkkwZW5aVDdVWTMwczBlRFRTbF9zM0NNODcyWG9PUTg5WXZKOXRfSUdJSXhHM1FPcFhUOTVmb0pIUHh5Rl9tYldSWDd1all5UV9fV2VMSmNxSUU4anJpUVVvMkFadHpQcmwxdFhRSHlvSXhpMEY1bXNkV2NnUnVNelltUHVRQjFzWE14TWZVVnhrRndv?oc=5"
+        "title": "Oil Rises Intraday Amid Escalating Tensions - Rigzone",
+        "source": "Rigzone",
+        "published": "Thu, 22 Oct 2026 11:57:23 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRVNLbjhwbzBwMGZYaFcxbVh1VkRSYW9oME04ZDN1U1AwMWt1R0xHRGdrak9JVnN0TTFadlRQQUNHU1BsZGlqdXRkMmRzYW5pVEp4RUJqNU9pWkJDdUViX3BONWVhOEFpakgzZTdTX3RpV2ozUldFTk54dmFEckZEUVg2Wk9TOXFaWENIVVhCaUd5ZXBmaGVDRkw4Mm5ybXBpbEE?oc=5"
       },
       {
-        "title": "Indian Oil to trim Middle East term crude deals for 2027/28 as Iran war disrupts Gulf supply - Oil & Gas Middle East",
-        "source": "Oil & Gas Middle East",
-        "published": "Thu, 22 Oct 2026 05:47:09 GMT",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wa0JidnFyLTJpb0U4WnNDMGFRSFpzZmRiNEttMThZVGxTLVJ2alFTMDFfbFBOclE2YXJJMGJ3MlNuYjRqQnZlc21TSlZWUG40SC1HYlhIVHBVZDNTM3pOVFNuM1BZcERIZThpZ2l0WVJraElMcElXNTRvaFZtNXc?oc=5"
+        "title": "Oil Prices Surge as Deadly Attacks on Saudi Energy Infrastructure and Tankers Raise Middle East Supply Fears - EnergyNow.com",
+        "source": "EnergyNow.com",
+        "published": "Thu, 22 Oct 2026 11:53:28 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPM2poNnM4WlNtU3l2X3hTbmpQWWxsdU14TVFOQTlUVW9TaDVFYWVlWDYzSTVHNlE1ajN2WVg2MDhRUU1jekxycWJPSHJ1c1Z6akxrVEppWUlabTdJTTAxcjVCNnNlVjltRkRRYmZVVDFrMVdpeExqS3hOU1VpY1J0czhiQnB4TEJWS0JsVGVkQ2FQMC1iQWtmcVc3SzhVeHJGN25Nek84MWRzb05Mamx6MUo4cUdVTEZ3MEFRdlYxbEFTLTF1WHc3QUhCU21kc1BITEo5NXUyNTZnS0E2LUxwSWpCOGJOeUYxVXc?oc=5"
       },
       {
-        "title": "Oil Rises as Deadly Saudi Attacks Fan Middle East Supply Fears - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "published": "Thu, 22 Oct 2026 05:26:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcGpORlFHazhXTnJBNnc2TndhSzgzUGRSLXd1Zm9fb0xKRzJZTUs1NGRPdE9McUpmZFlFenhNaGYwOGNIREM5NXRMMTZ4VXg5clJDaWFqcGRKRDRBSUh1bUpLenQ4ZTdyQi1qT1p3RjhRT0V6UVdUdGFuLWJxakVvMHRRanRvUGduVXA1bkZmaWlNRHFlOEdhVFhxTHAzUQ?oc=5"
+        "title": "Oil prices jump to five-month high as attacks threaten global supply - The Guardian",
+        "source": "The Guardian",
+        "published": "Thu, 22 Oct 2026 11:29:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSkIzeWdNTnhad3RfQTdsMFg0OHQ5ejlGVjF2R016akVNelJYNDdVQVNsaE5PRXQ2SWJpT1JDbG5RRmtDdWFEazN2b3FLYkY3eUx5Rmk4bThDcVZmWExKcTFBVW51cEpSUHBPd0ZsUGVnWXF5eTJxY0V1aHlaYUtQTHhsYU00WjdtWk8yOS1UMW9SVVAwN2I3bU43OA?oc=5"
       },
       {
-        "title": "Shafaq News..Oil jumps higher with Middle East supply risks - شفق نيوز",
-        "source": "شفق نيوز",
-        "published": "Thu, 22 Oct 2026 05:16:26 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNHFDY19mN3IzS2hmbjJYSkR4a1Nfa1lvYkt5RGQzYm53bDFvdnRsLTRLM3hQOTQ3R1NsWWxiQmpQNkloMkFSUEpxVG1jcllpa1J2bjBKQnJJWENELThIVUNkejBnWDRYSURxZmtOaVBIYmxOR3NNZVl2ejdHbUJHZGJB?oc=5"
+        "title": "US Sanctions Greek Law Firm, Singapore and Dubai Shipping Agents Over Iran Shadow Fleet - News and Statistics - IndexBox",
+        "source": "IndexBox",
+        "published": "Thu, 22 Oct 2026 11:01:46 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQklJN0tTbV84eGhCcWozTHRRNWp2Z2VBRjRvUlFvZFZtWVZxWjI5c3R0ekZwZEdiVmxnUjduZ1ZESFVDeS1aR3FyOWpEY0VLX2xMeUJsSUNELWZFWU9hNkJyMmRzNDFad0JFVTVxUE4ydTFSa1RQZEdZLXNXSENUN3lzdEpPNHJadmptTlY5WnNyNG9mUE1YeWp1YlJiMVk?oc=5"
       },
       {
-        "title": "Putin’s War On Ukraine Puts Oil Giant Rosneft Under Mounting Pressure - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "published": "Thu, 22 Oct 2026 05:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVzF0NmhDRTFRT3BZUmhlUlJVcllGWkZBc1VVbGEwc0xDREQ4QTI0UEp4c0laQ3A5VGMtdVVkblNwSlJFQTN0WDE1bzhPMVN4YmVUVktXbXZDbXYydktvd0xGMngxdm1TOHdaTWlUSVByWjlTblZRTEkzOFZCbWQwbWlleVVmekxrRDZBS0pDa0VNY1hRMnYyRGRoOUloU05Xb3Vob0RMMnZyd2VxVWhTeWF6ajZqdmxa?oc=5"
+        "title": "U.S. Sanctions Law Firm Accused Of Setting Up Iran Shadow Fleet Shipping Companies - Marine Insight",
+        "source": "Marine Insight",
+        "published": "Thu, 22 Oct 2026 10:58:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT2xDQXp0X0pyS1ZYLWs5cDRfNml2X1hDMk1NbjNGZk1LakVRZkU3SVJ3TkpTQkRQNGVacUk5cVlpVmdockFHbW52S3BFTno3VnAxS3VQbHBsYjh5c1hhRVJINXF3NzdRZWlyMHR3NjBTdjJPaTNKTFY3LURKVHBldzFrTE5YX3ZKZFlmdDlhWjFkY0VsRG9hcnphUEtlamtnQktsZTZRWVlIMzZKbldveDdn?oc=5"
       },
       {
-        "title": "Gold drops over 1% as oil rally reinforces higher-for-longer rate outlook - Reuters",
-        "source": "Reuters",
-        "published": "Thu, 22 Oct 2026 04:03:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWF1N1NOek9pQi1IYkRUMll1bHRXOFluVmtuYm9LR1dtMThlWlZDYXB5RlVwYko2MVFRS01SSnIwRGhMRnFULTZvdURKV0MxOHk1clF4NW1wTkJUOWkyMng4b2J5QjI4X2tLRkVMSGxDcTIxV0xXTThnZkxvQjVUajZBMmY4RURVTzQtcFN1T2gybVJWRkMwX0RCdkxGTVpLbUdlT0paVU80cWc0VS0xenk0QnZRYS1B?oc=5"
+        "title": "World shares retreat as report of damage to oil tankers pushes oil prices higher - AP News",
+        "source": "AP News",
+        "published": "Thu, 22 Oct 2026 09:42:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbG9Bb3haUmhvOWFmQ0t6bWoyLThHN0pFV21XNjVOVXpsVmFBUEFhSk9HcC1ZYkV3eFhqT2d1SEFSQldtdm16YVM5UW1nRU5yc1JGRVkteEhNZmx0eEpOck1HdnNXNW1TSnh4YmRHU3dyeGdXdzdUZ3JsdFNHVUZwWEZrQVRXUWtrbHlJbDh1eDBSVU9iOUJScQ?oc=5"
       }
     ]
   }
