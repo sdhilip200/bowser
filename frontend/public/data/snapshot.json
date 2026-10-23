@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T15:15:55+00:00",
+  "generated_at": "2026-10-23T19:23:06+00:00",
   "fx": {
     "nzd_per_usd": 1.755782,
     "as_of": "Thu, 22 Oct 2026 00:02:31 +0000"
@@ -8582,10 +8582,22 @@
   "news": {
     "nz": [
       {
+        "title": "Petrol prices fuel inflation - so is an interest rate rise the right move? - 1News",
+        "source": "1News",
+        "published": "Fri, 23 Oct 2026 17:40:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMTdYYnBCY2tDVU1LaGFMV2hPNUtDWWU0b3BkcS01ajZlUG1aZjlWUmo4U2hYLWVFRC1oak1ybHktMlJPOW5mTE12QkQxN1gydXVFaXkyWmFZdkJoZVBib1hWZHFmSF9RMlJrbnFKaWk4WURZNDFMeDNwdlIyMEdjQmlObmxYdllaRzVISkc2Y0xUVGVmWmtGQnVuNWUyTHhCakV4dlAxazcxZ1E?oc=5"
+      },
+      {
         "title": "Inflation eases to 3.7% - Stats NZ - 1News",
         "source": "1News",
         "published": "Thu, 22 Oct 2026 17:05:30 GMT",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94elpQQ29RSWttLWt2cHROcGJNUjczYm5NYllUM0pRNUtPcm9MRUpmWG45ZUY4RjVxN2RZUlVsYmFQZWJXeEhEazBOS0c3RHRjNEpZam9kOG83LWZ3dzNVX1Vwb3FCQlB4TEZ5cW9ZNEFUX3dU?oc=5"
+      },
+      {
+        "title": "Inflation tumbles to 3.7%, but expected to rise again soon - RNZ",
+        "source": "RNZ",
+        "published": "Wed, 21 Oct 2026 22:47:46 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVlJHZzFhZHFKWHd0S3kyNnZldGFyWTVWU1BZUy1sQWNIdXBDMUxzY2RiTGZfSFNUSWpNbExxVkRfbm1hVTVveWVGdzhsRWJBeWdIUUFXV0xLY2tueF84TzRpRzBEc3M5QkJKVl9PdGU5bDhOMWZLUl9CWldJbkJSS1pTc3VPV2hkTjgyYWJJQTVCWHNqVGt2bVpGZmNEUUxWVUN3WVBsdTBMOVB1ZW82Wm8xNU8?oc=5"
       },
       {
         "title": "New Zealand Inflation Slows Ahead of Fourth-Quarter Fuel Spike - Bloomberg.com",
@@ -8594,22 +8606,16 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTUI5ZXdVWGYwX2FiSmZqWmtfRVJYMDJiclp6dktKNVoyLWxZRlZaU3VsOVY1MmFxWjA5UFdRMWczNWFmWDNuSUxwLWhGZmduZC1SSHR6Z2lFTVZjNHp6X2dzcHMzSjM2d2hWWllLODAySHI0ajhEV0dXNVlpck11V2VUU0xpZ2JWbEtCT3NkTlhNU1Y0bXB5QktrZjBOVk9GU3pLdUo3ZmUxRjFXSnhiWUl3Zw?oc=5"
       },
       {
-        "title": "Inflation dip likely to be short lived - RNZ",
-        "source": "RNZ",
-        "published": "Wed, 21 Oct 2026 17:55:56 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTnVjLW1MRFBaNEM3ZXJXRWlWbUFjTE9sZDlqUGlTTUlwbUd5UE45Y3dYSW1aSjYxTVV2YUY0alk2LTh5ejI0TDMzUTBTT1FndW95V04zQjhPQXZkQ1lub3AwejlUWWtrLUdLXzFZbjFDTTQ5cFhzR0h0WEFlX1RpdkY3VHdpcUlFWVE?oc=5"
-      },
-      {
-        "title": "FIRST CUT: Air New Zealand lifts annual earnings 2.5% despite rising fuel prices - BusinessDesk",
-        "source": "BusinessDesk",
-        "published": "Wed, 21 Oct 2026 17:08:10 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNazRseHNYN01mcEpjSnBqV1dyamNxSHRTODA5bnpWZ2xqRTF3SVJTZVlrTW4tdlFENE9CblVBVS04SElqQS13VnNBX1Q4Q3FIbUEzbHJJZU9XTVdsMlpsMUNidC0xNFNMM0V2Y2hQSi10M3pNYW9TTGV2NGdycUJZT3FIbV81ZFptZWYtbXhDM1FtMzdxU18xbkFBMW5VVEZKUkliOW8wLTBOay00WDFpbU5tR3Y4WXg2Uml1Y0djSjFxQWdlS3ZiYUMyOEo2cGZPNEx4VDF0Rlk?oc=5"
-      },
-      {
         "title": "Latest The New Zealand Refining Company (NZR) share price and news on BusinessDesk - BusinessDesk",
         "source": "BusinessDesk",
         "published": "Wed, 21 Oct 2026 00:46:04 GMT",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nYUhNbnVpZ05zMGF5UWlLdlcybEpQSjFtaTNkN251OVZXWTJ2azVDNUNIUWlPNnN6Q1dVR0x3Mnp6WDRwWktrVXNWOGwtTHpNWDVkeGFmNGpfNFYwLTlLYWNiWGxuMnJ2ZUN6TF9qMV9zZDE2cW9GV1ltYzU?oc=5"
+      },
+      {
+        "title": "Foodstuffs Concerned About Weak Dollar & Fuel Costs - Supermarket News",
+        "source": "Supermarket News",
+        "published": "Tue, 20 Oct 2026 00:23:49 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbWFCMjVNMkZSZTU5TDRZeDd6Q1VLckU1MHFlYmwyWUFQSzNuMG1YbjZSMmtlNXM3TndPZGpZNDdkQ2RTUDRUUm5ZX21hRXNtUVlGVThYZWM0X29KUHBMWEdMRmQzM3IycUN4T0xRb2NSWGhnT3BQbVhQcVdkbXNRb3h3MTF4RVRXR3R3OThB?oc=5"
       },
       {
         "title": "Foodstuffs’ FPI basket prices up only 1.6% – but concerns remain about weak NZD and fuel costs - Foodstuffs North Island",
@@ -8622,62 +8628,56 @@
         "source": "NZ Advisor",
         "published": "Fri, 16 Oct 2026 05:53:28 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLTdBZ1ExOUp5RlRmbnlMSE5CczZnX256N1IzRnZsV1NfdzIzZXA3bUdHeFNGLVYzTGJKQnFvMEVBdGQwdm81amFzMEF1RWFzamoyRHJaMWVVYU5PRk1ScHhBNVYwb1FQT19ySmhRdE0wQ1AyQk5aYmhoSTFsNWJVLXlzelduYWJyQjBwR2Q5b0FjX0pDRlRPbTlia0tKWXhEazJXbDNubmgwZw?oc=5"
-      },
-      {
-        "title": "Fuel, electricity & gas prices jump in September year, but not as much as onion prices - Interest.co.nz",
-        "source": "Interest.co.nz",
-        "published": "Thu, 15 Oct 2026 22:42:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeVR4OGpNR1AzU1dsQ3NsbXd1ejI2Y2JtaWZaeXRMUXRxbXVld3V5clJtalFQMkxTeTNFcmRjQllCaW9XNjJPcUptRTRGREpMVmpBTVFaZ01EX0YzQXNqWTFzdUc2OHFuMV9oS1g2VlMxVmtScXRzbHItc0hWU0VNZFFEWVlmZTVfbzJuc2NSRXppN0t4blBOeTNpaTZocVFiMi1ZTlJ0V0NHVHlJZ1l2THYwSk5Xck44Y0FvWA?oc=5"
       }
     ],
     "global": [
       {
-        "title": "Brent crude oil price rises amid Middle East tensions - Inspenet",
-        "source": "Inspenet",
-        "published": "Fri, 23 Oct 2026 14:57:49 GMT",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wcHdvQ2xOQU1pd1NvaTB2bmlpNVN4YnBvN0VYZm9LdERfSGdvWFJfcjdHaWE4MmlpNXp0YjlnTXZ2MGk3Y0tYUkZtZHB0Q192dEE4bm9zQnRmZTg0Y3pFOEpQVjN5b0hxOG91SHpwUUJOZ2s4YmFjSDhEbw?oc=5"
+        "title": "Brent crude jumps to highest since April on Houthi attacks, UAE oil spill - Central Oregon Daily",
+        "source": "Central Oregon Daily",
+        "published": "Fri, 23 Oct 2026 18:33:59 GMT",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQUEw1MzNjYmxpeDlNcGFlc2VxWkRyeEtJZUliR3VPMjhsVzNQR19rQzF6TFVOT2xFV083SkVRYUdJc3BmWERmMldXWTFzVzJtOXBvaGNlT2FDNjhERl91bENveFNOYnZCSDRMUWJBZ29HRmhmMV90VEdiSTFKSk5abWhyYl9YdU5la01XTk1DVEZjX3hHd0VsUEpCX0dTNnRVSWtsRTRJYU8yLW93dUFqYnlUY0d0YVVTQnlfNEhGTjJMYUF1cjJXRHJsdXNFYk44c2NUdFRmdTBVbGJGZ0NnZDdobC1tLWRYQkdFTUJmcHM2ME5EZzc5bU41cG9DUW5z?oc=5"
       },
       {
-        "title": "Brent crude hits highest since June 2022 on fears of renewed US strikes on Iran - Anadolu Ajansı",
-        "source": "Anadolu Ajansı",
-        "published": "Fri, 23 Oct 2026 14:09:02 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY0QtUEVFdmRqTXJYN1lkSE1WTDJzUndlWTdXcVFodkJTMnc4RzVuYWkxSzAzUFpfQUxyVzVCZkE5VjRYbnFTTnBzdEZEUUV4MUFzY3gzcUNCQXZyd2dpMVQ1dkVHVHplLXJJVmFLa2Z2S3llaklESVFzc3dxVU5BRnJVWUktb3hRV0VYRWVnMFYyZW5RZ21tY3RjRFJ3eHV2Z21WMUFJdHg2YmZVM0hMSmJMa3JKWlE?oc=5"
+        "title": "Oil prices climb as Saudi attacks heighten supply concerns - Oil & Gas Journal",
+        "source": "Oil & Gas Journal",
+        "published": "Fri, 23 Oct 2026 18:29:14 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQM0R1a0hQaFJuYjdjcnZ3NmUwclFOb2RLY1NMTGktN25EeEZYVl9WWVA4UkNTM1lDQ3RUZDZOQ2pkTEVkd1dsc3p0SEZDOWJ1V2tXWWRZdk0zdm5SZThhcG1rcHBxRGF6Ml9fSzBoV2tvbjBnenY4OURnZUtJWU1HMXNoa1FQZ2V4NGltSGtVZ1J5YkJ3eDBCVlJTMUdVZkd3LUJmSVQ5R3dCa0JHcE4tNmVhSXVBRkFNQlpTMWdrSk1zdjIwU3c?oc=5"
       },
       {
-        "title": "Oil hits $115 with stocks mixed on earnings, AI - Yahoo Finance Singapore",
-        "source": "Yahoo Finance Singapore",
-        "published": "Fri, 23 Oct 2026 13:47:34 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOV9mMFVET0l1WDZKZmEzbXRqZC1fa1l2QllfSjBucUthcHdVSUpYZWUzckZDNVlPTlVVVXd0a1NySnAzY1BPaWdxRzRjdVVMa3lwckdmR0Ezd2t2RGR1ZFV4RWF4UUhkMnZzMEtiZjJEX2VIVTlfZThyeEF5Z1RMLXVfTFk?oc=5"
+        "title": "Oil Stocks Rally as WTI Crude Price Tops $103: Devon Energy and Diamondback Energy Gain 5%, Occidental Petroleum Rises 3% - 24/7 Wall St.",
+        "source": "24/7 Wall St.",
+        "published": "Fri, 23 Oct 2026 17:05:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVEZEN0tEdkhxVWRMUUdBdFpvTHdMclRWMWk4VFo2ckV3M21mUFRBakd2RWxBUEI5RmJMQjJHQjFDTTFHUWItT3l0UHNvWk03dklUb3FaX3ZuNXAxcWVRUHFmWGpFQ1NKU3FhOUYza09zaERVLWZwMEJDVmNKa2ctNVFtY0NIYklhOUNmdmlCdFJQNjZlckEwWGltWHlTTko3NS1LcWhSOTJwZnF3cGs0dkhXbnZMaVpHYzZxbVk5R0Q4cGFNdmNTeGt1TFZmTDJwaXhxc2dGYkp3M3FoUUFuNGdrTTZpNl9pUWc?oc=5"
       },
       {
-        "title": "Oil Prices Rise as Middle East Risks Persist - WSJ",
-        "source": "WSJ",
-        "published": "Fri, 23 Oct 2026 13:21:33 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM1hJV09vQ2pHZVVPLU5uUVVCSTdEVk56TzBQSW5Walc2eU5XTTVqWmZLVUdJSGRFRUhUR2RJb18xbWVGOFN1OHJyZWpNYXNQU1d4R3RTcnRjTkJNc3FPTFVUa1lhRDFreU9Dc3JucjNvR0tTNUJScmtBYWdwLVZiUDUwaVFnMEZrQkRWdzNqNDNGRTVmZWc?oc=5"
+        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
+        "source": "LiteFinance",
+        "published": "Fri, 23 Oct 2026 16:48:31 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
       },
       {
-        "title": "Brent crude oil price on Oct 26, 2026 at 5:00 PM EDT - Robinhood",
-        "source": "Robinhood",
-        "published": "Fri, 23 Oct 2026 13:02:41 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWl84Wjd5VTdlOERseTMwcWt0Vk5EZGZkX2Z1bUpKeFE1aWJhM21kdzFXLXY1dXBlTll5S2JPSjFLM1VmS3VoeTRQdk9tSlhzYnFMRVB5N1ZTUWFrUGh1TVdkOVVXZ1prTktXOFpiRFUzSjdneVFPcnZmTGVCSWtxMHJpdTVEdnNpcnc4Nk1qX01WZEdSS01ueVFjNVBVU1BaNVI2S3RyeGN4WDNiTWJFZDBIcVdLNzFIY2RxVDcycVNlbV9SeVVYT0xR?oc=5"
+        "title": "Energy markets adapt to the Iran 'forever conflict' as region avoids 'mutually assured destruction' - Fortune",
+        "source": "Fortune",
+        "published": "Fri, 23 Oct 2026 16:41:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcThmYms4bXZlN2dQbzljYlNjOEhYcFlwdUVxQ3RYaEg2RVVUY05uQ25Eb280YUp3aGwwdjRTVHljTWV1SXExWnhmUk0wSEVvdmlTNmpBTVBsb0Zodk82ejh2cTN1QVp4Mjk5LTZGRWRHa3kwVE9WVnhqcGwzUXk0eUpoUUlfcGRvMk1WTFc4UzZJeXdmV2llcTRDOGVpQ1RKbUZfUnFUdXlJODdMb09SQjdlU3gwMi1na0pjNnpYR1ZYV1FBQ3dUMjA1UUo?oc=5"
       },
       {
-        "title": "Morgan Stanley Lowers Oil Price Forecasts After US-Iran Peace Deal - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Fri, 23 Oct 2026 12:28:03 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSVctRUFVM1l4Z3VNRnhLZVN0dV9KMENjZW1wWWo4eXJycklOLTdJSkJNSm9qbTB4WDB5OUFsaktnUDc0V2JheDl0eUZoZk43bVpCMjhSTEFJeXNpeWhlc1FhZnhvOXN3Q3B4R0ppbkM3ZmJreFpEbUd3Y3A3WmxTY2Jla1RzSXUwekdNV1l4bnlZOEw3bG85TUt2S08wRm9FNkNlajRR?oc=5"
+        "title": "$120 Oil Is Almost Here, and Trump Has Few Good Options - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Fri, 23 Oct 2026 16:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWk5aRGFqX3EyZDV2QzZJU3FNQVc4XzEyVkczb0ZQdzV2bm55VmFJVnpqbll5enNpeGhCYnhxaS1qN3BjckJkWXFiNFJfUE11Umw0WUotdXB2aDl3c2hud1JRQjVhTFk4bmpPMVNBczAxUGthWXhtQjVSeThNNHN3Tk9zN0h4QXVHTkF0OHNBVzI2T0hJeUlnVHZ3amd1Q05LblNr0gGoAUFVX3lxTE9YbFlSY29JVVVyQWV4ZkhTM3dmTXdqMExadWExWUlrRE41RkR3ZnIwV0JxMW1NdzVHNTR2d3J1UHV1S3JYVWVPZG5SMkpuTHZCd0NUT2dSUEdldVAyUElMWVN2WTkxVXFaNTllU1F5V0poM2F6WWN0andOTzJuZVNZU1RtMU9jWnZGQlJJNXNERVVjRDhMdTRUM3dUYXlnVGhYN3FEd2FuSg?oc=5"
       },
       {
-        "title": "Oil price rises above $115 a barrel amid fears US will renew strikes on Iran - The Guardian",
-        "source": "The Guardian",
-        "published": "Fri, 23 Oct 2026 11:35:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbjhUWEhFUEhXV2ZVbHVLbmtmUVdDeUxTRzlsZEdYY3JYd09YdVBYOTE0RVFlYnZZUkNNSmZ2MkRTamo3c0g4bTJrNllYbWpXWXBVMHl2MnNrNnlwVGJMdWYwN3I0alFzaTE4M2FXdWM5WEp2ZXFLWHdDUGRsOGRQWG53R2hwTTg5b1RqenVCNkEyd2NzZ3lmdm8yQWRBUQ?oc=5"
+        "title": "Global Oil Price Hits $117 a Barrel, Highest Since April - The New York Times",
+        "source": "The New York Times",
+        "published": "Fri, 23 Oct 2026 16:14:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONjZmQ1hOTHp4RFVzdWVRRWdzYnFPeEExcnNLS3J3RlRlc3A1OVprRXoxck1hUy1iejdTSGtucjFVSFFSQzFSelg3ZjFmRzNPSDlMdU1OX3F1YUJmZVBjNnY2Ykx3LTV4Q2VBZHRkQmJqcTRubnpqSTFKa1V5b24walJCTC1nT2ZfQ1hJalg4aHo?oc=5"
       },
       {
-        "title": "OIL PRICES CLIMB as Middle East Supply Fears Intensify — Brent Nears $115 and WTI Moves Above $100 - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Fri, 23 Oct 2026 11:35:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVjlyZV93YUVvR2VOVWd0VzZwZm04QjhDZ2tqT3lnTHd0NWM2OUtTakdpSVJKb3ZUWURxOEdvdG1UTlg2NWNOVmV1dVdpWU94VTdvOHQ5R2N3ejNLSmpCeGwtRnZtWGpIU1NHVXp2Q1dSak93ZWlHZXpERjZZR2l2ZTBpV04wYnhiN05qbmxKS1BvelZPWUJ0MnJCUUZMekM1a19tVld2SGwza3AxV3Zfak5tcWVLNGFPU05UMVdkdDlNMlU?oc=5"
+        "title": "Brent Crude Jumped 4% to $113. Trump Is Throwing $150 Million at Refiners - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "published": "Fri, 23 Oct 2026 15:15:05 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU0lUNEQ1Z2o3WkhTaDJOd21VMUNGOVVfSWZIVTNwR3BSZGptUUhBeGticGhFOVJoX2Zqb0ZmSjJ0YlVFMEVQUzVwZjNMX3RvM3VKRERid2JPV0I1dEpydnZVVXNpTkpVaHR3X1BGYzROaEVHMDRzdWh4d3lGWUM3VnpfN0FkTzZT?oc=5"
       }
     ]
   }
