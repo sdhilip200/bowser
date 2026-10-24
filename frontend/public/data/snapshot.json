@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-10-24T19:49:35+00:00",
+  "generated_at": "2026-10-24T20:19:06+00:00",
   "fx": {
-    "nzd_per_usd": 1.759591,
-    "as_of": "Fri, 23 Oct 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.755137,
+    "as_of": "Sat, 24 Oct 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 111.47,
+      "latest": 116.72,
       "latest_date": "2026-10-23",
-      "delta_1d_pct": -1.5,
-      "delta_30d_pct": 6.56,
+      "delta_1d_pct": 3.14,
+      "delta_30d_pct": 11.58,
       "series": [
-        {
-          "date": "2025-10-23",
-          "usd": 65.99
-        },
         {
           "date": "2025-10-24",
           "usd": 65.94
@@ -1017,7 +1013,7 @@
         },
         {
           "date": "2026-10-23",
-          "usd": 111.47
+          "usd": 116.72
         }
       ]
     },
@@ -1027,10 +1023,6 @@
       "delta_1d_pct": 3.82,
       "delta_30d_pct": 3.22,
       "series": [
-        {
-          "date": "2025-10-23",
-          "usd": 61.79
-        },
         {
           "date": "2025-10-24",
           "usd": 61.5
@@ -2039,40 +2031,40 @@
     }
   },
   "nz_retail": {
-    "as_of": "2026-10-23",
+    "as_of": "2026-10-24",
     "regular_91": {
-      "avg": 3.597,
+      "avg": 3.608,
       "min": 3.341,
-      "max": 3.949,
-      "count": 65
+      "max": 4.099,
+      "count": 68
     },
     "premium_95": {
-      "avg": 3.793,
+      "avg": 3.796,
       "min": 3.486,
       "max": 4.199,
-      "count": 33
+      "count": 41
     },
     "premium_98": {
-      "avg": 3.896,
+      "avg": 3.895,
       "min": 3.786,
       "max": 3.979,
-      "count": 7
+      "count": 6
     },
     "diesel": {
-      "avg": 3.217,
+      "avg": 3.235,
       "min": 2.906,
       "max": 3.999,
-      "count": 60
+      "count": 70
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 3.81,
+      "min": 3.81,
+      "max": 3.81,
+      "count": 1
     },
-    "observations_today": 117,
-    "observations_yesterday": 37,
-    "observations_older": 11
+    "observations_today": 66,
+    "observations_yesterday": 80,
+    "observations_older": 40
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8662,10 +8654,10 @@
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTzJ2Rmxmd19zVGUwVzJ3bzdEeHp4NTczY0tCM0MxYzlnNUU5UTRIZk45cndabTA0TnNoblRoc1FsWE12bTYtWGVHSWhkdEpBcnNYeDExZC1XWFN5SWhjS20ySEh4M1pHeFJ0RTFaSW9DT0JXYlMzNzdHS1dsWFUxWVZISjNMT045RkZoZmZDOFRHT3pFNHVDTVc0TlJEZVo5cVdMajNZSERCSmJH?oc=5"
       },
       {
-        "title": "IEA Slashes 2026 Supply Forecast as Hormuz Reopening Remains Elusive - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Fri, 23 Oct 2026 23:34:06 GMT",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcG1iLTVtMXZRdklSMENMOHdXQkRwWk00elVVc0NCUEoxYUo5dU9EcmdWd1RMNWRvVHdHVFZUU1FjYTFjNS16c2swbklEZV9DZ3UxczY5bHZ1bTR0TjNYdkFuLWFtRE5qQTY1YUdtaGRLdmRVMlo5WjRUd2s1RzNDNFBXWkppRFo4bFJiNDBpRThjeXc5WlpHZng4dUhleUFx?oc=5"
+        "title": "Oil prices jump $3 on Houthi attacks, oil spill, highest settlement since April - Reuters",
+        "source": "Reuters",
+        "published": "Fri, 23 Oct 2026 22:33:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR2dZUC10TmJYRUk2RmM5WWpxaUx2XzBPZ0ZTV3hIR3BkaGFvZ3B2T1hhd0xEcXZOWk5LdXhLLUF5QU9XdTRQdnRyTk9jcmVNMEZvZlZBRW8xcG1TVW1fTkY2UnFrcXlVWlUwbDhRYk9pcW1fdEdzMVNRR2ZhYVl2T0RZa09uZTktZGFWRVRWSEpGeFhYVXVPR09zNDVaTVdiNDdRRHg3VFNyZWNNWVBmdkxGMWFOa05yN2NBRnRVZjF3eF9i?oc=5"
       },
       {
         "title": "Oil Futures Post Weekly Gains on Middle East Escalation Fears - WSJ",
@@ -8674,10 +8666,10 @@
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUUprNnpxZE5idzlOR3htMEsyS0FmSHFfUi1EZ2dpZEVzNGd5ckRsQnVob0daYXdVMzZBbm9YdFBHQk5fV0NIeU5oZjZZdDdCY0FGbXRoUXNtblo4UmF2OUR6VG54LW95ekJ0eFNPbjBRUGp6R1F0S0xsdEc3MmZReXpCT0lIUmxyR1Npd2pYMlRFb3RndXBjU05OTXM0bFBmazFkY09lcnVJUG1LU3ItNlJpYnl5X01x?oc=5"
       },
       {
-        "title": "Oil Prices Rise on Fears of Middle East Conflict Escalation - WSJ",
-        "source": "WSJ",
-        "published": "Fri, 23 Oct 2026 19:54:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM1hJV09vQ2pHZVVPLU5uUVVCSTdEVk56TzBQSW5Walc2eU5XTTVqWmZLVUdJSGRFRUhUR2RJb18xbWVGOFN1OHJyZWpNYXNQU1d4R3RTcnRjTkJNc3FPTFVUa1lhRDFreU9Dc3JucjNvR0tTNUJScmtBYWdwLVZiUDUwaVFnMEZrQkRWdzNqNDNGRTVmZWc?oc=5"
+        "title": "Global Oil Price Hits $116 a Barrel, Highest Since April - The New York Times",
+        "source": "The New York Times",
+        "published": "Fri, 23 Oct 2026 20:03:29 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONjZmQ1hOTHp4RFVzdWVRRWdzYnFPeEExcnNLS3J3RlRlc3A1OVprRXoxck1hUy1iejdTSGtucjFVSFFSQzFSelg3ZjFmRzNPSDlMdU1OX3F1YUJmZVBjNnY2Ykx3LTV4Q2VBZHRkQmJqcTRubnpqSTFKa1V5b24walJCTC1nT2ZfQ1hJalg4aHo?oc=5"
       }
     ]
   }
