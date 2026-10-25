@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T00:27:04+00:00",
+  "generated_at": "2026-10-25T05:21:39+00:00",
   "fx": {
     "nzd_per_usd": 1.755137,
     "as_of": "Sat, 24 Oct 2026 00:02:31 +0000"
@@ -8574,6 +8574,12 @@
   "news": {
     "nz": [
       {
+        "title": "Air NZ fares up 5.1% as domestic seats cut 7% - B2B News",
+        "source": "B2B News",
+        "published": "Sat, 24 Oct 2026 20:46:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcnVXMW5ZNzlQMUpkM1ZRZlE3UWExOEdyNHBYb1VmTzJtOGN3ZkdxSGJQODJLc244OHgwbWhnQjJQbXREWGFJMzlSczMwalp1V0NTU2tCbXdqcm5yaG00ZmxVY1hWTkpzVDVJaXZxZzRCaTJ2YjNDOFpvLXlYeWpzeFFTankyaS1BRmJGdkZCaDNNUFlfb3l2cg?oc=5"
+      },
+      {
         "title": "Christchurch cyclist and bus rider numbers up as fuel prices bite - The Press",
         "source": "The Press",
         "published": "Sat, 24 Oct 2026 15:00:00 GMT",
@@ -8604,12 +8610,6 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTUI5ZXdVWGYwX2FiSmZqWmtfRVJYMDJiclp6dktKNVoyLWxZRlZaU3VsOVY1MmFxWjA5UFdRMWczNWFmWDNuSUxwLWhGZmduZC1SSHR6Z2lFTVZjNHp6X2dzcHMzSjM2d2hWWllLODAySHI0ajhEV0dXNVlpck11V2VUU0xpZ2JWbEtCT3NkTlhNU1Y0bXB5QktrZjBOVk9GU3pLdUo3ZmUxRjFXSnhiWUl3Zw?oc=5"
       },
       {
-        "title": "Inflation dip likely to be short lived - RNZ",
-        "source": "RNZ",
-        "published": "Wed, 21 Oct 2026 17:55:56 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTnVjLW1MRFBaNEM3ZXJXRWlWbUFjTE9sZDlqUGlTTUlwbUd5UE45Y3dYSW1aSjYxTVV2YUY0alk2LTh5ejI0TDMzUTBTT1FndW95V04zQjhPQXZkQ1lub3AwejlUWWtrLUdLXzFZbjFDTTQ5cFhzR0h0WEFlX1RpdkY3VHdpcUlFWVE?oc=5"
-      },
-      {
         "title": "Latest The New Zealand Refining Company (NZR) share price and news on BusinessDesk - BusinessDesk",
         "source": "BusinessDesk",
         "published": "Wed, 21 Oct 2026 00:46:04 GMT",
@@ -8624,10 +8624,16 @@
     ],
     "global": [
       {
-        "title": "In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges - The New York Times",
-        "source": "The New York Times",
-        "published": "Sat, 24 Oct 2026 18:24:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLWpKM24wMFppRmlxekFEd0lVTXFXMlp0N2xnN29USnpaeENOWklXX2pyTVY2bC1TRW00YjNSelZIT3Q0cGZxWHhpWEFONkhLaWgxUUsxUUlJdlpjazF0TVFNYVR4QjVWcW9oN3RFb01pSHBCRXpoTk5WMzd3WDR6R0dqOFdhaTZVUUxuQldXMllLeFF3bGxudHJTX0hEcEN5ZGRlZl9Ucm5ZNzB4WVRPb3lJc0VkUVRWYTNWdFpuVjd1Zw?oc=5"
+        "title": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Sat, 24 Oct 2026 23:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORUF5TG56V3NCLUlWZDEwR1d1Z3J4bEtUSFh2eThCWW9QOTREd3pqX21CN3p1cGNwZTNWVDU5NW52NU1XdkNSNWVBbVo4N2dOZUZGM1o3M0FUUWNNelg2ekNySlVtMHJPVkxTd1lEQ0hxc0RyaFV4NjFBUFpuZ3U1cXBlbkowclJsNkRmVEtGcTNjR3lfZTB0U1FlU0Vsd9IBowFBVV95cUxNdDZ3cW15VlNTc1lKcW5UTi0weUFWMFdESWN0Z3IzR3hJbnBGWFlpM09YZ20wT0NFUkJROWJjTG1aVnJvZV9ZY1kzRzc5WTdwWk9yREljeE9wX0wxSzRwajQ4bUN3NUdaSThzLTBTSzNaZmVNcHljRlB2eFhkcFhBMFlVc2ZKWHBEbE01Z3lOX1ZqNkZsTDZiQnFRSEZKVGlVa3pZ?oc=5"
+      },
+      {
+        "title": "Fuel Oil Becomes Asia's Next Cost Shock - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Sat, 24 Oct 2026 21:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQanFVcGU2U2VGclJsa2VSUTlKUFJFalpNTy11QTd5a0pwT1hrX3dhbHZDRVIwaTRrc2sxYTd6Rk5DR3hWOURCZXJmTU16aTBPbUFnZHlKbk5VYjVWc2FmbUFMaHFWOHlhMmRySC1nX1hINS03MEhQZWsxeEFYNkpqM0JoNWkyb1FW0gGOAUFVX3lxTE0zaEoxQm5iMl9qa2RMZ0JSQlQwSVctZkVVblk2SFpTdF8yR0xoN2d2cEdmcVZqSzViMTdORGFoOVc4TjdFbk1Ec2dxempPZEt3ZUk1bmVEd1cyNGVObkx4SXlQakROUTdJZ2FVUWNQcWMtQ2p6R1VxT0wzLUZVbmNtUW8zeTVKLTRHNDFTTXc?oc=5"
       },
       {
         "title": "Goldman Sachs Says Global Oil Demand Takes Big Hit, Sees Risks to Price Forecast - EnergyNow.com",
@@ -8648,28 +8654,22 @@
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmbzUtV1l4dU4yeU15b3NTbk5IMDhFZjBReW51Q1B0a24xWF9wT2d4TmQwTldzVllHeHR0ampjczc4Y1lEOWRHcG84VmE1WV81RFVGOGF0RlNvbHdaLWJkWWd4OHE3ZjNjQmc1QVo0d01lS2da?oc=5"
       },
       {
-        "title": "Global Oil Output to Return to Pre-Iran War Level by Year’s End, US EIA Says - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Sat, 24 Oct 2026 08:52:32 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNFA1a0JOZkNidjVKMUdMeFhSZ2dCTFpYbzlER0pmZGRWZUtjMkEtLVVTOUZHSkFwbFQ3cUV5WDNsSldBVVdBdlVqYXpzWllJSTJqNmNVTlpsRVZsU3lOdlNFaE9ZcDVDUHdvdkpjSTl1OFZhTEpmT2hZUGg5cVZ3blpSUFRsODROR3p0TmlnM0habkI3dHZsRm82VVoxY2NOQ20xYjNLTDY?oc=5"
-      },
-      {
-        "title": "Goldman Sachs Says Refiners See 'High Probability' Of Sharp Oil Supply Drop As Houthi Attacks Escalate — Crude Oil Prices Hit 6-Month High - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "published": "Sat, 24 Oct 2026 06:28:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeVdFc3p4VEwtNmFzXzVTWkFKay1kMnF5aVVSSm9ZSUJUenJMOEt1b0UzZWhDQi1OT1FVdnE5Z0FkWHpuZkxldnNMWnlyTXdVaWVrajM1SFJlOWRIWlFRYm5hSWhVYzFMWFM3Znh2Z09NeXEtTDFCbXhocXpEYzlzWmgtUnlrWU9LNkxPTVliOElTQQ?oc=5"
-      },
-      {
-        "title": "IEA Slashes 2026 Supply Forecast as Hormuz Reopening Remains Elusive - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Fri, 23 Oct 2026 23:34:06 GMT",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcG1iLTVtMXZRdklSMENMOHdXQkRwWk00elVVc0NCUEoxYUo5dU9EcmdWd1RMNWRvVHdHVFZUU1FjYTFjNS16c2swbklEZV9DZ3UxczY5bHZ1bTR0TjNYdkFuLWFtRE5qQTY1YUdtaGRLdmRVMlo5WjRUd2s1RzNDNFBXWkppRFo4bFJiNDBpRThjeXc5WlpHZng4dUhleUFx?oc=5"
+        "title": "Oil prices jump $3 on Houthi attacks, oil spill, highest settlement since April - Reuters",
+        "source": "Reuters",
+        "published": "Fri, 23 Oct 2026 22:33:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR2dZUC10TmJYRUk2RmM5WWpxaUx2XzBPZ0ZTV3hIR3BkaGFvZ3B2T1hhd0xEcXZOWk5LdXhLLUF5QU9XdTRQdnRyTk9jcmVNMEZvZlZBRW8xcG1TVW1fTkY2UnFrcXlVWlUwbDhRYk9pcW1fdEdzMVNRR2ZhYVl2T0RZa09uZTktZGFWRVRWSEpGeFhYVXVPR09zNDVaTVdiNDdRRHg3VFNyZWNNWVBmdkxGMWFOa05yN2NBRnRVZjF3eF9i?oc=5"
       },
       {
         "title": "Oil Futures Post Weekly Gains on Middle East Escalation Fears - WSJ",
         "source": "WSJ",
         "published": "Fri, 23 Oct 2026 20:47:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUUprNnpxZE5idzlOR3htMEsyS0FmSHFfUi1EZ2dpZEVzNGd5ckRsQnVob0daYXdVMzZBbm9YdFBHQk5fV0NIeU5oZjZZdDdCY0FGbXRoUXNtblo4UmF2OUR6VG54LW95ekJ0eFNPbjBRUGp6R1F0S0xsdEc3MmZReXpCT0lIUmxyR1Npd2pYMlRFb3RndXBjU05OTXM0bFBmazFkY09lcnVJUG1LU3ItNlJpYnl5X01x?oc=5"
+      },
+      {
+        "title": "Oil Prices Rise on Fears of Middle East Conflict Escalation - WSJ",
+        "source": "WSJ",
+        "published": "Fri, 23 Oct 2026 19:54:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM1hJV09vQ2pHZVVPLU5uUVVCSTdEVk56TzBQSW5Walc2eU5XTTVqWmZLVUdJSGRFRUhUR2RJb18xbWVGOFN1OHJyZWpNYXNQU1d4R3RTcnRjTkJNc3FPTFVUa1lhRDFreU9Dc3JucjNvR0tTNUJScmtBYWdwLVZiUDUwaVFnMEZrQkRWdzNqNDNGRTVmZWc?oc=5"
       }
     ]
   }
