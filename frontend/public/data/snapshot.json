@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-10-25T20:00:47+00:00",
+  "generated_at": "2026-10-25T20:26:27+00:00",
   "fx": {
-    "nzd_per_usd": 1.755137,
-    "as_of": "Sat, 24 Oct 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.755731,
+    "as_of": "Sun, 25 Oct 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 116.72,
+      "latest": 111.7,
       "latest_date": "2026-10-23",
-      "delta_1d_pct": 3.14,
-      "delta_30d_pct": 11.58,
+      "delta_1d_pct": -1.3,
+      "delta_30d_pct": 6.78,
       "series": [
-        {
-          "date": "2025-10-24",
-          "usd": 65.94
-        },
         {
           "date": "2025-10-27",
           "usd": 65.62
@@ -1013,7 +1009,7 @@
         },
         {
           "date": "2026-10-23",
-          "usd": 116.72
+          "usd": 111.7
         }
       ]
     },
@@ -1023,10 +1019,6 @@
       "delta_1d_pct": 3.82,
       "delta_30d_pct": 3.22,
       "series": [
-        {
-          "date": "2025-10-24",
-          "usd": 61.5
-        },
         {
           "date": "2025-10-27",
           "usd": 61.31
@@ -2031,40 +2023,40 @@
     }
   },
   "nz_retail": {
-    "as_of": "2026-10-24",
+    "as_of": "2026-10-25",
     "regular_91": {
-      "avg": 3.608,
-      "min": 3.341,
-      "max": 4.099,
+      "avg": 3.559,
+      "min": 2.196,
+      "max": 3.901,
       "count": 68
     },
     "premium_95": {
-      "avg": 3.796,
+      "avg": 3.808,
       "min": 3.486,
       "max": 4.199,
       "count": 41
     },
     "premium_98": {
-      "avg": 3.895,
+      "avg": 3.88,
       "min": 3.786,
-      "max": 3.979,
-      "count": 6
+      "max": 3.949,
+      "count": 5
     },
     "diesel": {
-      "avg": 3.235,
+      "avg": 3.228,
       "min": 2.906,
       "max": 3.999,
-      "count": 70
+      "count": 75
     },
     "lpg": {
-      "avg": 3.81,
-      "min": 3.81,
-      "max": 3.81,
+      "avg": 1.99,
+      "min": 1.99,
+      "max": 1.99,
       "count": 1
     },
-    "observations_today": 66,
-    "observations_yesterday": 80,
-    "observations_older": 40
+    "observations_today": 41,
+    "observations_yesterday": 108,
+    "observations_older": 41
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8604,22 +8596,22 @@
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMTdYYnBCY2tDVU1LaGFMV2hPNUtDWWU0b3BkcS01ajZlUG1aZjlWUmo4U2hYLWVFRC1oak1ybHktMlJPOW5mTE12QkQxN1gydXVFaXkyWmFZdkJoZVBib1hWZHFmSF9RMlJrbnFKaWk4WURZNDFMeDNwdlIyMEdjQmlObmxYdllaRzVISkc2Y0xUVGVmWmtGQnVuNWUyTHhCakV4dlAxazcxZ1E?oc=5"
       },
       {
+        "title": "New Zealand inflation slows to 3.7% in Q3, below forecasts, keeping RBNZ hike on track - investingLive",
+        "source": "investingLive",
+        "published": "Wed, 21 Oct 2026 23:23:17 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQzJQaExQb3l1WG96T05jYlpRdWFnNnNXTkIxYlZKWWNiVjZZZURRMWhnM0R4a1drNTlSUnZPR1lac0NCeXRGaWlFUkRXSDUtekNUQldkX1BpSmRycmdvNmJMZ0R5Q2psdlV6UnVIenVRdGlKM1F2MVJkV2pzdFI4Sm1sRVVheGt6TjVOUjZVTVhBbXdLbDhpSWFjYUZzZ3Q2S3hQa2QxVk9FWWpHZkZIUDZNRGhRUQ?oc=5"
+      },
+      {
         "title": "Inflation tumbles to 3.7%, but expected to rise again soon - RNZ",
         "source": "RNZ",
         "published": "Wed, 21 Oct 2026 22:47:46 GMT",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVlJHZzFhZHFKWHd0S3kyNnZldGFyWTVWU1BZUy1sQWNIdXBDMUxzY2RiTGZfSFNUSWpNbExxVkRfbm1hVTVveWVGdzhsRWJBeWdIUUFXV0xLY2tueF84TzRpRzBEc3M5QkJKVl9PdGU5bDhOMWZLUl9CWldJbkJSS1pTc3VPV2hkTjgyYWJJQTVCWHNqVGt2bVpGZmNEUUxWVUN3WVBsdTBMOVB1ZW82Wm8xNU8?oc=5"
       },
       {
-        "title": "New Zealand Inflation Slows Ahead of Year-End Fuel Spike - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "published": "Wed, 21 Oct 2026 22:47:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTUI5ZXdVWGYwX2FiSmZqWmtfRVJYMDJiclp6dktKNVoyLWxZRlZaU3VsOVY1MmFxWjA5UFdRMWczNWFmWDNuSUxwLWhGZmduZC1SSHR6Z2lFTVZjNHp6X2dzcHMzSjM2d2hWWllLODAySHI0ajhEV0dXNVlpck11V2VUU0xpZ2JWbEtCT3NkTlhNU1Y0bXB5QktrZjBOVk9GU3pLdUo3ZmUxRjFXSnhiWUl3Zw?oc=5"
-      },
-      {
-        "title": "Latest The New Zealand Refining Company (NZR) share price and news on BusinessDesk - BusinessDesk",
-        "source": "BusinessDesk",
-        "published": "Wed, 21 Oct 2026 00:46:04 GMT",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nYUhNbnVpZ05zMGF5UWlLdlcybEpQSjFtaTNkN251OVZXWTJ2azVDNUNIUWlPNnN6Q1dVR0x3Mnp6WDRwWktrVXNWOGwtTHpNWDVkeGFmNGpfNFYwLTlLYWNiWGxuMnJ2ZUN6TF9qMV9zZDE2cW9GV1ltYzU?oc=5"
+        "title": "New Zealand CPI preview: Q3 inflation seen easing to 3.8% ahead of likely RBNZ hike - investingLive",
+        "source": "investingLive",
+        "published": "Wed, 21 Oct 2026 19:58:37 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ3NoU2pMc0hhUVNtWVViYjlJeV9odGNCd1N6UEdna1I0bUlhWDdQUHdEQjIwS0RUTTVTbUpnaGhIbEhQSjA4a2E5dzhjNm1Tbm1Fel84YWxjZkNRVnFzbko0aG1LZXRMTjQzRU5tQm9yVjVSUHJKWU5nbHlhZUltXzIyRnk3YTNvaThCcy1PZ2xlSHBSMjB6ejRremRIUzMwX1FMTTgyR3ZOYXdJc3V2Z3lxb244R3dhdi02alptVQ?oc=5"
       }
     ],
     "global": [
@@ -8648,10 +8640,10 @@
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWl84Wjd5VTdlOERseTMwcWt0Vk5EZGZkX2Z1bUpKeFE1aWJhM21kdzFXLXY1dXBlTll5S2JPSjFLM1VmS3VoeTRQdk9tSlhzYnFMRVB5N1ZTUWFrUGh1TVdkOVVXZ1prTktXOFpiRFUzSjdneVFPcnZmTGVCSWtxMHJpdTVEdnNpcnc4Nk1qX01WZEdSS01ueVFjNVBVU1BaNVI2S3RyeGN4WDNiTWJFZDBIcVdLNzFIY2RxVDcycVNlbV9SeVVYT0xR?oc=5"
       },
       {
-        "title": "TEMPORARY DEAL - US Eases Russia Oil Sanctions to Tame Price Surge, Riling European Allies - EnergyNow",
-        "source": "EnergyNow",
-        "published": "Sun, 25 Oct 2026 04:19:50 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZEwteXNCcjlLa1dveThnYmJJMnFFdWNySXl3T19HZThyeUw1Rk52ay1Vak55WFhYNmp4Mk4tbVBjMDBDdUVEVFR0dzFmTmc4MjFKY0NjQXo1eFBicmptSF8tR1NLRUlYQTVjTFZ3UjJSUTdxNExiYUdLNy1tX2pHQS1aS19UUTdVdXF3c3RiU0JmdU9nR1NNb0FycmlxYlZsU2Jhck5WeklVWmRQQjlnT2o0ZmJDQlVv?oc=5"
+        "title": "3 Oil Stocks Worth Watching As Brent Crude Tests $117 - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "published": "Sun, 25 Oct 2026 05:13:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUUNoQnhNMEw1OW9ETlhtc2JSN0pnVHp3ZmpvVHFfdXVEYjJZeHU5dXVtNE9VT3lrRl8wUE5yZWJUVjlJMkk3YnM4X3FnUTRqekRTd1RZaWhncjlnQ19TSTVvRFc5ZlNKNTBiU0R1S0c1OURualdHN3NBOWZQb1ZoeVJmSUktbnlyRkM2cw?oc=5"
       },
       {
         "title": "IEA Slashes 2026 Supply Forecast as Hormuz Reopening Remains Elusive - EnergyNow",
