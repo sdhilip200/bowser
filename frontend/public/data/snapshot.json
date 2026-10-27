@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-27T18:47:39+00:00",
+  "generated_at": "2026-10-27T21:52:04+00:00",
   "fx": {
-    "nzd_per_usd": 1.754943,
-    "as_of": "Mon, 26 Oct 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.758677,
+    "as_of": "Tue, 27 Oct 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 110.37,
-      "latest_date": "2026-10-26",
-      "delta_1d_pct": -5.44,
-      "delta_30d_pct": 4.44,
+      "latest": 109.74,
+      "latest_date": "2026-10-27",
+      "delta_1d_pct": -5.24,
+      "delta_30d_pct": 0.91,
       "series": [
         {
           "date": "2025-10-27",
@@ -1013,15 +1013,19 @@
         },
         {
           "date": "2026-10-26",
-          "usd": 110.37
+          "usd": 115.81
+        },
+        {
+          "date": "2026-10-27",
+          "usd": 109.74
         }
       ]
     },
     "wti": {
-      "latest": 101.36,
-      "latest_date": "2026-10-26",
-      "delta_1d_pct": -1.85,
-      "delta_30d_pct": -0.03,
+      "latest": 100.2,
+      "latest_date": "2026-10-27",
+      "delta_1d_pct": -1.53,
+      "delta_30d_pct": -5.32,
       "series": [
         {
           "date": "2025-10-27",
@@ -2025,46 +2029,50 @@
         },
         {
           "date": "2026-10-26",
-          "usd": 101.36
+          "usd": 101.76
+        },
+        {
+          "date": "2026-10-27",
+          "usd": 100.2
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-10-26",
+    "as_of": "2026-10-27",
     "regular_91": {
-      "avg": 3.582,
-      "min": 3.341,
-      "max": 3.919,
-      "count": 85
+      "avg": 3.575,
+      "min": 3.336,
+      "max": 3.849,
+      "count": 86
     },
     "premium_95": {
-      "avg": 3.789,
-      "min": 3.486,
-      "max": 3.969,
-      "count": 50
+      "avg": 3.769,
+      "min": 3.426,
+      "max": 3.919,
+      "count": 39
     },
     "premium_98": {
-      "avg": 3.895,
+      "avg": 3.894,
       "min": 3.786,
       "max": 4.019,
-      "count": 10
+      "count": 9
     },
     "diesel": {
-      "avg": 3.239,
-      "min": 2.906,
+      "avg": 3.226,
+      "min": 2.996,
       "max": 3.999,
-      "count": 91
+      "count": 88
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 1.99,
+      "min": 1.99,
+      "max": 1.99,
+      "count": 1
     },
-    "observations_today": 188,
-    "observations_yesterday": 0,
-    "observations_older": 48
+    "observations_today": 185,
+    "observations_yesterday": 26,
+    "observations_older": 12
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8574,6 +8582,12 @@
   "news": {
     "nz": [
       {
+        "title": "Channel warns NZ diesel reserves could slide to 21 days - B2B News",
+        "source": "B2B News",
+        "published": "Tue, 27 Oct 2026 20:40:16 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRnRYclRJNkh0VHhHMXFldEZpRGhQSnFOc1JwbXE2TkVXdC16SjVZcTM2c0ZQLUxBQ0VyMExmMWs1czE5b3hXWmJjMzIzdjJRaVQteWp1WWZzN0pTZDYxdVpqOC00XzJTNDBEVC1naXh6dU5aYS1ZTlQwVnd1ZVdkRVpZbWlvQXFtRC1n?oc=5"
+      },
+      {
         "title": "How secure is NZ’s fuel supply? Concern mounts over future diesel cover - NZ Herald",
         "source": "NZ Herald",
         "published": "Tue, 27 Oct 2026 16:00:12 GMT",
@@ -8590,12 +8604,6 @@
         "source": "NZ Herald",
         "published": "Mon, 26 Oct 2026 20:02:48 GMT",
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRk12NDBBZ0cxRXRGQ191dHBFcGNMd2JzVWY5VktUc19Ka21JcDlubFZUNXczRHlqbFZaTmFqQU1sQXZZNWdPT0x5azJwLWpzUnJHbVNIRXkxWElaY216MDViMFZ1NDIwV2Y3Q1VaOHFsa0xoTTNWVFk5TF9jOVl4V3VPUTZfbGJnT1dUclZPbDhPTHNvTmtzeTVPYjVrZFVZenlCRzYydU02d2h2Z1ZzT3RZckFTVXM0X3BMUF9nT0VPNmNuak5ZVVE4cjNMYTFQcEF3NlVuNERFWHpkSjVlZk4tQ0VQMTgyRF9OR3NB?oc=5"
-      },
-      {
-        "title": "NZ First promises to scrap climate change tax on petrol and diesel - Chris Lynch Media",
-        "source": "Chris Lynch Media",
-        "published": "Sun, 25 Oct 2026 09:49:21 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN284ZDRvT0o5UnduQjNiZnN5MzhrWlE5ekU0X0VoSVk5UHBJaWFUYUV4SlJpSjh3WDM3RmFJNHpLTFFCUGpTZXVOdHREaXE2aTlUMnhaVjZWYzBWTkUzS21oQzN4Yl8wdVYwbmxnXzdDYXo2cm1nZ2tJaGhUc1BGd05xZ2N2OXRZbkJOcGlSdFI1bGRxajRMei1IYlNVZzVmU2dUVVpibUROUUVicTRV?oc=5"
       },
       {
         "title": "Christchurch cyclist and bus rider numbers up as fuel prices bite - The Press",
@@ -8624,10 +8632,22 @@
     ],
     "global": [
       {
-        "title": "Russia's Crude Exports Set to Fall as Diesel Production Rises - Crude Oil Prices Today | OilPrice.com",
+        "title": "US Crude Oil Inventories Buck Analyst Expectations - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Tue, 27 Oct 2026 18:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONThiUkFwcFVUcktESTFSSDZkQ3lGc1psSzFHcE0taFdnU0FRVlVrUHRYLVpwSDJfR2tqeGVlYVF0ejZuQ1hETDEzOVRMTGlsRFRkelJ3UGZVcWxGbjV4eEtnUWlzWmY3bTRXSHM4X2tJWTVfZHJrdW1aWWFOTUUyNDh2Smc0TWswSlZjNHBVOExDTkVJbG9VX0NFVlhUUmYybndQajVHMVVjYW5BbmM1Q2tIUUVIR1nSAbwBQVVfeXFMT18yREg1YUNaSS03Q3dsMDhPak9iWURRYXM1WHUtZDl1R18wQm5mbW1ZeUtrVWprWk5YbGhfbElCMUMwLURTREJjbXFZSUd5djJkMXhYYkJIaGtuaU5YU2I1YUlsem5CQUxkcFVpRWdfaVByanFHRkh6UXRYTFRxZW4xeXl4eVhrV2NiOWpvNkJNalctRXRRaHpxUjdVZi02NDIyYnpXLXBCekowRlNzcy1ydEdsbE90SEVDYlA?oc=5"
+        "published": "Tue, 27 Oct 2026 20:56:11 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc084RVVPTTl1MnQxeHEybWJvTUV5RTBnN1JmS2VIQm1iUThlLXJVek03YkFUdkdSMHFOSGtObnFwS0hoTFpaZVpYRkZHRVpEN2VIcjJDekFPR0IzWnRDRmU2cjJNZHNkNnNYNVYwYWZJS1gzZEpUaUczZFd4NUtlV0E5dHRxeEdQV3lDZU5vb0pqbVcwNVBNSzVqN2VJSm1XTGZMbGl0NTc5d9IBrwFBVV95cUxQUDgxcXBhbkk4U09ZdnBlcGY0amZ5Z3RiSF9ObWNhNTlDUkZlallrV0xLUUtkNDJFQXBlSlF6X1dLcjBtYTR5eWJSSjYybnktSE9aUVFNRE1aekw1N0pHazRwWk44X05ORW9kTWI3ejVzT0U0bHdYTTc2TkhpUmg5RlczX1Q0RXIxRW01NDVQd0gxdTB5YUg4Zk1OZWJWUlA1M1RkTnFtX243cTJPUURJ?oc=5"
+      },
+      {
+        "title": "Oil falls near $2 as Middle East talks help ease supply worries - The Lufkin Daily News",
+        "source": "The Lufkin Daily News",
+        "published": "Tue, 27 Oct 2026 19:18:20 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVC12cThTT1ZDdTVJbVg5cmdDX25Ob2JaanNuNG4tZUhSZHFKam9sRVltT1Z2em5RbXVTYm50WlRPMmpERm92MHBxVGltX21DMmpDMm9VYmJKMUU2aFByek9teTY5QnFQZkdLT0x4MC00NWJ5dW9YRk9Nc20wVl9POFNlNm5fZlJ1RlVQOWVJMWM1cThSMVpHZU1qSWsxQmV6cndBVzlYdEFFTnc0VDQ2NGpFSDBYaDFFVUJNUVVSSmJFZHNVa2hHWlV1TGNpY2dkVzF0NzZndGJZYWJYaHgzWWQ4b09yM0VTWHQ1ZnhkWkdJLU1U?oc=5"
+      },
+      {
+        "title": "The Diesel Crisis Is Here To Stay - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Tue, 27 Oct 2026 19:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeFFBZlpGX0F5RjRyWkpuZmxuazVTNHp0anVfQzAxaHJlMWFWT0o5UTlSQ2k3ejZPby1wUmtSWlZJSVdJYW44bUM2NnVvc2JiSWNfSmlqVExRNUF3Tkx0dGxkcDFoek5IZURUZmkybDN2MkZPVF9kTXZzeWpvRzNITy1B0gGHAUFVX3lxTE1lTXFZTjlrVU1tdzc0WXRFdUdGaTRYXzhRUnNHVjh0N1RtRWM0azdEeDlWTXpNNkMwRHNsclU0dzh6LUVWcnpFTnI1U2JlekhLeHdnSjRKZWttbFJVY0c1VHBSNlAzOGxOZGxOZU40VFFBRWNkeUxnU0lDNHlHeU96NVdEb1dDdw?oc=5"
       },
       {
         "title": "Gas Prices Ease this Week, but High Crude Oil Prices may put the Brakes on Declines - AAA",
@@ -8654,22 +8674,10 @@
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZFRPd3dWWGZNX3JvYzkzd0daQ3NRVFZkZXRyZUlFSFNkT3NtLUhXczBrUmE2M2hZalo5bHpwU1BzMnNFaVZaTXdXcG9vRUdNbm5uWWhaSG5PRnRtcndaLVltUDB4Uk9Oc19DQWJRMEVDd2lobS1Fckw0ZDlTWU51YTAxMG5fcWxON1pBajJqQWhvTHdzOW52SnZYb3lZdTBKYTllNTNKZlJDUFlzUXBtTHFn?oc=5"
       },
       {
-        "title": "Global Oil Inventories Depleted, Next Price Spike Could Roil Economies, Markets - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Tue, 27 Oct 2026 14:11:49 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTzJ2Rmxmd19zVGUwVzJ3bzdEeHp4NTczY0tCM0MxYzlnNUU5UTRIZk45cndabTA0TnNoblRoc1FsWE12bTYtWGVHSWhkdEpBcnNYeDExZC1XWFN5SWhjS20ySEh4M1pHeFJ0RTFaSW9DT0JXYlMzNzdHS1dsWFUxWVZISjNMT045RkZoZmZDOFRHT3pFNHVDTVc0TlJEZVo5cVdMajNZSERCSmJH?oc=5"
-      },
-      {
-        "title": "Oil Prices Rise on Fears of Middle East Conflict Escalation - WSJ",
-        "source": "WSJ",
-        "published": "Tue, 27 Oct 2026 13:51:42 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM1hJV09vQ2pHZVVPLU5uUVVCSTdEVk56TzBQSW5Walc2eU5XTTVqWmZLVUdJSGRFRUhUR2RJb18xbWVGOFN1OHJyZWpNYXNQU1d4R3RTcnRjTkJNc3FPTFVUa1lhRDFreU9Dc3JucjNvR0tTNUJScmtBYWdwLVZiUDUwaVFnMEZrQkRWdzNqNDNGRTVmZWc?oc=5"
-      },
-      {
-        "title": "Brent crude oil price on Oct 28, 2026 at 5:00 PM EDT - Robinhood",
-        "source": "Robinhood",
-        "published": "Tue, 27 Oct 2026 13:18:18 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnpodWVabDRadE5NVkdmVGt6MjFyU2p2YzdkSThjTDV5c2p2alBTV0J6X0FfRlM5SFl3WE1WbWVZYjlpX3ZiNkJya0JldFhCVm0zSlgyTlFMTFdEeTl5b3RsRGpmVWVjNURla2N2ZXRIbDZNWmpZSU5wczhrekVrNTZveGZIVjQyYkdfcGtpMEdGTkY0S0d5ck1kNnBrQU1LWEVXQWtHNS1iRXphVGJfak5FcDJIQlRoaHNZaGpKOUhSVGZBMFllUG9B?oc=5"
+        "title": "Crude Oil Prices Fall Back As Iran’s Supreme Leader Reiterates Deal Terms - Barchart.com",
+        "source": "Barchart.com",
+        "published": "Tue, 27 Oct 2026 15:58:50 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVjZjOGZFQjhBUmhZbzBlaDlCbjIwWW53bDBWS2pUaUpWWHlTS3FNREdfaE8xaXFwRjlZaHZOZ0w0ckNtZW16YW9tTld2dWdwTXFLbDhEQzRWaGczaUxMSmRNc1ZJeEpGaFRlTjhzVG8xRE9ZYzVEbzE0dnkzVkowT3M4emFwUmtPenNGYWJEZFBSZk53RGRHNk9GRkEwUDRDbTViWkF2TnpNMXBuYW11MW91QmtRWjA?oc=5"
       }
     ]
   }
