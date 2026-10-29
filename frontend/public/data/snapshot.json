@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-10-29T19:44:01+00:00",
+  "generated_at": "2026-10-29T22:28:52+00:00",
   "fx": {
-    "nzd_per_usd": 1.758915,
-    "as_of": "Wed, 28 Oct 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.778098,
+    "as_of": "Thu, 29 Oct 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 110.5,
-      "latest_date": "2026-10-28",
-      "delta_1d_pct": -2.97,
-      "delta_30d_pct": 4.41,
+      "latest": 111.4,
+      "latest_date": "2026-10-29",
+      "delta_1d_pct": -3.4,
+      "delta_30d_pct": 6.28,
       "series": [
-        {
-          "date": "2025-10-28",
-          "usd": 64.4
-        },
         {
           "date": "2025-10-29",
           "usd": 64.92
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-10-28",
-          "usd": 110.5
+          "usd": 115.32
+        },
+        {
+          "date": "2026-10-29",
+          "usd": 111.4
         }
       ]
     },
     "wti": {
-      "latest": 101.97,
-      "latest_date": "2026-10-28",
-      "delta_1d_pct": 2.07,
-      "delta_30d_pct": -0.45,
+      "latest": 102.73,
+      "latest_date": "2026-10-29",
+      "delta_1d_pct": -0.05,
+      "delta_30d_pct": 0.8,
       "series": [
-        {
-          "date": "2025-10-28",
-          "usd": 60.15
-        },
         {
           "date": "2025-10-29",
           "usd": 60.48
@@ -2033,36 +2029,40 @@
         },
         {
           "date": "2026-10-28",
-          "usd": 101.97
+          "usd": 102.78
+        },
+        {
+          "date": "2026-10-29",
+          "usd": 102.73
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-10-28",
+    "as_of": "2026-10-29",
     "regular_91": {
-      "avg": 3.557,
-      "min": 3.341,
+      "avg": 3.533,
+      "min": 3.273,
       "max": 3.849,
-      "count": 85
+      "count": 79
     },
     "premium_95": {
-      "avg": 3.765,
-      "min": 3.426,
+      "avg": 3.72,
+      "min": 3.306,
       "max": 4.109,
-      "count": 47
+      "count": 45
     },
     "premium_98": {
-      "avg": 3.882,
-      "min": 3.726,
-      "max": 4.179,
+      "avg": 3.849,
+      "min": 3.679,
+      "max": 4.069,
       "count": 11
     },
     "diesel": {
-      "avg": 3.223,
-      "min": 2.979,
+      "avg": 3.204,
+      "min": 2.875,
       "max": 3.999,
-      "count": 88
+      "count": 90
     },
     "lpg": {
       "avg": 0.0,
@@ -2070,9 +2070,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 191,
+    "observations_today": 186,
     "observations_yesterday": 29,
-    "observations_older": 11
+    "observations_older": 10
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8632,6 +8632,24 @@
     ],
     "global": [
       {
+        "title": "WTI Price Forecast: Triangle Breakout Could Extend Above $106.84 - FXEmpire",
+        "source": "FXEmpire",
+        "published": "Thu, 29 Oct 2026 21:29:35 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRkxTci0xZHdCVU1lRFM3blZhUFhCSUpaSndvUkZ4VmJKUDN5RjZYMnNMWjI1eG1MTUlnY3Z1TlFPdmxiOUhRNy0yeHRhaVU4aTZQZUtXS3g1SFdhV3YwUmt6aHhTZ1RmdzNXZjgzR3REUEFocE9aTEttMU9MYWplVmJzUWMtRUpIdDlEU2J6M0pWb0dPSlNUR3BDUnJEdTJlUURnenJBcmFaQjlXWEtIcHdvNA?oc=5"
+      },
+      {
+        "title": "Oil prices fall as middle east diplomacy eases supply fears - Virginia Business",
+        "source": "Virginia Business",
+        "published": "Thu, 29 Oct 2026 20:17:24 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPamdkUU5lcllySTE1VzJMNVlaenlxYnFGeGNaRnh4TEladnRRNGVzVlAzVEZPeHhIRldod3dJNVJTMmhQd3ZvODlBLVoyd3RGanB0VUZqSUt0VGliazZ0Nnl4VkdWLTVTQ2htMl9OXzdFSm1aQXktdFFLYW8tSHVjdVVhblpMT0k?oc=5"
+      },
+      {
+        "title": "Seven oil tankers carrying 288,000 tonnes of Russian diesel sail towards US - The Guardian",
+        "source": "The Guardian",
+        "published": "Thu, 29 Oct 2026 19:01:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMkdILTNweng5VDdwM0RRNFo3c1M4aWdYbFQ0aVlwRzFXY0RSN1BoNllkWkVFTzlxc2hPWmlUQ1dJQjRKM0hkcFAzeHBQTExjSlo1bzZ6RTFwYXdIUEtnbHkwN2NuNkNkVmw0bU50aGhHcG1fV002RDFFeGNIWG1xSnFxVU9oNy05ZTR2dHVWZmZhTldLdFplcVo3UVlla0NmSXVucDZ4VjAtX0hiZTdTZVpKYkI?oc=5"
+      },
+      {
         "title": "Crude Oil Prices Fall on VP Vance Outreach to Iran - Barchart.com",
         "source": "Barchart.com",
         "published": "Thu, 29 Oct 2026 18:59:44 GMT",
@@ -8644,40 +8662,22 @@
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHd1Q1FTWEFlUlUtZ1FQRWJfYm1QYm5KZW1jTVA2cS01R0cxb0xsNVNrdXJVNm44VTd2ZWN4WnY1R0tla0JuM3NVUmpBVF9GLTl2WEdFRmNUTFpEVUpHVHQzdUREUFBwN2ZEZ2xGcThUa0lKamdzaEY2c19pRy1PcXZCd2hPUmRfTmQ4bUNGWkFPbTM3Z04zLXB2bUdtclBvVmpmQmhqcEloSTJUOHg2ZzRsbEI?oc=5"
       },
       {
+        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
+        "source": "LiteFinance",
+        "published": "Thu, 29 Oct 2026 17:48:40 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
+      },
+      {
         "title": "Europe to Release 42 Million Barrels of Oil - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Thu, 29 Oct 2026 17:30:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYTM5QzFUZlgycEl4SVI4aDBZTGJMQ0laam9kUEFzTENIMFJYTVBXUVJYeEpfUEJCR1dBTkk2YVJqX3FkNWpMaGJ6YUpfVTUtaHZmQXBFeDVHOC1MVnN6T3J6Z0JQOGtpQ0lOTkhXMkY3YXB0Uk9lRmk4Um0tNXFVanZrR0xoODBsd21JVDRZYlZfdkMxdjQtQmdKQi10aFh10gGmAUFVX3lxTFBNZ0Y4TFh2di1kVUxQYTNfaXg4QVIxMDlKSXVtbFRLWXg4aWs2MmdQdVJlem5BMXZoV3hrcmg3QzFURGQwazh3MWFwNkM4RXpHSE9BNjJjZWMxS0tPQXVqMnhQa2xqMTZLbm0tRlE3OVVzanhucGp5LWRJNmRlcTN0WjJwMDN0T1NwdmV0dWx6WnZuRkhJUDlEcEJaVGd4ekJYWnhhMEE?oc=5"
       },
       {
-        "title": "WTI crude oil rebounds after a failed break below $100 and the 200-hour MA - investingLive",
-        "source": "investingLive",
-        "published": "Thu, 29 Oct 2026 16:54:20 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc1VlY01QSm12X3o2TGlyMzFySnZ5WnZLbFZpVmZFWlh4LXRzS2EwOV9kazBTV1V5ZzE1Q3dLTkwtTk9ZOXhNcWNsSTRXcGRPSDNVeXl4N0dDWEhMWFNwUHhVRU1nUkN1UDNzR1NHU0pJcFBsbF9wYXRaM3plcjIzd0U2elFpQW5JNXN5UkF3YXBmSDRMcTZ4dEhpdFlVdWRfMkFzRkNIVHpKSUFCOGQ5dU1n?oc=5"
-      },
-      {
-        "title": "Sinopec Third-Quarter Profit Jumps 64% as Oil Prices Climb - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Thu, 29 Oct 2026 16:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0E0VlM0SlJYZ2ZKZGVvN2hlb0dUZ29pMk9Sb3VyWkQtenVwZTRWaFg0NTIxN0s2czBNVXBtejVPNHpHMkthTk1TZXRadlprVjRyZmtyYkl4dWU1aE9BeS1yV2xLSlQ3clZ0X3ZQdngtc0xWbjhwSWNwZlYtM3Bwazc1Y3pfYUFGOXRsT29MWkpyekFPa2IzdDFmT3J1OWU1MzltcXhMSFJGamxNNjNxMXF0NNIBuAFBVV95cUxOWHJqbUJxVTBaV0NBbWN6YzJYQmRwMHR4RzdSV0R5aDVMdjU5MTdWQzFiUUVLTlNxNDJHZE0yTndUalgzQjdzVXZGWFR6ZHZJMDRFZDljVHZrd3ZpSVgyRGVHZTVQMGswNllZWThzandKcjJobjZhc19hQ2lZWlRpMG44VlZKX2JNVEVUaEtuaFROU3JXZS1BS2ZGTTJBM1NjOXJxM1FQT0FXdFVRa3RXY2phWU9ERTdH?oc=5"
-      },
-      {
-        "title": "Goldman Sachs Says Global Oil Demand Takes Big Hit, Sees Risks to Price Forecast - EnergyNow.com",
+        "title": "Morgan Stanley Lowers Oil Price Forecasts After US-Iran Peace Deal - EnergyNow.com",
         "source": "EnergyNow.com",
-        "published": "Thu, 29 Oct 2026 15:12:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN3Y1MVB3RUk0OFhpLWdlR1I2YlQwc21jQWRFdnNBakh3SGhVZ2ZPZU1rNVZwNWxBMHpOcHZIRjBNalZNXzMya2xraFN6cDNCYlBKUVp0TDFockxGbThyMmhEWWZJNTdkcUxIb2ttQnZCZk1pNnVrUWgwWWMyLXpxYWlodFdnVUpqZWdaUVFESy1RY1lDLVZ5a2JjS1pKZk5tWEZ5U1BqWl9ydVNPOFRv?oc=5"
-      },
-      {
-        "title": "TEMPORARY DEAL - US Eases Russia Oil Sanctions to Tame Price Surge, Riling European Allies - EnergyNow",
-        "source": "EnergyNow",
-        "published": "Thu, 29 Oct 2026 15:10:51 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZEwteXNCcjlLa1dveThnYmJJMnFFdWNySXl3T19HZThyeUw1Rk52ay1Vak55WFhYNmp4Mk4tbVBjMDBDdUVEVFR0dzFmTmc4MjFKY0NjQXo1eFBicmptSF8tR1NLRUlYQTVjTFZ3UjJSUTdxNExiYUdLNy1tX2pHQS1aS19UUTdVdXF3c3RiU0JmdU9nR1NNb0FycmlxYlZsU2Jhck5WeklVWmRQQjlnT2o0ZmJDQlVv?oc=5"
-      },
-      {
-        "title": "Oil Prices Rise on Fears of Middle East Conflict Escalation - WSJ",
-        "source": "WSJ",
-        "published": "Thu, 29 Oct 2026 14:50:13 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM1hJV09vQ2pHZVVPLU5uUVVCSTdEVk56TzBQSW5Walc2eU5XTTVqWmZLVUdJSGRFRUhUR2RJb18xbWVGOFN1OHJyZWpNYXNQU1d4R3RTcnRjTkJNc3FPTFVUa1lhRDFreU9Dc3JucjNvR0tTNUJScmtBYWdwLVZiUDUwaVFnMEZrQkRWdzNqNDNGRTVmZWc?oc=5"
+        "published": "Thu, 29 Oct 2026 16:54:59 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSVctRUFVM1l4Z3VNRnhLZVN0dV9KMENjZW1wWWo4eXJycklOLTdJSkJNSm9qbTB4WDB5OUFsaktnUDc0V2JheDl0eUZoZk43bVpCMjhSTEFJeXNpeWhlc1FhZnhvOXN3Q3B4R0ppbkM3ZmJreFpEbUd3Y3A3WmxTY2Jla1RzSXUwekdNV1l4bnlZOEw3bG85TUt2S08wRm9FNkNlajRR?oc=5"
       }
     ]
   }
