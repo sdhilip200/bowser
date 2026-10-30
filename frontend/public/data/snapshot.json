@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T09:53:25+00:00",
+  "generated_at": "2026-10-30T16:40:01+00:00",
   "fx": {
     "nzd_per_usd": 1.778098,
     "as_of": "Thu, 29 Oct 2026 00:02:31 +0000"
@@ -8582,12 +8582,6 @@
   "news": {
     "nz": [
       {
-        "title": "Air New Zealand Limited (ASX:AIZ): How Did Fuel, Fleet Costs and Passenger Revenue Shape FY26? - Kalkine",
-        "source": "Kalkine",
-        "published": "Fri, 30 Oct 2026 07:43:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTEdCVFRudlVYS0tZRl90UmYyMlVvcU1zQ0wyamgzRkFEUDg3d3JRWmFvX3lRQy1Qd3k5OXVZdEJhRXdUVVlaVGk4VDNISzU0RGhiTTM1WElSRnV4bnRzMVhnZV9HV0k5ODlOYXZHQWZlRFZsUjVVOGZudlpKMHhobDJ0VVdPWnNzQV9SdFhBeWctWHJWdEQ4cTZTYkhYei03dHNlbUJ6X1FPTTI5MW9HbWstZ1RCTllmZnhhRzBYT0VYdURycDNF?oc=5"
-      },
-      {
         "title": "NZ facing fourth-largest increase in fuel costs - RNZ",
         "source": "RNZ",
         "published": "Thu, 29 Oct 2026 17:19:27 GMT",
@@ -8628,56 +8622,62 @@
         "source": "Stuff.co.nz",
         "published": "Mon, 26 Oct 2026 20:40:41 GMT",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTURQQlo5RElJNHpOa09LOWFXZXhpNVBLRFA0bk43VVpwNEJrLXkzSnRhWUZzTnJmTl91c2s4M051VUlwb2RDQUV6b3daMWtRb0E4bE9xYW5ydUY1czJsM1NGa0dKRHNfOTNSZ2lOSlk0S2ZIaU5pYTVTQ1JwQkNkaU50a1JvbFNoWDUxdE02STR0ZExPOXBGWURjenI0NmRTRnZPNWMwbFkwQ0ZfaFJyWjlrdEFEZ1FUWXRiU19R?oc=5"
+      },
+      {
+        "title": "Air New Zealand's '$6.8m-a-day' problem - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Mon, 26 Oct 2026 20:02:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRk12NDBBZ0cxRXRGQ191dHBFcGNMd2JzVWY5VktUc19Ka21JcDlubFZUNXczRHlqbFZaTmFqQU1sQXZZNWdPT0x5azJwLWpzUnJHbVNIRXkxWElaY216MDViMFZ1NDIwV2Y3Q1VaOHFsa0xoTTNWVFk5TF9jOVl4V3VPUTZfbGJnT1dUclZPbDhPTHNvTmtzeTVPYjVrZFVZenlCRzYydU02d2h2Z1ZzT3RZckFTVXM0X3BMUF9nT0VPNmNuak5ZVVE4cjNMYTFQcEF3NlVuNERFWHpkSjVlZk4tQ0VQMTgyRF9OR3NB?oc=5"
       }
     ],
     "global": [
       {
-        "title": "High Oil Prices Set to Trigger New Wave of North Sea Mergers - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Fri, 30 Oct 2026 08:45:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcmFELWhVQ19vZkF6eGx3LWU4VTlveGh0SVA3dTF6cXZBX2JIakY1N014UkVBQlJER2lkNU5EUXBuT085WVpNUW0yTjM3NUVnRmN6M2lsUWxpemZSOVVXWXRyNG00UGtzb1lTZ0pvOG1raVBJakZZbGNGMVFpOEczd1lYeEFyeHppc0hxT0RSbm5rbmRrSEFxTThXOE8ycnZ2WWxBN3l4VjA4RzBIX3JZS1RlbnUyVjjSAbwBQVVfeXFMT2hWbDlrN3R1dWh1eWNCNy11OUo3UktFY0tYZDNLVWp2SzRUbW10TVN4THVqWThTR2xtb2ZOdjkwbU9uYUdNV29Wcm5ZOExOaTl5ZDFXSk1iUTdBc1dDT0ZBODZPSFJKVzY3a2sydjIxZFlPclRpVVVRUUl1QkEyd2NTYTgtZGJxdGhTZlh2STY1MEJINzAxQmhQR25IUTltclFDeGhodm5ha1FiNjctREJYZy1OYXhSR1Q3NGo?oc=5"
-      },
-      {
-        "title": "Oil flows are up as Iran war turmoil eases. Why do prices keep rising? - Al Jazeera",
-        "source": "Al Jazeera",
-        "published": "Fri, 30 Oct 2026 08:37:51 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTlNLUkh5cVYwaDlIQU45RC1MUm9Wa3gwRDlTOGVaNWFnaDN4dTNjeWR1V2N3UVZIeEFTV0tHRFl5ZUIxQ3lnNVlndjd2ZDZDTmZaZDR0YTJ6amtJZXBVNTZZMWp5d1N4X2h6T3loSGQxTHNoMzdiM0JuZjhMUklUSmJESDcwVGFHMFpBbHFWZzZFYmdub3huUVJpUGw5eVNnMnZpRUluSWZ6YlJaMXVUMmN0b9IBuAFBVV95cUxPZlFzaS1EWm9uVXR2aHZiMGVGWnRLTW9GbVlvclI0bjlFSFFmRXNnc0h6UU1VYTU3VHlvcHEzZmRpRUQ1VTVuc2RjQVhzMkNWYndQWEszSFZDQW9jaTlYeERWT2VpUnFaenB2dFJLRzBWNEZKUy1FMERmWVJ5dENkUHBTWC1HVGRsVUNZeW9QX05BSV9HWG5JNFpWT0NGLXgyNFBvMEZaZWtqUTFINWxNbzg3LXRMeUNf?oc=5"
+        "title": "ExxonMobil and Chevron top Q3 estimates on higher prices and strong output - WHEC.com",
+        "source": "WHEC.com",
+        "published": "Fri, 30 Oct 2026 16:18:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY3VJRUJKMHpQMEo2NmhPSWFVQ2p2RkJ6N3NOYlFBU3NwbGFSRG5jRkJmcDI3Z2NwQ1RETlBGdnVPd3BmcG5QZnd4RWl4QVYxLUtJYU5NZFpaMnBUZXV6bTU1YlBvWHpmMnBIb01NS1FzeWd0MFAyejJnbjVRTUxwOTd3bnp6WDR4Vng1SVNLMlZzVVg4RUExNlZOZ0ZrVnZTRUQzYlQxTGt2cENk?oc=5"
       },
       {
         "title": "Oil Prices Rise After Hormuz Tanker Attack, Houthi Claims Stoke Supply Fears - WSJ",
         "source": "WSJ",
-        "published": "Fri, 30 Oct 2026 07:55:00 GMT",
+        "published": "Fri, 30 Oct 2026 13:50:59 GMT",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5"
       },
       {
-        "title": "Oil Prices Head for Fourth Monthly Gain as Middle East Tensions Escalate - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Fri, 30 Oct 2026 06:20:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWVBjc2V3ZzFmb0wzSnZfaGVsLXNLRDFMTXE0aTVrdnQ3WlFvR1VkUjd1MDFWSXBKUXFqSnczWmVjVUI5Zld4N1E5YWlrWHFSSVlvbHkyNnA4QWZidVpsVmhtVncwcnBLYjdib1Ffa3dkcGhkYTlkMV9aSlVQSmlNQnNUeXRtcE5Td01XWU9SRlMyRW4yVURITjBBN01fSG9JZERUR2FYcTBoTUZNR2xVaFY1NWlDcnY5Nkw3Z1Y2RzU2N012dU4w0gHMAUFVX3lxTE1laW5xQWxyVEo2TV9Tcloyd2xLa2UwUHhqMHpxTEZWbUdMUXZDaExPNHVmZjhUeFMwSDhpMDBCVnJ3Rk1mTXpwT3l5TENsRFpFUnRBWm9NM21fM0x1UjJyYk9pcXRHTlpxT21vdzVVU2s1N2dNUjFsVFFheDlOUWFxNXg0b0FQZkFjcDM0VEp3Rk5DeVRxTUd1dHV2aVFDd1Q0QkxQb1Nua0NrRnBUd3ZkV0pXaUV4LTBrdkJiTlBySzdyaV9velYxckNGTw?oc=5"
+        "title": "Current price of oil as of October 30, 2026 - Fortune",
+        "source": "Fortune",
+        "published": "Fri, 30 Oct 2026 12:50:34 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sQlNTbGZfT1dXT2JUUDZ6UGRIU3Y4WWVvRFdaSVp0OFp4TlR1NkhNaHJYd1cyUHRud3BQWDR0ZXBKSmFJU3NyeUJNUHA2SlpPTmgtVnM4dXBmQU0zbVdtaFVB?oc=5"
       },
       {
-        "title": "Global oil prices cross $100 a barrel as Iran war sends fuel prices surging - ABC7 Bay Area",
-        "source": "ABC7 Bay Area",
-        "published": "Fri, 30 Oct 2026 05:59:45 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi8BNBVV95cUxQTGI3RW9ZTFotdlVfbEJET3loR3RNZzhfb2QtVjNvOWpMTkdiUzl3dDZ3VUh6cHdVTEJzYXRSd283cy1JSzNwbjVtZEpFZ0h0bkpjZU1VZ09JSWw4cDI3V2U3SmU4U1ZHeWFPOEprNWNXMFJWSTdxNVVhZUNGNXRQLXZxdHY0TURVcE80bmdUbGlUSjVRR0pUelJZNko4T0ZsOEhjX016VFA0SEk1cGlxeGZBdDRQS2lDVVptTFlSWGNueGVYOVZkaVViTFdkeXhRRTVKWWJRNW1vaTVGNFlmS3JNdmtoTlZRRURWQUxTODhUV1g4MXBlZkQ3eVVJcEZBNVlGcVotS3A1UjNzaFNVdXJvVkJqSldfNnJuM3d2UWQ4QWZEcWxHal9NdTV3emJuTl8tZzdkVlI0dE5kY0ZtVzNQMGM3eUs3NTFKNjJsdkd6Mld2MmRaeF9PaGtXd0F2WFhiSU5jd0hmYjBFUnhSMHAyeHhoaWVRMnVTOXphTzAxaGdjTkFBZXdRNzRzYVNOaHhyS1FWaUsxdkUwQ1BzU255U000N1AtVUswWEFRbC02UXAxcHhpZ2N2cnNHWDNMdWs4SGs3Q0xTYXdhd2Z4eWxSQ29iYldiYmFTVl8xcVBxN0stRUNXQmtfRUdsbEF5akVtMzZnS1lKcmhMMEZ4Vy1rNDZfNzZXZDk0NVJITXk1NFBuVHlLWVJ4M0c1TXJwQzNmNmp3TkJ2U3lKX0pwQUQyVFBQdi1mRGNfS0ZfZjd3bUJIWFdQanM0R1hOSFJFUTRIR3M5T2gzT0dzMm9VWWZ1YXUtc2tqa0dndDhNeHJTcXBnMElGOWp2Y0FtbE42OUJuUGxKV0pPRWJFR3M1cWNXNlZRUHhYeHlRLWhpcjBOeTdyRjRTVXhLckJNSlZiejBYNFNnR1lQM3NkOXNrb0xuQ2RERVhCN2kxTjVtNmdRN05VcDZ5dUI1MzRVbVd4d3Q4bDRfelhPLXRlYmR1aHhNOExuOVJKbFJqbU53cUYyeXBxXzFGVTMtc21jNGg4QnphSXE3eEI3NVltZU8zdEx5OElCUTJDYXRaS2hGdUltRGZGc2Ffa0lKUFUweFB6STVjQ2JMNFNONzRZbkdlVjhoeG5qNDFidnpCekFzbDcwZDVuY2hKcXRPSHZiV3B1S2dNc2RINTRHQzMtRU9tNFJza1NDOU1KdlhfZ2FmSUdaNkdkZzJDMlh1dlhSai1zOXFfT2t2ampuQXV6ZmlDSmVTLWNzVWhqM1laRlhQTkF6dlpzWXF4bkppMmNxVHpHWDZCMHBGYkNRaUFESVc5ZnRuNUFveFZ4Y3Q0YnQ0dE1aV1BEWnN6T0NBbDRYemMtTk5UWXIzNUxPR1VjVTlxZjNQak9uamhsU05zMm1ndS1XVi13SUR6M3RIazBJSkVGb0dobGNDMG1QdTJ3NldGejRZUEwxV3BvNXhTNGpESzRtVU9IbVhrWHZUcy0wb0w3LWhfRUZWN0pCUzN3WEtjOTdyUlpnaTdwYXNoTVBGTXF3ZzlpUU11bnRqSERtX0J0X1l3MUtiV2J4QmhSMG9WcDUxYms5dXU1NFBZcU1yRmNQeXFVNUZabEU2YjhmdDB2ZG0zSW1xY1lPWTFVNWZkVjRHYkxEUnRkVHd5bm1pSGRmb3AzT0l2am1Qd0diVVJqMGRncGU4SzlQMVZ5Y1ZhaHI0LU1zU1pfWTRJdV9rRTEwRUhXdGlaQ2tVQ2dfclI4a2xPQTdSaFQ4bTcyS3RfUXFtbFBWWEcyXzZZYzBwVU9sTVhRdHFjejdSXzFuRE93SUZCMkdDWDJpcmVWaWdSQmZtbDJYdXhxdTlaZlh6ZUdXZXVCdExKMGtmeGFhbGQzQ2V0ZXRhd1JlYjRGTE01ZEc5STY2MDhPSUdVVHI5TG5tT054X2xuQkdtNFBxendBV0xYSlp3S3ZSNWZOSTh6MFZ3ZzdibmItXzVnbTI1RTBheUFEWFZSMHJVM28wbVlYM2xQWjdUbkZwTkNtQ3F3TjVNTHh6Q29JSVJFdFkxRTZmdElwV19zWkZpWHotamJzMXl6Vmg2NFZGWGNNUVllSG9nNXNubWZfNldEcmJ2dnhobWdFZFMtQWh5RWdsZTU1cDR5c2hwRVNmVDB0TXg1aVBfU0d4Z2MzRVdBM2tlb1YxWlo3eUR3aDJjRHlyOTl3MDZObVlpWlBXZzVLNklYOEx4MkNPc2pTQ0ZKYW1qd1B2ZEhYc2lJRHZlRl9HTVdBTURrSy1femYxbEN6UVR2dTdJT3paNkJzbWtqUTB4T2RMRXJXT1hkZ2dWZVBxMHNGLXljS2ZsZTJHcHBocVZLekZYQk9OQ055eEUybGNWUEVMdWFENzRIT3VOMzhrajFzUnAzOWx1dS01OG1UakRpV0c5dGhBbld6WGZZbEVzdGdWNlhZLVhNVU53X0dlNlV3WHk0S0lERmxZRXZaTFd2Q08xM3lPaG9OaVJQTTRwLW9oeWVyYmlaRTZET3RFeGpaZlEzYjZIV19KV3hZeEluVWxFVldUNkVoMThfWldiem9GRWRKU0VIendacmF0UmdQWlB2QmJmMFMyRnBMcGFqcEJYUl9KRjY1N0UxbklGdFF1M282VWhJMU03QzFfZFF1VDB4YXpwdGdIU09XLXRiSlpYTXdUR3hFSFNMM3JleV9oSHU1NnVJNjE5OUpHSGhUZkVkSkFnYldtRDhWZ3lTXzc1TzE2ODY2WnN2OXNPWEhNNHVwYUg3bWlaazFpUUhjVWd2YmJaSnBadHJtWGR3TG9rU19qLW5kMXdnNzRUVGluRFN3YmVJOGVOUW80NE5fMkZENUhJS1czc000VkJxazZvc3g3ZkRKTkZaaWhjcmNQMmQ5THRFMm1lOWRteDc2MmxfbzBRNW5fLW1KSzFXY2FjUF9KclNxZ1dfRWd5SzJhSU1lZ3Q4SG8yMWYtdm5KVm5vUlh1aURtWnZvQnFOT0dQM0ZLSnQxLThZWUoyaGlBV3A0cmU3SG9FSWUteml1Q21NaGZmb2M5aENtY2F2RUEtUXpRSHR5NTY5NnJVOXNCU0FCRU9qc25CQXlhT09GeWcwV21LVjlFbXhIVDlPbW05YWo4UTVmX1RGMmFSdzBJc2xMdUtiMkg5SVFjbndRU0dhRlJGWElZRDZDQ2JQOFUtMG5sT1ZCM19JTkVLZnhuM1g0U2U5RnNpRTVHVURWUXQ1ZGRBb1FRUk5sTFNjUjVxalAteWtSVUpSRTBZOHpkcktpRlQ0WVcxTnVGY2RTY0VaVVAyakY1MTlBVVA2LVVER2dKa2NZVUV4eFBRckpJUWttbWNjQ1liLVpnTFYtR2RCcmhlM1I0TTVKdGdSTldzQUJBUHU5R2paQms0eEc?oc=5"
+        "title": "Brent Crude Approaches 4-Year High - TradingView",
+        "source": "TradingView",
+        "published": "Fri, 30 Oct 2026 12:23:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkwyb19jS09oczEzalRWOF90UGRZUk4xbnluSTRWNXpjblc2MzFwTzNFWGJOc2stSGExY2d6UlZUaDhVWFN4QkJiVDlWUEswOUNtSURxcE83M3VjNHZ4ckFnM2ZvWHQ2LXFnYThHX19YOVJ5SnhhXzNlVDZ5cEJ6MlRYMXVIMF9aV29SaTVR?oc=5"
       },
       {
-        "title": "WTI Price Forecast: Triangle Breakout Could Extend Above $106.84 - FXEmpire",
-        "source": "FXEmpire",
-        "published": "Fri, 30 Oct 2026 04:19:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRkxTci0xZHdCVU1lRFM3blZhUFhCSUpaSndvUkZ4VmJKUDN5RjZYMnNMWjI1eG1MTUlnY3Z1TlFPdmxiOUhRNy0yeHRhaVU4aTZQZUtXS3g1SFdhV3YwUmt6aHhTZ1RmdzNXZjgzR3REUEFocE9aTEttMU9MYWplVmJzUWMtRUpIdDlEU2J6M0pWb0dPSlNUR3BDUnJEdTJlUURnenJBcmFaQjlXWEtIcHdvNA?oc=5"
+        "title": "Global Oil Output to Return to Pre-Iran War Level by Year’s End, US EIA Says - EnergyNow.com",
+        "source": "EnergyNow.com",
+        "published": "Fri, 30 Oct 2026 12:22:32 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNFA1a0JOZkNidjVKMUdMeFhSZ2dCTFpYbzlER0pmZGRWZUtjMkEtLVVTOUZHSkFwbFQ3cUV5WDNsSldBVVdBdlVqYXpzWllJSTJqNmNVTlpsRVZsU3lOdlNFaE9ZcDVDUHdvdkpjSTl1OFZhTEpmT2hZUGg5cVZ3blpSUFRsODROR3p0TmlnM0habkI3dHZsRm82VVoxY2NOQ20xYjNLTDY?oc=5"
       },
       {
-        "title": "Brent Nears $115 as Middle East Tensions Raise Oil Supply Risks Across Asia - IndraStra Global",
-        "source": "IndraStra Global",
-        "published": "Fri, 30 Oct 2026 04:19:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSVF6RUNhZU1TaFRZNHNEUThFeUhGU05saWp2eS1KM0dQUzk4WUhqR1lrOFZqdGtfbXZsSFJGQVY2ZWg2VkNFaldyR1h4b2NLS3BaV1BrMi1RZ2IzQ2k1MU1nTzJhaU1ETVhhbTBFb0RDSG1EZnVkLVV5aG80cWRsS3AtTnc?oc=5"
+        "title": "Oil prices increase as attacks on shipping ramp up - Transport Topics",
+        "source": "Transport Topics",
+        "published": "Fri, 30 Oct 2026 12:21:50 GMT",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xdXBjQjJ6ZXhoOW5GbS02Z29BYkRxZThjaE9oTklxNUp1Z3MyRHhGMXplMy1kMFFkUXRvOWdhN01vREltNXl3N0E4X3BEc0labjgwU0tDc2ZIaTVQdDdTY2UzZzBMRmVUMHpB?oc=5"
       },
       {
-        "title": "Oil rises on supply concerns as Houthis attack Saudi Arabia - The Mighty 790 KFGO",
-        "source": "The Mighty 790 KFGO",
-        "published": "Fri, 30 Oct 2026 02:50:51 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaVAwWXlCbFZYdEdubmNFUTJxNnhHaTU0TXFNcUtjUXc4c2d1ZFJRSVo5MFZNZE1QVEJWdFZGTVhwdlNaTDZmbWxhX08xS0luOHo2OUJQM2w4QTB1TlJleHV0ejhvODczd0pCUUxDMUVHOHNEU3ByTDkyaWpCRDhkQ1dNR2l4Z2puYVg5bjhSaUkxdw?oc=5"
+        "title": "TRICK OR TREAT? Oil Prices Jump More Than 2% as Strait of Hormuz Tanker Attack Renews Middle East Supply Fears - EnergyNow.com",
+        "source": "EnergyNow.com",
+        "published": "Fri, 30 Oct 2026 11:27:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRzVuT2NFZUlNeDhPU2I3UUk1dklleV9TNzNqQUJpYldXYUc4TTNGSzZYNzU5SVllMWtQT28xc0p1Q21GWC1Bdm1IZUVQNDl5bWczelJtRk80UExQVkNsSWdDUTBRUnJDWUtNeEhKSjhCNHUyN0tPLWt5bDBXQlBWVm9uRC1IY2hrTzh2ZUpVMVhIdk93OTRXM2xJR1hYSDF3NWczRlpqaEc5WFZ5dWw1VW5hd0J1UHUxQV85U0M2TjlZUQ?oc=5"
+      },
+      {
+        "title": "Bypass Route Attacks Lift Brent Past $116, Rewarding Producers Beyond the Gulf - Crux Investor",
+        "source": "Crux Investor",
+        "published": "Fri, 30 Oct 2026 10:25:49 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTNxVkhMQi11emhaNGZ5WHpuQ0hrMkMteHAzUTM1Rl8wWjBIZ2JUOUswN2lFZHpDWXFqOXZGU1hNNzZtQ1ZFODVadzdZd0dDbUdfYXJlb3FoUFFhR0hnblRnNEg4NklCQ0lkMTZqS3dYRW45UEdVdjFJSldFcTNuODNWMG82U3pYTTFrNmUwdkxtd1kzb2hScVZGTzNTNXF1c3FDdm82bjUzc0lBMkFuNQ?oc=5"
       }
     ]
   }
