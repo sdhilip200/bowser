@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T00:54:32+00:00",
+  "generated_at": "2026-10-31T06:54:47+00:00",
   "fx": {
     "nzd_per_usd": 1.777818,
     "as_of": "Fri, 30 Oct 2026 00:02:31 +0000"
@@ -8582,12 +8582,6 @@
   "news": {
     "nz": [
       {
-        "title": "Air New Zealand Limited (ASX:AIZ): How Did Fuel, Fleet Costs and Passenger Revenue Shape FY26? - Kalkine",
-        "source": "Kalkine",
-        "published": "Fri, 30 Oct 2026 07:43:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTEdCVFRudlVYS0tZRl90UmYyMlVvcU1zQ0wyamgzRkFEUDg3d3JRWmFvX3lRQy1Qd3k5OXVZdEJhRXdUVVlaVGk4VDNISzU0RGhiTTM1WElSRnV4bnRzMVhnZV9HV0k5ODlOYXZHQWZlRFZsUjVVOGZudlpKMHhobDJ0VVdPWnNzQV9SdFhBeWctWHJWdEQ4cTZTYkhYei03dHNlbUJ6X1FPTTI5MW9HbWstZ1RCTllmZnhhRzBYT0VYdURycDNF?oc=5"
-      },
-      {
         "title": "NZ facing fourth-largest increase in fuel costs - RNZ",
         "source": "RNZ",
         "published": "Thu, 29 Oct 2026 17:19:27 GMT",
@@ -8618,30 +8612,42 @@
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRk12NDBBZ0cxRXRGQ191dHBFcGNMd2JzVWY5VktUc19Ka21JcDlubFZUNXczRHlqbFZaTmFqQU1sQXZZNWdPT0x5azJwLWpzUnJHbVNIRXkxWElaY216MDViMFZ1NDIwV2Y3Q1VaOHFsa0xoTTNWVFk5TF9jOVl4V3VPUTZfbGJnT1dUclZPbDhPTHNvTmtzeTVPYjVrZFVZenlCRzYydU02d2h2Z1ZzT3RZckFTVXM0X3BMUF9nT0VPNmNuak5ZVVE4cjNMYTFQcEF3NlVuNERFWHpkSjVlZk4tQ0VQMTgyRF9OR3NB?oc=5"
       },
       {
-        "title": "Fuel price tops $4 at the pump - RNZ",
-        "source": "RNZ",
+        "title": "Fuel price tops $4 at the pump - 1News",
+        "source": "1News",
         "published": "Fri, 16 Oct 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ncHZ2Y0x2ck1YbmlFd2t1ajhsZEU0Q096eXUzelotbmhhbWZ0UVBvaHREU1h2LXN0M2QxczRMcDlsX0xoUXU3cHVmdjRxQ3lYU1VWMlhCYVd0TzhxU0pXZ3FCN3BXOU1pbUxSeVN3Wko5OVZKbkRNQVdXV19JQQ?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5odmxCNmoxa3FyVjcwd2oxSXR4bjgwRTlQbDkyNUlZazlKdXZVR2haXzVocTJHX2VQYTZpNWdUdjlRTU5IQ1BfQnkyTEY4Q0NFM1hEMFVTbl9oUlEzM1o0RFVmTUtBM0tOOGZFRHBpTXVTQmc?oc=5"
       },
       {
         "title": "Fuel price tops $4 at the pump - NZ Herald",
         "source": "NZ Herald",
         "published": "Thu, 15 Oct 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQmhVb29KRjYwaDFtbzNtVW9PcG5HaEw3d1FCYlV4c0pBcjF0SGV5M2FSQ0tMUm05WGZlS052T215OUlRcTlMZVVnbk9rY2twV2FGQ2pQdTdoaVZqR3Ntak5CSnpvNlcwUzI4ZnkyRGYteGpIQ0t0NGFDYUstbEtIdlVzb092QkRncGZJa0t1Q28?oc=5"
+      },
+      {
+        "title": "Who is cashing in as petrol prices hit record high at the pump - RNZ",
+        "source": "RNZ",
+        "published": "Mon, 12 Oct 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNEZ2eHlOOUVQTUJZT0Z1T3FpaHpqc0lWc0xvMUlpeVJaeFFmLTlQUlhTcXdpRVQ4SVBUWVJSNFM0ZkE1UWNnS2g2eTkzeGlQS0EtOHRIQ21tWWhGREREa1ZPVkdFTE1BNVNQRThPaFF2bXpyLThlZjhiU0oyTXkzQ2NsMzFodnNtZ0kzeGszVzhGazhTRHF6OU1JWGlzbVdkZVZic2xSZjAxQQ?oc=5"
       }
     ],
     "global": [
       {
-        "title": "Brent ends October up 13.6% as Iran war risks unsettle markets - Nation Thailand",
-        "source": "Nation Thailand",
-        "published": "Sat, 31 Oct 2026 00:28:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NbHdDWnoyUnRnZXJ5SE5saGxETWFwbjdoWlNyTUllRUJ1dUJNQkVyTmNFY2Z1OUtxdmtpcFRNX0pieFFXZWUzSVFEQ1ZROWREbzhrdFZ2RzBVOVRMU2xZ?oc=5"
+        "title": "US Treasury says Iran's oil revenue, trade hit hard by pressure campaign - Iran International",
+        "source": "Iran International",
+        "published": "Sat, 31 Oct 2026 05:38:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYeGpsU0k3ekV4cjVUeU5PUXBJcTJDYjU3dTk2RWNYajFPY2ZEcGNSUGxqSGswLWYzSlhNUDhOWFJRLWc0TU9hdkdOM2lVcWlEaGc?oc=5"
       },
       {
         "title": "3 Oil Stocks Retail Investors Are Watching As Brent Crude Nears $120 - Yahoo Finance",
         "source": "Yahoo Finance",
         "published": "Sat, 31 Oct 2026 00:18:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcXhJN1hXZWw2NzFwVVM2T0tYYmZhRVVMcGswZV9OdEZuLW5SRjQ3TnJvMzFvWmdKTmY4Y21kTUI2Mzk4VDRkcHBBV2dvdExhM2JIWGlaR2N5dDV3UE1QSkNHQldpUUk1RHB6eXRMd1VVT01MZ0NSQk5tZEstUzJOczNkSlYwYmdQOGszZ2NTQQ?oc=5"
+      },
+      {
+        "title": "TEMPORARY DEAL - US Eases Russia Oil Sanctions to Tame Price Surge, Riling European Allies - EnergyNow",
+        "source": "EnergyNow",
+        "published": "Fri, 30 Oct 2026 23:44:06 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZEwteXNCcjlLa1dveThnYmJJMnFFdWNySXl3T19HZThyeUw1Rk52ay1Vak55WFhYNmp4Mk4tbVBjMDBDdUVEVFR0dzFmTmc4MjFKY0NjQXo1eFBicmptSF8tR1NLRUlYQTVjTFZ3UjJSUTdxNExiYUdLNy1tX2pHQS1aS19UUTdVdXF3c3RiU0JmdU9nR1NNb0FycmlxYlZsU2Jhck5WeklVWmRQQjlnT2o0ZmJDQlVv?oc=5"
       },
       {
         "title": "Oil moves higher just before midterms - Oil & Gas Journal",
@@ -8656,10 +8662,10 @@
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVU1tWFdialI2NHJJc0pJX0dhQ2ZkQ1MyMnVGN3IySmdzTllJT05Cejk3bC1WMHp0RUpZazdqZUZKMk5XcEFvUjE3UzdNNFZDTlFkUW9EV1l1T2IzQ19nQjUycE5hNkg0SzFzeTZ5c09BLWdFTEcxWVQyRnVjYWxoZ2V0Z0ZHVkM3MmlJdjlGZmV0UG05WGc5c2pSSXZGa2dfeHl6TjM1b27SAa4BQVVfeXFMTkU5RnQwLVNVVjZjaW1aSDRLeFNIQTVhOExEVmdrVXRLbXNUUjJOMUtlOG14WHN0djJxTHoxaXY0V0lwY3ZoeFpyVUVrbWlrb3dmenlqVXRoVmxCTFhKNnczXy00NXFLQ3FoYUI3U3ZNRENYeGw3NFBnaENRMTVCTHJXTV9talF1TVBnU2JYak90N3B6M2hlejEyRWswNmphWjV2UDFzbWZQNnpLNXl3?oc=5"
       },
       {
-        "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
-        "source": "LiteFinance",
-        "published": "Fri, 30 Oct 2026 22:21:32 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5"
+        "title": "Current price of oil as of October 30, 2026 - Fortune",
+        "source": "Fortune",
+        "published": "Fri, 30 Oct 2026 22:32:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sQlNTbGZfT1dXT2JUUDZ6UGRIU3Y4WWVvRFdaSVp0OFp4TlR1NkhNaHJYd1cyUHRud3BQWDR0ZXBKSmFJU3NyeUJNUHA2SlpPTmgtVnM4dXBmQU0zbVdtaFVB?oc=5"
       },
       {
         "title": "Gasoline Up 34% and Heating Oil Up 74% as Voters Head to the Midterms - Crude Oil Prices Today | OilPrice.com",
@@ -8668,13 +8674,7 @@
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObTR3Zko1ZTF2cUdQektITkFZclRMRDlRbzFQNEd2clhIcUZud25rcmFhdHQweUx3VTlySm1hcnJ2SmNLS2dHZEtvdnhGVWNMLUhpRUdUVlJFMG8taFVrM2I3WmxseEFvZDJ5N0JGZTNqWlF4b204dzViYjFjUnJuUVRYUzNRLUFrdmtlUm5nbl9UTHhHc29vdVhUYnVWbXppbUowNEFCLXhlZDFVNUxKVdIBtgFBVV95cUxPeFE1LTRPdDZRY3BGeWpoNVVmU3lTQWw5SzBvQzZ3VXpVd3hXd0l4dHJNUFdRUV9MYURMbl9rWlJzSU5tV3hQN0xnOHkzYmxFd2FfUkQwY0lrMk9HbWhOeG5yV1l0QnRhN2xfUFhiUnFoampCTFNzX1AydWhYdGJEZ2VqeXFYVXVaRkpONE1fQWp3X0VGMDY0dGs1RHNtUWJpbC1qNWhmM0RUOC1fWTdybVc1VEpQZw?oc=5"
       },
       {
-        "title": "Oil Touches Pre-War Levels on Rising Middle East Supply - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Fri, 30 Oct 2026 21:56:50 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc0x2dW5mVTB6dmR1TU9yVGVfaGxUdHlBTU83NG1fVmVlaThzczFFSXJRb2l6MDJrOFc4bXJXWFNzRklySEg5eUp4bXBtbXRnUjk4NzV6THJWdUhiWkJfX3N1b0tLRU5DeHpfSUxzc09rY2dQeFU0ek16SDJObmpYYzZXY2VCMTdNdmg1N3A1VQ?oc=5"
-      },
-      {
-        "title": "OCTOBER OIL GAINS EXCEED 13% – Oil Climbs More Than 2% Friday as Middle East Attacks Intensify – WTI and Brent Finish Week Higher, October Gains Exceed 13% - EnergyNow.com",
+        "title": "SCARY WEEK FOR OIL – OCTOBER OIL GAINS EXCEED 13% – Oil Climbs More Than 2% Friday as Middle East Attacks Intensify – WTI and Brent Finish Week Higher, October Gains Exceed 13% - EnergyNow.com",
         "source": "EnergyNow.com",
         "published": "Fri, 30 Oct 2026 21:01:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQQmFkYjFhcm9XeWlHUmhHUlhhV25DWmJjbnlWMTFqTGNCUFdMR3dYdm9Yekx4RURTaks1VkFlT2JUWEVLSmVrYk9nd0RZSnBLQ09BdUtJX3ZmX0NaOEctajJpbjY5SXdEWFRoUmIzMTBMNENOaDhSejNDeVBUb0pFMWRkTXFNUFlodjJETVN2dVZjMmhONVJUTXc1V3pkeUtpX1VQa2hIM1dIVTlFS2kzNDUzMlViZXV3ZjU3X2lHTlhPcjBoajBLZ1VuTVNJVFJKSk0zQWRCaHpQZzZ2MjFtUjJxQ0cySWJ6aHNsUnNPZlV4Qk9BWi1vMmFGV2ZEWTdISTBLcEtHdmRSQQ?oc=5"
