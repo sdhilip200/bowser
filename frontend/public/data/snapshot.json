@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-03T22:25:19+00:00",
+  "generated_at": "2026-11-03T22:56:48+00:00",
   "fx": {
-    "nzd_per_usd": 1.777652,
-    "as_of": "Mon, 02 Nov 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.779045,
+    "as_of": "Tue, 03 Nov 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 104.29,
+      "latest": 104.42,
       "latest_date": "2026-11-03",
-      "delta_1d_pct": -11.35,
-      "delta_30d_pct": 3.94,
+      "delta_1d_pct": -0.33,
+      "delta_30d_pct": 5.21,
       "series": [
         {
           "date": "2025-11-03",
@@ -1012,16 +1012,20 @@
           "usd": 117.64
         },
         {
+          "date": "2026-11-02",
+          "usd": 104.77
+        },
+        {
           "date": "2026-11-03",
-          "usd": 104.29
+          "usd": 104.42
         }
       ]
     },
     "wti": {
-      "latest": 96.26,
+      "latest": 96.76,
       "latest_date": "2026-11-03",
-      "delta_1d_pct": -7.55,
-      "delta_30d_pct": 0.5,
+      "delta_1d_pct": 0.31,
+      "delta_30d_pct": 2.29,
       "series": [
         {
           "date": "2025-11-03",
@@ -2024,8 +2028,12 @@
           "usd": 104.12
         },
         {
+          "date": "2026-11-02",
+          "usd": 96.46
+        },
+        {
           "date": "2026-11-03",
-          "usd": 96.26
+          "usd": 96.76
         }
       ]
     }
@@ -2033,38 +2041,38 @@
   "nz_retail": {
     "as_of": "2026-11-03",
     "regular_91": {
-      "avg": 3.543,
-      "min": 3.266,
-      "max": 4.005,
-      "count": 85
+      "avg": 3.565,
+      "min": 3.346,
+      "max": 4.139,
+      "count": 82
     },
     "premium_95": {
-      "avg": 3.716,
+      "avg": 3.739,
       "min": 3.366,
       "max": 3.919,
-      "count": 47
+      "count": 43
     },
     "premium_98": {
-      "avg": 3.82,
-      "min": 3.679,
-      "max": 3.979,
-      "count": 12
+      "avg": 3.841,
+      "min": 3.687,
+      "max": 3.949,
+      "count": 14
     },
     "diesel": {
-      "avg": 3.204,
-      "min": 2.876,
-      "max": 3.929,
-      "count": 93
+      "avg": 3.2,
+      "min": 2.986,
+      "max": 3.529,
+      "count": 87
     },
     "lpg": {
-      "avg": 2.88,
-      "min": 1.99,
-      "max": 3.77,
-      "count": 2
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 199,
-    "observations_yesterday": 29,
-    "observations_older": 0
+    "observations_today": 185,
+    "observations_yesterday": 28,
+    "observations_older": 1
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8574,22 +8582,16 @@
   "news": {
     "nz": [
       {
+        "title": "Fuel-price concern rises sharply in New Zealand ahead of election - London Daily News",
+        "source": "London Daily News",
+        "published": "Mon, 02 Nov 2026 13:42:34 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON3lpZXhVTTRlZVZIYXlGWmpiZGt4WHlqdVhEZEt2bnJUVHRrbjc1QU1tNnBMaFpRRmVmdXlrclZsTnhmX29lSmhKYm9xNWg0YkhfaWg3cEZhSlMtQXlEaHJSXzdlVFBUN3ZYRjY1QlAyVkt2TVlPQTFOcENkOHhOa1AtNThZMHl1YnBkLVFxeDZIODlrX1QzTUszSQ?oc=5"
+      },
+      {
         "title": "NZ facing fourth-largest increase in fuel costs - RNZ",
         "source": "RNZ",
         "published": "Thu, 29 Oct 2026 17:19:27 GMT",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZzZlbjIyd29LQlRTX2tCdUYzUzJvWHA2U2NUX0xxelFZODA1ZW5FM0dqam9iUE0xeW1EUUp6WGJSc3BKLXFzZnFBRTZVMGVSbjZ0amJFSDNVaVVTRVFxbU1nUExaNFFGbS1aTFJGS2RLdW1XUmZCM0R5OWo0cngzLXZmUFNobEY2eFVURWRPTF94ZGx2SHc?oc=5"
-      },
-      {
-        "title": "NZ business confidence holds as firms adapt to higher fuel costs - NZ Advisor",
-        "source": "NZ Advisor",
-        "published": "Thu, 29 Oct 2026 05:51:57 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRGN1QjA5M2gzV1hkRUhUeGExMV9IdzJJcFhvTkN6VW1HdzFKX29Mdkx4YUpoUl9wZWNhQjZfNXp1Ni1zRDlaOEFsTVVKQVJETV8wUEE5VTNqVlNEMXU1LU03eEJmdFRaMFBqTFppaFIyV0tqZnBjN3VIMXlRUWdYcnNwYmo4N1JyNFpOaW9hUVJlYmY4TXVBODBlUmVnWEVTTTdjX29tano4Rm9sVnR3?oc=5"
-      },
-      {
-        "title": "New Zealand Unexpectedly Holds Interest Rates Steady; Kiwi Falls - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "published": "Wed, 28 Oct 2026 04:10:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaWN4OTVCRFRvNlVxaWlhU0x5Z3Y1cGNEdmhnQkd2NXlwenROa2VuLXJkYlNNako3XzU5VFpFVGRsdHVqeHAxNGF3VXNyOGFDYVE0Q0NsVUU3V25Wd0RJa19idTAzZ0RocVF1R2xkQm9kTVotNjRjQ2daa1NpcTZYc2ZMcnJ2Z3RBZHZQZE05M0M2SVh6LTFRdFhuSEVpT3ZhcDlSeE4waER5ZjQzNkUwdkMxanc?oc=5"
       },
       {
         "title": "How secure is NZ’s fuel supply? Concern mounts over future diesel cover - NZ Herald",
@@ -8598,35 +8600,47 @@
         "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNa1hiRTNVMS0wN3RDeXZKSm12Y1JSOWxmMVlFSGw3X2FUTGsyTmJhVExrMlo1VHc5RXg4QjlwV19GZjg2SFVkTllGeDZhQVYzaVMtRm9uOVNlVm9yemo3MEdIc08zNzAyRnFHeXV6dzUtU0JPVHMySEM5RzhmOGxScU1udHVtQzhzN3JFYnBRWnhRRDM0Q0hLYnpQamgtQVlCRl9TWWNaTUZyMC1jeHRMdXNzNHF2YjEtaXIwaXVFNlpvZ1hGYXFWNFlKU0k2WnZtbWdIVDhTbEZMdWRCb0EwVEpHd0NoOE0wNlFqUEtUZzVONnNQNGkwVVRxRHAxczN4aW10QlBn?oc=5"
       },
       {
-        "title": "Petrol, diesel demand to rise as cost of living slows electrification - Marsden Pt owner - Stuff.co.nz",
-        "source": "Stuff.co.nz",
-        "published": "Mon, 26 Oct 2026 20:40:41 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTURQQlo5RElJNHpOa09LOWFXZXhpNVBLRFA0bk43VVpwNEJrLXkzSnRhWUZzTnJmTl91c2s4M051VUlwb2RDQUV6b3daMWtRb0E4bE9xYW5ydUY1czJsM1NGa0dKRHNfOTNSZ2lOSlk0S2ZIaU5pYTVTQ1JwQkNkaU50a1JvbFNoWDUxdE02STR0ZExPOXBGWURjenI0NmRTRnZPNWMwbFkwQ0ZfaFJyWjlrdEFEZ1FUWXRiU19R?oc=5"
+        "title": "Fuel price tops $4 at the pump - 1News",
+        "source": "1News",
+        "published": "Fri, 16 Oct 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5odmxCNmoxa3FyVjcwd2oxSXR4bjgwRTlQbDkyNUlZazlKdXZVR2haXzVocTJHX2VQYTZpNWdUdjlRTU5IQ1BfQnkyTEY4Q0NFM1hEMFVTbl9oUlEzM1o0RFVmTUtBM0tOOGZFRHBpTXVTQmc?oc=5"
       },
       {
-        "title": "Air New Zealand's '$6.8m-a-day' problem - NZ Herald",
+        "title": "Fuel price tops $4 at the pump - NZ Herald",
         "source": "NZ Herald",
-        "published": "Mon, 26 Oct 2026 20:02:49 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRk12NDBBZ0cxRXRGQ191dHBFcGNMd2JzVWY5VktUc19Ka21JcDlubFZUNXczRHlqbFZaTmFqQU1sQXZZNWdPT0x5azJwLWpzUnJHbVNIRXkxWElaY216MDViMFZ1NDIwV2Y3Q1VaOHFsa0xoTTNWVFk5TF9jOVl4V3VPUTZfbGJnT1dUclZPbDhPTHNvTmtzeTVPYjVrZFVZenlCRzYydU02d2h2Z1ZzT3RZckFTVXM0X3BMUF9nT0VPNmNuak5ZVVE4cjNMYTFQcEF3NlVuNERFWHpkSjVlZk4tQ0VQMTgyRF9OR3NB?oc=5"
+        "published": "Thu, 15 Oct 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQmhVb29KRjYwaDFtbzNtVW9PcG5HaEw3d1FCYlV4c0pBcjF0SGV5M2FSQ0tMUm05WGZlS052T215OUlRcTlMZVVnbk9rY2twV2FGQ2pQdTdoaVZqR3Ntak5CSnpvNlcwUzI4ZnkyRGYteGpIQ0t0NGFDYUstbEtIdlVzb092QkRncGZJa0t1Q28?oc=5"
       },
       {
-        "title": "NZ First promises to scrap climate change tax on petrol and diesel - Chris Lynch Media",
-        "source": "Chris Lynch Media",
-        "published": "Sun, 25 Oct 2026 09:49:21 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN284ZDRvT0o5UnduQjNiZnN5MzhrWlE5ekU0X0VoSVk5UHBJaWFUYUV4SlJpSjh3WDM3RmFJNHpLTFFCUGpTZXVOdHREaXE2aTlUMnhaVjZWYzBWTkUzS21oQzN4Yl8wdVYwbmxnXzdDYXo2cm1nZ2tJaGhUc1BGd05xZ2N2OXRZbkJOcGlSdFI1bGRxajRMei1IYlNVZzVmU2dUVVpibUROUUVicTRV?oc=5"
+        "title": "Who is cashing in as petrol prices hit record high at the pump - RNZ",
+        "source": "RNZ",
+        "published": "Mon, 12 Oct 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNEZ2eHlOOUVQTUJZT0Z1T3FpaHpqc0lWc0xvMUlpeVJaeFFmLTlQUlhTcXdpRVQ4SVBUWVJSNFM0ZkE1UWNnS2g2eTkzeGlQS0EtOHRIQ21tWWhGREREa1ZPVkdFTE1BNVNQRThPaFF2bXpyLThlZjhiU0oyTXkzQ2NsMzFodnNtZ0kzeGszVzhGazhTRHF6OU1JWGlzbVdkZVZic2xSZjAxQQ?oc=5"
       },
       {
-        "title": "Christchurch cyclist and bus rider numbers up as fuel prices bite - The Press",
-        "source": "The Press",
-        "published": "Sat, 24 Oct 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbzQ0WldVdWxvRkRpbVVyYkE4YzM3enVrMlBjaHkxMHJrRUFSWG5nOFA0MnVJR1lSLTVDdmRLWHRzU1F2RUU3bGt5NVJRb1p4aWt2WkF0Rm9nYVFwRGFBV3ppX3ZZV3MxWEFVbkhPekZLUmpWUXZZTl92ZVVXWVFmMGV2RlZVV0Q2M084Tl9yQkNfek9MYl9yTGNHNVEwLVhvZnpmX0pnSQ?oc=5"
+        "title": "Fuel price hits tipping point - RNZ",
+        "source": "RNZ",
+        "published": "Wed, 07 Oct 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzdkgyU3AxbmZXWUpsd1R4R2pzVDVXNlUzSlQ1ZmFKdk9VSmRMdzNRZW1LY1ZDT3NoZWRzUDB0X1h5RlR0MFNQWU5wdlBaTjJXMFVHZ2tsMFBucEdCdnAwYVV4aDFhQXIzTi1iaHdybGZrQXFxNVN4dVMtRnV4UQ?oc=5"
+      },
+      {
+        "title": "Petrol price hits all-time-high as average litre of 91 tops $3.50 - 1News",
+        "source": "1News",
+        "published": "Mon, 05 Oct 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV081OVF5QWx6eUJ1aVFfcW5ucTY5ZkE3QjZoOXlKbjNzYjJKYlQwM1Qwc2RSNEJrbWdiVVhtNVBCWFdNV0JpeTFPUnFjMU9OangteUdVRTkwaW5uY2ZMVzJYenN0ampSZV8teThBQi1vVjFqYVp2N0FWekQ1RzV6SExfN3JWTFFSRVdvS0hwak84SmJPOGh4Sk5xdExwQW9P?oc=5"
       }
     ],
     "global": [
       {
+        "title": "The New Oil Shock- when delivery matters more than supply - Middle East Transparent",
+        "source": "Middle East Transparent",
+        "published": "Tue, 03 Nov 2026 22:38:41 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdEJaTlc1d3BFaGdhUjJDTnZOSjJLR1Vaa2RGbEIxQjZ4M1JxaXJHVURzdWhfMTJsaHJTRkFvRzQ3bUIxakljRTE4WmZWZGttbFo1VjlCUHhYbUJHUTA2Qlo0eVRuTllyQ0RjdXNsYkoyVVk5b2ZnWFVwQ2g1WXFud3FvVUl0TnNlN1BLMGhjbUJndnZjMkE?oc=5"
+      },
+      {
         "title": "WTI Price Forecast: Buyers Defend Key Support After Sharp Selloff - FXEmpire",
         "source": "FXEmpire",
-        "published": "Tue, 03 Nov 2026 22:18:23 GMT",
+        "published": "Tue, 03 Nov 2026 22:29:16 GMT",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPelVGRGVoM0hUMFFId0J0dVE0S1FFVEVkbWhDaE5NQzNacElKN3VNTThMd3pfeHN4dk9LRk14VFBrZWw2cUZGVUs3TkZhV0RGeXhncFpveUdmb2JyYl9qZ0lDLWpzRm9aZXZYdnZjVFNYQlNpMk5YNlpTV3N5UnhmX2Fac0JJUEtmTFZfbXJveUs3NlJaVGZ4bTItYmhJSjhic214SWI3LTZoTERfcW04UTdUaWw0UQ?oc=5"
       },
       {
@@ -8634,6 +8648,12 @@
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Tue, 03 Nov 2026 22:00:47 GMT",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMm1lcm4zaGl0RWt5azF4T0JyVTIybnZfVDB5RGZWZDM5SG1wWTBEMzJkZFpsVHI1QTV0cmtmbjhUOHlKeTBjNGFVMi11NVNiM0pLc2pkcWdGVzdwcklPUlE4SEdGLXJkZmxWM2I2TGxuM1FFY3EzUFMtTlp4NVdfcDBhZHpUdGVFMVJKd2tDa0k2TG1JLVd0cGxKaFh6WW_SAaQBQVVfeXFMTUV4ZVpBTEZ4SmQ3QW9RaUZNREVDdmlreWtqVnNIR1U3OFIzLUtpNzhUT1V5RzQ3WFJQQ0JtUWhGaldCY19NWEJWZEVqRi16bjEyVmVVVkNiWVpqcW9Valp5REJPZTMyZzg2RzlYaFl5WFp2OWRXZnNDSlkycUVRVUlrUXVCZjV1OUJIdzM4YzVoTXdBMFVjT2xnQ2prcHdjUTVBRUE?oc=5"
+      },
+      {
+        "title": "Why Supplying Europe With LNG Has a Best-Before Date - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Tue, 03 Nov 2026 21:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeUtEbl9meUZGb3lkZjJidE5MYm9oLXdVVnRld3B5ZzEzU0x2NDJqazdpSm54Z2tBb2NMRWlUOXZ0cERWSlQwYzU5Z1hpZUpGTTE1by1acXU5OXZ4Q3VJUm0wZEVYRDhSeVlfSVhCcHQ4T1N4YmRtQjd1RmFuQ2tCb1MwanVzU1BQUXRrVDBDOUdtX2JGTWw3TXNfWUFzUdIBowFBVV95cUxNZTFGYXVMTExtTVNXMUw3Z2w4ZTVwbmlmU2lyemVLaTBKLTBVTDUyNWdVaUJUTlB3S19IRkJkOG04U2t3d1p3SHhRbjhaZjFtWGtjaGFmamNUNVExVUhmOTFNdkQ3SGVzMHNxSjdlQmRpOVhaWk5xSXF6bHJfMnZIdDloOWNYZXJrZ2J0RHNZUWdCUkRFQ2RUWlFCUTZ4bDdTUmJj?oc=5"
       },
       {
         "title": "Oil Futures Turn Lower as Market Holds Out Hope for Middle East Diplomacy - WSJ",
@@ -8658,18 +8678,6 @@
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Tue, 03 Nov 2026 19:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVnRnMThuejMwbmlDMzhFTy11Mk4wSXh1ZFBna0xONnpUTllhZ0FObFBFeFVsTVR0dVhyTUVaS3MwM05JaU56RDM1ejFDQmthYVgzMnJoR292cHVvdFlHMXZiMVB3My1CUmtpT2hxcWdQWm9OWHlYRlRMT3RQTzBRM0NtMGlYeGRmakxwUEdIX3FEcXpFSXhwMXlQUk8zRGowN0RDbDkzZXA1NGI4RFHSAbMBQVVfeXFMUFJ1N2ZTUlU4SzEwT3VhTTR0QUZrYzFPQ2NKSExQY0c1cWRjX2JCWXRjVUMtempvT3dXYXZlVUFQRFZrZDl0QVVzUVJJTm5tVlM3QU5xTjJxc0FzTUJ4Y3QtVDJsTWpvbUJyOFFsVDBMMmRxeDItM0xQekE5N2tqQ0M0UEl5ZkhWLW1MQTdEM1gwcnVWd2ZWaWotR2UzZlBSWmR3Q0pobVJ6NC1VQ0lnSDlUU2s?oc=5"
-      },
-      {
-        "title": "Oil prices ease to nearly four-week low amid peace talks - Yahoo Finance",
-        "source": "Yahoo Finance",
-        "published": "Tue, 03 Nov 2026 18:40:07 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdVlKOFRlMlI5bGJYeVNIN2gyZTJpd1dobnVDNWo1Q2ZxbEZjTThra1V4QThzRF9GQ3JGLUdnYzR0UnIwR2ZpNFpPa0M5bVFtZ0dBVV9tMGZTX2Z4VG9MTGRkSjI2c1pZRWVvWGl5bW5haE5ObG5TNVBUZHgyX1dRa09aaExBdFJXcjc0?oc=5"
-      },
-      {
-        "title": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries - WSJ",
-        "source": "WSJ",
-        "published": "Tue, 03 Nov 2026 17:29:50 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5"
       }
     ]
   }
