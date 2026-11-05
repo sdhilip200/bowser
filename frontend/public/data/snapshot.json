@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-11-05T19:00:59+00:00",
+  "generated_at": "2026-11-05T23:18:43+00:00",
   "fx": {
-    "nzd_per_usd": 1.783786,
-    "as_of": "Wed, 04 Nov 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.777487,
+    "as_of": "Thu, 05 Nov 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 94.67,
-      "latest_date": "2026-11-04",
-      "delta_1d_pct": -8.62,
-      "delta_30d_pct": -8.16,
+      "latest": 99.28,
+      "latest_date": "2026-11-05",
+      "delta_1d_pct": 4.92,
+      "delta_30d_pct": -6.87,
       "series": [
-        {
-          "date": "2025-11-04",
-          "usd": 64.44
-        },
         {
           "date": "2025-11-05",
           "usd": 63.52
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-11-04",
-          "usd": 94.67
+          "usd": 94.62
+        },
+        {
+          "date": "2026-11-05",
+          "usd": 99.28
         }
       ]
     },
     "wti": {
-      "latest": 88.23,
-      "latest_date": "2026-11-04",
-      "delta_1d_pct": -8.18,
-      "delta_30d_pct": -4.26,
+      "latest": 91.35,
+      "latest_date": "2026-11-05",
+      "delta_1d_pct": 3.67,
+      "delta_30d_pct": -3.45,
       "series": [
-        {
-          "date": "2025-11-04",
-          "usd": 60.56
-        },
         {
           "date": "2025-11-05",
           "usd": 59.6
@@ -2033,36 +2029,40 @@
         },
         {
           "date": "2026-11-04",
-          "usd": 88.23
+          "usd": 88.12
+        },
+        {
+          "date": "2026-11-05",
+          "usd": 91.35
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-11-04",
+    "as_of": "2026-11-05",
     "regular_91": {
-      "avg": 3.552,
-      "min": 3.296,
+      "avg": 3.522,
+      "min": 3.215,
       "max": 4.005,
-      "count": 89
+      "count": 83
     },
     "premium_95": {
-      "avg": 3.698,
-      "min": 3.426,
-      "max": 3.899,
-      "count": 46
+      "avg": 3.692,
+      "min": 3.296,
+      "max": 3.909,
+      "count": 54
     },
     "premium_98": {
-      "avg": 3.834,
-      "min": 3.608,
+      "avg": 3.805,
+      "min": 3.546,
       "max": 3.949,
-      "count": 11
+      "count": 14
     },
     "diesel": {
-      "avg": 3.185,
-      "min": 2.936,
-      "max": 3.459,
-      "count": 96
+      "avg": 3.172,
+      "min": 2.856,
+      "max": 3.529,
+      "count": 93
     },
     "lpg": {
       "avg": 0.0,
@@ -2071,7 +2071,7 @@
       "count": 0
     },
     "observations_today": 201,
-    "observations_yesterday": 29,
+    "observations_yesterday": 31,
     "observations_older": 0
   },
   "mbie_waterfall": {
@@ -8632,52 +8632,52 @@
     ],
     "global": [
       {
-        "title": "US sanctions network supporting Iranian oil shipments - Oil & Gas Journal",
-        "source": "Oil & Gas Journal",
-        "published": "Thu, 05 Nov 2026 18:05:06 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLUY1UklyZktnQk9RNEdub3pNZkZMQWFQNlROZWhJT2NPaE50YmRIV2V5Zl96RTNBT01ZMUJPOVIySmVTRS0wUmh0QlJaMDN1cXVYVkRQMjhYSWVkSDFCclhIWk1tZ0VaSjZNSTN3V21kbDYzVWhTVWVCMEFQWGUzeW1IcnhDeVNKdVoyLXVFd2xWUDd4NHVEMFhiVW5wXzdHU2M5ZUNSTU96M2xYQ1p1MnNmbURnSzFSb2tHWjhmUQ?oc=5"
+        "title": "Oil prices hit two-month low following decisive midterm election results - The Washington Post",
+        "source": "The Washington Post",
+        "published": "Thu, 05 Nov 2026 22:47:35 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbjRzOW02X1N3VzNXZG41a1RLTF9aWEkyYnFfZy1OLThNbjhFTXlHN3FRLVRPM0l1ZWJPSGdVUGk0YTZBRHREWXlNS1l0SXp6Z3VnX3ByUUZFeV91V1F3cE5QRnBUY3JUWlY0V25IbnNHRmlJQnRhZEVpRVgtZUk3cC1yZW9UWC1NTHh2UDVtbGNKeDEzaVdUMEdVNC15dkNjN21oaFVQaGx5OUJRUWtQNXZ2RmdodXZFdjE1ZDN4OU90Zw?oc=5"
       },
       {
-        "title": "Oil Climbs From Two-Month Low as Traders Parse Iran War Outlook - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "published": "Thu, 05 Nov 2026 17:20:06 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQlB2Q1M3aHY0UjIwVUczU09aRnVsVDhTSDVncElSMGVwRDE0a3lPLUNXbVN0R25iZHZkOXRtMkg5QTZ5VFNTRi1uTDZfd3pfVlZqUFEyaHZ6R0RPSDltbmRRdWMxbC1JcEV4UGxiYmFESjJWb1QtSkhaNW5kWlF1WkJHenZDLXJZdjJDWjYxcGsxd1RXMHI3N0R1a0Q?oc=5"
+        "title": "WTI Price Forecast: Crude Oil Rebounds From Critical Support - FXEmpire",
+        "source": "FXEmpire",
+        "published": "Thu, 05 Nov 2026 22:30:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORWM1VGExZWNzN19WRG9KTXhwMUtpSU9aalQycVJvS1VWdkRCeHJ3Y0xTamRlOEpNNDNGSm9xYnJ3ek9yaHVvaEhTUFlwbm85M1dCb25DZ283OU9DUXlleEQ5bnprMGRCY0QtZzFCLVo1SHFSR3NNZnNFekFheW1jZllNdjlYb0ZkQ2Y0LVVBZEQ2UGJVeUJiUVI2TDhibnM3WGRGd2R5VHhpT3d6MWZJ?oc=5"
       },
       {
-        "title": "Guyana's Oil Boom Could Ease the Global Supply Crunch - Crude Oil Prices Today | OilPrice.com",
+        "title": "Oil Prices Pick Up as Market Mulls Over Prospects for Middle East Settlement - WSJ",
+        "source": "WSJ",
+        "published": "Thu, 05 Nov 2026 20:45:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNFRHX3ZFOFQ1SHJRd3R1M0R5dU4zY1NnckI5ODFjRmtWQUVXOC1WRTJiQTBYTEVEbWJlOW94WlF3a1R2aUVMLXg3VnJ0aVZrQktIZHpmZnNpTWktYVgyZXVNMGVpRGdjSlhfRDhQSHczQ3BDdWhybUx2c043YmQwdkRuWW9WeGE3amVpZFE2VEVDTlRxZktZc0JLSFRxdnplcUxUdVhuZm5Bbl9nb3Q3aW0xdFFDam1XcEstMVFB?oc=5"
+      },
+      {
+        "title": "Brent crude jumps, settles up over $3 after tanker attacks - The Lufkin Daily News",
+        "source": "The Lufkin Daily News",
+        "published": "Thu, 05 Nov 2026 20:37:09 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTUVBdm93Y3B2ZFY3ZzRPb0FaYXNmX1FYbXZLZF9rUkw2cE9XTTVzZjlieVhuYXJZR1owUWZOXzRSdk5JZkp3YTByZWJZWDdsWWdpLVVURGdVbUZLZXlHd2ZlNWtBZC05TU5iNFFyY3lya0VvcEZxSzd2R2RRaEh2WENubjFIWVF6N2ZObHpHWEN6MElpdm5LQU82N1JkX0lPc1kzMmhhOGEwSmxmeS1jMGcwTkY1MGt6dFBFdHRORUFiWVhlY0JIb0Ziam93dDJhTHFmejRwWWFxYmxJdE5qcUJJNVZ4QXNlV09sLQ?oc=5"
+      },
+      {
+        "title": "WTI crude oil settles at $90.52, up 2.72% as buyers defend key support - investingLive",
+        "source": "investingLive",
+        "published": "Thu, 05 Nov 2026 19:41:26 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUTc0MElYSnMydWUwTDJRMWNDSGszRVNZRm4wNkhvTURzS3laX1hrOFlETVc4X2QxR3YzMVp3OWVVWFdyNFJmZ2NtNlVUZjVYQzZsQW9KWm9nQXBIeFpUYTRvNzlZaG1PaVc0Uk5SUGIxVWF2cVdYNEFsWTM2NG8zdkhwQ1ZjcDlJSnpXZ3JsSkxPci1Id2pmTDVRbnpiT25XRXBrOFVKaHJNZw?oc=5"
+      },
+      {
+        "title": "Oil Prices Rebound Sharply After Brutal Midweek Rout - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Thu, 05 Nov 2026 17:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNVJ6dnpNdU52SWNsc200Tk9hREYzOW03ZjVwekd5VEtiSGFUZ0hQQ3EwVFdaZGdtdmV3R1JadG55eDg1VjRFRGd5ZFc0YkczdGlHYjhHRktOQUUxd2ZXa3NIMEhUNmplTUxfZjhOcHgxU1NkVkQyM3U1bTRSNHdRTGRURGRyVWhFOGVMYzcxX3BYT2wxZ3RfN2dZdnZSTDhJX0HSAacBQVVfeXFMTmtWVldlbWtlb0NTZXYxYngyTXVzZWUwcTFPZk9QOGgxYjhTUkJnTFRzTlBlcFhPS3hScldIUnlaclpITVBWazV1NjNrYzJzNnRFcU5SdG1QVnZxdU8xNUtSLTZiV00tajZPQlBNNmtDRDBrcENMZUxzaUZMRjU3czE2T2lHQ2NfbFlZVm1ZZE9ibFpwazlUdzBMdVVTLUVfMHlaWFI4ZGc?oc=5"
+        "published": "Thu, 05 Nov 2026 19:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTkQ2VHV3QVBYU09xbkdYb1I2YTUtTDY3ZkZXWnJOZFlQQWJSTElZMThYZnFfX1BoMHZQYl80MGswRll4RlJ2TWVrMFFEQUVFRUZKNlVtRDNhVV81ZEotZ01KUlYxckhkMEZOU2l4MlZ2NkNQWm1rTUMwa3pkWFZWMlBwMHh2aUdXNTdLRVRxdm1HZjhrVmgxaUp1bFdYNXJzR2FLSmFJcWFFVEpv0gGyAUFVX3lxTE5FMzBDX3BobGZQXzZxRURVRTNxZTN4djJuRnJfTzA2NnZ5VDF2YkgxcU9td2tNRWF3UlNtT2k4dGpvakxqejdET3FwWHJoVFdDLVEweVlvSDBsSHcxOU5sNUNkd1hySkREb25JeGNqUFhObjlRVlRmaUN0WlVzMWJQTUp4TzM2dGlSWFJkd0hRb0NMWnB4eHFQb01YRjNUY2dLVkl3WWpSTS14ZWo3Nlp2V1E?oc=5"
       },
       {
-        "title": "Oil Price Predictions: Why Goldman Sachs Is Betting on Brent to Climb to $140 - Barchart.com",
-        "source": "Barchart.com",
-        "published": "Thu, 05 Nov 2026 16:22:19 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMkY5YlZZMUw3Q1ljdnVCQ21Rb05nOTR1bFJINUZDRjhOTWI2VFQ2RWQtNHYtcjB3RUM3OG9EQk9Vb1dmQi1yMDVnb0VvS1k3T0xISndvV2xTOV80ZlcxeEZtMURPaE1VYkZ6UXdfR0RnTHBtZUk4QVNXT1NGSkhyWGFPMXhxbFctY0szYTZtb250UFlpc2paQjREbHdVN25BR0xibHBvekVUQ1ZrQWxOOGdjZmxrRnJpZkhV?oc=5"
+        "title": "Oil jumps over $3 as investors assess Iran war future, tanker attacks - Yahoo! Finance Canada",
+        "source": "Yahoo! Finance Canada",
+        "published": "Thu, 05 Nov 2026 19:07:59 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS2VLaXJuOEZwenhfZE1aOGJub2plSjNLdFpDeTZXTWlUWE1qYXJHQnUzaWtULTRsMWFKS3hSU3V4aU56NHF6UHY4bFlMUjF4SmxJQzVYMEl4UkU3SnFIc0dQT2Jma3BZazhVcUo2UFBlckRrcWtYM2RGdjFDQzBnQWlSbDF1X1FGdHc?oc=5"
       },
       {
-        "title": "Middle East crude oil premiums tumble to pre-war levels amid ample supply - marketscreener.com",
-        "source": "marketscreener.com",
-        "published": "Thu, 05 Nov 2026 14:13:41 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVUl0NTluN0kxR0g0UU9pcTRmaGV0VkVUSjFuTzl2WUtkY09ZUnBuWXNEWjRHYTg4YjN3Zkc4dnk4TzMzMDB5aFFfcXZuek13ZGhUdWZ6R3BZRGFnbDlIMVFMa0xRNG9yN1hkNzM3b3ctMGQ5UTNrcWxKMGJ4WGtKc1pLalhpTkVkNkM3RlA2SnRjLUNKRWZrM283MGVpMmZmZ185U0lUMTJDZGJiSUdMQndWbHdYTGlucjhuZ0R2VWdrWFZz?oc=5"
-      },
-      {
-        "title": "Time to rethink sanctions against Russia: a realistic way ahead - New Eastern Europe",
-        "source": "New Eastern Europe",
-        "published": "Thu, 05 Nov 2026 13:07:04 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb192TFdEODhKZWJsVzFKOHlnRDRQUk9NNVktbjZ0SDVvMndxRy00T014UUNDQmQ3UzFNemtoQVFHcjdkYkdKS0wyVFdIX09NejI4b05RT19NaGVkQl84aW9yTGE4cUluR1FmVjhkT3kzUEZYX0hjcWJ5Nm83TnF0Nk9jSXRCTk5Jb0dRaE9zdXItUTUtc2M0eDFqcHVQcE8xZnhSNg?oc=5"
-      },
-      {
-        "title": "US Treasury sanctions India-based fraud network aiding Iranian oil fleet - www.tokenpost.com",
-        "source": "www.tokenpost.com",
-        "published": "Thu, 05 Nov 2026 12:40:34 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxY2k0aG1Sa2hiNDVrN29wU3NVUFBLSUJMd1I5NnZtNlgwQ1cwdzRmTnRHS3dDSHVvYnRnRkQ0amZlcFZETUlVZWRQUmF6RXlMa0UxeHdRVk9yYjQ?oc=5"
-      },
-      {
-        "title": "Current price of oil as of November 5, 2026 - Fortune",
-        "source": "Fortune",
-        "published": "Thu, 05 Nov 2026 12:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUblBRaXV3bHVma0s3Uk9nT2d5cXBrRWFiUEU2NnZ2VVFyV3RRVGZfOHdVTThDcXpxUzZwSkMtYlhobl9EWUFKcEhERTl0WE9SS3g5V2loeUN4UGFaRHJmV1VB?oc=5"
+        "title": "Oil bounces after its worst 3-day drop since 2021, but energy stocks aren't joining in - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "published": "Thu, 05 Nov 2026 18:49:05 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRDkwdDRZWW5hbFhMa1dmLXdyYk9XSDRiaDhLTy10WU9ZNTY3Wi1JVjQ1azNBNVVobzBLQUFDOXZ6bTBwX1lBaG56R25hd1hWOFVXWXVWZDNyTzQ1anBpNjF4cGlvZUFLM2oyYi1TZjJpVmFEbDUzOG9kWl9IakNyMnJwYkdYbldteHlBWEV1cC1UUG51QmdoNTlCeExmU2hUcUplMTZ4d013VjI1RHgzbWZ4ZmdETkRmN25wV0tQb0tTOFU1dlEzV1VqYkVNNENhY0NUQWpvYk8?oc=5"
       }
     ]
   }
