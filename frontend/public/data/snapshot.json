@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-11-06T20:57:55+00:00",
+  "generated_at": "2026-11-06T22:45:16+00:00",
   "fx": {
-    "nzd_per_usd": 1.777487,
-    "as_of": "Thu, 05 Nov 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.783506,
+    "as_of": "Fri, 06 Nov 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 99.28,
-      "latest_date": "2026-11-05",
-      "delta_1d_pct": 4.92,
-      "delta_30d_pct": -6.87,
+      "latest": 97.76,
+      "latest_date": "2026-11-06",
+      "delta_1d_pct": -0.54,
+      "delta_30d_pct": -6.29,
       "series": [
-        {
-          "date": "2025-11-05",
-          "usd": 63.52
-        },
         {
           "date": "2025-11-06",
           "usd": 63.38
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-11-05",
-          "usd": 99.28
+          "usd": 98.29
+        },
+        {
+          "date": "2026-11-06",
+          "usd": 97.76
         }
       ]
     },
     "wti": {
-      "latest": 91.35,
-      "latest_date": "2026-11-05",
-      "delta_1d_pct": 3.67,
-      "delta_30d_pct": -3.45,
+      "latest": 90.34,
+      "latest_date": "2026-11-06",
+      "delta_1d_pct": -0.2,
+      "delta_30d_pct": -2.24,
       "series": [
-        {
-          "date": "2025-11-05",
-          "usd": 59.6
-        },
         {
           "date": "2025-11-06",
           "usd": 59.43
@@ -2033,36 +2029,40 @@
         },
         {
           "date": "2026-11-05",
-          "usd": 91.35
+          "usd": 90.52
+        },
+        {
+          "date": "2026-11-06",
+          "usd": 90.34
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-11-05",
+    "as_of": "2026-11-06",
     "regular_91": {
-      "avg": 3.522,
-      "min": 3.215,
-      "max": 4.005,
-      "count": 83
+      "avg": 3.503,
+      "min": 3.276,
+      "max": 3.799,
+      "count": 71
     },
     "premium_95": {
-      "avg": 3.692,
-      "min": 3.296,
+      "avg": 3.701,
+      "min": 3.376,
       "max": 3.909,
-      "count": 54
+      "count": 41
     },
     "premium_98": {
-      "avg": 3.805,
-      "min": 3.546,
-      "max": 3.949,
-      "count": 14
+      "avg": 3.71,
+      "min": 3.579,
+      "max": 3.839,
+      "count": 5
     },
     "diesel": {
-      "avg": 3.172,
+      "avg": 3.158,
       "min": 2.856,
-      "max": 3.529,
-      "count": 93
+      "max": 3.449,
+      "count": 79
     },
     "lpg": {
       "avg": 0.0,
@@ -2070,9 +2070,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 201,
-    "observations_yesterday": 31,
-    "observations_older": 0
+    "observations_today": 130,
+    "observations_yesterday": 57,
+    "observations_older": 9
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8582,6 +8582,12 @@
   "news": {
     "nz": [
       {
+        "title": "Could Democrats' mid-term victory be good news for NZ wallets? - RNZ",
+        "source": "RNZ",
+        "published": "Thu, 05 Nov 2026 04:58:29 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbHl1V0ZvMktzZGtScXkxUWdYZkk4bTBERGFfVkxvcUNNdWpaai1UWTdaWWFkT3pFdlRKSXc5aGJhVG9pUXpXYU5XT2g2UnF6YkFaaV8wX3lpZ3lIQUtWc1lWOVZia1VmdWw0TThSWW9sOUM4Q21GUWZST0p1eVM4RXMxZ2lCc3dzTlhueUFabDg3NmZrNlNLS2lNdGp5QTNxRlZNWXZzdw?oc=5"
+      },
+      {
         "title": "US midterms send Brent oil down 9%: what it means for NZ - B2B News",
         "source": "B2B News",
         "published": "Thu, 05 Nov 2026 01:41:52 GMT",
@@ -8622,15 +8628,21 @@
         "source": "RNZ",
         "published": "Mon, 12 Oct 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNEZ2eHlOOUVQTUJZT0Z1T3FpaHpqc0lWc0xvMUlpeVJaeFFmLTlQUlhTcXdpRVQ4SVBUWVJSNFM0ZkE1UWNnS2g2eTkzeGlQS0EtOHRIQ21tWWhGREREa1ZPVkdFTE1BNVNQRThPaFF2bXpyLThlZjhiU0oyTXkzQ2NsMzFodnNtZ0kzeGszVzhGazhTRHF6OU1JWGlzbVdkZVZic2xSZjAxQQ?oc=5"
-      },
-      {
-        "title": "Fuel price hits tipping point - RNZ",
-        "source": "RNZ",
-        "published": "Wed, 07 Oct 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzdkgyU3AxbmZXWUpsd1R4R2pzVDVXNlUzSlQ1ZmFKdk9VSmRMdzNRZW1LY1ZDT3NoZWRzUDB0X1h5RlR0MFNQWU5wdlBaTjJXMFVHZ2tsMFBucEdCdnAwYVV4aDFhQXIzTi1iaHdybGZrQXFxNVN4dVMtRnV4UQ?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Oil Prices Plunge 13% in One Week as U.S. Election Results Raise Hopes of Iran Peace Deal — WTI Closes Below $91, Brent Below $99 - EnergyNow.com",
+        "source": "EnergyNow.com",
+        "published": "Fri, 06 Nov 2026 21:30:50 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZFdLYldUV3dnVGQ3dHA5aFVzeDdTeDZKMF9WQ0Fyc2Y1UHNRUjVNWVZmXzNSdElCaUdtaGRmRG5ITHNlUG9UNllVTWtzOF9ORnlxal9TUHE0V2J2YnI3UEFjMUg2TjM0WjM0V1Q4U0Q3SllxS0NHUXpRSTVMbGVKSmRObGZ2cmlKWFVXeHMtM1F2cUk4ZDdlODVmT19ucmVSWlBnWFFrR1BLSFRkb0Ntbk1TRFhMdEVETU5lbklZZmY3ajlWWTBheVRCTlQyTnJVWk5pTGtjSXl0NEtjYUFROXUzVjNzbU4t?oc=5"
+      },
+      {
+        "title": "Tankers carrying Russian diesel to the US change course - DW.com",
+        "source": "DW.com",
+        "published": "Fri, 06 Nov 2026 20:58:25 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZy1MbElnMGQtN1A4NkpXODlVZVVOcXBnemFPYkFBRWFUc2hfelBQR21iR1J3RjBUNDRhZGJSaUdEZE5LT1RRV0pIQzA3TXRsc3J1aGtCazlRdkI2aTVFQVBlX2VYWE1qSHdpNllTNm1XRjdEUjN6a3NHLTgwRXlmbUFDOVRiQ3R1X1JUUjBudFdwUdIBkgFBVV95cUxNS0l4OTB2UXZsNzR2WXdxa2RsVTU3Qm1URXVNbDNXaS1ZakduUnFXYWFONWRnWVdNT05JT3dGTDhHcU1sYjdFbHlHczFsNjlhaGhZNUxtTFNEMDhQeThaMlM5MTg2NGpMNEhBV3g4dkRqb1dMZURqbkUzT0drUjVlZElwbS1ZWnIyZWwzR09ScVRnQQ?oc=5"
+      },
       {
         "title": "Oil Futures Slide As Market Holds Out Hopes for Middle East Diplomacy - WSJ",
         "source": "WSJ",
@@ -8666,18 +8678,6 @@
         "source": "grafa.com",
         "published": "Fri, 06 Nov 2026 14:26:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVnlyUktZMWpWVzFBYmdQRmFNN29xaWNjeHNyWnhBOFd0T1ZvcWtnRzMydXc3aDVnU1piN2pONzRkY2lmbUxzNjd4ZTdCc0NDRDI4ajZqaGt3QXZtYzRPMV9VanR2ZWZ2TUdRNjNfUUtfLWwxWFU0QlIzcU56WFBmYW5iQTBmZi1iNG5NSXU3ZWxLS3JyUnJLOW9qcUJUdVlSalFrZ3p6UQ?oc=5"
-      },
-      {
-        "title": "Trump’s stillborn diesel deal: Why Russian oil tankers are not heading to the US - France 24",
-        "source": "France 24",
-        "published": "Fri, 06 Nov 2026 13:38:36 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZWJKX09US2FsbWtVd3didkVMRDl0dkhCeW5GOUlCRjYwZlAtSlVkWEx2YWNib2JraXNYNEhEQzRWT1FaUHdUNHR2MnY5M3c2aHQzOVRlVWZHZUl1QjdNblRySWhON3ZDdElSYkh2Qi1LaHF4b2R1OV9FWUZrbXJOYkJXVWJvZHNZaEtiVEY4eTBoaW1VRmFhRFdrVVRINmltcF9rbFhYNEFHNzhMTDJESWlmd2xpckdlZzM1d3Fnbm0?oc=5"
-      },
-      {
-        "title": "Current price of oil as of November 6, 2026 - Fortune",
-        "source": "Fortune",
-        "published": "Fri, 06 Nov 2026 12:45:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tLS05aEZoYnpmYVNaMjVoUTVBY05NWWkyeEdETUFvRGlLdkxlTmpQa3dKeElqbzdOZGdlWEJVYW01TU9tcUNJZktXanpzWVhXclVDc3JWRWFkSzNSV0NZb213?oc=5"
       }
     ]
   }
