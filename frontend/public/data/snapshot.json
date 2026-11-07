@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-11-07T18:41:02+00:00",
+  "generated_at": "2026-11-07T21:29:33+00:00",
   "fx": {
-    "nzd_per_usd": 1.783506,
-    "as_of": "Fri, 06 Nov 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.804267,
+    "as_of": "Sat, 07 Nov 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 97.76,
+      "latest": 98.32,
       "latest_date": "2026-11-06",
-      "delta_1d_pct": -0.54,
-      "delta_30d_pct": -6.29,
+      "delta_1d_pct": 0.03,
+      "delta_30d_pct": -5.75,
       "series": [
-        {
-          "date": "2025-11-06",
-          "usd": 63.38
-        },
         {
           "date": "2025-11-07",
           "usd": 63.63
@@ -1017,20 +1013,16 @@
         },
         {
           "date": "2026-11-06",
-          "usd": 97.76
+          "usd": 98.32
         }
       ]
     },
     "wti": {
-      "latest": 90.34,
+      "latest": 90.83,
       "latest_date": "2026-11-06",
-      "delta_1d_pct": -0.2,
-      "delta_30d_pct": -2.24,
+      "delta_1d_pct": 0.34,
+      "delta_30d_pct": -1.71,
       "series": [
-        {
-          "date": "2025-11-06",
-          "usd": 59.43
-        },
         {
           "date": "2025-11-07",
           "usd": 59.75
@@ -2033,36 +2025,36 @@
         },
         {
           "date": "2026-11-06",
-          "usd": 90.34
+          "usd": 90.83
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-11-06",
+    "as_of": "2026-11-07",
     "regular_91": {
-      "avg": 3.503,
+      "avg": 3.487,
       "min": 3.276,
-      "max": 3.799,
-      "count": 71
+      "max": 3.689,
+      "count": 61
     },
     "premium_95": {
-      "avg": 3.701,
+      "avg": 3.684,
       "min": 3.376,
       "max": 3.909,
-      "count": 41
+      "count": 30
     },
     "premium_98": {
-      "avg": 3.71,
+      "avg": 3.705,
       "min": 3.579,
-      "max": 3.839,
-      "count": 5
+      "max": 3.819,
+      "count": 6
     },
     "diesel": {
-      "avg": 3.158,
+      "avg": 3.163,
       "min": 2.856,
       "max": 3.449,
-      "count": 79
+      "count": 75
     },
     "lpg": {
       "avg": 0.0,
@@ -2070,9 +2062,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 130,
-    "observations_yesterday": 57,
-    "observations_older": 9
+    "observations_today": 84,
+    "observations_yesterday": 51,
+    "observations_older": 37
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8635,7 +8627,13 @@
         "title": "When Geopolitics Overwhelms Seasonality: A Brent Crude Trading Lesson - Barchart.com",
         "source": "Barchart.com",
         "published": "Sat, 07 Nov 2026 15:45:35 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUDl0Z3FVZ25BZTU0WVRFWWlyN01nTFZndXRjMWgtamU5M2F4RVp3V2V5cHl6bURfbVBDVXJpTkppZWxSY1NaMEJoRE5PS3c5Rk1sb1BHUFl4WWVOdUlPOGtsRVZMNHFGWGloSW9EU29XakJ4RDBWVmxmcDNxODRUc1VNSkZxczJKcFY3OHdEaWFkNUdxMVpha0hSMkQxZDdJTlJQQVozZ1poSVJMTTB1UUNR?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaFJlRENyWVdjSWZ6Y0trMUkyMnhNbnZrNlhOUkp1NU1xRXNPOTFfbU1FYkE2akhiVmJGVFl5eTBreXh0LWk1bDZPMDdGV0ZrQjRUajZDaW5pVWhpWDFtQTNUYmUzVUxqeVViQXdMSjFCM3AtSlI1THFUd1JzbVd0M0d2dHAyLUxCa0hZUnF0MVc4bG5aTU54UXVuSWIzSGF5NmxHV0tlZ1hmNHN4UEQ4QlFn?oc=5"
+      },
+      {
+        "title": "TEMPORARY DEAL - US Eases Russia Oil Sanctions to Tame Price Surge, Riling European Allies - EnergyNow",
+        "source": "EnergyNow",
+        "published": "Sat, 07 Nov 2026 13:40:04 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZEwteXNCcjlLa1dveThnYmJJMnFFdWNySXl3T19HZThyeUw1Rk52ay1Vak55WFhYNmp4Mk4tbVBjMDBDdUVEVFR0dzFmTmc4MjFKY0NjQXo1eFBicmptSF8tR1NLRUlYQTVjTFZ3UjJSUTdxNExiYUdLNy1tX2pHQS1aS19UUTdVdXF3c3RiU0JmdU9nR1NNb0FycmlxYlZsU2Jhck5WeklVWmRQQjlnT2o0ZmJDQlVv?oc=5"
       },
       {
         "title": "Washington made Moscow a pariah. Now a tanker of Russian diesel is headed for US shores - CNN",
@@ -8656,6 +8654,12 @@
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT0FOREZSR1ZObW5MUjhMY1RvN0o2Mm1CMlMzM1RhTUs4Mlpyb2dKNG5uc3VBb096X193WEFGSl9BTFE2TFRfbFlSaHA0a0xHdFJjU3pkSjRWTmFLOXdEeDJXTjRmQnppaEVlWVBraFA5TjVadk9peVNocHZzZ0hhUWtxanlCT2NZeTB3Rm5WQWIxWmhiMUdpOEZHY2xMZw?oc=5"
       },
       {
+        "title": "US-Russia diesel deal touted by Trump falters - Le Monde.fr",
+        "source": "Le Monde.fr",
+        "published": "Sat, 07 Nov 2026 03:11:38 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbjQyMXpSeFpEbmxGV294TUhGOU5NU0ktb1lWNjZtaVJFYkoyQmJNand4NUg0TkRUNHJXbi1xLWZxSWNSem1VOFFaX2xNT0s3eERQdHJ0X3ZmdVppZHplVW5waDRpbWFtaDZnUnAzZ3ktQlBmX2FwTlFmUUVCZFVnNm9pWVBERGtNdFBCMDZicGZtdXExNEZ4QlFidlkyYmtVemNmQlZYdkUzcVBkdWpqOTFsR3F0RjRJYlVV?oc=5"
+      },
+      {
         "title": "Brent crude caps biggest weekly drop since pandemic as war premium begins to unwind (USO:NYSEARCA) - Seeking Alpha",
         "source": "Seeking Alpha",
         "published": "Sat, 07 Nov 2026 00:57:48 GMT",
@@ -8666,18 +8670,6 @@
         "source": "Oil & Gas Journal",
         "published": "Fri, 06 Nov 2026 23:29:28 GMT",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRXlkWkZDQWhUblg3c0VWaHN4Mmp4MjgwMGFmRWRieWp3VnNHR2t1MzlSa0xsRExCVDc0WFdXOGduekR5RmlsbEFuOGFJWW5VX3hOOW1ELVY4SjhlMTZjSkRsRTFFeURyUVhaNkcxajNMalpQbEtKSHk1Y3BEYmU4em5wV05GVFZ4RlFWQUhiTjdzQmh3Mkg4UWZ6SGNYNjlMcTBxOUh1Q21VemVZQWRRcUZmdVY5aG90eGhBSkJiZmNQQTdRSXJ1UDBSU2c?oc=5"
-      },
-      {
-        "title": "Oil Prices Plunge 13% in One Week as U.S. Election Results Raise Hopes of Iran Peace Deal — WTI Closes Below $91, Brent Below $99 - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Fri, 06 Nov 2026 22:03:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZFdLYldUV3dnVGQ3dHA5aFVzeDdTeDZKMF9WQ0Fyc2Y1UHNRUjVNWVZmXzNSdElCaUdtaGRmRG5ITHNlUG9UNllVTWtzOF9ORnlxal9TUHE0V2J2YnI3UEFjMUg2TjM0WjM0V1Q4U0Q3SllxS0NHUXpRSTVMbGVKSmRObGZ2cmlKWFVXeHMtM1F2cUk4ZDdlODVmT19ucmVSWlBnWFFrR1BLSFRkb0Ntbk1TRFhMdEVETU5lbklZZmY3ajlWWTBheVRCTlQyTnJVWk5pTGtjSXl0NEtjYUFROXUzVjNzbU4t?oc=5"
-      },
-      {
-        "title": "Tankers carrying Russian diesel to the US change course - DW.com",
-        "source": "DW.com",
-        "published": "Fri, 06 Nov 2026 21:31:21 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZy1MbElnMGQtN1A4NkpXODlVZVVOcXBnemFPYkFBRWFUc2hfelBQR21iR1J3RjBUNDRhZGJSaUdEZE5LT1RRV0pIQzA3TXRsc3J1aGtCazlRdkI2aTVFQVBlX2VYWE1qSHdpNllTNm1XRjdEUjN6a3NHLTgwRXlmbUFDOVRiQ3R1X1JUUjBudFdwUdIBkgFBVV95cUxNS0l4OTB2UXZsNzR2WXdxa2RsVTU3Qm1URXVNbDNXaS1ZakduUnFXYWFONWRnWVdNT05JT3dGTDhHcU1sYjdFbHlHczFsNjlhaGhZNUxtTFNEMDhQeThaMlM5MTg2NGpMNEhBV3g4dkRqb1dMZURqbkUzT0drUjVlZElwbS1ZWnIyZWwzR09ScVRnQQ?oc=5"
       }
     ]
   }
