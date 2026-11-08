@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T07:59:33+00:00",
+  "generated_at": "2026-11-08T15:01:42+00:00",
   "fx": {
     "nzd_per_usd": 1.804267,
     "as_of": "Sat, 07 Nov 2026 00:02:31 +0000"
@@ -8624,28 +8624,16 @@
     ],
     "global": [
       {
+        "title": "WTI oil price outlook: After a 17.5% slide, can buyers reclaim $92.53? - investingLive",
+        "source": "investingLive",
+        "published": "Sun, 08 Nov 2026 10:43:36 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRmhqWFhscVlUNzF0OVRoNTVEcG81c3A4dDl6UVVidmhKel9OTEN5VWI0SV90U3RjRnNLZ2lVNWoxQjlSRFFDTWVyVHJIYmEyNVc1WkoxZnd4TEZPRlg1elFzeTF4U2h1ZEprTVl5Q053eGY3MHZHVzZNb2ZnMXc0c2w0S01VWTJiUngwaUx6aDJZMnhreE5uSmVKRmVLak5iTVE2d2RZMA?oc=5"
+      },
+      {
         "title": "Brent crude drops 16% in a week to $98 as traders bet on a US-Iran deal - Startup Fortune",
         "source": "Startup Fortune",
         "published": "Sun, 08 Nov 2026 06:21:28 GMT",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaVFHRFFpVnk0bVdpNkZYbWJqSEUwMVVtZ3ZjcjJ2di01QzVicnkzV2JaWVEyalAxZFRzMEhHZ1RmdzFPX1UySi1oOTFTaGRZdzh4OUVtZUUzbUE2aDNCdFVfS0o4Y3BVUEpIYWtpc1lkQ1N1YlUtcTdSOThlR2FOeGVleFViek55U0VOZmJGVjhHU08wQmlsakRiS2dmZw?oc=5"
-      },
-      {
-        "title": "Brent oil price experiences largest weekly drop since 2020 - 巴士的報",
-        "source": "巴士的報",
-        "published": "Sun, 08 Nov 2026 04:17:13 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeHpwTTJCTlRsUHR3V3BtNmRuYkhNcVRHeExJdUF3NmRsLWdOTndxaW9XbkRxOWNURzNRT1ZsUm9xb1FNakxna1lIS0dNWWR1WjNLLV9sZEVDZWp1NjVpd1dQVzFtVHdFQ3pqbzVsOGFnSEl0VFk0YUhDV1NVSmJIQTdFeUhrbF9GVUxzeFZ2N0NtMDVHaF9ia0QwQ21iQzJpZm1scFdCT1VNOExIRG1z?oc=5"
-      },
-      {
-        "title": "Brent Crude's One-Week Collapse Sets Record Dating to 1988 as Hedge Funds Slash $6.6 Billion in Positions Before Election - BigGo Finance",
-        "source": "BigGo Finance",
-        "published": "Sun, 08 Nov 2026 02:35:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ucTJDa1JhbmR2T0Y0dEN3UUd6RXJDRWxsdEZuUFo1S0U4QzJEXzhEOFZONGVzeE9INWZ4Q2RsMGl3WE55NEdFRHpVb3lnUEhFVm1ZWjdDMHl6YnZVVS1Id05fTFl4M3lnejRmTFZyU2tzQVhWV1E?oc=5"
-      },
-      {
-        "title": "Wars May Spur Faster Electrification - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Sun, 08 Nov 2026 00:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbGQ3bEgzVHBqRER5MThfak1QRXVXWERWOGJQRElVZlo4LXdQZkhYZDNnd2ZKYnZnM1ZTbGRucTZaMTZlMWd6bTY0ZnAxWHpfdnB3UnBuV1hScHNEMUFLRnhBVm8xZlZqWEZncTZaMDl1Vjg0NkRyTldnY2VmRU4xQ1lsWjQ3ejd5WjhxY9IBkgFBVV95cUxQaDZueWFfN041R3lZVU82bGhFeVJ4STNlRC1lNGtRMkJwMkh4WUZvVkFBYzV6N3U3cEpsaEk1TVBRUDNPRnh4R0t2MEtOcm9RbVAwbGlXdjZDUWlZV0NwUHQ1eUlZaHNTTmNiN09ZWnRNOHJZOXlfN0JBY2dxNzlMWnpQTDdqNGFxTUpqMmFWSUJidw?oc=5"
       },
       {
         "title": "When Geopolitics Overwhelms Seasonality: A Brent Crude Trading Lesson - Barchart.com",
@@ -8670,6 +8658,18 @@
         "source": "Reuters",
         "published": "Sat, 07 Nov 2026 03:44:45 GMT",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0loTjAtWUlkbnpIR2huZE8zWWkxZHZIZlprNlQ5Z3BSaGUxcnE1ZDdqbXFuOHFpQVdrbzEyNnRUSGR4ZDh3SEpqQkpqX2NZa0JlZjEyZlp3RElJMFlhVDRLLTZ3MzRuV2NuTXR3SjhQejExMVR4eE10YThVcmJYaTdNYmt1SjJfeG10NlJRRFB1SFNQUlRSanFrYzBFUjlZNjBGMjhxSi1MZG1sd19kWGU0Ykt5bmR4by1B?oc=5"
+      },
+      {
+        "title": "US-Russia diesel deal touted by Trump falters - Le Monde.fr",
+        "source": "Le Monde.fr",
+        "published": "Sat, 07 Nov 2026 03:11:38 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbjQyMXpSeFpEbmxGV294TUhGOU5NU0ktb1lWNjZtaVJFYkoyQmJNand4NUg0TkRUNHJXbi1xLWZxSWNSem1VOFFaX2xNT0s3eERQdHJ0X3ZmdVppZHplVW5waDRpbWFtaDZnUnAzZ3ktQlBmX2FwTlFmUUVCZFVnNm9pWVBERGtNdFBCMDZicGZtdXExNEZ4QlFidlkyYmtVemNmQlZYdkUzcVBkdWpqOTFsR3F0RjRJYlVV?oc=5"
+      },
+      {
+        "title": "Brent crude caps biggest weekly drop since pandemic as war premium begins to unwind (USO:NYSEARCA) - Seeking Alpha",
+        "source": "Seeking Alpha",
+        "published": "Sat, 07 Nov 2026 00:57:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVjk5WktlY1YtOGN0N3JFYzBzaDhKNzlwYkY1YjJIamE1RWxNU3gxc2NPbHAxSVdNX19pYmkxQ2RjQ1NMWnhSV3BYRGZPejY1N1loY21CWDBOZTVNbnk2cmlBVjBOVlJHMFFUcVp5QlVWSWxIbGhBeDh5cXhPU3ZfZmgxOUF3Qm9FUk9UdzdmbnZSS3FQTEZGYnFOOURHcEx4V1V5YW52WmVDc3hFUnNCV2g4ZGg3V1Iyem5RaDBB?oc=5"
       }
     ]
   }
