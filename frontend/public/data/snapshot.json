@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-08T19:34:35+00:00",
+  "generated_at": "2026-11-08T21:44:07+00:00",
   "fx": {
-    "nzd_per_usd": 1.804267,
-    "as_of": "Sat, 07 Nov 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.805034,
+    "as_of": "Sun, 08 Nov 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
@@ -11,10 +11,6 @@
       "delta_1d_pct": 0.03,
       "delta_30d_pct": -5.75,
       "series": [
-        {
-          "date": "2025-11-07",
-          "usd": 63.63
-        },
         {
           "date": "2025-11-10",
           "usd": 64.06
@@ -1024,10 +1020,6 @@
       "delta_30d_pct": -1.71,
       "series": [
         {
-          "date": "2025-11-07",
-          "usd": 59.75
-        },
-        {
           "date": "2025-11-10",
           "usd": 60.13
         },
@@ -2031,30 +2023,30 @@
     }
   },
   "nz_retail": {
-    "as_of": "2026-11-07",
+    "as_of": "2026-11-08",
     "regular_91": {
-      "avg": 3.487,
+      "avg": 3.462,
       "min": 3.276,
-      "max": 3.689,
-      "count": 61
+      "max": 3.677,
+      "count": 77
     },
     "premium_95": {
-      "avg": 3.684,
+      "avg": 3.645,
       "min": 3.376,
-      "max": 3.909,
-      "count": 30
+      "max": 3.827,
+      "count": 34
     },
     "premium_98": {
-      "avg": 3.705,
+      "avg": 3.732,
       "min": 3.579,
-      "max": 3.819,
-      "count": 6
+      "max": 4.079,
+      "count": 9
     },
     "diesel": {
-      "avg": 3.163,
+      "avg": 3.146,
       "min": 2.856,
-      "max": 3.449,
-      "count": 75
+      "max": 3.93,
+      "count": 88
     },
     "lpg": {
       "avg": 0.0,
@@ -2062,9 +2054,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 84,
-    "observations_yesterday": 51,
-    "observations_older": 37
+    "observations_today": 164,
+    "observations_yesterday": 8,
+    "observations_older": 36
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8586,10 +8578,10 @@
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbHl1V0ZvMktzZGtScXkxUWdYZkk4bTBERGFfVkxvcUNNdWpaai1UWTdaWWFkT3pFdlRKSXc5aGJhVG9pUXpXYU5XT2g2UnF6YkFaaV8wX3lpZ3lIQUtWc1lWOVZia1VmdWw0TThSWW9sOUM4Q21GUWZST0p1eVM4RXMxZ2lCc3dzTlhueUFabDg3NmZrNlNLS2lNdGp5QTNxRlZNWXZzdw?oc=5"
       },
       {
-        "title": "What are the main issues and policies in New Zealand's election? - The Straits Times",
-        "source": "The Straits Times",
-        "published": "Wed, 04 Nov 2026 19:02:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX2VxNjQxUzlRVmZ4N3NSSTZfUTRicXJQR1JHNUkza2lvZHpJamlRTm5pcTJYSDMyNGdYbC1qRU5GN2pCM1lUNURRcndmNzJtVUgtQXlGMmxIQ2lKWlRPRk1NTDJwNU1WZEpOalNNX0Q0Z0RmN3JUZVFPWXNqbk1kLTFtbGZHSXFTdmV1SW5oa1k2ZU5BZkJmN1lHT2Y?oc=5"
+        "title": "What are the main issues and policies in New Zealand's election? - Reuters",
+        "source": "Reuters",
+        "published": "Wed, 04 Nov 2026 19:34:33 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMEhEY25qbS1iYk5xY0ZkdWIwNThXNkxHRWs4WWY0REh3cm1wS0RBTUttT1I0SzNWbXRXeThmOE5uZS1fbjVjRTJOMVNEUkVzLTltejU5Q2hjVERoMDRWclRnUjJhcmxudlU0ZFB2c3YtUEN3bmFxR0JZdktPVXluWDdBS254cEwtSTNQbEhzdkpEN0JwZ1p0V2MxZXpnS1F4SVpqdmI3RWRDUQ?oc=5"
       },
       {
         "title": "Petrol prices fuel inflation - so is an interest rate rise the right move? - 1News",
@@ -8624,22 +8616,28 @@
     ],
     "global": [
       {
-        "title": "Oil Futures Slide As Market Holds Out Hopes for Middle East Diplomacy - WSJ",
-        "source": "WSJ",
-        "published": "Sun, 08 Nov 2026 19:16:44 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXo3c0pXbll5VVJ6eUlRbTJQZ0xLSnFISGlnVGRReWlBTnJYT2d5RVd5cTZmTnFkS0VoZ3h1cVNGOEhOMHUtMUlRU0hPMDhhTmtINTNHdC1JeVRlTExaSklrRWNvaHpMSERXOF9VRlRZTGh4YmZ4aWg3a2ctdlI1bkVsdUY4X0RDMElsTHpaOFN4VVE4YzBwRzVHRk0yamVxM2dJMmdVYlNSdVZoaGR6akhlUGU5WTlx?oc=5"
+        "title": "The Global Race to Harness Solar Power From Space - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Sun, 08 Nov 2026 20:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRUZKTlJ0TWdhZzVYRm9LYnN2OXVPMU1mUzJyekpkc3ZZN0FJdXcyOVBwMVM5RU5BSEs4dkhpSlZ0R0FuQ0xkZ2dyUE0zYTZhdE5OQ284UGVIbksyM08xTms0VG9QcU94RWQzUEdIVzVHQTRWMzZNYkFXVGhFWkl5ZklmMlJkSFlFNEEzNlFjZmZzMzVCOVh0UFgyQ21pQdIBowFBVV95cUxNMFhWSzJNbnhLZm9VVll0dHJTejdpMENfbnlLWWprNDY1d2NaOUFoRkxZRUtORnAzMERxb1g5dmJ0QXl0YUVER2RhYzcwdkV5ampNSXo4MHU4blBOdExRaEFRMS1ndjR6QnhVMl9EendRSERaUk9xX2ppZ0dXTkhJTWplQkh3aVVod2hJT2daX1JrekE2SzZHMlhWRUhMdEFYS1ZV?oc=5"
       },
       {
-        "title": "How Big Oil Became the AI Industry's Favorite Customer - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Sun, 08 Nov 2026 18:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZFhFcUpwb3dwR2RCd3VydnVHUnVpSDM2WFhVa0NpWXEzaWJMY0FILVEyeF9vUldRMmdQT2JLbC05NFVjRElxcUVmRU9ZWjFnaS1qaXppbVB2TmU3bkVQUm5TYjJia3BDREs2YVZoSi02Z3VLTV9ncHpDcjdPQlUxb21Kb1RpR1BqWDJ0Um0wMi1OVm1QY29iWFVxMHAzNWZKRlhR0gGoAUFVX3lxTE9GeG1zcG5FMEJYcWZfNkRCZWRxQWpQVzVtbE9wSUlxY0tScHBqS09tQmpDbHdFeFNqSTVpdk9SbVZhMW9DQkNEVVp4OFY0N2RHVllVSWVNWXdKdl8zVnVjWVlILTlpMFBtV2w1a2pfOGQ0cWF2OVlldXRBZ0Joa3pSdU13WWZuOFhXeVMxNDdoSmlIYU8zSFhOVEp6cm1hLTh4dU5pb0RaRQ?oc=5"
+        "title": "World's largest economy slaps $20m bounty on Iran's nuclear secrets despite Trump's U.S. 'obliteration' claim as Africa faces price shocks - Business Insider Africa",
+        "source": "Business Insider Africa",
+        "published": "Sun, 08 Nov 2026 18:47:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUDNfT0o5R0ZRTExlRTRqTklka1BNbFJsWVkwdElLZDJDVlRudkpZWnQtYy1sOEFzZFc5MUZfTkJEX0Z3Wm13N2k3b1pHSFFjQUxIYjZhdFgtVGdXMzlFbUdHN2dmSllCcV9yRWdWeHFDYWNKeDFGNWwzRmJlR3I4QnVESHFIOW9lQ1NkbEtwTTQ1QU1LUUlnNk1tb0xOVElyOHVFV014NWlhR3JYOVE4QmV6dnNtZGpUcGM2TEk5MUprX2tUa1hlOFhxWlZOV2tRdTV4cGVJdw?oc=5"
       },
       {
         "title": "WTI oil price outlook: After a 17.5% slide, can buyers reclaim $92.53? - investingLive",
         "source": "investingLive",
         "published": "Sun, 08 Nov 2026 10:43:36 GMT",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRmhqWFhscVlUNzF0OVRoNTVEcG81c3A4dDl6UVVidmhKel9OTEN5VWI0SV90U3RjRnNLZ2lVNWoxQjlSRFFDTWVyVHJIYmEyNVc1WkoxZnd4TEZPRlg1elFzeTF4U2h1ZEprTVl5Q053eGY3MHZHVzZNb2ZnMXc0c2w0S01VWTJiUngwaUx6aDJZMnhreE5uSmVKRmVLak5iTVE2d2RZMA?oc=5"
+      },
+      {
+        "title": "Brent crude drops 16% in a week to $98 as traders bet on a US-Iran deal - Startup Fortune",
+        "source": "Startup Fortune",
+        "published": "Sun, 08 Nov 2026 06:21:28 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaVFHRFFpVnk0bVdpNkZYbWJqSEUwMVVtZ3ZjcjJ2di01QzVicnkzV2JaWVEyalAxZFRzMEhHZ1RmdzFPX1UySi1oOTFTaGRZdzh4OUVtZUUzbUE2aDNCdFVfS0o4Y3BVUEpIYWtpc1lkQ1N1YlUtcTdSOThlR2FOeGVleFViek55U0VOZmJGVjhHU08wQmlsakRiS2dmZw?oc=5"
       },
       {
         "title": "When Geopolitics Overwhelms Seasonality: A Brent Crude Trading Lesson - Barchart.com",
@@ -8664,12 +8662,6 @@
         "source": "Reuters",
         "published": "Sat, 07 Nov 2026 03:44:45 GMT",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0loTjAtWUlkbnpIR2huZE8zWWkxZHZIZlprNlQ5Z3BSaGUxcnE1ZDdqbXFuOHFpQVdrbzEyNnRUSGR4ZDh3SEpqQkpqX2NZa0JlZjEyZlp3RElJMFlhVDRLLTZ3MzRuV2NuTXR3SjhQejExMVR4eE10YThVcmJYaTdNYmt1SjJfeG10NlJRRFB1SFNQUlRSanFrYzBFUjlZNjBGMjhxSi1MZG1sd19kWGU0Ykt5bmR4by1B?oc=5"
-      },
-      {
-        "title": "US-Russia diesel deal touted by Trump falters - Le Monde.fr",
-        "source": "Le Monde.fr",
-        "published": "Sat, 07 Nov 2026 03:11:38 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbjQyMXpSeFpEbmxGV294TUhGOU5NU0ktb1lWNjZtaVJFYkoyQmJNand4NUg0TkRUNHJXbi1xLWZxSWNSem1VOFFaX2xNT0s3eERQdHJ0X3ZmdVppZHplVW5waDRpbWFtaDZnUnAzZ3ktQlBmX2FwTlFmUUVCZFVnNm9pWVBERGtNdFBCMDZicGZtdXExNEZ4QlFidlkyYmtVemNmQlZYdkUzcVBkdWpqOTFsR3F0RjRJYlVV?oc=5"
       }
     ]
   }
