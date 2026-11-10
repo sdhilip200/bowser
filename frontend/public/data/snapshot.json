@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-09T21:31:13+00:00",
+  "generated_at": "2026-11-10T01:13:25+00:00",
   "fx": {
-    "nzd_per_usd": 1.805034,
-    "as_of": "Sun, 08 Nov 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.777472,
+    "as_of": "Tue, 10 Nov 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 98.32,
-      "latest_date": "2026-11-06",
-      "delta_1d_pct": 0.03,
-      "delta_30d_pct": -5.75,
+      "latest": 92.34,
+      "latest_date": "2026-11-10",
+      "delta_1d_pct": -6.08,
+      "delta_30d_pct": -12.29,
       "series": [
         {
           "date": "2025-11-10",
@@ -1010,14 +1010,18 @@
         {
           "date": "2026-11-06",
           "usd": 98.32
+        },
+        {
+          "date": "2026-11-10",
+          "usd": 92.34
         }
       ]
     },
     "wti": {
-      "latest": 90.83,
-      "latest_date": "2026-11-06",
-      "delta_1d_pct": 0.34,
-      "delta_30d_pct": -1.71,
+      "latest": 86.59,
+      "latest_date": "2026-11-10",
+      "delta_1d_pct": -4.67,
+      "delta_30d_pct": -6.49,
       "series": [
         {
           "date": "2025-11-10",
@@ -2018,45 +2022,49 @@
         {
           "date": "2026-11-06",
           "usd": 90.83
+        },
+        {
+          "date": "2026-11-10",
+          "usd": 86.59
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-11-08",
+    "as_of": "2026-11-10",
     "regular_91": {
-      "avg": 3.462,
-      "min": 3.276,
-      "max": 3.677,
-      "count": 77
+      "avg": 3.439,
+      "min": 3.066,
+      "max": 3.799,
+      "count": 87
     },
     "premium_95": {
-      "avg": 3.645,
-      "min": 3.376,
-      "max": 3.827,
-      "count": 34
+      "avg": 3.615,
+      "min": 3.226,
+      "max": 3.847,
+      "count": 48
     },
     "premium_98": {
-      "avg": 3.732,
-      "min": 3.579,
-      "max": 4.079,
-      "count": 9
+      "avg": 3.711,
+      "min": 3.569,
+      "max": 3.999,
+      "count": 12
     },
     "diesel": {
-      "avg": 3.146,
-      "min": 2.856,
-      "max": 3.93,
-      "count": 88
+      "avg": 3.122,
+      "min": 2.736,
+      "max": 3.449,
+      "count": 95
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 1.849,
+      "min": 1.849,
+      "max": 1.849,
+      "count": 1
     },
-    "observations_today": 164,
-    "observations_yesterday": 8,
-    "observations_older": 36
+    "observations_today": 204,
+    "observations_yesterday": 30,
+    "observations_older": 9
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8616,52 +8624,52 @@
     ],
     "global": [
       {
+        "title": "Oil Extends Slide, Brent Sheds More Than US$7 After Trump Signals Restraint - BusinessToday Malaysia",
+        "source": "BusinessToday Malaysia",
+        "published": "Tue, 10 Nov 2026 01:05:28 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTk1fc0g0QlhCUVZTUTN2cjE2c1NhYnVaN1lNVHpHXzM5LTRyR2ktZ2pVOGt0cUdTODUtYjg0TFZncWFMMlhfbGJOZ0N1dEVVUmFpZ2hfcUhLeVpOZ1VFNGhabXZRMFUyRlNvOTAxQS11Y2VYMExLMlNLVjZISDQ5cVhhTXVGYVF0bVpOT2JiWlo2QjNpMHU4SG04Q0NacFFZOGRwb0tSeGZJbUxabzVwSnVfekxlOUVHOXc?oc=5"
+      },
+      {
+        "title": "Brent losses top US$7 a barrel after November 9 settlement - Nation Thailand",
+        "source": "Nation Thailand",
+        "published": "Tue, 10 Nov 2026 00:12:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DQ21QTDJTZkVqeDliYW8wSkZRdTI1LVhmdEwwdmFadkxSbGY1QnAzNmloV2dfMUp5UkFNNmVmUkR0bmo5OXlVaFJ5blBGelU0RVFMN2tTRzdEQkd0cWNr?oc=5"
+      },
+      {
+        "title": "China to Spend $940B on Energy Transition in 2026 - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Tue, 10 Nov 2026 00:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRGpNUlVMcTVHLS1MbEl6blo2VGdyS3l0Q0tHTEhUNk9oS0NOSDR5QWM4My12dEQ2MEtMaFlXQzhXeERfdXgwOE1DMjlMdHU4MWg1M1FROGxZczhoME52QzMzb1NXLXJWdmcwWjB1VGs4NzRBT1NwQmN0REhrVU5LeGloMmY4d0hVb05iZzF4NU1SaHNYNnF5MzllR3I0T2dsWUo1cGdDdkRWZUh1b3JR0gG0AUFVX3lxTE1oZzJuVS1WcEZBYkJROVlWNWdTVUJ4NkdrdXpBYjNLV0Z4ajlKeXdaYVdlVTlSU0FBWGk5anQ4QXkxaUUwM2JPQy1WWVFMS3RDVGU0U0daTU1xZEw0UllzOEk5N2ZNUml4WTBPZXZWUFZMZ1Zid3NTZHp4Z1dVV21sVXVuMExJNjk3QVRaUGhPejRpUkUxSU1tajJrNXZlakFqX29ObnRGcGpsRHJnQlN3WHo4TA?oc=5"
+      },
+      {
+        "title": "US, Iran Said to Accept 3.67% Uranium Enrichment Cap; Brent Crude Falls Below $93 to 8-Month Low - BigGo Finance",
+        "source": "BigGo Finance",
+        "published": "Mon, 09 Nov 2026 23:55:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mQ3Vrb05SQjNFSDMxX1hZelVveFJBWHBTUkR0RHpua3l5eDljbVRZUE9iY1pFU3hISDVvNjNKV21ZRWo0bDFvcllkUXlfQW8tSHBSSVdFa2w0SWRDOHdFb3RhVlJ3N3FYNFdxeUFCaFQ1WmVzaUE?oc=5"
+      },
+      {
+        "title": "Oil Just Fell to $93. A 72-Year-Old Widow Who Heats With Oil Is Still Paying $6 a Gallon. Here's What the Slide Is Worth to Her This Winter - 24/7 Wall St.",
+        "source": "24/7 Wall St.",
+        "published": "Mon, 09 Nov 2026 21:52:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPZmV2dlRKR245UDJsVDhjRUFqUTg4bS1UWURhMEtTMHZHREE2bURvSHM5bUdZSlFoMWFGZlFrU0xTZUIzYVVOX1hHNWdicFNDcnFBYzdzMmNYd1ByOVNGQWpkdTdSZWFHQXNpTklqSXhHaHhJYkxsSDVfTUNvWF9wb2FLXzFpaU1POUpNTEFBem1CQUNxVHMtUkxac1RSQzF6azgzb1lhUmZVSjMxc3FNRHhzN0s4ZzJ6eEhtdEhrdms1Q2tHX1FnRHFudXFtcUgtcTVlMEJFYTBwVk1sX3c1NDl1a1hVdG1zNkYzenlhejZEZmxCbnZ3YUVNYUt6NzVfY3dxdWdqVEs0UQ?oc=5"
+      },
+      {
+        "title": "Oil Futures Slide as Trump Says New Strikes on Iran Unlikely - WSJ",
+        "source": "WSJ",
+        "published": "Mon, 09 Nov 2026 21:29:59 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFNfSjlGZWFOd01laGhIaG9idVhwaUxEOXctN1hkb1E2Qkd6YXEyaE5DUHFzMEdoT3dqWXNQbkxScXRFb3o2aGU4SEpWdnU5SGdKQUJXTUFMdS1kcHJKVnJPVnBUZk1XUjd6NXRLcnJwSGhXMFZVa2hqQ1VvVWkzM2FxT2tCNlhGN1VYYjgwRTdiY2Z6SElpNmtfMXRmTjF0RW5fX0JVVWhuZVlsX1lWdDBMU1g1ZzBFeXlGT2tZbUNyQjlLUFE?oc=5"
+      },
+      {
+        "title": "The Gasoline Tax Yo-Yo and the International Market for Crude Oil - American Enterprise Institute - AEI",
+        "source": "American Enterprise Institute - AEI",
+        "published": "Mon, 09 Nov 2026 21:15:42 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQW0wNkp0NERvcTQ0U0RuWGNXdHpYUWUxSG5mdVVaYzFPdWJ5aU9FUTFZc2xLTTcyMXVpS3NETjdEQzk3QUR2dGU4cHVGdThJaG9ZbVhsVWlQcEdhRWs0LXVIdndmOEVMMk1uZ1BNby1HVTdhdmRZV1ZCZ3JTQWk3SElGMThKcHN1Y2Z3SnhSSUtPSjc5Rm9uTGJlbEdGREpRMnJUTg?oc=5"
+      },
+      {
         "title": "Brent Crashes 7% on Iran Peace Hopes Despite Fresh Saudi Pipeline Attack - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Mon, 09 Nov 2026 20:10:55 GMT",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMVkwSk8xdlE0dTF6dGk0Rnp3elNCYkdJV1ZLb2otcnlSa3JfcWhyV1Z0Y1dCeHcxUUxpZzdXYlBRUEQwZTRqdU9GZ21XZ3JXMmVfRzBFbWk0OHJXWmhVc0cybnp1eWZDTTB1S09PLUZ2VjQ5elFhWXVnajlJWEhsa2FpYXkyUlVPSDFtNHRVaTBmcFg2UUU3UEpfTEctWkgxMjIxaEhodW05akVFdmFRTEVuV00zZ0RGaU9xRThZWTVVMGRuVVHSAcsBQVVfeXFMTy03cmFMdmxqNkJ5NG9HM0dDVDBWNzBmd00yWkg5enA2a09Cek16bnYxRXdHQ00tWEhUYTBUUVVYWUxpTUo2ZE5MQzYtLTMtb1N1cGRjN2w4UnNoT3ZieElqS1VYZGFxSUxLbm1yNXpJd3ZLYUZJQ0gtRUJybWdVTWloTmdPMnlEdlFVWlBQdkJ3MjVfSzdtRTU2d0JNV21VQWJobzJTM2NKUkJ4RG4zRUhqeWNfMk5YQ25NM1hBRmoxcF80MnFKTDZBMmM?oc=5"
-      },
-      {
-        "title": "Global energy prices extend losses as Brent crude drops nearly 5% on hopes of US-Iran deal - Anadolu Ajansı",
-        "source": "Anadolu Ajansı",
-        "published": "Mon, 09 Nov 2026 19:42:02 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVjZwYXViLXJ6N2g3TTZkcUNBM3N2Nm5XaF9veFJmNDF2dUZ4U1NzT2lmTDBxV1BaZXRTOU05Z0VRelVpY29xbXRseF9qVmh0SmpGdnByZXFpbU5tMXVtSnl4U1ExZE92Z2UxWGxzZGlwOWNzaUFPWG9ETTVUTUlEcUtPYVpIUnZkdFVvQUpoUENYZWFEbWJqWXFnRU41emNnandhWVA5T3RlYVdiWWRXZ0VmbWczVWd4MXVUX2MwTzJ4a0FEVzhaa1N3?oc=5"
-      },
-      {
-        "title": "Long Run Outlook for World Crude Oil Prices - American Enterprise Institute - AEI",
-        "source": "American Enterprise Institute - AEI",
-        "published": "Mon, 09 Nov 2026 19:18:42 GMT",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOUlRUnRhREtTYmlncUEtWm5kTDFOZWRIVWNTVWF2dGdub0IxNF93MzJEWk9OdjhSU3NrLUxSamM1SmlxX1N0RjJ1dXA4MzJaeXhtT3JxVk5WZ3RvenpSZExwNjR5V0FSaC1INGc5MmxRR09HdTl5THYwMDZQWFgxZQ?oc=5"
-      },
-      {
-        "title": "Oil’s Next Move Could Be Abrupt as Peace Talks Stall and Supply Remains Constrained - Hart Energy",
-        "source": "Hart Energy",
-        "published": "Mon, 09 Nov 2026 19:07:45 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOakdWRHFlR2ZweUtQNUJPTVJZTVVMTE9jRUtvMGZJN1picjJ3NjB0QjdUT08wMVQyQkRoMUFwS0Z6MEx6ajFTOTlISzhZZTBKX2ZDWUg0bDdkeTQzelhLbVNhb1BGdU5RVUV4MXVXS0x2RUZNZlcyWVlzSG9RYmRmN0Q4eDFibVNFMFd0V3Nza2kxUQ?oc=5"
-      },
-      {
-        "title": "Oil Prices Drop Over 5% on Hopes of US-Iran Talks - www.nationpathindia.com",
-        "source": "www.nationpathindia.com",
-        "published": "Mon, 09 Nov 2026 17:28:29 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTVc2RUZKUlFHdzN0djNtcTIwQUphclVyT3h4REltbFdmckhsVDBySlZGVkxid3pyVm5rd1A0Qy1JMXFWbDQzSmZJS1BHeTU4MF9LU09IUFVDejlWbUlWbTVMRVEwcTU5REg5LXRTM1F6REt2b2xvVTAwMlUwZWtxcDhxX3dsUWo2RUNYcldn?oc=5"
-      },
-      {
-        "title": "Saudi Pipeline Attacked as OPEC Output Climbs to 90% of Pre-War Levels - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Mon, 09 Nov 2026 17:16:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcEN5Rnp2anlVblctWFNKal9hWHFXbGJaWk9KSWVIaHV1NmZGTDZPeWNPRDVlblVhTWNqRV9XOHFSbnducTItYmI3WnA5bS1PQUVTSmJ2dWVXSlp0eTZTOWI5ZEFTNGVLUVpQM3hmdWxwbU4yblFDcTZYanM4Wk9LUHpYNTJtb3ZhWTFFbzRYc1VaYlh1NWl1NEh1ZkpEOW1FMi1SeEtDYUdSZERYWlRfaXZ1OTNvWE5kQXJaSmt2R1M1d0HSAcgBQVVfeXFMTUVIRWVNODhhQzRESnhrXzAzWjhQNzJkT3BycHNQOE4xZDhXTUxiTmlfTG1FbFRyTldfMEVoZm5jUlBNMkRFXzlSM0I0NGhQUFJ2TllGWjFwQ1VyYzF0bm1MaTZLUWxLTm11N3ZXdmJnSnVLOWVjZEJSS19IaGpWUVFMaXFOeHU0Zm81TXBISjM2YnFsNmFqMWUwN1Q0T2ZTVkhGcmxLZUQ5LTRzenZiTy1FUnc1V3lqWExmbU9FYlRfVzhrdHpMN04?oc=5"
-      },
-      {
-        "title": "Global LNG Markets Face a Winter of Extreme Uncertainty - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Mon, 09 Nov 2026 17:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcWhNTmRScU1JdWtOU2UyQ0s5cmxkRGQ1UGNiNzZranpDWTVqRGNHQTR1NWtGYjNBN1RaWjN4ZlhxR0xjZVVZYzlKMlR4VjZTQTU0eVBrNWFoUlJ0a0NOaWV6TDV2OWNhMlloRXRNWEdVekpUSUhNekM1QXFVbWhLQVVMTHN0a0x0U0dPdWZ5ZE51TDUwTG16RnpleEdGSnExOE10UGF30gGrAUFVX3lxTE5PRkxFUVhkbHdVWnNwSEZMZGstb3NYRkpyVHl0dnRLamJDMXg4cXJoYUgtMUk2Z0p0N2ZpVWZtV0NaZnc1anpmU25UR3RuWUk4ZS1SUVJnanZsNlhiLXJYMy00cVRhbUF0Z3M3dXJPLXZQWWhhRS1sMVg3WnRmVjlOYlJ5OTNSR1IyR3pTd3NWRFVDT1c5NEJsR0lXQUNzSjB4MU95MmJnRGJ0TQ?oc=5"
-      },
-      {
-        "title": "Oil prices hit 10-week low after Donald Trump says strikes on Iran ‘highly unlikely’ - Financial Times",
-        "source": "Financial Times",
-        "published": "Mon, 09 Nov 2026 16:35:18 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVdMbllYT0JtVGNxZ2ZKdlpxUjBLMWJESlU0emF1eDk0NDdweHBndXV1MEtYV0I3UlZVTTljS1NoUnBLX1VpMVUwVE5jNmM2OU9iMEV5WklTUENZdTlqTUpGMS1nRlNpNzVyclZxbTJGM3B2ODcwem5xNVhVX1I4NldLVUs?oc=5"
       }
     ]
   }
