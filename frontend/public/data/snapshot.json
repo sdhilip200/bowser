@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-10T20:01:20+00:00",
+  "generated_at": "2026-11-10T22:53:40+00:00",
   "fx": {
     "nzd_per_usd": 1.777472,
     "as_of": "Tue, 10 Nov 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 92.34,
+      "latest": 92.06,
       "latest_date": "2026-11-10",
-      "delta_1d_pct": -6.08,
-      "delta_30d_pct": -12.29,
+      "delta_1d_pct": -0.55,
+      "delta_30d_pct": -10.26,
       "series": [
         {
           "date": "2025-11-10",
@@ -1012,16 +1012,20 @@
           "usd": 98.32
         },
         {
+          "date": "2026-11-09",
+          "usd": 92.57
+        },
+        {
           "date": "2026-11-10",
-          "usd": 92.34
+          "usd": 92.06
         }
       ]
     },
     "wti": {
-      "latest": 86.59,
+      "latest": 86.44,
       "latest_date": "2026-11-10",
-      "delta_1d_pct": -4.67,
-      "delta_30d_pct": -6.49,
+      "delta_1d_pct": -0.47,
+      "delta_30d_pct": -3.29,
       "series": [
         {
           "date": "2025-11-10",
@@ -2024,8 +2028,12 @@
           "usd": 90.83
         },
         {
+          "date": "2026-11-09",
+          "usd": 86.85
+        },
+        {
           "date": "2026-11-10",
-          "usd": 86.59
+          "usd": 86.44
         }
       ]
     }
@@ -2033,37 +2041,37 @@
   "nz_retail": {
     "as_of": "2026-11-10",
     "regular_91": {
-      "avg": 3.439,
-      "min": 3.066,
-      "max": 3.799,
-      "count": 87
+      "avg": 3.447,
+      "min": 3.186,
+      "max": 3.889,
+      "count": 81
     },
     "premium_95": {
-      "avg": 3.615,
-      "min": 3.226,
-      "max": 3.847,
-      "count": 48
+      "avg": 3.624,
+      "min": 3.249,
+      "max": 3.999,
+      "count": 39
     },
     "premium_98": {
-      "avg": 3.711,
-      "min": 3.569,
-      "max": 3.999,
-      "count": 12
+      "avg": 3.72,
+      "min": 3.619,
+      "max": 3.819,
+      "count": 11
     },
     "diesel": {
-      "avg": 3.122,
-      "min": 2.736,
+      "avg": 3.112,
+      "min": 2.855,
       "max": 3.449,
-      "count": 95
+      "count": 87
     },
     "lpg": {
-      "avg": 1.849,
-      "min": 1.849,
-      "max": 1.849,
-      "count": 1
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 204,
-    "observations_yesterday": 30,
+    "observations_today": 176,
+    "observations_yesterday": 33,
     "observations_older": 9
   },
   "mbie_waterfall": {
@@ -8624,52 +8632,52 @@
     ],
     "global": [
       {
-        "title": "EIA Raises Oil Price Forecast: Brent Crude Expected to Hold Above $100 for Rest of Year, 2027 Average Seen at $86 - BigGo Finance",
-        "source": "BigGo Finance",
-        "published": "Tue, 10 Nov 2026 19:05:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGQ2dyZzdSTUhrNEN5SUVsQ1VBNFlCc3d3R0M3NlhwOU85WGZhcHJqZGdqQ3BaaThDOTBnTnZjYUxIQnZCY3JLdGhTQ2xZTW1NZnJpaW9CMjdFV005MTN5UFpJSVRHOFlnZFRWNURPX0NXRTdiSmc?oc=5"
+        "title": "WisdomTree WTI Crude Oil 3x Daily Leveraged ETN (3OIL.L) Seasonal Returns Chart - Yahoo! Finance Canada",
+        "source": "Yahoo! Finance Canada",
+        "published": "Tue, 10 Nov 2026 22:31:30 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DRm5Hem91NXpQakVnZDgxMFNRd1NPM0Y1LV9zUmxFN3ZtbkJINWJrdjEtSk1iTU1IWTFHU1V4Q0hvYWM3NkVTM3FYa251VW5DUVJ2d1hZdTR0aWJNSHItYXZRZUM?oc=5"
+      },
+      {
+        "title": "WTI Price Forecast: Bearish Signals Put $78 Support in Focus - FXEmpire",
+        "source": "FXEmpire",
+        "published": "Tue, 10 Nov 2026 22:09:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWXZNVnpGTnFIUEtzLTZRWkVRd3JXZS1HelRoUjJ3cE0xa0VfRUlQZFM4RzIyOXhIRE5DaEx3UlB5eWpKVWM1RFNkVUotbDNMTV8yNTk5QVVaQTFZR0RSWjVHNU90VjdhaE42OV9CNmVpMENyRjA1Qy13cThQWUxWU2pHX01JOERMU2xzY3lnM084WHNNTWU2YjA0QlMtaEFXMzZvOFJCRGY4S2lZcmc?oc=5"
+      },
+      {
+        "title": "Canada Reimposes Sanctions on 11 Iranian Entities - Hoodline",
+        "source": "Hoodline",
+        "published": "Tue, 10 Nov 2026 22:08:01 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd3VqOTRuNV8tWXRBYjJIV1FGeFluWGJrbkY5ZkVPd0VBOWtIMVlUcG9XMEhZenlpNl9PZ0xuTjZrSVBFWmF1NFhIa05NeGx3dE1jTUxPYS1vNzhTbmdZbmNBeGIweGpVYTRlc09BRGVZYlBvaHgwVm9QTmZ5d2F1di1ETy0ycy0xeU9rLV82RXZvSmRkQkZ4T0NhWQ?oc=5"
+      },
+      {
+        "title": "API Shows Sharp Build in US Crude Oil, Distillate Inventories - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Tue, 10 Nov 2026 21:59:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQnZZN183alRBaUVPT2FqbEJBRHlSNHZmQWc3RVN0LVFnRWE3VkdWZDFQWkJOXzhSR0xoc1pRbUhmMFFldXZCekNEeTMya05CUU8wQi1jYUo2YWNUWVIyMVphUGJ0Q1RVb3RlQ2NlUDQydHVBLTR2NTNTMEg1eUo2b19nOHNlSGVxaDl1RVJmbm55NTJ0bTBwRWFZclh3d1FuWkhLWjR3cTQtVjZXV1RkNmJhTTJ5RmfSAbwBQVVfeXFMTXJUTnRpc1A5dEszWWV2a005MkVZeWszV2N5Skw3dV9fbWlvLTNtNV9EcXBCaHN2Z0NUenVYRWR3Mm83VGozNW02ZFZKWU95SW5ua0FzbHFlOHFYVG1DS2syYmZIY1ZDb3phQ04zNVZQblZLVkZQWjNRWkRoMnZLeFBUVjJOYzE5WjF3a19HaDk1ek5Ic2VJNzgyTHdSdEZnR19tT0pfNmd0ak1oTlNwdkhLcllKblVSX1RWQlI?oc=5"
+      },
+      {
+        "title": "Oil Prices Extend Decline After Trump Signals Restraint on Iran - WSJ",
+        "source": "WSJ",
+        "published": "Tue, 10 Nov 2026 21:17:21 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeWY0eGlzV2FfSkxTRE1BTWZaTjNtWmIxSjJocnF1a2YzbzczUWlWUFBLMDhlWFdkN0s2MFJDNThNTUQyQlRkT0s5bTRfZUpWbnE0QWlmV0lDbXQxQlVXUk41M3M3UF9lWVZ2ekM4QnQ5WXE2N0d0RWNRY3NRNHc2YnBQblFkZTFhQ0ZWWURxa3ljN2FBSU5TWERiMlZqektRZl85YTBqb09zNDNZNjNQVVJn?oc=5"
+      },
+      {
+        "title": "Canada Reimposes Sanctions Against 11 Iranian Companies - Channels Television",
+        "source": "Channels Television",
+        "published": "Tue, 10 Nov 2026 20:37:21 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOGFobGtlUVRxZWhneFdCZ2V2Yy1nSklCbm5VRzVXTG5qZV81ZlZ6Q1VWdnNUMUZ3SUpLcWN3OTk4RXZZV2RsWl9uWUdxc0tfUTRpcmVzMjZFNUN6MFVnclBzeGZOTXRRcXgxUzcxT3pHRmszbVpoNlRBd2VLczN4OGFIbGE1OFhoMV9Uc01VOHBxQnRfRGJPclp3?oc=5"
+      },
+      {
+        "title": "Oil Extends Drop as Trump Says Further Iran Strikes Unnecessary - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "published": "Tue, 10 Nov 2026 20:15:57 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaXNXQU9UR20zbU83d0JzZ2cwSGhBbVBoNXZ1ZHFhUVAwRlpxR0FPai1jUWtxaWlBb0tKTkJBMmdKTVdrU3JuZjdXM3dBZ3ZuTk5OdDRSOWpELTIyZkpCMzNSNUlZSTFNb3Qxck5WVTExXzNvbVNmWkFtTWJObWhoUW9BelliQTg5MUFaWUpSYmhpeDRfaUNDc2taZHBRdw?oc=5"
       },
       {
         "title": "U.S. Midterm Shake-Up Could Reshape Global Oil and Gas Markets - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
         "published": "Tue, 10 Nov 2026 19:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb2l5UXlKVERoYUs2cW5mVGVhRzc0bDVRVkl6ZXhxTF9KdVJkS2VmZGN5UzJnbTNFbnVBRnhWLXJQTjM3dmFudXFQa2dJdy15cVNFSDNMLXJWMjFsMGpGZ0hqZ0otU08tU2dqMXpfaV83X3ZJT3BFSUJEN05ZaVhLd0l5a0ZoZlpGbTI1NkcwUTlwWEVPTlJuVVQ4SVhjT2dfd1JrT3N4YWZCWE1U0gGyAUFVX3lxTE5UODhmdHE3d3NLb3lvRWVkOVN3SzAtbHBjTnYzZmRlTzBKa2k2d05XVjdzbGt0RXBYVVl2V3h5Nkt2bjVBYVVka1dGeFI3VUxBZzZaU3FyeFJFQ1pkVHFwRWpvRE10UVNnUl9WLXhKZ1NGV25SSHFZV0tVbVJ6MVdDR25uRlJXc2pMakhhcDRWdTlQeUdJVGJIRGtPZUEyY2FUY3ZSMUJCOVVYcnFLbzB5a0E?oc=5"
-      },
-      {
-        "title": "Japan's Cosmo Energy eyes steady Middle East oil imports for 2027 despite disruptions - Baird Maritime",
-        "source": "Baird Maritime",
-        "published": "Tue, 10 Nov 2026 17:52:25 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU1lucGNPaFY1RmhYQkpVUnB1b3REMkhhQnFWQW9CcmZxVy0tNmltUklHU3VvdXlqeHZwRUw3dDlPV0ZqTVRmTnlOOTlJa2hITVluZlQ1WTgzOVBsM3lGaGpESHhaS2RqTXJBZWhZa2lrT1M3OGhDc1pPOElobXVZTU5SYTNfZnMtRVpTVHNEN2N4WU5DR1lTSVZrYnZSWi13UEhmX2JheVhhX1dPeWh1ZmFRZHBlS2o3eGFzZ3Y5X3BJOEZiMTBMcmtoa9IB2AFBVV95cUxNNjJQZVE2Sk1NVDlyNVVmNnRybkd0SDJkVmk4aVAwRWxpVDJHSERaTmlvcnFBUHQ5c0JoZlRCeDVLUzV1WWJuTUsxTzBSMU9uUGRMd1Z1Z2FrZFdvTGRDZWhlVmtmR3ZMV3pjdU1hMm9qVzlfQ2h5bmdqY0wxc2JwZWJ0RjctVjhPNHRHeWtoSWhiSkhLY1JCWXNyNG1xQ2VnZTA1ZUFLWUZaaTdLb2wtN281emh4ZThBZ1NLbmNnb2R5MHBJTjdyZGhxaWdZbDlwMlplWjV4VVg?oc=5"
-      },
-      {
-        "title": "Oil falls below $90 amid easing US-Iran tensions - Oil & Gas Journal",
-        "source": "Oil & Gas Journal",
-        "published": "Tue, 10 Nov 2026 17:49:19 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNWtZcFVwS19OLUFUX09CZlpacEpWOGZDWXlmU3BLX1ZZQXdjNDdnYUV3YlRuSnBISEpZT2V4bXN6VlBiY3VGX3R5MDVFQXRVM1QtNTZ1Q0FmMHJpTzhfaTdUR045NzFiTG1GMkNiUDBBUHF1dE9zYnBXNmxNbm5hVUtFbXZCUWMyQjFuVmJkNVA1VFJ1Wjh3UHVqVkhhNkdSOExQNklXUWpDNDVCS3RIeHdKNHdwQ2s?oc=5"
-      },
-      {
-        "title": "Oil Falls to Lowest Level Since August - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Tue, 10 Nov 2026 16:34:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc0JmV1NVNThOU1Vzbm5KY19UY1VCdVhjX3cyNXZSTzUtRFd4R2lXTlA1M2dlMmIxb1NMUGdWa1IySzRKeHc5TWFxTUgwQVo4YzM1YTVRakRVbU5KZEZCU1JsVS00aGNzUlJwV0h1bHhYSmZ0TmYxWDlhajRvSnJybmlLSTlvc1A50gGOAUFVX3lxTE54ZkpwMmNCZGVUWDc3YURBcUZtbzNTLUxRZEpnOGl4ZGdEdWd1NzJKQUQxYlRlekZMQXhzeWcyVFoyS1BRb2VsWklWWGxrR29QNEJfa1pEclgwRTJQSGFGVXotc2h3QWRlb3pocVpUczlKWW0yaHM5bjQ5NHBZaDJUV1JPX2VDVnlnZVYweUE?oc=5"
-      },
-      {
-        "title": "Average U.S. Gasoline Price Dips below $4 for First Time since July - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Tue, 10 Nov 2026 16:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaUhYa1FUUjFNblVnTFFMRTBaa196Tzk2aWxpVjdKUzFYR0w0a2tCem5sVXlLZ0Rna3pEdkxfbmk5d0FldDM2dHAzTDczT1U5R0FlZWt5WWxEZW5CMmRZMGZITWpXbmdrV254ejlYYlhEU0ZWam85blJQdmJ2WUVGNUVQcG5VcGZfR3V3YTdKTXpka2F2UW41aEp1d25sa2x1b2hQWnZEem40Z1hUamwzekVMTkROdGpRWjZtN9IBwgFBVV95cUxPV3RFYUdpOHEyZTJ6RS1FVDZteTVDU2JuQVA3ZXkydmtkS2xTSWlPc0stU0dZdVo0eTR1X0N4UC1Hc1pUb3VhOXhQQndpQTd3MUYxS2k5MFVaOFQ3cWJoeTQ0dDJLVV81WFd2QVZTX2ltdkJHNWlhc2F2dFJJTWttNTU2eWlWcW1CUWxEUm5IUWwxU0JVQmZHVFJxR2RuTm11RUFPLUZBMGg2ZDFWZHhSTnczakg0NTc3dldoQ0FkZ0tadw?oc=5"
-      },
-      {
-        "title": "Oil Extends Drop as Trump Says Further Iran Strikes Unnecessary - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "published": "Tue, 10 Nov 2026 15:49:45 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaXNXQU9UR20zbU83d0JzZ2cwSGhBbVBoNXZ1ZHFhUVAwRlpxR0FPai1jUWtxaWlBb0tKTkJBMmdKTVdrU3JuZjdXM3dBZ3ZuTk5OdDRSOWpELTIyZkpCMzNSNUlZSTFNb3Qxck5WVTExXzNvbVNmWkFtTWJObWhoUW9BelliQTg5MUFaWUpSYmhpeDRfaUNDc2taZHBRdw?oc=5"
-      },
-      {
-        "title": "WTI Crude Oil Tests Support as U.S. Distillate Stocks Tighten - FXEmpire",
-        "source": "FXEmpire",
-        "published": "Tue, 10 Nov 2026 15:37:34 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX3NaSVg5dmhZbU9Pa0tZc0NraG9SREx4dXJTcW1JVEFNTVNKTEJCTEFpYTNzQW1yT29RZUR4MnhiM0JUcEwxNDJ3Q3hXbWJEYUhNR05FN3RYRUNJN0dXSVpXa3JlSVp4NjZYV0tXeDV4THMyWUdBVVdlaEtER0tkemx3S0dwQXFoV2VWUUJGb0dpb3VRdmNVRkF0WWFINjdLVy1hZ2xrTDdMRGdXUnFjWQ?oc=5"
       }
     ]
   }
