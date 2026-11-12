@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-11-12T19:09:01+00:00",
+  "generated_at": "2026-11-12T23:15:10+00:00",
   "fx": {
-    "nzd_per_usd": 1.783306,
-    "as_of": "Wed, 11 Nov 2026 00:02:32 +0000"
+    "nzd_per_usd": 1.795662,
+    "as_of": "Thu, 12 Nov 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 92.37,
-      "latest_date": "2026-11-11",
-      "delta_1d_pct": 0.96,
-      "delta_30d_pct": -10.78,
+      "latest": 95.77,
+      "latest_date": "2026-11-12",
+      "delta_1d_pct": 3.24,
+      "delta_30d_pct": -6.39,
       "series": [
-        {
-          "date": "2025-11-11",
-          "usd": 65.16
-        },
         {
           "date": "2025-11-12",
           "usd": 62.71
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-11-11",
-          "usd": 92.37
+          "usd": 92.76
+        },
+        {
+          "date": "2026-11-12",
+          "usd": 95.77
         }
       ]
     },
     "wti": {
-      "latest": 86.16,
-      "latest_date": "2026-11-11",
-      "delta_1d_pct": 0.14,
-      "delta_30d_pct": -4.71,
+      "latest": 88.84,
+      "latest_date": "2026-11-12",
+      "delta_1d_pct": 2.67,
+      "delta_30d_pct": -4.34,
       "series": [
-        {
-          "date": "2025-11-11",
-          "usd": 61.04
-        },
         {
           "date": "2025-11-12",
           "usd": 58.49
@@ -2033,7 +2029,11 @@
         },
         {
           "date": "2026-11-11",
-          "usd": 86.16
+          "usd": 86.53
+        },
+        {
+          "date": "2026-11-12",
+          "usd": 88.84
         }
       ]
     }
@@ -2041,28 +2041,28 @@
   "nz_retail": {
     "as_of": "2026-11-12",
     "regular_91": {
-      "avg": 3.393,
-      "min": 3.156,
-      "max": 3.597,
-      "count": 91
+      "avg": 3.369,
+      "min": 2.976,
+      "max": 3.659,
+      "count": 87
     },
     "premium_95": {
-      "avg": 3.601,
-      "min": 3.296,
+      "avg": 3.547,
+      "min": 3.146,
       "max": 3.999,
-      "count": 52
+      "count": 44
     },
     "premium_98": {
-      "avg": 3.737,
-      "min": 3.447,
-      "max": 3.999,
-      "count": 12
+      "avg": 3.672,
+      "min": 3.477,
+      "max": 3.919,
+      "count": 11
     },
     "diesel": {
-      "avg": 3.08,
-      "min": 2.849,
-      "max": 3.929,
-      "count": 91
+      "avg": 3.043,
+      "min": 2.706,
+      "max": 3.529,
+      "count": 87
     },
     "lpg": {
       "avg": 0.0,
@@ -2070,8 +2070,8 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 212,
-    "observations_yesterday": 26,
+    "observations_today": 192,
+    "observations_yesterday": 29,
     "observations_older": 8
   },
   "mbie_waterfall": {
@@ -8582,10 +8582,22 @@
   "news": {
     "nz": [
       {
+        "title": "We imported less fuel and still paid more. It’s a business risk we need to tackle - Stuff.co.nz",
+        "source": "Stuff.co.nz",
+        "published": "Thu, 12 Nov 2026 15:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTk1jWVdlS1RfMlMwaXEtNXpabWg3a01yMUI1ZEpyM3l3WHRDNGJVaExNVDQ1MGMzNTJjYXFwZ3NyVkt1U3JBeDlwSDk0WXV2RS1ycXZEckNxb3Z2SkJ1X3NlTDRjOEdHLTJaNW5udTloaTZKRFRuWWtUZk1EZU1TVjZJaXdhbXk5VWQ3M3VmNFd5UkpDVi1Mb2Y4WUw4Uno1Yk83NWhTUnhWek80Z2IzbnZHOU5keDN1eXNN?oc=5"
+      },
+      {
         "title": "Supermarkets offering big discounts as fuel prices remain high - NZ Herald",
         "source": "NZ Herald",
         "published": "Wed, 11 Nov 2026 16:48:11 GMT",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU1cwc3RJRF9PV2dUOUh3aWZuTzJBX0ZSSTF3U3RmQ1MySzNOcVVSS2JzNEhONGdMLUhyZ01xNGpmRGV2UHFlZUVQWlVRQVpGQXRsYzBWZXp1RlVPcHJpWnVGS1JDUEIxdGluYk1HVXlPVE1XYmxGMk9Tb1V5WnlLNXh4U0NOMmYwSzk5elBsQ0hVOHh4X1R6dnJBX3Z2LXBNcVBVVkkydHFJUEVFWVQxblktb0lKUlZUTzBXcTlZcVFjc3NkLWtzdjJSSGFzZVJFcDM4MFZfQ0puUFhVc3c?oc=5"
+      },
+      {
+        "title": "Fuel costs curb light traffic volumes - AutoTalk",
+        "source": "AutoTalk",
+        "published": "Mon, 09 Nov 2026 22:37:07 GMT",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UNVhmZDIyUUlDQ3lXOTQzVmRmRktzV0RnVUxOMVJYQmtwRE50R1N1UWF3aTNOdXJaNjVPS0ZuRXFqd2V1TUU5bGw3QXZYbDdoQjlMWU10cE5kQ1lHdmpYR0daQUZkbWptN0tiTzF3?oc=5"
       },
       {
         "title": "Petrol prices fuel inflation - so is an interest rate rise the right move? - 1News",
@@ -8616,68 +8628,56 @@
         "source": "RNZ",
         "published": "Fri, 25 Sep 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdFBnUVBLVnZCLXo0VjFxalBZYWI1OG1TTlpqN1RGdjNWWkFuMHNkREN1MUlXTDVUNDJwV191NFdQbzVlTWhpRk5ZTU9oR3hnSkhqdjM0REdJT2xKblctTTNYOXQ5LW5XYW1wUTJPYXJrbWJEeDhKTEFxZXpxMHhfTjY1Sl9wRDhHNUs1WQ?oc=5"
-      },
-      {
-        "title": "Pain at the pump as petrol, diesel jump 30c a litre in three weeks - 1News",
-        "source": "1News",
-        "published": "Tue, 22 Sep 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYmd2NlJRbUotSW9aWFRwS3JndmhqZVEzUkxuRk53a0pLQ2VPMnZXZjZ3RzYxblN2OVdjeUJDMlBSM1ZKX2Q1QkxVei1sYVZKY1lXanp5akN1OGl0LTdRZTlGYUJZUGlCNUlJbkZKMWZEUXZlSS1RTS1wWjRWbE9VZXBnbEVvRlVScFlpc3dORFoxaUdYcWd0TllVbXFFOEdWaDM4?oc=5"
-      },
-      {
-        "title": "Petrol hits $3.25 a litre as AA warns prices are likely to stay high until mid-November - RNZ",
-        "source": "RNZ",
-        "published": "Fri, 18 Sep 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV3VaV1BZM3FLMVJDUTF5Tjd4NEpVZUkwVGpvSHhJR0xpc25jUlV6RGloM0ZFU2hvZWpYMEZ4aEl2N1UwR0JNMTFUUzBUZ1dFWFRvZGZlM0I1MnBPQkh4T3hGQnpJV0NwaGNycXdKTmI1TG4zU0haMkRvTlJreDA0NjYxMHMwRkkwQ19IRzZ0bWpoZE05Y3I0Y1paVmItbmpJSnhWTW1ISjFNY0RYRVI2R3QzZkVxY0hLN2c2a1JYSE5WcjdOclZvZ2s5MTg1aDlZaVE?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "WTI Price Forecast: Bearish Breakdown Raises Downside Risk - FXEmpire",
+        "source": "FXEmpire",
+        "published": "Thu, 12 Nov 2026 22:28:02 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaDJUekF6RkFUaXRGSjRhLVJrVG12U2Ntd1U0aUlBWmNQa3JOR0F3YXdBWmlocHhxTl9Kd0kyeU5pcnNlNi1nMU5PaUd2a29QMDQ4emFPVUNhTUlSQkxoU3ZoejM5TlczUWtsaXNRVmhiUjVpc1ZxSVlOU051YV9xaGZQR0hBYXA0NEZMZHREb05vTmN1ZDZCbXNGd3ViSmc2cG5iSjRqLVRlZ29k?oc=5"
+      },
+      {
+        "title": "More Drilling Won't Shield U.S. Consumers From Oil Price Shocks - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Thu, 12 Nov 2026 22:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObVAxNUNJaHJZb0ROZXpmMmRwbFhKMG9yTnprNWNSWXRhSUFNYTZXMFZicWRyOU1RejNucFkxUTIwV0dzRFgzcGU3SThXdGRPQU9WeVMtcV9nOTBpTDdRS0Zmc1JiME0yTGc1eS13NlFKaXlpSXBSQjc2azIwcVozdkhVaHlBNF9TWFFwMlVUSmJpbktreXM4dTViTmJRSVg2LWNMRjlR0gGrAUFVX3lxTFA2SDg1TjhTRXZ4MHF1YXRIR1d4aWRIa0ZoRjVEOWk2dWxIZHFxd0FDTFh5RS1JSkdVRVJQTmlkTTBSeE03dXl1RVg5VXdhVWQ5ZFozVUhaRVhQMUJuTndXMUxCVVVqODUxV2NsR19QakFhbXJhMWhEUERaSmhMN3ZEcWExRENoTVlYS0JFbWlNc1FfQldqTW5ZNl8wckNBMzRYMmYwM0tTYUJFRQ?oc=5"
+      },
+      {
+        "title": "Oil Rises as Trump Dims Iran Deal Hopes - Rigzone",
+        "source": "Rigzone",
+        "published": "Thu, 12 Nov 2026 21:50:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSGk3SFVObTBZdjkyYV9CcWlteENXTEFXTzh2OWpITHVFOW1sMmIwcVh3cENJaGlWc1ZUM1BvMHhHaGJhNDI3R08yMXR1MDFfSFJCQTMtUFR1S2lBOVlJd3FfQjhCMVk0SEl1RVFvQ0JoUmVuR0VfYVRJS3BqREdfRWptQVBfbXlQd05VVkVFSzRQV2lhUC1lczRVN2NTNVZLeWxJ?oc=5"
+      },
+      {
+        "title": "Oil News: WTI and Brent Rise as Hormuz Shipping Disruptions Renew Supply Fears - FXEmpire",
+        "source": "FXEmpire",
+        "published": "Thu, 12 Nov 2026 21:28:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdndrNzNOS3lzdG5aQlhVSHg2Vm1GQk92bzlYMDE0cW9kbUdoNWRRTWhYUDRxT21kMDh4SXR0RnRCcWVub3RBMTJUSXNSZ1JUZEdMS0Y0S0Zjb0R1YTVaWXQwQkRYa0Q0ZUNzMmRxc3BPM3pIbUU5V0g0d3JqMGdxcXZVVTdSbFoxQVN2dXdjZGpOcS1zOGVDcWhQWGpRdDdMeVVGWFVHaWFYTVdPcU5RQ2xZTWxKSkVTTUhHMHRCNkNXMlJlbk5z?oc=5"
+      },
+      {
+        "title": "Why is Brent crude price up 4% today? - Traders Union",
+        "source": "Traders Union",
+        "published": "Thu, 12 Nov 2026 21:10:28 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaUxMTWZqX0FneUMxN3VPOUg0c3REc2I4MTdlT0lfLWFBcTdhVDdsaWxhcUN2eXdUekpSdmJ5a2djNVEyTEFQOUJ3Wm9LcjF4U1lsRmlZeHRKRWJPZFhWcjAxb21NRFZUc2drenU5VlhqZEhWZWM3VGRMeko2R29UWEx3RThWQjZvQ09HTHJxRk1Nbjlt?oc=5"
+      },
+      {
+        "title": "Britain Becomes First Country to Sanction All of Russia’s Top 10 Oil Producers - Kyiv Post",
+        "source": "Kyiv Post",
+        "published": "Thu, 12 Nov 2026 20:45:47 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5WaXV6TkZ6UVFvSFdRZS1UR19UUGxBOHBxc1lQOE4yRXNGRzRxaGZIQy1kWExUV1dyZWdqZ25pWThTU2VfT2wyek9LQQ?oc=5"
+      },
+      {
+        "title": "CRUDE WRAP: WTI (Z6) FUTURES SETTLE USD 2.21 HIGHER AT 88.74/BBL; BRENT (F7) SETTLES USD 3.06 HIGHER AT 95.82/BBL - Newsquawk",
+        "source": "Newsquawk",
+        "published": "Thu, 12 Nov 2026 20:10:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZ21zQnB5M1phWXJHNW5RT3d2NDBSdkhmSEN1ZWFQR3JqNTh4ZXJNTjZFN3ZzbGxpUGNEZHdPTTMtZXU4SVNEYXNpYnoxNU84UjRLQXZvY3lSQjVOMTdlZTRLMi05YjJDNkRUSFk1Q1Vqc0pfRFIyVVVjdVdVblJHT09VTndUQXpSTDdUcmZwVG9vMU5ZanE3aEdCeVNSd3VCLVdxVWNzckgyVENMS2RQanB5ZWlnaURSaWdlVjEwcU1iclNaSkJ4Zk90aHpuT2pVdFIw?oc=5"
+      },
       {
         "title": "New UK Sanctions Target Major Russian Oil Producers - Law360",
         "source": "Law360",
         "published": "Thu, 12 Nov 2026 18:56:53 GMT",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbksyY3NERVlFbkVPSTljR3RReE1keWNNbTEwbWhhMEQ2VW9TV0Vzc21KbEtuUjB5MjJWVlZnU3o0MzZmWm5qU2Z6YXR3M2RZNUtZNF9sb1duSjNQQ1JBcU02MHNnbmVhQWs4Yk90ZFBOaGpTbkJCazZWVmhIQW9MSlVWWDZXQXluSUtFQ3NvZE51TXlJaEHSAVZBVV95cUxPd2U5U0V5Z0htSVJIUnN0STB3S0trU1I3eVhTTjhDUnZ5NGVydllBWXpwRDlHZnB4aWlkd2pPSFpXTWdUQjVWbjhpNUlCZ2pIbFh0NXpzQQ?oc=5"
-      },
-      {
-        "title": "Energy predictions from the federal government - Oklahoma Energy Today",
-        "source": "Oklahoma Energy Today",
-        "published": "Thu, 12 Nov 2026 18:43:11 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQckwzN2NtcldQWWNfTGJydjFkQzZvTTFOS1FJMDJiYzFmRXpPWnNrQ1dqMkFNWVAzVTJZa3RYZy1VcHA2dVUzWVdQRWQzNFZYejk5ZnQ3MnBQLUVlQ21Lc1ZCVUZoLUVHMmpWWHptREI3dVB0b01LTWtGWXplWnpBNzZWamxXZ3lB?oc=5"
-      },
-      {
-        "title": "Oil Prices Pick Up as Market Mulls Over Prospects for Middle East Settlement - WSJ",
-        "source": "WSJ",
-        "published": "Thu, 12 Nov 2026 18:24:48 GMT",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNFRHX3ZFOFQ1SHJRd3R1M0R5dU4zY1NnckI5ODFjRmtWQUVXOC1WRTJiQTBYTEVEbWJlOW94WlF3a1R2aUVMLXg3VnJ0aVZrQktIZHpmZnNpTWktYVgyZXVNMGVpRGdjSlhfRDhQSHczQ3BDdWhybUx2c043YmQwdkRuWW9WeGE3amVpZFE2VEVDTlRxZktZc0JLSFRxdnplcUxUdVhuZm5Bbl9nb3Q3aW0xdFFDam1XcEstMVFB?oc=5"
-      },
-      {
-        "title": "Morningstar holds 2027 Brent forecast at $71/bbl as Persian Gulf supply recovers - Oil & Gas Journal",
-        "source": "Oil & Gas Journal",
-        "published": "Thu, 12 Nov 2026 18:21:54 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdUJzUVA2cjBmemR5eGU0YllmWVR5SkZrdEpual9ZQnZyS1lGYTNHNkFvSk02Ml9OQ1F5cHFfSWFIVFdELXBBX1ROMWpUQmZYcmJyem1XTnQ0OFlDeWVlSFoyUzJHOUNCTGRPYU5PeEtBUE82dzFheTViSFFMTHhFNVNPSC16TXJlTU9DOHhEM1JVUVF6UVlQR0hkQ3ZhSXVra3VOTmdGaVlRZUlXa0NwMFFFZVhsaTZUWW14bVoxODFYejdycFEwS185cmtjVk9UdTJ0RmVrcUQ3d0Fjek4zdGZR?oc=5"
-      },
-      {
-        "title": "Oil prices rebound as Middle East tensions counter rising global crude supply - Oil & Gas 360",
-        "source": "Oil & Gas 360",
-        "published": "Thu, 12 Nov 2026 17:59:47 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTHR1RGlTaTZjenV1UHkxTDdvNlJYcjJVRmd4U0pMeWpSZERFOUtDQ0lYVFVRRzhSblhRLVluZnZDczlTSU5CZnpmbG9qUldPeFNWeVpWT1lVZ2N0LWVZWDMzV1BEdVZyMDk5Mm1MelMzWmNQUzhCaVhYRHBIU1gzQXN3dlN5QS1iY3NnQnFEMU9VdTJKREJWUk90Q2ZPUEJJdm5DSzhNazhDWXM?oc=5"
-      },
-      {
-        "title": "EIA Data Shows Builds in Crude, Gasoline and Distillates - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Thu, 12 Nov 2026 17:46:04 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRUp2eUlZUXU1X0dsWFVQMEY2MVZGZ2x2a2J4RjBTaTBSYlBfaEtDNkJtajIxbFdWel92dlBZQnJHT2JjZWVxdDlXcnF3dXlQaEpTTHh1VXF6N0htbDNIbjVkSzVRNXlHZmFDVWxmUUhWbU90UEIxTS01ZFFwcG4yVWotNVU1N2lUeTJNTmRkSzNLeGF1Z1lMdnhILS01UGfSAaQBQVVfeXFMTXVSRHZiNDNXYUROMHNkZ0tvZXNBUC1OZmxqNURQa0ZhcUI3RTJuTVB3VUVIY1JndUVnSEMtTDAwQzYwSndHWjhTTHhYR2VJX0Z3b2dpdTJMTFNMMnRKaTIwWnl4TjFpeE5vV3dCT05XbXNxQzZxWTgzeVpBeTZ0cndqeVN0bzZ3QjFvMUFyYlJObnVUb3ktRVI0OHdtdFM3ZjBDUjI?oc=5"
-      },
-      {
-        "title": "UK Becomes First Country to Sanction All 10 of Russia’s Largest Oil Producers - UNITED24 Media",
-        "source": "UNITED24 Media",
-        "published": "Thu, 12 Nov 2026 17:37:55 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZEpwY0JsczZLeTU3VFdpcWtUOVJjbHNTY0lSUU5yUWg5Vk9QblJvRkcxN0ZCUGhXekJHbXpDTFB1aUhaUkd6RUh5MEJsaWZ3WkdwaGs3OWJXM01kOFczZFJqOW1pZGQxelhDVW55d081UHBOd05yS0VuRExsOTB4S05ya1JyRzZoSDlwRi1ma01JZU9YRThhc0thQjJKTmItZlFCbUV6M1hkRk1TUXFnZE9pQm0?oc=5"
-      },
-      {
-        "title": "Brent Briefly Hits $94 After Trump Says U.S. Has No Need for Iran Deal - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Thu, 12 Nov 2026 17:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUi1nc29WX2JCMExnSEw3VWFRZGllQkQyUWdKa2JTNjVaYUxsNmZybXhtNHhXWjN3bkhnTjAwQlVGbHZIUjlDZnh5ZlZSVjJhNjdZMW5VN3pIdFJhZzl4RkNsSnhUbWJQaTlvTm12SXE3c1ZfbnRYTzFzbnpibVdiSC02OGhQOHI2N0l1aVdId0FBNnc2Z0o5Vi11ZW9KM2F2UUxWMXEzMUQta245SlUzWlZDdzhmYVdUZnN5VXpQZ0bSAcYBQVVfeXFMT3FfbERqd3lWaXVfVE4zUC1IbDVrb3hSdU4xc1J1eDFIdFFKLUhaNm4td1l4aWZhNUUwZDhJZF9xeGVFanc1RnZEb3NUUy1vOFBKSWNqTklGeXhuQUhmMzJVNjhkMTkzeFFzYTgzZ0NKQldqcXFVU2U2TWVhXzVGRXJDTnRfSDVsdGFBVkYzc1dZVVF3UEhHaDVXclpaZVhaNG1BN3JLNVJ5dkN5VktpajZKNFJaMndYS3o4OThaSHAzelNyQnF3?oc=5"
       }
     ]
   }
