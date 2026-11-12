@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T03:10:15+00:00",
+  "generated_at": "2026-11-12T11:34:53+00:00",
   "fx": {
     "nzd_per_usd": 1.783306,
     "as_of": "Wed, 11 Nov 2026 00:02:32 +0000"
@@ -8582,12 +8582,6 @@
   "news": {
     "nz": [
       {
-        "title": "Supermarkets offering big discounts as fuel prices remain high - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Wed, 11 Nov 2026 16:48:11 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU1cwc3RJRF9PV2dUOUh3aWZuTzJBX0ZSSTF3U3RmQ1MySzNOcVVSS2JzNEhONGdMLUhyZ01xNGpmRGV2UHFlZUVQWlVRQVpGQXRsYzBWZXp1RlVPcHJpWnVGS1JDUEIxdGluYk1HVXlPVE1XYmxGMk9Tb1V5WnlLNXh4U0NOMmYwSzk5elBsQ0hVOHh4X1R6dnJBX3Z2LXBNcVBVVkkydHFJUEVFWVQxblktb0lKUlZUTzBXcTlZcVFjc3NkLWtzdjJSSGFzZVJFcDM4MFZfQ0puUFhVc3c?oc=5"
-      },
-      {
         "title": "Fuel costs curb light traffic volumes - AutoTalk",
         "source": "AutoTalk",
         "published": "Mon, 09 Nov 2026 22:37:07 GMT",
@@ -8600,10 +8594,10 @@
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMTdYYnBCY2tDVU1LaGFMV2hPNUtDWWU0b3BkcS01ajZlUG1aZjlWUmo4U2hYLWVFRC1oak1ybHktMlJPOW5mTE12QkQxN1gydXVFaXkyWmFZdkJoZVBib1hWZHFmSF9RMlJrbnFKaWk4WURZNDFMeDNwdlIyMEdjQmlObmxYdllaRzVISkc2Y0xUVGVmWmtGQnVuNWUyTHhCakV4dlAxazcxZ1E?oc=5"
       },
       {
-        "title": "Who is cashing in as petrol prices hit record high at the pump - RNZ",
-        "source": "RNZ",
-        "published": "Mon, 12 Oct 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNEZ2eHlOOUVQTUJZT0Z1T3FpaHpqc0lWc0xvMUlpeVJaeFFmLTlQUlhTcXdpRVQ4SVBUWVJSNFM0ZkE1UWNnS2g2eTkzeGlQS0EtOHRIQ21tWWhGREREa1ZPVkdFTE1BNVNQRThPaFF2bXpyLThlZjhiU0oyTXkzQ2NsMzFodnNtZ0kzeGszVzhGazhTRHF6OU1JWGlzbVdkZVZic2xSZjAxQQ?oc=5"
+        "title": "Fuel price tops $4 at the pump - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Thu, 15 Oct 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQmhVb29KRjYwaDFtbzNtVW9PcG5HaEw3d1FCYlV4c0pBcjF0SGV5M2FSQ0tMUm05WGZlS052T215OUlRcTlMZVVnbk9rY2twV2FGQ2pQdTdoaVZqR3Ntak5CSnpvNlcwUzI4ZnkyRGYteGpIQ0t0NGFDYUstbEtIdlVzb092QkRncGZJa0t1Q28?oc=5"
       },
       {
         "title": "Fuel price hits tipping point - RNZ",
@@ -8628,56 +8622,62 @@
         "source": "1News",
         "published": "Tue, 22 Sep 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYmd2NlJRbUotSW9aWFRwS3JndmhqZVEzUkxuRk53a0pLQ2VPMnZXZjZ3RzYxblN2OVdjeUJDMlBSM1ZKX2Q1QkxVei1sYVZKY1lXanp5akN1OGl0LTdRZTlGYUJZUGlCNUlJbkZKMWZEUXZlSS1RTS1wWjRWbE9VZXBnbEVvRlVScFlpc3dORFoxaUdYcWd0TllVbXFFOEdWaDM4?oc=5"
+      },
+      {
+        "title": "Petrol hits $3.25 a litre as AA warns prices are likely to stay high until mid-November - RNZ",
+        "source": "RNZ",
+        "published": "Fri, 18 Sep 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV3VaV1BZM3FLMVJDUTF5Tjd4NEpVZUkwVGpvSHhJR0xpc25jUlV6RGloM0ZFU2hvZWpYMEZ4aEl2N1UwR0JNMTFUUzBUZ1dFWFRvZGZlM0I1MnBPQkh4T3hGQnpJV0NwaGNycXdKTmI1TG4zU0haMkRvTlJreDA0NjYxMHMwRkkwQ19IRzZ0bWpoZE05Y3I0Y1paVmItbmpJSnhWTW1ISjFNY0RYRVI2R3QzZkVxY0hLN2c2a1JYSE5WcjdOclZvZ2s5MTg1aDlZaVE?oc=5"
       }
     ],
     "global": [
       {
-        "title": "Oil Retreats as Iran and Ukraine Peace Hopes Weigh on Crude; Brent Slips to $91.62 - BigGo Finance",
-        "source": "BigGo Finance",
-        "published": "Thu, 12 Nov 2026 02:36:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4VUtKU2x2UGFFb21UYzh1elRWY0gzekxTcFIxLXN4dVhMb0pwcFd5ejhreDluUnN5NTRHaUtNOXJ3V0pSZ1V5VlVKd0gyQzBMMkowNzI0cmpJX3lvUnZ3MG9LVG03M2c1RUZlWDFIZmQ0TjEzMXc?oc=5"
+        "title": "Oil: Hormuz mine strikes support Brent rebound – Commerzbank - www.tmgm.com",
+        "source": "www.tmgm.com",
+        "published": "Thu, 12 Nov 2026 11:11:33 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMWtjSTdnRERjZElydjJDcFloeXhzSzlpRnRqenl3RE56R2lJbWdPN0FPTW40MG9lcHlxU2ZTVzBzVERGRy1qczBTMlVuN0d3TWRlRlJQS2J3ZVVvYUswOUNjZ2ZnMHkzc3pIQjRQeUpVY2txMXYxUE9UN3hUWDJTRkZsTUp4Mk85LU1QRU9sOGVOS2VmWno1ejU0NmFxZjBraHoxMmtYdHZQOS1pN0RyOFZtWXhYNk1PLUVQS0VEbXI?oc=5"
       },
       {
-        "title": "As the US tightens its sanctions, Iran's economy faces the risk of running out of oil revenue. - Vietnam.vn",
-        "source": "Vietnam.vn",
-        "published": "Thu, 12 Nov 2026 02:29:23 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSEQ3Vm50cFlsejQyT05wSEJON2tEQk1EMEV3SWQtcFdZdHQ0Q1BRTmowVXRNMEtPZGZJTks4OW11QWduamlvZm5wY3JxR2NlMEdFLU5sNFdFVnlNNEd0QnZieUxPVVlWaGliM0hpb0JLNUZHTDVOWDE4Q0dDbFR6bjhnUWxNQnBqXzNYY2p1dW1qczBaZ29TR211RFRYZkk?oc=5"
+        "title": "Brent gains as Iran hardens stance against US - https://www.engine.online/",
+        "source": "https://www.engine.online/",
+        "published": "Thu, 12 Nov 2026 10:16:57 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMEdKS19rek9ldWNlSTJEZzBCNVhRdldLS09ZMzlaRGIyT2pJUFNieUNEM2hUMHVfdlJBZElobHlPdXdBMGo4aVZvRm54UGtlWFFzWWNBcXZNVG9qc01aeE9LT2pqZkhGTWl5RWx6MC0tUzlIakpYM0J0SkZFdUR5bmEtNDg2a3Nl?oc=5"
       },
       {
-        "title": "Natural Gas, WTI Oil, Brent Oil Forecasts – Oil Gains Ground As Iran Wants To Keep Nuclear Material Inside The Country - FXEmpire",
-        "source": "FXEmpire",
-        "published": "Thu, 12 Nov 2026 01:33:47 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZVZIdTJ1TVJ5NVMyYXRodlgxU1kwdUdybnRRZFZVaHdpRThSa2JTWjlnZUN6QWxiWVBLNWY0ODYtZTBwa2R2N3R2UXkyYVE1UlRfZ0VEckE4ekt3M0JzSHk0MWszMGMtT1FSVlBHUGRjbnFiTFlZemg3cHVUSUw0aXNKMmNfV1oybUc4UF8zY3paWHVNSVQwT0hmbk4xMHEtX0FDUVFLUVpOT3lDaURucktud25lVmdXZjdiZV9aaVU2Tkp5ZXBPSU9iM1RqRlpyUTFFNkdCQjJvQkZFcVBIS3lFRUF1Ulo3ZXFJbXlreE1HUnRHLTdFNA?oc=5"
+        "title": "EU announces new sanctions against Russian oil refining and \"shadow fleet\" - Українська правда",
+        "source": "Українська правда",
+        "published": "Thu, 12 Nov 2026 10:01:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SdFZrRjlmNjUyYWY1SEdibkdaWnpkWFhoQklLb2M5SnU2YmwzYTUxOUdZd3U0WFY5QkVQY183WG9YRnFCU29xT0h6ckMtdFNuTG85dzVGRlRwZWlXV2ZkVHFkSEPSAXBBVV95cUxOcUZHZjF3NVlpNFRIaDVDczlwbEpZNHdkNmY5R2hGRlh6UThGdzdzZEw1LTVfOXRjSHFEdmhaRk11Y2RDZGFWUDhTVXpZVDF2eERFbzJfbWI3c29TQnMyb0JJYXRWdXpBYVNfbzVBZExJ?oc=5"
       },
       {
-        "title": "Saudi Oil Output Returns to Prewar Levels, Rising Despite Maritime Attacks - bloomingbit",
-        "source": "bloomingbit",
-        "published": "Wed, 11 Nov 2026 23:57:12 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CV3E5Z0FYb1JFV0VmY1padDNxSlltM0FVOWwtNVFIMzdkejJoOHA2Y1U3cG9ES0dyMjdPUF9VVFBpM3pOSWVvcGxPeTRlUDZfQ2g4YQ?oc=5"
-      },
-      {
-        "title": "Oil Prices Rebound as Middle East Supply Risks Persist - WSJ",
-        "source": "WSJ",
-        "published": "Wed, 11 Nov 2026 21:30:17 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMG9QUTRTOFdKeFlQeU5fLTdmZnJjdllnZFFQb0tRcU4wOGUxaDdkUThaMERudUlRM3hyalVvMVVVZHJkZUM2OWVSWXR5ZThzSEVEOGo0WjdncmVET1NtcHZ3a1ZScFZTaGt4dlpWYnlMRGtpT3ZoM3p0cWhmN1FCNHk1LTI0dGxHMDZwQmpxcDgtSmNQNzNOZFJqbFFDVE44OVNYcERB?oc=5"
-      },
-      {
-        "title": "West of Suez: Brent, LSGO rebounds on lack of US-Iran deal - Quantum Commodity Intelligence",
-        "source": "Quantum Commodity Intelligence",
-        "published": "Wed, 11 Nov 2026 19:57:39 GMT",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOEk3bGdIRVhwOWZQVXFkdDJfbXFNT3VfbUJZSWQ5OHlUSVNoR2J1MlJaUktrQTczU1oyOEZCQWVWVS1TY081aVdPeDZZYW9qTDU0MHdfWk5UX3ZvSzd0WFFTMTlwVHgwYTZJTjloS2xvcVVRU3lPanROQndyaHZUUkVtM2tEZlQzWmJPZVhJUjAzOFhmZVBLNWRObDdHX0cw?oc=5"
-      },
-      {
-        "title": "Brent crude oil edges higher as US President Trump pauses further action against Iran, easing Middle East supply risk - Traders Union",
+        "title": "Can increased OPEC supply pressure Brent crude price? - Traders Union",
         "source": "Traders Union",
-        "published": "Wed, 11 Nov 2026 19:08:34 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRlJtclp0TjBLYTlPWGw2cGdmYkUxbFY4UjNfUFR2bTlQRVRUU0h2UnB6WGxpSnY5WHJocUVjd1hZb1FIUWdyUTdNRDBTek9FdVpuNXZLSG1ob0J5Rzl5RWllSjhlWEZqXzQ2MVhRdUg3TTJ6a0pLbGZXeTE5X1BLQ092eUtOU00?oc=5"
+        "published": "Thu, 12 Nov 2026 09:18:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZUotdWhveExQQXVDSVViYmpfX0s3ckh5U09oTzZYaUdRZllrXzhxdVdaNG9xMUlQSWhlXy1CUDdQQ2Ezb1psUVB1aml6bVQ5TktXVFcyUGRRWm1vSldOQVUtMmxOWi1TTUI1SEhmYUZIaElpZGtSTG5hRUdqZ1E2VEZvel96UmFJekI0aldR?oc=5"
       },
       {
-        "title": "EIA sees Brent near $100/bbl through yearend 2026 as Middle East supply constraints persist - Oil & Gas Journal",
-        "source": "Oil & Gas Journal",
-        "published": "Wed, 11 Nov 2026 18:39:33 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcHJRckFJanZLU2JfVUgyczJGazUwMXJIcXBDZlk5WnNGc25UeVdrWVNWQzE3bjY3TnNSV2tZWktCbjYzYnQ0WGtEYmxEMVktU2thR3pZNnprNlNHSFhfMzJaSWx3dzQwdm1NazFYQ2RFRjcxbUZlZzByUDBLWmpOLW9QalFVODdDbS1NQnRvUGtYaktWcXhBOXMzbkNCNHJ5RFNGcndqQTFOb0ZxSThQdmVvekxTeTJocmw2VERVSE9hOVdXQXAzay1keEJuRl9iU09aZklGaHk1cFR5QXQ2MU9XbEt5aDFpLVZLRG9VbUg?oc=5"
+        "title": "WTI Price Forecast: Downside bias persists while below 100-SMA hurdle near $86.80 - FXStreet",
+        "source": "FXStreet",
+        "published": "Thu, 12 Nov 2026 09:06:35 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTUQwekRSODBUOExtdXN6TjlGQVp3aEdCZWs0SzRyTHpmVk5nS25HQVpUcGhKZnRvX1IzeW9FMkh2T1hvalo5d21BTEZGTHVHWmE0VG0xcXI5b0NPb1pDekJDc2ViZGdJMTFfSGVNVE9ZLUlLMTNXVldmREJjRVliak0wZkxQQTh6TDFJejhLVkZqQi1TVlNIbWhKcEM4S0xVemdZY2RrdkZNcW1udnJrMXBOcER3VWJQS29EU0RB?oc=5"
+      },
+      {
+        "title": "Oil falls as supply glut concerns and easing geopolitical risks weigh on prices - Anadolu Ajansı",
+        "source": "Anadolu Ajansı",
+        "published": "Thu, 12 Nov 2026 07:51:24 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMW9xdU82SFhaSDNfOW93QW5SMlowTm9HUkYzRzJHOUhlbk5wdENzdlJ2Y0hlTFlWZXRCQmVfRmhZdHZBZVhvMEFMOWx4ZGJ6U2ljeXFQeW5XS2pSZk05X0duYlUxQzhWOGNLUjR6SzNlYlFiN2RaM3hWbjZrVGJpNmUyVm8yWnZ2STgzM0g0YzVXa0FaY1RUSk5xdE9CeWxoSENzTWU5Yk1pZjJBWVRHQktaam5GZXNtcXZDcnBR0gHGAUFVX3lxTFBHUzN3R1BFU3BBcWh4NDZjMkcyeVE3b0Vfc0ZadzdHRVBhSFJ1U2xwYzgxVEpQTTJlV3ZyRlJEV2dsXzZVZ2dFc1dtbGNBM2VGa0lyZGRSVVdIVnR5VFpKT1I0Qm9sa1QyZ05CUmhNV1pxdzc5OVpOVTBJeDdCbDZfRm96WktfNVdtUXdkZkR5ODJpWVA4NERkTmFRNGxrUjJiaXJmamlfTW53ZGpPZl9pdkRQY0ZoMUhKbHFyOGpUSFZ2T01PQQ?oc=5"
+      },
+      {
+        "title": "ASEAN Moves to Build Emergency Oil Reserves Amid Iran Supply Crisis - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Thu, 12 Nov 2026 07:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNG8zQmFwQVlFU3Y3RkNPbDBqUUpJZWdvaUM2OGw1QW16QV9nUHFJYlR2bDNTaVRWd1dWZl8xTFowQVNIeFFfOFo0dWVpdnpIWnBrZlBzWmM2UzY0SVdFMTFPSDBfS1R3b29GMFBoWm1oLV9GTXZRZG9Cd2tNSzlDUnRTZXUzdlhjYlVfMWQ5ZEVwalVTMjROQUNpcWxoWVo2OFhGSnY5UGJ6N0R5eGM2Q3RlUVFJLVhpQ3hMYkJ3MUU?oc=5"
+      },
+      {
+        "title": "Oil Price Forecast: WTI Falls Below $87 as Supply Fears Ease - FXEmpire",
+        "source": "FXEmpire",
+        "published": "Thu, 12 Nov 2026 07:22:24 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRUpaUFFjdlpZTnhVUGdVSDNrOGVXQjBhSTBqbTJPUk5KcFp5YzE5SmVBUFBjTVV0YjhueG1sam52My1xanF6Rl9lWURMNjNzM3BrbUxfU1lIUW1YR3htUGFqWFdIZGFvU0pnQjJPUERpQXVIZjhYMWp0R3Fid2dvTHFwUFZJRFdqOUFPVGpHYk0yNVlHTVF3Zk1YLWRrM0xVODVPNmhta1U2Vk0xR0E?oc=5"
       }
     ]
   }
