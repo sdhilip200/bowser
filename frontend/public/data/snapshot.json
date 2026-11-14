@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-11-14T20:08:46+00:00",
+  "generated_at": "2026-11-14T22:00:22+00:00",
   "fx": {
-    "nzd_per_usd": 1.802654,
-    "as_of": "Fri, 13 Nov 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.809216,
+    "as_of": "Sat, 14 Nov 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 96.08,
+      "latest": 95.84,
       "latest_date": "2026-11-13",
-      "delta_1d_pct": 0.27,
-      "delta_30d_pct": -6.03,
+      "delta_1d_pct": 0.02,
+      "delta_30d_pct": -6.27,
       "series": [
-        {
-          "date": "2025-11-13",
-          "usd": 63.01
-        },
         {
           "date": "2025-11-14",
           "usd": 64.39
@@ -1017,20 +1013,16 @@
         },
         {
           "date": "2026-11-13",
-          "usd": 96.08
+          "usd": 95.84
         }
       ]
     },
     "wti": {
-      "latest": 88.92,
+      "latest": 88.56,
       "latest_date": "2026-11-13",
-      "delta_1d_pct": 0.2,
-      "delta_30d_pct": -2.4,
+      "delta_1d_pct": -0.2,
+      "delta_30d_pct": -2.8,
       "series": [
-        {
-          "date": "2025-11-13",
-          "usd": 58.69
-        },
         {
           "date": "2025-11-14",
           "usd": 60.09
@@ -2033,35 +2025,35 @@
         },
         {
           "date": "2026-11-13",
-          "usd": 88.92
+          "usd": 88.56
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-11-13",
+    "as_of": "2026-11-14",
     "regular_91": {
-      "avg": 3.377,
+      "avg": 3.359,
       "min": 3.126,
       "max": 3.89,
-      "count": 74
+      "count": 66
     },
     "premium_95": {
-      "avg": 3.563,
+      "avg": 3.58,
       "min": 3.296,
-      "max": 4.219,
-      "count": 40
+      "max": 3.899,
+      "count": 43
     },
     "premium_98": {
-      "avg": 3.677,
+      "avg": 3.694,
       "min": 3.386,
-      "max": 3.819,
-      "count": 14
+      "max": 3.999,
+      "count": 11
     },
     "diesel": {
-      "avg": 3.037,
+      "avg": 3.054,
       "min": 2.706,
-      "max": 3.239,
+      "max": 3.409,
       "count": 76
     },
     "lpg": {
@@ -2070,9 +2062,9 @@
       "max": 1.999,
       "count": 1
     },
-    "observations_today": 163,
-    "observations_yesterday": 33,
-    "observations_older": 9
+    "observations_today": 108,
+    "observations_yesterday": 47,
+    "observations_older": 42
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8612,12 +8604,6 @@
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzdkgyU3AxbmZXWUpsd1R4R2pzVDVXNlUzSlQ1ZmFKdk9VSmRMdzNRZW1LY1ZDT3NoZWRzUDB0X1h5RlR0MFNQWU5wdlBaTjJXMFVHZ2tsMFBucEdCdnAwYVV4aDFhQXIzTi1iaHdybGZrQXFxNVN4dVMtRnV4UQ?oc=5"
       },
       {
-        "title": "Petrol price hits all-time-high as average litre of 91 tops $3.50 - 1News",
-        "source": "1News",
-        "published": "Mon, 05 Oct 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV081OVF5QWx6eUJ1aVFfcW5ucTY5ZkE3QjZoOXlKbjNzYjJKYlQwM1Qwc2RSNEJrbWdiVVhtNVBCWFdNV0JpeTFPUnFjMU9OangteUdVRTkwaW5uY2ZMVzJYenN0ampSZV8teThBQi1vVjFqYVp2N0FWekQ1RzV6SExfN3JWTFFSRVdvS0hwak84SmJPOGh4Sk5xdExwQW9P?oc=5"
-      },
-      {
         "title": "Rising diesel price could make rest of year more expensive for households - RNZ",
         "source": "RNZ",
         "published": "Wed, 30 Sep 2026 07:00:00 GMT",
@@ -8628,15 +8614,15 @@
         "source": "RNZ",
         "published": "Fri, 25 Sep 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdFBnUVBLVnZCLXo0VjFxalBZYWI1OG1TTlpqN1RGdjNWWkFuMHNkREN1MUlXTDVUNDJwV191NFdQbzVlTWhpRk5ZTU9oR3hnSkhqdjM0REdJT2xKblctTTNYOXQ5LW5XYW1wUTJPYXJrbWJEeDhKTEFxZXpxMHhfTjY1Sl9wRDhHNUs1WQ?oc=5"
+      },
+      {
+        "title": "Pain at the pump as petrol, diesel jump 30c a litre in three weeks - 1News",
+        "source": "1News",
+        "published": "Tue, 22 Sep 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYmd2NlJRbUotSW9aWFRwS3JndmhqZVEzUkxuRk53a0pLQ2VPMnZXZjZ3RzYxblN2OVdjeUJDMlBSM1ZKX2Q1QkxVei1sYVZKY1lXanp5akN1OGl0LTdRZTlGYUJZUGlCNUlJbkZKMWZEUXZlSS1RTS1wWjRWbE9VZXBnbEVvRlVScFlpc3dORFoxaUdYcWd0TllVbXFFOEdWaDM4?oc=5"
       }
     ],
     "global": [
-      {
-        "title": "Global Oil Market Set to Return to Surplus as Gulf Exports Recover, IEA Says - WSJ",
-        "source": "WSJ",
-        "published": "Sat, 14 Nov 2026 19:48:24 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQVljaDkwUzhILVlYVTR6aFdubUJxUV9xMURUOWpaVkpmejFYcXZCOGUyYUlKZDhMVzJkNF9idTIyOVI4OGtMdWJiMlhVN1VKUV9qX181SUs0azJ6S2wyR2hBY3Q0cU5NaXlXaUZodFJBTFlXRjdtRkVmVGFBWFBhTTlFNWRWaUxtSF9RREF2YUluNkZyVFlybW14RlBPRFFJcFFiN3R6em84MXdKT0w0amJpSDlRbnEyYmExQ3VDVGljdw?oc=5"
-      },
       {
         "title": "Iran says oil trade negotiations with India continuing despite sanctions - Apa.az",
         "source": "Apa.az",
@@ -8678,6 +8664,12 @@
         "source": "The Guardian",
         "published": "Sat, 14 Nov 2026 02:31:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNndNZUdKRnhDVGRkRE85YjZfUG1pUFd5NlVkbjBhbWZaTjZqZlRCU3RmMlBzR1ZjMmJpZi1jX2FvT01wbVc0ZDNaYm9YZUFTZm4wX29QQ3NLN0VpVS1CUjRBVm1GeWlHRk8yb1R4QkMySE5HUjdMUEM3OGVXdU5XM3lORndmX1RwRFdEbkZhalpnVmdONXhJYkR6bUpDZ2xfTXB1MlNuWDNFOGtPSFh0NzF0OWFYSjFBdU1hdVNqQnNSbUdMMi1JZW9vV1UwUQ?oc=5"
+      },
+      {
+        "title": "Gasoline, Diesel, Jet Fuel And Brent - TalkMarkets - Howl.Link",
+        "source": "Howl.Link",
+        "published": "Sat, 14 Nov 2026 02:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1OTHM5dzM1NXFQZ1lmVFdwZ1FfWmczTnVCbk82U2NONUVfSUhVNXcwdDZSX0lrWXlfa0Rz?oc=5"
       }
     ]
   }
