@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T15:44:02+00:00",
+  "generated_at": "2026-11-14T20:08:46+00:00",
   "fx": {
     "nzd_per_usd": 1.802654,
     "as_of": "Fri, 13 Nov 2026 00:02:31 +0000"
@@ -8612,6 +8612,12 @@
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzdkgyU3AxbmZXWUpsd1R4R2pzVDVXNlUzSlQ1ZmFKdk9VSmRMdzNRZW1LY1ZDT3NoZWRzUDB0X1h5RlR0MFNQWU5wdlBaTjJXMFVHZ2tsMFBucEdCdnAwYVV4aDFhQXIzTi1iaHdybGZrQXFxNVN4dVMtRnV4UQ?oc=5"
       },
       {
+        "title": "Petrol price hits all-time-high as average litre of 91 tops $3.50 - 1News",
+        "source": "1News",
+        "published": "Mon, 05 Oct 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV081OVF5QWx6eUJ1aVFfcW5ucTY5ZkE3QjZoOXlKbjNzYjJKYlQwM1Qwc2RSNEJrbWdiVVhtNVBCWFdNV0JpeTFPUnFjMU9OangteUdVRTkwaW5uY2ZMVzJYenN0ampSZV8teThBQi1vVjFqYVp2N0FWekQ1RzV6SExfN3JWTFFSRVdvS0hwak84SmJPOGh4Sk5xdExwQW9P?oc=5"
+      },
+      {
         "title": "Rising diesel price could make rest of year more expensive for households - RNZ",
         "source": "RNZ",
         "published": "Wed, 30 Sep 2026 07:00:00 GMT",
@@ -8622,15 +8628,21 @@
         "source": "RNZ",
         "published": "Fri, 25 Sep 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdFBnUVBLVnZCLXo0VjFxalBZYWI1OG1TTlpqN1RGdjNWWkFuMHNkREN1MUlXTDVUNDJwV191NFdQbzVlTWhpRk5ZTU9oR3hnSkhqdjM0REdJT2xKblctTTNYOXQ5LW5XYW1wUTJPYXJrbWJEeDhKTEFxZXpxMHhfTjY1Sl9wRDhHNUs1WQ?oc=5"
-      },
-      {
-        "title": "Pain at the pump as petrol, diesel jump 30c a litre in three weeks - 1News",
-        "source": "1News",
-        "published": "Tue, 22 Sep 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYmd2NlJRbUotSW9aWFRwS3JndmhqZVEzUkxuRk53a0pLQ2VPMnZXZjZ3RzYxblN2OVdjeUJDMlBSM1ZKX2Q1QkxVei1sYVZKY1lXanp5akN1OGl0LTdRZTlGYUJZUGlCNUlJbkZKMWZEUXZlSS1RTS1wWjRWbE9VZXBnbEVvRlVScFlpc3dORFoxaUdYcWd0TllVbXFFOEdWaDM4?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Global Oil Market Set to Return to Surplus as Gulf Exports Recover, IEA Says - WSJ",
+        "source": "WSJ",
+        "published": "Sat, 14 Nov 2026 19:48:24 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQVljaDkwUzhILVlYVTR6aFdubUJxUV9xMURUOWpaVkpmejFYcXZCOGUyYUlKZDhMVzJkNF9idTIyOVI4OGtMdWJiMlhVN1VKUV9qX181SUs0azJ6S2wyR2hBY3Q0cU5NaXlXaUZodFJBTFlXRjdtRkVmVGFBWFBhTTlFNWRWaUxtSF9RREF2YUluNkZyVFlybW14RlBPRFFJcFFiN3R6em84MXdKT0w0amJpSDlRbnEyYmExQ3VDVGljdw?oc=5"
+      },
+      {
+        "title": "Iran says oil trade negotiations with India continuing despite sanctions - Apa.az",
+        "source": "Apa.az",
+        "published": "Sat, 14 Nov 2026 17:25:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUmNvZWE3SGhDZDcxcUJSbzByZ3JYcnNmSWw1MzBfc05NRFhSSU16cjFqaUkwTUNueTNfWE45a3VxdHRxWGRUY1JQZkFtRGdoS2hrWmZycGdUcjBoMjVMcnZveVgyNmFQbWdobGVJMDBLNkdfWE5TMTBKNEdVVmh4akxydkZrc29ER0hTU0d6VFAyLXJKSTlXRlRuYmRCRVZRYjc5Uw?oc=5"
+      },
       {
         "title": "Denmark Pledges €665M in Aid, UK Sanctions Russian Oil After Zelensky Tour - Kyiv Post",
         "source": "Kyiv Post",
@@ -8666,18 +8678,6 @@
         "source": "The Guardian",
         "published": "Sat, 14 Nov 2026 02:31:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNndNZUdKRnhDVGRkRE85YjZfUG1pUFd5NlVkbjBhbWZaTjZqZlRCU3RmMlBzR1ZjMmJpZi1jX2FvT01wbVc0ZDNaYm9YZUFTZm4wX29QQ3NLN0VpVS1CUjRBVm1GeWlHRk8yb1R4QkMySE5HUjdMUEM3OGVXdU5XM3lORndmX1RwRFdEbkZhalpnVmdONXhJYkR6bUpDZ2xfTXB1MlNuWDNFOGtPSFh0NzF0OWFYSjFBdU1hdVNqQnNSbUdMMi1JZW9vV1UwUQ?oc=5"
-      },
-      {
-        "title": "Gasoline, Diesel, Jet Fuel And Brent - TalkMarkets - Howl.Link",
-        "source": "Howl.Link",
-        "published": "Sat, 14 Nov 2026 02:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1OTHM5dzM1NXFQZ1lmVFdwZ1FfWmczTnVCbk82U2NONUVfSUhVNXcwdDZSX0lrWXlfa0Rz?oc=5"
-      },
-      {
-        "title": "Brent and WTI set for losses of about 2.5% in week to Nov 13 as surplus concerns grow - Nation Thailand",
-        "source": "Nation Thailand",
-        "published": "Sat, 14 Nov 2026 00:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01LTJ6WHVnYlFGamxyNzd2QmU0SXdKZ25PcG5tdnhQYzd5YkpxMFd6U1lPOUk4cDRfS21ERHBvSDl5MHNkbldNemVfdUJKYThQcmx0LUdfSXJRU2ZBaklR?oc=5"
       }
     ]
   }
