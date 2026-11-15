@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-15T19:52:42+00:00",
+  "generated_at": "2026-11-15T22:31:16+00:00",
   "fx": {
-    "nzd_per_usd": 1.809216,
-    "as_of": "Sat, 14 Nov 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.80864,
+    "as_of": "Sun, 15 Nov 2026 00:02:32 +0000"
   },
   "crude": {
     "brent": {
@@ -11,10 +11,6 @@
       "delta_1d_pct": 0.02,
       "delta_30d_pct": -6.27,
       "series": [
-        {
-          "date": "2025-11-14",
-          "usd": 64.39
-        },
         {
           "date": "2025-11-17",
           "usd": 64.2
@@ -1024,10 +1020,6 @@
       "delta_30d_pct": -2.8,
       "series": [
         {
-          "date": "2025-11-14",
-          "usd": 60.09
-        },
-        {
           "date": "2025-11-17",
           "usd": 59.91
         },
@@ -2031,30 +2023,30 @@
     }
   },
   "nz_retail": {
-    "as_of": "2026-11-14",
+    "as_of": "2026-11-15",
     "regular_91": {
-      "avg": 3.359,
+      "avg": 3.368,
       "min": 3.126,
-      "max": 3.89,
-      "count": 66
+      "max": 4.139,
+      "count": 86
     },
     "premium_95": {
-      "avg": 3.58,
-      "min": 3.296,
-      "max": 3.899,
+      "avg": 3.545,
+      "min": 3.199,
+      "max": 3.849,
       "count": 43
     },
     "premium_98": {
-      "avg": 3.694,
+      "avg": 3.586,
       "min": 3.386,
-      "max": 3.999,
-      "count": 11
+      "max": 3.709,
+      "count": 9
     },
     "diesel": {
-      "avg": 3.054,
+      "avg": 3.057,
       "min": 2.706,
-      "max": 3.409,
-      "count": 76
+      "max": 3.929,
+      "count": 92
     },
     "lpg": {
       "avg": 1.999,
@@ -2062,9 +2054,9 @@
       "max": 1.999,
       "count": 1
     },
-    "observations_today": 108,
-    "observations_yesterday": 47,
-    "observations_older": 42
+    "observations_today": 196,
+    "observations_yesterday": 0,
+    "observations_older": 35
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8616,24 +8608,48 @@
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV3VaV1BZM3FLMVJDUTF5Tjd4NEpVZUkwVGpvSHhJR0xpc25jUlV6RGloM0ZFU2hvZWpYMEZ4aEl2N1UwR0JNMTFUUzBUZ1dFWFRvZGZlM0I1MnBPQkh4T3hGQnpJV0NwaGNycXdKTmI1TG4zU0haMkRvTlJreDA0NjYxMHMwRkkwQ19IRzZ0bWpoZE05Y3I0Y1paVmItbmpJSnhWTW1ISjFNY0RYRVI2R3QzZkVxY0hLN2c2a1JYSE5WcjdOclZvZ2s5MTg1aDlZaVE?oc=5"
       },
       {
-        "title": "Air NZ passenger numbers fall as jet fuel price rises hit - RNZ",
+        "title": "Air New Zealand plunges to $242 million loss as fuel and engine costs bite - RNZ",
         "source": "RNZ",
-        "published": "Tue, 04 Aug 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWmZwcjZucW4yZ1N5eHhMNWhUSy04YU9fVENtSk5UbVZBUmdGQzNOeTNob3kzOXBabjQ2LWYxVGkxMnhvVTFZZ1ZYaEZqSXBhZjlBbkt1WlI4YmFfN3lKY0dFMS1sS1dMMl9ucUZrcUtmR3hoRzYwM0dYTWJOU2tKV0h5YWZDcmg1UnNOc0Z3WUtkYVluQnNhazhNSURjQ0dpd3c?oc=5"
+        "published": "Fri, 28 Aug 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2RCa21UWVhMTEZNUGtfbWVXelplREIyTTVNaEtSYzNzMXpyS1RVMHNDWDNoQm80Y3QwbUFMdnNDVjh3RWdvR3otT3pxbENSU2hBajJoOFJLdENObGxpZFNUTG5kalFQczlJck1lYzFfT0kxMmZ0RjBzUXpqbXRQMXM5dFBVTXJ5SW1xVXVnMzF3T1FoV2thbFhZQmEwSmJYeHo4N3EwRkxQaW1HbmN2OU1NQjkzWkVS?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Russia Sanctions Tighten as Crypto and Fintech Fuel Oil Revenue Flows, Hockey Tensions, and Legislative Pushback - Crowdfund Insider",
+        "source": "Crowdfund Insider",
+        "published": "Sun, 15 Nov 2026 22:10:37 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQnJCbHl1Vk1DbmhmYnl0dFNyazJFY1EzX1NBckt2QUtVcXFrT3BGc2hCenNnMkxuTXNoU0xzLWl0cUVYWlNQYVRsX29feEh4dmFOVndVY0xzTTR4MzZGY3JjSVU0d0o0VFlGVjFfLUYyd1A2X3FsRXJKUXJpeHdmUVJzamlVMkREbHhJdEh6OXF1UUNiNk1NZE1YdV92VDREZm1KVjNkTEg3NlZ1QmwwalNTenNnamQ1MGczTU1FdENiUU5TRk1fbEJ5RjQwY3ZSRFNXamxjS0s4OXc5QUNhYzUyXzBjRV9WS2F5WC03b0I?oc=5"
+      },
+      {
+        "title": "Oil falls on surplus as Brent, WTI down ~2.5% for week - Ticker News",
+        "source": "Ticker News",
+        "published": "Sun, 15 Nov 2026 21:09:18 GMT",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kMVZlcnJjVFJDMWludHZOaGxrQlhsRUk4MVM3MUstRDN2RTJPYm9YbWhyaFpNQlBCcWxmclFmN1hvaHFvZHVrUUpVeEh1UUt1cmxfbTByd19sV2pxUlNUNTNDMnBCajRIcGdTREpvUXVmNG52bmFn?oc=5"
+      },
+      {
+        "title": "Ukraine’s long-range sanctions have halted more than 55% of Russia’s oil refining capacity — Zelenskyy - Українські Національні Новини (УНН)",
+        "source": "Українські Національні Новини (УНН)",
+        "published": "Sun, 15 Nov 2026 20:28:58 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMzh5SFYyTmFZRDE1TGd4d2liYWxIZUpvWTI5UzlLQzFTZlNid1N0Um9GTkVyb2stNEpqbE5nTXVNaWQwclhmTjFZMDhqdWtZSHFUTXp4Z0xma3JBVTV2VUVtdDRVM2RCREl5NGw0TzZlV0NKTlVxWkdGNF9jUWdWS2h3aVVPdVk5QXYySUFjcG1XUHN4RzdGTVRxVjAtd3hTbm5CS3BBOHdMN2NLbEs3YVZpd2RYY0oxTnNYSGl0QzJrck1qa3fSAcQBQVVfeXFMUGc2RlpSWTMxYWx2RVM4OGIxMV92S00ybHhWNmdrSHhaY19LNXBRallYX2YwZlhLS2N0TlpNNWVUbFdvSFktcHhHOEl0cE5wUUN3T25LamdPSlBTaG9jaE9EODVzaWY1d0JaWEhuOXdoUVVWbDhBR0NnZEY4cUp1amgtM2hWQjBCbTBzdFVWb3pIZWNxckNLQzhRNlVDcUNKYkw2RVVYQ01mU290SjhtVWdMN3V3ZjhZMldXTnRIOTNIWnpMZw?oc=5"
+      },
+      {
+        "title": "EU announces new sanctions following interception of oil tanker linked to Russia's ghost fleet in Mediterranean - European Interest",
+        "source": "European Interest",
+        "published": "Sun, 15 Nov 2026 20:11:26 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWHVuYUU5NFZCRzNUUkhsUTJNN3VncmlpZllwbzFrS2pzRHJSUXZ3UmJzbGlCNko5OWxOUEVDdUhDa1dRVnl3Tk54LUo5UE4tU0dkNG5BMHVfOGQtdWE3YW9QN0pfb2x0WGgzVHhxbS16Wl91bjFVRHpkSFlMb3pFdEppaWt2VGp6bFdNU3U0R2c3OU1hSEFjSUxwNGdBeHhsM0pnWDFPYktMc091ZGt3N1p1Vk9yMlZKVkRMcHFna3dHdE5mcjA2OGo0S2Rja1A1MjUyZjNNc2Robmc?oc=5"
+      },
+      {
+        "title": "The $130 Billion Oil Boom Fueled by the Iran War - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Sun, 15 Nov 2026 20:04:12 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNREQwREdna2c5ZzZySWUweTVNYmNRTUt6Y2lfcFdiQlAyRTNrRkJpRFplcG9CWFFrSjd0QkMyNHMyNk1GQk9nQmhOOXhVUkQ2cmNMUE5jaXNBdzFjTHdQLWRDRV9CaVlrdU1pVWFzTTJndVc5bU5XNGhRYUpCa0JwcFEyVm9tb2tCNDc4al9XY2x5UjlM0gGaAUFVX3lxTE9PeGkwOEpmRFRfdHR3OS1EZ0NBNFJCTHMwS2lIWDVaeEY4WFZhV1Q2OE8zZnBZRjZodnY2SUQzeERfdEVkYlpKM1FGRUtjX1FnZGx2OElrRVowRmlXeG0yeTBLYTlTc0gwZW1nbUFjdHlaUjFxM3B0UzFCdlVkZ1h3cEtLNzF2Z196UFVVb3lxcmt0OTljUlE3dHc?oc=5"
+      },
       {
         "title": "WTI Crude Oil Rebounds Toward $90 as Middle East Risks Keep Traders Cautious - Forex Factory",
         "source": "Forex Factory",
         "published": "Sun, 15 Nov 2026 18:36:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU0h6SnJGdll2V0lVd3duZUcybnN0ekRua0VlWGF4VW9GOWFDYWVKVzVhSm9pclFVdVhzVTB4X0dxZVZBWmpQRWtEWU9Pb0t5MXVDbG9xd2xJVlpfaEh1WVdoQ3YtVXVpRWhlMTJHUklsRnQ4ckxmWGQ4Q1psenR0NHF6eTUtcEkyQWFWUdIBkgFBVV95cUxPZEpUNVVBQkR6ZF9rWV84TlhWVkhkOTc2SGJmRHdCMnlES05GVjZlS0swaG9uZVRpcXpwWE00Qk1pbFMxRFBueXhTTG8tNHlQdHVvdzVfeDhyZlZadW81dmUwWlZRWjUwT3I2ZHpnbTR0QU1tREFxVXRiaU50WnlFMG81RUJ4M0FsZUU1cnV5STRKUQ?oc=5"
-      },
-      {
-        "title": "How Brazil Plans to Accelerate the Global Shift Away From Fossil Fuels - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Sun, 15 Nov 2026 16:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONzVCbU9EM0NyMXE0Q21KUEZ5eDl2RHBHVFVVNUxRd3BRR2tuLWJnZ2ZLdHo2Y0xlVzc3U092cEJwSm1HdE9EZDNZSEZFcUF6NGdieS02RGxVRDdGcVBWTWo0dFpTWWtXQklxTkhqU2I2YmMwSnRKMEhmb29YTVVKSWJRQW0teEx5aFFvUGpzMjVhUTBQRkhsZlFTSVhhNklNSlRmcTBlTXBxNjRlZGdUdmVnVGNqVlItRHfSAb8BQVVfeXFMTjF1aVVhcUpxS1lDck41QW5ZdTE1cl8wQnRHVkJtQVdLT2I5QWdUVWVvUjRzWG0tTS02bWotZURPREsyUkFjUWF0a25BbFFCOU96aDY4cDRkLUYtSmx6N3dkRzdvTTdyMXc5VGRYaU9kNVdFZDZSTlpiRkg5Y3hnUlhndE1ZTDRpb044TUxLajFaLWoyY3JvcEo2SGNWMTNBVVhaRHc5VnJBT3NYREs3V1JEUFVtS3lYWUJiQTQzTGM?oc=5"
       },
       {
         "title": "Fuel prices unchanged for ninth consecutive week - Taipei Times",
@@ -8642,34 +8658,10 @@
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92MHp6cGVvbmFKYkVTbUlBNU1oOFY0aHM3YVJRaHRBdGd3M2lJU2tFVXRNODJxWUlkMW5ycE5Ea1dYcm9QSkpfRkhoOUhfVFhRWVk3dWxaOExrdWxWbFVnS0N1V1E1Smp1S2dWQnB3c0dDTUpPcUE?oc=5"
       },
       {
-        "title": "EU naval forces board Russian shadow fleet tanker sailing under false flag in Mediterranean as new sanctions loom - Euromaidan Press",
-        "source": "Euromaidan Press",
-        "published": "Sun, 15 Nov 2026 13:41:15 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1dUb3R5aXQ5UXU2LXV6aDZGcDFYT0pIY2Jwd3ZOUGNvbm9zNUJ1MXIyeUsyTGtxWElMVEEtMkZEUEk0M2lXZFJrNWxpM05XeDlPMlRqandxS3oteElrVGI1ck9yTC0tUG9Ud2phS1RNXzV0YTRnbDFTNVU3LUpySTNjSXJVTk1LbTZzSkhhdkM5WHFPcHZaZVJ2Y0VucWFkcGxLUkFBa3pQdw?oc=5"
-      },
-      {
-        "title": "Global Oil Prices Plunge for Second Straight Week; Vietnam Retail Prices Fall for Fourth Time - BigGo Finance",
-        "source": "BigGo Finance",
-        "published": "Sun, 15 Nov 2026 05:55:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1QUIxekNHQVFGR1JTYkRSZFNHbmJKd2xDLVBDTFZGdktPRHZSMTRqbWpLcDhMeHdyVFZEQkgyTXJNZjh4WTVhdV9fUHp5RFY0dExfZ1VrNTlwZ1NxY2Y2X2haQ3hkWDAzSEZudlpRa1RLN0ZBM1E?oc=5"
-      },
-      {
-        "title": "Denmark Pledges €665M in Aid, UK Sanctions Russian Oil After Zelensky Tour - Kyiv Post",
-        "source": "Kyiv Post",
-        "published": "Sat, 14 Nov 2026 10:08:07 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuYldLd0I3bElzWEt2M3R6NFdMbW9KR0x6QXVxVGRRSXEwaVZQcTJnczNqa21MTXFuY29PWDFLZE1RajJ2LUtQMXgxbw?oc=5"
-      },
-      {
-        "title": "Iraqi oil blended in Iran, relabeled to dodge sanctions, report says | Alhurra - الحرة",
-        "source": "الحرة",
-        "published": "Sat, 14 Nov 2026 05:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5VbU5Hc1lDYWR2bFZNcG4wWk9WT3lfajdoNmdLNDVuNGlJMl9wZGFKYXNLRVBXVy0wLTlYaGppak1vZw?oc=5"
-      },
-      {
-        "title": "Global oil supply returns to surplus for first time since start of Iran war, says IEA - The Guardian",
-        "source": "The Guardian",
-        "published": "Sat, 14 Nov 2026 02:31:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNndNZUdKRnhDVGRkRE85YjZfUG1pUFd5NlVkbjBhbWZaTjZqZlRCU3RmMlBzR1ZjMmJpZi1jX2FvT01wbVc0ZDNaYm9YZUFTZm4wX29QQ3NLN0VpVS1CUjRBVm1GeWlHRk8yb1R4QkMySE5HUjdMUEM3OGVXdU5XM3lORndmX1RwRFdEbkZhalpnVmdONXhJYkR6bUpDZ2xfTXB1MlNuWDNFOGtPSFh0NzF0OWFYSjFBdU1hdVNqQnNSbUdMMi1JZW9vV1UwUQ?oc=5"
+        "title": "News by CNBC TV18 on TradingView, 2026-11-15 — cnbctv:7bde0fc56094b:0 - TradingView",
+        "source": "TradingView",
+        "published": "Sun, 15 Nov 2026 10:42:37 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfWW04ano5TndZYjZQcXlXd3lKMzgwN1dodWRvTDRJNExNWS1EX2lJZm15WDB2WUF2ZGFUb0REdjF5UDJNS2MtN0I0MzVwT3BsUlpMaVktRnppek1HYzU1QlhjdXV5eXM?oc=5"
       }
     ]
   }
