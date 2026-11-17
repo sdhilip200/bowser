@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-17T00:20:45+00:00",
+  "generated_at": "2026-11-17T01:38:28+00:00",
   "fx": {
-    "nzd_per_usd": 1.80864,
-    "as_of": "Sun, 15 Nov 2026 00:02:32 +0000"
+    "nzd_per_usd": 1.816952,
+    "as_of": "Tue, 17 Nov 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 95.84,
-      "latest_date": "2026-11-13",
-      "delta_1d_pct": 0.02,
-      "delta_30d_pct": -6.27,
+      "latest": 91.87,
+      "latest_date": "2026-11-17",
+      "delta_1d_pct": -4.14,
+      "delta_30d_pct": -8.42,
       "series": [
         {
           "date": "2025-11-17",
@@ -1010,14 +1010,18 @@
         {
           "date": "2026-11-13",
           "usd": 95.84
+        },
+        {
+          "date": "2026-11-17",
+          "usd": 91.87
         }
       ]
     },
     "wti": {
-      "latest": 88.56,
-      "latest_date": "2026-11-13",
-      "delta_1d_pct": -0.2,
-      "delta_30d_pct": -2.8,
+      "latest": 85.25,
+      "latest_date": "2026-11-17",
+      "delta_1d_pct": -0.55,
+      "delta_30d_pct": -4.68,
       "series": [
         {
           "date": "2025-11-17",
@@ -2018,45 +2022,53 @@
         {
           "date": "2026-11-13",
           "usd": 88.56
+        },
+        {
+          "date": "2026-11-16",
+          "usd": 85.72
+        },
+        {
+          "date": "2026-11-17",
+          "usd": 85.25
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-11-15",
+    "as_of": "2026-11-17",
     "regular_91": {
-      "avg": 3.368,
-      "min": 3.126,
-      "max": 4.139,
-      "count": 86
+      "avg": 3.313,
+      "min": 2.986,
+      "max": 3.829,
+      "count": 87
     },
     "premium_95": {
-      "avg": 3.545,
-      "min": 3.199,
-      "max": 3.849,
-      "count": 43
+      "avg": 3.504,
+      "min": 3.146,
+      "max": 3.929,
+      "count": 50
     },
     "premium_98": {
-      "avg": 3.586,
+      "avg": 3.566,
       "min": 3.386,
-      "max": 3.709,
-      "count": 9
+      "max": 3.679,
+      "count": 12
     },
     "diesel": {
-      "avg": 3.057,
-      "min": 2.706,
+      "avg": 3.026,
+      "min": 2.676,
       "max": 3.929,
-      "count": 92
+      "count": 98
     },
     "lpg": {
-      "avg": 1.999,
-      "min": 1.999,
-      "max": 1.999,
-      "count": 1
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 196,
-    "observations_yesterday": 0,
-    "observations_older": 35
+    "observations_today": 212,
+    "observations_yesterday": 25,
+    "observations_older": 10
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8566,22 +8578,10 @@
   "news": {
     "nz": [
       {
-        "title": "Supermarkets offering big discounts as fuel prices remain high - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Wed, 11 Nov 2026 16:48:11 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU1cwc3RJRF9PV2dUOUh3aWZuTzJBX0ZSSTF3U3RmQ1MySzNOcVVSS2JzNEhONGdMLUhyZ01xNGpmRGV2UHFlZUVQWlVRQVpGQXRsYzBWZXp1RlVPcHJpWnVGS1JDUEIxdGluYk1HVXlPVE1XYmxGMk9Tb1V5WnlLNXh4U0NOMmYwSzk5elBsQ0hVOHh4X1R6dnJBX3Z2LXBNcVBVVkkydHFJUEVFWVQxblktb0lKUlZUTzBXcTlZcVFjc3NkLWtzdjJSSGFzZVJFcDM4MFZfQ0puUFhVc3c?oc=5"
-      },
-      {
-        "title": "NZ facing fourth-largest increase in fuel costs - RNZ",
-        "source": "RNZ",
-        "published": "Fri, 30 Oct 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZzZlbjIyd29LQlRTX2tCdUYzUzJvWHA2U2NUX0xxelFZODA1ZW5FM0dqam9iUE0xeW1EUUp6WGJSc3BKLXFzZnFBRTZVMGVSbjZ0amJFSDNVaVVTRVFxbU1nUExaNFFGbS1aTFJGS2RLdW1XUmZCM0R5OWo0cngzLXZmUFNobEY2eFVURWRPTF94ZGx2SHc?oc=5"
-      },
-      {
-        "title": "Who is cashing in as petrol prices hit record high at the pump - RNZ",
-        "source": "RNZ",
-        "published": "Mon, 12 Oct 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNEZ2eHlOOUVQTUJZT0Z1T3FpaHpqc0lWc0xvMUlpeVJaeFFmLTlQUlhTcXdpRVQ4SVBUWVJSNFM0ZkE1UWNnS2g2eTkzeGlQS0EtOHRIQ21tWWhGREREa1ZPVkdFTE1BNVNQRThPaFF2bXpyLThlZjhiU0oyTXkzQ2NsMzFodnNtZ0kzeGszVzhGazhTRHF6OU1JWGlzbVdkZVZic2xSZjAxQQ?oc=5"
+        "title": "Petrol and diesel prices continue to surge according to new numbers - 1News",
+        "source": "1News",
+        "published": "Tue, 17 Nov 2026 01:02:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMG1BOVNzOWJQM2YxWmx5eEswQW5GQ1UyT2tZQ1JHOUJqZm9faUdvdUVaeGhjbXBuSDVUenpZbkNPaDhfNWc4eHRlakFMeVJrNXR0U0N2ZEZDeWxPVTVFWTlieUExeVVNNGhham9NeHVPeXd4SldWcU9pMktTS3k5NEtZVEVPYUFteVdtUFJpWC1DX1g2eHhRSkxSNkxYbVJsa0htQ2dn?oc=5"
       },
       {
         "title": "Fuel price hits tipping point - RNZ",
@@ -8596,72 +8596,84 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdFBnUVBLVnZCLXo0VjFxalBZYWI1OG1TTlpqN1RGdjNWWkFuMHNkREN1MUlXTDVUNDJwV191NFdQbzVlTWhpRk5ZTU9oR3hnSkhqdjM0REdJT2xKblctTTNYOXQ5LW5XYW1wUTJPYXJrbWJEeDhKTEFxZXpxMHhfTjY1Sl9wRDhHNUs1WQ?oc=5"
       },
       {
-        "title": "Petrol hits $3.25 a litre as AA warns prices are likely to stay high until mid-November - RNZ",
-        "source": "RNZ",
-        "published": "Fri, 18 Sep 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV3VaV1BZM3FLMVJDUTF5Tjd4NEpVZUkwVGpvSHhJR0xpc25jUlV6RGloM0ZFU2hvZWpYMEZ4aEl2N1UwR0JNMTFUUzBUZ1dFWFRvZGZlM0I1MnBPQkh4T3hGQnpJV0NwaGNycXdKTmI1TG4zU0haMkRvTlJreDA0NjYxMHMwRkkwQ19IRzZ0bWpoZE05Y3I0Y1paVmItbmpJSnhWTW1ISjFNY0RYRVI2R3QzZkVxY0hLN2c2a1JYSE5WcjdOclZvZ2s5MTg1aDlZaVE?oc=5"
+        "title": "Pain at the pump as petrol, diesel jump 30c a litre in three weeks - 1News",
+        "source": "1News",
+        "published": "Tue, 22 Sep 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYmd2NlJRbUotSW9aWFRwS3JndmhqZVEzUkxuRk53a0pLQ2VPMnZXZjZ3RzYxblN2OVdjeUJDMlBSM1ZKX2Q1QkxVei1sYVZKY1lXanp5akN1OGl0LTdRZTlGYUJZUGlCNUlJbkZKMWZEUXZlSS1RTS1wWjRWbE9VZXBnbEVvRlVScFlpc3dORFoxaUdYcWd0TllVbXFFOEdWaDM4?oc=5"
       },
       {
-        "title": "Air New Zealand plunges to $242 million loss as fuel and engine costs bite - RNZ",
+        "title": "Petrol, diesel prices fell between May and June - Stats NZ figures - RNZ",
         "source": "RNZ",
-        "published": "Fri, 28 Aug 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2RCa21UWVhMTEZNUGtfbWVXelplREIyTTVNaEtSYzNzMXpyS1RVMHNDWDNoQm80Y3QwbUFMdnNDVjh3RWdvR3otT3pxbENSU2hBajJoOFJLdENObGxpZFNUTG5kalFQczlJck1lYzFfT0kxMmZ0RjBzUXpqbXRQMXM5dFBVTXJ5SW1xVXVnMzF3T1FoV2thbFhZQmEwSmJYeHo4N3EwRkxQaW1HbmN2OU1NQjkzWkVS?oc=5"
+        "published": "Fri, 17 Jul 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWnQ0ZVkyTk5Xa0loTWU5aHlSOUtnYWU4MVFEVmFtUWlOa1RPMFhRZkI1TUlLaVh2dDVsTkxPeFViREZ2OUU1djhncHdFaTdIZmhNbkxzWjVNM2lCX3RELVpKQ1RUOUtOR0JxWjdFN05VMTZGUFl6Rmt6cUhmYUZ1N1Jha2NrM1FHSUJuSnd2Y2paYWdrbDRONUVXNmNpNkJicFBJcVNCV0laUQ?oc=5"
       },
       {
-        "title": "Air NZ passenger numbers fall as jet fuel price rises hit - RNZ",
-        "source": "RNZ",
-        "published": "Tue, 04 Aug 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWmZwcjZucW4yZ1N5eHhMNWhUSy04YU9fVENtSk5UbVZBUmdGQzNOeTNob3kzOXBabjQ2LWYxVGkxMnhvVTFZZ1ZYaEZqSXBhZjlBbkt1WlI4YmFfN3lKY0dFMS1sS1dMMl9ucUZrcUtmR3hoRzYwM0dYTWJOU2tKV0h5YWZDcmg1UnNOc0Z3WUtkYVluQnNhazhNSURjQ0dpd3c?oc=5"
+        "title": "Energy update: NZ's petrol and diesel stocks up, jet fuel down - 1News",
+        "source": "1News",
+        "published": "Wed, 13 May 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNUZzSWFVeVhnOEtKdVFyTURpSEd3a3JvVXJ4bzdVcUN1ZGdIZFlGM1BmT3RNeDB1Rll3TzNqbEg0ZkNhR3d1Nm5ES0VSUmxERkVYdWlQSEs4NUVDWDJSNFQydlFSZlRsQXRsdDRyQ3dsV0Y2YzRERU1MdWk5WG1pU1Q0SGdQZlpTblRDQ2dDTDZRalA5TGkxdFdsRQ?oc=5"
+      },
+      {
+        "title": "Petrol up, diesel and jet fuel down in latest NZ stocks update - 1News",
+        "source": "1News",
+        "published": "Mon, 11 May 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSXd2bWJvRGtmcGRJdlJMN1MtZ2NwcEhNNWZaRHdzdFVEclZaTGtPSFlKY0NCbmtibGZ0NmR4bjhyamdvdWVYMDNxay1pWHhvS29lOXBpcTY2SHJrdTNxMV9hZU9wYm5xUHJQcC1YOW95VjRTbl82eHBzQVBhNFFqX2VpTmN3WXgwblRYQWt3X2F4TXYwTTMyUzB5RldGdw?oc=5"
+      },
+      {
+        "title": "NZ's petrol, diesel and jet fuel stocks all up - 1News",
+        "source": "1News",
+        "published": "Wed, 29 Apr 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMEhxMXM5QzlGTWd2VlZPbUFTcHlfSC1HdGtLZ0NfYWw4dTZlVTExUVo5UVNUMzF4RUhNX2VHU29RelNMS3JEWTV3b1ZKSVdUbGt2amQ2WG1OeEhsUzhKcEFuaXZsU3J4MzE5aHJVSC1kV3BSay1FeUY0VlVacDYwaGtjeC12QlU?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Oil prices sink amid rising expectations of global supply surplus (USO:NYSEARCA) - Seeking Alpha",
+        "source": "Seeking Alpha",
+        "published": "Tue, 17 Nov 2026 00:43:05 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdGp4RnJuWnFkSXRPUlp0YlhyWk9iQVE5V2JkTWJ2R2g4UTJ5RHhDMXlvYS02X2d3NEdyR3U2bFhZT0diRTJReTRpbTdMdUJnNXNvSlFnTDlGZUxWdnNBejNtV1A5OUNPN2lrRWRzMFJ3N2xqRzhFeER0dDNiMlhkblgySkFkanM0Q0lEbmhQcmZiNXdiSnNFNGFIX3BLNmtpQ19jajVB?oc=5"
+      },
+      {
+        "title": "Oil falls over 3% on Nov 16 as Middle East exports recover - Nation Thailand",
+        "source": "Nation Thailand",
+        "published": "Tue, 17 Nov 2026 00:19:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WaktSb05IRktUdWJsT2ZqUzlrRWw3c3FraFk2SjkxVzJKN3gzeVJjS0s5LVdpcXBpNFUzUDRQTVdDS0ZKZ3AxWWNjY0NLZWJtSVV0N0JzSUhmZDAzNV93?oc=5"
+      },
+      {
+        "title": "EU Targets Shadow Fleet Shipowners, Managers and Insurers in New Russia Sanctions - gCaptain",
+        "source": "gCaptain",
+        "published": "Mon, 16 Nov 2026 23:20:40 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTDExdWw5UnBaaEVoanJ1Z0FUcFFvUjk5V29IaUI3akszZDRLVHUtb2xpNWZEYWx5aU1DeXlnSi1rR1Q3TWJIRHN3U2xkM1lWYWlzRGNKUEdCd2t0Q2stSlJkWUlJLWs0T0RGRS1MWS1YcklkbWkydDJiaDJ3ekZXd0JnWVJUVVJiNmdMN09jMXB0MlM3bFlrZHBwbUE5RmxzZTVGNw?oc=5"
+      },
+      {
+        "title": "How an outdated oil benchmark erodes U.S. pricing power - Oil & Gas Journal",
+        "source": "Oil & Gas Journal",
+        "published": "Mon, 16 Nov 2026 22:43:27 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUkR2QmRtdjZkNWR2akNWcTBnMnU1cXpDbWZHYnh2ZEpCNGg4cnA0NjJqMFNMT1J4cjgzZUVqc0pRYVV4UWVVWlIxUG1hSGcwazFIT3dNaFM1MHFTR0FWcGpGTXNieDB4M3k2YkF2Qnl1aWdCcG5XamFKTEg2TmZqZ3hlV2RONEV5dFJDeGdDQ0hEQ2hUQ2FsMlY3T1FQcmJJWmc?oc=5"
+      },
+      {
+        "title": "Western Canada Select crude discount to WTI widens on Monday - Investing.com",
+        "source": "Investing.com",
+        "published": "Mon, 16 Nov 2026 21:44:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU1VsVVhsenV2Y2hReTY3dER4SEswdlZTTV9KNjlzQU5lLUI3bUl4aERYcVVPREN5cGE5Z1lEZzFQbE1uWXl6T0toY1czc19CZmQxcnN1ZzdWSWtaSTByODFhUFRMS1ZQWkNMWWdfTGVHSHptb0d0TEVNYUQ5WmtUeU53eTQxeTN5V3RPbElEejBLYzdYalNhYURDbkl3dkdGbEhYZ3IxeFBiOVctQWwtaFIyZ1BHMVVabTdNQ2RB?oc=5"
+      },
+      {
+        "title": "West of Suez: Brent, LSGO cracks slip on increased oil flows - Quantum Commodity Intelligence",
+        "source": "Quantum Commodity Intelligence",
+        "published": "Mon, 16 Nov 2026 20:59:01 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ1JSZG00MkJIdVVoVXpjcTNKTXQtVUEtdWpXNTc2UWZiblBYNTZiY0MtNE1ORkd6VTJ6eFo3cTZRUFc5c3hNeXpLeUdDaVF1a1UxR2tjYVZBNWFJXzlDdU5CTE1mb0hGdGY1eWJVdEZWc1V5WllzTkF4dVlmX3NkQkpnQUVCZEhmaFhFWUFQSWFIWlFRUk9lWHowNUxJT3BBcFpv?oc=5"
+      },
+      {
+        "title": "Oil Prices Retreat as Market Digests Global Surplus Expectations - WSJ",
+        "source": "WSJ",
+        "published": "Mon, 16 Nov 2026 20:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUDJZaXFhY1pnSUd1OEp5V2NtbWc2Z2ZvUW41OU1pOGdBWVRPbllCZWhHMExvNWlsSjR3cmFsNFpjV0d1WkRGTEdUcEZNMUNfZ19lS1oxQTlDanlUMXZxZzV4NVhNd29tZWJ6bUI2a0E2SnhPSmJZRVViNUgtREpsZmVUOWN3TFFoU1BTRURIOUZCOGlkNkc0TU41TlNMeTB6b09XSk9MSE92YXBtOFh4WXd5ajFRR3Nna3YxdmxPdEg?oc=5"
+      },
       {
         "title": "What’s on the Table When Trump Meets Xi and Putin in Shenzhen - The Well News",
         "source": "The Well News",
         "published": "Mon, 16 Nov 2026 20:15:23 GMT",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcjNhTWtwTHZVZkpNX2w1T0QyZV9CWWl3bnRiQlYyeGRMbFJXWGpyaktHMjhBaDJSUU9PYTVXMW43dHo0aVphUE9ueUpmZWhjZG9BbWZzdVdiS0NvZTFqYjdKcEhoWHhHak9IajNvZ29naGRabTdhbDUyOF83RWFUWkJTNEpTYmo5Qkx3MmhEX2tHRDByU2JNUnJVa3JhX1UzdXl3?oc=5"
-      },
-      {
-        "title": "Malaysia Is Accused of Playing 'Decisive Role' in Helping Iran’s ‘Shadow Fleet’ Evade US Oil Blockade - freebeacon.com",
-        "source": "freebeacon.com",
-        "published": "Mon, 16 Nov 2026 19:00:51 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR1lJUEtKOE9uQVVHeXpST2o2UXIzQWVMYkU5Vlp4VHVBNjN0LXNSTEJHNDZ2N2tUVUdvdnhvUWNZb1plYk9nRWlRcGstVmVoZC1FZFZ6dGN2eHd6NnRmeXByQVhQdUNscHJqMUVoUmRxT0lQel9sSlJyQlZzWlJrVHdkejltdFhaUGEyclVYbWgxcFJRODVncjBvbkRzYXg0S1dmckZ3bmNLNzNmVXhKTWlBVWN2TFZSeHFweVc4SmpMZEROWUUydTFKTlhVR1IzekNleA?oc=5"
-      },
-      {
-        "title": "Opinion | Is the United States the new Opec? - South China Morning Post",
-        "source": "South China Morning Post",
-        "published": "Sun, 15 Nov 2026 12:30:06 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT0U5WXFycTZYNU9vRmw5X3MzNG9ObVFwY2VrelFsT2tNS3lQcTZ5SkhKTW53Z0doRnRpcEVNOUM2ZHdVVGpOTzQ5ZFhPM1ZRN0s1RWl5OEhKWkViS2RYdEJMbXhBOWw1blZadzlJQk94SWw4WklESExyVFNwbTNMSk00bjdXblI3SktNUENLTWc0a21WNTl2d196bG1XaWpRTHJSb2lXVks3X2pIR2EwMFNaaFfSAbQBQVVfeXFMUC01R1pHeXN5bWpyeS1TSGp1VGdIdjc1Y1duTVNBZWdhWmVOSi1rRngxaG1Fb0xVNzVKUnkzUHRGOEYyX2N6RmYzUmJCY0J5WTVCcFMwTFc1eFl6dGZFaEluamVmMmhneXFVX1MwS0JBVWZ5bXR2dTVUOWZqZDNaSUhpT3ZKenpKOU44YUp5Skc5RVVHcUI2bW9XSk9pWmpTZHpSaG9DNkJvZEhJbFBrU0dkc3li?oc=5"
-      },
-      {
-        "title": "Iraqi oil blended in Iran, relabeled to dodge sanctions, report says | Alhurra - الحرة",
-        "source": "الحرة",
-        "published": "Sat, 14 Nov 2026 05:30:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5VbU5Hc1lDYWR2bFZNcG4wWk9WT3lfajdoNmdLNDVuNGlJMl9wZGFKYXNLRVBXVy0wLTlYaGppak1vZw?oc=5"
-      },
-      {
-        "title": "US President Signs Russia and Iran Sanctions Bill with New Tariff Powers - Global Sanctions and Export Controls Blog",
-        "source": "Global Sanctions and Export Controls Blog",
-        "published": "Mon, 21 Sep 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdDY5Z1hRT2VPejI4cmNjaW92TkpqcEZLVUx0VXhCS1ZsQlFBdmdMRmEtclhXZDZtVDFtUWs0ZWRkb1NyNUFaaGlTcG1HREpWSFJ2YVZESGg0dkF1QkhtNkhyakRTekxjT21lUS0yTl9CNWxUUVJJS2QzSVlTd2JXckRJZ0kzRTdYUFRCSjE3SEcydld0R0RpYmxjNmhzMHNTUzVPZC1nZmZ4R2E4M2phVUxHdw?oc=5"
-      },
-      {
-        "title": "US military says it is launching more strikes against Iran - Reuters",
-        "source": "Reuters",
-        "published": "Tue, 14 Jul 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRF9kZUxkQm9QMzgwTWI4c0hrMXRiWkdFWGNOZk9KSkxfcFplSUxKLWlwZGFRWTVCYnRSZzdBRU82eXJMRHduenF5RTF4bVBVSVNVMWcwNkdjUElzd05RcjVya2hsRkplYWhRcnR4ajBhVWphWW5rdS1UZlNBSjFPNUVzcXlxSHhrUWdkZC1pcHVjQUtLV0pzUFd5UXhoY01DaE9zYUQ0V3FqemM1UW8wTm9LUlpreFJfdnBj?oc=5"
-      },
-      {
-        "title": "U.S. Revokes Iran Oil Sanctions Waiver After Attack on Tankers - The New York Times",
-        "source": "The New York Times",
-        "published": "Tue, 07 Jul 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM2xwTVNTSXppMElLNmFvbUpTTzF6a3U3cU1Jb3M5dHg0TXN1d2JaazktcVNyT0dMZG5pNzlDQk8zX2V4dFRUY1ViM3NyaUVVNmdjQWVDQmZ1X2V1SHhWUkZRUHRXLXBUd0YzYUVWLTF4RnJHT1NVek1SOVNHenB5WmNxYVdrZFhvWE5TZ0Rn?oc=5"
-      },
-      {
-        "title": "US strikes Iran and reimposes oil sanctions as ceasefire faces one of its most significant tests - CNN",
-        "source": "CNN",
-        "published": "Tue, 07 Jul 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaWdPZlkyazZVSlVBWFRSZVQ3aV9HbXdLOVdpYjZVd2pOalN3YXNLc09OblZweDRUTVRpbUNNRGpmUko1TENNdkFKYnpxYkpobjM3XzNhazBOWldSbk14eVFjVjZxVTZ5WktKMDdtRjFJaGNxVnB3LS1BMGhtYzBfWmJpNnYtanRE?oc=5"
       }
     ]
   }
