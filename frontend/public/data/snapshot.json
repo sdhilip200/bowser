@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-17T23:59:36+00:00",
+  "generated_at": "2026-11-18T00:36:19+00:00",
   "fx": {
-    "nzd_per_usd": 1.816952,
-    "as_of": "Tue, 17 Nov 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.818615,
+    "as_of": "Wed, 18 Nov 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 91.87,
-      "latest_date": "2026-11-17",
-      "delta_1d_pct": -4.14,
-      "delta_30d_pct": -8.42,
+      "latest": 93.11,
+      "latest_date": "2026-11-18",
+      "delta_1d_pct": 0.72,
+      "delta_30d_pct": -7.43,
       "series": [
         {
           "date": "2025-11-17",
@@ -1012,16 +1012,20 @@
           "usd": 95.84
         },
         {
-          "date": "2026-11-17",
-          "usd": 91.87
+          "date": "2026-11-16",
+          "usd": 92.44
+        },
+        {
+          "date": "2026-11-18",
+          "usd": 93.11
         }
       ]
     },
     "wti": {
-      "latest": 85.25,
-      "latest_date": "2026-11-17",
-      "delta_1d_pct": -0.55,
-      "delta_30d_pct": -4.68,
+      "latest": 85.6,
+      "latest_date": "2026-11-18",
+      "delta_1d_pct": -0.14,
+      "delta_30d_pct": -4.29,
       "series": [
         {
           "date": "2025-11-17",
@@ -2028,37 +2032,37 @@
           "usd": 85.72
         },
         {
-          "date": "2026-11-17",
-          "usd": 85.25
+          "date": "2026-11-18",
+          "usd": 85.6
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-11-17",
+    "as_of": "2026-11-18",
     "regular_91": {
-      "avg": 3.313,
-      "min": 2.986,
-      "max": 3.829,
+      "avg": 3.298,
+      "min": 3.076,
+      "max": 3.579,
       "count": 87
     },
     "premium_95": {
-      "avg": 3.504,
-      "min": 3.146,
-      "max": 3.929,
-      "count": 50
+      "avg": 3.494,
+      "min": 3.156,
+      "max": 3.897,
+      "count": 48
     },
     "premium_98": {
-      "avg": 3.566,
-      "min": 3.386,
-      "max": 3.679,
-      "count": 12
+      "avg": 3.641,
+      "min": 3.419,
+      "max": 3.979,
+      "count": 11
     },
     "diesel": {
-      "avg": 3.026,
-      "min": 2.676,
-      "max": 3.929,
-      "count": 98
+      "avg": 3.017,
+      "min": 2.796,
+      "max": 3.529,
+      "count": 93
     },
     "lpg": {
       "avg": 0.0,
@@ -2066,9 +2070,9 @@
       "max": 0.0,
       "count": 0
     },
-    "observations_today": 212,
-    "observations_yesterday": 25,
-    "observations_older": 10
+    "observations_today": 201,
+    "observations_yesterday": 29,
+    "observations_older": 9
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8658,6 +8662,12 @@
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGtrNWkxVGpxdjJGWnVJbzFDQXlabGJVV2I5bFhMYmJFOXAtQjR4cERNMnZabG90ZUo3cm80Zm0xdUpYallfU1kyV2FaMVFwUG5UUWR3UWNFMXU0RDJPcndiS0RuejcxWkJDU1kxbnQ2NnJPWXNBNGtGelpVd0FsbVF0emUyTVdpaEVFYlFnNmZSVTlhRUo5bzhYTkRicFpoa0loRGw0OUJQM215T0lkZUpUNDhFSHM?oc=5"
       },
       {
+        "title": "West of Suez: Brent flat, LSGO cracks at 4mth low - Quantum Commodity Intelligence",
+        "source": "Quantum Commodity Intelligence",
+        "published": "Tue, 17 Nov 2026 20:22:37 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR0lZQ1Vtel9CTDZwdFZwemlvNTZZMmY1YmJNcFF5X2NwWS1hWWZvbG9idzc4WFlBUXBjdUpQSnB6c0Rkb003cFpqVW51VnFtaVdSRURpVndiYmJacWdDVlUzQmVGMjB6UHc5LWxiaDB4b0lteGFxN0toRVBOeDJ4SVFlZG1qcnZjUndOUTRPUXJ6a0k0?oc=5"
+      },
+      {
         "title": "Brent crude moves up in market surplus context: Can XBR overcome supply risk constraints? - Traders Union",
         "source": "Traders Union",
         "published": "Tue, 17 Nov 2026 20:08:26 GMT",
@@ -8668,12 +8678,6 @@
         "source": "www.marketscreener.com",
         "published": "Tue, 17 Nov 2026 19:54:05 GMT",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVVNadFVubmJpT2tFWk15VWExNHk1TzBaLXlmWUdOSFB5N1VSdkJIcXQwS0sxMzV3azQxY2JfUnJhb3A2Z19wVi1DSDJoU3BZU0w0b3BrMjVfSXQ4VjJHSWQyZURIVm9xM1JWWENzUmJ5OFpJVlZPZXBVdTFWNkdybjhWU0hSSFRhR0xybjFSN0hSeEdfdzNkQnhaZ3ZuT1dGMFhtOE92VFhaWUduZmlJX0tOMTdKd29ULXJwNmFOOUlGUQ?oc=5"
-      },
-      {
-        "title": "Gas and Diesel Prices Fall in all 50 States ahead of Thanksgiving Travel - AAA",
-        "source": "AAA",
-        "published": "Tue, 17 Nov 2026 19:05:53 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORk9kVmFMWFBtZUNWRTlVZlRKUUF6VmFudktCNkRDdThSMU1TZ0RfbmlFdEpLSFNreUtVa3QzM0pndGFjZ0FPSHVSa3NvdzhkYkl0ZDZjZ3FBWUFXQUhlWVBFN09DelhoYkp1c05NbVk5MFdqUm5jMHA0WGpYdERRTkRsdHdhSGRCMk1hVmhmdlBQam5xWGxHd1o5N2d4QkJFa0JB?oc=5"
       }
     ]
   }
