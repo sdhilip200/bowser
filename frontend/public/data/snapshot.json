@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-11-19T21:50:01+00:00",
+  "generated_at": "2026-11-20T00:20:06+00:00",
   "fx": {
-    "nzd_per_usd": 1.818615,
-    "as_of": "Wed, 18 Nov 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.820727,
+    "as_of": "Fri, 20 Nov 2026 00:02:32 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 88.78,
-      "latest_date": "2026-11-18",
-      "delta_1d_pct": -4.68,
-      "delta_30d_pct": -11.4,
+      "latest": 89.77,
+      "latest_date": "2026-11-20",
+      "delta_1d_pct": -2.37,
+      "delta_30d_pct": -13.91,
       "series": [
-        {
-          "date": "2025-11-18",
-          "usd": 64.89
-        },
         {
           "date": "2025-11-19",
           "usd": 63.51
@@ -1017,20 +1013,20 @@
         },
         {
           "date": "2026-11-18",
-          "usd": 88.78
+          "usd": 91.95
+        },
+        {
+          "date": "2026-11-20",
+          "usd": 89.77
         }
       ]
     },
     "wti": {
-      "latest": 82.1,
-      "latest_date": "2026-11-18",
-      "delta_1d_pct": -4.55,
-      "delta_30d_pct": -7.0,
+      "latest": 82.91,
+      "latest_date": "2026-11-20",
+      "delta_1d_pct": -0.42,
+      "delta_30d_pct": -9.38,
       "series": [
-        {
-          "date": "2025-11-18",
-          "usd": 60.74
-        },
         {
           "date": "2025-11-19",
           "usd": 59.44
@@ -2033,46 +2029,50 @@
         },
         {
           "date": "2026-11-18",
-          "usd": 82.1
+          "usd": 83.26
+        },
+        {
+          "date": "2026-11-20",
+          "usd": 82.91
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-11-18",
+    "as_of": "2026-11-20",
     "regular_91": {
-      "avg": 3.267,
-      "min": 3.046,
-      "max": 3.579,
-      "count": 89
+      "avg": 3.248,
+      "min": 2.966,
+      "max": 3.9,
+      "count": 84
     },
     "premium_95": {
-      "avg": 3.438,
+      "avg": 3.397,
       "min": 3.016,
-      "max": 3.929,
-      "count": 48
+      "max": 3.889,
+      "count": 46
     },
     "premium_98": {
-      "avg": 3.561,
-      "min": 3.339,
-      "max": 3.739,
+      "avg": 3.576,
+      "min": 3.386,
+      "max": 3.979,
       "count": 13
     },
     "diesel": {
-      "avg": 2.988,
-      "min": 2.756,
-      "max": 3.529,
-      "count": 94
+      "avg": 2.972,
+      "min": 2.636,
+      "max": 3.929,
+      "count": 90
     },
     "lpg": {
-      "avg": 2.715,
-      "min": 1.999,
+      "avg": 3.43,
+      "min": 3.43,
       "max": 3.43,
-      "count": 2
+      "count": 1
     },
-    "observations_today": 210,
-    "observations_yesterday": 26,
-    "observations_older": 10
+    "observations_today": 188,
+    "observations_yesterday": 38,
+    "observations_older": 8
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8632,16 +8632,40 @@
     ],
     "global": [
       {
+        "title": "Oil Prices Swing on Middle East Uncertainty - Rigzone",
+        "source": "Rigzone",
+        "published": "Thu, 19 Nov 2026 22:31:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd2JJc2tlRVZKTXU3VEVrRnBJUU9hbHdOUUNaU3RSODNHaWVEaGtFaERrTnhkWmFlSkZKeWhsUUpWOHJRczdBa2JvbmJEdGtnazVZYXg2OHFVMHFfMW1hVUpEbnQtVlg5UElhcFdlaDhaMzJlaHFHSjNIVWF0ZFR6SXFsbjRrTklDMVV5OE45dHZ2VWFaYmg4MzZ0OFJZNW1IRDExTGtLdkM?oc=5"
+      },
+      {
+        "title": "WTI Price Forecast: $81.50 Support Holds Key to Oil’s Next Move - FXEmpire",
+        "source": "FXEmpire",
+        "published": "Thu, 19 Nov 2026 22:17:45 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaUNYS2FsU3hreS1wUHNQTkFiTTgzRlNZUm41aHRCVGxtYlN1V200Y2ZqRzQwQ1YtYmhXTmF4OVlCakNGQnJTc09GdHlMckptRkpES0tZLUFodnVFeG5aaVVtZ3FOZUxhby1kQkJySHVjdENPR0pvaEt0Zm5XcHpTYUloSmE4aFBRcUN5cGVua0F2RkdVS054SHNzMGdXaHlIZndqMHY0c0FZZEVYczM3LQ?oc=5"
+      },
+      {
+        "title": "Iran Mounts About 14 Hormuz Attacks in November as Brent Crude Falls One-Fifth - https://houseofsaud.com/",
+        "source": "https://houseofsaud.com/",
+        "published": "Thu, 19 Nov 2026 22:02:52 GMT",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Gb2NQQlF0cHFacTdNVFFqUUM3OXlFR3k5WGpaOURiYUhtN3JKMVVJMlpHSGt6ODg0ZXFUbHRMQkxWUFcxZmd5SHl3MXdVZGE5U21sMU1abFBxb0JDbldSY01yNUM3RmI5MnRHTEVqaTJSWWx2NldLaA?oc=5"
+      },
+      {
+        "title": "West of Suez: Brent rebounds as US ponders Iran escalation - Quantum Commodity Intelligence",
+        "source": "Quantum Commodity Intelligence",
+        "published": "Thu, 19 Nov 2026 21:11:37 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcXl0bjRHSURJZzI4WHZrbXpJYTlWd21SUzcybVpxaUpWRjVMNm9oSkVtbUJURFQ0MDdiMlJ5MmdYSjhIM0JWaW1MSlg1WHdyaGp3WXg4VHRia3B5Z2kwcTFLSTdxWkkxWFFWclBsXzRZYnpxVW5xWktpUlJfeTJhYmpyQWVZRHpxS3FQN2JDdEYxMHJlSFgzeW1sbzRqY0hJRUE?oc=5"
+      },
+      {
         "title": "Oil Futures End Volatile Session Near Flat - WSJ",
         "source": "WSJ",
         "published": "Thu, 19 Nov 2026 20:49:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeUlHaVFFSnlSWkY0ako5NjJsMTNsVjQ4eGhKc05oZGFWMDN4c3RQR0NyODVNUzNUenFRNS01Y1QyZi03Vm45eTNkbXF3bVBlTUhkWGVHeXIteUlPNFY2aEh3bnh4VXFaVzRMWk1fOV84SXQ4RlRMb2p4QWZ1b2NMb0JJQWZpdURHb2VLLVZVT20yQk5nWTBPUl9hUUxvcllXM0p1dFdxZjd2WWFlaEtVUGFoUzNHNG1IYWQyTkZfLUtOQQ?oc=5"
       },
       {
-        "title": "West of Suez: Brent rebounds as US ponders Iran escalation - Quantum Commodity Intelligence",
-        "source": "Quantum Commodity Intelligence",
-        "published": "Thu, 19 Nov 2026 18:10:37 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcXl0bjRHSURJZzI4WHZrbXpJYTlWd21SUzcybVpxaUpWRjVMNm9oSkVtbUJURFQ0MDdiMlJ5MmdYSjhIM0JWaW1MSlg1WHdyaGp3WXg4VHRia3B5Z2kwcTFLSTdxWkkxWFFWclBsXzRZYnpxVW5xWktpUlJfeTJhYmpyQWVZRHpxS3FQN2JDdEYxMHJlSFgzeW1sbzRqY0hJRUE?oc=5"
+        "title": "Oil settles flat as Hormuz disruptions offset global surplus fears - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "published": "Thu, 19 Nov 2026 20:42:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUU05SE9NUnE2RUpRRlNtTVRjTDc0Ykh0Rlk1TTVXZDZTTkRQTURicXJBVnZJNXhpZWVSXzczWUhOUXNnanlwTERRNTVHTjE4NW9DTml0dGt2NTRzOEpWczVYdENfaUVpbXdKUTZKbHgtdFBDSDNWNVBHYnczejM0djRvV3I?oc=5"
       },
       {
         "title": "Iran War Wipes Out 2.8 Billion Barrels Of Oil Supply. Why Are Crude Prices Falling? - International Business Times",
@@ -8652,32 +8676,8 @@
       {
         "title": "IEA sees potential for looser oil, LNG markets after Hormuz crisis - Oil & Gas Journal",
         "source": "Oil & Gas Journal",
-        "published": "Thu, 19 Nov 2026 17:49:11 GMT",
+        "published": "Thu, 19 Nov 2026 17:53:41 GMT",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVUxBV3lHRy1fUnRCZXNhS3hzYU9uMTRvUXRkQWE3YlliVnE3TlNmb0JjclNsVG5XWkJmY2czRWVGWWxWdUpjUGdrcXF1U3RPV0lwRWhkNFN6VUpwRUtyTW1iVk84ek5uUEFFWE14NnF4LVJEZHItWDBuSmZXZ1diQThVWndMdE1waVdRckp1SElrTGFXVTFsaTM1V3NUUjA2TnlLUTBPS1JZTUx3c3dSVlUyU0tsOXFITzZxaUpyMml4dlFVdVFGNkJZbF9jZ1U?oc=5"
-      },
-      {
-        "title": "Russia sees excess global oil supply after Middle East conflict ends - Baird Maritime",
-        "source": "Baird Maritime",
-        "published": "Thu, 19 Nov 2026 17:24:18 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc2dzTjJyYTRBSk9fd2FuRWptUTRwZkV1WWFod2pGS0JMMGp2SU5fQVR2Y2k4TDVWU0FXT1JCQlpTMWZlRl9TMi1GZlVSMmtYaE1VTmg4MmQ1WkpIZG44TUFWXzFGVUNwWk1na0psV1JUX0U4alJRXzFxNkRVM3VKaEh2U041akNlWjlIRnJMSm9iQy1uR2ZzWWFIQkhkZzlSMjdyUU1lREN4MW84SGw1VnZFSWVid9IBwwFBVV95cUxPckxzZ1VUMEhhVmcwVEVuc1Npa1BKOTRHc2FhdnpibkJlNXhMU2E0Q1NMQ0NDZGFmbXQtVmU2M1pTRkRCWHp6dVZibTlGaGxIUFdPdW03Z1l6b1FiQS1hZHU4d2RLOHVsVFRxX3MwdXo5X1BSNHZ2em9UeW90SVpuUHoxaThOTGx5NmZiNk90MFhoNmhlQldkTDUxTGhwUU9rRzJJZXg3djZaaDJyT290czk4QVlOLUp0SmNudmJUem9lZG8?oc=5"
-      },
-      {
-        "title": "WTI and Dow Fall as Nasdaq Holds Its Bullish Rebound - FOREX.com",
-        "source": "FOREX.com",
-        "published": "Thu, 19 Nov 2026 15:31:12 GMT",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaXBXNFZkNWROZ215MkEtX0RlOV8zaFZLTHNRdnBGR2EzenF3S3Zlajh6ZzJCRExMaHhMSlN2WWZTcTRTWTVRWkg0TnVZMlZhUTh0eEZGNXN6VHB2WW9YVktRUzBBLV9MTmFDbDBscTR1QjdZUEhHREtucW0zYVprNm5uUTNSaEpaMTRyUFFtMGt1UV9RMEVYWVN1Nkk?oc=5"
-      },
-      {
-        "title": "WTI Rebounds Above $83 as Mideast Risks Offset Glut - TradingPedia",
-        "source": "TradingPedia",
-        "published": "Thu, 19 Nov 2026 14:45:18 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWFdIMEN1T1dhVHQ1b2xlVlQydHRNZkpiVjNiS0dhbzhXUldiNm45SmNCOE9YbkNGWkxLV1JMbDZEa0dOdFROMVl5Qjd0c1BZanI4OUhlaV8yTklsWm10cDZVV3VNcXI0Mm9xOFRrLW84X0o3Z3AwSVFWQmE3aHJhdGFIYUZyV2VKeDFlb042ak5kSFZ3QXc?oc=5"
-      },
-      {
-        "title": "WTI and Dow Fall as Nasdaq Holds Its Bullish Rebound - StoneX",
-        "source": "StoneX",
-        "published": "Thu, 19 Nov 2026 14:05:01 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSTlzejRRcXdiWk9oY2FUQ3hRQzZ5NkxTcEVFR08yNUtLZ2ltU09uaXQzbkx4RGNVV21mbGhOcXkxN09LSUZRXzBxYkZlcjZVbnJKY3R1TC1ISGNOSmhYeGJfeEpnUS1xMnUwamMyM0hKbU9mNnR1TTFxUXhpNEdNdWU0dG5oVHdTdVhnYjhDdlEyYmU1XzRzT3ZCTnlnQU43akJEMVJKclgxa0VOQkgtYQ?oc=5"
       }
     ]
   }
