@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-11-20T19:12:51+00:00",
+  "generated_at": "2026-11-20T23:43:00+00:00",
   "fx": {
     "nzd_per_usd": 1.820727,
     "as_of": "Fri, 20 Nov 2026 00:02:32 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 89.77,
+      "latest": 89.87,
       "latest_date": "2026-11-20",
-      "delta_1d_pct": -2.37,
-      "delta_30d_pct": -13.91,
+      "delta_1d_pct": -2.29,
+      "delta_30d_pct": -14.18,
       "series": [
-        {
-          "date": "2025-11-19",
-          "usd": 63.51
-        },
         {
           "date": "2025-11-20",
           "usd": 63.38
@@ -1016,21 +1012,21 @@
           "usd": 91.95
         },
         {
+          "date": "2026-11-19",
+          "usd": 91.98
+        },
+        {
           "date": "2026-11-20",
-          "usd": 89.77
+          "usd": 89.87
         }
       ]
     },
     "wti": {
-      "latest": 82.91,
+      "latest": 83.62,
       "latest_date": "2026-11-20",
-      "delta_1d_pct": -0.42,
-      "delta_30d_pct": -9.38,
+      "delta_1d_pct": 0.49,
+      "delta_30d_pct": -8.96,
       "series": [
-        {
-          "date": "2025-11-19",
-          "usd": 59.44
-        },
         {
           "date": "2025-11-20",
           "usd": 59.14
@@ -2032,8 +2028,12 @@
           "usd": 83.26
         },
         {
+          "date": "2026-11-19",
+          "usd": 83.21
+        },
+        {
           "date": "2026-11-20",
-          "usd": 82.91
+          "usd": 83.62
         }
       ]
     }
@@ -2041,38 +2041,38 @@
   "nz_retail": {
     "as_of": "2026-11-20",
     "regular_91": {
-      "avg": 3.248,
-      "min": 2.966,
-      "max": 3.9,
-      "count": 84
+      "avg": 3.247,
+      "min": 2.996,
+      "max": 3.539,
+      "count": 67
     },
     "premium_95": {
-      "avg": 3.397,
-      "min": 3.016,
-      "max": 3.889,
-      "count": 46
+      "avg": 3.459,
+      "min": 3.156,
+      "max": 3.849,
+      "count": 45
     },
     "premium_98": {
-      "avg": 3.576,
-      "min": 3.386,
-      "max": 3.979,
-      "count": 13
+      "avg": 3.546,
+      "min": 3.419,
+      "max": 3.629,
+      "count": 12
     },
     "diesel": {
-      "avg": 2.972,
-      "min": 2.636,
-      "max": 3.929,
-      "count": 90
+      "avg": 2.977,
+      "min": 2.696,
+      "max": 3.999,
+      "count": 80
     },
     "lpg": {
-      "avg": 3.43,
-      "min": 3.43,
-      "max": 3.43,
-      "count": 1
+      "avg": 1.949,
+      "min": 1.849,
+      "max": 2.0,
+      "count": 3
     },
-    "observations_today": 188,
-    "observations_yesterday": 38,
-    "observations_older": 8
+    "observations_today": 161,
+    "observations_yesterday": 36,
+    "observations_older": 10
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8588,12 +8588,6 @@
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVVZXN3FaTVpiSEwyS1NldVU2YVlSMnFPOVpreDJRZmNZelFHYU9rZGFGSUpkcUdxV0FTQ05BSjNVZ1ZfRTRtQlNERDJLNHNJT1U2N196WGlseEk1SlN0MnZRaVJ1UnlVQTlQWTZzVUlNOHRFVEdTUnFMWDVxbU9VUGptNi1SckpEZ05HSzkwcHZQR2pvejkyZGk1V1J5RXQzVlRrc2ttLTh6U2tPRjBBSWstTk5PT1k5OGtN?oc=5"
       },
       {
-        "title": "RBNZ Governor concerned higher fuel costs may be feeding into broader economy - Interest.co.nz",
-        "source": "Interest.co.nz",
-        "published": "Wed, 18 Nov 2026 23:02:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNW1tZW5pRHdpbTE0cGV5c3c1TFlrcnpnMWNhTkRJczFpLUFHUzhSSElqd1d1T3g4T01GaUk2X0R1TEh2WEtQamdhUUdYMXQ4NFQ2dktBTjZvcEt4TlpvR2tvdkN1T29QSkZ6NGVLOXlmZ05fRXdRajlEZDZMU0YzV1ZOZkp5Y0Y3ak1oR1FfbXRKeFdELURSaW5VczR5dHd5dzE2OTJHMmZGbmR4RmdrZ0hBWl9jN3JRWF9sblFzZVdXQQ?oc=5"
-      },
-      {
         "title": "New Zealand central bank chief says inflation still elevated, recovery uneven - Yahoo Finance",
         "source": "Yahoo Finance",
         "published": "Wed, 18 Nov 2026 20:32:30 GMT",
@@ -8628,56 +8622,62 @@
         "source": "1News",
         "published": "Mon, 05 Oct 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV081OVF5QWx6eUJ1aVFfcW5ucTY5ZkE3QjZoOXlKbjNzYjJKYlQwM1Qwc2RSNEJrbWdiVVhtNVBCWFdNV0JpeTFPUnFjMU9OangteUdVRTkwaW5uY2ZMVzJYenN0ampSZV8teThBQi1vVjFqYVp2N0FWekQ1RzV6SExfN3JWTFFSRVdvS0hwak84SmJPOGh4Sk5xdExwQW9P?oc=5"
+      },
+      {
+        "title": "What's going on with fuel prices? - RNZ",
+        "source": "RNZ",
+        "published": "Fri, 25 Sep 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdFBnUVBLVnZCLXo0VjFxalBZYWI1OG1TTlpqN1RGdjNWWkFuMHNkREN1MUlXTDVUNDJwV191NFdQbzVlTWhpRk5ZTU9oR3hnSkhqdjM0REdJT2xKblctTTNYOXQ5LW5XYW1wUTJPYXJrbWJEeDhKTEFxZXpxMHhfTjY1Sl9wRDhHNUs1WQ?oc=5"
       }
     ],
     "global": [
       {
-        "title": "West of Suez: Brent slips, LSGO cracks rebound - Quantum Commodity Intelligence",
-        "source": "Quantum Commodity Intelligence",
-        "published": "Fri, 20 Nov 2026 18:14:28 GMT",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaW96Z0JXcDM0c05kNHlDVURkemt5MG5FaVprREE4ZnFFbnJPTWZ2TXJXN09kUHAtQXBCQmEyc1ByRFlnTVltNTM5cUJUbDFjMzZheTlSWFN2VktxZVh5N2g0NGFreDU5MUNZdkVKRXJsSk43S1NPQ1BqRTV0XzdNbjMzVFZ6bUlCMjBDVnhuUU4?oc=5"
+        "title": "“Iran’s tyrannical regime puts its own interests first”: US Treasury chief slams Tehran over oil revenue crisis - ANI News",
+        "source": "ANI News",
+        "published": "Fri, 20 Nov 2026 23:13:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPd0UwRk1MQ2kweG8xb1Jxc2kwV3o0MXNGU3ZIZnZmbFhwU0ZMZDBFU2JVNmJ5U2VEeS1vR1djZDNEcHRDR1FCY0ZOWUwzV19XV0Nnbjh2T2daUmFtNXJNYkFOaVowVFpXM1RaQUVIeVNqazkxa0syU3UxR1ZWVHlIRENhY2dLekJGSWs5Y2pfVmRraDc1YUdIWjFObEFUNnlYSkxQLTFNdjJiVWl1MXJlRW4yWURudkR4U09TV05xQ2tiWkFlYWx0TTc0X3NUdXB1T2hBV2tta0dTRUl0OVFqbDN0b2xBd0s1OF9yd0JNQ29pOGRpdEJwMHZoSHdVdEk?oc=5"
       },
       {
-        "title": "Oil heads for third weekly loss as Iran tests US blockade with crude transfer - Al-Monitor",
-        "source": "Al-Monitor",
-        "published": "Fri, 20 Nov 2026 17:58:37 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd0NGYl9Xb2FUcERDY0Zyak92cDNLTzRoSXFxNk1kcHdKeU1kSkVYNVd3dkp5dWlySDlTRzl2SmZTMkU4WEJOYWtDNThtbkhPTXZEMWRTUHhGTHVocHJQdERPN1dyWkhNczZIWHg1UGpaeFdoRU1VRFNmN05FbVZBSm9MVFhaRDRyT3JvWG9vWEpwZzY3aUo5QkpUbmpPc3BoYzliUl96clVXcXdET2NZ?oc=5"
+        "title": "US imposes sanctions on Iranian oil traders — Anadolu Agency - UA.NEWS",
+        "source": "UA.NEWS",
+        "published": "Fri, 20 Nov 2026 23:08:34 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWk9qcHh5QmVuVE5ubmNjbXBFTnVERFRZeWdfa3R4MzJmb2pIWG9hUnd2cGJxcHFwZ0VOWlR5cUgwNlBtTWJLM2JIdE1YaUwydHVkU0ppN0FzT2lnTjV3R1NPblV0dExXXy1jWE1WSkpYQnBTeDlOeHlyTzR0emM3bTJCNktWQUJvbU1ndUNvZmdoZnhsNlZkcnJua0E4b19HRmpPcEpwQmxGendhUmc?oc=5"
       },
       {
-        "title": "Oil Set for Third Weekly Drop as Ample Supply Outweighs War Risk - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "published": "Fri, 20 Nov 2026 17:43:08 GMT",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWExXN0U0WEVhYzdZZ0ZoN0tISFJnbW5vLVVOMTJ1R0JFNW13cWI4ZVlRZTlnanpMTmNCVVB6S1I4TU10NVgzVzBqaHBfeFE2anBWdm1obTVHR19aMTlHb0dqTDZtVUVZNXF2b2tCbE5fZURyQ1F2bXZXVmFBY3Y3dXFZOHp4dHBnUHRqMjZLNjMzUjdoZjJ4ZHBQcDBvdw?oc=5"
+        "title": "Oil Prices Fall Despite Hostilities as Flows Increase - Oil & Gas Journal",
+        "source": "Oil & Gas Journal",
+        "published": "Fri, 20 Nov 2026 23:07:16 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM2Y0TTZzX2tCSnFzQ1l4Q2toN2FyNHdWaVJSTEpUdWV1R2ppMk5IMEFfczBBM284c0YxX1RQVEdFZDk1N05xbjYtWlBzSlNxWVhlV2c4T1ZRRG9CaW1vSy1oTEZ5MExnMXlDUWpxQzB4b2ZjNjBjT1JGN3E0VHFtRlV6NlM0RVNMSVQ2WHVDeUREaHMyOTByYWRFNmZtM003UmhYc0ZTeC12akJSZFFIYmhRc2w2NkZkdkh0U3NoUlNHRzQ?oc=5"
       },
       {
-        "title": "Oil Prices Retreat as Market Digests Global Surplus Expectations - WSJ",
-        "source": "WSJ",
-        "published": "Fri, 20 Nov 2026 17:30:25 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUDJZaXFhY1pnSUd1OEp5V2NtbWc2Z2ZvUW41OU1pOGdBWVRPbllCZWhHMExvNWlsSjR3cmFsNFpjV0d1WkRGTEdUcEZNMUNfZ19lS1oxQTlDanlUMXZxZzV4NVhNd29tZWJ6bUI2a0E2SnhPSmJZRVViNUgtREpsZmVUOWN3TFFoU1BTRURIOUZCOGlkNkc0TU41TlNMeTB6b09XSk9MSE92YXBtOFh4WXd5ajFRR3Nna3YxdmxPdEg?oc=5"
+        "title": "U.S. Sanctions Iranian Insiders Profiting From Stolen Oil Wealth - Mirage News",
+        "source": "Mirage News",
+        "published": "Fri, 20 Nov 2026 22:32:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeFVCYUdEVW9xdU9IcEZrVmNNQmVQMmx5TUswbnNxTkQ5aUllRWNEV0JwYkJiUWRZS1RMV3BhbU1DNkRWUWROZGtETDRsQk9XbmpNaG45ZkU2LUJuNUZmdDZSanptZHNPOFYyeTg5VUZqM0wxVTdzTFZkVEt0REl4NW43NTlSU00?oc=5"
       },
       {
-        "title": "Optimism over U.S.-Iran talks eases geopolitical risk for Brent crude, but volatility may persist - Traders Union",
-        "source": "Traders Union",
-        "published": "Fri, 20 Nov 2026 17:07:31 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHhadXdYUjY1OGVpaU03bE1uaS0zS3Nab1ZwbUVuVk1aMDMzMzloNjFDX3VKMGQtUFNYTWVQWHAtVG9wbnVBd1RzZWQ0Ui1NTHNWQTlaZ3pHdUlNLVpBMWJqSUVCOVEtVVBpTUZVZ2JHdEoyaV9KY0F2MU1WRjNFaVBGTU9FSmItVDQweA?oc=5"
+        "title": "Shafaq News..US sanctions four Iranians over alleged Iranian oil revenue collection - شفق نيوز",
+        "source": "شفق نيوز",
+        "published": "Fri, 20 Nov 2026 22:14:49 GMT",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTkZtRWdrb28wVzYyd2xiRDJ5X1lKd0ZRRDM1ZjQ3blRkQVFPbm9ZTC1BUzhjcUh6d2tMNkZXZUlOOGZsMzZwN3RNanR5b1JOdDg1QmZfM3h2bmpIVThxR3RWbWVoSDltU0tNX0hhMll1WGpBbS1DZ0JaZEltREp0ZWVWSTJocS1JQldOc3hibXV2WFpPVXdSb054cFNkUzA?oc=5"
       },
       {
-        "title": "Crude Prices Slip on Ample Global Oil Supplies - Barchart.com",
-        "source": "Barchart.com",
-        "published": "Fri, 20 Nov 2026 16:39:01 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNjAzeUZrTXg1Q1pDOWRMd0pzUlRSVFIyQmkyV2ZtZFVwWW9GeUgxWUE2X3hVcnZGa1Z1OHZFTVNhS0FoLWV5TFF2Vkg0S1p3akxYYnk3d1ZvZk0zakVBamxTUHZmck43Z3NTVmNsSkI4aG1ndlotdjhMc3lsTkJnd1dqNzc2ZUVZYnZzRVpndExKTkhF?oc=5"
+        "title": "US Treasury sanctions Iranian 'trustees' collecting oil revenues - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "published": "Fri, 20 Nov 2026 21:52:50 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQzZybU0wQVExRGVRM3huaml4REFlZm9oeGNyZGl0WUdIZEE3VFpqaEZ3TTZLZkJfQWE4OGZNSnFKU0tJZ056eUlQNVBrZUVIb05VRmJZa2hra3owYThWTFRSc1BIaVNCSm03cmpybnRsOWVxREM4ZEQ2TVp0LW54aUxOb0o1Y3FlV3MwRWsxaGpwNENpbnNJVjVmdw?oc=5"
       },
       {
-        "title": "US Treasury presses Singapore, Malaysia on Iran sanctions compliance - Free Malaysia Today",
-        "source": "Free Malaysia Today",
-        "published": "Fri, 20 Nov 2026 15:45:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS2VBZXhpOEVyMmsyMUVkekpsR0JnUFYxT1BONVl1TF9PdEVxVHRtQS13eVFUWDlzTl9jTjhZZkpxOXpRTGtvU25hb2drQnBlUnZSZHhyaC1ldW8xV0dEcDlYb1RTVklEdENFamtkeW9IU25CWDVtLXlXSUxNYnhyU2EtWU1aZ0RlYkhmUkhFUXRFMlp4MVFTblFTYndwdXJiSWU2dFc2N3ZSOHN0d2t4d0IyWlk5dmJpU2dudjI2Vzk1ZC15UnNwZm13QQ?oc=5"
+        "title": "US sanctions Iranian 'oil trustees' it accuses of evading sanctions - Middle East Eye",
+        "source": "Middle East Eye",
+        "published": "Fri, 20 Nov 2026 21:39:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLXh0c3ZjdnJ5enFmZkJ4aWFib2JmTWNlUTFJbVI1UzVfMkZ3WHZJV3E2ZmJBZmFpaXRiZVkwR1FWelpOVHVBOGwtX25uaDA4eUVMZXlWX1pMZmJPcEpKUFZuRm9BSGQxVlQ2UklqNGFaSk5iTjdfRmc1VDhGeHJQSFUwdDJUcWRCZnJQZ21HUDhRb1BHTXhwY2hiZGQwZkxCbUxMckxNajZzN0YxcXBNZW02bVJ2bHpSbk5z?oc=5"
       },
       {
-        "title": "China's Oil Imports from Persian Gulf Jump to Wartime High - Crude Oil Prices Today | OilPrice.com",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Fri, 20 Nov 2026 15:36:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOekZVR0lrbzJkMzdkaW56UkE4elBRS1FQNVhxOUp1TnVYRkQxVTJ3RGw0YUdTSHhZQU45ZFM0cTZkUUh2SU9rUFRPU0h2cS1aNTRnTXlyRkdabF83UlNUOGdCOEdqa01ZUFdpREF6aDUzYk5JQk1kbFJuOEgzaXdZS0FYZmgzT1JvQ1NhTUdyRTlXNXl0WGl6aWV0M2ZjYXpWZGY2d1lTX2VPajR2a2Z4cGJkMNIBuAFBVV95cUxQLVNsQkZOdUt0Z2JEU1FNUWtEZnhEN1hYMElmMDNYWU45X3o1ck5wLUdFeHVkNWFrMEwzb3dDc3NRQ2pEZmVqSkJqVzhaRGYwbEJ0aWhkYVVVRFM5ZG9rT25hQ1NiS1doYmN3MEZacktpZWx3ZHBxM0M5UlY4YmhYM1hMUEpud1MtbGFnM0YwbC1hUTJ6aFhlaUdHaHc1QU80QmZjdFlzUWc2NE1vOEdNWEQ1YmRiVjh1?oc=5"
+        "title": "Itchy trigger fingers sparked Friday gain in oil prices - Oklahoma Energy Today",
+        "source": "Oklahoma Energy Today",
+        "published": "Fri, 20 Nov 2026 21:25:34 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTUc4ZExtWnFLbENHanhfcW0xN0FqTkNSTXpsMDlXY0lmbUhwRUVvZGl2bkQ3cVltRlJrZ3NEZ21xNzNtR3pJNDFCSlcxdW51aEtUdHpXM041c3lJRENnVm1ENDF6MVFfMkhyQVUwSjRWVGFOTXQ2dnRUa2lMV2IwVzhaQ0YwM05lZE5QTTRPV0I5OGNK?oc=5"
       }
     ]
   }
