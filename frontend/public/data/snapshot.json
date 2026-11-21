@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-11-21T21:45:00+00:00",
+  "generated_at": "2026-11-21T22:48:54+00:00",
   "fx": {
     "nzd_per_usd": 1.820727,
     "as_of": "Fri, 20 Nov 2026 00:02:32 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 89.87,
+      "latest": 92.57,
       "latest_date": "2026-11-20",
-      "delta_1d_pct": -2.29,
-      "delta_30d_pct": -14.18,
+      "delta_1d_pct": 0.64,
+      "delta_30d_pct": -11.6,
       "series": [
-        {
-          "date": "2025-11-20",
-          "usd": 63.38
-        },
         {
           "date": "2025-11-21",
           "usd": 62.56
@@ -1017,20 +1013,16 @@
         },
         {
           "date": "2026-11-20",
-          "usd": 89.87
+          "usd": 92.57
         }
       ]
     },
     "wti": {
-      "latest": 83.62,
+      "latest": 83.98,
       "latest_date": "2026-11-20",
-      "delta_1d_pct": 0.49,
-      "delta_30d_pct": -8.96,
+      "delta_1d_pct": 0.93,
+      "delta_30d_pct": -8.57,
       "series": [
-        {
-          "date": "2025-11-20",
-          "usd": 59.14
-        },
         {
           "date": "2025-11-21",
           "usd": 58.06
@@ -2033,46 +2025,46 @@
         },
         {
           "date": "2026-11-20",
-          "usd": 83.62
+          "usd": 83.98
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-11-20",
+    "as_of": "2026-11-21",
     "regular_91": {
-      "avg": 3.247,
+      "avg": 3.245,
       "min": 2.996,
-      "max": 3.539,
-      "count": 67
+      "max": 3.499,
+      "count": 75
     },
     "premium_95": {
-      "avg": 3.459,
+      "avg": 3.42,
       "min": 3.156,
-      "max": 3.849,
-      "count": 45
+      "max": 3.649,
+      "count": 37
     },
     "premium_98": {
-      "avg": 3.546,
-      "min": 3.419,
-      "max": 3.629,
-      "count": 12
+      "avg": 3.587,
+      "min": 3.449,
+      "max": 3.719,
+      "count": 11
     },
     "diesel": {
-      "avg": 2.977,
+      "avg": 2.972,
       "min": 2.696,
       "max": 3.999,
-      "count": 80
+      "count": 81
     },
     "lpg": {
-      "avg": 1.949,
+      "avg": 1.924,
       "min": 1.849,
-      "max": 2.0,
-      "count": 3
+      "max": 1.999,
+      "count": 2
     },
-    "observations_today": 161,
-    "observations_yesterday": 36,
-    "observations_older": 10
+    "observations_today": 113,
+    "observations_yesterday": 55,
+    "observations_older": 38
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8588,28 +8580,10 @@
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVVZXN3FaTVpiSEwyS1NldVU2YVlSMnFPOVpreDJRZmNZelFHYU9rZGFGSUpkcUdxV0FTQ05BSjNVZ1ZfRTRtQlNERDJLNHNJT1U2N196WGlseEk1SlN0MnZRaVJ1UnlVQTlQWTZzVUlNOHRFVEdTUnFMWDVxbU9VUGptNi1SckpEZ05HSzkwcHZQR2pvejkyZGk1V1J5RXQzVlRrc2ttLTh6U2tPRjBBSWstTk5PT1k5OGtN?oc=5"
       },
       {
-        "title": "Fuel and food prices continue to push up living costs in NZ - Indianweekender",
-        "source": "Indianweekender",
-        "published": "Tue, 17 Nov 2026 08:08:11 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVDVQVUJKcFdiYVJXOUliNV9IcEE5czdDazBHaGRuY3VqQmdvbWhYS2Jfd0RIS0lKS3Z1V2g1ZnFuaWp5UzluaVNvRm5WZG9EWFlxZXEtWjJWVURKbGw1VnZEdWNDRGM2ZjdENXBnLUpnNm5pbGFTdzJZVW13NzNsekR5UVgxSHFWYk41Y0ZmcnhnSjNIMmdUbWJnUFhpWVZtMlJFWFBlRVh6VVRvZjRSN9IBrwFBVV95cUxQWlVNYkw4bjNfT2gyMXIxVl9nM1dhQ0ZnSmRCX1UtbWhBNlVvOWlGU1NWeTNhUDRKeGpKQUY0b3ZPMlpTOWkta1c0T0ZGUkxmdVh5VVIxSDQ4dkFvRkFUSTI3MTdWcEp3a0tGZDBRNWRhbU10Mzk2cmtRTlFSQWhjaWwwSEkxTURNMzMyU1ZjYmFjYWZDakR0LTFCekx1a3VITXVHM2oweXlQcGxnSnIw?oc=5"
-      },
-      {
         "title": "Petrol and diesel prices continue to surge according to new numbers - 1News",
         "source": "1News",
         "published": "Mon, 16 Nov 2026 23:50:12 GMT",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMG1BOVNzOWJQM2YxWmx5eEswQW5GQ1UyT2tZQ1JHOUJqZm9faUdvdUVaeGhjbXBuSDVUenpZbkNPaDhfNWc4eHRlakFMeVJrNXR0U0N2ZEZDeWxPVTVFWTlieUExeVVNNGhham9NeHVPeXd4SldWcU9pMktTS3k5NEtZVEVPYUFteVdtUFJpWC1DX1g2eHhRSkxSNkxYbVJsa0htQ2dn?oc=5"
-      },
-      {
-        "title": "US strike near Hormuz puts NZ fuel and fertiliser at risk - B2B News",
-        "source": "B2B News",
-        "published": "Sun, 08 Nov 2026 08:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON1RiU3dlUk44dWFLbFNfNDFwcnpYNVNSaTdhSVdpT0ZnblBPeGFFXzJGWUk4NVpuQVQ1eGVzVEdhbGNYV0Fnd0xOeEJRZUxGMkhlWl9QUHoxenV4aFpGX3AyTGpZbXZuOGp4RHZiRkFqZ3c0Mkd6MVFmQXNoMnRxakE0UTlxemtXLUotQ2x3?oc=5"
-      },
-      {
-        "title": "US midterms send Brent oil down 9%: what it means for NZ - B2B News",
-        "source": "B2B News",
-        "published": "Thu, 05 Nov 2026 08:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMkllajRuTENIeWJmb1IxdGZzM1FzTFFoQTBhai1VSHVBdDNhMXg2Tk4wMFAtZW5BdUw1bGluUk96amM0N1FLeFZvQW9wQ1hZWkhUSkxEVnpMdlowQjZEQ21VNkdQQVQ4d29xMkJqazRfMElneWxaVTNEZVV5MmRXQk9GWkVjckJuX0ptdmU0MGVISEtF?oc=5"
       },
       {
         "title": "NZ facing fourth-largest increase in fuel costs - RNZ",
@@ -8624,10 +8598,28 @@
         "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNa1hiRTNVMS0wN3RDeXZKSm12Y1JSOWxmMVlFSGw3X2FUTGsyTmJhVExrMlo1VHc5RXg4QjlwV19GZjg2SFVkTllGeDZhQVYzaVMtRm9uOVNlVm9yemo3MEdIc08zNzAyRnFHeXV6dzUtU0JPVHMySEM5RzhmOGxScU1udHVtQzhzN3JFYnBRWnhRRDM0Q0hLYnpQamgtQVlCRl9TWWNaTUZyMC1jeHRMdXNzNHF2YjEtaXIwaXVFNlpvZ1hGYXFWNFlKU0k2WnZtbWdIVDhTbEZMdWRCb0EwVEpHd0NoOE0wNlFqUEtUZzVONnNQNGkwVVRxRHAxczN4aW10QlBn?oc=5"
       },
       {
-        "title": "Air New Zealand's '$6.8m-a-day' problem - NZ Herald",
-        "source": "NZ Herald",
+        "title": "Petrol, diesel demand to rise as cost of living slows electrification - Marsden Pt owner - The Post NZ",
+        "source": "The Post NZ",
         "published": "Mon, 26 Oct 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRk12NDBBZ0cxRXRGQ191dHBFcGNMd2JzVWY5VktUc19Ka21JcDlubFZUNXczRHlqbFZaTmFqQU1sQXZZNWdPT0x5azJwLWpzUnJHbVNIRXkxWElaY216MDViMFZ1NDIwV2Y3Q1VaOHFsa0xoTTNWVFk5TF9jOVl4V3VPUTZfbGJnT1dUclZPbDhPTHNvTmtzeTVPYjVrZFVZenlCRzYydU02d2h2Z1ZzT3RZckFTVXM0X3BMUF9nT0VPNmNuak5ZVVE4cjNMYTFQcEF3NlVuNERFWHpkSjVlZk4tQ0VQMTgyRF9OR3NB?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTURQQlo5RElJNHpOa09LOWFXZXhpNVBLRFA0bk43VVpwNEJrLXkzSnRhWUZzTnJmTl91c2s4M051VUlwb2RDQUV6b3daMWtRb0E4bE9xYW5ydUY1czJsM1NGa0dKRHNfOTNSZ2lOSlk0S2ZIaU5pYTVTQ1JwQkNkaU50a1JvbFNoWDUxdE02STR0ZExPOXBGWURjenI0NmRTRnZPNWMwbFkwQ0ZfaFJyWjlrdEFEZ1FUWXRiU19R?oc=5"
+      },
+      {
+        "title": "Who is cashing in as petrol prices hit record high at the pump - RNZ",
+        "source": "RNZ",
+        "published": "Mon, 12 Oct 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNEZ2eHlOOUVQTUJZT0Z1T3FpaHpqc0lWc0xvMUlpeVJaeFFmLTlQUlhTcXdpRVQ4SVBUWVJSNFM0ZkE1UWNnS2g2eTkzeGlQS0EtOHRIQ21tWWhGREREa1ZPVkdFTE1BNVNQRThPaFF2bXpyLThlZjhiU0oyTXkzQ2NsMzFodnNtZ0kzeGszVzhGazhTRHF6OU1JWGlzbVdkZVZic2xSZjAxQQ?oc=5"
+      },
+      {
+        "title": "Fuel price hits tipping point - RNZ",
+        "source": "RNZ",
+        "published": "Wed, 07 Oct 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzdkgyU3AxbmZXWUpsd1R4R2pzVDVXNlUzSlQ1ZmFKdk9VSmRMdzNRZW1LY1ZDT3NoZWRzUDB0X1h5RlR0MFNQWU5wdlBaTjJXMFVHZ2tsMFBucEdCdnAwYVV4aDFhQXIzTi1iaHdybGZrQXFxNVN4dVMtRnV4UQ?oc=5"
+      },
+      {
+        "title": "Petrol price hits all-time-high as average litre of 91 tops $3.50 - 1News",
+        "source": "1News",
+        "published": "Mon, 05 Oct 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV081OVF5QWx6eUJ1aVFfcW5ucTY5ZkE3QjZoOXlKbjNzYjJKYlQwM1Qwc2RSNEJrbWdiVVhtNVBCWFdNV0JpeTFPUnFjMU9OangteUdVRTkwaW5uY2ZMVzJYenN0ampSZV8teThBQi1vVjFqYVp2N0FWekQ1RzV6SExfN3JWTFFSRVdvS0hwak84SmJPOGh4Sk5xdExwQW9P?oc=5"
       }
     ],
     "global": [
@@ -8648,12 +8640,6 @@
         "source": "Investing.com",
         "published": "Sat, 21 Nov 2026 12:24:06 GMT",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMGlLOWJkZDAtY0drWGV5MjRhbkVqTDdFeXNGM3RYU0tIMG44M0o4d2JwaVlISHB5Y1FzTnVRQVZONVJGdDZfblh1eVFOQkJMMVQ5SmFNQXpBbzVPVkJEUTFhMk5QTlpna0lJbnlNU3hLclVxV2YweVBES3JSZEo0S2Q2UEItdkNBUDVCekhXaXVWYzlDRldPTkhQUExFbUhFMDlYQXo4QU02cjV4THYyMEdZaDc?oc=5"
-      },
-      {
-        "title": "US imposes new sanctions on Iranian oil traders and government-linked facilitators - Saudi Gazette",
-        "source": "Saudi Gazette",
-        "published": "Sat, 21 Nov 2026 11:03:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbVZxMmxlNTBnYlplOFAycC1Xc29JeEdvaGRSYTdvODF1VFZFblZUSy1mTkpGTDg1Q28zVlA2UEFHaTM4VnRGY212empvdWRSby1OOE84aFRFa3JfWHR1SklLaWctWUxtbWtvSjIyTl9QRlRWbHdFeDN3cnZpYi12MG9MTXBfamRBWUdnMVYwUEd4TnJYTVQ1d1F4NHdBSnNocTVjLVYxbDBSMDdoWVVjOU1wV0NPb1YwRUJOODU3NXhQZlZnZnFiUGhwNA?oc=5"
       },
       {
         "title": "The United States has imposed sanctions on four Iranian oil brokers - Українські Національні Новини (УНН)",
@@ -8678,6 +8664,12 @@
         "source": "IranOilGas",
         "published": "Sat, 21 Nov 2026 07:37:39 GMT",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTkxOa2VDbnVWTzd0QmF4cENyRzB6SV9CNkdpMjB5cEhubVhTNmpQT3NNV3dLcFBWdEhQaG1TWjJNUzVKUUtjR2VJTlNqcjN4UF9fMHdPcmZCc1c3cFIyZXVZelIwZWdXSll3V21sdmNJOFp1VmQ2dWp0UlRIeDh6dG1QaUhYZzM4SFV2Yl9VVm41VlQtOGxyRFU1SFZiQzlqOElpaDFySm8xZTZmbG1VQm5wRGhxa0lVdFNjN1lGRjkwSkxl?oc=5"
+      },
+      {
+        "title": "U.S. sanctions four Iranians over proceeds from overseas oil sales - سانا",
+        "source": "سانا",
+        "published": "Sat, 21 Nov 2026 07:24:54 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QbUpBdjBrVHRCQmFOR2tOS0hQalBYMTVwck5Weno2TjNaYXJXU1dmbklCRWtQaE9pejYzUURWVXlWTExDRUZPdC1keG5PdU8zQ044?oc=5"
       }
     ]
   }
