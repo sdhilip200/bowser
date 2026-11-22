@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-11-22T22:25:48+00:00",
+  "generated_at": "2026-11-22T23:17:17+00:00",
   "fx": {
-    "nzd_per_usd": 1.820727,
-    "as_of": "Fri, 20 Nov 2026 00:02:32 +0000"
+    "nzd_per_usd": 1.824946,
+    "as_of": "Sun, 22 Nov 2026 00:02:32 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 92.57,
-      "latest_date": "2026-11-20",
-      "delta_1d_pct": 0.64,
-      "delta_30d_pct": -11.6,
+      "latest": 89.95,
+      "latest_date": "2026-11-22",
+      "delta_1d_pct": -2.83,
+      "delta_30d_pct": -15.66,
       "series": [
-        {
-          "date": "2025-11-21",
-          "usd": 62.56
-        },
         {
           "date": "2025-11-24",
           "usd": 63.37
@@ -1014,19 +1010,19 @@
         {
           "date": "2026-11-20",
           "usd": 92.57
+        },
+        {
+          "date": "2026-11-22",
+          "usd": 89.95
         }
       ]
     },
     "wti": {
-      "latest": 83.98,
-      "latest_date": "2026-11-20",
-      "delta_1d_pct": 0.93,
-      "delta_30d_pct": -8.57,
+      "latest": 83.41,
+      "latest_date": "2026-11-22",
+      "delta_1d_pct": -0.68,
+      "delta_30d_pct": -11.02,
       "series": [
-        {
-          "date": "2025-11-21",
-          "usd": 58.06
-        },
         {
           "date": "2025-11-24",
           "usd": 58.84
@@ -2026,44 +2022,48 @@
         {
           "date": "2026-11-20",
           "usd": 83.98
+        },
+        {
+          "date": "2026-11-22",
+          "usd": 83.41
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-11-21",
+    "as_of": "2026-11-22",
     "regular_91": {
-      "avg": 3.245,
+      "avg": 3.222,
       "min": 2.996,
       "max": 3.499,
-      "count": 75
+      "count": 81
     },
     "premium_95": {
-      "avg": 3.42,
+      "avg": 3.406,
       "min": 3.156,
-      "max": 3.649,
-      "count": 37
+      "max": 3.799,
+      "count": 46
     },
     "premium_98": {
-      "avg": 3.587,
-      "min": 3.449,
+      "avg": 3.522,
+      "min": 3.419,
       "max": 3.719,
       "count": 11
     },
     "diesel": {
-      "avg": 2.972,
+      "avg": 2.951,
       "min": 2.696,
       "max": 3.999,
-      "count": 81
+      "count": 91
     },
     "lpg": {
-      "avg": 1.924,
-      "min": 1.849,
-      "max": 1.999,
-      "count": 2
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 113,
-    "observations_yesterday": 55,
+    "observations_today": 191,
+    "observations_yesterday": 0,
     "observations_older": 38
   },
   "mbie_waterfall": {
@@ -8626,8 +8626,20 @@
       {
         "title": "Gold Price Forecast: Selloff Echoes 2022 as Fed Hike Fears Grow - FXEmpire",
         "source": "FXEmpire",
-        "published": "Sun, 22 Nov 2026 20:17:50 GMT",
+        "published": "Sun, 22 Nov 2026 22:47:31 GMT",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeldGOUZfc0ZTLUtjTkpuLUN3c2lpYnB1SEIwRS1aVnZ2bGNQQndUblBPdG5yZ0NIZDZLMGNxWFRYSDdEaWNXZGVLUmhMWnRWWVoxYVJJck9qZkFaRVB0VzRMajA4Slk1Z2lsVWdOQTZfWmlFbFRFXzY0NndkVUJfaHIxeERYT0IxaDJGRmI4M20zdWRyQXZxcUxsS0w0MGJzYzE2UzF6U096eUROM1ZJRjl1MA?oc=5"
+      },
+      {
+        "title": "U.S. Energy Exports Hit Records as Global Competition Intensifies - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Sun, 22 Nov 2026 22:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLV94SkZoRzAwMjMxMW5aMjBYSkJ5VE5aN0NkTXZ3dElvZVB1WWFvS3JfMk4wV092aHdEZkxwMWhMdThxbzFxRmluU1F5bURXQXg1b3h4cHM0S0lKQjVfc2JidFhKNmFKZE93eGJuTnNMWHJFeUV6RHh0U1lpUGZUMzVWSTdvdks4TkZXR2JVR2xQendFUDVVNUpSN3E5NE1JYXdGTjhKVWtZcUIzdjE1UlBFUGlRUdIBtgFBVV95cUxOLV94SkZoRzAwMjMxMW5aMjBYSkJ5VE5aN0NkTXZ3dElvZVB1WWFvS3JfMk4wV092aHdEZkxwMWhMdThxbzFxRmluU1F5bURXQXg1b3h4cHM0S0lKQjVfc2JidFhKNmFKZE93eGJuTnNMWHJFeUV6RHh0U1lpUGZUMzVWSTdvdks4TkZXR2JVR2xQendFUDVVNUpSN3E5NE1JYXdGTjhKVWtZcUIzdjE1UlBFUGlRUQ?oc=5"
+      },
+      {
+        "title": "US Imposes Sanctions on Iranian Oil Smuggling Network - Global Arab Network",
+        "source": "Global Arab Network",
+        "published": "Sun, 22 Nov 2026 12:13:14 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTy1SamQ3U25yaWUxV3liZFZHVUt4bTU0SEJFaW5wcGhhSVlWVVVONmtxVTI2RnQwWjJCRWc0ZldPSGpyaVotUFFjTGZSUVU3b2ZzbnVQcVJPUWoteEEwXzdCVDVRVmptZVRDZ3cyZ3Q0RzBaYXdDd2pUV0FOWjlEc2FmWmc3d25fUFZLQk5QR3QxZlRfSnU1VlFMSk9ZU08yQ1dJQXdn?oc=5"
       },
       {
         "title": "Iran's high-stakes gamble: breaking the US naval blockade to force a swift endgame - Ynetnews",
@@ -8658,18 +8670,6 @@
         "source": "RBC-Ukraine",
         "published": "Sat, 21 Nov 2026 09:20:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQmFjY2FYMGlQbFRrZVNuam9JZ1RjM3ZZZV9YQjFjMGJoTVBfcnp2eHJ6TExsa0hSNXhiTUpwdkxiOGIwT2NZNWtuSlAzVDBxLS1YdllvT19aazcyVW9NSUlHR2Q1V3BlUDI3Yk9Yc3pvOXBsWk5oazRxUnNfX29icS12YTdnRWwwTzhFSnN4RmhtU3B6Yk9uNXltRQ?oc=5"
-      },
-      {
-        "title": "US Treasury sanctions Iranian ‘oil trustees’ allegedly tasked with recouping billions - The New Region",
-        "source": "The New Region",
-        "published": "Sat, 21 Nov 2026 08:02:48 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZzNiZ3lhdkZkZ1gzR2dlbkd0dkZmY2UtRmlLYTdCV0x5NjdaRm9tNXZCbmx2NVl1X2hEVkM1YkN3X1YwNzBkUy14RU5tQUxvVllrNjdBR0lIeFFQMGViSFhhc2R2SWV6bzc2R0RoVXBMWGR2ZkRyYVJ1QzFJWHR1OGsyR0lRZU4yZ0pVR1UxNXpVS2ltT2lHUUI5cnBvMHlrOVV1NklYMk0yR0NycS1oN0lFNFV2QzV0NzEw?oc=5"
-      },
-      {
-        "title": "US escalates its sanctions against Iran, targets four nationals - IranOilGas",
-        "source": "IranOilGas",
-        "published": "Sat, 21 Nov 2026 07:37:39 GMT",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTkxOa2VDbnVWTzd0QmF4cENyRzB6SV9CNkdpMjB5cEhubVhTNmpQT3NNV3dLcFBWdEhQaG1TWjJNUzVKUUtjR2VJTlNqcjN4UF9fMHdPcmZCc1c3cFIyZXVZelIwZWdXSll3V21sdmNJOFp1VmQ2dWp0UlRIeDh6dG1QaUhYZzM4SFV2Yl9VVm41VlQtOGxyRFU1SFZiQzlqOElpaDFySm8xZTZmbG1VQm5wRGhxa0lVdFNjN1lGRjkwSkxl?oc=5"
       }
     ]
   }
