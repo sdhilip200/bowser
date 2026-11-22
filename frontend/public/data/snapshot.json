@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T17:03:07+00:00",
+  "generated_at": "2026-11-22T22:25:48+00:00",
   "fx": {
     "nzd_per_usd": 1.820727,
     "as_of": "Fri, 20 Nov 2026 00:02:32 +0000"
@@ -8574,12 +8574,6 @@
   "news": {
     "nz": [
       {
-        "title": "RBNZ Sees Signs of Higher Fuel Costs Adding to Broader Inflation - Bloomberg.com",
-        "source": "Bloomberg.com",
-        "published": "Wed, 18 Nov 2026 20:10:30 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa1o5dDRxZ0pSZTRGX3U3c2hGMjl0T205dzgzRWh3bTQ0V0VHQnd5VENYcV9adXR6ZExvRl81b2ZQMVNDTmg3QXhsVnlWS3B6cmxzNmpaeDAtT1ZxNExVV3Yyb0wydVdGeG1MNEdFSGxvUnhiaVpVbVFabTBXcTk2UVdkUDB3dER4SV9aSDJlZUJZLWFHelBGWHM0bTltWmFOT0VkVXZpU1N4ZURidS1vLWlXLUo4UQ?oc=5"
-      },
-      {
         "title": "Petrol and diesel prices continue to surge according to new numbers - 1News",
         "source": "1News",
         "published": "Mon, 16 Nov 2026 23:50:12 GMT",
@@ -8620,20 +8614,32 @@
         "source": "1News",
         "published": "Tue, 22 Sep 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYmd2NlJRbUotSW9aWFRwS3JndmhqZVEzUkxuRk53a0pLQ2VPMnZXZjZ3RzYxblN2OVdjeUJDMlBSM1ZKX2Q1QkxVei1sYVZKY1lXanp5akN1OGl0LTdRZTlGYUJZUGlCNUlJbkZKMWZEUXZlSS1RTS1wWjRWbE9VZXBnbEVvRlVScFlpc3dORFoxaUdYcWd0TllVbXFFOEdWaDM4?oc=5"
+      },
+      {
+        "title": "Petrol hits $3.25 a litre as AA warns prices are likely to stay high until mid-November - RNZ",
+        "source": "RNZ",
+        "published": "Fri, 18 Sep 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV3VaV1BZM3FLMVJDUTF5Tjd4NEpVZUkwVGpvSHhJR0xpc25jUlV6RGloM0ZFU2hvZWpYMEZ4aEl2N1UwR0JNMTFUUzBUZ1dFWFRvZGZlM0I1MnBPQkh4T3hGQnpJV0NwaGNycXdKTmI1TG4zU0haMkRvTlJreDA0NjYxMHMwRkkwQ19IRzZ0bWpoZE05Y3I0Y1paVmItbmpJSnhWTW1ISjFNY0RYRVI2R3QzZkVxY0hLN2c2a1JYSE5WcjdOclZvZ2s5MTg1aDlZaVE?oc=5"
       }
     ],
     "global": [
       {
-        "title": "US sanctions Iranian oil traders, regime insiders selling dwindling reserves - JNS.org",
-        "source": "JNS.org",
-        "published": "Sat, 21 Nov 2026 23:32:46 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTlp6ZzNwN2FPdDZRdl80ZWtkcGZtQUhsNkoxRHdCMDFPdXdNTzAyVVNDT2NIUjRaQWlXdnptMElwVGVqVFlEVFR4eFg4aXZzUC1RN2FIV2FDd0RrSHl3WVRBcndfaWhqSy13a3Y0cGhzMURNc2lzeFdRRzlNVlJ1NWdQZjJIdU5kcjJjS3pPSi1QVUlYbzQydnBDb0lxcDNaZHYzWE1GVVBZa0NSWlE?oc=5"
+        "title": "Gold Price Forecast: Selloff Echoes 2022 as Fed Hike Fears Grow - FXEmpire",
+        "source": "FXEmpire",
+        "published": "Sun, 22 Nov 2026 20:17:50 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeldGOUZfc0ZTLUtjTkpuLUN3c2lpYnB1SEIwRS1aVnZ2bGNQQndUblBPdG5yZ0NIZDZLMGNxWFRYSDdEaWNXZGVLUmhMWnRWWVoxYVJJck9qZkFaRVB0VzRMajA4Slk1Z2lsVWdOQTZfWmlFbFRFXzY0NndkVUJfaHIxeERYT0IxaDJGRmI4M20zdWRyQXZxcUxsS0w0MGJzYzE2UzF6U096eUROM1ZJRjl1MA?oc=5"
       },
       {
-        "title": "Oil Prices Fall Amid Supply Surplus Expectations, Middle East Tensions - WSJ",
-        "source": "WSJ",
-        "published": "Sat, 21 Nov 2026 16:39:04 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaDFCTV9zN1pVaFoteGpWam5uX3pGOXp4X3gwOVVqOVk5Yy1xdkdkc0w3MlFmWkNZWXA2Sms4OHhLMk5iNUExb3NYc3lJQW53dVJUQlkzVlNIX0FCWlM0cVpab0tQT2l1dzM0a3FlQmlqQ0NoQzB6WWs4Um9vbHY4LTFTMUc1Q3E5NnJYbVZSUzZ1czhPdXBkUjZMWXpKa2IxU1hqenFDc1RhRVV3bTJIdUtNWEJjZ2VsTUE?oc=5"
+        "title": "Iran's high-stakes gamble: breaking the US naval blockade to force a swift endgame - Ynetnews",
+        "source": "Ynetnews",
+        "published": "Sun, 22 Nov 2026 10:04:33 GMT",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JOVRoYUNVZVJDcERjLXExdHcyQ2x1bXVycWs5Zl9ZUTAteXZDNEFfbU02LUVHN0Fyb0VqSFVvM1RiSzlocnE1eE8xMUJWWm5yNEFmWkdiQzRBRzhGdml1Qk5UVEhBS2RjUFJONi1R?oc=5"
+      },
+      {
+        "title": "US sanctions Iranian oil traders, regime insiders selling dwindling reserves - JNS",
+        "source": "JNS",
+        "published": "Sat, 21 Nov 2026 23:32:46 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTlp6ZzNwN2FPdDZRdl80ZWtkcGZtQUhsNkoxRHdCMDFPdXdNTzAyVVNDT2NIUjRaQWlXdnptMElwVGVqVFlEVFR4eFg4aXZzUC1RN2FIV2FDd0RrSHl3WVRBcndfaWhqSy13a3Y0cGhzMURNc2lzeFdRRzlNVlJ1NWdQZjJIdU5kcjJjS3pPSi1QVUlYbzQydnBDb0lxcDNaZHYzWE1GVVBZa0NSWlE?oc=5"
       },
       {
         "title": "Britain’s New Russia Sanctions: Imperfect, but a Signal Ukraine Won’t Be Traded Away - Kyiv Post",
@@ -8660,16 +8666,10 @@
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZzNiZ3lhdkZkZ1gzR2dlbkd0dkZmY2UtRmlLYTdCV0x5NjdaRm9tNXZCbmx2NVl1X2hEVkM1YkN3X1YwNzBkUy14RU5tQUxvVllrNjdBR0lIeFFQMGViSFhhc2R2SWV6bzc2R0RoVXBMWGR2ZkRyYVJ1QzFJWHR1OGsyR0lRZU4yZ0pVR1UxNXpVS2ltT2lHUUI5cnBvMHlrOVV1NklYMk0yR0NycS1oN0lFNFV2QzV0NzEw?oc=5"
       },
       {
-        "title": "US Sanctions Four Iranian Nationals Over Oil Revenue Transfers - WANA News Agency",
-        "source": "WANA News Agency",
-        "published": "Sat, 21 Nov 2026 07:21:07 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRFh0UFI2TVY2dG1iRlNtNXZfVi1Ibld1aFF4WmZIX3JNUWVnTENHX2ZKbnpSU0k1RWRYMVNQWnFZZ1pkeGp5WEs5anljSzl0X3ZORnJBWUR0VGdRUmFCVjVPWGVBWGFnTTA1UVB3ZDNqNWM1TFF2QWs3S25vSm9WR0E4aUx0cUFKY0E?oc=5"
-      },
-      {
-        "title": "Goldman Sachs Says Global Oil Demand Takes Big Hit, Sees Risks to Price Forecast - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Sat, 21 Nov 2026 02:15:38 GMT",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN3Y1MVB3RUk0OFhpLWdlR1I2YlQwc21jQWRFdnNBakh3SGhVZ2ZPZU1rNVZwNWxBMHpOcHZIRjBNalZNXzMya2xraFN6cDNCYlBKUVp0TDFockxGbThyMmhEWWZJNTdkcUxIb2ttQnZCZk1pNnVrUWgwWWMyLXpxYWlodFdnVUpqZWdaUVFESy1RY1lDLVZ5a2JjS1pKZk5tWEZ5U1BqWl9ydVNPOFRv?oc=5"
+        "title": "US escalates its sanctions against Iran, targets four nationals - IranOilGas",
+        "source": "IranOilGas",
+        "published": "Sat, 21 Nov 2026 07:37:39 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTkxOa2VDbnVWTzd0QmF4cENyRzB6SV9CNkdpMjB5cEhubVhTNmpQT3NNV3dLcFBWdEhQaG1TWjJNUzVKUUtjR2VJTlNqcjN4UF9fMHdPcmZCc1c3cFIyZXVZelIwZWdXSll3V21sdmNJOFp1VmQ2dWp0UlRIeDh6dG1QaUhYZzM4SFV2Yl9VVm41VlQtOGxyRFU1SFZiQzlqOElpaDFySm8xZTZmbG1VQm5wRGhxa0lVdFNjN1lGRjkwSkxl?oc=5"
       }
     ]
   }
