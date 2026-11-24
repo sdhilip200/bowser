@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T03:51:03+00:00",
+  "generated_at": "2026-11-24T11:15:26+00:00",
   "fx": {
     "nzd_per_usd": 1.835368,
     "as_of": "Tue, 24 Nov 2026 00:02:31 +0000"
@@ -8582,6 +8582,12 @@
   "news": {
     "nz": [
       {
+        "title": "Maersk raises New Zealand intermodal fuel fee 23% from December 2026 - Data Portuaria",
+        "source": "Data Portuaria",
+        "published": "Tue, 24 Nov 2026 08:00:19 GMT",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZUhqZjltVTUxb0M4eXBIMWJYNFNTeDlvZHFXMEpaUGNQMm5ra0ctZmxBLUdIdElaRGdnWmd6TURPZHpwcWJ1VEtrc0dJQU5NRVM0bkFKRGxmWlBhT3BrY0EzLXFkMlVvVnQ4a3V4b0JnWW1nc2FObm80ODBYQ1hFb3FkT0Y0S1UyM29hNS1UbUZmQThScTNiLWs1X3k2eEZfQkp0LTM2eGFIdGJhMnhFSF90ZUhwbElvUl96cW5zelIyaloxMThkamR0c3k3UQ?oc=5"
+      },
+      {
         "title": "RBNZ Governor concerned higher fuel costs may be feeding into broader economy - Interest.co.nz",
         "source": "Interest.co.nz",
         "published": "Wed, 18 Nov 2026 23:02:00 GMT",
@@ -8622,62 +8628,56 @@
         "source": "B2B News",
         "published": "Tue, 27 Oct 2026 20:40:16 GMT",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRnRYclRJNkh0VHhHMXFldEZpRGhQSnFOc1JwbXE2TkVXdC16SjVZcTM2c0ZQLUxBQ0VyMExmMWs1czE5b3hXWmJjMzIzdjJRaVQteWp1WWZzN0pTZDYxdVpqOC00XzJTNDBEVC1naXh6dU5aYS1ZTlQwVnd1ZVdkRVpZbWlvQXFtRC1n?oc=5"
-      },
-      {
-        "title": "How secure is NZ’s fuel supply? Concern mounts over future diesel cover - NZ Herald",
-        "source": "NZ Herald",
-        "published": "Tue, 27 Oct 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNa1hiRTNVMS0wN3RDeXZKSm12Y1JSOWxmMVlFSGw3X2FUTGsyTmJhVExrMlo1VHc5RXg4QjlwV19GZjg2SFVkTllGeDZhQVYzaVMtRm9uOVNlVm9yemo3MEdIc08zNzAyRnFHeXV6dzUtU0JPVHMySEM5RzhmOGxScU1udHVtQzhzN3JFYnBRWnhRRDM0Q0hLYnpQamgtQVlCRl9TWWNaTUZyMC1jeHRMdXNzNHF2YjEtaXIwaXVFNlpvZ1hGYXFWNFlKU0k2WnZtbWdIVDhTbEZMdWRCb0EwVEpHd0NoOE0wNlFqUEtUZzVONnNQNGkwVVRxRHAxczN4aW10QlBn?oc=5"
       }
     ],
     "global": [
       {
-        "title": "Oil News: WTI and Brent Hit August Lows as Supply Outlook Pressures Crude - FXEmpire",
-        "source": "FXEmpire",
-        "published": "Tue, 24 Nov 2026 01:52:48 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa2hGRG1adWVqdUFtQ0xmYnd3THc5dk10a2RyZWoya2YwaU1NMnFNWXNvV0dtRW11cHpZcWtfV0piZ3RjajhWM2dxdjhpYlhBbUpZT0t6clZlVmRxM3VFZzFMTzRsYzFLM2pNNHRoMkJlRkJuT2VNbFpzclZuUXF0bFpJSkdGcVNrMHlBbmtObE1KOTJhWVZXd1hweVBfcFZXNHNyVEpHMVRMcFdDVUFMTUdlR1plSS1fWUpvazd5Rmk?oc=5"
+        "title": "Oil prices hover near three-month lows on rising supply concerns - سانا",
+        "source": "سانا",
+        "published": "Tue, 24 Nov 2026 10:49:22 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1SUmJUVXRnQUFwaGdIZkRncExpeHY2M3hmU2N1T0R6c2xYMzJyaUhVXzBBOXpXVllWb2p3WWxsYVpJLXhEQ0ROZ1c5X18?oc=5"
       },
       {
-        "title": "Brent falls 3.46% on 23 Nov as Libya’s Sharara line reopens - Nation Thailand",
-        "source": "Nation Thailand",
-        "published": "Tue, 24 Nov 2026 00:24:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QdURlbVU1bVJXVERTWGREQk5hTFRtSEZpVjBzUjZPel82czAxVFNVM2hZa242TjhGUFl6NHBkX2wyV29waHZmWFFrNURfYzExdU5nMVFhX2ZQbHdRUFNV?oc=5"
+        "title": "Brent declines as Trump gives diplomacy with Iran more time - https://www.engine.online/",
+        "source": "https://www.engine.online/",
+        "published": "Tue, 24 Nov 2026 10:19:01 GMT",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSnI3QzRzSW5aMHpiT3I0Z1hRSnA2dExyb1p4Y3I2bEdsNWxfbnBVdnRCTXJiUFNpSzZvRlZpR28zWjcxbEJzMF9wQ19UdkZWcnE4bXQtdjI4VHduclVRbGI1cFVkWTEtMnZCZ1NZSUJSckxvdWFRRGZzbmJzcVo2NU4zM0VWUGUwNjBsSkdjai1UcU5fYUdqdEZJTQ?oc=5"
       },
       {
-        "title": "EU Proposes Ban on European Assistance to Repair Russian Oil Refineries as Ukrainian Strikes Intensify - EU Today",
-        "source": "EU Today",
-        "published": "Tue, 24 Nov 2026 00:12:38 GMT",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RZVVzRTFrajFib2tqdHlKd2Fua2hFa1JaV0tzTWlDV2tHSG5lYXNNbG81emR4cElnclNuU0hscFAyYWIzVG9tTlU1REdERTZKcTFtZ3dXa0JQb2MzZ29Lakk5LWNtNlBOc2d1OHZzQjQ3QzdvWEdCS2FFZFc?oc=5"
+        "title": "U.S. Sanctions Target Financial Networks Supporting Iran’s Oil and Shipping Operations - Global Trade Magazine",
+        "source": "Global Trade Magazine",
+        "published": "Tue, 24 Nov 2026 10:04:12 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQjV0My1DaG4yR3M1Q3BXM3QxWEtBQU9mdlNZQXp4S2dLOFNrSV9pcmM1bkZocW9aSmFOT0lMZndzN3E1eV8tcDNPRE90VVhsaGR0Qm5kazRpOVRUSHRYMTJRVE1nb2JGYWZrU09qZzBfdEJrUlRqNjlDM1JmM0RsQ3RRVzZXQS1MNkN1My1TbVRpSnlLNmJOOXhsaVc3V2Iwc3ZNU2R6ZWQzSXJsT3JPdk9aaGxXTkE?oc=5"
       },
       {
-        "title": "West of Suez: Brent nears 3-mth low as surplus fears build - Quantum Commodity Intelligence",
-        "source": "Quantum Commodity Intelligence",
-        "published": "Tue, 24 Nov 2026 00:03:38 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPelBkY0p5bFdXZzBCSFZHaEJNUTE2a2NJeUpya0VOY2E0TXVDTlZfN2F0SmJXOXlQUkpZR1BQVlBVVXpyZEliVjBzT0s4UkNhc055eG5aRU9MU21rS0ItVFdiUFp6ZGlkX01fX0NzVmxlUWpZampuMWxPWTV3Vzc2bkp1SnVzcmh3aDJjM0hnVTJnVzNrYkh1Tzg4QUxBc282Zmc?oc=5"
+        "title": "China, India set for record Russian oil imports in 2026, but demand seen peaking - Reuters",
+        "source": "Reuters",
+        "published": "Tue, 24 Nov 2026 09:05:44 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZEl6LThLbVZLWTlSU3lNdHJLa2dnanBPQjdqRGdaeDd2bGU4VmpzVnRRZ1VETzdRelFLWnI0QVVkUE0tUUE0TDkyR2lpcEMzUGNFS09iWW1LREpvOHJkb25Fdkd2MWFSYWZQRkwwbGpQR21sYkxvRXI5ZHBJTGcxTzVDdGNWdjktUFQ2OTRsYmlUSEkyRU5qUWJKeTNkbF9FX2dYNTJsdXN1RlBsVDZVc3EzUGxOeFNZNm53?oc=5"
       },
       {
-        "title": "Brent Crude Posts 3rd Weekly Loss, Falls Below $89 for First Time Since August - https://houseofsaud.com/",
-        "source": "https://houseofsaud.com/",
-        "published": "Mon, 23 Nov 2026 22:15:17 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44LUwxb3RpMm15ay1iLW8tOFl4b2RPRnl0X3NkSVdDUzcwaWJESzRHaWtTZjVJdDlLVl9ueXBUYjh4WVBXMDc3cllRQlR1NHZGdFplWDVkTWI0SVh2RHNiQzhnTTM?oc=5"
+        "title": "US escalates sanctions on Iran, targets shadow banking networks - IranOilGas",
+        "source": "IranOilGas",
+        "published": "Tue, 24 Nov 2026 08:46:33 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc05BVENsS21FdWhHb2lCdW95b21mU25DX3hsanc0TUx0LUhFbHZxZGRkbkw3X3U0bU9seGhycE5ESUZmbXo3VGNwWENOZGMtMGYzWTY0WmJqenF3eWQ4akpvZG9aalFOY2FwS3FFN2ExVG9CSEp4REYzQ2xzQUFYNjRoYTYxSmE4MWwwNFpIVkM3WEZSSldPN2syRVNtUUw0ZndmOVF3cHJIc1VFdy1IZE50bmRFT3hzbFBNWE1vRWkyWkE?oc=5"
       },
       {
-        "title": "Oil Prices Fall as Traders Weigh Supply Surplus, Gulf Attacks - WSJ",
+        "title": "Oil prices approached three-month lows - Українські Національні Новини (УНН)",
+        "source": "Українські Національні Новини (УНН)",
+        "published": "Tue, 24 Nov 2026 08:35:51 GMT",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CUHMtR3RlUWhwOG1EVkVjQmk4TWhaZXEyOFI1amJmaVJjMXp0cDFfdVBPTXJ4Y1dnQl9vSTQ5TGlSSjNxd0lSLWNxSjl4SjlrU2FwYjZCUWF3a2g4cDd5akdDRU1HTlU3STNqOTZ30gFsQVVfeXFMT3pJYmpXb1NjSnVJVDNSTDJiVzdqeG5oTnEzY3pmbjFCRFJkNDI0MXJqbGVvTGRhWWZXZlVWYmFTRkN5aVplZTJMcWRxWUhVOThGRDQyZ0k5NmJFRF9LYW9MSGtIZzA5UGpoeE1a?oc=5"
+      },
+      {
+        "title": "Oil Prices Fall as Traders Weigh Supply Outlook, Shipping Risks - WSJ",
         "source": "WSJ",
-        "published": "Mon, 23 Nov 2026 21:08:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVkRJdUt0LVhZdzVhR0RpSnN6RWh6cDdGQVhOUU9vNENLN0hnSXB1YXJFU01rMzZBaXhuelM3ODlra1hKdnRxcnYweGNRSmFmSEpnMzJSQWxkOXZqZVM3NjBrZ2UwQS1PQS12di1uaHFUQWJRZHE2aHhxMnlLcVJ5Z3owcXd2WTV4NFJQSUM0SWplUVA5bW80ZU9fdDYzV1Z5QnFvcW1kdlhPMW8xc2JRQnVJc19mZw?oc=5"
+        "published": "Tue, 24 Nov 2026 08:27:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMkpRNmtac0F4dkZ2QTRqVEhSc2piS0Vpd1JNaHVScnZZYmRfdzBEbWZXOUFjb0dhR29XZURYZnRUcTVkQW41Y3pOT1plS0ZDOU5NTm1Qel9OUWRMNU53Y2ZoUjBWU045YUczZFRfZGswa0UtY2hVMVJMS2g0b29qUmw3YjN4VHF0aGVTYjVZdl94WjcwdXkxZ3diaVNXSWZwcE9tM2V3b3JLcTRTU0o0aw?oc=5"
       },
       {
-        "title": "BofA sees $80 Brent in 2027 despite growing oil supply - Oil & Gas 360",
-        "source": "Oil & Gas 360",
-        "published": "Mon, 23 Nov 2026 20:38:07 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbWo4eGpJbWVlZGI1UFlOc1g2N0JyUnJHbU5BcV9GOFBfeTlQejRsYXRuS3o0S0U5V0NSTHYtZ0ZUcjNRNDlxN0FiSFpvSTdRMi1EZjMtcTNmMndWMnM2ZXZNZ1ZmdUR0NGpvUENkTzZjenZMNEdhNWtHUFZwekVpMUlkQUVEVGFEZlpB?oc=5"
-      },
-      {
-        "title": "Oil Futures Fall for Third Straight Week on Supply Outlook - WSJ",
-        "source": "WSJ",
-        "published": "Mon, 23 Nov 2026 20:26:25 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUVE3WWhmSEFMaFZmRkVRTHN5R1N0V3lLbmdYYWsyZ0QxSnRqaFdkcktIS1JqTk5RRTI0ODREZV9jcldqb3BpMzhmN3BUOWhRaDI1bGdnMG45VDRxNFU1YXN4X2hEd1Y4RTRLMkdabDU1T2p1cnRpT2R1VUY1UElIS1h3Q3NtdlpEMFpoaHB6bXh5LUNFakwyLUYwWF9KVG9YRmRKT2xwcVp4WkQtYnBucFV5WWFfbDY1dDRlWW9halQwclNac2tubV9vQQ?oc=5"
+        "title": "Russia pitched oil deals to Trump’s negotiators in exchange for sanctions relief - New York Magazine - Hromadske",
+        "source": "Hromadske",
+        "published": "Tue, 24 Nov 2026 08:04:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMkVDLWJXUDRfN3RqZVNzUnlRTTFUSlpXNDh0V2pjY2tWazQ1UjlhZkZnaTRCSEgtYVZUeE5Yalp5Tm1vUE8zV0JfUEw3UHlubUp6ODR5WjAtNUNYV0FlSkJoWTFWT3VWbzl4dTdOTW00TXR2WVo4LXZTOXBYd2JndDMwUW04ZUp6dkZiLXZfRUhqSTFJcWJROVBFbDg4eDVXVWo3VmEzLWVxeVZMV3JDYjNObWFRVGNpbGJveXNlRC10T0JOa1I3dHB3TURqdGtMNXd0VVdsRdIB3AFBVV95cUxOSHFieWtCMkhraUpadUZvS1Rkd0JXYVE0TjZPUXVTSTdVSXd0bTJHTEU1My1PR2c0ZEQ5SGVfWHFrc3lsMV83R1BaaDJsTWxjYi1ZbnRxVjJibXp3eFgxdzBTV1hOQ2VvdThUdUJabmJWY3hLWVNpTklWNzVhUzdiYmJ1WTFWeENac21pb1pyd1VQLW5xaWJYTWljMWZJQnlRWWdCa3dEa2k3bFhNVkx6T2FjLWhXN1doT1ZFWU1JVnllcG1aNzdvR1ZmSXRMeFBad05ra25OQ240Y0pJ?oc=5"
       }
     ]
   }
