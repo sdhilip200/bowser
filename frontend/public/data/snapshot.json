@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-24T01:06:59+00:00",
+  "generated_at": "2026-11-24T03:51:03+00:00",
   "fx": {
-    "nzd_per_usd": 1.824946,
-    "as_of": "Sun, 22 Nov 2026 00:02:32 +0000"
+    "nzd_per_usd": 1.835368,
+    "as_of": "Tue, 24 Nov 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 89.95,
-      "latest_date": "2026-11-22",
-      "delta_1d_pct": -2.83,
-      "delta_30d_pct": -15.66,
+      "latest": 86.5,
+      "latest_date": "2026-11-24",
+      "delta_1d_pct": -3.21,
+      "delta_30d_pct": -18.16,
       "series": [
         {
           "date": "2025-11-24",
@@ -1012,16 +1012,20 @@
           "usd": 92.57
         },
         {
-          "date": "2026-11-22",
-          "usd": 89.95
+          "date": "2026-11-23",
+          "usd": 89.37
+        },
+        {
+          "date": "2026-11-24",
+          "usd": 86.5
         }
       ]
     },
     "wti": {
-      "latest": 83.41,
-      "latest_date": "2026-11-22",
-      "delta_1d_pct": -0.68,
-      "delta_30d_pct": -11.02,
+      "latest": 79.99,
+      "latest_date": "2026-11-24",
+      "delta_1d_pct": -0.22,
+      "delta_30d_pct": -15.03,
       "series": [
         {
           "date": "2025-11-24",
@@ -2024,47 +2028,51 @@
           "usd": 83.98
         },
         {
-          "date": "2026-11-22",
-          "usd": 83.41
+          "date": "2026-11-23",
+          "usd": 80.17
+        },
+        {
+          "date": "2026-11-24",
+          "usd": 79.99
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-11-22",
+    "as_of": "2026-11-24",
     "regular_91": {
-      "avg": 3.222,
-      "min": 2.996,
-      "max": 3.499,
-      "count": 81
+      "avg": 3.199,
+      "min": 2.896,
+      "max": 3.829,
+      "count": 94
     },
     "premium_95": {
-      "avg": 3.406,
-      "min": 3.156,
-      "max": 3.799,
-      "count": 46
+      "avg": 3.382,
+      "min": 3.016,
+      "max": 3.789,
+      "count": 62
     },
     "premium_98": {
-      "avg": 3.522,
-      "min": 3.419,
-      "max": 3.719,
-      "count": 11
+      "avg": 3.486,
+      "min": 3.319,
+      "max": 3.779,
+      "count": 9
     },
     "diesel": {
-      "avg": 2.951,
-      "min": 2.696,
+      "avg": 2.931,
+      "min": 2.736,
       "max": 3.999,
-      "count": 91
+      "count": 93
     },
     "lpg": {
-      "avg": 0.0,
-      "min": 0.0,
-      "max": 0.0,
-      "count": 0
+      "avg": 2.699,
+      "min": 1.999,
+      "max": 3.399,
+      "count": 2
     },
-    "observations_today": 191,
-    "observations_yesterday": 0,
-    "observations_older": 38
+    "observations_today": 226,
+    "observations_yesterday": 24,
+    "observations_older": 10
   },
   "mbie_waterfall": {
     "week_ending": "2026-05-01",
@@ -8574,12 +8582,6 @@
   "news": {
     "nz": [
       {
-        "title": "Breman warns fuel costs could broaden inflation before rate call - NZ Advisor",
-        "source": "NZ Advisor",
-        "published": "Thu, 19 Nov 2026 08:45:16 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVVZXN3FaTVpiSEwyS1NldVU2YVlSMnFPOVpreDJRZmNZelFHYU9rZGFGSUpkcUdxV0FTQ05BSjNVZ1ZfRTRtQlNERDJLNHNJT1U2N196WGlseEk1SlN0MnZRaVJ1UnlVQTlQWTZzVUlNOHRFVEdTUnFMWDVxbU9VUGptNi1SckpEZ05HSzkwcHZQR2pvejkyZGk1V1J5RXQzVlRrc2ttLTh6U2tPRjBBSWstTk5PT1k5OGtN?oc=5"
-      },
-      {
         "title": "RBNZ Governor concerned higher fuel costs may be feeding into broader economy - Interest.co.nz",
         "source": "Interest.co.nz",
         "published": "Wed, 18 Nov 2026 23:02:00 GMT",
@@ -8604,12 +8606,6 @@
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON1RiU3dlUk44dWFLbFNfNDFwcnpYNVNSaTdhSVdpT0ZnblBPeGFFXzJGWUk4NVpuQVQ1eGVzVEdhbGNYV0Fnd0xOeEJRZUxGMkhlWl9QUHoxenV4aFpGX3AyTGpZbXZuOGp4RHZiRkFqZ3c0Mkd6MVFmQXNoMnRxakE0UTlxemtXLUotQ2x3?oc=5"
       },
       {
-        "title": "US midterms send Brent oil down 9%: what it means for NZ - B2B News",
-        "source": "B2B News",
-        "published": "Thu, 05 Nov 2026 08:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMkllajRuTENIeWJmb1IxdGZzM1FzTFFoQTBhai1VSHVBdDNhMXg2Tk4wMFAtZW5BdUw1bGluUk96amM0N1FLeFZvQW9wQ1hZWkhUSkxEVnpMdlowQjZEQ21VNkdQQVQ4d29xMkJqazRfMElneWxaVTNEZVV5MmRXQk9GWkVjckJuX0ptdmU0MGVISEtF?oc=5"
-      },
-      {
         "title": "Parties signal shared appetite to cut New Zealand's $12.1 billion fuel bill - Rewiring Aotearoa",
         "source": "Rewiring Aotearoa",
         "published": "Tue, 03 Nov 2026 04:20:19 GMT",
@@ -8620,9 +8616,27 @@
         "source": "RNZ",
         "published": "Fri, 30 Oct 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZzZlbjIyd29LQlRTX2tCdUYzUzJvWHA2U2NUX0xxelFZODA1ZW5FM0dqam9iUE0xeW1EUUp6WGJSc3BKLXFzZnFBRTZVMGVSbjZ0amJFSDNVaVVTRVFxbU1nUExaNFFGbS1aTFJGS2RLdW1XUmZCM0R5OWo0cngzLXZmUFNobEY2eFVURWRPTF94ZGx2SHc?oc=5"
+      },
+      {
+        "title": "Channel warns NZ diesel reserves could slide to 21 days - B2B News",
+        "source": "B2B News",
+        "published": "Tue, 27 Oct 2026 20:40:16 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRnRYclRJNkh0VHhHMXFldEZpRGhQSnFOc1JwbXE2TkVXdC16SjVZcTM2c0ZQLUxBQ0VyMExmMWs1czE5b3hXWmJjMzIzdjJRaVQteWp1WWZzN0pTZDYxdVpqOC00XzJTNDBEVC1naXh6dU5aYS1ZTlQwVnd1ZVdkRVpZbWlvQXFtRC1n?oc=5"
+      },
+      {
+        "title": "How secure is NZ’s fuel supply? Concern mounts over future diesel cover - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Tue, 27 Oct 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNa1hiRTNVMS0wN3RDeXZKSm12Y1JSOWxmMVlFSGw3X2FUTGsyTmJhVExrMlo1VHc5RXg4QjlwV19GZjg2SFVkTllGeDZhQVYzaVMtRm9uOVNlVm9yemo3MEdIc08zNzAyRnFHeXV6dzUtU0JPVHMySEM5RzhmOGxScU1udHVtQzhzN3JFYnBRWnhRRDM0Q0hLYnpQamgtQVlCRl9TWWNaTUZyMC1jeHRMdXNzNHF2YjEtaXIwaXVFNlpvZ1hGYXFWNFlKU0k2WnZtbWdIVDhTbEZMdWRCb0EwVEpHd0NoOE0wNlFqUEtUZzVONnNQNGkwVVRxRHAxczN4aW10QlBn?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Oil News: WTI and Brent Hit August Lows as Supply Outlook Pressures Crude - FXEmpire",
+        "source": "FXEmpire",
+        "published": "Tue, 24 Nov 2026 01:52:48 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa2hGRG1adWVqdUFtQ0xmYnd3THc5dk10a2RyZWoya2YwaU1NMnFNWXNvV0dtRW11cHpZcWtfV0piZ3RjajhWM2dxdjhpYlhBbUpZT0t6clZlVmRxM3VFZzFMTzRsYzFLM2pNNHRoMkJlRkJuT2VNbFpzclZuUXF0bFpJSkdGcVNrMHlBbmtObE1KOTJhWVZXd1hweVBfcFZXNHNyVEpHMVRMcFdDVUFMTUdlR1plSS1fWUpvazd5Rmk?oc=5"
+      },
       {
         "title": "Brent falls 3.46% on 23 Nov as Libya’s Sharara line reopens - Nation Thailand",
         "source": "Nation Thailand",
@@ -8642,27 +8656,15 @@
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPelBkY0p5bFdXZzBCSFZHaEJNUTE2a2NJeUpya0VOY2E0TXVDTlZfN2F0SmJXOXlQUkpZR1BQVlBVVXpyZEliVjBzT0s4UkNhc055eG5aRU9MU21rS0ItVFdiUFp6ZGlkX01fX0NzVmxlUWpZampuMWxPWTV3Vzc2bkp1SnVzcmh3aDJjM0hnVTJnVzNrYkh1Tzg4QUxBc282Zmc?oc=5"
       },
       {
-        "title": "Oil News: WTI and Brent Hit August Lows as Supply Outlook Pressures Crude - FXEmpire",
-        "source": "FXEmpire",
-        "published": "Mon, 23 Nov 2026 23:46:43 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa2hGRG1adWVqdUFtQ0xmYnd3THc5dk10a2RyZWoya2YwaU1NMnFNWXNvV0dtRW11cHpZcWtfV0piZ3RjajhWM2dxdjhpYlhBbUpZT0t6clZlVmRxM3VFZzFMTzRsYzFLM2pNNHRoMkJlRkJuT2VNbFpzclZuUXF0bFpJSkdGcVNrMHlBbmtObE1KOTJhWVZXd1hweVBfcFZXNHNyVEpHMVRMcFdDVUFMTUdlR1plSS1fWUpvazd5Rmk?oc=5"
-      },
-      {
         "title": "Brent Crude Posts 3rd Weekly Loss, Falls Below $89 for First Time Since August - https://houseofsaud.com/",
         "source": "https://houseofsaud.com/",
         "published": "Mon, 23 Nov 2026 22:15:17 GMT",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44LUwxb3RpMm15ay1iLW8tOFl4b2RPRnl0X3NkSVdDUzcwaWJESzRHaWtTZjVJdDlLVl9ueXBUYjh4WVBXMDc3cllRQlR1NHZGdFplWDVkTWI0SVh2RHNiQzhnTTM?oc=5"
       },
       {
-        "title": "U.S. sanctions hit Iran’s corrupt oil insiders and shadow banks: ‘The ship is sinking’ - Florida’s Voice",
-        "source": "Florida’s Voice",
-        "published": "Mon, 23 Nov 2026 21:44:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaktLUW9VZ2p6N2ZsOUtmV2lDU0FCWWZtbXJsRkluanFOZUc2TklWSTFQdzBfLXRzSnpwMGFaQ2JKNEhmY3luOVQ4WkkyY05sTGl3TFcydjRFUVBmMGF1Z1pUYTBXRWNaWWd4SW02b19hTlNZQ3g4eFk0VEhMeVhFVnZub3FFNHcwTmpRalZLWV9WbzhjRVB0WE1VTkZFNEV2RW9PUmFENlUydw?oc=5"
-      },
-      {
         "title": "Oil Prices Fall as Traders Weigh Supply Surplus, Gulf Attacks - WSJ",
         "source": "WSJ",
-        "published": "Mon, 23 Nov 2026 21:06:25 GMT",
+        "published": "Mon, 23 Nov 2026 21:08:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVkRJdUt0LVhZdzVhR0RpSnN6RWh6cDdGQVhOUU9vNENLN0hnSXB1YXJFU01rMzZBaXhuelM3ODlra1hKdnRxcnYweGNRSmFmSEpnMzJSQWxkOXZqZVM3NjBrZ2UwQS1PQS12di1uaHFUQWJRZHE2aHhxMnlLcVJ5Z3owcXd2WTV4NFJQSUM0SWplUVA5bW80ZU9fdDYzV1Z5QnFvcW1kdlhPMW8xc2JRQnVJc19mZw?oc=5"
       },
       {
@@ -8670,6 +8672,12 @@
         "source": "Oil & Gas 360",
         "published": "Mon, 23 Nov 2026 20:38:07 GMT",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbWo4eGpJbWVlZGI1UFlOc1g2N0JyUnJHbU5BcV9GOFBfeTlQejRsYXRuS3o0S0U5V0NSTHYtZ0ZUcjNRNDlxN0FiSFpvSTdRMi1EZjMtcTNmMndWMnM2ZXZNZ1ZmdUR0NGpvUENkTzZjenZMNEdhNWtHUFZwekVpMUlkQUVEVGFEZlpB?oc=5"
+      },
+      {
+        "title": "Oil Futures Fall for Third Straight Week on Supply Outlook - WSJ",
+        "source": "WSJ",
+        "published": "Mon, 23 Nov 2026 20:26:25 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUVE3WWhmSEFMaFZmRkVRTHN5R1N0V3lLbmdYYWsyZ0QxSnRqaFdkcktIS1JqTk5RRTI0ODREZV9jcldqb3BpMzhmN3BUOWhRaDI1bGdnMG45VDRxNFU1YXN4X2hEd1Y4RTRLMkdabDU1T2p1cnRpT2R1VUY1UElIS1h3Q3NtdlpEMFpoaHB6bXh5LUNFakwyLUYwWF9KVG9YRmRKT2xwcVp4WkQtYnBucFV5WWFfbDY1dDRlWW9halQwclNac2tubV9vQQ?oc=5"
       }
     ]
   }
