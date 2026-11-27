@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T01:31:24+00:00",
+  "generated_at": "2026-11-27T09:07:08+00:00",
   "fx": {
     "nzd_per_usd": 1.827268,
     "as_of": "Fri, 27 Nov 2026 00:02:31 +0000"
@@ -8594,18 +8594,6 @@
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPendCM3FkN0tFMUlKMnJCaHA2cFZKdnhpQ3BidjU0WDc5VXpranNHZmEwdDFJUU9IZ3dqemdBRTBUT0NDOG9RWjVocUZjRndGRW41Nmw2eEJHZTVfa2tDQUxZcVZRWklYbEk1blIwRm9WdFR1Q0laMmUyMEFRVUNjUWw3aFpucmhmcVNCanBUTEx2d1NFandjSmlPenYxU2U4ZEZn?oc=5"
       },
       {
-        "title": "Maersk raises New Zealand intermodal fuel fee 23% from December 2026 - Data Portuaria",
-        "source": "Data Portuaria",
-        "published": "Tue, 24 Nov 2026 08:00:19 GMT",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZUhqZjltVTUxb0M4eXBIMWJYNFNTeDlvZHFXMEpaUGNQMm5ra0ctZmxBLUdIdElaRGdnWmd6TURPZHpwcWJ1VEtrc0dJQU5NRVM0bkFKRGxmWlBhT3BrY0EzLXFkMlVvVnQ4a3V4b0JnWW1nc2FObm80ODBYQ1hFb3FkT0Y0S1UyM29hNS1UbUZmQThScTNiLWs1X3k2eEZfQkp0LTM2eGFIdGJhMnhFSF90ZUhwbElvUl96cW5zelIyaloxMThkamR0c3k3UQ?oc=5"
-      },
-      {
-        "title": "Breman warns fuel costs could broaden inflation before rate call - NZ Advisor",
-        "source": "NZ Advisor",
-        "published": "Thu, 19 Nov 2026 08:45:16 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVVZXN3FaTVpiSEwyS1NldVU2YVlSMnFPOVpreDJRZmNZelFHYU9rZGFGSUpkcUdxV0FTQ05BSjNVZ1ZfRTRtQlNERDJLNHNJT1U2N196WGlseEk1SlN0MnZRaVJ1UnlVQTlQWTZzVUlNOHRFVEdTUnFMWDVxbU9VUGptNi1SckpEZ05HSzkwcHZQR2pvejkyZGk1V1J5RXQzVlRrc2ttLTh6U2tPRjBBSWstTk5PT1k5OGtN?oc=5"
-      },
-      {
         "title": "Petrol and diesel prices continue to surge according to new numbers - 1News",
         "source": "1News",
         "published": "Tue, 17 Nov 2026 08:00:00 GMT",
@@ -8628,56 +8616,68 @@
         "source": "NZ Herald",
         "published": "Mon, 26 Oct 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRk12NDBBZ0cxRXRGQ191dHBFcGNMd2JzVWY5VktUc19Ka21JcDlubFZUNXczRHlqbFZaTmFqQU1sQXZZNWdPT0x5azJwLWpzUnJHbVNIRXkxWElaY216MDViMFZ1NDIwV2Y3Q1VaOHFsa0xoTTNWVFk5TF9jOVl4V3VPUTZfbGJnT1dUclZPbDhPTHNvTmtzeTVPYjVrZFVZenlCRzYydU02d2h2Z1ZzT3RZckFTVXM0X3BMUF9nT0VPNmNuak5ZVVE4cjNMYTFQcEF3NlVuNERFWHpkSjVlZk4tQ0VQMTgyRF9OR3NB?oc=5"
+      },
+      {
+        "title": "Fuel, electricity & gas prices jump in September year, but not as much as onion prices - Interest.co.nz",
+        "source": "Interest.co.nz",
+        "published": "Fri, 16 Oct 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeVR4OGpNR1AzU1dsQ3NsbXd1ejI2Y2JtaWZaeXRMUXRxbXVld3V5clJtalFQMkxTeTNFcmRjQllCaW9XNjJPcUptRTRGREpMVmpBTVFaZ01EX0YzQXNqWTFzdUc2OHFuMV9oS1g2VlMxVmtScXRzbHItc0hWU0VNZFFEWVlmZTVfbzJuc2NSRXppN0t4blBOeTNpaTZocVFiMi1ZTlJ0V0NHVHlJZ1l2THYwSk5Xck44Y0FvWA?oc=5"
+      },
+      {
+        "title": "Who is cashing in as petrol prices hit record high at the pump - RNZ",
+        "source": "RNZ",
+        "published": "Mon, 12 Oct 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNEZ2eHlOOUVQTUJZT0Z1T3FpaHpqc0lWc0xvMUlpeVJaeFFmLTlQUlhTcXdpRVQ4SVBUWVJSNFM0ZkE1UWNnS2g2eTkzeGlQS0EtOHRIQ21tWWhGREREa1ZPVkdFTE1BNVNQRThPaFF2bXpyLThlZjhiU0oyTXkzQ2NsMzFodnNtZ0kzeGszVzhGazhTRHF6OU1JWGlzbVdkZVZic2xSZjAxQQ?oc=5"
       }
     ],
     "global": [
       {
-        "title": "Standard Chartered Oil Needs a New Shock to Fall Further - Crude Oil Prices Today | OilPrice.com",
+        "title": "Houthi Attack on Saudi Refinery Sparks Fresh Rally in Global Crude Oil Prices - ChemAnalyst",
+        "source": "ChemAnalyst",
+        "published": "Fri, 27 Nov 2026 08:48:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWWVENUxIX1NQQmtZZXRsamtWVTh3UTNPUndKWk5EazJzZTNYbkNvWWJydFRCN3I2YkYwRmZEVzhYYXBKTzRRUk1Ua21IUDgxalR6RmdTTHQ1TVp6dk91QkFaU3J4WnktZ1BLTk9FRXJHRHRWZDBDcGZKazZJNC15QldCTkNPTTJYeG1fVGdqa1Z5OVdrNzZoYm42dEliTXFVbTlPeHNvNXF0cUNremc?oc=5"
+      },
+      {
+        "title": "Iraq Delays Up to 30 Million Barrels of Crude Oil Shipments - Crude Oil Prices Today | OilPrice.com",
         "source": "Crude Oil Prices Today | OilPrice.com",
-        "published": "Fri, 27 Nov 2026 01:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV01La2hvS3NsNUpmRE5rMVJvT3hvYWlEVGhKZnN0a0Rta1FFNEVsby1LS2ExWjgzel9OaV9CeFBKazhmQWVvZE9aVGN6ZkJIbjh6R3ZEVWdaOWRMUV9FTFA1ak0tZU4zdmFlSHVIeXQ5dEQ5XzkzMTBuU3FfT1YyNzBzdG5xanVhM1NTQ2UyYmxoamZLVklZdU9YTlB3UDMwYmfSAacBQVVfeXFMTUNQSXVfOU55dEhmMlFCdV9tNklHRWpxOERxdXNQQ3pIWU80NDNDNmphckZ4REVHWTJBNVN5VjZHTExEaFFld0NxSnRuOXVyaDNvNDliVi1qY1ZCYU5qZFdxS2w4dEExRFludzR6RXV3bXY0d0p2NUFaajJDV3hISk1RRExHWExUODV6YTJTUGtSb2loVExNenhQc1FHSEJOWHdQUnNjS2M?oc=5"
+        "published": "Fri, 27 Nov 2026 08:30:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZmx4Rnp6emJjRGMzSGdrN3pQY3hyTExsbmx3bVFuNXBTeC1QczdTYlFtOUtsTFl4aEFVT3o3cFI1dnJqVzNfUkt3YnVYTUhKY3p2V1pVcVljMzliNTNKS0xWT3AyNE1HcDBtNGJ5aTBUbzlQNmhrWmFJbzdEUVQ1QWNTcHB0cWJTczIzZWtpYXpsYlZXcmRvcVZnWnprTW1yTnBTcmsybHpTQW96V056Q3lZc0VTUdIBuwFBVV95cUxQYzUydy0tczFPbFRvZlpxTkNiZFZTWXdVODlTQ2Z0N25ZaTlXRmthTnFOQVIzLUxnc0IyZFFCSHlOZ2ZtbHBzTkJHY2lFVGdBTHBQZndpcnZPcGdwLS00Qm52Nkl0dHYxXzMwbEhYSnFGNHlZT3dFSS11a2RtRjVDZEdaN3NwNEk5MldlRmoxeW9va2M5V1JsY3lnTDZCc21ISy1IeEFLSUtQT3pha1l0U3ljTnRHOF9RUWJZ?oc=5"
       },
       {
-        "title": "Brent gains 2.07% on 26 Nov as OPEC+ weighs 2027 quotas - Nation Thailand",
-        "source": "Nation Thailand",
-        "published": "Fri, 27 Nov 2026 00:36:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XRTQ5TUIzUUFzUW53ME9WamNoaXlkWGsxOHhhMnpyNl9kNmFqcThCTVdxY2dheU9RZXA1ajYyY0FlNnAzbG9EamcwMGo1MTdyeUhCUERycjNWc2VKSEZ3?oc=5"
+        "title": "Oil Prices Rise Ahead of OPEC+ Meeting as Middle East Supply Risks Persist - WSJ",
+        "source": "WSJ",
+        "published": "Fri, 27 Nov 2026 08:27:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTlk0cWFXc1dCWFZnYlZPbnBBNGtndk1USE5BM3dhd1RYNzNZdkJiYlNxWmtsLVoxa3FSR0FmNkdKaEVsaVZjYnYwaHl3QjVUbnpLcFpfUDRyenNXMjVFOVNEY083SG9rSTBLeHd4ZENhb1hBc0gtS3kyYzRQUU8xM1duaG51WHZjRFhRcXh5Y1FrdEk3WTIyMXFhdGw3ZzliWjc3RkJDVGZYT252YXRZRTd2Y3RXY2wwbWVVNEREWQ?oc=5"
       },
       {
-        "title": "Middle East Oil Supply Stabilizes, Refineries Run Full Out as Diesel and Gasoline Refining Margins Plunge to Multi-Month Lows - BigGo Finance",
-        "source": "BigGo Finance",
-        "published": "Fri, 27 Nov 2026 00:35:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WNHVtbmQ1a0o1R1poMFlWVTNTRlFjTS1vQ0JpYVhTczBPV1AxOTVfTE9XR2NrSkNGM21SMXpzX2tQd2Q4bVhSNHpndnJRV1U1RmZtOGdjVUdxLXNrYjcwdWdPSzZlOG9nZmJfX2JScGJBc0pSaGc?oc=5"
+        "title": "Oil prices rise after tankers hit mines in Strait of Hormuz - Middle East Monitor",
+        "source": "Middle East Monitor",
+        "published": "Fri, 27 Nov 2026 08:15:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN2hhSTBzMENLWDVFMGIwSTdHalRucUFLSmJBb1pSS2tVN1I1ZUh4T2NRVlg4aEtrM3Y0UW1nTEQ2akV6S2lHbG9VMnZERUtWcnZHMjJaRDRrV09LaVd3cHpFZXo2b0JxUmhXUU9pblotaGFSeEUwQjJrQlk2RFNjNFNXaDV6emNLUmhTbkVlMUFOWjRVMi1QOGVLcm8zaHpqcEpwTGR30gGrAUFVX3lxTE5SWUJZbE5uVW9FSFNLSXpWWGIwdVhua3BiRFVadUg5RjBBYlgtN3UzQlBWM2VkeGxPUVdXS0tRR1dYLWVTY2hzQnBOWEhwVWt6NlF4SGpYdjk0Vlp5cWs1QnF2ZThDOUFtQTVHSGZmVkNhLW9VNllyQkxJdVdsT0NWZWhZTWlLcFhQaWl3TWxTdWF0a1RzTjBheEVOWTFYQUtlbmVpLWZFcXZpdw?oc=5"
       },
       {
-        "title": "Brent Crude Hits $96.57 After Houthi Claim on Saudi Refinery: Key Numbers - Around Prague",
-        "source": "Around Prague",
-        "published": "Thu, 26 Nov 2026 23:56:16 GMT",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNVZhY0Y0X3MxUXhNeFRzZmpwd0dfQTZoTlQ4MlY1S2p6SXFiWGhlaUNiNFJ2UG81cUxYVFhTS3lhZHpKXzN6RWgzTjJiVmx5Uk81alFQRFJ5by1QTEVfVzluYlp3ZXVtMnk5Z2c5WDcxOUhhN0lBMHZHMG5vOFpERVNuUFgtMGpjQlhKMThxd3AtbjNpTm9vMF9rRDRMUzE0ZWF5RGJvWjdfSkd4RXhKdA?oc=5"
+        "title": "Oil Prices Near November High As Middle East Attacks Threaten Global Supply - Arise News",
+        "source": "Arise News",
+        "published": "Fri, 27 Nov 2026 07:41:15 GMT",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa2szVE9Qa3hRaFhIUmF1eHRLeklhVFE3U1hsMmhfbHNCYW01TmxiakozNW1qMWNfUTlOa2s3OU8tYVpFSFd3djMtd1dObmdxZDBFVHB4ZmpCRmp2MEwydWJQOENONllRd2x2dWt0RjlPSTFHUEhoY200bU1mN3JrOTFidC1tSUNrXzdmLW5XTWRLOFNUQ0lZOS1RVXpqdw?oc=5"
       },
       {
-        "title": "Oil prices rise as an attack on Saudi Arabia's Jazan refinery kills a worker - Startup Fortune",
-        "source": "Startup Fortune",
-        "published": "Thu, 26 Nov 2026 23:43:56 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV0pLbDZjUEk0YW5sMnhXTXAzLVdqcEltZXVYNFFsdVBiODJuU1lSMUR6ZzJnSlRzRkhLczVSTFdHWEktM2FkSENNTldyZkRBUnJ1SlRLYlpsNmxVTW1PMy0zVVRRY1dmdjV6dWxhTnYzbjFxeHZ3ODIweXhKUkFPbU9scHFKbVlqTEdrdmtYODZ4ZU1SdlA4cTJ6Y3J3WnhFdFdYa2Jn?oc=5"
+        "title": "Oil breaks a three-week price decline — what is the reason - Українські Національні Новини (УНН)",
+        "source": "Українські Національні Новини (УНН)",
+        "published": "Fri, 27 Nov 2026 07:08:28 GMT",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdkd4SnRCZm9nSG9lVnd2ME5yX25uRk5CejJ6RlA3SU5CckpxT1hzS0FHMlZVb1BCeTJxVEVQUG1MQzdTbzN5ek1MYkFUb0RndmlpamVMd08tYVlLa3duZ3YwM2lLclM5V3Q3ZkcxblRlS3Frb1BxdVNQX2ZXWTVmZHVCRVFBQdIBhAFBVV95cUxOUnF5UnpEQTJqOE5UdG9Hb2NhTkVFcTJ6WkxlaXJSajE3Z1g5ZDVUUXpXYjFMekhpNThJeEowbWp5WGhyMkVqbnJ4eXFpbGp2V0kxN1hRdy1VUGE0M3ZVRjJkM2pvZ3FRYXQ4aW4xMW9rQW1vSVY2T0VaSFMxdG9mS0FUbk4?oc=5"
       },
       {
-        "title": "WTI Price Forecast: Bullish Breakout Opens Path Toward $93 - FXEmpire",
+        "title": "Oil on track to snap 3-week losing streak over supply fears - Arab News",
+        "source": "Arab News",
+        "published": "Fri, 27 Nov 2026 07:03:04 GMT",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRzA5TjBKVkdGakMyTFJMMkgzWnRpRTh2RHEwNjByWUU1QndaeWRGQkpFZHg2SU1MWnFvYW9ENFhDcC1FUm85MU9JQThRMktROXlTcWV6dktORGptSXdBT2RtWVNPTElCZjJPZTdvM1Y1M25Td2ZVZ1ctSXo2ZkFnNG43NFFWU3NnM19iWVY4RTdXWUR4ZVdLR2cwWkQ0LXdy?oc=5"
+      },
+      {
+        "title": "Natural Gas and Oil Forecast: OPEC+ Capacity Fight Looms, Can Brent Clear $95.55? - FXEmpire",
         "source": "FXEmpire",
-        "published": "Thu, 26 Nov 2026 22:13:38 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeHlGM3ZEaGF6Sk5NZHh1ZUpLV2RiWDh1SWtCbEtDdmVyWXVLdkR2a1JBVFhycTdRWFVoWEpqc3I3Xzg1aUo4RnBpRU1kOHc2TzNzaUZNaElTZmZLRTE2SExQa0FCT1psdjVOaHJCU0NlNGFYZDBIaWJjSG5mckI1Z1hjakpxc2d3UmFJZENIZ0pGc2NTeGQ3bnkyQi1ZWmZwZXZXdkVFRzdTVXM?oc=5"
-      },
-      {
-        "title": "Houthi Claims Strike on Saudi Arabia's Largest Refinery; Brent Crude Settles at $96.57 a Barrel - BigGo Finance",
-        "source": "BigGo Finance",
-        "published": "Thu, 26 Nov 2026 20:25:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BZllNNmt1WllIdDNWTWdjRjVHWVJaNTdEZ0ZhX0NPQ2xiV2dmZHFNQUQ4ZFZPTnVCWnVJZDhrdExWWjBJeVhEZ1I2XzAzWFdVTURxb205cTlvRkQ3M3dnb0JFei1qLTR5eWE3bVB0QjRsRk80dFE?oc=5"
-      },
-      {
-        "title": "Despite market disruptions, is an oil glut on the way? - Marketplace.org",
-        "source": "Marketplace.org",
-        "published": "Thu, 26 Nov 2026 19:06:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdXA5UTk5UFpIc2pxUWo3SmNiVTlFd0JNblJSTV8xRTBKQ3RNM1RHckR1ZnpHamFmSHQ2TW83VXNNNG5QM19yN0ozalRXalBHME5VMEJxSVZvalZFN0ZXQldOTXpFMngxY2RYeTk2aDYzY3hwOXkxbVZhdmRHQW83Y2F0RExFTXVtMFBJ?oc=5"
+        "published": "Fri, 27 Nov 2026 06:48:31 GMT",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSm80UzF1RldyYmpsWFhzNUp6YW12cjQ2S05lQ1lYNFhyVzVmdENOQlhPQnEtUHRaRmtNMnN3WTFXMjJJaWdpb3kwZmNuTDl0T3RBTl9mR2JjYUJRSkRYRmJCdjFMU1RSbXFSOG41N1NWUmczaklOZlptcGR2LU5xYXRHb2p6VlhVM1lDbjJuWHdINXVaTDdIUjYyaVl4UG14aXd3a3VJWHRLUTRuUUpCTEo5UlpJRDBZbEFfc2hsSWRpclM4eUE?oc=5"
       }
     ]
   }
