@@ -1,20 +1,16 @@
 {
-  "generated_at": "2026-11-27T00:30:52+00:00",
+  "generated_at": "2026-11-27T01:31:24+00:00",
   "fx": {
-    "nzd_per_usd": 1.826291,
-    "as_of": "Wed, 25 Nov 2026 00:02:31 +0000"
+    "nzd_per_usd": 1.827268,
+    "as_of": "Fri, 27 Nov 2026 00:02:31 +0000"
   },
   "crude": {
     "brent": {
-      "latest": 90.97,
-      "latest_date": "2026-11-26",
-      "delta_1d_pct": -0.47,
-      "delta_30d_pct": -14.23,
+      "latest": 92.0,
+      "latest_date": "2026-11-27",
+      "delta_1d_pct": -2.76,
+      "delta_30d_pct": -13.14,
       "series": [
-        {
-          "date": "2025-11-25",
-          "usd": 62.48
-        },
         {
           "date": "2025-11-26",
           "usd": 63.13
@@ -1016,21 +1012,21 @@
           "usd": 91.4
         },
         {
-          "date": "2026-11-26",
-          "usd": 90.97
+          "date": "2026-11-25",
+          "usd": 94.61
+        },
+        {
+          "date": "2026-11-27",
+          "usd": 92.0
         }
       ]
     },
     "wti": {
-      "latest": 84.2,
-      "latest_date": "2026-11-26",
-      "delta_1d_pct": 2.62,
-      "delta_30d_pct": -11.45,
+      "latest": 85.32,
+      "latest_date": "2026-11-27",
+      "delta_1d_pct": 1.96,
+      "delta_30d_pct": -12.91,
       "series": [
-        {
-          "date": "2025-11-25",
-          "usd": 57.95
-        },
         {
           "date": "2025-11-26",
           "usd": 58.65
@@ -2032,46 +2028,50 @@
           "usd": 82.05
         },
         {
-          "date": "2026-11-26",
-          "usd": 84.2
+          "date": "2026-11-25",
+          "usd": 83.68
+        },
+        {
+          "date": "2026-11-27",
+          "usd": 85.32
         }
       ]
     }
   },
   "nz_retail": {
-    "as_of": "2026-11-26",
+    "as_of": "2026-11-27",
     "regular_91": {
-      "avg": 3.131,
-      "min": 2.816,
-      "max": 3.549,
-      "count": 90
+      "avg": 3.104,
+      "min": 2.696,
+      "max": 3.95,
+      "count": 95
     },
     "premium_95": {
-      "avg": 3.335,
-      "min": 3.006,
-      "max": 3.799,
-      "count": 57
+      "avg": 3.28,
+      "min": 2.876,
+      "max": 3.619,
+      "count": 61
     },
     "premium_98": {
-      "avg": 3.471,
-      "min": 3.319,
-      "max": 3.799,
-      "count": 14
+      "avg": 3.395,
+      "min": 3.246,
+      "max": 3.621,
+      "count": 12
     },
     "diesel": {
-      "avg": 2.9,
-      "min": 2.596,
+      "avg": 2.845,
+      "min": 2.49,
       "max": 3.999,
-      "count": 99
+      "count": 96
     },
     "lpg": {
-      "avg": 2.639,
-      "min": 1.999,
-      "max": 3.279,
-      "count": 2
+      "avg": 0.0,
+      "min": 0.0,
+      "max": 0.0,
+      "count": 0
     },
-    "observations_today": 220,
-    "observations_yesterday": 29,
+    "observations_today": 219,
+    "observations_yesterday": 32,
     "observations_older": 13
   },
   "mbie_waterfall": {
@@ -8600,37 +8600,55 @@
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZUhqZjltVTUxb0M4eXBIMWJYNFNTeDlvZHFXMEpaUGNQMm5ra0ctZmxBLUdIdElaRGdnWmd6TURPZHpwcWJ1VEtrc0dJQU5NRVM0bkFKRGxmWlBhT3BrY0EzLXFkMlVvVnQ4a3V4b0JnWW1nc2FObm80ODBYQ1hFb3FkT0Y0S1UyM29hNS1UbUZmQThScTNiLWs1X3k2eEZfQkp0LTM2eGFIdGJhMnhFSF90ZUhwbElvUl96cW5zelIyaloxMThkamR0c3k3UQ?oc=5"
       },
       {
+        "title": "Breman warns fuel costs could broaden inflation before rate call - NZ Advisor",
+        "source": "NZ Advisor",
+        "published": "Thu, 19 Nov 2026 08:45:16 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVVZXN3FaTVpiSEwyS1NldVU2YVlSMnFPOVpreDJRZmNZelFHYU9rZGFGSUpkcUdxV0FTQ05BSjNVZ1ZfRTRtQlNERDJLNHNJT1U2N196WGlseEk1SlN0MnZRaVJ1UnlVQTlQWTZzVUlNOHRFVEdTUnFMWDVxbU9VUGptNi1SckpEZ05HSzkwcHZQR2pvejkyZGk1V1J5RXQzVlRrc2ttLTh6U2tPRjBBSWstTk5PT1k5OGtN?oc=5"
+      },
+      {
+        "title": "Petrol and diesel prices continue to surge according to new numbers - 1News",
+        "source": "1News",
+        "published": "Tue, 17 Nov 2026 08:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMG1BOVNzOWJQM2YxWmx5eEswQW5GQ1UyT2tZQ1JHOUJqZm9faUdvdUVaeGhjbXBuSDVUenpZbkNPaDhfNWc4eHRlakFMeVJrNXR0U0N2ZEZDeWxPVTVFWTlieUExeVVNNGhham9NeHVPeXd4SldWcU9pMktTS3k5NEtZVEVPYUFteVdtUFJpWC1DX1g2eHhRSkxSNkxYbVJsa0htQ2dn?oc=5"
+      },
+      {
+        "title": "US midterms send Brent oil down 9%: what it means for NZ - B2B News",
+        "source": "B2B News",
+        "published": "Thu, 05 Nov 2026 08:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMkllajRuTENIeWJmb1IxdGZzM1FzTFFoQTBhai1VSHVBdDNhMXg2Tk4wMFAtZW5BdUw1bGluUk96amM0N1FLeFZvQW9wQ1hZWkhUSkxEVnpMdlowQjZEQ21VNkdQQVQ4d29xMkJqazRfMElneWxaVTNEZVV5MmRXQk9GWkVjckJuX0ptdmU0MGVISEtF?oc=5"
+      },
+      {
         "title": "NZ facing fourth-largest increase in fuel costs - RNZ",
         "source": "RNZ",
         "published": "Fri, 30 Oct 2026 07:00:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZzZlbjIyd29LQlRTX2tCdUYzUzJvWHA2U2NUX0xxelFZODA1ZW5FM0dqam9iUE0xeW1EUUp6WGJSc3BKLXFzZnFBRTZVMGVSbjZ0amJFSDNVaVVTRVFxbU1nUExaNFFGbS1aTFJGS2RLdW1XUmZCM0R5OWo0cngzLXZmUFNobEY2eFVURWRPTF94ZGx2SHc?oc=5"
       },
       {
-        "title": "Who is cashing in as petrol prices hit record high at the pump - RNZ",
-        "source": "RNZ",
-        "published": "Mon, 12 Oct 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNEZ2eHlOOUVQTUJZT0Z1T3FpaHpqc0lWc0xvMUlpeVJaeFFmLTlQUlhTcXdpRVQ4SVBUWVJSNFM0ZkE1UWNnS2g2eTkzeGlQS0EtOHRIQ21tWWhGREREa1ZPVkdFTE1BNVNQRThPaFF2bXpyLThlZjhiU0oyTXkzQ2NsMzFodnNtZ0kzeGszVzhGazhTRHF6OU1JWGlzbVdkZVZic2xSZjAxQQ?oc=5"
-      },
-      {
-        "title": "Fuel price hits tipping point - RNZ",
-        "source": "RNZ",
-        "published": "Wed, 07 Oct 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzdkgyU3AxbmZXWUpsd1R4R2pzVDVXNlUzSlQ1ZmFKdk9VSmRMdzNRZW1LY1ZDT3NoZWRzUDB0X1h5RlR0MFNQWU5wdlBaTjJXMFVHZ2tsMFBucEdCdnAwYVV4aDFhQXIzTi1iaHdybGZrQXFxNVN4dVMtRnV4UQ?oc=5"
-      },
-      {
-        "title": "Petrol price hits all-time-high as average litre of 91 tops $3.50 - 1News",
-        "source": "1News",
-        "published": "Mon, 05 Oct 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV081OVF5QWx6eUJ1aVFfcW5ucTY5ZkE3QjZoOXlKbjNzYjJKYlQwM1Qwc2RSNEJrbWdiVVhtNVBCWFdNV0JpeTFPUnFjMU9OangteUdVRTkwaW5uY2ZMVzJYenN0ampSZV8teThBQi1vVjFqYVp2N0FWekQ1RzV6SExfN3JWTFFSRVdvS0hwak84SmJPOGh4Sk5xdExwQW9P?oc=5"
-      },
-      {
-        "title": "What's going on with fuel prices? - RNZ",
-        "source": "RNZ",
-        "published": "Fri, 25 Sep 2026 07:00:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdFBnUVBLVnZCLXo0VjFxalBZYWI1OG1TTlpqN1RGdjNWWkFuMHNkREN1MUlXTDVUNDJwV191NFdQbzVlTWhpRk5ZTU9oR3hnSkhqdjM0REdJT2xKblctTTNYOXQ5LW5XYW1wUTJPYXJrbWJEeDhKTEFxZXpxMHhfTjY1Sl9wRDhHNUs1WQ?oc=5"
+        "title": "Air New Zealand's '$6.8m-a-day' problem - NZ Herald",
+        "source": "NZ Herald",
+        "published": "Mon, 26 Oct 2026 07:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRk12NDBBZ0cxRXRGQ191dHBFcGNMd2JzVWY5VktUc19Ka21JcDlubFZUNXczRHlqbFZaTmFqQU1sQXZZNWdPT0x5azJwLWpzUnJHbVNIRXkxWElaY216MDViMFZ1NDIwV2Y3Q1VaOHFsa0xoTTNWVFk5TF9jOVl4V3VPUTZfbGJnT1dUclZPbDhPTHNvTmtzeTVPYjVrZFVZenlCRzYydU02d2h2Z1ZzT3RZckFTVXM0X3BMUF9nT0VPNmNuak5ZVVE4cjNMYTFQcEF3NlVuNERFWHpkSjVlZk4tQ0VQMTgyRF9OR3NB?oc=5"
       }
     ],
     "global": [
+      {
+        "title": "Standard Chartered Oil Needs a New Shock to Fall Further - Crude Oil Prices Today | OilPrice.com",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "published": "Fri, 27 Nov 2026 01:00:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV01La2hvS3NsNUpmRE5rMVJvT3hvYWlEVGhKZnN0a0Rta1FFNEVsby1LS2ExWjgzel9OaV9CeFBKazhmQWVvZE9aVGN6ZkJIbjh6R3ZEVWdaOWRMUV9FTFA1ak0tZU4zdmFlSHVIeXQ5dEQ5XzkzMTBuU3FfT1YyNzBzdG5xanVhM1NTQ2UyYmxoamZLVklZdU9YTlB3UDMwYmfSAacBQVVfeXFMTUNQSXVfOU55dEhmMlFCdV9tNklHRWpxOERxdXNQQ3pIWU80NDNDNmphckZ4REVHWTJBNVN5VjZHTExEaFFld0NxSnRuOXVyaDNvNDliVi1qY1ZCYU5qZFdxS2w4dEExRFludzR6RXV3bXY0d0p2NUFaajJDV3hISk1RRExHWExUODV6YTJTUGtSb2loVExNenhQc1FHSEJOWHdQUnNjS2M?oc=5"
+      },
+      {
+        "title": "Brent gains 2.07% on 26 Nov as OPEC+ weighs 2027 quotas - Nation Thailand",
+        "source": "Nation Thailand",
+        "published": "Fri, 27 Nov 2026 00:36:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XRTQ5TUIzUUFzUW53ME9WamNoaXlkWGsxOHhhMnpyNl9kNmFqcThCTVdxY2dheU9RZXA1ajYyY0FlNnAzbG9EamcwMGo1MTdyeUhCUERycjNWc2VKSEZ3?oc=5"
+      },
+      {
+        "title": "Middle East Oil Supply Stabilizes, Refineries Run Full Out as Diesel and Gasoline Refining Margins Plunge to Multi-Month Lows - BigGo Finance",
+        "source": "BigGo Finance",
+        "published": "Fri, 27 Nov 2026 00:35:00 GMT",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WNHVtbmQ1a0o1R1poMFlWVTNTRlFjTS1vQ0JpYVhTczBPV1AxOTVfTE9XR2NrSkNGM21SMXpzX2tQd2Q4bVhSNHpndnJRV1U1RmZtOGdjVUdxLXNrYjcwdWdPSzZlOG9nZmJfX2JScGJBc0pSaGc?oc=5"
+      },
       {
         "title": "Brent Crude Hits $96.57 After Houthi Claim on Saudi Refinery: Key Numbers - Around Prague",
         "source": "Around Prague",
@@ -8660,24 +8678,6 @@
         "source": "Marketplace.org",
         "published": "Thu, 26 Nov 2026 19:06:00 GMT",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdXA5UTk5UFpIc2pxUWo3SmNiVTlFd0JNblJSTV8xRTBKQ3RNM1RHckR1ZnpHamFmSHQ2TW83VXNNNG5QM19yN0ozalRXalBHME5VMEJxSVZvalZFN0ZXQldOTXpFMngxY2RYeTk2aDYzY3hwOXkxbVZhdmRHQW83Y2F0RExFTXVtMFBJ?oc=5"
-      },
-      {
-        "title": "Middle East Oil Price War Heralds Post-Conflict Glut: Bousso - EnergyNow.com",
-        "source": "EnergyNow.com",
-        "published": "Thu, 26 Nov 2026 18:58:04 GMT",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdDAtNEN2TjAzSWowV2NvODJVTC1rZS1WYUVXU3NvVXpOb2F6T3oxTW14TDFJeG9sakNkSkNHR0FUdXVyM3FTZzQ3VU1SVXJhbHNOOF82V012Qk9XYUF3MS1CREdtWnZVNjU5MUszdTN1WXhpUGkyVk14QUtsZlAxc2RBSVlPQVVfUURWRzFFaWhYcHAy?oc=5"
-      },
-      {
-        "title": "West of Suez: Brent extends rebound, EBOB cracks hit 4-yr low - Quantum Commodity Intelligence",
-        "source": "Quantum Commodity Intelligence",
-        "published": "Thu, 26 Nov 2026 18:36:55 GMT",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZmhtSllFMzJPVTduU3dTWngwQmdwS0RNaHZYejgtZHpaV3dkaDNDRFFpSzd0cS1idlR2ajlfcWFXdUhQUmRkTmRWV2x5bHRuX083ODhlakpZbkU4VUpvSF9VNnN4OXVRWE9OZk5kM3V2WTVtVzgyc200a3BIZGVHWWplTXhIVHZYOGh2MU1YQjJROUFLS3k0TjdLYm0wd1Y2elhYLQ?oc=5"
-      },
-      {
-        "title": "OPEC: Loss of Russian oil supplies could be almost impossible to replace - oEnergetice.cz",
-        "source": "oEnergetice.cz",
-        "published": "Thu, 26 Nov 2026 18:13:00 GMT",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHR5UWZ5azdrTEtaZGduZ29XS0VsRjNqSUF2R0V4OTc2MlBoSlFlYVhfX1JyaHAzSWE4ZTNmZWRac0pPQkRTUFB2SVU2dk9vT2RkdE9KTUlUaHB2OUdxUnhyOGgxQk9UcDg4MGZURndEMm42UUw4cWJuTXV1dEJIdHZrQ2VlYVR5Q2tWZl9QaGVxLU5Ed0RYdlB6c1FkaEpnRUhr?oc=5"
       }
     ]
   }
